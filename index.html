@@ -5,36 +5,172 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>1001 Noches Salvajes</title>
+  <style>
+    @font-face {
+      font-family: 'Tulpen One';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(./assests/fonts/TulpenOne-Regular.ttf) format('truetype');
+    }
+
+    :root {
+      --color-sand: #C2B280;
+      --color-sunset: #FF5733;
+      --color-gold: #FFC300;
+      --color-old-gold: #cfb53b;
+      --margin: 35px;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    body > section {
+      background-color: var(--color-sand);
+      margin: auto;
+    }
+
+    @media (min-width: 900px) {
+      body>section {
+        max-width: calc(100vh * 0.7);
+        padding: 0px;
+      }
+    }
+
+    h1, h2, h3 {
+      font-family: 'Tulpen One';
+      font-weight: 400;
+    }
+
+    h1 {
+      font-size: 4em;
+      margin: 0;
+      text-align: center;
+      color: white;
+      text-shadow: 0 0 5px black;
+      letter-spacing: 2px;
+    }
+
+    h1 {
+      height: 60vh;
+      display: flex;
+      flex-direction: column;
+      align-content: stretch;
+      align-items: stretch;
+      flex-wrap: wrap;
+      justify-content: center;
+      background: black none center center no-repeat;
+      background-size: cover;
+      margin-bottom: var(--margin);
+   }
+
+   h2 {
+    font-size: 3em;
+    color: white;
+    text-shadow: 0 0 4px black;
+    text-align: center;
+   }
+
+   h3 {
+    font-size: 2em;
+   }
+
+   section > p,
+   section > ul,
+   section > blockquote,
+   section > h2,
+   section > h3 {
+    padding: 0 0 calc(var(--margin) / 2) 0;
+    margin: 0 var(--margin) ;
+   }
+
+   section > blockquote {
+    font-style: italic;
+    border : 1px solid red;
+    padding: 20px;
+    margin-bottom: calc(var(--margin) / 2);
+   }
+
+   section:nth-of-type(1) > h1 {
+    background-image: url(./assests/images/scheherazade-schariar.jpg);
+   }
+  </style>
 </head>
 <body>
-  <h1>Las Mil y Una Noches</h1>
-  <h2>Reglas y conceptos básicos antes de empezar.</h2>
-  <p>Hay una serie de conceptos que creo que son importantes para que tus aventuras tenga el 
-    toque de las 1001 noches. Es por ello que en esta ambientación como contador de historias 
-    no seras un master o un director de juego sino Scheherazade y las personas de tu mesa serán 
-    los shahriars, en referencia al sultán al que Scheherazade le contaba cada noche un cuento.</p>
-  <p>Como Scheherazade todas tus sesiones deberían empezar con:</p>
-  <blockquote>Pero cuando llego la X.ª noche ella dijo: He llegado á saber, ¡oh rey afortunado! que ...</blockquote>
-  <p>Es importante que lleves la cuenta del número de sesión o si no invéntatela. Deberías acabar con:</p>
-  <blockquote>En este momento de su narración, Scheherazade vió aparecer la mañana,
-    y se calló discretamente.</blockquote>
-  <p>Todos los lugares, los objetos y los seres de esta ambientación están referencias al título del cuento 
-    y el número de noche donde se mencionan.</p>
-  <h1>Seres y monstruos de las 1001 noches</h1>
-  <p>***</p>
-  <h2>Yinns</h2>
-  <p>***</p>
-  <h3>Ifrit</h3>
-  <p>***</p>
-  <h2>Ruc</h2>
-  <p>***</p>
-  <h1>Lugares míticos</h1>
-  <p>***</p>
-  <h2>El valle de los diamantes</h2>
-  <p>***</p>
-  <h2>Las islas Al-Wakwak</h2>
-  <p>***</p>
-  <h1>Cuentos salvajes</h1>
-  <p>***</p>
+  <section>
+    <h1>Las Mil y Una Noches</h1>
+    <h2>Reglas y conceptos básicos antes de empezar</h2>
+    <p>Hay una serie de conceptos que creo que son importantes para que tus aventuras tenga el 
+      toque de las 1001 noches. Es por ello que en esta ambientación como contador de historias 
+      no seras un master o un director de juego sino Scheherazade y las personas de tu mesa serán 
+      los shahriars, en referencia al sultán al que Scheherazade le contaba cada noche un cuento.</p>
+    <p>Como Scheherazade todas las primeras sesiones de un cuento salvaje deberían empezar con:</p>
+    <blockquote class="styleOne">Y Scheherazade dijo: ¡oh rey afortunado! Creo que ha llegado el momento de 
+      contaros la historia de "Título del cuento salvaje"</blockquote>
+    <blockquote>Y Scheherazade dijo:  No creas ¡oh rey afortunado! que ninguna historia 
+      es comparable a  "Título del cuento salvaje"</blockquote>
+    <p>El resto de sesiones deberían empezar con:</p>
+    <blockquote>Pero cuando llego la X.ª noche ella dijo: He llegado á saber, ¡oh rey afortunado! que ...</blockquote>
+    <p>Es importante que lleves la cuenta del número de sesión o si no invéntatela.</p>
+    <p>Deberías acabar con cada sesión:</p>
+    <blockquote>En este momento de su narración, Scheherazade vió aparecer la mañana,
+      y se calló discreta.</blockquote>
+    <p>Los cuentos deberían acabar con frases tales como:</p>
+    <blockquote></blockquote>
+    <p>Todos los lugares, los objetos y los seres de esta ambientación están referencias al título del cuento 
+      y el número de noche donde se mencionan.</p>
+  </section>
+  <section>
+    <h1>Seres y monstruos de las 1001 noches</h1>
+    <p>***</p>
+    <h2>Yinns</h2>
+    <p>***</p>
+    <h3>Ifrit</h3>
+    <p>***</p>
+    <h2>Ruc</h2>
+    <p>***</p>
+  </section>
+  <section>
+    <h1>Lugares míticos</h1>
+    <p>***</p>
+    <h2>El valle de los diamantes</h2>
+    <p>***</p>
+    <h2>Las islas Al-Wakwak</h2>
+    <p>***</p>
+    <h2>La ciudad de bronce</h2>
+    <p>***</p>
+  </section>
+  <section>
+    <h1>Cuentos salvajes</h1>
+    <p>***</p>
+  </section>
+  <section>
+    <h1>Cuentos salvajes</h1>
+    <p>***</p>
+  </section>
+  <section>
+    <h1>Epílogo</h1>
+    <h2>Licencias de uso</h2>
+    <p>***</p>
+    <h3>Imágenes</h3>
+    <ul>
+      <li><a href="https://es.m.wikipedia.org/wiki/Archivo:Ferdinand_Keller_-_Scheherazade_und_Sultan_Schariar_%281880%29.jpg">scheherazade-schariar.jpg</a> 
+        por <a href="https://es.wikipedia.org/wiki/Ferdinand_Keller">Ferdinand Keller</a></li>
+    </ul>
+    <h3>Fuentes</h3>
+    <ul>
+      <li><a href="https://www.fontspace.com/hidayatullah-font-f57668">Hidayatullah</a> 
+        por <a href="https://www.fontspace.com/artoni">ARToni</a></li>
+    </ul>
+
+    https://codepen.io/alittleredpanda/pen/KJYRLR?editors=1100
+</section>
 </body>
 </html>
