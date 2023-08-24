@@ -6,3 +6,4 @@ de los cuentos que Scheherazade conto al sultán Shahriar durante 1001 noches.
 
 ### 0.1 En desarrollo
 * Conceptos básicos y estructura general
+* Diseño Básico y CSS
