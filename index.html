@@ -4,8 +4,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>1001 Noches Salvajes</title>
+  <title>Mil y Una Noches Salvajes - Savage Worlds RPG</title>
+  <meta name="theme-color" content="#16a085">
+  <title>Mil y Una Noches Salvajes - Ambientación de Savage Worlds para poder jugar aventuras de las Mil y Una Noches</title>
+  <meta name="description"
+    content="Mil y Una Noches Salvajes es una ambientación de Savage Worlds Edición Aventura para poder jugar aventuras de las Mil y Una Noches. Versión 0.1">
+  <meta property="og:title"
+    content="¡Arrr! Cthulhu - Aventuras de piratas en el Caribe de los mitos de Cthulhu. Versión 0.7">
+  <meta property="og:description"
+    content="Mil y Una Noches Salvajes Salvajes es una ambientación de Savage Worlds Edición Aventura para poder jugar aventuras de las Mil y Una Noches. Versión 0.1">
+  <meta property="og:image" content="https://arrrcthulhu.com/images/metas.png">
   <style>
+    a,
+    a:visited {
+      color: black;
+    }
+
     @font-face {
       font-family: 'Tulpen One';
       font-style: normal;
@@ -19,6 +33,7 @@
       --color-sunset: #FF5733;
       --color-gold: #FFC300;
       --color-old-gold: #cfb53b;
+      --color-emerald:#16a085;
       --margin: 35px;
     }
 
@@ -35,9 +50,10 @@
     body > section {
       background-color: var(--color-sand);
       margin: auto;
+      width: 100%;
     }
 
-    @media (min-width: 900px) {
+    @media (min-width: calc(100vh * 0.7)) {
       body>section {
         max-width: calc(100vh * 0.7);
         padding: 0px;
@@ -49,7 +65,7 @@
       font-weight: 400;
     }
 
-    h1 {
+    h1:not(section:last-of-type h1):not(section:first-of-type h1) {
       font-size: 4em;
       margin: 0;
       text-align: center;
@@ -58,7 +74,7 @@
       letter-spacing: 2px;
     }
 
-    h1 {
+    h1:not(section:last-of-type h1):not(section:first-of-type h1) {
       height: 60vh;
       display: flex;
       flex-direction: column;
@@ -66,12 +82,14 @@
       align-items: stretch;
       flex-wrap: wrap;
       justify-content: center;
-      background: black none center center no-repeat;
+      background: black center center no-repeat;
       background-size: cover;
       margin-bottom: var(--margin);
     }
 
-    h2 {
+    h2,
+    section:first-of-type > div > h1,
+    section:last-of-type > div > h1 {
       font-size: 3em;
       color: white;
       text-shadow: 0 0 4px black;
@@ -86,9 +104,16 @@
     section > ul,
     section > blockquote,
     section > h2,
-    section > h3 {
+    section > h3,
+    section > ol,
+    section > ul {
       padding: 0 0 calc(var(--margin) / 2) 0;
       margin: 0 var(--margin) ;
+    }
+
+    section > ol,
+    section > ul {
+      list-style-position: inside;
     }
 
     section > blockquote {
@@ -98,9 +123,50 @@
       padding: 20px;
       margin-bottom: calc(var(--margin) / 2);
     }
+
+    section:first-of-type {
+      background-color: black;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    section:first-of-type > div {
+      text-align: center;
+      color: white;
+    }
+
+    section:first-of-type > div > h1 {
+      font-size: 5em;
+      color: white;
+    }
+
+    section:first-of-type img {
+      width: 150px;
+      height: 100px;
+      margin: 0 0 30px 0;
+    }
+
   </style>
 </head>
 <body>
+  <section>
+    <div>
+      <h3>Ambientación para SWADE</h3>
+    </div>
+    <div>
+      <h1>Mil y Una Noches Salvajes</h1>
+      <h2>Aventuras en los cuentos de las Mil y Una Noches</h2>
+      <p>Ver. 0.1</p>
+    </div>
+    <div>
+      <img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle" style="width: 150px; height: 100px;">
+    </div>
+  </section>
+  <div class="saltopagina"></div>
+  <div class="saltopagina"></div>
   <section>
     <h1>Las Mil y Una Noches</h1>
     <h2>Toques de ambientación</h2>
@@ -139,7 +205,7 @@
   <div class="saltopagina"></div>
   <section>
     <h1>Seres y monstruos de las 1001 noches</h1>
-       <!-- https://en.wikipedia.org/wiki/Category:Arabian_legendary_creatures -->
+    <!-- https://en.wikipedia.org/wiki/Category:Arabian_legendary_creatures -->
     <!-- https://www.tcgplayer.com/search/magic/arabian-nights?productLineName=magic&setName=arabian-nights&view=grid -->
     <p>***</p>
     <h2>Dandan</h2>
@@ -154,14 +220,14 @@
     <!-- un ejército entero de efrits, de genn, de mareds, de ghuls, de khotrobs, de saals, de 
       baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, 
       de los bosques, de las aguas y del desierto. -->
-      <!-- Sin duda fué alucinada por alguno de los espíritus que acudieron al banquete por 
-        un mared del mar, que á veces se internan en los alrededores de las costas; por un 
-        terrible ghul de la tierra, cuya presencia es notada por los niños, que se echan á 
-        llorar; por un khotrob del bosque, que habita como escondido en la espesura y vigila 
-        desde ella lo que pasa en el mundo; por un saal de las aguas corrientes y dulces, 
-        de las fuentes y los ríos; por un baharí del desierto que se encuentra en el ilimitado 
-        mar en seco y entre sus tormentas de arena; por un genni del aire á quien invocó 
-        preferentemente y que puede estar casi simultáneamente en todas partes.-->
+    <!-- Sin duda fué alucinada por alguno de los espíritus que acudieron al banquete por 
+      un mared del mar, que á veces se internan en los alrededores de las costas; por un 
+      terrible ghul de la tierra, cuya presencia es notada por los niños, que se echan á 
+      llorar; por un khotrob del bosque, que habita como escondido en la espesura y vigila 
+      desde ella lo que pasa en el mundo; por un saal de las aguas corrientes y dulces, 
+      de las fuentes y los ríos; por un baharí del desierto que se encuentra en el ilimitado 
+      mar en seco y entre sus tormentas de arena; por un genni del aire á quien invocó 
+      preferentemente y que puede estar casi simultáneamente en todas partes.-->
     <p>***</p>
     <h3>Ifrit</h3>
     <p>***</p>
@@ -195,13 +261,15 @@
     <p>***</p>
     <h2>Países y ciudades</h2>
     <p>Aunque pueda aparecer que todos los cuentos de las 1001 noches suceden en una especie 
-      de Arabia mítica, en realidad ocurren un muchos países y lugares de toda Asia y África, desde Egipto o Marruecos hasta China o India.</p>
+      de Arabia mítica, en realidad ocurren un muchos países y lugares de toda Asia y África, 
+      desde Egipto o Marruecos hasta China o India.</p>
     <h3>Bagdad</h3>
     <p>***</p>
     <h3>Basora</h3>
     <p>***</p>
     <h3>China</h3>
-    <p>China es el lugar donde tiene lugar una de las historias más famosas de las 1001 noches, la historia de Aladino y de la lampara mágica</p>
+    <p>China es el lugar donde tiene lugar una de las historias más famosas de las 1001 noches, 
+      a historia de Aladino y de la lampara mágica</p>
     <p>***</p>
     <h3>Egipto</h3>
     <p>***</p>
@@ -238,20 +306,44 @@
     <p>***</p>
     <h2>Aventuras mágicas y viajes misteriosos</h2>
     <p>***</p>
-    <h3>Los viajes de Sindbad</h3><!-- https://es.wikipedia.org/wiki/Simbad_el_Marino -->
+    <h3>Los viajes de Sindbad</h3>
+    <!-- https://es.wikipedia.org/wiki/Simbad_el_Marino -->
     <p>***</p>
     <h3>Aladino y la lampara mágica</h3>
     <p>***</p>
     <h2>Lios amorosos y encuentros picantes</h2>
     <p>***</p>
-    <h2>Historias de enredos con personajes picaros</h2>
+    <h2>Fábulas y parabolas</h2>
+    <p>***</p>
+    <h2>Historias de enredos</h2>
+    <p>***</p>
+    <h2>Cruces con otros generos</h2>
     <p>***</p>
   </section>
   <div class="saltopagina"></div>
   <section>
     <h1>Epílogo</h1>
     <h2>Licencias de uso</h2>
-    <p>***</p>
+    <p>La presente obra se encuentra bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
+      (<a
+        href="https://creativecommons.org/licenses/by/4.0/deed.es">https://creativecommons.org/licenses/by/4.0/deed.es</a>).
+      Puedes usar este contenido en cualquier
+      forma que te permita la licencia incluso comercial siempre que incluyas el siguiente texto de atribución:</p>
+    <blockquote>Este trabajo está basado en la ambientación para Savage Worlds 1001 Noches salvajes creada por 
+      Jorge Monclús Fernández (Gwannon) y está disponible de forma gratuita en <a
+        href="https://1001noches.gwannon.com/">https://1001noches.gwannon.com/</a>
+      y el código original puede obtenerse en <a
+        href="https://github.com/gwannon/1001NochesSalvajes">https://github.com/gwannon/1001NochesSalvajes</a>.
+      Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional
+      cuyo texto legal puede verse en <a
+        href="https://creativecommons.org/licenses/by/4.0/legalcode.es">https://creativecommons.org/licenses/by/4.0/legalcode.es</a>.
+    </blockquote>
+    <p>This game references the Savage Worlds game system, available from Pinnacle Entertainment
+      Group at www.peginc.com. Savage Worlds and all associated logos and trademarks are 
+      copyrights of Pinnacle Entertainment Group. Used with permission. Pinnacle makes no 
+      representation or warranty as to the quality, viability, or suitability for 
+      purpose of this product.</p>
+    <p><img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle" style="display: block; width: 150px; margin: auto;"></p>
     <h3>Imágenes</h3>
     <ul>
       <li><a
@@ -263,27 +355,129 @@
       <li><a
           href="https://es.wikipedia.org/wiki/Simbad_el_Marino#/media/Archivo:Sinbad_1.jpg">sindbad.jpg</a>
         por <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Bull">René Bull</a></li>
+      <li><a
+        href="https://www.freepik.com/free-photo/sunny-day-desert_879675.htm">sol-desierto.jpg</a>
+        por <a href="https://www.freepik.com/author/kjpargeter">kjpargeter</a></li>
+    </ul>
+    <h3>Recursos HTML + CSS</h3>
+    <ul>
+      <li><a href="https://codepen.io/alittleredpanda/pen/KJYRLR">Fondo contraportada</a> 
+        por <a href="https://codepen.io/alittleredpanda">Viki Johnson</a></li>
     </ul>
     <!-- <h3>Fuentes</h3>
     <ul>
       <li><a href="https://www.fontspace.com/hidayatullah-font-f57668">Hidayatullah</a> 
         por <a href="https://www.fontspace.com/artoni">ARToni</a></li>
     </ul> -->
-
-    https://codepen.io/alittleredpanda/pen/KJYRLR?editors=1100
-</section>
+  </section>
+  <div class="saltopagina"></div>
+  <div class="saltopagina"></div>
+  <section>
+    <div>
+      <h1>Mil y Una Noches Salvajes</h1>
+      <h2>Creador por <a href="https://twitter.com/gwannon">Gwannon</a></h2>
+      <span class="separator"></span>
+      <p>Mil y Una Noches Salvajes es una ambientación de Savage Worlds Edición 
+        Aventura para poder jugar aventuras de las Mil y Una Noches.</p>
+      <p>Este libro contiene:</p>
+      <ol>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+          ut labore et dolore magna aliqua.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+          ut labore et dolore magna aliqua.</li></ol>
+    </div>
+    <img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
+  </section>
 </body>
 <style>
-  section:nth-of-type(1) > h1 {
+  section:first-of-type {
+    background: black url(./assests/images/sol-desierto.jpg) center center no-repeat;
+    background-size: cover;
+  }
+
+  section:nth-of-type(2) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
     background-image: url(./assests/images/scheherazade-schariar.jpg);
   }
 
-  section:nth-of-type(2) > h1 {
+  section:nth-of-type(3) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
     background-image: url(./assests/images/scheherazade-sultan.jpg);
   }
 
-  section:nth-of-type(3) > h1 {
+  section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
     background-image: url(./assests/images/sindbad.jpg);
+  }
+
+  section:last-of-type {
+    height: 99.5vh;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color:var(--color-emerald);
+    background-image:
+      linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
+      linear-gradient(157.5deg, var(--color-emerald) 10%, transparent 10%),
+      linear-gradient(67.5deg, transparent 90%, var(--color-emerald) 90%),
+      linear-gradient(157.5deg, transparent 90%, var(--color-emerald) 90%),
+        
+      linear-gradient(22.5deg, var(--color-emerald) 10%, transparent 10%),
+      linear-gradient(112.5deg, var(--color-emerald) 10%, transparent 10%),
+      linear-gradient(22.5deg, transparent 90%, var(--color-emerald) 90%),
+      linear-gradient(112.5deg, transparent 90%, var(--color-emerald) 90%),
+      
+      linear-gradient(22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+      linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+      linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+      linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
+    background-size: 250px 250px;
+    background-position: 
+      -100px 150px, -150px 150px, -150px 100px, -100px 100px,
+      -150px 100px, -100px 100px, -100px 150px, -150px 150px,
+      0 0, 0 0, 0 0, 0 0;
+  }
+
+  section:last-of-type > div {
+    margin: 0px 30px; 
+    border: 1px solid #fff; 
+    background-color: #000000b0; 
+    padding: 30px;
+  }
+
+  section:last-of-type > div > h1 {
+    font-size: 4em;
+    margin: 0 0 20px 0;
+  }
+
+  section:last-of-type > div > h2 {
+    margin: 0 0 20px 0;
+    text-align: center;
+  }
+
+  section:last-of-type > div > p:first-of-type {
+    font-weight: bold;
+    text-align: center;
+  }
+
+  section:last-of-type > div > ol {
+    list-style-type: arabic-indic;
+    margin-bottom: 0px;
+  }
+
+  section:last-of-type > div > ol > li:not(:last-child) {
+    padding-bottom: 8px;
+  }
+
+  section:last-of-type > div a {
+    color: white;
+  }
+  section:last-of-type > img {
+    width: 150px;
+    height: 100px;
+    margin: 20px 0 0 0;
   }
 
   .saltopagina {
