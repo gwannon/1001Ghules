@@ -191,7 +191,7 @@
       y se calló discreta.</blockquote>
     <p>Los cuentos deberían acabar con frases tales como:</p>
     <blockquote>Y Scheherazade dijo: ¡Oh rey! veo que este cuento os ha satisfecho gratamente, pero nada 
-      es comparable con la que quiero contarte la proxima noche.</blockquote>
+      es comparable con el que quiero contarte la proxima noche.</blockquote>
       <blockquote>Y Scheherazade dijo: Cuan grato ¡oh rey! es ver que mi cuento os ha llenado de 
         dicha, pero espero que el cuento la proxima noche os haga más dichoso.</blockquote>
     <p>Todos los lugares, los objetos y los seres de esta ambientación están referencias al título del cuento 
@@ -289,7 +289,7 @@
     <p><b>Referencia:</b> Historia de Juder el pescador o el saco encantado (n. 465-487)</p>
     <p>***</p>
     <h3>Caballo de ébano</h3>
-    <p><b>Referencia:</b> Historia mágica del caballo de ebano (n. 414-431)</p>
+    <p><b>Referencia:</b> Historia mágica del caballo de ébano (n. 414-431)</p>
     <p>***</p>
     <h3>Lampara mágica</h3>
     <p><b>Referencia:</b> Historia de Aladino y de la lampara mágica (n. 731-774)</p>
@@ -297,7 +297,7 @@
   </section>
   <div class="saltopagina"></div>
   <section>
-    <h1>Gentes de la arabía mítica</h1>
+    <h1>Gentes de la Arabia mítica</h1>
     <p>***</p>
   </section>
   <div class="saltopagina"></div>
@@ -311,13 +311,13 @@
     <p>***</p>
     <h3>Aladino y la lampara mágica</h3>
     <p>***</p>
-    <h2>Lios amorosos y encuentros picantes</h2>
+    <h2>Líos amorosos y encuentros picantes</h2>
     <p>***</p>
     <h2>Fábulas y parabolas</h2>
     <p>***</p>
     <h2>Historias de enredos</h2>
     <p>***</p>
-    <h2>Cruces con otros generos</h2>
+    <h2>Cruces con otros géneros</h2>
     <p>***</p>
   </section>
   <div class="saltopagina"></div>
@@ -410,13 +410,18 @@
   }
 
   section:last-of-type {
-    height: 99.5vh;
+    height: calc(100vh - 2px);
     color: #fff;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
 
+  section:not(section:last-of-type):not(section:first-of-type) h1 + p:first-letter,
+  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(4)) h2 + p:first-letter,
+  section:last-of-type {
+    --pattern-size: 250px;
     background-color:var(--color-emerald);
     background-image:
       linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
@@ -433,12 +438,27 @@
       linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
       linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
       linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
-    background-size: 250px 250px;
+    background-size: var(--pattern-size) var(--pattern-size);
     background-position: 
-      -100px 150px, -150px 150px, -150px 100px, -100px 100px,
-      -150px 100px, -100px 100px, -100px 150px, -150px 150px,
+      calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2),
+      calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3),
       0 0, 0 0, 0 0, 0 0;
   }
+
+  section:not(section:last-of-type):not(section:first-of-type) h1 + p:first-letter,
+  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(4)) h2 + p:first-letter {
+    --pattern-size: 25px;
+    font-family: 'Tulpen One';
+    font-size: 2.9em;
+    display: block;
+    float: left;
+    margin: 3px 10px 0px 0px;
+    padding: 5px 10px 0px;
+    border: 1px solid #000;
+    color: #000;
+    /*min-height: 64px;*/
+  }
+
 
   section:last-of-type > div {
     margin: 0px 30px; 
