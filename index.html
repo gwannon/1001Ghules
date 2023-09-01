@@ -53,10 +53,34 @@
       width: 100%;
     }
 
+    section > p,
+    section > ul,
+    section > blockquote,
+    section > h2,
+    section > h3,
+    section > h4,
+    section > ol,
+    section > ul {
+      padding: 0 0 calc((var(--margin) * 0.4) / 2) 0;
+      margin: 0 calc(var(--margin) * 0.4) ;
+    }
+
     @media (min-width: calc(100vh * 0.7)) {
       body>section {
         max-width: calc(100vh * 0.7);
         padding: 0px;
+      }
+
+      section > p,
+      section > ul,
+      section > blockquote,
+      section > h2,
+      section > h3,
+      section > h4,
+      section > ol,
+      section > ul {
+        padding: 0 0 calc(var(--margin) / 2) 0;
+        margin: 0 var(--margin) ;
       }
     }
 
@@ -102,18 +126,6 @@
 
     h4 {
       font-size: 1.2em;
-    }
-
-    section > p,
-    section > ul,
-    section > blockquote,
-    section > h2,
-    section > h3,
-    section > h4,
-    section > ol,
-    section > ul {
-      padding: 0 0 calc(var(--margin) / 2) 0;
-      margin: 0 var(--margin) ;
     }
 
     section > ol,
@@ -304,7 +316,7 @@
     <div class="saltopagina"></div>
     <h2>Países y ciudades</h2>
     <p>Aunque pueda parecer que todos los cuentos de las 1001 noches suceden en una especie 
-      de Arabia mítica, en realidad ocurren un muchos países y lugares de toda Ásia y África, 
+      de Arabia mítica, en realidad ocurren en muchos países y lugares de toda Ásia y África, 
       desde Egipto o Marruecos hasta China o India.</p>
     <h3>Arabía</h3>
     <p>***</p>
