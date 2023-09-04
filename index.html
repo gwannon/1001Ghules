@@ -21,11 +21,28 @@
     }
 
     @font-face {
-      font-family: 'Tulpen One';
+      font-family: 'Khodijah';
       font-style: normal;
       font-weight: 400;
       font-display: swap;
-      src: url(./assests/fonts/TulpenOne-Regular.ttf) format('truetype');
+      src: url(./assests/fonts/Khodijahfree-OVELp.ttf) format('truetype');
+    }
+
+    @font-face {
+      font-family: 'Open Sans';
+      src:
+        url(./assests/fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+      font-weight: 100 900;
+      font-stretch: 50% 200%;
+    }
+
+    @font-face {
+      font-family: 'Open Sans';
+      src:
+        url(./assests/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+      font-weight: 100 900;
+      font-stretch: 50% 200%;
+      font-style: italic;
     }
 
     :root {
@@ -34,6 +51,7 @@
       --color-gold: #FFC300;
       --color-old-gold: #9a8a3a;
       --color-emerald:#16a085;
+      --color-grey: #e7e7e7;
       --margin: 35px;
     }
 
@@ -48,7 +66,7 @@
     }
 
     body > section {
-      background-color: var(--color-sand);
+      background-color: var(--color-grey);
       margin: auto;
       width: 100%;
     }
@@ -85,17 +103,17 @@
     }
 
     h1, h2, h3 {
-      font-family: 'Tulpen One';
+      font-family: 'Khodijah';
       font-weight: 400;
     }
 
     h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-      font-size: 4em;
+      font-size: 3em;
+      line-height: 120%;
       margin: 0;
       text-align: center;
       color: white;
       text-shadow: 0 0 5px black;
-      letter-spacing: 2px;
     }
 
     h1:not(section:last-of-type h1):not(section:first-of-type h1) {
@@ -114,10 +132,18 @@
     h2,
     section:first-of-type > div > h1,
     section:last-of-type > div > h1 {
-      font-size: 3em;
+      font-size: 2em;
       color: white;
       text-shadow: 0 0 4px black;
       text-align: center;
+    }
+
+    section:first-of-type h2,
+    section:first-of-type h3 {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 1.7em;
+      letter-spacing: -2px;
+      line-height: 110%;
     }
 
     h3 {
@@ -164,7 +190,7 @@
     }
 
     section:first-of-type > div > h1 {
-      font-size: 5em;
+      font-size: 4em;
       color: white;
     }
 
@@ -182,8 +208,8 @@
       <h3>Ambientación para SWADE</h3>
     </div>
     <div>
-      <h1>Mil y Una Noches Salvajes</h1>
-      <h2>Aventuras en los cuentos de las Mil y Una Noches</h2>
+      <h1>Mil y Una<br>Noches Salvajes</h1>
+      <h2>Aventuras en los cuentos<br>de las Mil y Una Noches</h2>
       <p>Ver. 0.1</p>
     </div>
     <div>
@@ -231,23 +257,23 @@
     <p>Nos referiremos como "noche" a cada sesión y como cada noche tienes 3 benis para usar deberías 
       llamarlos "deseos". De forma que cuando tus shahriars gasten un beni digan "Voy a gastar un deseo".</p>
     <p>Como Scheherazade, todas las primeras sesiones de un cuento salvaje deberían empezar con:</p>
-    <blockquote class="styleOne">Y Scheherazade dijo: ¡oh rey afortunado! Creo que ha llegado el momento de 
-      contaros la historia de "Título del cuento salvaje"</blockquote>
     <div class="saltopagina"></div>
+    <blockquote>Y Scheherazade dijo: ¡oh rey afortunado! Creo que ha llegado el momento de 
+      contaros la historia de "Título del cuento salvaje"</blockquote>
     <blockquote>Y Scheherazade dijo: No creas ¡oh rey afortunado! que ninguna historia 
       es comparable a "Título del cuento salvaje"</blockquote>
     <p>El resto de sesiones deberían empezar con:</p>
     <blockquote>Pero cuando llego la X.ª noche ella dijo: He llegado á saber, ¡oh rey afortunado! que ...</blockquote>
     <p>Es interesante que lleves la cuenta del número de noche o si no invéntatela.</p>
-    <p>Deberías acabar con cada sesión:</p>
+    <p>Deberías acabar cada sesión con:</p>
     <blockquote>En este momento de su narración, Scheherazade vió aparecer la mañana,
       y se calló discreta.</blockquote>
     <p>Los cuentos deberían acabar con frases tales como:</p>
     <blockquote>Y Scheherazade dijo: ¡Oh rey! veo que este cuento os ha satisfecho gratamente, pero nada 
       es comparable con el que quiero contarte la proxima noche.</blockquote>
-      <blockquote>Y Scheherazade dijo: Cuan grato ¡oh rey! es ver que mi cuento os ha llenado de 
-        dicha, pero espero que el cuento la proxima noche os haga más dichoso.</blockquote>
-    <p>Todos los lugares, los objetos y los seres de esta ambientación están referencias al título del cuento 
+    <blockquote>Y Scheherazade dijo: Cuan grato ¡oh rey! es ver que mi cuento os ha llenado de 
+      dicha, pero espero que el cuento de la proxima noche os haga más dichoso.</blockquote>
+    <p>Todos los lugares, los objetos y los seres de esta ambientación tienen referencias al título del cuento 
       y el número de noche donde se mencionan.</p>
   </section>
   <div class="saltopagina"></div>
@@ -257,7 +283,7 @@
   </section>
   <div class="saltopagina"></div>
   <section>
-    <h1>Seres y monstruos de las 1001 noches</h1>
+    <h1>Seres y monstruos<br>de las 1001 noches</h1>
     <!-- https://en.wikipedia.org/wiki/Category:Arabian_legendary_creatures -->
     <!-- https://www.tcgplayer.com/search/magic/arabian-nights?productLineName=magic&setName=arabian-nights&view=grid -->
     <p>***</p>
@@ -395,7 +421,7 @@
   </section>
   <div class="saltopagina"></div>
   <section>
-    <h1>Gentes de la Arabia mítica</h1>
+    <h1>Gentes de la<br>Arabia mítica</h1>
     <p>***</p>
   </section>
   <div class="saltopagina"></div>
@@ -443,11 +469,11 @@
       <li><a href="https://codepen.io/alittleredpanda/pen/KJYRLR">Fondo contraportada</a> 
         por <a href="https://codepen.io/alittleredpanda">Viki Johnson</a></li>
     </ul>
-    <!-- <h3>Fuentes</h3>
+    <h3>Fuentes</h3>
     <ul>
-      <li><a href="https://www.fontspace.com/hidayatullah-font-f57668">Hidayatullah</a> 
-        por <a href="https://www.fontspace.com/artoni">ARToni</a></li>
-    </ul> -->
+      <li><a href="https://www.fontspace.com/khodijah-font-f44967">Khodijah</a> 
+        por <a href="https://www.fontspace.com/arterfak">Arterfak</a></li>
+    </ul>
   </section>
   <div class="saltopagina"></div>
   <div class="saltopagina"></div>
@@ -528,12 +554,12 @@
   section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(6)) h2 + p:first-letter {
     --pattern-size: 25px;
       --color-emerald:#9a8a3a;
-    font-family: 'Tulpen One';
+    font-family: 'Khodijah';
     font-size: 2.9em;
     display: block;
     float: left;
     margin: 3px 10px 0px 0px;
-    padding: 5px 10px 0px;
+    padding: 10px 10px 0px;
     border: 1px solid #000;
     color: #000;
     /*min-height: 64px;*/
@@ -584,7 +610,7 @@
 
   @media print {
     body {
-      background: var(--color-sand);
+      background: var(--color-grey);
     }
 
     .nopdf {
