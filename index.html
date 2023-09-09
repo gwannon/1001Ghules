@@ -834,26 +834,24 @@
     display: block;
     width: 50%;
     margin: 30px auto 65px;
-    height: 3px;
+    height: 2px;
     background-color: var(--color-old-gold);
     position: relative;
   }
 
-  .separator:after,
   .separator:before {
-    content: "";
+    text-align: center;
+    content: "Scheherazade vió aparecer la mañana";
     display: block;
-    width: 10%;
-    height: 3px;
-    background-color:  var(--color-old-gold);
+    width: 100%;
+    font-family: 'Khodijah';
+    color:  var(--color-old-gold);
     position: absolute;
     top: -10px;
-    left: 45%;
-  }
-
-  .separator:before {
-    top: auto;
-    bottom: -10px;
+    left: 0;
+    transform: scaleX(-1);
+    overflow:hidden;
+    font-size: 1.1em;
   }
 
   @media print {
