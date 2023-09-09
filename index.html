@@ -268,6 +268,7 @@
     <p>Y si durante la milésima primera noche Scheherazade sacó una jambia, cortó el cuello del sultán 
       y huyo de su palacio ...</p>
     <p class="likeh2">Y si ...</p>
+    <div class="separator"></div>
     <div class="saltopagina"></div>
     <h2>¿Cómo usar este libro?</h2>
     <p>Ya que vamos a movernos entre dos mundos literarios muy diferentes, los Mitos De Cthulhu y los cuentos 
@@ -342,7 +343,7 @@
     <!-- https://en.wikipedia.org/wiki/Category:Arabian_legendary_creatures -->
     <!-- https://www.tcgplayer.com/search/magic/arabian-nights?productLineName=magic&setName=arabian-nights&view=grid -->
     <p>***</p>
-    <h2>Dandan / Profundo</h2>
+    <h2>Profundo / Dandan</h2>
     <p><b>Referencia:</b> Historia de Abdalah de la tierra y de Abdalah del mar (n. 505-515)</p>
     <blockquote>... un ser humano, un Adamita semejante a todos los Ibu-Adam, con la sola diferencia 
       de que su cuerpo terminaba en cola de pez; pero, aparte de eso, tenía cabeza, cara, barba, 
@@ -827,6 +828,32 @@
 
   .saltopagina {
     display: none;
+  }
+
+  .separator {
+    display: block;
+    width: 50%;
+    margin: 30px auto 65px;
+    height: 3px;
+    background-color: var(--color-old-gold);
+    position: relative;
+  }
+
+  .separator:after,
+  .separator:before {
+    content: "";
+    display: block;
+    width: 10%;
+    height: 3px;
+    background-color:  var(--color-old-gold);
+    position: absolute;
+    top: -10px;
+    left: 45%;
+  }
+
+  .separator:before {
+    top: auto;
+    bottom: -10px;
   }
 
   @media print {
