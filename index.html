@@ -85,6 +85,15 @@
       margin: 0 calc(var(--margin) * 0.4) ;
     }
 
+    section > *:is(p, ul, blockquote) + *:is(h3, h2) {
+      margin-top: var(--margin);
+    }
+
+    section:nth-of-type(2) > blockquote,
+    section:nth-of-type(2) > p {
+      word-break: break-word;
+    }
+
     @media (min-width: calc(100vh * 0.7)) {
       body>section {
         max-width: calc(100vh * 0.7);
