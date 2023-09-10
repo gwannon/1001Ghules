@@ -80,7 +80,8 @@
     section > h3,
     section > h4,
     section > ol,
-    section > ul {
+    section > ul,
+    section > div {
       padding: 0 0 calc((var(--margin) * 0.4) / 2) 0;
       margin: 0 calc(var(--margin) * 0.4) ;
     }
@@ -107,7 +108,8 @@
       section > h3,
       section > h4,
       section > ol,
-      section > ul {
+      section > ul,
+      section > div {
         padding: 0 0 calc(var(--margin) / 2) 0;
         margin: 0 var(--margin) ;
       }
@@ -192,8 +194,6 @@
       justify-content: space-between;
       align-items: center;
     }
-
-
 
     section:nth-of-type(2) {
       display: flex;
@@ -358,6 +358,11 @@
     <p>Si le pides a un genio que te haga rico seguramente no podría darte tal cantidad de 
       oro y joyas.</p>
     <div class="separator"></div>
+  </section>
+  <div class="saltopagina"></div>
+  <section>
+    <h1>El mundo de <br/>las 1001 noches</h1>
+    <p>***</p>
   </section>
   <div class="saltopagina"></div>
   <section>
@@ -581,12 +586,37 @@
     <h1>Lugares míticos</h1>
     <p>***</p>
     <h2>El valle de los diamantes</h2>
+    <p><b>Referencia:</b> *** (n. ***)</p>
+    <blockquote>***</blockquote>
+    <blockquote class="primigenio">***</blockquote>
     <p>***</p>
     <h2>Las islas Al-Wakwak</h2>
+    <p><b>Referencia:</b> *** (n. ***)</p>
+    <blockquote>***</blockquote>
+    <blockquote class="primigenio">***</blockquote>
+    <p>***</p>
     <!-- https://es.wikipedia.org/wiki/Al-Wakwak -->
     <p>***</p>
     <h2>La ciudad de bronce</h2>
     <!-- https://notigandhiblog.files.wordpress.com/2018/06/la-prodigiosa-historia-de-la-ciudad-de-bronce.jpg -->
+    <p><b>Referencia:</b> Historia prodigiosa de la ciudad de bronce (n. 343-346)</p>
+    <blockquote>Bajo el blanco cendal que caía de la altura, en toda la extensión que podía 
+      abarcar la mirada fija en los horizontes hundidos en la noche, aparecían dentro del 
+      recinto de bronce cúpulas de palacios, terrazas de casas, apacibles jardines, y a 
+      la sombra de los macizos brillaban los canales, que iban a morir en un mar de metal, 
+      cuyo seno frío reflejaban las luces del cielo. Y el bronce de las murallas, las 
+      pedrerías encendidas de las cúpulas, las terrazas cándidas, los canales y el mar 
+      entero, así como las sombras proyectadas por Occidente amalgamábanse bajo la brisa 
+      nocturna v la luna mágica.<br/>Sin embargo, aquella inmensidad estaba sepultada, 
+      como en una tumba, en el universal silencio. Allá dentro no había ni un vestigio 
+      de vida humana. Pero he aquí que con un mismo gesto, quieto, destacábanse sobre 
+      monumentales zócalos altas figuras de bronce, enormes jinetes tallados en mármol, 
+      animales alados que se inmovilizaban en un vuelo estéril; y los únicos seres 
+      dotados de movimiento en aquella quietud eran millares de inmensos vampiros 
+      que daban vueltas a ras de los edificios bajo el cielo, mientras búhos invisibles 
+      turbaban el estático silencio con sus lamentos y sus voces fúnebres en los 
+      palacios muertos y las terrazas solitarias</blockquote>
+    <blockquote class="primigenio">***</blockquote>
     <p>***</p>
     <div class="saltopagina"></div>
     <h2>Países y ciudades</h2>
@@ -777,7 +807,7 @@
   }
 
   section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + p:first-letter,
-  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(6)) h2 + p:first-letter,
+  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter,
   section:last-of-type {
     --pattern-size: 250px;
     background-color:var(--color-emerald);
@@ -804,7 +834,7 @@
   }
 
   section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + p:first-letter,
-  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(6)) h2 + p:first-letter {
+  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter {
     --pattern-size: 25px;
       --color-emerald:#9a8a3a;
     font-family: 'Khodijah';
@@ -865,24 +895,39 @@
     width: 80%;
     margin: 30px auto 0px;
     padding-bottom: 65px;
-    border-top: var(--color-old-gold) 2px solid;
     position: relative;
+    text-align: center;
+  }
+
+  .separator:after {
+    text-align: center;
+    content: "aparecer la mañana";
+    display: inline-block;
+    font-family: 'Khodijah';
+    color: var(--color-old-gold);
+    transform: scaleX(-1) skew(33deg) scaleY(3);
+    overflow: hidden;
+    font-size: 1.1em;
+    text-shadow: -1px -1px 0 black;
+    background-color: var(--color-grey);
+    margin: 0px auto 0px;
+    padding: 0 10px;
+  }
+  @media (min-width: calc(100vh * 0.7)) {
+    .separator:after {
+      content: "scheherazade vió aparecer la mañana";
+    }
   }
 
   .separator:before {
-    text-align: center;
-    content: "Scheherazade vió aparecer la mañana";
+    content: "";
     display: block;
-    width: 100%;
-    font-family: 'Khodijah';
-    color:  var(--color-old-gold);
     position: absolute;
-    top: -13px;
-    left: 0;
-    transform: scaleX(-1);
-    overflow:hidden;
-    font-size: 1.1em;
-    text-shadow: -1px -1px 0 black;
+    width: 100%;
+    height: 2px;
+    background-color: var(--color-old-gold);
+    top: 6px;
+    left: 0px;
   }
 
   @media print {
