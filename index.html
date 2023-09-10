@@ -51,7 +51,7 @@
       --color-gold: #FFC300;
       --color-old-gold: #9a8a3a;
       --color-emerald:#16a085;
-      --color-grey: #e7e7e7;
+      --color-grey: #f7f7f7;
       --color-green-cthulhu: #879f85;
       --color-green-deepone: #c6cbc2;
       --margin: 35px;
@@ -71,6 +71,12 @@
       background-color: var(--color-grey);
       margin: auto;
       width: 100%;
+
+
+      background: linear-gradient(45deg, transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%, transparent 90%), linear-gradient(135deg,  transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%,  transparent 90%), radial-gradient(circle at top,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at bottom,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at right,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at left,var(--color-grey) 20% , transparent 21%);
+        background-size: 3em 3em;
+        background-color: #ffffff;
+        opacity: 1;
     }
 
     section > p,
@@ -86,7 +92,7 @@
       margin: 0 calc(var(--margin) * 0.4) ;
     }
 
-    section > *:is(p, ul, blockquote) + *:is(h3, h2) {
+    section > *:is(p, ul, blockquote, .saltopagina) + *:is(h3, h2, .likeh2) {
       margin-top: var(--margin);
     }
 
@@ -274,10 +280,11 @@
   </section>
   <div class="saltopagina"></div>
   <section>
-    <h1>Las Mil y Una Noches</h1>
+    <h1>Y si ...</h1>
     <h2>¿Y si Abdul Alhazred hubiera escrito las Mil y Una Noches?</h2>
     <p>Abdul Alhazred es uno de los personajes más importantes de todos los Mitos de Cthulhu, 
-      ya que es el autor del más infame de los libros, el Necronomicón.</p>
+      ya que es el autor del más infame de los libros, Al Azif (العزيف) más conocido por todos 
+      como el Necronomicón.</p>
     <p>Y si en vez del Necronomicón hubiera escrito las Mil y Una Noches ...</p>
     <p>Y si el genio de la lámpara fuera un maligno y todopoderoso avatar de Nyarlathotep que 
       tergiversa todos tus deseos para hacerlos mortales ...</p>
@@ -286,46 +293,23 @@
     <div class="saltopagina"></div>
     <p>Y si las alfombras mágicas fueran en realidad pólipos volantes al servicio de sus superiores ...</p>
     <p>Y si durante la milésima primera noche Scheherazade sacó una jambia, cortó el cuello del sultán 
-      y huyo de su palacio ...</p>
-    <p class="likeh2">Y si ...</p>
-    <div class="separator"></div>
+      y huyo de su palacio ...</p> 
+    <p class="likeh2">Sigue leyendo y descúbrelo ...</p>
     <div class="saltopagina"></div>
     <h2>¿Cómo usar este libro?</h2>
     <p>Ya que vamos a movernos entre dos mundos literarios muy diferentes, los Mitos De Cthulhu y los cuentos 
-      de las 1001 noches, hay un sistema visual para diferenciar los diferentes contenidos.</p>
+      de las 1001 noches, hay un sistema visual para diferenciar los diferentes contenidos. Podrás elegir 
+      en cada momento que toque darle a tu narración.</p>
+    <p>Si quieres describirle a tu mesa el ser que tienen delante usa la del Lovecraft, si alguien 
+      describe al ser que ha visto usa la de las 1001 noches.</p>
     <blockquote>Aquí encontraras extractos de los cuentos de las Mil y Una Noches.</blockquote>
     <blockquote class="primigenio">Aquí encontraras extractos de los relatos de H. P. Lovecraft.</blockquote>
     <p>Si los nombres de personas, objetos o lugares tienen "/", la primera parte será el nombre en los Mitos 
       y la segunda en las 1001 noches.</p>
-    <h2>Toques de ambientación</h2>
-    <p>Hay una serie de conceptos que son importantes para que tus aventuras tenga el 
-      toque de las 1001 noches.</p>
-    <p>En esta ambientación de las 1001 noches como contador de historias no seras un master o un director 
-      de juego sino Scheherazade y las personas de tu mesa serán shahriars, en referencia al sultán al que 
-      Scheherazade le contaba cada noche un cuento.</p>
-    <p>Nos referiremos como "noche" a cada sesión y como cada noche tienes 3 benis para usar deberías 
-      llamarlos "deseos". De forma que cuando tus shahriars gasten un beni digan "Voy a gastar un deseo".</p>
-    <p>Como Scheherazade, todas las primeras sesiones de un cuento salvaje deberían empezar con:</p>
-    <blockquote>Y Scheherazade dijo: ¡oh rey afortunado! Creo que ha llegado el momento de 
-      contaros la historia de "Título del cuento salvaje"</blockquote>
-    <blockquote>Y Scheherazade dijo: No creas ¡oh rey afortunado! que ninguna historia 
-      es comparable a "Título del cuento salvaje"</blockquote>
-    <p>El resto de sesiones deberían empezar con:</p>
-    <blockquote>Pero cuando llego la X.ª noche ella dijo: He llegado á saber, ¡oh rey afortunado! que ...</blockquote>
-    <p>Es interesante que lleves la cuenta del número de noche o si no invéntatelo.</p>
-    <p>Deberías acabar cada sesión con:</p>
-    <blockquote>En este momento de su narración, Scheherazade vió aparecer la mañana,
-      y se calló discreta.</blockquote>
-    <p>Los cuentos deberían acabar con frases tales como:</p>
-    <blockquote>Y Scheherazade dijo: ¡Oh rey! veo que este cuento os ha satisfecho gratamente, pero nada 
-      es comparable con el que quiero contarte la proxima noche.</blockquote>
-    <blockquote>Y Scheherazade dijo: Cuan grato ¡oh rey! es ver que mi cuento os ha llenado de 
-      dicha, pero espero que el cuento de la proxima noche os haga más dichoso.</blockquote>
-    <p>De todas formas esto son solo consejos y tuya es la elección de seguirlos o no.</p>
-    <p>Por ultimo, para agilizar las consultas todos los lugares, los objetos y los seres de esta 
+    <p>Por ultimo, para agilizar las consultas, todos los lugares, los objetos y los seres de esta 
       ambientación tienen referencias al título del cuento de las 1001 noches y el número de noche 
       donde se mencionan.</p>
-      <div class="separator"></div>
+    <div class="separator"></div>
   </section>
   <div class="saltopagina"></div>
   <section>
@@ -361,8 +345,33 @@
   </section>
   <div class="saltopagina"></div>
   <section>
-    <h1>El mundo de <br/>las 1001 noches</h1>
-    <p>***</p>
+    <h1>El mundo de las <br/>oscuras 1001 noches</h1>
+    <h2>Toques de ambientación</h2>
+    <p>Hay una serie de conceptos que son importantes para que tus aventuras tenga un 
+      toque a las Mil y Una Noches y le resulte diferente a tus mesa.</p>
+    <p>En esta ambientación de las 1001 noches como contador de historias no seras un master o un director 
+      de juego sino Scheherazade y las personas de tu mesa serán shahriars, en referencia al sultán al que 
+      Scheherazade le contaba cada noche un cuento.</p>
+    <p>Nos referiremos como "noche" a cada sesión y como cada noche tienes 3 benis para usar deberías 
+      llamarlos "deseos". De forma que cuando tus shahriars gasten un beni digan "Voy a gastar un deseo".</p>
+    <p>Como Scheherazade, todas las primeras sesiones de un cuento salvaje deberían empezar con:</p>
+    <blockquote>Y Scheherazade dijo: ¡oh rey afortunado! Creo que ha llegado el momento de 
+      contaros la historia de "Título del cuento salvaje"</blockquote>
+    <blockquote>Y Scheherazade dijo: No creas ¡oh rey afortunado! que ninguna historia 
+      es comparable a "Título del cuento salvaje"</blockquote>
+    <p>El resto de sesiones deberían empezar con:</p>
+    <blockquote>Pero cuando llego la X.ª noche ella dijo: He llegado á saber, ¡oh rey afortunado! que ...</blockquote>
+    <p>Es interesante que lleves la cuenta del número de noche o si no invéntatelo.</p>
+    <p>Deberías acabar cada sesión con:</p>
+    <blockquote>En este momento de su narración, Scheherazade vió aparecer la mañana,
+      y se calló discreta.</blockquote>
+    <p>Los cuentos deberían acabar con frases tales como:</p>
+    <blockquote>Y Scheherazade dijo: ¡Oh rey! veo que este cuento os ha satisfecho gratamente, pero nada 
+      es comparable con el que quiero contarte la proxima noche.</blockquote>
+    <blockquote>Y Scheherazade dijo: Cuan grato ¡oh rey! es ver que mi cuento os ha llenado de 
+      dicha, pero espero que el cuento de la proxima noche os haga más dichoso.</blockquote>
+    <p>De todas formas esto son solo consejos y tuya es la elección de seguirlos o no.</p>
+    <div class="separator"></div>
   </section>
   <div class="saltopagina"></div>
   <section>
@@ -806,7 +815,6 @@
   }
 
   section:first-of-type {
-    
     height: calc(100vh - 2px);
   }
 
@@ -840,16 +848,15 @@
   section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + p:first-letter,
   section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter {
     --pattern-size: 25px;
-      --color-emerald:#9a8a3a;
+    --color-emerald: #9a8a3a;
     font-family: 'Khodijah';
-    font-size: 2.9em;
+    font-size: 2.3em;
     display: block;
     float: left;
     margin: 3px 10px 0px 0px;
-    padding: 10px 10px 0px;
+    padding: 10px 5px;
     border: 1px solid #000;
     color: #000;
-    /*min-height: 64px;*/
   }
 
   section:last-of-type > div {
@@ -896,7 +903,8 @@
 
   .separator {
     display: block;
-    width: 80%;
+    /*width: calc(100% - 40px);*/
+    width: 50%;
     margin: 30px auto 0px;
     padding-bottom: 65px;
     position: relative;
@@ -911,26 +919,32 @@
     color: var(--color-old-gold);
     transform: scaleX(-1) skew(33deg) scaleY(3);
     overflow: hidden;
-    font-size: 1.1em;
+    font-size: 0.8em;
     text-shadow: -1px -1px 0 black;
     background-color: var(--color-grey);
     margin: 0px auto 0px;
     padding: 0 10px;
   }
-  @media (min-width: calc(100vh * 0.7)) {
+  /*@media (min-width: calc(100vh * 0.7)) {
+    .separator {
+      width: 80%;
+    }
+
     .separator:after {
+      font-size: 1.1em;
       content: "scheherazade vió aparecer la mañana";
     }
-  }
+  }*/
 
   .separator:before {
     content: "";
     display: block;
     position: absolute;
     width: 100%;
-    height: 2px;
+    height: 3px;
+    box-shadow: 2px -2px 0 black;
     background-color: var(--color-old-gold);
-    top: 6px;
+    top: 9px;
     left: 0px;
   }
 
@@ -938,8 +952,15 @@
 
   @media print {
     body {
-      background: var(--color-grey);
+      background: linear-gradient(45deg, transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%, transparent 90%), linear-gradient(135deg,  transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%,  transparent 90%), radial-gradient(circle at top,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at bottom,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at right,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at left,var(--color-grey) 20% , transparent 21%);
+      background-size: 3em 3em;
+      background-color: #ffffff;
+      opacity: 1;
     }
+
+    body > section {
+      background-color: transparent;
+    } 
 
     .nopdf {
       display: none;
@@ -972,6 +993,11 @@
       max-width: calc(100vw + 20px);   
       min-height: 1128px;
       height: 100%; 
+    }
+
+    section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + p:first-letter,
+    section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter {
+      font-size: 2em;
     }
   }
 </style>
