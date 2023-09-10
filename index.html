@@ -762,17 +762,13 @@
     <div>
       <h1>Mil y Un Ghūles</h1>
       <h2>Creado por <a href="https://twitter.com/gwannon">Gwannon</a></h2>
-      <span class="separator"></span>
       <p>Mil y Un Ghūles es una ambientación de Savage Worlds Edición 
         Aventura para poder jugar relatos de horror cósmico dentro los cuentos de las Mil y Una Noches.</p>
       <p>Este libro contiene:</p>
       <ol>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-          ut labore et dolore magna aliqua.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-          ut labore et dolore magna aliqua.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
       </ol>
     </div>
     <img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
@@ -798,12 +794,20 @@
   }
 
   section:last-of-type {
-    height: calc(100vh - 2px);
+    min-height: 100vh;
+    padding-top: var(--margin);
+    padding-bottom: var(--margin);
+    box-sizing: border-box;
     color: #fff;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+
+  section:first-of-type {
+    
+    height: calc(100vh - 2px);
   }
 
   section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + p:first-letter,
@@ -929,6 +933,8 @@
     top: 6px;
     left: 0px;
   }
+
+
 
   @media print {
     body {
