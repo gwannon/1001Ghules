@@ -914,16 +914,20 @@
   .separator:after {
     text-align: center;
     content: "scheherazade";
-    display: inline-block;
+    position: absolute;
+    display: block;
     font-family: 'Khodijah';
     color: var(--color-old-gold);
-    transform: scaleX(-1) skew(33deg) scaleY(3);
+    transform: scaleX(-1) scaleY(3);
     overflow: hidden;
     font-size: 0.5em;
     text-shadow: -1px -1px 0 black;
     background-color: var(--color-grey);
     margin: 0px auto 0px;
-    padding: 0 10px;
+    width: 66px;
+    left: calc(50% - 33px);
+    top: 5px;
+    padding: 0 1px;
   }
   /*@media (min-width: calc(100vh * 0.7)) {
     .separator {
