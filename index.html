@@ -176,7 +176,8 @@
 
     section > ol,
     section > ul {
-      list-style-position: inside;
+      /*list-style-position: inside;*/
+      padding: 0 0 calc(var(--margin) / 2) 25px;
     }
 
     section > blockquote {
@@ -231,6 +232,47 @@
       width: 150px;
       height: 100px;
       margin: 0 0 30px 0;
+    }
+
+    table {
+      margin: 15px auto;
+      border: 3px dashed var(--color-gold);
+      background: var(--color-old-gold);
+    }
+
+    table thead tr th {
+      padding: 10px;
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.1em;
+      font-weight: 400;
+    }
+
+    table thead tr:first-child th {
+      font-size: 1.5em;
+    }
+
+    table tbody tr>* {
+      padding: 5px;
+    }
+
+    table tbody tr th[rowspan] {
+      background-color: var(--color-sand);
+    }
+
+    table thead {
+      background-color: var(--color-sand);
+    }
+
+    table tbody tr>* {
+      transition: all 0.6s;
+    }
+
+    /*table tbody tr:nth-child(even) {
+      background-color: var(--green-gul);
+    }*/
+
+    table tbody tr:nth-child(odd) {
+      background-color: var(--color-gold);
     }
 
   </style>
@@ -298,12 +340,20 @@
     <p>Y si durante la milésima primera noche Scheherazade sacó una jambia, cortó el cuello del sultán 
       y huyo de su palacio ...</p> 
     <p class="likeh2">Sigue leyendo y descúbrelo ...</p>
-    <div class="saltopagina"></div>
+    <div class="separator"></div>
+  </section>
+  <div class="saltopagina"></div>
+  <section>
+    <h1>El mundo de las <br/>tenebrosas 1001 noches</h1>
+    <p>En esta sección vamos a ver de una forma muy general el mundo de las historias de horror cósmico de 
+      las 1001 noches. Explicaremos como son las 1001 noches escritas por el árabe loco de Abdul Alhazred 
+      y como se integran los Mitos de Cthulhu en la cosmología de todos estos cuentos populares.</p>
     <h2>¿Cómo usar este libro?</h2>
     <p>Ya que vamos a movernos entre dos mundos literarios muy diferentes, los Mitos De Cthulhu y los cuentos 
       de las 1001 noches, hay un sistema visual para diferenciar los diferentes contenidos.</p>
     <p>Tenemos extractos de las mil y una noches originales y extractos de la versión que habría escrito Abdul Alhazred 
       que son una mezcla de las 1001 noches con las descripciones de H. P. Lovecraft.</p>
+    <div class="saltopagina"></div>
     <blockquote>Aquí encontraras extractos de los cuentos de las Mil y Una Noches originales.</blockquote>
     <blockquote class="primigenio">Aquí encontraras extractos de los cuentos de las Mil y Una Noches escritos 
       de Abdul Alhazred.</blockquote>
@@ -313,15 +363,224 @@
     <p>Por ultimo, para agilizar las consultas, todos los lugares, los objetos y los seres de esta 
       ambientación tienen referencias al título del cuento de las 1001 noches y el número de noche 
       donde se mencionan.</p>
+    <h2>Abdul Alhazred</h2>
+    <p>***</p>
     <div class="separator"></div>
   </section>
   <div class="saltopagina"></div>
   <section>
-    <h1>El mundo de las <br/>tenebrosas 1001 noches</h1>
+    <h1>Reglas de ambientación</h1>
+    <h2>Creación de personaje</h2>
+    <p>Hay una serie de reglas en esta ambientación que modifican las normas generales de creación 
+      de personajes. No son muchas, ni muy complicadas, pero tienen su sentido dentro de esta extraña 
+      ambientación. Principalmente son cambios en las habilidades y la regla de Sin paragón que hace 
+      único a tu shahriar.</p>
+    <ul>
+      <li>No existen habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que 
+        no hay vehículos autopropulsados, equipos eléctricos u ordenadores.</li>
+      <li>Pilotar es una habilidad que no se puede aprenderse en la creación. Solo podrá gastar 
+        avances en ella si tenemos algún ingenio volador, por ejemplo, alfombras mágicas o caballos 
+        mecánicos voladores.</li>
+      <li>Todos los shahriars empiezan con habilidades de idiomas. Su idioma nativo a nivel de su Astucia 
+        y otro idioma a su Astucia -1 nivel (mínimo d4).</li>
+    </ul>
+    <div class="saltopagina"></div>
+    <h3>Sin paragón</h3>
+    <p>En las mil y una noches no hay comodín que no sea especial, siempre destacas por algo. Puedes ser 
+      por tu astucia, por tu fuerza, por tu inteligencia, por tu belleza, etc. Para reflejar eso empiezas 
+      con una de estas ventajas gratis, además de la ventaja por ser humano. Ten en cuenta que deberás cumplir 
+      los requisitos para cogerla.</p>
+    <ul>
+      <li>Afortunado</li>
+      <li>Callejear</li>
+      <li>Carismático</li>
+      <li>Belleza sin igual (ver en Nuevas ventajas)</li>
+      <li>Fornido</li>
+      <li>Imán de lo extraño (ver en Nuevas ventajas)</li>
+      <li>Investigador</li>
+      <li>Ladrón</li>
+      <li>Lingüista</li>
+      <li>Mandíbula de hierro</li>
+      <li>Sentir el peligro</li>
+      <li>Señor de las bestias</li>
+    </ul>
+    <p>Debes ser el único que tenga esa ventaja, nadie más de la mesa podrá tener esa ventaja, ni 
+      comprarla con avances más adelante. Esta ventaja te debería hacerte único y especial dentro de la mesa.</p>
+    <p>Como Scheherazade, puedes meter en ese listado todas las ventajas que desees, siempre que vayan a 
+      darle un carácter único a quien la escoja. Fornido hace que seas más grande que el resto de shahriars, pero 
+      Puntos de poder no te hace destacar por algo entre los shahriars de tu mesa.</p>
+    <h2>Nuevas desventajas</h2>
+    <p>Esta ambientación es un mundo muy especial que claramente va a tener sus desventajas propias, unas más centradas 
+      en los Mitos y otras más cercanas a las 1001 noches y la mitología árabe. Aquí tenemos su listado.</p>
+    <h3>Más cerca de la locura (mayor)</h3>
+    <p>Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil
+      que el común de los mortales. Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea,
+      tu psique es más débil de lo normal y estás más cerca de la locura que el resto de tu equipo.</p>
+    <div class="saltopagina"></div>
+    <p class="rule">Empiezas con 3 puntos de cordura en vez de los 4 normales. Nunca podrás tener
+      más de 3 puntos de cordura, aunque termines una campaña con éxito y Scheherazade diga que recuperáis 
+      todos los puntos de cordura.</p>
+    <h3 class="ribbon">Trastornos mentales</h3>
+    <p>Todo el sistema de horror/cordura típica de los juegos basados en la obra de Lovecraft se basa
+      en trastornos mentales que vayan lastrando a tu personaje hasta acabar locos en un callejón oscuro 
+      de Bagdad gritando a los viandantes sobre que su fin se acerca y las estrellas estarán pronto en 
+      la posición correcta.</p>
+    <p>Todos estos trastornos mentales debemos tratarlos como desventajas y se les aplican todas las reglas
+      de las desventajas.</p>
+    <p>Además, de las desventajas listadas a continuación puedes usar como trastornos mentales
+      Avaricioso, Arrogante, Envidioso, Exceso de Confianza, Delirio, Fobia, Hábito, Manía y Sanguinario.</p>
+    <h4>Amnesia y flashbacks (menor/mayor)</h4>
+    <p>El cerebro de tu personaje, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una
+      situación traumática (cómo le torturaron, cómo presenció como un vampiro de fuego quemaba a toda su
+      familia, ...). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente.
+      Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles.
+      Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos
+      del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida,
+      los brillantes ojos del asesino, ...</p>
+    <p class="rule">En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks
+      fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla.
+      Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir
+      con un oponente político o tratar de entrar sigilosamente en la casa del gobernador.
+      Si se coge como mayor, Scheherazade podrá hacerle fallar cualquier tirada de combate
+      y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.</p>
+    <h4>Depresión (mayor/menor)</h4>
+    <p>Tu PJ sufre depresión y todo se le hace cuesta arriba, tiene siempre un bajo estado de ánimo y
+      sentimientos de tristeza.</p>
+    <p class="rule">Si es menor al principio de cada sesión deberá
+      tirar un d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla, pierde uno de sus
+      benis hasta la próxima sesión. Si es mayor directamente cuenta con un beni menos.</p>
+    <div class="saltopagina"></div>
+    <h4>Trastorno de ansiedad generalizada (mayor/menor)</h4>
+    <p>Este complejo trastorno mental consiste en una ansiedad general y continua por todos los aspectos de
+      la vida. Se siente una ansiedad tremenda por asuntos que no son tan importantes, se siente ansiedad
+      por tomar decisiones y elegir la peor, se sienten situaciones normales como más amenazantes de lo
+      que son e incluso se siente ansiedad por tener ansiedad.</p>
+    <p class="rule">En juego, el personaje con este trastorno recibe un -2 a todas las tiradas que
+      necesite para
+      tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir que puerta es
+      mejor para atacar la cárcel local y liberar a tus compañeros.</p>
+    <p class="rule">Como mayor directamente no podrá
+      hacer la tirada, la ansiedad le atenazará dejándole en blanco.</p>
+    <h4>Ataques de pánico (mayor/menor)</h4>
+    <p>Están muy asociados con el trastorno anterior. Tu personaje sufre un miedo terrible de
+      repente y sin sentido ante una situación o evento normal (normal para el personaje).</p>
+    <p class="rule">Como desventaja menor, una vez por sesión Scheherazade podrá obligar a tu PJ a
+      hacer una tirada de Espíritu o sufrirá un terrible ataque de pánico que le imposibilitará
+      llevar a cabo la acción que quería hacer.</p>
+    <p class="rule">En caso de que sea mayor, no hará falta tirada, Scheherazade podrá hacer que el miedo
+      atenace al personaje directamente imposibilitándole seguir con la acción que deseaba hacer.</p>
+    <p>Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Puede ser muy
+      frustrante para cualquier persona no tener control de su personaje. Mi consejo es que lo uses como una
+      forma de encauzar a quien se salgan de madre.</p>
+    <h4>TOC - Trastorno obsesivo-compulsivo (mayor)</h4>
+    <p>El trastorno obsesivo-compulsivo (TOC) se caracteriza por un miedo no
+      deseado (obsesiones) que provocan comportamientos repetitivos (compulsiones). Por ejemplo, un miedo a
+      las enfermedades puede llevar a un paciente de TOC a lavarse compulsivamente las manos.</p>
+    <p class="rule">Deberás elegir una fobia menor y un hábito menor relacionado para formar el TOC de tu personaje.
+    </p>
+    <h4>Paranoia (mayor/menor)</h4>
+    <p>Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él.
+      Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo
+      conspiran a sus espaldas.</p>
+    <p class="rule">Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración
+      (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.</p>
+    <div class="saltopagina"></div>
+    <p class="rule">Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de
+      percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.</p>
+    <h4>Megalomanía (mayor/menor)</h4>
+    <p>La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de manera que puede mentir,
+      manipular o exagerar algunas situaciones o a las personas, a fin de conseguir sus objetivos.</p>
+    <p class="rule">A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido,
+      el más rico, ...), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor
+      que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será
+      a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado,
+      es decir, que tenga atributo/habilidad d8 o más.</p>
+    <!-- <h3>La llamada de Cthulhu (menor)</h3>
+    <p>Tu mente artística e imaginativa es muy susceptible a las ondas mentales del Gran Cthulhu,
+      teniendo terribles pesadillas sobre Cthulhu y su tumba acuática de R'lyeh.</p>
+    <p class="rule">Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que
+      no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una
+      noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer
+      uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu y R'lyeh.</p> -->
+    <h2>Nuevas ventajas</h2>
+    <p>Como se explicará más adelante, desaparecen una serie de ventajas, bien porque son sustituidas 
+      por otras nuevas o bien porque no tienen sentido dentro del universo de las 1001 noches:</p>
+    <ul>
+      <li>Atractivo</li>
+      <li>Muy atractivo</li>
+    </ul>
+    <h3>Acostumbrado al horror (tipo de monstruo)</h3>
+    <p><em>Prerrequisitos: Especial</em></p>
+    <p>A base de enfrentarte a un horror específico te has acostumbrado y tu cordura no sufre al estar
+      en su presencia. No pueden gastarse avances para conseguir esta ventaja, solo se puede conseguir 
+      a base de superar el horror.</p>
+    <p class="rule">A efectos de juego baja 4 niveles el TPC de un monstruo. Si el TPC modificado baja
+      por debajo de d4 no necesitas hacer tirada de TPC. Por ejemplo, si estás "acostumbrado a los profundos"
+      al ver un profundo (TPC d4) no tendrás que tirar, pero si ves una horda de 1000 profundos (TCP d12+1)
+      solo tendrás que enfrentarse a un TPC (d6, 4 niveles menos).</p>
+    <h3>Belleza sin igual</h3>
+    <p><em>Prerrequisitos: Novato</em></p>
+    <p>En las Mil y Una Noches las personas bellas son rematadamente bellas. Tal es su 
+      atractivo que ni humanos, ni bestias, ni monstruos pueden evitar su hechizo. Es por ello 
+      que no existen las ventajas Atractivo y Muy atractivo, o eres tienen una belleza legendaria 
+      o eres del montón. Solo existe Belleza sin parangón que te da un bonus de +2 a Interpretar y 
+      Persuadir frente a humanos, bestias y monstruos inteligentes. Pero, debe cogerse una 
+      desventaja mayor asociada a su fabulosa hermosura. Por ejemplo, ser tan Pobre que tus 
+      padres han concertado un matrimonio de conveniencia con alguien de tu desagrado. 
+      O puede que tener tanta belleza te haya hecho Arrogante o Cobarde.</p>
+    <h3>Imán de lo extraño</h3>
+    <p><em>Prerrequisitos: Novato</em></p>
+    <p>Todo lo extraño se siente atraído hacia ti para bien y para mal. Abres y lees el libro maldito,
+      te pierdes en el desierto y acabas encontrando el oasis maravilloso o al echar las redes al mar 
+      sacas una botella con un extraño sello mágico en el tapón.</p>
+    <p class="rule">Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un beni y la
+      mesa podrá quedarse con el mejor resultado. En caso de no conseguir ningún éxito en ninguna de las tiradas, el
+      imán de lo extraño deberá hacer una tirada en la tabla de maldiciones, pero la duración solo será en
+      horas y recuperarás el beni gastado.</p>
+    <p>En caso de que haya varias personas con esta ventaja, cada uno tendrá que gastarse un beni
+      y añadirá una tirada extra. En caso de maldición, esta caerá sobre aquellos shahriars que activaron
+      esta ventaja con un beni.</p>
+    <h3>Rico como un sultán</h3>
+    <p><b>Prerrequisitos:</b> Legendario, Extremadamente rico.</p>
+    <p>Eres tan rico como un Sultán. No hay en la tierra nada que no puedas comprar con dinero. 
+      Ni en mil vidas gastarías tu fortuna. Si quieres algo solo tienes que pedirlos y todos 
+      los que te sirven se desvivirán para conseguírtelo.</p>
+    <p>Tus palacios están llenos de lujo y confort, en tu mesa solo hay los más delicados y 
+      deliciosos platos y los mejores elixires. Vives rodeado de comodidades como camas que 
+      parece que durmieras entre nubes.</p>
+    <p>Si le pides a un genio que te haga rico, seguramente no podría darte tal cantidad de 
+      oro y joyas.</p>
+    <h2>Nuevas habilidades</h2>
+    <p>***</p>
+    <h3>Ley de los muertos</h3>
+    <p>"Ley de los muertos" representa los conocimientos que tienes sobre los Mitos de Cthulhu, los
+      monstruos, los hechizos, ritos, objetos, etc. y la historia que hay detrás de ellos. También puede 
+      servirte para identificar maldiciones y quitarlas o para identificar puntos débiles de seres de los Mitos.</p>
+    <p>Esta habilidad no se puede escoger en la creación del personaje. Solo mediante el estudio de libros
+      prohibidos y enfrentándote a los horrores de los mitos podrás subir esta habilidad. Reglas especiales:</p>
+    <ul>
+      <li>No está basada en ningún atributo. Así que su coste es como si quisiéramos subir una habilidad por
+        encima de un atributo. Es decir, que cuesta un avance subir un nivel de la habilidad.</li>
+      <li>Solo puede subirse una vez por rango, como un atributo.</li>
+      <li>Para poder subir esta habilidad, tu personaje ha debido enfrentarse a al menos una TPC o haber 
+        leído un libro prohibido durante las sesiones de juego de ese rango.</li>
+      <li>No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...</li>
+    </ul>
+    <h3>Idiomas</h3>
+    <p>Se hablan infinidad de idiomas en las tierras de las 1001 noches, pero los idiomas principales son el árabe 
+      y el persa, pero incluyen muchos más idiomas. Veamos otras opciones:</p>
+    <ul>
+      <li>Bereber</li>
+      <li>Chino</li>
+      <li>Griego jónico o griego clásico. No se habla, pero hay muchas inscripciones antiguas.</li>
+      <li>Hindú</li>
+      <li>Turco</li>
+    </ul>
+    <p>También tenemos otros idiomas no humanos. Son idiomas hablados por los extraños seres.</p>
     <h2>Toques de ambientación</h2>
     <p>Hay una serie de conceptos que son importantes para que tus aventuras tenga un 
-      toque a las Mil y Una Noches y le resulte diferente a tus mesa.</p>
-    <p>En esta ambientación de las 1001 noches como contador de historias no seras un master o un director 
+      toque a las Mil y Una Noches y le resulte diferente a tu mesa.</p>
+    <p>En esta ambientación de las 1001 noches como contador de historias no serás master o director 
       de juego sino Scheherazade y las personas de tu mesa serán shahriars, en referencia al sultán al que 
       Scheherazade le contaba cada noche un cuento.</p>
     <p>Nos referiremos como "noche" a cada sesión y como cada noche tienes 3 benis para usar deberías 
@@ -343,106 +602,310 @@
     <blockquote>Y Scheherazade dijo: Cuan grato ¡oh rey! es ver que mi cuento os ha llenado de 
       dicha, pero espero que el cuento de la proxima noche os haga más dichoso.</blockquote>
     <p>De todas formas esto son solo consejos y tuya es la elección de seguirlos o no.</p>
-    <div class="separator"></div>
-  </section>
-  <div class="saltopagina"></div>
-  <section>
-    <h1>Reglas de ambientación</h1>
-    <p>***</p>
-    <h2>Creación de personaje</h2>
-    <p>***</p>
-    <h3>Sin paragón</h3>
-    <p>En las mil y una noches no hay comodín que no sea especial, siempre destacas por algo. Puedes ser 
-      por tu astucia, por tu fuerza, por tu inteligencia, por tu belleza, etc. Para reflejar eso empiezas 
-      con una de estas ventajas gratis, aun así deberás cumplir los requisitos.</p>
+
+
+
+
+
+
+
+
+
+
+
+    <h2 class="ribbon">Horror y cordura</h2>
+    <p>El horror y la cordura sustituyen a las reglas de miedo de SWADE. Las ventajas y desventajas que afectan
+      al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo
+      shahriars tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio de Scheherazade.</p>
+    <p>Cada vez que un shahriar se enfrente a un monstruo deberá hacer una tirada de enfrentada de
+      Astucia contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre 
+      nada, el shahriar ha racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.</p>
+    <p>Si falla la tirada, deberá hacer una segunda tirada de Espíritu, si saca más éxitos que la tirada TPC
+      simplemente quedará aturdido. Si falla, perderá un punto de cordura. Como ya hemos explicado, si pierde toda su cordura,
+      cederá ante el horror y la locura y pasará a ser un PNJ.</p>
+    <p>Puede evitarse la pérdida de puntos de cordura, adquiriendo un trastorno mental permanente con un máximo
+      de 3 trastornos permanentes o gastando todos tus benis (mínimo 1) y adquiriendo un trastorno mental de forma temporal.</p>
+    <p>Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Para decidir el trastorno
+      deberá sacar una carta y revisar la tabla de Trastornos. Si es temporal deberá consultar la tabla de Duración del
+      trastorno. Los trastornos permanentes repetidos pueden apilarse si son menores, convirtiéndose en un trastorno mayor. Si
+      no, tendrá que volver a coger una carta nueva. Los temporales simplemente ampliarán el tiempo.</p>
+    <p>Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no adquieres el trastorno, 
+      sino que recuperas un punto de cordura.</p>
+    <div style="overflow-x:auto;">
+      <table>
+        <thead>
+          <tr>
+            <th colspan="5">Tabla de Trastornos</th>
+          </tr>
+          <tr>
+            <th></th>
+            <th>&hearts;</th>
+            <th>&clubs;</th>
+            <th>&spades;</th>
+            <th>&diams;</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>2-3</th>
+            <td>Paranoia (menor)</td>
+            <td>Delirio (menor)</td>
+            <td>Fobia (menor)</td>
+            <td>Manía (menor)</td>
+          </tr>
+          <tr>
+            <th>4-5</th>
+            <td>Envidioso (menor)</td>
+            <td>Hábito (menor)</td>
+            <td>Fobia (menor)</td>
+            <td>Trastorno de ansiedad generalizada (menor)</td>
+          </tr>
+          <tr>
+            <th>6-7</th>
+            <td>Fobia (menor)</td>
+            <td>Manía (menor)</td>
+            <td>Delirio (menor)</td>
+            <td>Fobia (menor)</td>
+          </tr>
+          <tr>
+            <th>8-9</th>
+            <td>Amnesia y flashbacks (menor)</td>
+            <td>Ataques de pánico (menor)</td>
+            <td>Fobia (menor)</td>
+            <td>Arrogante (mayor)</td>
+          </tr>
+          <tr>
+            <th>10</th>
+            <td>Avaricioso (menor)</td>
+            <td>Megalomanía (menor)</td>
+            <td>Envidioso (mayor)</td>
+            <td>Arrogante (mayor)</td>
+          </tr>
+          <tr>
+            <th>J</th>
+            <td>Ataques de pánico (menor)</td>
+            <td>Megalomanía (mayor)</td>
+            <td>Avaricioso (menor)</td>
+            <td>Fobia (mayor)</td>
+          </tr>
+          <tr>
+            <th>Q</th>
+            <td>Trastorno de ansiedad generalizada (mayor)</td>
+            <td>Avaricioso (mayor)</td>
+            <td>Exceso de Confianza (mayor)</td>
+            <td>Sanguinario</td>
+          </tr>
+          <tr>
+            <th>K</th>
+            <td>Trastorno obsesivo-compulsivo (mayor)</td>
+            <td>Amnesia y flashbacks (mayor)</td>
+            <td>Ataques de pánico (mayor)</td>
+            <td>Delirio (mayor)</td>
+          </tr>
+          <tr>
+            <th>A</th>
+            <td>Fobia (mayor)</td>
+            <td>Paranoia (Mayor)</td>
+            <td>Hábito (mayor)</td>
+            <td>Depresión (mayor)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div style="overflow-x:auto;">
+      <table>
+        <thead>
+          <tr>
+            <th colspan="5">Tabla de Duración del trastorno</th>
+          </tr>
+          <tr>
+            <th></th>
+            <th>&hearts;</th>
+            <th>&clubs;</th>
+            <th>&spades;</th>
+            <th>&diams;</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>2 - 10</th>
+            <td>8 turnos</td>
+            <td>8 minutos</td>
+            <td>8 horas</td>
+            <td>8 días</td>
+          </tr>
+          <tr>
+            <th>J</th>
+            <td>10 turnos</td>
+            <td>10 minutos</td>
+            <td>10 horas</td>
+            <td>10 días</td>
+          </tr>
+          <tr>
+            <th>Q</th>
+            <td>12 turnos</td>
+            <td>12 minutos</td>
+            <td>12 horas</td>
+            <td>12 días</td>
+          </tr>
+          <tr>
+            <th>K</th>
+            <td>14 turnos</td>
+            <td>14 minutos</td>
+            <td>14 horas</td>
+            <td>14 días</td>
+          </tr>
+          <tr>
+            <th>As</th>
+            <td>20 turnos</td>
+            <td>20 minutos</td>
+            <td>20 horas</td>
+            <td>20 días</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p>La TPC del monstruo es específica para cada shahriar, pero solo debe hacerse una tirada con cada tipo de
+      monstruo, aunque la cantidad sí puede modificar la TPC. Es decir, que si nos encontramos con 4 profundos 
+      y una docena de ghūles. Cada jugador deberá hacer una tirada enfrentada contra los profundos y otra contra 
+      los ghūles.</p>
+    <h3 class="ribbon">Modificaciones de las TPC</h3>
+    <p>Las TPCs pueden ser modificadas en determinadas situaciones.</p>
     <ul>
-      <li>Afortunado</li>
-      <li>Callejear</li>
-      <li>Carismático</li>
-      <li>Belleza sin igual (ver en Nuevas ventajas)</li>
-      <li>Fornido</li>
-      <li>Imán de lo extraño (ver en Nuevas ventajas)</li>
-      <li>Investigador</li>
-      <li>Ladrón</li>
-      <li>Lingüista</li>
-      <li>Mandíbula de hierro</li>
-      <li>Sentir el peligro</li>
-      <li>Señor de las bestias</li>
+      <li><b>Grandes grupos:</b> Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven
+        en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos 
+        locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver 
+        como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para 
+        los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.</li>
+      <li><b>Acostumbrarse:</b> Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas
+        acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado 
+        monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja 
+        Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental 
+        permanente o temporal, perderá una marca.</li>
+      <li><b>Pásame el haschisch:</b> Si el personaje puede prepararse para el horror al que se va a
+        enfrentar, por ejemplo, masticando una buena pieza de haschisch antes de entrar de noche en un 
+        cementerio infectado de ghūles. Para poder prepararse, deberá ser consciente de alguna manera de que va 
+        a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que 
+        estar en una situación de estrés, por ejemplo, un combate, persecución, etc. y deberá poder pasar unas 
+        3 rondas preparándose para el horror que se le viene encima.</li>
+      <li><b>Frenesí del combate:</b> Una vez empezado el combate, los jugadores no tendrán necesidad de hacer
+        TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede 
+        pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.</li>
     </ul>
-    <p>Debes ser el único que tenga esa ventaja, nadie más de la mesa podrá tener esa ventaja, ni 
-      comprarla con avances más adelante. Está ventaja te debería hacer único y especial dentro de la mesa.</p>
-    <p>Como Scheherazade, puedes meter en ese listado todas las ventajas que desees, siempre que vayan a 
-      darle un carácter único a quien la escoja. Fornido hace que seas más grande que el resto de shahriars, pero 
-      Puntos de poder no te hace destacar por algo entre los shahriars de tu mesa.</p>
-    <h2>Nuevas desventajas</h2>
+    <div style="overflow-x:auto;">
+      <table>
+        <thead>
+          <tr>
+            <th colspan="6">Tabla de Modificación del TPC por grandes grupos</th>
+          </tr>
+          <tr>
+            <th>Tamaño de la manada</th>
+            <th>d4</th>
+            <th>d6</th>
+            <th>d8</th>
+            <th>d10</th>
+            <th>d12</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>hasta tamaño del grupo (0)</td>
+            <td>d4</td>
+            <td>d6</td>
+            <td>d8</td>
+            <td>d10</td>
+            <td>d12</td>
+          </tr>
+          <tr>
+            <td>hasta tamaño del grupo x 2 (+1)</td>
+            <td>d6</td>
+            <td>d8</td>
+            <td>d10</td>
+            <td>d12</td>
+            <td>d12+1</td>
+          </tr>
+          <tr>
+            <td>hasta tamaño del grupo x 5 (+2)</td>
+            <td>d8</td>
+            <td>d10</td>
+            <td>d12</td>
+            <td>d12+1</td>
+            <td>d12+2</td>
+          </tr>
+          <tr>
+            <td>hasta tamaño del grupo x 10 (+3)</td>
+            <td>d10</td>
+            <td>d12</td>
+            <td>d12+1</td>
+            <td>d12+2</td>
+            <td>d12+3</td>
+          </tr>
+          <tr>
+            <td>hasta tamaño del grupo x 20 (+5)</td>
+            <td>d12</td>
+            <td>d12+1</td>
+            <td>12+2</td>
+            <td>d12+3</td>
+            <td>d12+4</td>
+          </tr>
+          <tr>
+            <td>hasta tamaño del grupo x 50 (+6)</td>
+            <td>d12+1</td>
+            <td>d12+2</td>
+            <td>d12+3</td>
+            <td>d12+4</td>
+            <td>d12+5 </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <h3>Recuperar cordura</h3>
+    <p>La cordura solo se recupera entre campañas o en situaciones especiales de heroísmo excepcional. No hay
+      psicólogos ni psiquiatras que puedan reparar tu quebrada psique, solo enfrentarse al horror y vencerlo
+      puede ayudar a sanar tu mente.</p>
+    <p>Estas situaciones vendrán marcadas en la campaña. Por ejemplo, puede establecerse que salvar
+      a un pueblo de pescadores de ser masacrado por una horda de dandâns puede recuperar 1 punto de cordura.
+      Conseguir que Hastur no entre en nuestra dimensión podría devolver toda la cordura.</p>
+    <h3>Horror y secuaces</h3>
+    <p>Todos los secuaces tienen un
+      único punto de cordura y si lo pierden caerán inmediatamente incapacitados entre gritos de horror o saldrán
+      corriendo presas del miedo. Como los comodines podrán coger un trastorno en vez de perder su punto de cordura,
+      pero no podrás hacerlo más que una vez. </p>
+    <p>Queda a discreción de Scheherazade que le pasa al secuaz/aliado después de perder su punto de cordura.
+      Puede que se recupere tras el encuentro con graves trastornos mentales o no sea recuperable para el resto de la
+      campaña. Puede ser una buena historia secundaria tratar de recuperar la cordura de un aliado enloquecido.</p>
+
+
+
+
+
+    <h2>Equipo</h2>
     <p>***</p>
-    <h3>Más cerca de la locura (mayor)</h3>
-    <p>Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil
-      que el común de los mortales. Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea,
-      tu psique es más débil de lo normal y estás más cerca de la locura que el resto de tu equipo.</p>
-    <p class="rule">Empiezas con 3 puntos de cordura en vez de los 4 normales. Nunca podrás tener
-      más de 3 puntos de cordura, aunque termines una campaña con éxito y el DJ diga que recuperáis todos
-      los puntos de cordura.</p>
-    <h3>La llamada de Cthulhu (menor)</h3>
-    <p>Tu mente artística e imaginativa es muy susceptible a las ondas mentales del Gran Cthulhu,
-      teniendo terribles pesadillas sobre Cthulhu y su tumba acuática de R'lyeh.</p>
-    <p class="rule">Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que
-      no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una
-      noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer
-      uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu y R'lyeh.</p>
-    <h2>Nuevas ventajas</h2>
-    <p>Como se explicará más adelante desaparecen una serie de ventajas, bien porque son sustituidas 
-      por otras nuevas o bien porque no tienen sentido dentro del universo de las 1001 noches:</p>
-    <ul>
-      <li>Atractivo</li>
-      <li>Muy atractivo</li>
-    </ul>
-    <h3>Belleza sin igual</h3>
-    <p>En las Mil y Una Noches las personas bellas son rematadamente bellas. Tal es su 
-      atractivo que ni humanos, ni bestias, ni monstruos pueden evitar su hechizo. Es por ello 
-      que no existen las ventajas Atractivo y Muy atractivo, o eres tienen una belleza legendaria 
-      o eres del montón. Solo existe Belleza legendaria que te da un bonus de +2 a Interpretar y 
-      Persuadir frente a humanos, bestias y monstruos inteligentes. Pero, debe cogerse una 
-      desventaja mayor asociada a su fabulosa hermosura. Por ejemplo, ser tan Pobre que tus 
-      padres han concertado un matrimonio de conveniencia con alguien de tu desagrado. 
-      O puede que tener tanta belleza te haya hecho Arrogante o Cobarde.</p>
-    <h3>Imán de lo extraño</h3>
-    <p><em>Prerrequisitos: Novato</em></p>
-    <p>Todo lo extraño se siente atraído hacia ti para bien y para mal. Abres y lees el libro maldito,
-      te pierdes en el desierto y acabas encontrando el oasis maravilloso o al echar las redes al mar 
-      sacas una botella con un extraño sello mágico en el tapón.</p>
-    <p class="rule">Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un beni y la
-      mesa podrá quedarse con el mejor resultado. En caso de no conseguir ningún éxito en ninguna de las tiradas, el
-      imán de lo extraño deberá hacer una tirada en la tabla de maldiciones, pero la duración solo será en
-      horas y recuperarás el beni gastado.</p>
-    <p>En caso de que haya varias personas con esta ventaja, cada uno tendrá que gastarse un beni
-      y añadirá una tirada extra. En caso de maldición, esta caerá sobre aquellos shahriars que activaron
-      esta ventaja con un beni..</p>
-    <h3>Rico como un sultán</h3>
-    <p><b>Prerrequisitos:</b> Legendario, Extremadamente rico.</p>
-    <p>Eres tan rico como un Sultán. No hay en la tierra nada que no puedas comprar con dinero. 
-      Ni en mil vidas gastarías tu fortuna. Si quieres algo solo tienes que pedirlos y todos 
-      los que te sirven se desvivirán para conseguírtelo.</p>
-    <p>Tus palacios están llenos de lujo y confort, en tu mesa solo hay los más delicados y 
-      deliciosos platos y los mejores elixires. Vives rodeado de comodidades como camas que 
-      parece que durmieras entre nubes.</p>
-    <p>Si le pides a un genio que te haga rico, seguramente no podría darte tal cantidad de 
-      oro y joyas.</p>
-    <h2>Nuevas habilidades</h2>
+    <h3>Bang cretense</h3>
+    <blockquote>... "¡Oh efrit del anillo! ¿conoces las diversas especies de polvos soporíferos?" El efrit 
+      contestó: "Es lo que mejor conozco!" Aladino dijo: "¡En ese caso te ordeno que me traigas una 
+      onza de bang cretense, una sola toma del cual sea capaz de derribar a un elefante!" Y desapareció 
+      el efrit, pero para volver al cabo de un momento, llevando en los dedos una cajita, que entregó 
+      a Aladino, diciéndole: "¡Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina!" ...
+      Y se fué.</blockquote>
     <p>***</p>
-    <h3>Mitos de Cthulhu</h3>
-    <p>Mitos de Cthulhu representa los conocimientos que tienes sobre los Mitos de Cthulhu, los
-      monstruos, los hechizos, ritos, objetos, etc. y la historia que hay detrás de ellos. También puede 
-      servirte para identificar maldiciones y quitarlas o para identificar puntos débiles de seres de los Mitos.</p>
-    <p>Esta habilidad no se puede escoger en la creación del personaje. Solo mediante el estudio de libros
-      prohibidos y enfrentándote a los horrores de los mitos podrás subir esta habilidad. Reglas especiales:</p>
+
+
+
+
+
+
+
+
+    <h2>Benis</h2>
+    <p>Hay nuevos usos para los benis en dos apartados muy importantes de este juego, la magia y la cordura. 
+      Debes hacer comprender a tus shahriars que estos usos normalmente deben ser reservados para momentos 
+      épicos, cuando la situación es a vida o muerte y sobre todo "queda bien" en la historia.</p>
     <ul>
-      <li>No está basada en ningún atributo. Así que su coste es como si quisiéramos subir una habilidad por
-        encima de un atributo. Es decir, que cuesta un avance subir un nivel de la habilidad.</li>
-      <li>Solo puede subirse una vez por rango, como un atributo.</li>
-      <li>Para poder subir esta habilidad, tu personaje ha debido enfrentarse a al menos una TPC o haber 
-        leído un libro prohibido durante las sesiones de juego de ese rango.</li>
-      <li>No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...</li>
+      <li>Puedes gastar todos tus benis (mínimo 1) para lanzar un hechizo sin necesidad de gastar puntos de poder.
+        Esto supone que se pueden lanzar hechizos sin tener puntos de poder o lanzar hechizos que piden más puntos 
+        de poder de los que tienes.</li>
+      <li>Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.</li>
     </ul>
     <div class="separator"></div>
   </section>
@@ -490,10 +953,10 @@
       aproximaban a lo humano en diversos grados. La mayoría de los cuerpos, toscamente 
       bípedos, tenían un aire canino ...</blockquote> -->
     <p>Los ghūles son unos humanoides desgarbados con rasgos de hiena. Salen de noche 
-      debido a que son fotosensibles. Son necrófagos y por tanto se establecen cerca de 
+      debido a que son fotosensibles. Son necrófagos y, por tanto, se establecen cerca de 
       zona de enterramiento. Se organizan en pequeños grupos familiares y son muy territoriales. 
       Pueden infectar a los humanos mediante heridas con una enfermedad que convierte a la 
-      victima en un ghūl.</p>
+      víctima en un ghūl.</p>
     <ul>
       <li><b>Atributos:</b> Agilidad d8, Astucia d8, Espíritu d8, Fuerza d12, Vigor d8</li>
       <li><b>Habilidades:</b> Pelear d6, Atletismo d12, Notar d6, Sigilo d12</li>
@@ -594,7 +1057,7 @@
       si se le dan eones de tiempo.</p>
     <ul>
       <li><b>Atributos:</b> Agilidad d6, Astucia d8, Espíritu d6, Fuerza d8, Vigor d8</li>
-      <li><b>Habilidades:</b> Atletismo d8, Idioma nativo d8, Mitos de Cthulhu d4, Notar d8, Pelear d6, 
+      <li><b>Habilidades:</b> Atletismo d8, Idioma nativo d8, Ley de los muertos d4, Notar d8, Pelear d6, 
         Sigilo d10, Supervivencia d8</li>
       <li><b>Paso:</b> 6; <b>Parada:</b> 6 (5); <b>Dureza:</b> 8 (2)</li>
       <li><b>Capacidades especiales:</b>
