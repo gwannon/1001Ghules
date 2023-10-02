@@ -7,3 +7,4 @@ de los relatos de horror cósmico que Scheherazade conto al sultán Shahriar dur
 ### 0.1 En desarrollo
 * Conceptos básicos y estructura general
 * Diseño Básico y CSS
+* Esquema principal del contenido
