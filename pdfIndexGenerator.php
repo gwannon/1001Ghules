@@ -1,14 +1,22 @@
 <?php
 
-//https://packagist.org/packages/paquettg/php-html-parser
+preg_match("/<body[^>]*>(.*?)<\/body>/is", file_get_contents('index.html'), $matches);
 
-// Assuming you installed from Composer:
-require "vendor/autoload.php";
-use PHPHtmlParser\Dom;
+$html = explode("\n", removeHtmlComments($matches[1]));
 
-$dom = new Dom;
-$dom->loadFromFile('index.html');
-$h1s = $dom->find('body > section > .saltopagina, h1, h2, body > .saltopagina');
-foreach ($h1s as $h1) {
-  echo $h1->getAttribute('tag')." - ".$h1->text."\n";
+$lines = [];
+foreach($html as $line) {
+  $line = cleanLine($line);
+  if(preg_match("/(<h1>|<h2>|<h3>|<h4>|saltopagina)/", $line)) $lines[] = $line;
+}
+
+print_r($lines);
+
+function cleanLine($line) {
+  $line = str_replace(array("  ", "   ", "\t", "\n", "\r"), "", $line);
+  return $line;
+}
+
+function removeHtmlComments($content = '') {
+  return preg_replace('/<!--(.|\s)*?-->/', '', $content);
 }
