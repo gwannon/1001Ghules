@@ -6,7 +6,11 @@ exiftool -overwrite_original -Title="Mil y Un Ghūles - Ambientación de Savage 
 
 php pdfIndexGenerator.php > pdf.info
 
-pdftk 'temp.pdf' update_info_utf8 'pdf.info' output '1001Ghules.pdf'
+pdftk 'temp.pdf' update_info_utf8 'pdf.info' output 'temp2.pdf'
 
 rm temp.pdf
 rm pdf.info
+
+./pagination.sh temp2.pdf 1001Ghules.pdf
+
+rm temp2.pdf
