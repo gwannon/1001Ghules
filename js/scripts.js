@@ -8,21 +8,19 @@ $(document).ready(function () {
     .each(function () {
       counter++;    
       $(this).attr('id', 'anchor' + counter);
-      console.log(counter);        
       $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") +
-        '" data-scroll="#anchor' + counter + '">' +
+        '">' +
         this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
       currentDiv = Math.floor(counter / step) + 1;
     });
-
-
-     
-  $(".likeH1,.likeH2,.likeH3,.likeH4,.likeH5,.likeTH").click(function (e) {
-    e.preventDefault();
-    $('html,body').animate({
-      scrollTop: $($(this).data("scroll")).offset().top
-    }, 'fast');
-  });
+   
+    $('a[href^="#"]').not('.likeH1, .likeH2, .likeH3').click(function (e) {
+      e.preventDefault();
+      console.log("*[data-scroll='"+$(this).attr("href")+"']");
+      $('html,body').animate({
+        scrollTop: $('*[data-scroll="'+$(this).attr("href")+'"]').offset().top
+      }, 'fast');
+    });
 
   /*$("body>a:last-of-type").click(function () {
     $('html,body').animate({
@@ -39,7 +37,7 @@ $(document).ready(function () {
   });*/
 
   /* Aleatorio de tablas */
-  $("table[data-dice]").click(function (e) {
+  /*$("table[data-dice]").click(function (e) {
     $("tbody tr").removeClass("random");
     let rand = Math.floor(Math.random() * parseInt($(this).data("dice")));
     var count = 0;
@@ -63,7 +61,7 @@ $(document).ready(function () {
         count++;
       }
     });
-  });
+  });*/
 });
 
 function ucfirst(string) {
