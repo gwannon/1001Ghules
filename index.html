@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#10181e">
+  <meta name="theme-color" content="#17222a">
   <title>Mil y Un Ghūles - Ambientación de Savage Worlds para poder jugar relatos de horror cósmico en las Mil y Una Noches</title>
   <meta name="description"
     content="Mil y Un Ghūles es una ambientación de Savage Worlds Edición Aventura para poder jugar relatos de horror cósmico en las Mil y Una Noches. Versión 0.2">
@@ -90,7 +90,7 @@
       margin: 0 calc(var(--margin) * 0.4) ;
     }
 
-    section > *:is(p, ul, blockquote, .saltopagina) + *:is(h3, h2, .likeh2) {
+    section > *:is(p, ul, blockquote, .saltopagina) + *:is(h3, h2, .likeh2, img) {
       margin-top: var(--margin);
     }
 
@@ -285,8 +285,8 @@
       background-color: var(--color-gold);
     }
 
-    img.half {
-      width: 100%;
+    img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img) {
+      width: calc(100% - (var(--margin) * 2));
     }
 
     @media (min-width: 500px) {
@@ -423,7 +423,11 @@
     </ul>
     <h3>Ley y justicia</h3>
     <p>***</p>
+    <div class="saltopagina"></div>
     <h2>Ciudades</h2>
+    <a href="https://www.deviantart.com/typhonart/art/Typhonart-Temple-Of-Triangle-599300492" 
+      target="_blank" rel="noopener" title="Typhonart Temple Of Triangle por Typhonart">
+        <img src="./assests/images/vieja-ciudad.jpg" alt="Typhonart Temple Of Triangle por Typhonart"></a>
     <p>***</p>
     <h3>Zonas de las ciudad</h3>
     <p>***</p>
