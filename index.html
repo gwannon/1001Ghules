@@ -84,7 +84,8 @@
     section > h4,
     section > ol,
     section > ul,
-    section > div {
+    section > div,
+    section > a > img  {
       padding: 0 0 calc((var(--margin) * 0.4) / 2) 0;
       margin: 0 calc(var(--margin) * 0.4) ;
     }
@@ -112,7 +113,8 @@
       section > h4,
       section > ol,
       section > ul,
-      section > div {
+      section > div,
+      section > a > img  {
         padding: 0 0 calc(var(--margin) / 2) 0;
         margin: 0 var(--margin) ;
       }
@@ -283,6 +285,17 @@
       background-color: var(--color-gold);
     }
 
+    img.half {
+      width: 100%;
+    }
+
+    @media (min-width: 500px) {
+      img.half {
+        width: 40%;
+        float: right;
+        margin: 0px var(--margin) 5px 5px;
+      }
+    }
   </style>
   <!-- /* cSpell:enable */ -->
 </head>
@@ -452,7 +465,8 @@
     <div class="saltopagina"></div>
     <h2>Toques de ambientación</h2>
     <p>Hay una serie de conceptos que son importantes para que tus aventuras tenga un 
-      toque a las Mil y Una Noches y le resulte diferente a tu mesa.</p>
+      toque a las Mil y Una Noches y le resulte diferente a tu mesa. Son cosas pequeñas pero que creo 
+      sinceramente que pueden hacer las sesiones diferentes.</p>
     <p>En esta ambientación de las 1001 noches como contador de historias no serás master o director 
       de juego sino Scheherazade y las personas de tu mesa serán shahriars, en referencia al sultán al que 
       Scheherazade le contaba cada noche un cuento.</p>
@@ -1556,6 +1570,9 @@
       <p><b>Referencia:</b> Historia mágica del caballo de ébano (n. 414-431)</p></blockquote>
     <p>***</p>
     <h3>Lampara mágica</h3>
+    <a href="https://pixabay.com/es/photos/aladin-l%C3%A1mpara-milagrosa-magia-2368384/" 
+      target="_blank" rel="noopener" title="Aladin Lámpara Milagrosa por Karinamannott">
+        <img src="./media/lampara.jpg" class="half" alt="Aladin Lámpara Milagrosa por Karinamannott"></a>
     <p>***</p>
     <p><b>Referencia:</b> Historia de Aladino y de la lampara mágica (n. 731-774)</p>
     <h3>Anillo mágico</h3>
@@ -1603,6 +1620,7 @@
     <div class="saltopagina"></div>
     <h2>Atribuciones</h2>
     <h3>Imágenes</h3>
+    <p>Estas son las imágenes que por diseño no he podido atribuir correctamente enlazándola correctamente.</p>
     <ul>
       <li><a
           href="https://es.m.wikipedia.org/wiki/Archivo:Ferdinand_Keller_-_Scheherazade_und_Sultan_Schariar_%281880%29.jpg">scheherazade-schariar.jpg</a>
