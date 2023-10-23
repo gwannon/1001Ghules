@@ -5,6 +5,7 @@ de los relatos de horror cósmico que Scheherazade conto al sultán Shahriar dur
 ## Versiones
 
 ### 0.2 En desarrollo
+* Reglas de ambientación: Creación de personaje, ventajas, desventajas y deseos.
 
 ### 0.1 22/10/2023
 * Conceptos básicos y estructura general
