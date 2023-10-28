@@ -1,6 +1,5 @@
 # Mil y Un Ghūles
-Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar relatos dentro 
-de los relatos de horror cósmico que Scheherazade conto al sultán Shahriar durante 1001 noches.
+Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los relatos de horror cósmico que Scheherazade conto al sultán Shahriar durante 1001 noches.
 
 ## Versiones
 
