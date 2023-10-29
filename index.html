@@ -82,6 +82,7 @@
     section > h2,
     section > h3,
     section > h4,
+    section > h5,
     section > ol,
     section > ul,
     section > div,
@@ -112,6 +113,7 @@
       section > h2,
       section > h3,
       section > h4,
+      section > h5,
       section > ol,
       section > ul,
       section > div,
@@ -172,6 +174,10 @@
 
     h4 {
       font-size: 1.2em;
+    }
+
+    h5 {
+      font-size: 1em;
     }
 
     section > ol,
@@ -291,7 +297,7 @@
       background-color: var(--color-gold);
     }
 
-    img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img) {
+    img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img, img.silueta) {
       width: 100%;
       border: 1px solid black;
       box-shadow: 1px 1px 8px 3px var(--color-old-gold);
@@ -304,6 +310,14 @@
         float: right;
       }
     }
+
+    .silueta {
+shape-outside: url(./assests/images/botella-sellada.png);
+shape-image-threshold: 0.5;
+shape-margin: 20px;
+float: left;
+width: 150px;
+}
   </style>
   <!-- /* cSpell:enable */ -->
 </head>
@@ -394,8 +408,8 @@
     <p>Además, todos los textos que supongan reglas y sistemas de juego estarán dentro de cajas como esta.</p>
     <p class="rule">Aquí encontrarás reglas y sistemas de juego.</p>
     <p>Los nombres de personas, objetos o lugares a veces tienen paréntesis. Dentro de los paréntesis está 
-      su referencia a los Mitos. Por ejemplo, si vemos "Dandan (Profundo)" sabemos que los Dandan, una especie de 
-      sirenas, hacen referencia a los Profundos de los Mitos de Cthulhu.</p>
+      su referencia a los Mitos. Por ejemplo, si vemos "Gente del mar (Profundo)" sabemos que la Gente del 
+      mar, una especie de sirenas, hace referencia a los Profundos de los Mitos de Cthulhu.</p>
     <p>Por ultimo, para agilizar las consultas, todos los lugares, los objetos y los seres de esta 
       ambientación tienen referencias al título del cuento de las 1001 noches y el número de noche 
       donde se mencionan.</p>
@@ -403,7 +417,7 @@
     <p>***</p>
     <h2>Los Yinns</h2>
     <p>***</p>
-    <p>Los yinns tienen libre albedrío y por tanto pueden ser buenos o malos y ser o no ser creyentes.</p>
+    <p>Los yinns tienen libre albedrío y, por tanto, pueden ser buenos o malos y ser o no ser creyentes.</p>
     <h3>Relaciones sociales</h3>
     <blockquote>y me dijo: “¿No reconoces a tu esposa? Te he salvado de la muerte con ayuda 
       del Altísimo. Porque has de saber que soy una efrita. Y desde el instante en que te vi, 
@@ -414,21 +428,21 @@
       siento el mayor furor contra ellos y es preciso que los mate”.
       <p><b>Referencia:</b> Cuento del segundo jeque (n. 2)</p></blockquote>
     <p>Dentro de su libre albedrío, son libres para tener las relaciones sexo-afectivos que quieran 
-      con quien quieran y definirse en el genero que quieran.</p>
-    <p>También pueden tener relaciones sexo-afectivas de cualquier tipo con humanos. De hecho son famosos 
-      los tratados de juristas mediavales estableciendo leyes que rigieran, las bodas, las separaciones o las 
+      con quien quieran y definirse en el género que quieran.</p>
+    <p>También pueden tener relaciones sexo-afectivas de cualquier tipo con humanos. De hecho, son famosos 
+      los tratados de juristas medievales estableciendo leyes que rigieran, las bodas, las separaciones o las 
       herencias de los yinns.</p>
     <h2>Sociedad</h2>
     <p>***</p>
     <h3>Títulos nobiliarios</h3>
-    <p>En el mundo de las 1001 noches hay una serie de títulos que debemos tener en cuenta ya que cada uno supone 
+    <p>En el mundo de las 1001 noches hay una serie de títulos que debemos tener en cuenta, ya que cada uno supone 
       unos deberes y obligaciones.</p>
     <p>Aquí tienes un listado de esos títulos ordenados de más a menos poder.</p>
     <ul>
       <li><b>Califa:</b> ***</li>
       <li><b>Malik, a:</b> ***</li>
       <li><b>Emir, a:</b> Este título se usa con personas que ostentan altos cargos militares o que gobierna una 
-        provincia. También puede usarse el termino walí.</li>
+        provincia. También puede usarse el término walí.</li>
       <li><b>Sátrapa:</b> Como el título anterior, hace referencia a quien gobierna una provincia en Persia. 
         Tiene en castellano connotaciones de mal gobernante, pero no se aplica en este caso.</li>
       <li><b>Sultán, ana:</b> ***</li>
@@ -441,7 +455,7 @@
       <li><b>Kadi:</b> También llamados cadí. Es el título que se da a personas encargadas de impartir justicia.</li>
       <li><b>Jerife:</b> También conocido como cherif o sharif. Son descendientes del profeta Mahoma y es por ello 
         que tienen cierta distinción social.</li>
-      <li><b>Jeque:</b> Jeque es el termino que se usa para definir a la persona anciana y sabia a la que se consulta
+      <li><b>Jeque:</b> Jeque es el término que se usa para definir a la persona anciana y sabia a la que se consulta
         sobre diversos temas.</li>
       <li><b>Sidi:</b> Sidi o sayyid es un título de respeto para referirte a tus superiores. Un genio servidor usaría 
         este título con la persona a la que debe servidumbre.</li>
@@ -463,7 +477,7 @@
     <h4>Bazares y zocos</h4>
     <p>Normalmente localizados en la medina, son el centro neurálgico de la ciudad. ***</p>
     <p>La principal diferencia entre el zoco y el bazar es que el zoco está formado por un conjunto de calles abiertas 
-      que a veces están cubiertas, mientras que el bazar es un lugar cerrado, la mayoría de espacios esta cubierto 
+      que a veces están cubiertas, mientras que el bazar es un lugar cerrado, la mayoría de espacios está cubierto 
       y las puertas de acceso se cierran cuando termina la actividad del día.</p>
     <h4>Maristán</h4>
     <p>El maristán era el hospital donde cuidar enfermos ***.</p>
@@ -498,8 +512,8 @@
     <p>Hay una serie de conceptos que son importantes para que tus aventuras tenga un 
       toque a las Mil y Una Noches y le resulte diferente a tu mesa. Son cosas pequeñas pero que creo 
       sinceramente que pueden hacer las sesiones diferentes.</p>
-    <p>En esta ambientación de las 1001 noches como contador de historias no serás master o director 
-      de juego sino Scheherazade y las personas de tu mesa serán shahriars, en referencia al sultán al que 
+    <p>En esta ambientación de las 1001 noches como contador de historias no serás master o DJ 
+      sino Scheherazade y las personas de tu mesa serán shahriars, en referencia al sultán al que 
       Scheherazade le contaba cada noche un cuento.</p>
     <p>Nos referiremos como "noche" a cada sesión y como cada noche tienes 3 benis para usar deberías 
       llamarlos "deseos". De forma que cuando tus shahriars gasten un beni digan "Voy a gastar un deseo".</p>
@@ -524,7 +538,7 @@
     <h2>Creación de personaje</h2>
     <p>Hay una serie de reglas en esta ambientación que modifican las normas generales de creación 
       de personajes. No son muchas, ni muy complicadas, pero tienen su sentido dentro de esta extraña 
-      ambientación. Principalmente son cambios en las habilidades y la regla de Sin paragón que hace 
+      ambientación. Principalmente son cambios en las habilidades y la regla de Sin parangón que hace 
       único a tu shahriar.</p>
     <ul>
       <li>No existen habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que 
@@ -536,7 +550,7 @@
         y otro idioma a su Astucia -1 nivel (mínimo d4).</li>
       <li>Todos los comodines empiezan con la ventaja Afinidad mágica.</li>
     </ul>
-    <h3>Sin paragón</h3>
+    <h3>Sin parangón</h3>
     <p>En las mil y una noches no hay comodín que no sea especial, siempre destacas por algo. Puedes ser 
       por tu astucia, por tu fuerza, por tu inteligencia, por tu belleza, etc. Para reflejar eso empiezas 
       con una de estas ventajas gratis, además de la ventaja por ser humano. Ten en cuenta que deberás cumplir 
@@ -565,19 +579,19 @@
     <p>Todo comodín tiene un qareen, un tipo de shaitan (yinn de tipo demoníaco), que podemos definir como un gemelo 
       espiritual maligno. Según la tradición, se sienta sobre tus hombros y te susurra que mientas, robes y hagas 
       todo tipo de acciones abominables.</p>
-    <p>El qareen ofrece la posibilidad de que el beni tenga un +4 en vez del +2 normal, pero solo se pueden usar 
-      en acciones malvadas (a discreción de Scheherazade). Si se fracasa la tirada el qareen tiene via libre para 
+    <p>El qareen ofrece la posibilidad de que el deseo tenga un +4 en vez del +2 normal, pero solo se pueden usar 
+      en acciones malvadas (a discreción de Scheherazade). Si se fracasa la tirada, el qareen tiene via libre para 
       poseer al comodín y obligarle a hacer actos malvados y deleznables.</p>
     <p>Además del método anterior, también se puede ser poseído por tu qareen sacando un joker para determinar el 
       tipo de trastornos y su duración tras fallar alguna tirada de perdida de cordura (TPC).</p>
     <h4>Posesión</h4>
-    <p>La duración de la posesión se determina tirando en la tabla de Tabla de Duración del trastorno. Si son periodos 
-      cortos el qareen tendrá el control durante todo el tiempo. En periodos de más de 1 día, Scheherazade podrá 
+    <p>La duración de la posesión se determina tirando en la Tabla de Duración del trastorno. Si son periodos 
+      cortos, el qareen tendrá el control durante todo el tiempo. En periodos de más de 1 día, Scheherazade podrá 
       elegir cuándo y dónde toma el control.</p>
-    <p>Durante la posesión, la persona poseída podrá actuar normalmente pero cuando quiera Scheherazade podrá
+    <p>Durante la posesión, la persona poseída podrá actuar normalmente, pero cuando quiera Scheherazade podrá
       tomar el control y hacer lo que desee. Los actos durante la posesión deberán ser sobre todos malignos pero 
       no tienen que ser siempre graves per se. Serán plenamente conscientes de los actos que han hecho durante 
-      la posesión y pero no serán conscientes de que el qareen es el culpables de las decisiones tomadas.</p>
+      la posesión y sin embargo no serán conscientes de que el qareen es el culpable de las decisiones tomadas.</p>
     <p>En el apartado <a href="#poseido-qareen">Poseído por un qareen</a> se establecen las ventajas y desventajas 
       que otorga el estar controlado por tu qareen.</p>
     <h2>Nuevas desventajas</h2>
@@ -591,13 +605,13 @@
     </ul>
     <h3>Hija de un zapatero remendón (mayor)</h3>
     <p>Esta desventaja sustituye a Pobreza. En las historias de las 1001 noche, si eres pobre eres rematadamente pobre y 
-      además de tienes el desprecio de los ricos y poderosos que te consideran escoria.</p>
+      además tienes el desprecio de los ricos y poderosos que te consideran escoria.</p>
     <p>Aladino es el hijo de un pobre zapatero remendón y su madre y él malviven hilando lana. Ali-Baba es un pobre 
       leñador que solo posee 3 mulas.</p>
     <p class="rule">Esta desventaja implica las desventajas que da Pobreza, pero también supone que recibes un -2 a las 
       tiradas de Persuadir con gente rica y noble (que tengan ventajas como Rico o Alcurnia).</p>
-    <p class="rule">Adicionalmente no sabes identificar cosas valiosas ya que nunca las has conocido o usado. Puede que sepas 
-      que algo vale mucho dinero, pero podrás tasarlo y puede engañarte al venderlo.</p>
+    <p class="rule">Adicionalmente, no sabes identificar cosas valiosas, ya que nunca las has conocido o usado. Puede que sepas 
+      que algo vale mucho dinero, pero no podrás tasarlo y pueden engañarte al venderlo.</p>
     <h3>Más cerca de la locura (mayor)</h3>
     <p>Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil
       que el común de los mortales. Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea,
@@ -624,7 +638,7 @@
       del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida,
       los brillantes ojos del asesino, ...</p>
     <p class="rule">En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks
-      fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla.
+      fallando la tirada que vaya a hacer sin posibilidad de gastar un deseo para repetirla.
       Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir
       con un oponente político o tratar de entrar sigilosamente en la casa del gobernador.
       Si se coge como mayor, Scheherazade podrá hacerle fallar cualquier tirada de combate
@@ -634,7 +648,7 @@
       sentimientos de tristeza.</p>
     <p class="rule">Si es menor al principio de cada sesión deberá
       tirar un d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla, pierde uno de sus
-      benis hasta la próxima sesión. Si es mayor directamente cuenta con un beni menos.</p>
+      deseos hasta la próxima sesión. Si es mayor directamente cuenta con un deseo menos.</p>
     <div class="saltopagina"></div>
     <h4>Trastorno de ansiedad generalizada (mayor/menor)</h4>
     <p>Este complejo trastorno mental consiste en una ansiedad general y continua por todos los aspectos de
@@ -683,9 +697,9 @@
     <!-- <h3>La llamada de Cthulhu (menor)</h3>
     <p>Tu mente artística e imaginativa es muy susceptible a las ondas mentales del Gran Cthulhu,
       teniendo terribles pesadillas sobre Cthulhu y su tumba acuática de R'lyeh.</p>
-    <p class="rule">Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que
+    <p class="rule">Siempre que te duermas sin tener deseos, tendrás unas horribles pesadillas que
       no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una
-      noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer
+      noche entera teniendo un deseo y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer
       uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu y R'lyeh.</p> -->
     <h2>Nuevas ventajas</h2>
     <p>Como se explicará más adelante, desaparecen una serie de ventajas, bien porque son sustituidas 
@@ -711,7 +725,7 @@
     <p>Todos los comodines tienen esta ventaja gratuitamente. Representa su capacidad de usar objetos 
       mágicos. Los comodines son persona con un destino más grande que ellos y eso supone que pueden hacer 
       cosas especiales. Solo Ali-Baba podía decir "Ábrete, sésamo" y que se abriera la cueva de los 40 ladrones o solo 
-      Aladino estaba destinado a entrar en la cueva de las maravillas y conseguir la lampara mágica.</p>
+      Aladino estaba destinado a entrar en la cueva de las maravillas y conseguir la lámpara mágica.</p>
     <p class="rule">Activar cualquier objeto mágico y usar sus poderes, exige el gasto de un PP. Este gasto 
       solo se puede hacer estando consciente a no ser que el objeto diga lo contrario. Empiezas también con
       tanto puntos de poder como nivel de Espíritu. Si tu Espíritu sube también tu PP.</p>
@@ -737,13 +751,13 @@
     <p>Todo lo extraño se siente atraído hacia ti para bien y para mal. Abres y lees el libro maldito,
       te pierdes en el desierto y acabas encontrando el oasis maravilloso o al echar las redes al mar 
       sacas una botella con un extraño sello mágico en el tapón.</p>
-    <p class="rule">Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un beni y la
+    <p class="rule">Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un deseo y la
       mesa podrá quedarse con el mejor resultado. En caso de no conseguir ningún éxito en ninguna de las tiradas, el
       imán de lo extraño deberá hacer una tirada en la tabla de maldiciones, pero la duración solo será en
-      horas y recuperarás el beni gastado.</p>
-    <p>En caso de que haya varias personas con esta ventaja, cada uno tendrá que gastarse un beni
+      horas y recuperarás el deseo gastado.</p>
+    <p>En caso de que haya varias personas con esta ventaja, cada uno tendrá que gastarse un deseo
       y añadirá una tirada extra. En caso de maldición, esta caerá sobre aquellos shahriars que activaron
-      esta ventaja con un beni.</p>
+      esta ventaja con un deseo.</p>
     <h3>Rico como un sultán</h3>
     <p><em>Prerrequisitos: Legendario, Extremadamente rico.</em></p>
     <p>Eres tan rico como un Sultán. No hay en la tierra nada que no puedas comprar con dinero. 
@@ -792,8 +806,8 @@
       <li>No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...</li>
     </ul>
     <h3>Idiomas</h3>
-    <p>Se hablan infinidad de idiomas en las tierras de las 1001 noches, pero los idiomas principales son el árabe 
-      y el persa, pero incluyen muchos más idiomas. Veamos otras opciones:</p>
+    <p>Se hablan infinidad de lenguas en las tierras de las 1001 noches, pero los idiomas principales son el árabe 
+      y el persa, pero veamos otras opciones que podrían ser interesantes:</p>
     <ul>
       <li>Bereber</li>
       <li>Chino</li>
@@ -803,7 +817,9 @@
     </ul>
     <p>También tenemos otros idiomas no humanos. Son idiomas hablados por los extraños seres.</p>
     <ul>
-      <li>***</li>
+      <li>Aklo, es una lengua secreta usada por muchos cultos adoradores de los primigenios y demás dioses exteriores.</li>
+      <li>R'lyehiano, el idioma hablado por los habitantes de Cthulhu</li>
+      <li>Naacal, la lengua que habla la serpigente.</li>
     </ul>   
     <h2>Horror y cordura</h2>
     <p>El horror y la cordura sustituyen a las reglas de miedo de SWADE. Las ventajas y desventajas que afectan
@@ -823,7 +839,7 @@
       no, tendrá que volver a coger una carta nueva. Los temporales simplemente ampliarán el tiempo.</p>
     <p>En condiciones normales, si se saca un Joker en cualquier carta relacionada con trastornos, no solo no adquieres el trastorno, 
       sino que recuperas un punto de cordura. Si has hecho uso de un deseo de tu qareen durante la escena, el efecto es totalmente
-      distinto. El shahriar es poseido de forma temporal (Tabla de Duración del trastorno) por su qareen y toma el control de sus acciones.</p>
+      distinto. El shahriar es poseído de forma temporal (Tabla de Duración del trastorno) por su qareen y toma el control de sus acciones.</p>
     <div style="overflow-x:auto;">
       <table>
         <thead>
@@ -1133,7 +1149,7 @@
       el efrit, pero para volver al cabo de un momento, llevando en los dedos una cajita, que entregó 
       a Aladino, diciéndole: "¡Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina!" ...
       Y se fué.
-      <p><b>Referencia:</b> Historia de Aladino y de la lampara mágica (n. 769)</p></blockquote>
+      <p><b>Referencia:</b> Historia de Aladino y de la lámpara mágica (n. 769)</p></blockquote>
     <p>***</p>
     <h4>Afrodisíaco</h4>
     <blockquote>Tomó dos onzas de zumo de copaiba china, una onza de extracto graso de cáñamo 
@@ -1171,10 +1187,10 @@
       usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y 
       sobre todo si "queda bien" en la historia.</p>
     <ul>
-      <li>Puedes gastar todos tus benis (mínimo 1) para lanzar un hechizo sin necesidad de gastar puntos de poder.
+      <li>Puedes gastar todos tus lamparas (mínimo 1) para lanzar un hechizo sin necesidad de gastar puntos de poder.
         Esto supone que se pueden lanzar hechizos sin tener puntos de poder o lanzar hechizos que piden más puntos 
         de poder de los que tienes.</li>
-      <li>Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.</li>
+      <li>Como se ve más adelante, se pueden gastar deseos para que los trastornos mentales no sean permanentes.</li>
     </ul>
     <div class="separator"></div>
   </section>
@@ -1246,7 +1262,7 @@
       riquezas y honores, casado con la princesa Badrú'l-Budur, hija del rey de la China, a la cual amaba y 
       la cual le amaba, y por último, que no se le conocía en todo el imperio de la China e incluso en las 
       fronteras del mundo más que con el nombre del emir Aladino.
-      <p><b>Referencia:</b> Historia de Aladino y de la lampara mágica (n. 764)</p></blockquote>
+      <p><b>Referencia:</b> Historia de Aladino y de la lámpara mágica (n. 764)</p></blockquote>
     <p>***</p>
     <h3>Habla de los animales y canto de los pajaros</h3>
     <blockquote>Alah, el Altísimo, le dio igualmente el conocimiento de los lenguajes de los animales y el canto de los pájaros.
@@ -1409,8 +1425,6 @@
     <p>Tienen libre albedrío con lo que pueden ser buenos y malos, pero normalmente cada tipo suele tener un 
       carácter ya marcado que hace que sean buenos o malos. Al tener libre albedrío puede ser o no creyentes.
       Los Yinns no creyentes son llamados shaytans, que podríamos traducir por demonios.</p>
-    <p>***</p>
-  
     <!-- https://www.youtube.com/watch?v=mMEFgftOlXc -->
     <!-- https://es.wikipedia.org/wiki/Genio -->
     <!-- un ejército entero de efrits, de genn, de mareds, de ghuls, de khotrobs, de saals, de 
@@ -1813,7 +1827,7 @@
     </ul>
     <h2>Avatares</h2>
     <p>***</p>
-    <h3>Genio de la lampara (Avatar de Nyarlathotep) &#9790;</h3>
+    <h3>Genio de la lámpara (Avatar de Nyarlathotep) &#9790;</h3>
     <blockquote>*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <p>***</p>
@@ -2048,18 +2062,17 @@
       de un montón de puntos de poder debido a su tamaño.</p>
     <h3>Peligros de su interior</h3>
     <p>Al entrar en la "cueva" nos vamos enfrentar a tres peligros principales, los jugos 
-      gástricos del falak, las explosiones de metano que genera el cadaver y y la estructura
-      de la propia cueva que tiene simas y precipicios. 
-      insondable estómago del falak.</p>
+      gástricos del falak, las explosiones de metano que genera el cadaver y la estructura
+      de la propia cueva (el estomago del falak) que tiene simas y precipicios insondable.</p>
     <p>El interior apesta terriblemente, lo que exige una tirada de Vigor para aguantar 
       la horrible peste a muerte. Si se falla, se obtiene un nivel de fatiga que dura 
       hasta salir de la "cueva". Usar pañuelos empanados con perfumes y aceites olorosos  
-      pues ayudar, ofreciendo un +2 a la tirada de Vigor.</p>
-    <p>Caer en un charco de ácidos gástricos supone un 1d6 de daño por cada extremidad 
-      más cabeza y tronco. Es decir, que si metes una pierna en el ácido te haría una 1d6 
+      puede ayudar, ofreciendo un +2 a la tirada de Vigor.</p>
+    <p>Caer en un charco de ácidos gástricos supone un 1d6 de daño por cada extremidad, 
+      cabeza y tronco. Es decir, que si metes una pierna en el ácido te haría una 1d6 
       y si te caes dentro perderías 6d6 de daño. El ácido se comerá la ropa, el pelo, el papel 
       y la madera. Solo lo que sea de metal, cerámica o cristal se salvará.</p>
-    <p>El metano del cadaver acumulado puede prender con cualquier chispa haciendo desde una 
+    <p>El metano acumulado del cadaver puede prender con cualquier chispa haciendo desde una 
       pequeña llama hasta explosiones devastadoras. Las explosiones quedan a tu discreción, 
       pero lo interesante es dejar esas explosiones para momentos críticos y épicos. 
       Puedes hacerles tirar Notar para detectar el metano y que salgan corriendo.</p>
@@ -2067,7 +2080,7 @@
       hasta 100 metros en muchos casos. Como siempre el material de escalada ayudará a moverse
       por su interior.</p>
     <p>A lo Jonás y la ballena, podría haber seres de los Mythos que sobrevivan en el 
-      interior del falak.</p>
+      interior del falak, como ghūles que se dedican a comer la carne del falak.</p>
     <h3>Tesoros</h3>
     <p>Durante miles de años los falaks han devorado dimensiones extraplanares y planos 
       multidimensionales y restos de esas realidades pueden encontrarse todavía en su podrido 
@@ -2110,7 +2123,7 @@
     <p>***</p>
     <h2>China</h2>
     <p>China es el lugar donde tiene lugar una de las historias más famosas de las 1001 noches, 
-      la historia de Aladino y de la lampara mágica.</p>
+      la historia de Aladino y de la lámpara mágica.</p>
     <p>***</p>
     <h2>India</h2>
     <p>***</p>
@@ -2123,6 +2136,16 @@
     <p>***</p>
     <h2>Historia de Bagdad</h2>
     <p>***</p>
+    <h2>Descripción de la ciudad</h2>
+    <p>***</p>
+    <h3>Clima</h3>
+    <p>Bagdad posee un clima subtropical muy caluroso y árido, de hecho, es una de las ciudades más calurosas del mundo.
+      En verano, la temperatura media es de 35 °C con un sol abrasador y no hay casi lluvias lluvias. 
+      Durante el día pueden alcanzarse hasta los 50 °C a la sombra y por la noche bajar hasta los 20 °C. 
+      La humedad es muy baja y frecuentemente sufren tormentas de polvo veraniegas venidas del desierto.</p>
+    <p>Durante el invierno las temperaturas se suavizan notablemente, con máximas de 25 ºC pero las mínimas 
+      pueden caer hasta los -5 °C. Es durante el invierno cuando se dan la mayoría de las precipitaciones 
+      anuales.</p>
     <h2>Los barrios de Bagdad</h2>
     <blockquote>"Has de saber ¡oh mi señor! que la ciudad de Bagdad está dividida en barrios y 
       que cada barrio tiene al frente un jeique al que llaman al-balad.
@@ -2135,7 +2158,25 @@
     <p>***</p>
     <h4>Casa de la Sabiduría</h4>
     <!-- https://es.wikipedia.org/wiki/Casa_de_la_Sabidur%C3%ADa -->
+    <p>La Casa de la Sabiduría o Casa del Saber es una importante universidad, biblioteca 
+      pública como sede de traducciones y centro intelectual. Una de sus función principales 
+      era recopilar el conocimiento universal y traducirlo al árabe, convirtiendo en su época a 
+      Bagdad en el centro intelectual de Oriente Medio y posiblemente del mundo entero.</p>
+    <p>En los estantes de los abarrotados estantes de las salas de su biblioteca se estima que hay 
+      unos 60.000 que recopilan todo el saber del mundo conocido por los árabes. Tiene traducciones 
+      de libros principalmente griegos, hindues y persas, pero también pueden encontrarse de 
+      lenguas menos comunes o incluso perdidas.</p>
+    <h5>Hunayn ibn Ishaq</h5>
+    <p>Hunayn ibn Ishaq es el actual director de la Casa de la Sabiduria. ***</p>
     <p>***</p>
+    <h5>El pasillo prohibido</h5> 
+    <p>Hay, en lo profundo de la biblioteca, un pasillo cuyo acceso está cerrado con una verja de 
+      plata, llamado el pasillo prohibido, donde se guardan las más deleznables obras sobre 
+      magia, nigromancias y conocimientos herejes. Solo el bibliotecario general tiene la 
+      llave para entrar y solo con el permiso del califa o su visir se da acceso a esta zona.</p>
+    <p>La cerrada es bastante compleja pero puede ser forzada (-4 latrocinio), pero has de tener en 
+      cuenta que si te pillan en el pasillo prohibido sin permiso, te espera un alfanje que separará 
+      tu cabeza de tu hombros.</p>
     <h4>El pequeño consejo</h4>
     <p>El pequeño consejo es una organización creada por los pillastres de las calles de Bagdad. 
       Es una especie de gremio secreto que se dedica a proteger y ayudar a sus miembros a 
@@ -2152,6 +2193,11 @@
     <p>El Tigris ha sido una ruta de transporte importante durante mucho tiempo a través 
       de un territorio mayormente desértico. Es navegable  desde Basora hasta Bagdad por 
       botes de poco calado, pero se requiere de balsas para el transporte hasta Mosul.</p>
+    <h2>Alrededor de la ciudad</h2>
+    <p>***</p>
+    <h3>Ruinas de Babilonia</h3>
+    <p>Babilonia es la ciudad más famosa de la antigua Mesopotamia y sus ruinas se encuentran 
+      a tres días a caballo al suroeste de Bagdad en las orillas del Eufrates. ***</p>
     <div class="separator"></div>
   </section>
   <div class="saltopagina"></div>
@@ -2209,8 +2255,16 @@
     <p>***</p>
     <h3>Historia de la casa encantada en el zoco de los tejedores</h3>
     <p>***</p>
-    <h2>Otros cuento salvajes</h2>
+    <h3>Historia del pasillo prohibido de la Casa de la Sabiduria</h3>
+    <p>Con toda la información recopilada hasta ahora, la única opción viable para saber continuar como 
+      continuar es entrar en el pasillo prohibido de la Casa de la Sabiduria y consultar en sus tomos 
+      malditos.</p>
     <p>***</p>
+    <h2>Otros cuento salvajes</h2>
+    <p>En sus andanzas por las tierras de las 1001 noches, tus shahriars pueden encontrarse con 
+      otras aventuras. Aquí tienes algunas de ellas donde podrás explorar lugares míticos, combatir a 
+      todo tipo de seres malvados, engañar a yinns o ser engañado por ellos y conseguir prodigiosos 
+      objetos de gran poder mágico.</p>
     <h3>La isla viviente</h3>
     <p><b>Comienzo:</b> En el mar</p>
     <blockquote class="primigenio">En mitad del mar aparece una pequeña isla cubierta de 
@@ -2259,7 +2313,7 @@
       como armas de filo o pistolas o mosquetes no le hacen anda. Así que las mejores opciones 
       son fuego (pudiendo derramar líquido inflamable sobre el shoggoth o usando magia) y 
       explosivos potentes como granadas o cañones (si consiguen moverlos de forma apunten 
-      hacia abajo). Cada tentáculo tiene aguanta una herida, pudiendo gastar benis para 
+      hacia abajo). Cada tentáculo tiene aguanta una herida, pudiendo gastar deseos para 
       absorberlas. Al recibir una segunda herida, el apéndice es cortado.</p>
     <p>Si consiguen soltar su barco del shoggoth este no les perseguirá ni nada por el estilo. 
       Si han subido material al barco podrán buscar tesoro entre los restos recopilados haciendo 
@@ -2279,7 +2333,7 @@
     <p>***</p>
     <h3>Anillo mágico</h3>
     <blockquote>***
-      <p><b>Referencia:</b> Historia de Aladino y de la lampara mágica (n. 731-774)</p></blockquote>
+      <p><b>Referencia:</b> Historia de Aladino y de la lámpara mágica (n. 731-774)</p></blockquote>
     <p>***</p>
     <h3>Caballo de ébano</h3>
     <blockquote>... un caballo de madera de ébano, de la calidad más negra y más 
@@ -2363,9 +2417,9 @@
       <p><b>Referencia:</b> Historia mágica del caballo de ébano (n. 414-431)</p></blockquote>
     <p>***</p>
     
-    <h3>Lampara mágica</h3>
+    <h3>Lámpara mágica</h3>
     <blockquote>***
-      <p><b>Referencia:</b> Historia de Aladino y de la lampara mágica (n. 731-774)</p></blockquote>
+      <p><b>Referencia:</b> Historia de Aladino y de la lámpara mágica (n. 731-774)</p></blockquote>
     <a href="https://pixabay.com/es/photos/aladin-l%C3%A1mpara-milagrosa-magia-2368384/" class="half" 
       target="_blank" rel="noopener" title="Aladin Lámpara Milagrosa por Karinamannott">
         <img src="./assests/images/lampara.jpg" alt="Aladin Lámpara Milagrosa por Karinamannott"></a>
@@ -2399,14 +2453,13 @@
       comenzó a condensarse en torbellinos, y al fin se convirtió en un efrit cuya frente 
       llegaba a las nubes, mientras sus pies se hundían en el polvo.
       <p><b>Referencia:</b> Historia del pescador y el efrit (n. 3)</p></blockquote>
-    <p>A lo largo de todas las 1001 noches hay varios ejemplos de recipientes como botellas 
+      <p><img src='./assests/images/botella-sellada.png' class="silueta">
+    A lo largo de todas las 1001 noches hay varios ejemplos de recipientes como botellas 
       o tinajas selladas con el sello se Suleimán de las que salen todo tipo de cosas, 
       desde maldiciones y monstruos hasta increíbles riquezas y efrits servidores. Y a veces 
       simples mensajes con relatos fantásticos de sus autores.</p>
     <p>Al romper el sello y abrirla, normalmente saldrá un humo negro del que se materializará 
       lo que haya dentro. Deberás tirar en la siguiente tabla el contenido de la botella.</p>
-
-      
     <div style="overflow-x:auto;">
       <table>
         <thead>
@@ -2444,6 +2497,25 @@
     <p>Recuerda que Imán de lo extraño puede usarse en esta. Gastando un deseo podrás 
       repetir la tirada pero te quedas con el segundo resultado. En este caso solo 
       podrá usar esta ventaja aquel que abra la botella.</p>
+    <h3>Concha roja</h3>
+    <blockquote class="primigenio">Y allí pregunté por el sabio Saadalah, y me guiaron, no sin cierto temor, a él; 
+      y me presenté a él y le entregué cien mil dinares y el regalo del rey; luego le di el trozo de concha roja, y 
+      después de explicarle el objeto de mi misión, le rogué que me preparara un amuleto contra los terribles 
+      dolores que estaban llevando al borde de la locura a la hija del califa. Y el sabio de Babilonia empleó 
+      siete meses enteros en consultar los astros, ¡y transcurridos aquellos siete meses, acabó por encontrar 
+      un día propicio para trazar sobre el trozo de concha unos extraños caracteres talismánicos y llenos de 
+      misterio que ves en las dos caras de este amuleto! Y cogí este amuleto, volví junto al rey y se lo entregué.
+      <p><b>Referencia:</b> Historia del joven amarillo (n. 524)</p></blockquote>
+    <p>Esta concha de color verde mar y del tamaño de una mano, evita sentir dolor por grande que sea, desde 
+       dolores de muelas o de cabeza hasta el producido por heridas graves o el que se siente cuando se amputan
+       extremidades gangrenadas.</p>
+    <p class="rule">Gastando un deseo se pueden anular durante una hora los negativos por heridas o los que 
+      pudieran producir enfermedades, hechizos, venenos o drogas, siempre que estos negativos sean producidos 
+      por fuertes dolores. Por ejemplo, el -1 que da un terrible dolor de muelas desaparecería usando este 
+      amuleto. Hay que tener en cuenta que el amuleto solo quita el dolor, no cura el veneno o la enfermedad 
+      que habría que tratarla a parte.</p>
+    <p>La concha verde es un regalo muy apreciado entre las mujeres ya que es objeto que alivia totalmente 
+      los terribles dolores del parto.</p>
     <h3>Kohl de invisibilidad</h3>
     <blockquote>Y he aquí que el humo del estiércol quemado, que llenaba el aposento, atacó a mis ojos de 
       una manera tan insoportable que se me llenaron de agua, y me vi obligado a secármelos repetidamente 
@@ -2473,7 +2545,10 @@
     <p>Esta llave de gran tamaño, de un material desconocido parecido a la plata y con extraños jeroglíficos, 
       abre cualquier cerradura automáticamente, incluso aquellas cerradas mágicamente. Cada vez que la usen 
       saca una carta de acción. Si sale el comodín, la puerta se abre a la tierra de los sueños.</p>
-    <h3>Semilla de vergel</h2>
+    <h3>Polvo de Ibn-Ghazi</h3>
+    <p>El polvo tiene la capacidad de volver visible por un momento a criaturas invisibles e inmateriales 
+      cuando este se dispersa soplándolo hacia ellos. 1D6 usos.</p>
+    <h3>Semilla de vergel</h3>
     <p>Lo que tienes entre las manos es una espora Ubbo-Sathla. Ubbo-Sathla es un dios primigenio 
       que vino a nuestro planeta desde el espacio y que se cree que es el origen de la vida en la 
       tierra. Es una masa informe con un color y textura parecida al légamo sin cabeza ni extremidades 
@@ -2486,6 +2561,14 @@
       y el hambre de hasta 10 personas durante 10 días.</p>
     <p>Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árboles no va a provocar 
       horror.</p>
+    <h3>Vasos canopos del Faraón negro</h3>
+    <p>Estos vasos canopos (recipientes de piedra con tapa de cabeza de animal/dios egipcio que contienen 
+      restos extraídos a un cuerpo que se va a momificar como cerebro, entrañas, ...) seguramente fuero sacados 
+      de la piramide acodada de Dashur, donde yace el cuerpo momificado del faraón Nefrén-Ka, conocido como 
+      el "Faraón negro".</p>
+    <p>Contienen los restos del Faraón Negro, al que Nyarlathotep le concedió el poder de ver el futuro. Consumir 
+      alguno de los 1d4 órganos guardado en ellos permite usar una vez el poder de Adivinación, usando Espíritu como 
+      habilidad arcana. Si se busca consultar con primigenios o dioses exteriores, la tirada deberá ser con Al Azif.</p>
     <h2>Objetos mundanos</h2>
     <p>***</p>
     <p><b>Dados trucados:</b> Estos preciosos dados de marfil y ébano están trucados y según 
@@ -2504,6 +2587,76 @@
     <div class="saltopagina"></div>
     <p>***</p>
     <p>Recuerda se usa este símbolo &#9790; para marcar a los comodines.</p>
+    <h2>Harún Al-Raschid, Califa de Bagdad &#9790;</h2>
+    <blockquote>*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
+    <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
+    <p>***</p>
+    <ul>
+      <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
+      <li><b>Habilidades:</b> ***</li>
+      <li><b>Paso:</b> X; <b>Parada:</b> X; <b>Dureza:</b> X</li>
+      <li><b>Desventajas:</b> ***</li>
+      <li><b>Ventajas:</b> ***</li>
+      <li><b>Capacidades especiales:</b>
+        <ul>
+          <li><b>***:</b> ***</li>
+        </ul>
+      </li>
+      <li><b>Equipo:</b> ***</li>
+    </ul>
+    <p><b>Sugerencia de interpretación:</b> ***</p>
+    <h2>Hunayn ibn Ishaq, director de la Casa de la sabiduria &#9790;</h2>
+    <!-- https://es.wikipedia.org/wiki/Hunayn_ibn_Ishaq -->
+    <blockquote>*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
+    <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
+    <p>Hunayn ibn Ishaq es el actual director de la Casa de la Sabiduria. ***</p>
+    <p>Es un hombre muy recto y de severos principios éticos. Al respecto se conoce una anécdota. 
+      El califa de Samarra le pidió que preparara un veneno para que pudiera librarse de un enemigo 
+      a cambio de una gran suma de dinero. Hunayn rehusó diciéndole que sus conocimientos científicos
+      son solo para crear sustancias beneficiosas para la humanidad, con el fin exclusivo de curar 
+      y de aliviar. Además, que como médico había jurado no dar a nadie una sustancia mortal.</p>
+    <p>***</p>
+    <ul>
+      <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
+      <li><b>Habilidades:</b> ***</li>
+      <li><b>Paso:</b> X; <b>Parada:</b> X; <b>Dureza:</b> X</li>
+      <li><b>Desventajas:</b> ***</li>
+      <li><b>Ventajas:</b> ***</li>
+      <li><b>Capacidades especiales:</b>
+        <ul>
+          <li><b>***:</b> ***</li>
+        </ul>
+      </li>
+      <li><b>Equipo:</b> ***</li>
+    </ul>
+    <p><b>Sugerencia de interpretación:</b> ***</p>
+    <h2>Bahlul el Cuerdo, bufón de la corte &#9790;</h2>
+    <blockquote>He llegado a saber que el califa Harún Al-Raschid tenía, viviendo con él en su palacio, 
+      a un bufón encargado de divertirle en sus momentos de humor sombrío. Y aquel bufón se llamaba Bahlul 
+      el Cuerdo. Y un día le dijo el califa: "Ya Bahlul, ¿sabes el número de locos que hay en Bagdad?". 
+      Y Bahlul contestó: "¡Oh mi señor! un poco larga sería la lista". Y dijo Harún: "Pues quedas encargado 
+      de hacerla. ¡Y supongo que será exacta!" Y Bahlul hizo salir de su garganta una carcajada prolongada. 
+      Y le preguntó el califa: "¿Qué te pasa?" Y Bahlul dijo: "¡Oh mi señor! soy enemigo de todo trabajo 
+      fatigoso. ¡Por eso, para complacerte, voy en seguida a extender la lista de los cuerdos que hay en 
+      Bagdad! Porque ése es un trabajo que apenas exigirá el tiempo que se tarda en beber un sorbo de agua. 
+      Y con esta lista, que será muy corta, ¡por Alah que te enterarás del número de locos que hay en 
+      la capital de tu imperio!"
+      <p><b>Referencia:</b> Bahlul, bufón de Al-Raschid (n. 795)</p></blockquote>
+    <p>***</p>
+    <ul>
+      <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
+      <li><b>Habilidades:</b> ***</li>
+      <li><b>Paso:</b> X; <b>Parada:</b> X; <b>Dureza:</b> X</li>
+      <li><b>Desventajas:</b> ***</li>
+      <li><b>Ventajas:</b> ***</li>
+      <li><b>Capacidades especiales:</b>
+        <ul>
+          <li><b>***:</b> ***</li>
+        </ul>
+      </li>
+      <li><b>Equipo:</b> ***</li>
+    </ul>
+    <p><b>Sugerencia de interpretación:</b> ***</p>
     <div class="separator"></div>
   </section>
   <div class="saltopagina"></div>
@@ -2515,7 +2668,7 @@
     <p>***</p>
     <h3>Los viajes de Sindbad</h3>
     <p>***</p>
-    <h3>Aladino y la lampara mágica</h3>
+    <h3>Aladino y la lámpara mágica</h3>
     <p>***</p>
     <h2>Líos amorosos y encuentros picantes</h2>
     <p>***</p>
@@ -2542,6 +2695,14 @@
     <p>Toda esta ambientación está muy influenciada por el juego de rol de “La Llamada de Cthulhu”
       de Sandy Petersen (Chaosium) y hay mecánicas de ese juego que han influenciado consciente 
       o inconscientemente en las reglas de este juego.</p>
+    <h3>Veracidad histórica</h3>
+    <p>En esta ambientación no se busca la veracidad historica, empezando con que sus dos piedras 
+      fundacionales, las 1001 noches y los mitos de Cthulhu son obras de ficción, los detalles y hechos 
+      que se narran en estas páginas no tienen ninguna base científica. Se ha intentado darle una patina 
+      histórica y geográfica, pero en ningún caso buscando el realismo.</p>
+    <p>Veamos un ejemplo, dos personajes históricos de la ciudad de Bagdad, el califa Harún Al-Raschid y 
+      el sabio Hunayn ibn Ishaq nunca llegaron a conocerse porque cuando el califa murio, el sabio Hunayn 
+      no había nacido todavía. Sin embargo en este mundo comparten época y tienen sus más sus menos.</p>
     <h3>Inclusión, diversidad y ecología</h3>
     <p>He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello
       que estoy seguro de que habré hecho muchas cosas mal. He tratado de que haya diversidad 
@@ -2549,10 +2710,10 @@
       sexual (ver más adelante Romancear PNJs). He tratado de evitar clichés y espero haberlo 
       hecho, pero sois muy libres de cambiarlo a vuestro gusto.</p>
     <p>Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos lo que se considera
-      malas personas en general, pero creo que no debéis permitirles estas conductas a vuestras mesas
+      malas personas en general, pero creo que no debéis permitirles estas conductas a vuestros shahriars
       ni aunque digan que "su personaje es así" o "era lo normal en esa época". Esto es un juego de rol y
-      ya hay mucha mierda en la vida real para aguantarla tú o tus jugadores en una mesa de juego.</p>
-    <p>Muchas "sugerencias de beni" están pensadas para premiar a los jugadores por ser más empáticos y
+      ya hay mucha mierda en la vida real para tener que aguantarla también en una mesa de juego.</p>
+    <p>Muchas "sugerencias de deseo" están pensadas para premiar a los shariars por ser más empáticos y
       ayudar a grupos discriminados. En ese sentido, bastantes formas extras de recuperar cordura están 
       asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida. 
       Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones 
@@ -2561,7 +2722,7 @@
       nuestra sociedad y no porque es un beneficio para su PJ en el juego.</p>
     <p>Nada puede ser inclusivo y abierto si no tiene en cuenta el medio ambiente y la ecología, así que he
       tratado de darle una mirada ecologista con varias aventuras en las que la protección de la naturaleza 
-      es importante, Además, de recompensas de cordura y sugerencias de benis.
+      es importante, además, de recompensas de cordura y sugerencias de deseos.
       Así pues, trata de evitar que tus jugadores utilicen muchas veces el camino rápido y tomen decisiones 
       con grandes repercusiones para el medio ambiente. Puede que emponzoñar el manantial de un oasis para 
       acabar con el enemigo sea un plan muy bueno, pero sus consecuencias para la fauna y flora local pueden 
@@ -2638,7 +2799,7 @@
     <ul>
       <li><a href="https://www.youtube.com/watch?v=wiexn6O9To4">Danzas Polovtsianas</a> del opera Principe Igor de Aleksandr Borodín</li>
       <li><a href="https://www.youtube.com/watch?v=iCEDfZgDPS8">Una noche en el Monte Pelado</a> de  Modest Músorgski</li>
-      <li><a href="https://www.youtube.com/watch?v=a_EJ9TuImxc">Sheherazade</a> de Rimsky-Korsakov</li>
+      <li><a href="https://www.youtube.com/watch?v=a_EJ9TuImxc">Scheherazade</a> de Rimsky-Korsakov</li>
       <li><a href="https://www.youtube.com/watch?v=9BWkYeqG8NQ">Ali Baba</a> de Luigi Cherubini</li>
 
 
@@ -2971,6 +3132,14 @@
   Stock de fotos
 
   https://www.alamy.es/imagenes/el-pescador-y-el-genio.html?sortBy=relevant
+
+  BAHAmut = Cthulhu
+  https://es.wikipedia.org/wiki/Bahamut
+
+
+  Borges colocó a Bahamut como la identidad del pez gigante sin nombre que Isa (Jesús) presenció 
+  en la historia de la noche 496ª de Las mil y una noches (edición de Burton).Nota 18​32​ Este pez 
+  gigante sostiene un toro, el toro una roca y la roca un ángel,33​ exactamente como en el modelo medieval
 
 
 -->
