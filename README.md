@@ -3,7 +3,9 @@ Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los 
 
 ## Versiones
 
-### 0.2 En desarrollo
+### 0.2.1 En desarrollo
+
+### 0.2 30/10/2023
 * Reglas de ambientación: Creación de personaje, ventajas, desventajas y deseos.
 
 ### 0.1 22/10/2023
