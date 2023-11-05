@@ -32,4 +32,31 @@ $(document).ready(function () {
       $("body>a:last-of-type").removeClass("show");
     }
   });
+
+  /* Aleatorio de tablas */
+  $("table[data-dice]").click(function (e) {
+    $("tbody tr").removeClass("random");
+    let rand = Math.floor(Math.random() * parseInt($(this).data("dice")));
+    var count = 0;
+    console.log(rand + 1);
+    $("tbody tr", this).each(function () {
+      if ($(this).data("dice")) {
+        if (rand >= count && rand < (count + parseInt($(this).data("dice")))) {
+          $(this).addClass("random");
+          $('html,body').animate({
+            scrollTop: $(this).offset().top
+          }, 'fast');
+        }
+        count = count + parseInt($(this).data("dice"));
+      } else {
+        if (rand == count) {
+          $(this).addClass("random");
+          $('html,body').animate({
+            scrollTop: $(this).offset().top
+          }, 'fast');
+        }
+        count++;
+      }
+    });
+  });
 });
