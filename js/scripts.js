@@ -17,4 +17,19 @@ $(document).ready(function () {
       }
       currentDiv = Math.floor(counter / step) + 1;
     });
+
+  /* gototop */
+  $("body>a:last-of-type").click(function () {
+    $('html,body').animate({
+      scrollTop: $("body>section:nth-of-type(3)").offset().top
+    }, 'fast');
+  });
+
+  $(document).scroll(function () {
+    if ($(document).scrollTop() > $(window).height()) {
+      $("body>a:last-of-type").addClass("show");
+    } else {
+      $("body>a:last-of-type").removeClass("show");
+    }
+  });
 });
