@@ -1343,10 +1343,11 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       <table>
         <thead>
           <tr>
-            <th colspan="8">Shotel etiope</th>
+            <th colspan="4">Shotel etiope</th>
           </tr>
           <tr>
             <th>Daño</th>
+            <th>FUE Min.</th>
             <th>Peso</th>
             <th>Coste</th>
           </tr>
@@ -1354,6 +1355,7 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
         <tbody>
           <tr>
             <td>FUE+d8</td>
+            <td>d8</td>
             <td>1,5</td>
             <td>350</td>
           </tr>
@@ -1371,10 +1373,11 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       <table>
         <thead>
           <tr>
-            <th colspan="3">Khopesh egipcio</th>
+            <th colspan="4">Khopesh egipcio</th>
           </tr>
           <tr>
             <th>Daño</th>
+            <th>FUE Min.</th>
             <th>Peso</th>
             <th>Coste</th>
           </tr>
@@ -1382,6 +1385,7 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
         <tbody>
           <tr>
             <td>FUE+d10</td>
+            <td>d10</td>
             <td>1,5</td>
             <td>350</td>
           </tr>
@@ -1398,16 +1402,18 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       <table>
         <thead>
           <tr>
-            <th colspan="3">Katar</th>
+            <th colspan="4">Katar</th>
           </tr>
           <tr>
             <th>Daño</th>
+            <th>FUE Min.</th>
             <th>Peso</th>
             <th>Coste</th>
           </tr>
         </thead>
         <tbody>
           <tr>
+            <td>***</td>
             <td>***</td>
             <td>***</td>
             <td>***</td>
@@ -1419,33 +1425,40 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       </table>
     </div>
     <h4>Tabar Shishpar</h4>
-    <p>***</p>
+    <p>El tabar es una arma doble, una hacha combate por un extremo y una maza por la otra. 
+      El asta es de metal lo que le confiere más peso y la hace mas devastadora.</p>
     <div style="overflow-x:auto;">
       <table>
         <thead>
           <tr>
-            <th colspan="3">Tabar Shishpar</th>
+            <th colspan="4">Tabar Shishpar</th>
           </tr>
           <tr>
             <th>Daño</th>
+            <th>FUE Min.</th>
             <th>Peso</th>
             <th>Coste</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>***</td>
-            <td>***</td>
-            <td>***</td>
+            <td>Fue+d8 (hacha) / FUE+d6 (maza)</td>
+            <td>d10</td>
+            <td>3</td>
+            <td>300</td>
           </tr>
           <tr>
-            <td colspan="3"><b>Notas:</b> ***.</td>
+            <td colspan="3"><b>Notas:</b> Cambiar de la maza al hacha y viceversa es una acción gratuita..</td>
           </tr>
         </tbody>
       </table>
     </div>
     <h4>Chakram</h4>
-    <p>***</p>
+    <p>El chakram es un arma arrojadiza circular de acero o bronce proveniente de la India. El borde exterior está afilado 
+      y el interior de no forma que se puede meter en brazo a traves del chakram y tener varios guardados 
+      en el codo. De normal se lanza haciendola girar con el dedo indice y cuando tiene la velocidad deseada 
+      se lanza. También puede usarse como arma cuerpo a cuerpo como si fuera una daga.</p>
+    <p>los lanzadores de chakrams solián llevar somberos puntiagudos donde almacenaan varios de estos discos mortales.</p>
     <div style="overflow-x:auto;">
       <table>
         <thead>
@@ -1464,16 +1477,17 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
         </thead>
         <tbody>
           <tr>
-            <td>***</td>
-            <td>***</td>
-            <td>***</td>
-            <td>***</td>
-            <td>***</td>
-            <td>***</td>
-            <td>***</td>
+            <td>4/8/16</td>
+            <td>FUE+d6</td>
+            <td>-</td>
+            <td>1</td>
+            <td>d6</td>
+            <td>1</td>
+            <td>200</td>
           </tr>
           <tr>
-            <td colspan="7"><b>Notas:</b> ***.</td>
+            <td colspan="7"><b>Notas:</b> Puede usarse como arma cuerpo a cuerpo usando las 
+              estadísticas de la daga.</td>
           </tr>
         </tbody>
       </table>
@@ -1924,7 +1938,9 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
         menos niveles que su versión completa.</li>
       <li><b>Anotado:</b> Puede estar anotado por anteriores practicantes de magia y añadirle un nivel extra de poder.</li>
       <li><b>Dañado:</b> Tiene daños por agua, fuego, tiempo, etc. lo que supone que tiene la mitad del nivel de poder 
-        de su versión normal.</li>
+        de su versión normal (redondeando hacia abajo).</li>
+      <li><b>Muy dañado:</b> Tiene graves daños por agua, fuego, tiempo, etc. lo que supone que tiene solo un tercio del nivel de poder 
+        de su versión normal (redondeando hacia abajo).</li>
     </ul>
     <h3>Listado de libros y grimorios malditos</h3>
     <p>***</p>
@@ -1963,6 +1979,15 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
     <h4>Pnakotica - Manuscritos Pnakóticos</h4>
     <p>Pnakotica es la traducción al griego de los Manuscritos Pnakotikos, un grimorio escrito por la 
       gran raza de Yith antes de la aparición del hombre.</p>
+
+
+    <h4>Historia de las Aventuras de Hassan Al-Bassri</h4>
+    <blockquote>Y de improviso, en medio de las lamentaciones, hizo su entrada el mameluco Mobarak, 
+      blandiendo el manuscrito, y se acercó a su amo, y después de besarle la mano, le entregó las 
+      hojas preciosas, la primera de las cuales ostentaba en letras grandes el título: Historia de 
+      las Aventuras de Hassan Al-Bassri.
+      <p><b>Referencia:</b> Las aventuras de Hassan Al-Bassri (n. 578)</p></blockquote>
+    <p>Hassan Al-Bassri o Hassn de Basora fue un antiguo predicador, asceta, teólogo, erudito, juez y místico. ***</p>
     <h3>Enseñar magia</h3>
     <p>Alternativamente a la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan 
       conocimientos mágicos. Pero mientras el conocimiento que aporta un grimorio es muy extenso, el del mentor
@@ -4266,7 +4291,7 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
           </tr>
           <tr>
             <th>8</th>
-            <td>***</td>
+            <td>Historia de las Aventuras de Hassan Al-Bassri</td>
           </tr>
         </tbody>
       </table>
@@ -4297,15 +4322,15 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
           </tr>
           <tr>
             <th>4</th>
-            <td>***</td>
+            <td>Dañado</td>
           </tr>
           <tr>
             <th>5</th>
-            <td>***</td>
+            <td>Muy dañado</td>
           </tr>
           <tr>
             <th>6</th>
-            <td>***</td>
+            <td>Edición original</td>
           </tr>
         </tbody>
       </table>
@@ -4334,10 +4359,10 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
     <h4>Escorpion de Soleimán</h4>
     <p>El Escorpión de Soleimán es un dao de acero con empuñadura de jade. Está tan afilado que 
       podría cortar cualquier cosa.</p>
-    <p class="rule">Niega hasta los 6 puntos de armadura de cualquier tipo, natural, mágica, 
+    <p>Niega hasta los 6 puntos de armadura de cualquier tipo, natural, mágica, 
       de obstaculos, etc. Por ejemplo, un qatram con dureza de normal de 18, tendría 14 de dureza 
       si es golpeado por esta espada. La espada quita el bono de 4 de su armadura natural.</p>
-    <p class="rule">También reduce en 6 puntos la consistencia de los objetos en caso de que 
+    <p>También reduce en 6 puntos la consistencia de los objetos en caso de que 
       quieras romperlos. Unas cadenas de consistencia 12 pasan a tener 6 si son golpeadas con 
       esta hoja.</p>
     <h4>Puñal del sabio Tammuz</h4>
@@ -4371,18 +4396,18 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
     <p>Como el ave de Ruc del que saca sus increíbles capacidades, puedes salir al espacio exterior 
       y viajar a otros planetas sin sufrir ningún daño. Deberás llevar suficientes provisiones 
       y agua para sobrevivir durante lo que dure el viaje.</p>
-    <p class="rule">A nivel de juego, una persona con Afinidad mágica puede gastar un PP y tras pasar una 
+    <p>A nivel de juego, una persona con Afinidad mágica puede gastar un PP y tras pasar una 
       tirada de Pilotar te llevará en un día máximo a cualquier parte del mundo conocido. 
       Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre 
       zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de 
       Bagdad a Basora podría llevar una hora de viaje.</p>
-    <p class="rule">Es importante saber llegar a ese lugar. No puedes ir a sitios de los que no conoces 
+    <p>Es importante saber llegar a ese lugar. No puedes ir a sitios de los que no conoces 
       la ruta de viaje.</p>
-    <p class="rule">No puede volar con precisión, no podrías elevarte con él y atacar a desde el aire a tus 
+    <p>No puede volar con precisión, no podrías elevarte con él y atacar a desde el aire a tus 
       enemigos o escapar de una gruta que está colapsando esquivando piedras que caen del techo. 
       De hecho, no debería usarse en interior, solo al aire libre o en estancias muy grandes 
       con ventanales o claraboyas de gran tamaño, como las estancias del palacio de un califa.</p>
-    <p class="rule">Si se fracasa la tirada de Pilotar, el caballo se descontrola y los instintos del 
+    <p>Si se fracasa la tirada de Pilotar, el caballo se descontrola y los instintos del 
       ave de Ruc hacen que vaya a algún lugar que visito en vida. Deberás hacer una tirada 
       en la Tabla de perdido en el tiempo y el espacio para saber dónde acabas.</p>
     <p>Puedes acabar, por ejemplo, si sobrevives al hambre y la sed, en el centro del 
@@ -4420,13 +4445,13 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
     <p>Este gorro de cuero que parece totalmente normal, otorga, sin embargo, un poder que 
       cualquier ladrón o asesino le gustaría tener. No tienen ningún tipo de sello o símbolo 
       así que la única forma de saber qué hace es ponérselo.</p>
-    <p class="rule">Gastando un deseo te haces invisible como si hubieras usado el poder de 
+    <p>Gastando un deseo te haces invisible como si hubieras usado el poder de 
       Invisibilidad. No se consigue ninguna ventaja por avances, ni se puede usar modificares 
       de poder. La invisibilidad dura una hora no pudiéndose volver a usar hasta el día siguiente.
       Ponerse o quitarse el gorro supone una acción. Puedes quitártelo en cualquier momento y 
       hacerte visible y volver a ponértelo y hacerte invisible las veces que quieras mientras 
       dure la hora.</p>
-    <p class="rule">El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido 
+    <p>El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido 
       llevándolo puesto, es como si te hubiera hecho una herida un Ghūl (Capacidades especiales: 
       Infección).</p>
     <h3>Figura de oro y joyas con trompeta</h3>
@@ -4459,9 +4484,21 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       lampara, pero hay cosas más poderosas que él al que tiene una mezcla de respeto y miedo.</p>
     <p>***</p>
     <h3>Saco encantado</h3>
-    <blockquote>***
-      <p><b>Referencia:</b> Historia de Juder el pescador o el saco encantado (n. 465-487)</p></blockquote>
-    <p>***</p>
+    <blockquote>Y metió la mano en el saco, y extrajo de él un plato de oro con dos pollos asados y 
+      calientes; luego metió la mano por segunda vez, y sacó un plato de oro con chuletas de cordero, 
+      y uno tras otro, sacó exactamente los veinticuatro platos que había enumerado. Estupefacto quedó 
+      Juder al ver aquello. Y le dijo el moghrabín: Come, pobre amigo mío!" Pero exclamó Juder: 
+      "¡Ualah! ¡oh mi señor peregrino! ¡sin duda has colocado en ese saco una cocina con sus utensilios 
+      y cocineros!" El moghrabín se echó a reír, y contestó: Oh Juder, ¡este saco está encantado! ¡Lo 
+      sirve un efrit que, si quisiéramos nos traería al instante mil manjares indios y mil manjares chinos!"
+      <p><b>Referencia:</b> Historia de Juder el pescador o el saco encantado (n. 471)</p></blockquote>
+    <p>Un adepto a la magia, gastando un PP, puede sacar hasta 24 platos de comida diferentes perfectamente
+      cocinado. Cada plato da de comer a una persona durante un día. Estos ricos manjares vienen servidos en
+      platos de oro con cubiertos de también de oro. Una vez acabada la comida hay que devolver la vajilla.
+      Si no se devuelve, la proxima vez solo podrá sacarse 23 platos y así hasta que no queden platos.</p>
+    <p>El efrit es un ser resentido con los que le encerraron en ese saco. Por cada plato que se saque,
+      hay que sacar carta, si sale un joker el efrit atacará lanzará una llamarada de fuego (arma 
+      lanzarrayos) al anfitrión que está sacando los platos.</p>
     <h2>Objetos mágicos</h2>
     <p>***</p>
     <h3>Alfombra volante</h3>
@@ -4593,12 +4630,12 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
     <p>Esta concha de color rojo sangre y del tamaño de una mano, evita sentir dolor por grande que sea, desde 
        dolores de muelas o de cabeza hasta el producido por heridas graves o el que se siente cuando se amputan
        extremidades gangrenadas.</p>
-    <p class="rule">Gastando un deseo se pueden anular durante una hora los negativos por heridas o los que 
+    <p>Gastando un deseo se pueden anular durante una hora los negativos por heridas o los que 
       pudieran producir enfermedades, hechizos, venenos o drogas, siempre que estos negativos sean producidos 
       por fuertes dolores. Por ejemplo, el -1 que da un terrible dolor de muelas desaparecería usando este 
       amuleto. Hay que tener en cuenta que el amuleto solo quita el dolor, no cura el veneno o la enfermedad 
       que habría que tratarla a parte.</p>
-    <p>La concha roja es un regalo muy apreciado entre las mujeres ya que es objeto que alivia totalmente 
+    <p>La concha roja es un regalo muy apreciado entre las mujeres ya que este objeto que alivia totalmente 
       los terribles dolores del parto.</p>
     <h3>Kohl de invisibilidad</h3>
     <blockquote>Y he aquí que el humo del estiércol quemado, que llenaba el aposento, atacó a mis ojos de 
@@ -4658,6 +4695,8 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
     <p>Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árboles es impactante, pero 
       no provoca ninguna perdida cordura.</p>
     <h3>Vasos canopos del Faraón negro</h3>
+    <blockquote class="primigenio">
+      <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <p>Estos vasos canopos (recipientes de piedra con tapa de cabeza de animal/dios egipcio que contienen 
       restos extraídos a un cuerpo que se va a momificar como cerebro, entrañas, ...) seguramente fuero sacados 
       de la pirámide acodada de Dashur, donde yace el cuerpo momificado del faraón Nefrén-Ka, conocido como 
@@ -4666,7 +4705,7 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       alguno de los 1d4 órganos guardado en ellos permite usar una vez el poder de Adivinación, usando Espíritu como 
       habilidad arcana. Si se busca consultar con primigenios o dioses exteriores, la tirada deberá ser con Saber de Soleimán.</p>
     <h3>Ventana de Leng</h3>
-    <p>A este cristal traslúcido se le ha añadido un marco de madera con unas contraventanas para
+    <p>A este cristal traslúcido se le ha añadido un marco de madera de sandalo con unas contraventanas para
       cerrarlo. Cuando se coloca sobre una superficie y se abren las contraventanas, el cristal 
       se vuelve transparente y permite ver a través de él como si fuera una ventana abierta en la 
       superficie colocada. El principal problema es que la ventana se abre hacia los dos lados y 
@@ -5003,8 +5042,26 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos 
       casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate 
       las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y 
-      con la que todos os encontréis cómodos.</p>
-      <div class="saltopagina"></div>
+      con las que todos os encontréis cómodos.</p>
+    <p>Las 1001 noches tiene muchas cosas criticables, pero también hay que decir que representa muchas 
+      formas de amor y sexo, seguramente mucho siglos antes que otras obras literararias que creemos más 
+      avanzadas. Aquí tienes algunos ejemplos:</p>
+    <div class="saltopagina"></div>
+    <blockquote>¡Ojalá vivas mucho tiempo! ¡Escucha! Has de saber ¡oh capitán Moin! que soy una mujer 
+      que está prendada de una jovenzuela. Y su amor chisporrotea como fuego en mis entrañas. Y aunque 
+      tuviera yo mil lenguas y mil corazones, no sería más viva esta pasión que tanto me penetra. Y la 
+      adorada no es otra que la hija del kadí de la ciudad. Y entre ella y yo ha ocurrido lo que ha 
+      ocurrido. Y eso es un misterio de amor. Y entre ella y yo existe un apasionado pacto acordado 
+      con promesas y con juramentos. Porque ella arde por mí con un ardor igual. Y jamás se casará 
+      ella, y jamás me tocará a mí un hombre.
+      <p><b>Referencia:</b> Historia contada por el primer capitán de policía (n. 937)</p></blockquote>
+    <blockquote>"Me parece ¡oh jeique! que eres de los que prefieren los jovenzuelos a las mujeres". 
+      Mi amigo sonrió, y dijo: "¡Así es!" Ella preguntó: "¿Y por qué? ¡oh jeique!" El dijo: "¡Porque 
+      Alah ha modelado el cuerpo de los jovenzuelos con una perfección admirable, en detrimento de 
+      las mujeres, y mis gustos me impulsan a preferir en toda cosa lo perfecto a lo imperfecto!" 
+      Ella se rió detrás de la cortina, y dijo: "¡Pues bien; si quieres defender tu opinión, 
+      estoy dispuesta a responderte!" El dijo: "¡Con mucho gusto!"
+      <p><b>Referencia:</b> ¿Mujeres o jovenzuelos? (n. 391)</p></blockquote>    
     <h3>Participar en el proyecto</h3>
     <p>Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de
       GitHub en este <a href="https://github.com/gwannon/1001Ghules">proyecto</a>. Si no estás familiarizado con Git,
@@ -5059,7 +5116,7 @@ mientras camina por la playa y la costa es escuchado por la gente, provocando es
       <li><a href="https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo">Wiki Amor de Otro Mundo</a>
       </li>
     </ul>
-    <div class="saltopagina"></div>
+    
     <h2>Música para las partidas</h2>
     <p>Esta es mi selección de música para jugar a 1001 Ghūles. Es casi imposible encontrar música que 
       pegue con 1001 noches y los mitos de Cthulhu así damos a dar recomendaciones para cada género.</p>
