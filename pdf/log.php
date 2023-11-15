@@ -33,7 +33,8 @@ $bots = [
   "Friendica",
   "test-bot",
   "my-tiny-bot",
-  "thesis-research-bot"
+  "thesis-research-bot",
+  "LivelapBot"
 ];
 
 $ips = [];
