@@ -34,7 +34,8 @@ $bots = [
   "test-bot",
   "my-tiny-bot",
   "thesis-research-bot",
-  "LivelapBot"
+  "LivelapBot",
+  "ShortLinkTranslate"
 ];
 
 $ips = [];
