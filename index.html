@@ -5901,17 +5901,43 @@
     left: 0px;
   }
 
+
+
   @media print {
+    
     body {
       background: linear-gradient(45deg, transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%, transparent 90%), linear-gradient(135deg,  transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%,  transparent 90%), radial-gradient(circle at top,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at bottom,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at right,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at left,var(--color-grey) 20% , transparent 21%);
       background-size: 3em 3em;
+
       background-color: #ffffff;
       opacity: 1;
     }
-
     body > section {
-      background-color: transparent;
+      background: none;
     } 
+
+    
+    body:before {
+      position: fixed;
+      content: "";
+      display: block;
+      top: 0px;
+      left: 0px;
+      width: 20px;
+      height: 100vh;
+      background-color: var(--color-sand);
+    }
+
+    body:after {
+      position: fixed;
+      content: "";
+      display: block;
+      top: 0px;
+      right: 0px;
+      width: 20px;
+      height: 100vh;
+      background-color: var(--color-sand);
+    }
 
     .nopdf {
       display: none;
@@ -5941,6 +5967,14 @@
 
     h1:not(section:last-of-type h1):not(section:first-of-type h1) {
       height: calc(100vh - 2px);
+      position: relative;
+      z-index: 10;
+    }
+
+    section:first-of-type,
+    section:last-of-type {
+      position: relative;
+      z-index: 10; 
     }
 
     section:last-of-type,
