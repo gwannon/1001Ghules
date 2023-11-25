@@ -37,7 +37,8 @@ $bots = [
   "LivelapBot",
   "ShortLinkTranslate",
   "TrendsmapResolver",
-  "EventMachine HttpClient"
+  "EventMachine HttpClient",
+  "linkfluence.com"
 ];
 
 $ips = [];
