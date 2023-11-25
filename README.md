@@ -1,9 +1,17 @@
 # Mil y Un Ghūles
 Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los relatos de horror cósmico que Scheherazade conto al sultán Shahriar durante 1001 noches.
 
+Fecha estimada de publicación: Febrero 2024
+
 ## Versiones
 
-### 0.2.2 En desarrollo
+### 0.3 En desarrollo
+* Maquetados Tesoros
+
+### 0.2.2 25/11/2023
+* Fijadas razas de yinns
+* Dibujos de PNJ
+* Maquetadas Reglas de ambientación
 
 ### 0.2.1  04/11/2023
 * Establecidas las principales tramas de las campañas.
