@@ -36,7 +36,8 @@ $bots = [
   "thesis-research-bot",
   "LivelapBot",
   "ShortLinkTranslate",
-  "TrendsmapResolver"
+  "TrendsmapResolver",
+  "EventMachine HttpClient"
 ];
 
 $ips = [];
