@@ -31,6 +31,15 @@ $json = json_decode(file_get_contents("http://ip-api.com/json/".$ip));
 
 //echo date("Y-m-d H:i:s")."|".$ip."|".$_SERVER['HTTP_USER_AGENT'];
 
+$mensaje = date("Y-m-d H:i:s")."\n".
+  $ip."\n".
+  $_SERVER['HTTP_REFERER']."\n".
+  $_SERVER['HTTP_ORIGIN']."\n".
+  (isset($json->status) && $json->status == 'success' ? $json->country."|".$json->city : "")."\n".
+  $_SERVER['HTTP_USER_AGENT'];
+
+mail("monclus.jorge@gmail.com", "Nueva descarga 1001 Ghules", $mensaje);
+
 $f=fopen(__DIR__."/log.txt", "a+");
 fwrite($f, date("Y-m-d H:i:s")."|".
   $ip."|".
