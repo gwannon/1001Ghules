@@ -7,6 +7,8 @@ Fecha estimada de publicación: Febrero 2024
 
 ### 0.3 En desarrollo
 * Maquetados Tesoros
+* Nuevos personajes
+* Bocetada la ciudad de Bagdad
 
 ### 0.2.2 25/11/2023
 * Fijadas razas de yinns
