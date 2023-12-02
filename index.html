@@ -175,6 +175,7 @@
 
     h3 {
       font-size: 2em;
+      line-height: 100%;
     }
 
     h4 {
@@ -206,11 +207,52 @@
     }
 
     section > p.rule {
-      border-color: var(--color-sunset);
-      background-color: #ffdbce;
+      --patternsize: 20px; 
+      border: 3px solid var(--color-emerald);
+      background-color: #cfd9d6;
+      margin-left: calc(var(--margin) + var(--patternsize));
+      margin-right: calc(var(--margin) + var(--patternsize));
+      margin-top: calc(var(--patternsize) * 2);
+      margin-bottom: calc(var(--patternsize) * 2);
+      position: relative;
     }
 
-    section > .rule+.rule {
+    section > p.rule:before,
+    section > p.rule:after {
+      content: "";
+      position: absolute;
+      display: block;
+      width: 20px;
+      top: calc(var(--patternsize) * -1);
+      left: calc(var(--patternsize) * -1);
+      height: calc(100% + (var(--patternsize) * 2));
+      border: 3px solid var(--color-emerald);
+      box-sizing: border-box;
+      clip-path: polygon(
+        0% 0%, 
+        var(--patternsize) 0%, 
+        var(--patternsize) 100%, 
+        0% 100%, 
+        0% calc(100% - var(--patternsize)), 
+        var(--patternsize) calc(100% - var(--patternsize)), 
+        var(--patternsize) var(--patternsize), 
+        0% var(--patternsize));
+      background: linear-gradient(
+        180deg,
+        transparent 0%, 
+        transparent calc(var(--patternsize) - 6px),
+        var(--color-emerald) calc(var(--patternsize) - 6px),
+        var(--color-emerald) calc(100% - var(--patternsize) + 6px),
+        transparent calc(100% - var(--patternsize) + 6px)
+      );
+    }
+
+    section > p.rule:after {
+      left: auto;
+      right: calc(var(--patternsize) * -1);
+    }
+    
+    section > .rule + .rule {
       border-top: none;
       margin-top: -1.8em;
     }
@@ -320,6 +362,7 @@
       shape-image-threshold: 0.5;
       shape-margin: 20px;
       float: left;
+      z-index: 10;
     }
   </style>
   <!-- /* cSpell:enable */ -->
@@ -941,8 +984,8 @@
     <p>Aladino es el hijo de un pobre zapatero remendón y su madre y él malviven hilando lana. Ali-Baba es un pobre 
       leñador que solo posee 3 mulas.</p>
     <p class="rule">Esta desventaja implica las desventajas que da Pobreza, pero también supone que recibes un -2 a las 
-      tiradas de Persuadir con gente rica y noble (que tengan ventajas como Rico o Alcurnia).</p>
-    <p class="rule">Adicionalmente, no sabes identificar cosas valiosas, ya que nunca las has conocido o usado. Puede que sepas 
+      tiradas de Persuadir con gente rica y noble (que tengan ventajas como Rico o Alcurnia).<br/>
+      Adicionalmente, no sabes identificar cosas valiosas, ya que nunca las has conocido o usado. Puede que sepas 
       que algo vale mucho dinero, pero no podrás tasarlo y pueden engañarte al venderlo.</p>
     <h3>Más cerca de la locura (mayor)</h3>
     <p>Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil
@@ -986,20 +1029,16 @@
       por tomar decisiones y elegir la peor, se sienten situaciones normales como más amenazantes de lo
       que son e incluso se siente ansiedad por tener ansiedad.</p>
     <p class="rule">En juego, el personaje con este trastorno recibe un -2 a todas las tiradas que
-      necesite para
-      tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir que puerta es
-      mejor para atacar la cárcel local y liberar a tus compañeros.</p>
-    <p class="rule">Como mayor directamente no podrá
-      hacer la tirada, la ansiedad le atenazará dejándole en blanco.</p>
-      
+      necesite para tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir 
+      que puerta es mejor para atacar la cárcel local y liberar a tus compañeros.<br/>
+      Como mayor directamente no podrá hacer la tirada, la ansiedad le atenazará dejándole en blanco.</p>
     <h4>Ataques de pánico (mayor/menor)</h4>
     <p>Están muy asociados con el trastorno anterior. Tu personaje sufre un miedo terrible de
       repente y sin sentido ante una situación o evento normal (normal para el personaje).</p>
     <p class="rule">Como desventaja menor, una vez por sesión Scheherazade podrá obligar a tu PJ a
       hacer una tirada de Espíritu o sufrirá un terrible ataque de pánico que le imposibilitará
-      llevar a cabo la acción que quería hacer.</p>
-
-    <p class="rule">En caso de que sea mayor, no hará falta tirada, Scheherazade podrá hacer que el miedo
+      llevar a cabo la acción que quería hacer.<br/>
+      En caso de que sea mayor, no hará falta tirada, Scheherazade podrá hacer que el miedo
       atenace al personaje directamente imposibilitándole seguir con la acción que deseaba hacer.</p>
     <p>Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Puede ser muy
       frustrante para cualquier persona no tener control de su personaje. Mi consejo es que lo uses como una
@@ -1009,14 +1048,13 @@
       deseado (obsesiones) que provocan comportamientos repetitivos (compulsiones). Por ejemplo, un miedo a
       las enfermedades puede llevar a un paciente de TOC a lavarse compulsivamente las manos.</p>
     <p class="rule">Deberás elegir una fobia menor y un hábito menor relacionado para formar el TOC de tu personaje.</p>
-
     <h4>Paranoia (mayor/menor)</h4>
     <p>Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él.
       Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo
       conspiran a sus espaldas.</p>
     <p class="rule">Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración
-      (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.</p>
-    <p class="rule">Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que 
+      (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.<br/>
+      Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que 
       estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.</p>
     <h4>Megalomanía (mayor/menor)</h4>
     <p>La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de manera que puede mentir,
@@ -1026,7 +1064,6 @@
       que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será
       a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado,
       es decir, que tenga atributo/habilidad d8 o más.</p>
-
     <h3>La llamada de Bahamut (menor)</h3>
     <p>Tu mente artística e imaginativa es muy susceptible a las ondas mentales de Bahamut,
       teniendo terribles pesadillas sobre este poderoso ser y su tumba acuática.</p>
@@ -1037,7 +1074,6 @@
     <h2>Nuevas ventajas</h2>
     <p>Como se explicará más adelante, desaparecen una serie de ventajas, bien porque son sustituidas 
       por otras nuevas o bien porque no tienen sentido dentro del universo de las 1001 noches:</p>
-
     <ul>
       <li>Atractivo</li>
       <li>Muy atractivo</li>
@@ -2183,6 +2219,9 @@
       aposentos como la bellla durmiente.</p>
     <p>***</p>
     <h2>Grimorios y libros de hechizo</h2>
+    <a href="https://www.deviantart.com/brandon-ellis/art/Portal-Room-808922864" 
+      target="_blank" rel="noopener" title="Portal Room by Brandon-Ellis">
+        <img src="./assests/images/biblioteca-mago.jpg" alt="Portal Room by Brandon-Ellis"></a>
     <blockquote> Y sacó del bolsillo un libro antiguo, en el cual había trazados al revés caracteres 
       desconocidos, semejantes a patas de hormigas, y se puso a leer en voz alta ante la montaña, 
       moviendo la cabeza, unos versículos en lengua incomprensible. Y al punto, girando sobre sí misma 
@@ -3406,6 +3445,8 @@
     <p>***</p>
     <h3>Otros lugares de Persia</h3>
     <p>***</p>
+    <h4>Zigurat de Ur</h4>
+    <p>***</p>
     <h4>Alamut</h4>
     <p>***</p>
     <h2>Siria</h2>
@@ -3592,12 +3633,18 @@
     <p>Asi se denomina a la ribera este del Tigris. ***</p>
     <h4>Palacio Hasani</h4>
     <p>En este palacio vive cuando no esta sirviendo a su señor, el Califa, el vizir Gaifar. ***</p>
-
-   
-
-
-
-
+    <h4>El yakhchāl del califa</h4>
+    <blockquote>y echó en ella agua de la fuente, que enfrió con un pedazo de hielo, y lo mezcló todo con azúcar 
+      y agua de rosas, y después se lo presentó al califa. 
+      <p><b>Referencia:</b> Historia del mandadero y las tres doncellas (n. 10)</p></blockquote>
+    
+    <p>Dentro de los muchos caprichos del Califa, uno de los más extravagantes son los sorbetes, hielo picado con 
+      zumos de frutas. Es por ello que el Califa mando construir un yakhchāl en Al-Rusafa, donde se produce y conserva 
+      el hielo para sus queridos sorbetes.</p>
+    <p>Un yakhchāl es edificio en forma de cucurucho permite crear hielo en invierno mediante refrigeración por 
+      evaporación y de conservarlo en verano sin casi perdidas.</p>
+    <p>Solo el califa y quien él designe pueden disfrutar de este hielo, no se vende a nadie y robarlo sse pena con 
+      la perdida del brazo a la altura de codo.</p>
     <h2>El rio Tigris</h2>
     <p>Bagdad se halla a la orilla del Tigris ***</p>
     <p>El Tigris ha sido una ruta de transporte importante durante mucho tiempo a través 
@@ -3605,7 +3652,7 @@
       botes de poco calado, pero se requiere de balsas para el transporte hasta Mosul.</p>
     <p>***</p>
     <h3>Puente de Bagdad</h3>
-    <p>Este puente de piedra es el principal punto de conexión entre las dos orillas del Tigris, Khark y Rufasa. 
+    <p>Este puente de piedra es el principal punto de conexión entre las dos orillas del Tigris, Khark y Rusafa. 
       No es el único que cruza el rio, pero debido a su cercanía a la medina es el más frecuentado.</p>
     <p>Tiene tráfico de personas, animales y mercancías las 24 horas del día y siempre hay algo que ver. Varios 
       mendigos pasan las horas pidiendo caridad en el puente y por una buena propina podrán decirte si han visto 
@@ -3851,7 +3898,14 @@
     <p><em>***</em></p>
     <p>***</p>
     -->
+
+    
+
+
     <h2>El Pequeño Consejo</h2>
+    <a href="https://www.deviantart.com/brandon-ellis/art/Ruin-Market-874688696" 
+      target="_blank" rel="noopener" title="Ruin - Market by Brandon-Ellis">
+        <img src="./assests/images/bazar.jpg" alt="Ruin - Market by Brandon-Ellis"></a>
     <p>Esta historia esta pensada para ser jugada con niños y niñas de entre 8 y 15 años. Es por ello que 
       tendrían que tener la desventaja Joven (menor o mayor).</p>
     <p>Es un conjunto de aventuras para un grupo de niños y niñas que viven en las calles de Bagdad. El 
@@ -3931,7 +3985,7 @@
     <h3>Historia de la noche en el cementerio</h3>
     <p><em>Dentro del Pequeño Consejo hay un rito de paso para sus integrantes, pasar una noche en un cementerio.</em></p>
     <p>***</p>
-    <h3>Historia del mielero</h3>
+    <h3>El shatranj de Soleimán I: Historia del mielero</h3>
     <p><em>El cadáver de Haquim "el mielero" ha aparecido en las orillas del río Tigris con 
       signos de violencia. Haquim cuidaba del Pequeño Consejo y van a buscar y ajusticiar a su asesino.</em></p>
     <p>Haquim era un anciano que vivía de vender en el zoco dulces que hacía con la miel de sus abejas. 
@@ -3975,7 +4029,7 @@
       cadáveres y los gritos de los perturbados encerrados en las las cercanas celdas.</p>
     <p>Si examinan el cadaver, una tirada de Notar detectará una cicatriz por quemadura con forma de sello 
       de Soleimán, que ninguno de tus shahriars puede reconocer.</p>
-    <h3>Historia del las piezas de ébano del shatranj</h3>
+    <h3>El shatranj de Soleimán II: Historia del las piezas de ébano del shatranj</h3>
     <p><em>Haquim murió para robarle sus piezas de ébano de un antiguo juego de shatranj. Habrá que averiguar 
       quien contrato al asesino y porque es tan importante ese juego.</em></p>
     <p>Déjales moverse por la ciudad buscando información. Estos son algunos item de información que 
@@ -4002,7 +4056,7 @@
     <p>Con toda esta información debería reunirse con el Pequeño Consejo para informar y decidir los 
       siguientes pasos</p>
     <p>***</p>
-    <h3>Historia del pasillo prohibido de la Casa de la Sabiduría</h3>
+    <h3>El shatranj de Soleimán III: Historia del pasillo prohibido de la Casa de la Sabiduría</h3>
     <p><em>El shatranj es un artefacto mágico por el que La progenie de la Luna Creciente ha matado, pero nadie parece 
       saber que lo hace tan deseado. La única solución será entrar en el pasillo prohibido de la Casa de la Sabiduría 
       y consultar en sus tomos malditos como funciona la magia del shatranj.</em></p>
@@ -4021,12 +4075,12 @@
       oportuno otorga la victoria al jugador ébano o marfil.</p>
     <p>Las ilusiones pueden ser a veces muy realistas y podrían suplantar incluso a mensajeros y oficiales que darán 
       ordenes de atacar objetivos reales.</p>
-    <h3>Historia de como el Califa se preparó para la guerra</h3>
+    <h3>El shatranj de Soleimán IV: Historia de como el Califa se preparó para la guerra</h3>
     <p><em>Los espías y exploradores del Califa traen malas noticias, los enemigos del califa están preparándose 
       en la frontera para atacar Bagdad. alguien deberá avisar al Califa de que todos los movimientos enemigos 
       son ilusiones.</em></p>
     <p>***</p>
-    <h3>Historia de como el Pequeño Consejo evito una guerra</h3>
+    <h3>El shatranj de Soleimán V: Historia de como el Pequeño Consejo evito una guerra</h3>
     <p><em>Las noticias de guerra corren por las calles de la ciudad, solo encontrando a la Luna Creciente y quitándoles 
       el juego podrán acabar con esta locura.</em></p>
     <p>***</p>
@@ -4067,11 +4121,11 @@
       remueves en el sentido contrario la convierte en una bazofia incomible. Todo el mundo conoce a alguien 
       que conoce a alguien que ha visto la cuchara en acción.</em></p>
     <p>***</p>
-    <h4>La cuchara mágica</h4>
     <a href="https://www.deviantart.com/finaformsora/art/Dual-Disk-613332464" 
-      target="_blank" rel="noopener" title="Dual Disk by finaformsora">
-        <img src="https://1001ghules.gwannon.com/assests/images/cuchara-magica.png" class="silueta" 
-          alt="Dual Disk by finaformsora" style="float: right; width: 112px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/cuchara-magica.png);"></a> 
+    target="_blank" rel="noopener" title="Dual Disk by finaformsora">
+    <img src="https://1001ghules.gwannon.com/assests/images/cuchara-magica.png" class="silueta" 
+    alt="Dual Disk by finaformsora" style="float: right; width: 112px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/cuchara-magica.png);"></a> 
+    <h4>La cuchara mágica</h4>
     <p>La cuchara mágica es un ingenio de supervivencia de los Al Mighos para sus exploradores. Los Al Mighos no 
       pueden tomar comida terrenal y debe sobrevivir con las raciones que lleven encima. Este invento permite al 
       explorador Al Migho transmutar comida terrestre líquida o semisólida como purés, cremas, sopas, caldos o 
@@ -4080,16 +4134,23 @@
     <p class="rule">No hace falta tener Afinidad mágica para usarlo, simplemente girando en el sentido de las agujas del reloj, 
       permite transmutar el contenido de una olla (1 m<sup>3</sup> de capacidad máxima) en una sustancia parecida en 
       color, textura y sabor a la miel que los Al Mighos pueden consumir aunque no les sea muy agradables y que 
-      curiosamente es deliciosa para los humanos.</p>
-    <p class="rule">Removiéndolo en el sentido contrario debería revertir el proceso de transmutación y dejar la comida en su 
+      curiosamente es deliciosa para los humanos.<br/>
+      Removiéndolo en el sentido contrario debería revertir el proceso de transmutación y dejar la comida en su 
       estado original, pero falla y hace la comida incomestible para humanos y Al Mighos. Solo se necesitan unos cincos 
       minutos de remover las viandas para transmutarla.</p>
+    <h3>Historia del gran robo del hielo del Califa</h3>
+    <p><em>Las fiebres están consumiendo la vida de uno de los protegidos de Fatima. Los trapos humedos no sirven 
+      para bajar la temperratura. Solo pueden para la pirexia con baños de agua y hielo. Fatima busca valientes 
+      que se atrevan a robar el hielo del Califa, aun a riesgo de perder una mano.</em></p>
+    <p>***</p>
     <h3>Cuentos salvajes que puedes meter dentro de esta campaña</h3>
     <p>Hay una serie de cuentos salvajes que podrían ser protagonizados por tus pillastres e intercalarlos 
       dentro de la trama principal de esta campaña.</p>
     <ul>
       <li>Los encuentros de Al-Rashid en el puente de Bagdad</li>
       <li>El viajero del tiempo</li>
+      <li>La paloma mensajera</li>
+      <li>El alcazar en las nubes</li>
     </ul>
 
     <div class="separator"></div>
@@ -4834,7 +4895,7 @@
           </tr>
           <tr>
             <th>9</th>
-            <td>***</td>
+            <td>Brea pegalotodo</td>
           </tr>
           <tr>
             <th>10</th>
@@ -4917,7 +4978,7 @@
           </tr>
           <tr>
             <th>16</th>
-            <td>***</td>
+            <td>Cetros de faraón</td>
           </tr>
           <tr>
             <th>17</th>
@@ -5058,8 +5119,8 @@
       podría cortar cualquier cosa.</p>
     <p class="rule">Niega hasta los 6 puntos de armadura de cualquier tipo, natural, mágica, 
       de obstaculos, etc. Por ejemplo, un qatram con dureza de normal de 18, tendría 14 de dureza 
-      si es golpeado por esta espada. La espada quita el bono de 4 de su armadura natural.</p>
-    <p class="rule">También reduce en 6 puntos la consistencia de los objetos en caso de que 
+      si es golpeado por esta espada. La espada quita el bono de 4 de su armadura natural.<br/>
+      También reduce en 6 puntos la consistencia de los objetos en caso de que 
       quieras romperlos. Unas cadenas de consistencia 12 pasan a tener 6 si son golpeadas con 
       esta hoja.</p>
     <h4>Puñal del sabio Tammuz</h4>
@@ -5194,6 +5255,18 @@
       y cerrar de ojos. ¡Y por poseerla nos disponíamos a matarnos en este momento!"
       <p><b>Referencia:</b> Historia contada por el octavo capitán de policía (n. 949)</p></blockquote>
     <p>***</p>
+    <h3>Amuleto para vivir debajo del agua</h3>
+    <blockquote>Entonces contestó Flor-de-Granada: "¡Claro que te lo diré todo, y de corazón amistoso! 
+      Sabe que, por virtud de los nombres grabados en el sello de Soleimán ben-Daúd (¡con ambos la plegaria 
+      y la paz!), vivimos y andamos por el fondo del mar como se vive y anda por la tierra; y respiramos 
+      en el agua como se respira en el aire; y el agua en vez de asfixiarnos, contribuye a nuestra vida, 
+      y ni siquiera moja nuestras vestiduras; y no nos impide ver en el mar, donde tenemos los ojos 
+      abiertos sin ninguna dificultad; y poseemos vista tan excelente, que atraviesa las profundidades 
+      marinas, a pesar de su espesor y de su extensión, y nos permite distinguir todos los objetos lo 
+      mismo cuando los rayos del sol penetran hasta nosotros que cuando la luna y las estrellas se 
+      miran en nuestras aguas.
+      <p><b>Referencia:</b> Historia de Flor-de-Granada y de Sonrisa-de-Luna (n. 530)</p></blockquote>
+    <p>Este amuleto***</p>
     <h3>Azufre rojo</h3>
     <blockquote>Y encontró dentro unos polvos rojos, y exclamó: "¡He aquí el Azufre rojo, ya 
       Hassán Abdalah! ¡Esta es la Kimia de los sabios y de los filósofos, todos los cuales 
@@ -5303,6 +5376,25 @@
     <p>Recuerda que Imán de lo extraño puede usarse en esta. Gastando un deseo podrás 
       repetir la tirada pero te quedas con el segundo resultado. En este caso solo 
       podrá usar esta ventaja aquel que abra la botella.</p>
+
+
+
+
+      <h3>Cetros de faraón</h3>
+      <blockquote class="primigenio">***
+        <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
+      <p>Estos cetros, fruto del saqueo de tumbas reales egipcias, están hechos de un extraño metal. Uno tiene 
+        una especie de disco solar y otro un ankh. Son simbolos de poder y protección y parece por lgrabados que pasarón 
+        de un regente egipcio a sus descendientes durante siglos.</p>
+      <p class="rule">Una persona afín a la magia puede gastar 1 PP y 1 turno los cetros ofrecen inmunidad a ataques 
+        fisicos o a ataques mentales y mágicos. Solamente hay que coger los centro, uno en cada mano, y cruzarlos delante 
+        del pecho. Si ponemos el centro de Ankh delante se consigue inmunidad física y con el del disco solar delante inmunidad 
+        mágica y mental.<br>
+        Todo esto exige que la persona que porta los cetros no puedad hacer nada más ese turno que moverse y sostener los 
+        cetros. No puede atacar, ni coger cosas, ni darlas, etc.</p>
+
+
+
     <h3>Concha roja</h3>
     <blockquote class="primigenio">Y allí pregunté por el sabio Saadalah, y me guiaron, no sin cierto temor, a él; 
       y me presenté a él y le entregué cien mil dinares y el regalo del rey; luego le di el trozo de concha roja, y 
@@ -5379,18 +5471,6 @@
     <p>Este polvo plateado tiene la capacidad de volver visible por un momento (1d6 turnos) a criaturas invisibles e 
       inmateriales (pueden ser dañados por armas físicas) cuando este se dispersa soplándolo hacia ellos (alcance 2 ç
       casillas). El saco tiene 1D6 usos.</p>
-    <h3>Amuleto para vivir debajo del agua</h3>
-    <blockquote>Entonces contestó Flor-de-Granada: "¡Claro que te lo diré todo, y de corazón amistoso! 
-      Sabe que, por virtud de los nombres grabados en el sello de Soleimán ben-Daúd (¡con ambos la plegaria 
-      y la paz!), vivimos y andamos por el fondo del mar como se vive y anda por la tierra; y respiramos 
-      en el agua como se respira en el aire; y el agua en vez de asfixiarnos, contribuye a nuestra vida, 
-      y ni siquiera moja nuestras vestiduras; y no nos impide ver en el mar, donde tenemos los ojos 
-      abiertos sin ninguna dificultad; y poseemos vista tan excelente, que atraviesa las profundidades 
-      marinas, a pesar de su espesor y de su extensión, y nos permite distinguir todos los objetos lo 
-      mismo cuando los rayos del sol penetran hasta nosotros que cuando la luna y las estrellas se 
-      miran en nuestras aguas.
-      <p><b>Referencia:</b> Historia de Flor-de-Granada y de Sonrisa-de-Luna (n. 530)</p></blockquote>
-    <p>Este amuleto***</p>
     <h3>Saco encantado</h3>
     <blockquote>Y metió la mano en el saco, y extrajo de él un plato de oro con dos pollos asados y 
       calientes; luego metió la mano por segunda vez, y sacó un plato de oro con chuletas de cordero, 
@@ -5440,25 +5520,22 @@
       de la pirámide acodada de Dashur, donde yace el cuerpo momificado del faraón Nefrén-Ka, conocido como 
       el "Faraón negro".Contienen los restos del Faraón Negro, al que Nyarlathotep le concedió el poder de 
       ver el futuro.</p>
-    <p class="rule">Consumir alguno de los 1d4 órganos guardado en ellos permite usar una vez el poder de 
-      Adivinación, usando Espíritu como habilidad arcana. Si se busca consultar con primigenios o dioses 
-      exteriores, la tirada deberá ser con Saber de Soleimán.</p>
-    <h3>Ventana de Leng</h3>
-    <blockquote class="primigenio">
-      <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
-    <p>A este cristal traslúcido se le ha añadido un marco de madera de sandalo con unas contraventanas para
-      cerrarlo. Cuando se coloca sobre una superficie y se abren las contraventanas, el cristal 
-      se vuelve transparente y permite ver a través de él como si fuera una ventana abierta en la 
-      superficie colocada. El principal problema es que la ventana se abre hacia los dos lados y 
-      también pueden verte desde el otro lado.</p>
-    <p>Para activar el cristal de Leng el personaje debe estar en contacto con el cristal y este 
-      con la superficie, gastar 1 PP y pasar una tirada de Espíritu contra los puntos de armadura 
-      del material de la superficie. El efecto durará mientras el cristal esté en contacto con el 
-      afín a la magia y la superficie. Se puede mover el cristal a través de la superficie mientras 
-      no cambie el material. Por ejemplo, si quiere verse a través de una pared de piedra (armadura 10) 
-      deberá pasar una tirada de Espíritu contra una dificultad de 10.</p>
-    <p>El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más perturbado y caótico.
-      Por ello, si se tiene que hacer una TPC por algo visto a través del cristal, la TPC tiene un nivel más.</p>
+    <p class="rule">Consumir alguno de los 1d4 órganos guardados en cada uno de ellos permite usar una vez 
+      el poder de Adivinación, usando Espíritu como habilidad arcana y sin gastar PP. Si se busca consultar 
+      con primigenios o dioses exteriores, la tirada deberá ser con Saber de Soleimán.</p>
+    <h3>Espejo de Leng</h3>
+    <blockquote class="primigenio">y llevaba un espejo en la mano. Y se encaró con Zein, y le dijo: "Debo decirte, ¡oh Zein! que 
+      es imposible conocer la verdadera apariencia de un yinn si ha usado su perversa magia para disfrazarse. [...]. Así es que, 
+      como yo no te lo puedo enseñar de otro modo, para darte ese conocimiento te traigo este espejo, cuyo cristal de roca fue 
+      extraido en las tierras de Leng, que ha de ser más seguro que todas las conjeturas de los hombres.
+      <p><b>Referencia:</b> Historia maravillosa del espejo de las vírgenes (n. ***)</p></blockquote>
+    <p>A este cristal espejado se le ha añadido un mango de madera de sandalo. Funciona como un espejo normal, pero 
+      una persona afín a la magia puede gastar 1 PP y ver la verdadera forma de las personas y cosas que se reflejen 
+      en él. Esto supone, que se verá sin necesidad de tiradas todo ser disfrazado magicamente o transformados 
+      o transmutado, incluso maldiciones. También permitirá ver invisibles pero debido a la dificultad de mirar el 
+      espejo y atacar impone un -2 a atacar y no se podrá usar dos armas porque una está ocupada con el espejo.</p>
+    <p>El espejo tiende a distorsionar de alguna manera lo que refleja y hacerlo más perturbado y caótico.
+      Por ello, si se tiene que hacer una TPC por algo visto a través del espejo, la TPC tiene un nivel más.</p>
     <div class="separator"></div>
     <div class="saltopagina"></div>
     <h2>Objetos mundanos</h2>
@@ -5474,6 +5551,13 @@
       partir de la latitud y viceversa. Los marinos lo usan para calcular el horario de oración 
       y localizar la dirección de La Meca. Ofrece un +2 a las tiradas de Navegación si sabe usarse
       (con una tirada de previa de Ciencias).</p>
+    <p><b>Brea pegalotodo:</b> Este ungüento maloliente es un potente pegamento de secado muy rápido que
+      permite reparar un objeto roto de tamaño normal (algo que se pueda llevar en una mano) en un solo turno 
+      con una tirada exitosa de Reparar. La duración de la reparación no suele ser muy larga, utiliza la Tabla 
+      de Duración del trastorno para determinar la duración de la reparación. También puede usarse para reparar 
+      agujeros en odres o cantaros.<br>
+      Si se quiere reparar algo de mayor tamaño, Scheherazade podrá establecer las dosis y turnos que 
+      se necesitan para hacer las reparaciones. El bote tiene 1d12 usos.</p>
     <p><b>Dados trucados:</b> Estos preciosos dados de marfil y ébano están trucados y según 
       como se lancen obtienen unas tiradas u otras. Al usarlos en juegos de azar se obtiene un 
       +2 a las tiradas. Una tirada de Latrocinio con dos avances permitirá al resto de jugadores 
@@ -5540,6 +5624,7 @@
     <ul>
       <li>Ziba, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath</li>
     </ul>
+    <div class="saltopagina"></div>
     <h4>PJ de todas partes</h4>
     <ul>
       <li>Bahram el Gauro, Adorador del Fuego, alquimista de oficio y lider de la secta del Fuego y de la Luz</li>
@@ -5892,7 +5977,7 @@
     </ul>
     <p><b>Sugerencia de interpretación:</b> ***</p>
     <div class="saltopagina"></div>
-    <h4>Yacub Abu-Yussef, kadí supremo de Bagdad</h4>
+    <h2>Yacub Abu-Yussef, kadí supremo de Bagdad</h2>
     <blockquote>Bajo el reinado del califa Harún Al-Raschid, el kadí supremo de Bagdad era 
       Yacub Abu-Yussef, el hombre más sabio y el jurisconsulto más profundo y más listo de 
       su tiempo. Había sido el discípulo y el compañero más querido del imam Abu-Hanifah.
@@ -6042,13 +6127,20 @@
     <p><b>Sugerencia de interpretación:</b> ***</p>
     <div class="saltopagina"></div>
     <h2>Dana, joven ghūl aliada del Pequeño Consejo &#9790;</h2>
-    <blockquote>*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
-    <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
-    <p>Dana es una ghūl que vive en el cementerio de Al-Kazimiyya. Es un importante aliado para el Pequeño Consejo no 
-      solo porque lleva decadas ayudando al Consejo, sino también, porque sus contactos en el submundo mágico 
-      de bagdad son realmente útiles. Nada relacionado con los yinns, los cultos y los dioses extraños pasa
-      sin que ella se entere y se encarga de tener informado al Consejo.</p>
-    <p>***</p>
+    <blockquote class="primigenio">Y merced a aquella circunstancia, a pesar de la sorpresa espantosa que 
+      me embargaba, pude ver a la ghula, que no me veía, aproximarse a la joven y cogerla de la mano para 
+      llevarla al borde de una fosa. Y se sentaron ambas, una frente a otra, al borde de aquella fosa. Y 
+      la ghula se inclinó hasta el suelo y se incorporó sosteniendo en sus manos un objeto redondo, que 
+      entregó en silencio a la muchacha. Y en aquel objeto reconocí un cráneo humano recientemente 
+      separado de un cuerpo sin vida. Y la chica, lanzando un grito de bestia feroz, clavó con fruición 
+      sus dientes en aquella carne muerta y se puso a roerla de un modo horroroso.
+      <p><b>Referencia:</b> Historia del joven dueño de la yegua blanca (n. 863)</p></blockquote>
+    <p>Dana es una ghūl que vive en el cementerio de Al-Kazimiyya. Vive aislada del resto de los ghules del 
+      cementerio ya que la rechazan porque no es una ghūl de nacimiento si no que se infecto siendo joven.</p>
+    <p>Es un importante aliado para el Pequeño Consejo no solo porque lleva decadas ayudando al Consejo, sino 
+      también, porque sus contactos en el submundo extraño de Bagdad son realmente útiles. Nada relacionado 
+      con los yinns, los cultos y los dioses extraños pasa sin que ella se entere y se encarga de tener 
+      informado al Consejo.</p>
     <p>Su principal misión es dentro del Pequeño Consejo es poner a prueba a los nuevos. El rito de iniciación
       del Pequeño Consejo es pasar una noche en un cementerio y Dana se encarga de ponerles a prueba. Los 
       acecha y los asusta, los ataca (sin llegar a herirles), los amenaza e incluso ha llegado comerse los restos
@@ -6056,6 +6148,9 @@
     <p>Debido a sus gran inteligencia y sus gustos necrofagos se ha convertido en un excelente forense. Si le permiten 
       examinar un cadaver o se le describen bien las señales que tengo el muerto podrá elaborar alguna toería interesante
       y casi siempre acertada.</p>
+    <p>También es una experta albañil y cantera y cunado tiene tiempo se dedica a restaurar las tumbas más viejas 
+      de su cementerio. De hecho muchas veces el Consejo no le paga sus servicio en oro, sino que le da herramientas 
+      y materiales de construcción.</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
       <li><b>Habilidades:</b> ***</li>
@@ -6064,14 +6159,16 @@
       <li><b>Ventajas:</b> Afinidad mágica, ***</li>
       <li><b>Capacidades especiales:</b>
         <ul>
+
           <li><b>Armadura +1:</b> Piel dura.</li>
           <li><b>Excavar 4:</b> Los ghūles pueden excavar en tierra y piedras suelta y
             reaparecer en el siguiente turno en cualquier sitio a 6 pasos.</li>
-          <li><b>Debilidad luz solar:</b> Sufren un -2 a todas sus tiradas de habilidad 
-            a plena luz del día.</li>
+          <li class="saltopagina"><b>Debilidad luz solar:</b> Sufren un -2 a todas sus 
+            tiradas de habilidad a plena luz del día.</li>
           <li><b>Visión nocturna:</b> No sufren penalización por condiciones 
             de iluminación.</li>
           <li><b>Garras/Mordisco:</b> Fue+d6</li>
+          <li><b>Hechizos:</b> ***</li>
           <li><b>Infección:</b> Cualquiera que sufra una herida de un ghūl debe 
             hacer una tirada de Vigor al de una semana. El éxito indica que está 
             bien. El fracaso le otorga un nivel inmediato de fatiga debido a las 
@@ -6083,10 +6180,9 @@
             esa información. Si se supera la infección o se pasa la tirada de Vigor 
             la victima se vuelve inmune a la infección y la proxima vez ni tendrá 
             el nivel de fatiga.</li>
-          <li><b>Hechizos:</b> ***</li>
         </ul>
       </li>
-      <li><b>Equipo:</b> ***</li>
+      <li><b>Equipo:</b> Herramientas de albañil y cantero.</li>
       <li><b>TPC:</b> 1d4</li>
     </ul>
     <p><b>Sugerencia de interpretación:</b> ***</p>
@@ -6190,7 +6286,7 @@
     <h3>Religión</h3>
     <p>Todo el tema de religión, no solo musulmana, sino también, cristiana, judía o incluso hindú ha sido obviada
       en esta ambientación. Eres muy libre de dejar la religión fuera de tu mesa o de meterla, pero eso queda 
-      en tu mano.</p>
+      en tu mano.</p> 
     <p>Lo que si has de tener en cuenta es que en la mayoría de las historias de las 1001 noches 
       la religión no es algo fundamental que afecte a la historia ni tan siquiera tangencialmente. Los personajes 
       son creyentes, alaban el nombre de su dios y siguen sus preceptos, pero normalmente no se narra que 
@@ -6225,6 +6321,13 @@
     <p>Las 1001 noches tiene muchas cosas criticables, pero también hay que decir que representa muchas 
       formas de amor y sexo, seguramente mucho siglos antes que otras obras literararias que creemos más 
       avanzadas. Aquí tienes algunos ejemplos:</p>
+    <blockquote>"Me parece ¡oh jeique! que eres de los que prefieren los jovenzuelos a las mujeres". 
+      Mi amigo sonrió, y dijo: "¡Así es!" Ella preguntó: "¿Y por qué? ¡oh jeique!" El dijo: "¡Porque 
+      Alah ha modelado el cuerpo de los jovenzuelos con una perfección admirable, en detrimento de 
+      las mujeres, y mis gustos me impulsan a preferir en toda cosa lo perfecto a lo imperfecto!" 
+      Ella se rió detrás de la cortina, y dijo: "¡Pues bien; si quieres defender tu opinión, 
+      estoy dispuesta a responderte!" El dijo: "¡Con mucho gusto!"
+      <p><b>Referencia:</b> ¿Mujeres o jovenzuelos? (n. 391)</p></blockquote>   
     <blockquote>¡Ojalá vivas mucho tiempo! ¡Escucha! Has de saber ¡oh capitán Moin! que soy una mujer 
       que está prendada de una jovenzuela. Y su amor chisporrotea como fuego en mis entrañas. Y aunque 
       tuviera yo mil lenguas y mil corazones, no sería más viva esta pasión que tanto me penetra. Y la 
@@ -6233,13 +6336,6 @@
       con promesas y con juramentos. Porque ella arde por mí con un ardor igual. Y jamás se casará 
       ella, y jamás me tocará a mí un hombre.
       <p><b>Referencia:</b> Historia contada por el primer capitán de policía (n. 937)</p></blockquote>
-    <blockquote>"Me parece ¡oh jeique! que eres de los que prefieren los jovenzuelos a las mujeres". 
-      Mi amigo sonrió, y dijo: "¡Así es!" Ella preguntó: "¿Y por qué? ¡oh jeique!" El dijo: "¡Porque 
-      Alah ha modelado el cuerpo de los jovenzuelos con una perfección admirable, en detrimento de 
-      las mujeres, y mis gustos me impulsan a preferir en toda cosa lo perfecto a lo imperfecto!" 
-      Ella se rió detrás de la cortina, y dijo: "¡Pues bien; si quieres defender tu opinión, 
-      estoy dispuesta a responderte!" El dijo: "¡Con mucho gusto!"
-      <p><b>Referencia:</b> ¿Mujeres o jovenzuelos? (n. 391)</p></blockquote>    
     <h3>Participar en el proyecto</h3>
     <p>Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de
       GitHub en este <a href="https://github.com/gwannon/1001Ghules">proyecto</a>. Si no estás familiarizado con Git,
@@ -6294,7 +6390,6 @@
       <li><a href="https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo">Wiki Amor de Otro Mundo</a>
       </li>
     </ul>
-    
     <h2>Música para las partidas</h2>
     <p>Esta es mi selección de música para jugar a 1001 Ghūles. Es casi imposible encontrar música que 
       pegue con 1001 noches y los mitos de Cthulhu así damos a dar recomendaciones para cada género.</p>
@@ -6876,6 +6971,12 @@ https://www.deviantart.com/muratcalis/art/Hasan-Ibn-i-Sabbah-291239907
 https://www.deviantart.com/muratcalis/art/We-re-Martyrs-For-Seyduna-291246437
 
 https://www.deviantart.com/muratcalis/art/Summoning-is-Complete-601771717
+
+https://www.deviantart.com/brandon-ellis/art/Portal-Room-808922864
+
+https://www.deviantart.com/brandon-ellis/art/Holar-Peek-936454439
+
+https://www.deviantart.com/brandon-ellis/art/Good-to-be-Bad-787484373
 
 
 
