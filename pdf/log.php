@@ -38,7 +38,8 @@ $bots = [
   "ShortLinkTranslate",
   "TrendsmapResolver",
   "EventMachine HttpClient",
-  "linkfluence.com"
+  "linkfluence.com",
+  "Python-urllib/3.9"
 ];
 
 $ips = [];
