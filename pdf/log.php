@@ -39,7 +39,8 @@ $bots = [
   "TrendsmapResolver",
   "EventMachine HttpClient",
   "linkfluence.com",
-  "Python-urllib/3.9"
+  "Python-urllib/3.9",
+  "ddg_android"
 ];
 
 $ips = [];
