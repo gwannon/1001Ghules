@@ -40,7 +40,8 @@ $bots = [
   "EventMachine HttpClient",
   "linkfluence.com",
   "Python-urllib/3.9",
-  "ddg_android"
+  "ddg_android",
+  "DotBot"
 ];
 
 $ips = [];
