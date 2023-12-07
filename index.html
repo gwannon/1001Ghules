@@ -252,9 +252,35 @@
       right: calc(var(--patternsize) * -1);
     }
     
-    section > .rule + .rule {
+    /*section > .rule + .rule {
       border-top: none;
       margin-top: -1.8em;
+    }*/
+
+    section > blockquote.seed {
+      --pattern-size: 25px;
+      --color-emerald: #bbbbbb;
+      background-color:var(--color-emerald);
+      background-image:
+        linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(157.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(67.5deg, transparent 90%, var(--color-emerald) 90%),
+        linear-gradient(157.5deg, transparent 90%, var(--color-emerald) 90%),
+          
+        linear-gradient(22.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(112.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(22.5deg, transparent 90%, var(--color-emerald) 90%),
+        linear-gradient(112.5deg, transparent 90%, var(--color-emerald) 90%),
+        
+        linear-gradient(22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+        linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+        linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+        linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
+      background-size: var(--pattern-size) var(--pattern-size);
+      background-position: 
+        calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2),
+        calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3),
+        0 0, 0 0, 0 0, 0 0;
     }
 
     section > blockquote > p {
@@ -452,20 +478,21 @@
     <h2>¿Cómo usar este libro?</h2>
     <p>Ya que vamos a movernos entre dos mundos literarios muy diferentes, los Mitos De Cthulhu y los cuentos 
       de las 1001 noches, hay un sistema visual para diferenciar los diferentes contenidos.</p>
-    <p>Tenemos extractos de las mil y una noches originales y extractos de la versión que habría escrito Abdul Alhazred 
-      que son una mezcla de las 1001 noches con las descripciones de H. P. Lovecraft.</p>
+    <p>Tenemos extractos de las 1001 noches originales y extractos de la versión que habría escrito Abdul Alhazred 
+      que son una mezcla de las 1001 noches con las descripciones de H. P. Lovecraft. Para agilizar las consultas, 
+      todos los lugares, los objetos y los seres de esta ambientación tienen referencias al título del cuento de 
+      las 1001 noches y el número de noche donde se mencionan.</p>
     <blockquote>Aquí encontraras extractos de los cuentos de las Mil y Una Noches originales.</blockquote>
     <blockquote class="primigenio">Aquí encontraras extractos de los cuentos de las Mil y Una Noches escritos 
       de Abdul Alhazred.</blockquote>
     <p>Además, todos los textos que supongan reglas y sistemas de juego estarán dentro de cajas como esta.</p>
     <p class="rule">Aquí encontrarás reglas y sistemas de juego.</p>
+    <p>El resto de elementos que se quieren destacar como reglas opcionales, semillas de aventuras y sugerencias varias 
+      vendrán con este formato.</p>
+    <blockquote class="seed">Aquí encontraras semillas de aventuras, recompensas de deseos y de cordura.</blockquote>
     <p>Los nombres de personas, objetos o lugares a veces tienen paréntesis. Dentro de los paréntesis está 
       su referencia a los Mitos. Por ejemplo, si vemos "Gente del mar (Profundo)" sabemos que la Gente del 
       mar, una especie de sirenas, hace referencia a los Profundos de los Mitos de Cthulhu.</p>
-    <p>Por ultimo, para agilizar las consultas, todos los lugares, los objetos y los seres de esta 
-      ambientación tienen referencias al título del cuento de las 1001 noches y el número de noche 
-      donde se mencionan.</p>
-    <div class="separator"></div>
     <div class="saltopagina"></div>
     <h2>Abdul Alhazred</h2>
     <p>***</p>
@@ -481,7 +508,7 @@
     <p>***</p>
     <h3>Al mighos</h3>
     <p>***</p>
-    <h3>Abu Qith</h3>
+    <h3>Abu-Qith</h3>
     <p>***</p>
     <h3>Warams</h3>
     <p>***</p>
@@ -942,8 +969,8 @@
       <p><b>Referencia:</b> Historia del tercer loco (n. 844)</p></blockquote>
     <p>Un tropo argumental usado varias veces es que las personas peligrosas para los dirigentes eran declaradas locas y encerradas
       en el maristán. Era una forma de meterlos en prisión sin necesidad de juicio ni de que la opinión publica tomará partido.</p>
-    <p class="rule"><b>Semilla de partida:</b> Si tus shariars no han cometido delitos, pero deseas una buena historia carcelaria 
-      y de fugas meterlos en el maristán es una buena idea.</p>
+    <blockquote class="seed"><b>Semilla de partida:</b> Si tus shariars no han cometido delitos, pero deseas una buena historia carcelaria 
+      y de fugas meterlos en el maristán es una buena idea.</blockquote>
     <h4>Alcazaba</h4>
     <p>La alcazaba es un recinto fortificado que había en las ciudades. Servía de residencia a un emir/a u otros tipos de gobernantes. 
       Tenía una guarnición que vivía con sus familias en la alcazaba. Solía denominarse alcazar a la zona donde vivía el gobernante.</p>
@@ -1022,10 +1049,10 @@
         Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 432)</p></blockquote>
     <p>Los grandes regentes de oriente Medio tenían que regir grandes territorios y proteger muchos kilómetros de fronteras 
       y para tomar decisiones adecuadas necesitaban estar informados. Es por ello que las palomas mensajeras eran un elemento 
-      importante en las comunicaciones. Cada expedición diplomática o militar iba siempre con un maestro de palomar que enviaba
+      importante en las comunicaciones. Cada expedición diplomática o militar iba siempre con un menestral de palomar que enviaba
       mensajes con palomas mensajeras.</p>
     <p>Perder tus palomas suponía quedar incomunicado y podía ser la diferencia entre la victoria o la derrota. Podías mandar 
-      mensajeros pero eran más lentos y más fáciles de detectar por el enemigo. Es po ello que tanto el maestro del palomar 
+      mensajeros pero eran más lentos y más fáciles de detectar por el enemigo. Es po ello que tanto el menestral del palomar 
       principal como de los portátiles era un puesto muy importante.</p>
     
     <div class="separator"></div>
@@ -1360,7 +1387,7 @@
       <li>Aklo, es una lengua secreta usada por muchos cultos adoradores de los primigenios y demás dioses exteriores.</li>
       <li>R'lyehiano, el idioma hablado por las gente del mar.</li>
       <li>Naacal, la lengua que habla la serpigente.</li>
-      <li>Pnakótico, es el idioma con el que escriben los Abu Qith ya que hablan con una mezcla de chasquidos de sus 
+      <li>Pnakótico, es el idioma con el que escriben los Abu-Qith ya que hablan con una mezcla de chasquidos de sus 
         pinzas y de telepatía.</li>
     </ul>   
     <h2>Horror y cordura</h2>
@@ -1992,7 +2019,7 @@
       mucho haschisch. El coste de la dosis diaria puede ser unos 30 dinares y su consumo no estaba ni 
       prohibido ni ilegalizado con lo que su compra es bastante fácil.</p>
     <p>A discrección de Scheherazade, puede usarse en rituales para conectar con entidades divinas y 
-      estradimensionales. Podrías dar hasta un +2 a las tiradas mentales del ritual y hasta un -2 a 
+      extradimensionales. Podrías dar hasta un +2 a las tiradas mentales del ritual y hasta un -2 a 
       las físicas.</p>  
     <h4>Bang cretense</h4>
     <blockquote>... "¡Oh efrit del anillo! ¿conoces las diversas especies de polvos soporíferos?" El efrit 
@@ -2016,7 +2043,7 @@
       almizcle y una onza de huevos de pescado machacadas. Le añadió también un poco de julepe 
       ligero de agua de rosa, y lo puso todo en el tazón de porcelana. [...]<br/>
       Apresuráse entonces a llevar el tazón al síndico Schamseddin, diciéndole: "He aquí la mixtura 
-      soberana que endurece los compañones del hombre y espesa los jugos demasiado flúidos!" Después 
+      soberana que endurece los compañones del hombre y espesa los jugos demasiado fluidos!" Después 
       añadió: "Es preciso tomar esta pasta dos horas antes de la conjunción sexual. [...] Y si con todo eso 
       no llegas hasta atravesar las paredes y fecundar un peñasco pelado, consiento en afeitarme la barba 
       y los bigotes y te permito que me escupas en la cara".
@@ -2032,7 +2059,7 @@
     <h4>Agua de rosas</h4>
     <blockquote>... entraron en el hammam, y se bañaron con agua de rosas y con agua de flores y con agua de sauce 
       aromático y con agua perfumada de almizcle, y se quemó a sus pies madera de aigle y de áloe.
-      <p><b>Referencia:</b> La tierna historia del principe Jazmín y de la princesa Almendra (n. 1001)</p></blockquote>
+      <p><b>Referencia:</b> La tierna historia del príncipe Jazmín y de la princesa Almendra (n. 1001)</p></blockquote>
     <p>El agua de rosas es un destilado mediante un alambique de pétalos de rosas. Se usa para hacer perfumes y 
       cosméticos, para aromatizar diversos platos y como crema hidratante.
     </p>
@@ -2073,7 +2100,7 @@
       de la magia que vemos en los cuentos. La magia de los cuentos es una magia muy 
       clásica que se centra en poderes muy sencillos, volar, curar, hablar con los animales, 
       transformar en rana, nadar como un pez, etc. Nada que ver con los terribles hechizos que presenta 
-      el autor de Providence en sus obras. Conceptos como teletransporte, psicometria 
+      el autor de Providence en sus obras. Conceptos como teletransporte, psicometría 
       o viajes en el tiempo no existen en la magia de las 1001 noches. Por suerte, los mitos 
       se encargan de introducir conceptos modernos a la magia clásica de las 1001 noches.</p>
     <p>La mezcla de los estilos da un tipo de magia muy curioso y que puede ser muy divertida 
@@ -2141,7 +2168,7 @@
     <h3>Vuelo</h3>
     <p>***</p>
     <h2>Nuevos poderes</h2>
-    <p>en 1001 Ghūles hay nuevos poderes disponibles a parte de los que peudas encontrar en SWADW.</p>
+    <p>En 1001 Ghūles hay nuevos poderes disponibles a parte de los que puedas encontrar en el Manual Básico de SWADE.</p>
     <h3>Abrir puertas</h3>
     <ul>
       <li><b>Rango:</b> ***</li>
@@ -2316,9 +2343,6 @@
       como estaba antes.
       <p><b>Referencia:</b> Historia contada por el duodécimo capitán de policía (n. 953)</p></blockquote>
     <p>***</p>
-
-
-    
     <h2>Maldiciones</h2>
     <p>Las maldiciones son algo común en los relatos de las 1001 noches y en los del escritor de Providence. 
       Las hay desde muy clásicas como transformar a la victima en animal o en piedra como o extrañas y 
@@ -2375,9 +2399,9 @@
       llevarte cuanto te plazca a tu deseo, viajero que lograste penetrar hasta aquí! ¡Pero ten 
       cuidado con poner sobre mí una mano violadora, atraído por mis encantos y por la voluptuosidad!
       <p><b>Referencia:</b> Historia prodigiosa de la ciudad de bronce (n. 345)</p></blockquote>
-    <p>Una varación de la petrificación es el sueño eterno. En el relato que habla de la Ciudad de Bronce, 
+    <p>Una variación de la petrificación es el sueño eterno. En el relato que habla de la Ciudad de Bronce, 
       todos los habitantes de la ciudad están congelados en el tiempo y la hija del rey esta dormida en sus 
-      aposentos como la bellla durmiente.</p>
+      aposentos como la bella durmiente.</p>
     <p>***</p>
     <h2>Grimorios y libros de hechizo</h2>
     <a href="https://www.deviantart.com/brandon-ellis/art/Portal-Room-808922864" 
@@ -2415,6 +2439,9 @@
       de comer, hacer recados, etc. no deja tiempo a estudiar.</p>
     <p>Se puede dedicar 4 horas diarias pero entonces tendrá que ser 2 semanas sin interrupción. Si se interrumpe el estudio 
       se exigen el doble de semanas de las normales.</p>
+    <p class="rule">Leer un manuscrito mágico exige una tirada de TPC igual al NP que le queda para el lector, redondeando 
+      hacia abajo. La primera vez que se lee un grimorio de NP 8, la TPC será d8, la siguiente vez el nivel de poder es 7 y 
+      la TPC sera de d6, la siguiente NP 6 y TPC d6, etc. Así hasta un mínimo de TPC d4.</p>
     <h3>Compartir o intercambiar grimorios</h3>
     <p>Aunque no es muy normal, puedes compartir tu grimorio con mas practicantes de magia. El trato al que se llegue 
       a la hora de compartir o intercambiar grimorios es cosa tuya. La cuestión es que al compartir solo una persona 
@@ -2437,50 +2464,53 @@
     </ul>
     <h3>Listado de libros y grimorios malditos</h3>
     <p>***</p>
-    <h4>Anales de los Antiguos</h4>
+    <h4>Anales de los Antiguos (NP 8)</h4>
     <blockquote>El más importante de aquellos manuscritos era un libro titulado Anales de los Antiguos, 
       verdaderamente inestimable de precio y de valor, que ni siquiera podría pagarse con su peso en pedrerías. 
       Porque en él se encontraban indicaciones precisas acerca de la solución de los enigmas y los signos misteriosos. 
       Y en aquel manuscrito precisamente había agotado nuestro padre toda la ciencia que poseía.
       <p><b>Referencia:</b> Historia de Juder el pescador o el saco encantado (n. 469)</p></blockquote>
     <p>***</p>
-    <h4>I ching</h4>
-    <p>Es un libro oracular chino cuyos primeros textos se suponen escritos hacia el 1200 a. C. ***</p>
-    <h4>Liber Ivonis (Libro de Eibon)</h4>
+    <h4>I ching (NP 6)</h4>
+    <p>Es un libro oracular chino cuyos primeros textos se suponen escritos hacia el 1200 a. C. Los astrólogos
+      y adivinos chinos lo usaban como guía para hacer predicciones, pero si sabes interpretar sus metáforas y 
+      sus fabulas tienes un interesante grimorio mágico del que sacar poderosos hechizos.</p>
+    <h4>Liber Ivonis - Libro de Eibon (NP 10)</h4>
     <p>El libro describe la vida de Eibon, un hechicero y nigromante hiperbóreo, así como varios hechizos, 
       conjuros e invocaciones. El libro original está escrito en el lenguaje hiperbóreo pictográfico conocido 
-      como tsath-yo. Pero se hizo una traducción al latín, </p>
-
-    <h4>Séfer HaRazim - El libro de los secretos</h4>
+      como tsath-yo. Pero se han hecho traducciónes al latín y griego jónico.</p>
+    <h4>Séfer HaRazim - El libro de los secretos (NP 8)</h4>
     <!-- https://es.wikipedia.org/wiki/S%C3%A9fer_HaRazim -->
     <p>***</p>
-    <h4>Séfer Raziel HaMalaj - El Libro del Arcángel Raziel</h4>
+    <h4>Séfer Raziel HaMalaj - El Libro del Arcángel Raziel (NP 8)</h4>
     <!-- hhttps://es.wikipedia.org/wiki/S%C3%A9fer_Raziel_HaMalaj -->
     <p>***</p>
-    <h4>Kitab an-nawamis - Libro de las leyes</h4>
+    <h4>Kitab an-nawamis - Libro de las leyes (NP 6)</h4>
     <!-- https://es.wikipedia.org/wiki/Liber_Aneguemis -->
     <p>Kitab an-nawamis es la traducción al árabe, atribuida a <a href="#hunayn-ibn-ishaq">Hunayn ibn Ishaq</a> de un texto 
       helenístico que habría escrito Platón.</p>
-    <p>Este libro se divide en dos partes: el libro mayor y el libro menor.</p>
-    <p>El libro mayor trata de recetas para adquirir poderes (invisibilidad, adivinación, dominio de los 
-      fenómenos naturales, transformación, entre otros) y para la creación artificial de entidades 
-      vivientes híbridas, todo a partir de sustancias que incluyen preparados minerales, fluidos 
-      orgánicos (como el esperma y la sangre) y restos corporales de hombres y animales, empleándose, 
-      además, envases de vidrio y de metal dentro de un laboratorio mágico.</p>
+    <p>Este libro se divide en dos partes: el libro mayor y el libro menor.El libro mayor trata de recetas para 
+      adquirir poderes (invisibilidad, adivinación, dominio de los fenómenos naturales, transformación, entre 
+      otros) y para la creación artificial de entidades vivientes híbridas, todo a partir de sustancias que 
+      incluyen preparados minerales, fluidos orgánicos (como el esperma y la sangre) y restos corporales de 
+      hombres y animales, empleándose, además, envases de vidrio y de metal dentro de un laboratorio mágico.</p>
     <p>El libro menor, por su parte, trata sobre el asunto de las ilusiones ópticas y la creación 
       de artefactos para lograrlo.</p>
-    <h4>Pnakotica - Manuscritos Pnakóticos</h4>
-    <p>Pnakotica es la traducción al griego de los Manuscritos Pnakotikos, un grimorio escrito por la 
-      gran raza de Yith antes de la aparición del hombre.</p>
-
-
-    <h4>Historia de las Aventuras de Hassan Al-Bassri</h4>
+    <h4>Pnakotica - Manuscritos Pnakóticos (NP 10)</h4>
+    <p>Pnakotica es la traducción al griego de los Manuscritos Pnakótikos, un grimorio escrito por la 
+      gran raza de los Abu-Qith antes de la aparición del hombre.</p>
+    <p>contiene mucha información acerca de estos yinns, así como de otras muchas materias taumatúrgicas, incluyendo 
+      descripciones de dioses exteriores, primigenios y lugares míticos y como llegar a ellos..</p>
+    <h4>Historia de las Aventuras de Hassan Al-Bassri (NP 4)</h4>
     <blockquote>Y de improviso, en medio de las lamentaciones, hizo su entrada el mameluco Mobarak, 
       blandiendo el manuscrito, y se acercó a su amo, y después de besarle la mano, le entregó las 
       hojas preciosas, la primera de las cuales ostentaba en letras grandes el título: Historia de 
       las Aventuras de Hassan Al-Bassri.
       <p><b>Referencia:</b> Las aventuras de Hassan Al-Bassri (n. 578)</p></blockquote>
-    <p>Hassan Al-Bassri o Hassn de Basora fue un antiguo predicador, asceta, teólogo, erudito, juez y místico. ***</p>
+    <p>Hassan Al-Bassri o Hassan de Basora fue un antiguo predicador, asceta, teólogo, erudito, juez y 
+      místico. Todos sus aventuras y anécdotas fueron recopiladas en diferentes tomos por diferentes autores 
+      y en mucho de ellos se puede extraer enseñanzas mágicas.</p>
+    <p>Dentro de los grimorios mágicos puede ser el más popular y fácil de encontrar.</p>
     <h3>Enseñar magia</h3>
     <p>Alternativamente a la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan 
       conocimientos mágicos. Pero mientras el conocimiento que aporta un grimorio es muy extenso, el del mentor
@@ -2540,7 +2570,7 @@
       title="Amine Discovered with the Goule, from the story of Sidi Nouman in the One Thousand and One Nights">
       <img src="./assests/images/ghules.jpg" alt="Amine Discovered with the Goule, from the story of Sidi Nouman in the One Thousand and One Nights"></a>
     <p>Los ghūles son unos humanoides desgarbados con rasgos de hiena que viven de noche 
-      debido a que son atamente fotosensibles. Son necrófagos y, por tanto, se establecen cerca de 
+      debido a que son altamente fotosensibles. Son necrófagos y, por tanto, se establecen cerca de 
       zona de enterramiento.</p>
     <p>Se organizan en pequeños grupos familiares y son muy territoriales. 
       Pueden infectar a los humanos mediante heridas con una enfermedad que convierte a la 
@@ -2654,7 +2684,7 @@
           <li><b>Pinzas:</b> FUE+d4</li>
           <li><b>Volar:</b> Paso volando 8. LosAl Mighos tienen unas alas con las que vuelan.</li>
           <li><b>Viaje espacial:</b> Pueden viajar por el espacio sin sufrir ningún tipo de daño.</li>
-          <li><b>Tecnología Yuggoth:</b> Puedes asignarle a un sabio hasta 3 aparatos tecnológicos
+          <li><b>Tecnología Migho:</b> Puedes asignarle a un sabio hasta 3 aparatos tecnológicos
             con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que
             pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia
             como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos 
@@ -3752,9 +3782,9 @@
     <p>Pero no solo hay aves y animales en la casa de fieras. Han tenido varios monstruos y yinns expuestos para disfrute y 
       horror de los visitantes como ghūles, habitantes de las arenas o Al Mighos. El califa paga muy bien por estos seres 
       y hay cazadores de monstruos que traen este tipo de monstruos para cobrar la recompensa.</p>
-    <p class="rule"><b>Semilla de partida:</b> Se dice que el Califa pagaría 20.000 dinares por una cría de 
+    <blockquote class="seed"><b>Semilla de partida:</b> Se dice que el Califa pagaría 20.000 dinares por una cría de 
       Rokh o un huevo viable del que termine saliendo un polluelo. Es mucho dinero como 
-      para que un grupo de shahriars se plantee tratar de traerle un polluelo al Califa.</p>
+      para que un grupo de shahriars se plantee tratar de traerle un polluelo al Califa.</blockquote>
     <h5>El palomar del califa</h5>
     <p>Dentro de las instalaciones de la casa de las fieras hay también un palomar bastante grande atendido por 
       un maestro de las palomas que cría, entrena y usa unas 500 palomas mensajeras. Estas palomas permiten al Califa 
@@ -3949,7 +3979,7 @@
       de su muerte. Pero en vez de tratar de impedirlo o acabar con el califa prefiere dejar 
       hacer al Destino y tratar de continuar con sus buenas acciones y de dejar la ciudad lo 
       más protegida posible contra sus enemigos.</p>
-    <p>Giafar fue poseido por un Abu Qith y durante el tiempo que paso en su tierra, la ciudad 
+    <p>Giafar fue poseido por un Abu-Qith y durante el tiempo que paso en su tierra, la ciudad 
       de Pnakotus, revisando sus archivos, averiguó su propia muerte por orden su señor y amigo 
       el califa Harun Al-Raschid. Al devolverle a su cuerpo el borrado de memoría falló y recuerda 
       retazos de su experiencia, pero su muerte y la caida de su familia quedó grabada en su mente 
@@ -4492,8 +4522,6 @@
       sus calles podemos ver a gente que estaba transportando cosas, comprando, cocinando, trabajando o simplemente 
       paseando o jugando cuando la maldición cayó sobre la ciudad.</em></p>
     <p>***</p>
-    <div class="separator"></div>
-    <div class="saltopagina"></div>
     <!--
     <h3>Misterio: ***</h3>
     <p><em>***</em></p>
@@ -4810,13 +4838,35 @@
       quemadas y desprende un extraño olor a humo.</p>
     <h3>La paloma mensajera</h3>
     <p><b>Comienzo:</b> Cualquier lugar</p>
-    <p><em>Uno de tus shahriars atrapa una paloma con un canutillo de madera atada a la pata. Si quitan el sello de 
-      cera del canutillo, dentro hay un mensaje. El maestro del palomar de algún califa que ha perdido esta paloma 
-      podría pagar por esta paloma y el mensaje una buena recompensa. O igual pueden descrifrar el mensaje y sacarle 
-      provecho a la información privilegiada del mensaje.</em></p>
-    <p>***</p>
-    <p>Si descrifran el mensaje eres libre de darles el mensaje que quieras, te recomiendo que la uses como origen de 
-      otras historias, como ***</p>
+    <p><em>Una paloma con un extraño canutillo atado a la pata ha caido en la trampa o bajo las flechas de uno de 
+      tus shariars. Parece ser una paloma mensajera, ¿qué puede pasar por leer el mensaje que lleva?</em></p>
+    <p>Uno de tus shahriars atrapa una paloma con un canutillo de madera atada a la pata. Si quitan el sello de 
+      cera del canutillo, dentro hay un mensaje. El menestral del palomar de algún emir, malik o del propio califa 
+      que ha perdido esta paloma podría pagar una buena recompensa por esta paloma y el mensaje. O igual pueden 
+      descrifrar el mensaje y sacarle provecho a la información privilegiada del mensaje. Hay varias opciones</p>
+    <p>Estas son las posibles opciones que peudes ofrecerles.</p>
+    <ul>
+      <li>Si investigan un poco podrán averiguar por el sello de cera a que gobernante pertenece y buscar de entregarselo 
+        a la persona que maneja el palomar. Podrían negociar hasta 300 dinares por la paloma viva y 1100 por el canutillo
+        del mensaje si esta sellado (o resellado).</li>
+      <li>Pueden tratar de venderlo a un enemigo. Estas palomas se usan mucho en los conflictos militares y pueden venderlo a 
+        los enemigos del propietario de la paloma. Por la paloma no quieren nada pero podrían pagar hasta 1500 dinares por 
+        el mensaje y quizas un extra de otros 500 si el mensaje es interesante, como gratificación y por su silencio. 
+        Es importante tener claro que si esta actividad se llega a conocer el propietario de la paloma te pondrá en su 
+        lista de enemigos.</li>
+      <li>Si abren el canutillo, verán un mensaje cifrado. Si descrifran el mensaje eres libre de darles el mensaje 
+        que quieras, te recomiendo que la uses como senilla de aventura. Si no son capaces de descifrarlo pueden 
+        consultar con Al-Kindi, una eminencia en criptografia que vive en Bagdad.</li>
+      <li>Una opción basada en la anterior para shariars maquiavélicos sería meter un mensaje falso y soltar a 
+        la paloma. Puede ser que por alguna razón esto les de alguna ventaja en el futuro. Esto es muy díficil 
+        porque exige descrifrar el mensaje original y cifrar su mensaje, es decir doble trabajo.</li>
+      <li>Ciudar a la paloma y dejarla seguir su camino sin tocar el mensaje es otra opción, no creo que sea muy 
+        popular, pero ahí la dejo.</li>
+    </ul>
+    <blockquote class="seed"><b>Recompensa de deseos (1):</b> Otórgale un deseo al shariar que decida cuidar a la paloma 
+      y devolverla a su palomar por amor a los animales y no por la recompensa.</blockquote>
+    <blockquote class="seed"><b>Semilla de aventura:</b> Si deciden abrir y descifrar el mensaje puedes usarlo para meterles
+      en otros cuentos salvajes.</blockquote>
     <!-- <h3>***</h3>
     <p><b>Comienzo:</b> ***</p>
     <p><em>***</em></p>
@@ -5883,10 +5933,10 @@
     <p>Esta llave de gran tamaño, de un material desconocido parecido a la plata y con extraños jeroglíficos, 
       abre cualquier cerradura automáticamente, incluso aquellas cerradas mágicamente. Cada vez que la usen 
       saca una carta de acción. Si sale el comodín, la puerta se abre a la tierra de los sueños.</p>
-    <p class="rule"><b>Semilla de partida:</b> Entrar despierto en la tierra de los sueños es el primer paso 
+    <blockquote class="seed"><b>Semilla de partida:</b> Entrar despierto en la tierra de los sueños es el primer paso 
       para llegar a la Ultima Puerta custodiada por 'Umr-At-Tawil (avatar de Yog-Sothoth) que puede permitirte 
       entrar en la estancia de Yog-Sothoth. Al entrar en la estancia tienes  derecho a una audiencia con el 
-      mismísimo Yog-Sothoth, que aquí puede manifestarse en todo su esplendor.</p>
+      mismísimo Yog-Sothoth, que aquí puede manifestarse en todo su esplendor.<blockquote>
     <h3>Polvo de Ibn-Ghazi</h3>
     <blockquote class="primigenio">Todos ustedes conocen de sobra la fama de brujos que tenían los Wadí, pues 
       bien, este abominable ser tiene mucho de brujería, y para acabar con él hay que recurrir a los mismos 
@@ -6885,6 +6935,9 @@
       <li><a href="https://www.gutenberg.org/ebooks/51432">ciudad-bronce.jpg</a>
         por <a href="https://en.wikipedia.org/wiki/Maxfield_Parrish">Edmund Dulac</a>
 
+        <li><a href="https://arthive.com/es/artists/7411~Rudolph_Ernst/works/251935~Tiger">tigres.webp</a>
+          por <a href="https://commons.wikimedia.org/wiki/Category:Rudolf_Ernst">Rudolph Ernst</a>
+
 
 
       <!-- <li><a 
@@ -6986,6 +7039,11 @@
 
   section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
     background-image: url(./assests/images/scheherazade-y-shahryar.jpg);
+  }
+
+  section:nth-of-type(10) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+    background-image: url(./assests/images/tigres.webp);
+    background-position: 15% center;
   }
 
   section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
