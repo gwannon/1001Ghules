@@ -41,7 +41,8 @@ $bots = [
   "linkfluence.com",
   "Python-urllib/3.9",
   "ddg_android",
-  "DotBot"
+  "DotBot",
+  "FlipboardProxy"
 ];
 
 $ips = [];
