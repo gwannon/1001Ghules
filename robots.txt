@@ -1,3 +1,14 @@
+User-agent: CCBot
 User-agent: GPTBot
 User-agent: ChatGPT-User
+User-agent: Google-Extended
+User-agent: anthropic-ai
+User-agent: Omgilibot
+User-agent: Omgili
+User-agent: FacebookBot
+User-agent: cohere-ai
 Disallow: /
+
+# Sources:
+# https://www.ofbit.com/blog/como-proteger-tu-contenido-de-autor-de-las-insaciables-ias
+# https://www.naiyerasif.com/post/2023/09/30/blocking-ai-web-crawlers/
