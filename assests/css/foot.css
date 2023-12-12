@@ -241,8 +241,7 @@ body > section {
 @media print {
 
   body {
-    background: #fff url(../bgbody.png) center center repeat;
-    opacity: 1;
+    background-image: none;
   }
   
 

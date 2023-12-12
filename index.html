@@ -15,383 +15,7 @@
   <meta property="og:description"
     content="Mil y Un Ghūles es una ambientación de Savage Worlds Edición Aventura para poder jugar relatos de horror cósmico en las Mil y Una Noches. Versión 0.4">
   <meta property="og:image" content="https://1001ghules.gwannon.com/assests/images/metas.png">
-  <!-- /* cSpell:disable */ -->
-  <style>
-    a,
-    a:visited {
-      color: black;
-    }
-
-    @font-face {
-      font-family: 'Khodijah';
-      font-style: normal;
-      font-weight: 400;
-      font-display: swap;
-      src: url(./assests/fonts/Khodijahfree-OVELp.ttf) format('truetype');
-    }
-
-    @font-face {
-      font-family: 'Open Sans';
-      src:
-        url(./assests/fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
-      font-weight: 100 900;
-      font-stretch: 50% 200%;
-    }
-
-    @font-face {
-      font-family: 'Open Sans';
-      src:
-        url(./assests/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
-      font-weight: 100 900;
-      font-stretch: 50% 200%;
-      font-style: italic;
-    }
-
-    :root {
-      --color-sand: #C2B280;
-      --color-sunset: #FF5733;
-      --color-gold: #FFC300;
-      --color-old-gold: #9a8a3a;
-      --color-emerald:#16a085;
-      --color-grey: #f7f7f7;
-      --color-green-cthulhu: #879f85;
-      --color-green-deepone: #c6cbc2;
-      --margin: 45px;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      font-family: 'Open Sans', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-
-    body > section {
-      /*background-color: var(--color-grey);*/
-      margin: auto;
-      width: 100%;
-      /*background: linear-gradient(45deg, transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%, transparent 90%), linear-gradient(135deg,  transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%,  transparent 90%), radial-gradient(circle at top,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at bottom,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at right,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at left,var(--color-grey) 20% , transparent 21%);
-      background-size: 3em 3em;
-      background-color: #ffffff;
-      opacity: 1;*/
-    }
-
-    section > p,
-    section > ul,
-    section > blockquote,
-    section > h2,
-    section > h3,
-    section > h4,
-    section > h5,
-    section > ol,
-    section > ul,
-    section > div,
-    section > a  {
-      display: block;
-      padding: 0 0 calc((var(--margin) * 0.4) / 2) 0;
-      margin: 0 calc(var(--margin) * 0.4) ;
-    }
-
-    section > *:is(p, ul, blockquote, .saltopagina) + *:is(h3, h2, .likeh2, img) {
-      margin-top: calc((var(--margin) /4) * 2.5);
-    }
-
-    section:nth-of-type(2) > blockquote,
-    section:nth-of-type(2) > p {
-      word-break: break-word;
-    }
-
-    @media (min-width: calc(100vh * 0.7)) {
-      body>section {
-        max-width: calc(100vh * 0.7);
-        padding: 0px;
-      }
-
-      section > p,
-      section > ul,
-      section > blockquote,
-      section > h2,
-      section > h3,
-      section > h4,
-      section > h5,
-      section > ol,
-      section > ul,
-      section > div,
-      section > a  {
-
-        padding: 0 0 calc(var(--margin) / 3) 0;
-        margin: 0 var(--margin) ;
-      }
-    }
-
-    h1, h2, .likeh2, h3 {
-      font-family: 'Khodijah';
-      font-weight: 400;
-    }
-
-    h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-      font-size: 3em;
-      line-height: 120%;
-      margin: 0;
-      text-align: center;
-      color: white;
-      text-shadow: 0 0 5px black;
-    }
-
-    h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-      height: 60vh;
-      display: flex;
-      flex-direction: column;
-      align-content: stretch;
-      align-items: stretch;
-      flex-wrap: wrap;
-      justify-content: center;
-      background: black center center no-repeat;
-      background-size: cover;
-      margin-bottom: var(--margin);
-    }
-
-    h2,
-    .likeh2,
-    section:first-of-type > div > h1,
-    section:last-of-type > div > h1 {
-      font-size: 2em;
-      line-height: 120%;
-      color: var(--color-old-gold);
-      text-shadow: 3px -1px 1px black;
-      text-align: center;
-    }
-
-    section:first-of-type h2,
-    section:first-of-type h3 {
-      font-family: 'Open Sans', sans-serif;
-      font-size: 1.5em;
-      letter-spacing: -2px;
-      line-height: 110%;
-    }
-
-    h3 {
-      font-size: 2em;
-      line-height: 100%;
-    }
-
-    h4 {
-      font-size: 1.2em;
-    }
-
-    h5 {
-      font-size: 1em;
-    }
-
-    section > ol,
-    section > ul {
-      /*list-style-position: inside;*/
-      padding: 0 0 calc(var(--margin) / 2) 25px;
-    }
-
-    section > blockquote,
-    section > *.rule {
-      font-style: italic;
-      border : 3px dashed var(--color-gold);
-      background: var(--color-old-gold);
-      padding: 15px;
-      margin-bottom: calc(var(--margin) / 2);
-    }
-
-    section > blockquote.primigenio {
-      border-color: var(--color-green-cthulhu);
-      background-color: var(--color-green-deepone);
-    }
-
-    section > *.rule {
-      --patternsize: 20px; 
-      border: 3px solid var(--color-emerald);
-      background-color: #cfd9d6;
-      margin-left: calc(var(--margin) + var(--patternsize));
-      margin-right: calc(var(--margin) + var(--patternsize));
-      margin-top: calc(var(--patternsize) * 2);
-      margin-bottom: calc(var(--patternsize) * 2);
-      position: relative;
-    }
-
-    section > *.rule:before,
-    section > *.rule:after {
-      content: "";
-      position: absolute;
-      display: block;
-      width: 20px;
-      top: calc(var(--patternsize) * -1);
-      left: calc(var(--patternsize) * -1);
-      height: calc(100% + (var(--patternsize) * 2));
-      border: 3px solid var(--color-emerald);
-      box-sizing: border-box;
-      clip-path: polygon(
-        0% 0%, 
-        var(--patternsize) 0%, 
-        var(--patternsize) 100%, 
-        0% 100%, 
-        0% calc(100% - var(--patternsize)), 
-        var(--patternsize) calc(100% - var(--patternsize)), 
-        var(--patternsize) var(--patternsize), 
-        0% var(--patternsize));
-      background: linear-gradient(
-        180deg,
-        transparent 0%, 
-        transparent calc(var(--patternsize) - 6px),
-        var(--color-emerald) calc(var(--patternsize) - 6px),
-        var(--color-emerald) calc(100% - var(--patternsize) + 6px),
-        transparent calc(100% - var(--patternsize) + 6px)
-      );
-    }
-
-    section > *.rule:after {
-      left: auto;
-      right: calc(var(--patternsize) * -1);
-    }
-    
-    /*section > .rule + .rule {
-      border-top: none;
-      margin-top: -1.8em;
-    }*/
-
-    section > blockquote.seed {
-      --pattern-size: 25px;
-      --color-emerald: #bbbbbb;
-      background-color:var(--color-emerald);
-      background-image:
-        linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(157.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(67.5deg, transparent 90%, var(--color-emerald) 90%),
-        linear-gradient(157.5deg, transparent 90%, var(--color-emerald) 90%),
-          
-        linear-gradient(22.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(112.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(22.5deg, transparent 90%, var(--color-emerald) 90%),
-        linear-gradient(112.5deg, transparent 90%, var(--color-emerald) 90%),
-        
-        linear-gradient(22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-        linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-        linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-        linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
-      background-size: var(--pattern-size) var(--pattern-size);
-      background-position: 
-        calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2),
-        calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3),
-        0 0, 0 0, 0 0, 0 0;
-    }
-
-    section > blockquote > p {
-      padding: 15px 0 0 0;
-      margin: 0;
-    }
-
-    section:first-of-type {
-      background-color: black;
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    section:nth-of-type(2) {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      padding-top: var(--margin);
-      padding-bottom: var(--margin);
-      box-sizing: border-box;
-    }
-
-    @media (min-width: calc(100vh * 0.7)) {
-      section:nth-of-type(2) {
-        height: 100vh;
-      }
-    } 
-    
-    section:first-of-type > div {
-      text-align: center;
-      color: white;
-    }
-
-    section:first-of-type > div > h1 {
-      font-size: 4em;
-      color: var(--color-old-gold);
-    }
-
-    section:first-of-type img {
-      width: 150px;
-      height: 100px;
-      margin: 0 0 45px 0;
-    }
-
-    table {
-      margin: 15px auto;
-      border: 3px dashed var(--color-gold);
-      background: var(--color-old-gold);
-    }
-
-    table thead tr th {
-      padding: 10px;
-      font-family: 'Oswald', sans-serif;
-      font-size: 1.1em;
-      font-weight: 400;
-    }
-
-    table thead tr:first-child th {
-      font-size: 1.5em;
-    }
-
-    table tbody tr>* {
-      padding: 5px;
-    }
-
-    table tbody tr th[rowspan] {
-      background-color: var(--color-sand);
-    }
-
-    table thead {
-      background-color: var(--color-sand);
-    }
-
-    table tbody tr>* {
-      transition: all 0.6s;
-    }
-
-    /*table tbody tr:nth-child(even) {
-      background-color: var(--green-gul);
-    }*/
-
-    table tbody tr:nth-child(odd) {
-      background-color: var(--color-gold);
-    }
-
-    img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img, img.silueta) {
-      width: 100%;
-      border: 1px solid black;
-      box-shadow: 1px 1px 8px 3px var(--color-old-gold);
-    }
-
-    @media (min-width: 500px) {
-      section > a.half {
-        display: block;
-        width: 48.6%;
-        float: right;
-      }
-    }
-
-    .silueta {
-      shape-image-threshold: 0.5;
-      shape-margin: 20px;
-      float: left;
-      z-index: 10;
-    }
-  </style>
-  <!-- /* cSpell:enable */ -->
+  <link rel="stylesheet" href="https://1001ghules.gwannon.com/assests/css/head.css">
 </head>
 <body>
   <section>
@@ -404,7 +28,7 @@
       <p>Ver. 0.4</p>
     </div>
     <div>
-      <img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
+      <img src="https://1001ghules.gwannon.com/assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
     </div>
   </section>
   <div class="saltopagina"></div>
@@ -435,7 +59,7 @@
       copyrights of Pinnacle Entertainment Group. Used with permission. Pinnacle makes no 
       representation or warranty as to the quality, viability, or suitability for 
       purpose of this product.</p>
-    <p><img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle" style="display: block; width: 150px; margin: auto;"></p>
+    <p><img src="https://1001ghules.gwannon.com/assests/images/pinnaclelogo.png" alt="Logo Pinnacle" style="display: block; width: 150px; margin: auto;"></p>
     <div class="saltopagina"></div>
   </section>
    <section>
@@ -605,7 +229,7 @@
       <h3>Nardún (Cthugha)</h3>
       <a href="https://www.deviantart.com/jagged-eye/art/Big-boom-right-plume-1a-508018213" class="half"
         target="_blank" rel="noopener" title="Big boom right plume 1a by jagged-eye">
-          <img src="./assests/images/nardun.jpg" alt="Big boom right plume 1a by jagged-eye"></a>
+          <img src="https://1001ghules.gwannon.com/assests/images/nardun.jpg" alt="Big boom right plume 1a by jagged-eye"></a>
       <p>Nardún es un primigenio relacionado con el elemento fuego. Normalmente se presenta como una gran bola 
         de fuego consciente, pero puede cambiar de forma a su antojo ya que es solamente una masa de radiación 
         y calor dotada de conciencia.</p>
@@ -633,7 +257,7 @@
       <h2>Cultos y sectas de adoradores</h2>
       <p>***</p>
       <h3>Secta del cuarenta</h3>
-      <img src="./assests/images/40.png" class="silueta" 
+      <img src="https://1001ghules.gwannon.com/assests/images/40.png" class="silueta" 
         alt="40" style="float: right;width: 137px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/40.png);">
       <p>El 40 es un número de suma importancia en las creencias de muchos los pueblos que habitan 
         todo Oriente Medio. Pero para esta secta apocalíptica el 40 hace referencia a los 40 días que 
@@ -662,7 +286,7 @@
         parece que pudieran funcionar y esos grupos empiezan a tener éxitos en sus proyectos.</p>
       <h3>La Mano Dorada de Suc'Naath</h3>
       <a href="https://pixabay.com/es/illustrations/elixir-poci%C3%B3n-m%C3%A1gica-7425632/" target="_blank" rel="noopener" title="Mano Izquierda No A La Guerra by OpenClipart-Vectors">
-        <img src="./assests/images/mano-dorada.png" class="silueta" alt="Mano Izquierda No A La Guerra by OpenClipart-Vectors" style="float: right;width: 125px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/mano-dorada.png);"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/mano-dorada.png" class="silueta" alt="Mano Izquierda No A La Guerra by OpenClipart-Vectors" style="float: right;width: 125px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/mano-dorada.png);"></a>
       <p>***</p>
       <h4>Personas destacadas que forman parte del culto</h4>
       <p>***</p>
@@ -728,7 +352,7 @@
         adoradores del terrible Nardún. Juraban por el fuego y la luz, por la sombra y el calor, y por los 
         astros que giran.
         <p><b>Referencia:</b> Historia de Zobeida, la mayor de las jóvenes (n. 16)</p></blockquote>
-     <img src="./assests/images/llama-alada.png" class="silueta" alt="" 
+     <img src="https://1001ghules.gwannon.com/assests/images/llama-alada.png" class="silueta" alt="" 
           style="float: right;width: 270px; height: auto; margin-right: 50px; margin-top: 7px; shape-outside: url(https://1001ghules.gwannon.com/assests/images/llama-alada.png);">
       <p>Los seguidores del Fuego y la Luz son un secta depravada del zoroastrismo, que adoran a una versión 
         de Ahura (la principal divinidad del zoroastrismo) a la que denominan Nardún. Nardún es en realidad el 
@@ -753,7 +377,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/eyoha/art/Prince-Azzam-Chhaya-Waiting-for-Azzam-353516888" 
       target="_blank" rel="noopener" title="Prince Azzam ~ Chhaya - Waiting for Azzam... by Eyoha">
-        <img src="./assests/images/costumbres.jpg" alt="Prince Azzam ~ Chhaya - Waiting for Azzam... by Eyoha"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/costumbres.jpg" alt="Prince Azzam ~ Chhaya - Waiting for Azzam... by Eyoha"></a>
     <h2>Sociedad</h2>
     <p>***</p>
     <h3>Clases sociales y títulos nobiliarios</h3>
@@ -817,7 +441,7 @@
     <h3>Ley y justicia</h3>
     <a href="https://es.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me#/media/Archivo:Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Hasaneyn_Camii_%C3%96n%C3%BCnde_%C4%B0syankar_Beylerin_Ba%C5%9Flar%C4%B1.jpg" 
       class="half" target="_blank" rel="noopener" title="Cabezas de los rebeldes Beys en la mezquita de El Hasanein, El Cairo, 1866 por Jean-Léon Gérôme">
-        <img src="./assests/images/ley-justicia.jpg" alt="Cabezas de los rebeldes Beys en la mezquita de El Hasanein, El Cairo, 1866 por Jean-Léon Gérôme"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/ley-justicia.jpg" alt="Cabezas de los rebeldes Beys en la mezquita de El Hasanein, El Cairo, 1866 por Jean-Léon Gérôme"></a>
     <p>Si bien en Oriente Medio en la edad Media hay grandes códigos legales y grandes juristas, en las 1001 noches 
       la ley es algo muy simple basado en principios muy básicos como no matar o no robar. La palabra del gobernante 
       es ley y el amo siempre tiene razón. Todo es blanco o negro, no hay zonas grises.</p>
@@ -913,7 +537,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/typhonart/art/Typhonart-Temple-Of-Triangle-599300492" 
       target="_blank" rel="noopener" title="Temple Of Triangle por Typhonart">
-        <img src="./assests/images/vieja-ciudad.jpg" alt="Temple Of Triangle por Typhonart"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/vieja-ciudad.jpg" alt="Temple Of Triangle por Typhonart"></a>
     <h2>Ciudades</h2>
     <p>Aunque pudiera parecer que no, las aventuras de las 1001 noches son tremendamente urbanas. La mayoría 
       de las tramas empiezan en grandes ciudades como Bagdad o Damasco y puede que se queden allí o que te lleven 
@@ -1037,7 +661,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/glazyrin/art/Desert-161476988" 
       target="_blank" rel="noopener" title="Desert por glazyrin">
-        <img src="./assests/images/desierto-princesa.jpg" alt="Desert por glazyrin"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/desierto-princesa.jpg" alt="Desert por glazyrin"></a>
     <h2>Viajes y comercio</h2>
     <p>Ya hemos dicho que las ciudades son una parte importante de los relatos de las 1001 noches. La otra 
       parte son los viajes a lugares misteriosos y mágicos atravesando desiertos peligrosos, mares extraños 
@@ -1697,7 +1321,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/thefearmaster/art/Khopesh-and-Shotel-personal-pieces-846367423" 
       target="_blank" rel="noopener" title="Khopesh and Shotel - personal pieces por TheFearMaster">
-        <img src="./assests/images/shotel-khopesh.jpg" alt="Khopesh and Shotel - personal pieces por TheFearMaster"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/shotel-khopesh.jpg" alt="Khopesh and Shotel - personal pieces por TheFearMaster"></a>
     <h2>Equipo</h2>
     <p>Durante la creación de tu shahriar solo tendrás acceso al equipo normal de una persona de la Edad Media. Eso
       quiere decir que no tendrá acceso a material con componentes electrónicos, motores de combustión o vapor, 
@@ -2054,7 +1678,7 @@
     <h3>Drogas y venenos</h3>
     <p><a href="https://pixabay.com/es/illustrations/elixir-poci%C3%B3n-m%C3%A1gica-7425632/" 
       target="_blank" rel="noopener" title="Elixir Poción Mágica Botella De por R-region">
-      <img src="./assests/images/botella-veneno.png" class="silueta" alt="Elixir Poción Mágica Botella De por R-region"
+      <img src="https://1001ghules.gwannon.com/assests/images/botella-veneno.png" class="silueta" alt="Elixir Poción Mágica Botella De por R-region"
       style="width: 125px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/botella-veneno.png);"></a>
       Los venenos y las drogas son algo muy común y tenemos muchas opciones.</p>
     <h4>Haschisch</h4>
@@ -2481,7 +2105,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/brandon-ellis/art/Portal-Room-808922864" 
       target="_blank" rel="noopener" title="Portal Room by Brandon-Ellis">
-        <img src="./assests/images/biblioteca-mago.jpg" alt="Portal Room by Brandon-Ellis"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/biblioteca-mago.jpg" alt="Portal Room by Brandon-Ellis"></a>
     <h2>Grimorios y libros de hechizos</h2>
     <blockquote> Y sacó del bolsillo un libro antiguo, en el cual había trazados al revés caracteres 
       desconocidos, semejantes a patas de hormigas, y se puso a leer en voz alta ante la montaña, 
@@ -2495,7 +2119,7 @@
     <div class="saltopagina"></div>
     <a href="https://pixabay.com/es/photos/un-libro-leer-literatura-viejo-1740515/" 
       target="_blank" rel="noopener" title="Un Libro Leer Literatura por garten-gg">
-        <img src="./assests/images/grimorio.png" class="silueta" alt="Un Libro Leer Literatura por garten-gg"
+        <img src="https://1001ghules.gwannon.com/assests/images/grimorio.png" class="silueta" alt="Un Libro Leer Literatura por garten-gg"
           style="width: 250px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/grimorio.png);"></a>
     <p>El grimorio es algo muy importante para su propietario. Nunca viajas sin él, nunca lo prestas, lo mantienes 
       cuidado y protegido y lo tienes siempre a buen recaudo. Sin tener acceso a un grimorio, la única forma de 
@@ -2569,7 +2193,7 @@
     <h4>Séfer HaRazim - El libro de los secretos (NP 8)</h4>
     <a href="https://es.wikipedia.org/wiki/S%C3%A9fer_HaRazim#/media/Archivo:Sefer_HaRazim_(page_3_crop).jpg" 
       target="_blank" class="half" style="width: 40%;" rel="noopener" title="Sefer HaRazim (page 3 crop)">
-        <img src="./assests/images/sefer-harazim.jpg" alt="Sefer HaRazim (page 3 crop)"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/sefer-harazim.jpg" alt="Sefer HaRazim (page 3 crop)"></a>
     <p><b>Idioma:</b> Hebreo</p>
     <p>El libro de los secretos es un texto mágico presuntamente entregado a Noé por el ángel Raziel, y transmitido 
       a lo largo de la historia bíblica a al gran Rey Suleimán, para quien fue una gran fuente de su sabiduría, 
@@ -2587,7 +2211,7 @@
     <h4>Séfer Raziel HaMalaj - El Libro del Arcángel Raziel (NP 10)</h4>
     <a href="https://es.wikipedia.org/wiki/S%C3%A9fer_Raziel_HaMalaj#/media/Archivo:Sefer_raziel_segulot.png" 
       target="_blank" class="half" style="width: 40%;" rel="noopener" title="Sample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism.">
-        <img src="./assests/images/sefer-raziel-segulot.png" alt="Sample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism."></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/sefer-raziel-segulot.png" alt="Sample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism."></a>
     <p><b>Idioma:</b> Hebreo, árabe</p>
     <p>Esta escrita por el Patriarca Adán, al dictado del arcángel Raziel, de ahí su nombre. Esto lo haría la obra 
       más antigua de la Humanidad, que no de la Tierra ya que tenemos libros más antiguos escritos por yinns 
@@ -2686,7 +2310,7 @@
       bípedos, tenían un aire canino ...</blockquote> -->
     <a href="https://en.wikipedia.org/wiki/Ghoul#/media/File:Amine_Discovered_with_the_Goule.jpg" target="_blank" class="half" rel="noopener" 
       title="Amine Discovered with the Goule, from the story of Sidi Nouman in the One Thousand and One Nights">
-        <img src="./assests/images/ghules.jpg" alt="Amine Discovered with the Goule, from the story of Sidi Nouman in the One Thousand and One Nights"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/ghules.jpg" alt="Amine Discovered with the Goule, from the story of Sidi Nouman in the One Thousand and One Nights"></a>
     <p>Los ghūles son unos humanoides desgarbados con rasgos de hiena que viven de noche 
       debido a que son altamente fotosensibles. Son necrófagos y, por tanto, se establecen cerca de 
       zona de enterramiento.</p>
@@ -2738,7 +2362,7 @@
       espantoso al golpear el suelo de piedra. [...] Cuando se acerco empezó a hablar en una extraña lengua 
       u parecía una extraña mezcla de sonidos y silbidos de aves.</blockquote>
     <a href="https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg" target="_blank" class="half" rel="noopener" title="An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.">
-      <img src="./assests/images/antiguos.jpg" alt="An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness."></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/antiguos.jpg" alt="An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness."></a>
     <p>Según Alhazred los Janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron cientos de 
       siglos antes de que los humanos. ***</p>
     <ul>
@@ -2759,7 +2383,7 @@
     <h3>Al Mighos (Hongos de Yuggoth)</h3>
     <blockquote class="primigenio">***</blockquote>
     <a href="https://en.wikipedia.org/wiki/Mi-Go#/media/File:Migo.jpg" target="_blank" class="half" rel="noopener" title="Mi-Go by Khannea">
-      <img src="./assests/images/migo.jpg" alt="Mi-Go by Khannea"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/migo.jpg" alt="Mi-Go by Khannea"></a>
     <p>Los Al Mighos tienes aspecto de crustáceos, aunque en realidad son parte  animal, parte hongo. Tienen varios pares 
       de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas.</p>
     <p>Los Al Mighos son una tribu de yinns que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan
@@ -2822,7 +2446,7 @@
     <div class="saltopagina"></div>
     <h3>Abu-Qith (Gran raza de Yith)</h3>
     <a href="https://www.deviantart.com/nottsuo/art/Grate-race-of-YITH-retouch2-875186832" target="_blank" class="half" rel="noopener" title="Grate race of YITH by Nottsuo">
-      <img src="./assests/images/yith.webp" alt="Grate race of YITH by Nottsuo"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/yith.webp" alt="Grate race of YITH by Nottsuo"></a>
     <p>Los Abu-Qiths es una tribu de yinns que no tiene forma corpórea. Vinieron a la Tierra para escapar de
       la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos
       mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y
@@ -2930,7 +2554,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://en.wikipedia.org/wiki/File:Flying_Polyp.jpg" target="_blank" class="half" 
       rel="noopener" title="Flying Polyp by Dagonweb (Khannea SunTzu)">
-        <img src="./assests/images/polipo.jpg" alt="Flying Polyp by Dagonweb (Khannea SunTzu)"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/polipo.jpg" alt="Flying Polyp by Dagonweb (Khannea SunTzu)"></a>
     <p>Los warams son una tribu de yinns que tienen forma de pólipos, un gran tronco con gran 
       cantidad de pseudópodos en uno de los extremos. No tienen sentidos como los humanos, de hecho, 
       son ciegos, pero usan sus otros sentidos para poder moverse por la oscuridad sin problemas o 
@@ -3129,7 +2753,7 @@
     <h3>Qatram (Shoggoth) &#9790;</h3>
     <a href="https://www.deviantart.com/nottsuo/art/Shoggoth-594261203" class="half" 
       target="_blank" rel="noopener" title="Shoggoth por Nottsuo">
-      <img src="./assests/images/shoggoth.webp" alt="Shoggoth por Nottsuo"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/shoggoth.webp" alt="Shoggoth por Nottsuo"></a>
     <p>Los Qatrams (literalmente brea o alquitrán) son masas informes y burbujeantes de protoplasma. Tiene un tamaño de unos 6 metros de
       diámetro y unos 3 de altura. Pueden generar ojos y tentáculos en cualquier parte de su estructura.</p>
     <p>Fueron creados por Los Antiguos como mulas de carga en la construcción de sus ciudades acuáticas. No quedan 
@@ -3234,7 +2858,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/lalawulff/art/Dark-Young-Priest-of-Hastur-131474843" class="half" 
       target="_blank" rel="noopener" title="Dark Young, Priest of Hastur by LalaWulff">
-        <img src="./assests/images/retono-oscuro.webp" alt="Dark Young, Priest of Hastur by LalaWulff"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/retono-oscuro.webp" alt="Dark Young, Priest of Hastur by LalaWulff"></a>
     <p>Los vástagos de Astarte son unas masas informes de tentáculos con varias bocas. Para desplazarse usan
       tres patas acabadas en pezuñas.  Miden de 4 a 6 metros de altura. Son retoños de la diosa Astarte (una mascara 
       de Shub-Niggurath) y normalmente aparecen en las invocaciones en vez de su madre, la diosa de la fertilidad.</p>
@@ -3401,7 +3025,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/themefinland/art/Into-the-tombs-commission-961675294" class="half" 
       target="_blank" rel="noopener" title="Into the tombs [commission] by ThemeFinland">
-        <img src="./assests/images/serpigente.jpg" alt="Into the tombs [commission] by ThemeFinland"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/serpigente.jpg" alt="Into the tombs [commission] by ThemeFinland"></a>
     <p>La serpigente son humanoides escamosos de rostro y cola reptiliano.
       Dominaron la tierra durante miles de años con su magia y su alquimia y esclavizaron a la raza humana.
       Pero su imperio cayó y su especie fue degenerando hasta hoy. Quedan ya muy pocos asentamientos de
@@ -3492,7 +3116,7 @@
     <h3>Secuaces</h3>
     <a href="https://www.deviantart.com/dottorfile/art/Zain-358503252" class="half"
       target="_blank" rel="noopener" title="Zain by DottorFile">
-        <img src="./assests/images/asesino.jpg" alt="Zain by DottorFile"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/asesino.jpg" alt="Zain by DottorFile"></a>
     <p>Aquí te presentamos toda una galería de PNJ genéricos que van a pulular por 
       los callejones de las grandes urbes y las rutas comerciales. También los puedes 
       usar como base para tus PNJ. Si el jefe de la caravana entre Bagdad y El Cairo 
@@ -3936,7 +3560,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.researchgate.net/figure/Map-of-Baghdad-in-150-300-AH-corresponding-to-772-922AD-12_fig5_339782591" 
       target="_blank" rel="noopener" title="Map of Baghdad in (150-300 AH), corresponding to (772-922AD)">
-        <img src="./assests/images/bagdad-mapa.jpg" alt="Map of Baghdad in (150-300 AH), corresponding to (772-922AD)"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/bagdad-mapa.jpg" alt="Map of Baghdad in (150-300 AH), corresponding to (772-922AD)"></a>
     <h2>Los barrios de Bagdad</h2>
     <p>La Bagdad se encuentra divido en infinidad de barrios, pero tenemos 3 principales, la Ciudad Circular que es 
       la medina o barrio antiguo, Karkh, la orilla oeste del Tigris y Al-Rusafa, la orilla este.</p>
@@ -3970,7 +3594,7 @@
     <!-- https://es.wikipedia.org/wiki/Casa_de_la_Sabidur%C3%ADa -->
     <a href="https://pixabay.com/es/illustrations/profesor-bordo-antiguo-6100626/" class="half" 
       target="_blank" rel="noopener" title="Profesor Bordo Antiguo Salón De by AidaPoppy">
-        <img src="./assests/images/profesor.jpg" alt="Profesor Bordo Antiguo Salón De by AidaPoppy"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/profesor.jpg" alt="Profesor Bordo Antiguo Salón De by AidaPoppy"></a>
     <p>La Casa de la Sabiduría o Casa del Saber es una importante universidad, biblioteca 
       pública como sede de traducciones y centro intelectual. Una de sus función principales 
       era recopilar el conocimiento universal y traducirlo al árabe, convirtiendo en su época a 
@@ -4389,7 +4013,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/brandon-ellis/art/Ruin-Market-874688696" 
       target="_blank" rel="noopener" title="Ruin - Market by Brandon-Ellis">
-        <img src="./assests/images/bazar.jpg" alt="Ruin - Market by Brandon-Ellis"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/bazar.jpg" alt="Ruin - Market by Brandon-Ellis"></a>
     <h2>El Pequeño Consejo</h2>
     <p>Esta historia esta pensada para ser jugada con niños y niñas de entre 8 y 15 años. Es un acercamiento 
       diferente (que no original) a las partidas normales y es po ello que tiene algunas reglas especiales. 
@@ -4669,7 +4293,7 @@
     <p>***</p>
     <a href="https://www.deviantart.com/finaformsora/art/Dual-Disk-613332464" 
       target="_blank" rel="noopener" title="Dual Disk by finaformsora">
-        <img src="./assests/images/cuchara-magica.png" class="silueta" 
+        <img src="https://1001ghules.gwannon.com/assests/images/cuchara-magica.png" class="silueta" 
           alt="Dual Disk by finaformsora" style="float: right; width: 112px; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/cuchara-magica.png);"></a> 
     <h4>La cuchara mágica</h4>
     <p>La cuchara mágica es un ingenio de supervivencia de los Al Mighos para sus exploradores. Los Al Mighos no 
@@ -4707,7 +4331,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/artdoge/art/1001-The-City-of-Brass-192983404" 
       target="_blank" rel="noopener" title="1001: The City of Brass by ArtDoge">
-        <img src="./assests/images/expedicion-ciudad-bronce.jpg" alt="1001: The City of Brass by ArtDoge"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/expedicion-ciudad-bronce.jpg" alt="1001: The City of Brass by ArtDoge"></a>
     <h2>Más allá de la Ciudad de Bronce: <br/><small>Historia de la segunda expedición a la Ciudad de Bronce</small></h2>
     <p>Esta campaña es la continuación de la expedición a la Ciudad de Bronce que se narra en Historia prodigiosa de la 
       Ciudad de Bronce. Al final esa historia Abdalmalek, califa de Damasco, promete volver él mismo a la Ciudad de Bronce
@@ -4889,7 +4513,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/magnummaster/art/Momentum-620728088" 
       target="_blank" rel="noopener" title="Momentum by MagnumMaster">
-        <img src="./assests/images/espacio.jpg" alt="Momentum by MagnumMaster"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/espacio.jpg" alt="Momentum by MagnumMaster"></a>
     <h2>La llegada del cometa</h2>
     <p><em>Como los astrónomos habían predicho, el cometa Aiin se acerca a la Tierra, cosa que hace cada 320 años.
       Se dice que en su interior reside parte de la esencia fragmentada de la deidad conocida como Suc'Naath. 
@@ -4948,7 +4572,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/artdoge/art/Every-Story-767384006" 
       target="_blank" rel="noopener" title="Every Story by ArtDoge">
-        <img src="./assests/images/caida-giafar.jpg" alt="Every Story by ArtDoge"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/caida-giafar.jpg" alt="Every Story by ArtDoge"></a>
     <h2>La caida de Giafar</h2>
     <p><em>El terrible destino del visir Giafar se acerca. No quedan más de 15 días hasta que el visir sea ejecutado
       tal como descubrió durantes su fantastica estancia extratemporal en Pnakotus y es por ello que tiene dejar 
@@ -4992,7 +4616,7 @@
     <div class="saltopagina"></div>
     <a href="https://www.deviantart.com/artdoge/art/Shangri-La-4-Water-Pass-192464787" 
       target="_blank" rel="noopener" title="Shangri-La 4 Water Pass by ArtDoge">
-        <img src="./assests/images/otros-cuentos.jpg" alt="Shangri-La 4 Water Pass by ArtDoge"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/otros-cuentos.jpg" alt="Shangri-La 4 Water Pass by ArtDoge"></a>
     <h2>Otros cuentos salvajes</h2>
     <p>En sus andanzas por las tierras de las 1001 noches, tus shahriars pueden encontrarse con 
       otras aventuras. Aquí tienes algunas de ellas donde podrás explorar lugares míticos, combatir a 
@@ -5054,7 +4678,7 @@
     <h3>El viajero del tiempo</h3>
     <a href="https://www.gutenberg.org/ebooks/51432" class="half" 
       target="_blank" rel="noopener" title="The fisher and the genie por Edmund Dulac">
-        <img src="./assests/images/botella-genio.jpg" alt="The fisher and the genie por Edmund Dulac"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/botella-genio.jpg" alt="The fisher and the genie por Edmund Dulac"></a>
     <p><b>Comienzo:</b> Cualquier ciudad grande</p>
     <p><em>Las obras del nuevo palacio del califa han encontrado una singular vasija con un sello de 
       plomo mientras excavaban los cimientos. Nadie quiere abrirla por si saliera un yinn loco de rabia 
@@ -5080,7 +4704,7 @@
     <h3>La vida se abre camino...</h3>
     <a href="hhttps://www.deviantart.com/daveybaker/art/Chimera-sketch-887824588" 
       target="_blank" rel="noopener" title="Chimera sketch by DaveyBaker">
-        <img src="./assests/images/quimera.jpg" alt="Chimera sketch by DaveyBaker"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/quimera.jpg" alt="Chimera sketch by DaveyBaker"></a>
     <p><b>Comienzo:</b> cualquier ciudad de Egipto</p>
     <p><em>Desde hace semana ha habido avistamiento de extraños animales fantásticos por toda la ciudad, 
       desde leones alados con cola de escorpión hasta caballos con cabeza de reptil y alas de 
@@ -6122,7 +5746,7 @@
       <p><b>Referencia:</b> Historia de Aladino y de la lámpara mágica (n. 731-774)</p></blockquote>
     <a href="https://pixabay.com/es/photos/aladin-l%C3%A1mpara-milagrosa-magia-2368384/" class="half" 
       target="_blank" rel="noopener" title="Aladin Lámpara Milagrosa por Karinamannott">
-        <img src="./assests/images/lampara.jpg" alt="Aladin Lámpara Milagrosa por Karinamannott"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/lampara.jpg" alt="Aladin Lámpara Milagrosa por Karinamannott"></a>
     <p>La lampara mágica es quizás el objeto más poderoso y a la vez el más peligroso de todos los 
       que podrás encontrarte en este mundo. Poderoso porque el yinn que en ella habita es un avatar 
       de Nyarlathotep que puede cumplir todas tus ordenes. Peligroso porque malinterpretará a propósito
@@ -6203,7 +5827,7 @@
       <p><b>Referencia:</b> Historia del pescador y el efrit (n. 3)</p></blockquote>
     <p><a href="https://pixabay.com/es/photos/decantador-vidrio-esta%C3%B1o-azul-942521/" 
       target="_blank" rel="noopener" title="Decantador Vidrio Estaño por 27707">
-      <img src="./assests/images/botella-sellada.png" class="silueta" alt="Decantador Vidrio Estaño por 27707" 
+      <img src="https://1001ghules.gwannon.com/assests/images/botella-sellada.png" class="silueta" alt="Decantador Vidrio Estaño por 27707" 
       style="width: 125px; height: 194px; shape-outside: url(https://1001ghules.gwannon.com/assests/images/botella-sellada.png);"></a>
       A lo largo de todas las 1001 noches hay varios ejemplos de recipientes como botellas 
       o tinajas selladas con el sello se Soleimán de las que salen todo tipo de cosas, 
@@ -6367,7 +5991,7 @@
       <p><b>Referencia:</b> Historia contada por el octavo capitán de policía (n. 950)</p></blockquote>
     <a href="https://pixabay.com/es/photos/frutas-amarillas-fechas-cosecha-4689385/" 
       class="half" target="_blank" rel="noopener" title="Frutas Amarillas Fechas Cosecha por Ri_Ya">
-        <img src="./assests/images/datiles.jpg" alt="Frutas Amarillas Fechas Cosecha por Ri_Ya"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/datiles.jpg" alt="Frutas Amarillas Fechas Cosecha por Ri_Ya"></a>
     <p>Estos dátiles rojos y amarillos son indestinguibles de los dátiles normales. Los amarillos hacen que 
       crezcan multitud de tentáculos pulposos que supuran algún tipo de icor de la cabeza que se enganchan 
       o se clavan en los objetos cercanos, quedando la victima atrapada. Los dátiles rojos contrarrestan el 
@@ -6663,7 +6287,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/arthurhenri/art/Farnoush-832619998" class="half"
       target="_blank" rel="noopener" title="Farnoush by ArthurHenri">
-        <img src="./assests/images/sett-zobeida.jpg" alt="Farnoush by ArthurHenri"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/sett-zobeida.jpg" alt="Farnoush by ArthurHenri"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -6686,7 +6310,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/giorgiobaroni/art/Sketch-Dailies-Jafar-530933382"
       target="_blank" rel="noopener" title="Sketch_Dailies: Jafar by giorgiobaroni">
-        <img src="./assests/images/giafar.png" alt="Sketch_Dailies: Jafar by giorgiobaroni" class="silueta"
+        <img src="https://1001ghules.gwannon.com/assests/images/giafar.png" alt="Sketch_Dailies: Jafar by giorgiobaroni" class="silueta"
           style="width: 60%; float: right; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/giafar.png);"></a>
     <p>***</p>
     <ul>
@@ -6709,7 +6333,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/tsynali/art/indi-girl-530934040" 
       target="_blank" rel="noopener" title="indi girl por tsynali">
-        <img src="./assests/images/fatima.png" class="silueta" alt="indi girl por tsynali" 
+        <img src="https://1001ghules.gwannon.com/assests/images/fatima.png" class="silueta" alt="indi girl por tsynali" 
           style="width: 40%; float: right; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/fatima.png);"></a>
     <p>Fatima es la líder por derecho propio del Pequeño Consejo. Es la más sabia y justa de 
       todos los pillastres callejeros que forman el consejo. Se está haciendo mayor y tendrá 
@@ -6734,7 +6358,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/maxprodanov/art/Surrender-717572378" class="half"
       target="_blank" rel="noopener" title="Surrender! by maxprodanov">
-        <img src="./assests/images/alya.jpg" alt="Surrender! by maxprodanov"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/alya.jpg" alt="Surrender! by maxprodanov"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -6756,7 +6380,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/a6a7/art/Traveller-47123209" class="half"
       target="_blank" rel="noopener" title="Traveller by A6A7">
-        <img src="./assests/images/al-lawati.jpg" alt="Traveller by A6A7"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/al-lawati.jpg" alt="Traveller by A6A7"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -6778,7 +6402,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/muratcalis/art/Omar-Khayyam-354059432" class="half"
       target="_blank" rel="noopener" title="Omar Khayyam by MuratCALIS">
-        <img src="./assests/images/mahmoud-assy.jpg" alt="Omar Khayyam by MuratCALIS"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/mahmoud-assy.jpg" alt="Omar Khayyam by MuratCALIS"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -6801,7 +6425,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/a6a7/art/Innuendo-157531990" class="half"
       target="_blank" rel="noopener" title="Innuendo by A6A7">
-        <img src="./assests/images/ziba.jpg" alt="Innuendo by A6A7"></a>
+        <img src="https://1001ghules.gwannon.com/assests/images/ziba.jpg" alt="Innuendo by A6A7"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -6829,7 +6453,7 @@
       <p><b>Referencia:</b> Las aventuras de Hassan Al-Bassri (n. 605)</p></blockquote>
     <a href="https://www.deviantart.com/thelivingshadow/art/Character-Design-Ammani-491123317"
       target="_blank" rel="noopener" title="Character Design: Ammani by TheLivingShadow">
-        <img src="./assests/images/alura.png" class="silueta" alt="Character Design: Ammani by TheLivingShadow"
+        <img src="https://1001ghules.gwannon.com/assests/images/alura.png" class="silueta" alt="Character Design: Ammani by TheLivingShadow"
           style="width: 40%; float: right; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/alura.png);"></a>
     <p>***</p>
     <ul>
@@ -6851,7 +6475,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://en.wikipedia.org/wiki/Al-Zarqali#/media/File:Azarquiel_(MUNCYT,_Eulogia_Merle).jpg" 
       target="_blank" rel="noopener" title="Retrato de Azarquiel. Fundación Española para la Ciencia y la Tecnología, Eulogia Merle.">
-        <img src="./assests/images/yacub-abu-yussef.png" class="silueta" alt="Retrato de Azarquiel. Fundación Española para la Ciencia y la Tecnología, Eulogia Merle." 
+        <img src="https://1001ghules.gwannon.com/assests/images/yacub-abu-yussef.png" class="silueta" alt="Retrato de Azarquiel. Fundación Española para la Ciencia y la Tecnología, Eulogia Merle." 
           style="width: 40%; float: right; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/yacub-abu-yussef.png);"></a>
     <p>Hunayn ibn Ishaq es el actual director de la Casa de la Sabiduría. ***</p>
     <p>Es un hombre muy recto y de severos principios éticos. Al respecto se conoce una anécdota. 
@@ -6916,7 +6540,7 @@
       <p><b>Referencia:</b> Aventuras del poeta Abu-Nowas (n. 287)</p></blockquote>
     <a href="https://es.wikipedia.org/wiki/Abu_Nuwas#/media/Archivo:Abu_Nuwas.jpg" 
       target="_blank" rel="noopener" title="Abu Nuwas, Drawing by Kahlil Gibran al-Funun">
-      <img src="./assests/images/abu-nowas.png" class="silueta" alt="Abu Nuwas, Drawing by Kahlil Gibran al-Funun" 
+      <img src="https://1001ghules.gwannon.com/assests/images/abu-nowas.png" class="silueta" alt="Abu Nuwas, Drawing by Kahlil Gibran al-Funun" 
         style="width: 40%; float: right; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/abu-nowas.png);"></a>
     <p>Abu-Nowas es el ejemplo de artista hedonista y vividor. Para escribir de la vida has de vivirla y Abu-Nowas 
       no solo la vive, la exprime al máximo.</p>
@@ -6965,7 +6589,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.deviantart.com/muratcalis/art/Salah-Al-Din-Yusuf-Ibn-Ayyub-354014608" class="half"
       target="_blank" rel="noopener" title="Salah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS">
-      <img src="./assests/images/ibrahim.jpg" alt="Salah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/ibrahim.jpg" alt="Salah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -6992,7 +6616,7 @@
       <p><b>Referencia:</b> Las aventuras de Hassan Al-Bassri (n. 582)</p></blockquote>
     <a href="https://www.deviantart.com/dottorfile/art/Zaharia-artwork-Zeoren-401307083" class="half"
       target="_blank" rel="noopener" title="Zaharia artwork: Zeoren by DottorFile">
-      <img src="./assests/images/bahram-el-gauro.jpg" alt="Zaharia artwork: Zeoren by DottorFile"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/bahram-el-gauro.jpg" alt="Zaharia artwork: Zeoren by DottorFile"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -7016,7 +6640,7 @@
     <blockquote class="primigenio">*** <p><b>Referencia:</b> *** (n. ***)</p></blockquote>
     <a href="https://www.wikiart.org/es/eugene-delacroix/head-of-a-woman-in-a-red-turban-1831" class="half"
       target="_blank" rel="noopener" title="Head of a Woman in a Red Turban by Eugène Delacroix">
-      <img src="./assests/images/asturlabi.jpg" alt="Head of a Woman in a Red Turban by Eugène Delacroix"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/asturlabi.jpg" alt="Head of a Woman in a Red Turban by Eugène Delacroix"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -7123,7 +6747,7 @@
         Alí Azogue (n. 432)</p></blockquote>
     <a href="https://es.wikipedia.org/wiki/Archivo:Imru_al-Qays.png" 
       target="_blank" rel="noopener" title="Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido">
-      <img src="./assests/images/ayub.png" class="silueta" alt="Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido" 
+      <img src="https://1001ghules.gwannon.com/assests/images/ayub.png" class="silueta" alt="Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido" 
         style="width: 40%; float: right; height: auto; shape-outside: url(https://1001ghules.gwannon.com/assests/images/ayub.png);"></a>
     <p>***</p>
     <ul>
@@ -7150,7 +6774,7 @@
         Alí Azogue (n. 432)</p></blockquote>
     <a href="https://www.wikiart.org/es/eugene-delacroix/portrait-of-a-woman-in-a-blue-turban" class="half"
       target="_blank" rel="noopener" title="Portrait of a Woman in a Blue Turban by Eugène Delacroix">
-      <img src="./assests/images/dalila.jpg" alt="Portrait of a Woman in a Blue Turban by Eugène Delacroix"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/dalila.jpg" alt="Portrait of a Woman in a Blue Turban by Eugène Delacroix"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -7197,7 +6821,7 @@
         Alí Azogue (n. 449)</p></blockquote>
     <a href="https://www.wikiart.org/es/eugene-delacroix/portrait-of-a-turk-in-a-turban" class="half"
       target="_blank" rel="noopener" title="Portrait of a Turk in a Turban by Eugène Delacroix">
-      <img src="./assests/images/ali-azogue.jpg" alt="Portrait of a Turk in a Turban by Eugène Delacroix"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/ali-azogue.jpg" alt="Portrait of a Turk in a Turban by Eugène Delacroix"></a>
     <p>***</p>
     <ul>
       <li><b>Atributos:</b> Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX</li>
@@ -7281,31 +6905,31 @@
     <h1>Recursos y mapas</h1>
     <div class="saltopagina"></div>
     <a href="https://www.researchgate.net/figure/Map-of-Baghdad-in-150-300-AH-corresponding-to-772-922AD-12_fig5_339782591" title="Map of Baghdad in (150-300 AH), corresponding to (772-922AD)">
-      <img class="map-grid" src="./assests/images/bagdad-mapa-color.jpg" alt="Map of Baghdad in (150-300 AH), corresponding to (772-922AD)"></a>
+      <img class="map-grid" src="https://1001ghules.gwannon.com/assests/images/bagdad-mapa-color.jpg" alt="Map of Baghdad in (150-300 AH), corresponding to (772-922AD)"></a>
     <p class="leyendamapa">Mapa de Bagdad</p>
     <div class="saltopagina"></div>
     <a href="https://angelamaps.com/2023/04/01/nest/" title="Nest por AngelaMaps">
-      <img id="nido-rokh" class="map-grid" src="./assests/images/nido-rokh.jpg" alt="Nest por AngelaMaps"></a>
+      <img id="nido-rokh" class="map-grid" src="https://1001ghules.gwannon.com/assests/images/nido-rokh.jpg" alt="Nest por AngelaMaps"></a>
     <p class="leyendamapa">Nido de ave de Rokh</p>
     <div class="saltopagina"></div>
     <a href="https://angelamaps.com/2020/12/05/the-canyon/" title="The Canyon por AngelaMaps">
-      <img id="garganta" class="map-grid" src="./assests/images/garganta.jpg" alt="The Canyon por AngelaMaps"></a>
+      <img id="garganta" class="map-grid" src="https://1001ghules.gwannon.com/assests/images/garganta.jpg" alt="The Canyon por AngelaMaps"></a>
     <p class="leyendamapa">La garganta</p>
     <div class="saltopagina"></div>
     <a href="https://angelamaps.com/2021/04/14/ten-bridges/" title="Bridge Night por AngelaMaps">
-      <img id="puente-bagdad" class="map-grid" src="./assests/images/puente-bagdad.jpg" alt="Bridge Night por AngelaMaps"></a>
+      <img id="puente-bagdad" class="map-grid" src="https://1001ghules.gwannon.com/assests/images/puente-bagdad.jpg" alt="Bridge Night por AngelaMaps"></a>
     <p class="leyendamapa">El puente de Bagdad (noche)</p>
     <div class="saltopagina"></div>
     <a href="https://angelamaps.com/2021/07/29/pharaoh-tomb/" title="Pharaoh Tomb por AngelaMaps">
-      <img id="tumba-faraon" class="map-grid" src="./assests/images/tumba-faraon.jpg" alt="Pharaoh Tomb por AngelaMaps"></a>
+      <img id="tumba-faraon" class="map-grid" src="https://1001ghules.gwannon.com/assests/images/tumba-faraon.jpg" alt="Pharaoh Tomb por AngelaMaps"></a>
     <p class="leyendamapa">Tumba del Faraón</p>
     <div class="saltopagina"></div>
     <a href="https://angelamaps.com/2023/05/09/desert/" target="_blank" rel="noopener" title="Desert por AngelaMaps">
-      <img src="./assests/images/desierto-ruinas.jpg" alt="Desert por AngelaMaps"></a>
+      <img src="https://1001ghules.gwannon.com/assests/images/desierto-ruinas.jpg" alt="Desert por AngelaMaps"></a>
       <p class="leyendamapa">Ruinas en el desierto</p>
     <div class="saltopagina"></div>
     <a href="https://es.wikipedia.org/wiki/Caravasar#/media/Archivo:Carvansara_plan.png" target="_blank" rel="noopener" title="Plan of a Safavid era caravanserai in Karaj, Iran.">
-      <img id="khan" src="./assests/images/Carvansara_plan.png" alt="Plan of a Safavid era caravanserai in Karaj, Iran."></a>
+      <img id="khan" src="https://1001ghules.gwannon.com/assests/images/Carvansara_plan.png" alt="Plan of a Safavid era caravanserai in Karaj, Iran."></a>
       <p class="leyendamapa">Plano de un Khan</p>
 
 
@@ -7555,485 +7179,13 @@
       <p>Para jugar esta ambientación solo necesitas el Manual Básico de Savage Worlds 
         Edición Aventura.</p>
     </div>
-    <img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
+    <img src="https://1001ghules.gwannon.com/assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
   </section>
   <a href="#" title="Ir al indice">ヘ</a>
 </body>
-<!-- /* cSpell:disable */ -->
-<style>
-  section:first-of-type {
-    background: black url(./assests/images/sol-desierto.jpg) center center no-repeat;
-    background-size: cover;
-  }
-
-  section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/scheherazade-schariar.jpg);
-  }
-
-  section:nth-of-type(5) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/scheherazade-sultan.jpg);
-  }
-
-  section:nth-of-type(6) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/sindbad.jpg);
-  }
-
-  section:nth-of-type(7) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/alfombra-voladora.jpg);
-  }
-
-  section:nth-of-type(8) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/cassim.jpg);
-  }
-
-  section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/scheherazade-y-shahryar.jpg);
-  }
-
-  section:nth-of-type(10) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/tigres.webp);
-    background-position: 15% center;
-  }
-
-  section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/bagdad.jpg);
-    background-position: center top;
-  }
-
-
-  section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-    background-image: url(./assests/images/ciudad-bronce.jpg);
-    background-position: center center;
-    background-size: 120% auto;
-  }
-
-  section:last-of-type {
-    min-height: 100vh;
-    padding-top: var(--margin);
-    padding-bottom: var(--margin);
-    box-sizing: border-box;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  section:first-of-type {
-    height: calc(100vh - 2px);
-  }
-
-  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + .saltopagina + p:first-letter,
-  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter,
-  section:last-of-type {
-    --pattern-size: 250px;
-    background-color:var(--color-emerald);
-    background-image:
-      linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
-      linear-gradient(157.5deg, var(--color-emerald) 10%, transparent 10%),
-      linear-gradient(67.5deg, transparent 90%, var(--color-emerald) 90%),
-      linear-gradient(157.5deg, transparent 90%, var(--color-emerald) 90%),
-        
-      linear-gradient(22.5deg, var(--color-emerald) 10%, transparent 10%),
-      linear-gradient(112.5deg, var(--color-emerald) 10%, transparent 10%),
-      linear-gradient(22.5deg, transparent 90%, var(--color-emerald) 90%),
-      linear-gradient(112.5deg, transparent 90%, var(--color-emerald) 90%),
-      
-      linear-gradient(22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-      linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-      linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-      linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
-    background-size: var(--pattern-size) var(--pattern-size);
-    background-position: 
-      calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2),
-      calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3),
-      0 0, 0 0, 0 0, 0 0;
-  }
-
-  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + .saltopagina + p:first-letter,
-  section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter {
-    --pattern-size: 25px;
-    --color-emerald: #9a8a3a;
-    font-family: 'Khodijah';
-    font-size: 2.3em;
-    display: block;
-    float: left;
-    margin: 3px 10px 0px 0px;
-    padding: 10px 5px;
-    border: 1px solid #000;
-    color: #000;
-  }
-
-  @media print {
-    section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + .saltopagina + p:first-letter,
-    section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter,
-    section:last-of-type {
-      padding: 2px 10px 0;
-    }
-  }
-
-  section:last-of-type > div {
-    margin: 0px 30px; 
-    border: 1px solid #fff; 
-    background-color: #000000b0; 
-    padding: 30px;
-  }
-
-  section:last-of-type > div > h1 {
-    font-size: 4em;
-    margin: 0 0 20px 0;
-  }
-
-  section:last-of-type > div > h2 {
-    margin: 0 0 20px 0;
-    text-align: center;
-  }
-
-  section:last-of-type > div > p:first-of-type {
-    font-weight: bold;
-    text-align: center;
-  }
-
-  section:last-of-type > div > ol {
-    list-style-type: arabic-indic;
-    margin-bottom: 0px;
-  }
-
-  section:last-of-type > div > ol > li:not(:last-child) {
-    padding-bottom: 8px;
-  }
-
-  section:last-of-type > div a {
-    color: var(--color-old-gold);
-  }
-  section:last-of-type > img {
-    margin: 20px 0 0 0;
-  }
-
-  .saltopagina {
-    display: none;
-  }
-
-  li.saltopagina {
-    display: list-item;
-  }
-
-  .separator {
-    display: block;
-    /*width: calc(100% - 40px);*/
-    width: 80%;
-    margin: 30px auto 0px;
-    padding-bottom: 65px;
-    position: relative;
-    text-align: center;
-  }
-
-  .separator:after {
-    text-align: center;
-    content: "scheherazade";
-    position: absolute;
-    display: block;
-    font-family: 'Khodijah';
-    color: var(--color-old-gold);
-    transform: scaleX(-1) scaleY(3);
-    overflow: hidden;
-    font-size: 0.5em;
-    text-shadow: -1px -1px 0 black;
-    background-color: var(--color-grey);
-    margin: 0px auto 0px;
-    width: 66px;
-    left: calc(50% - 33px);
-    top: 5px;
-    padding: 0 1px;
-  }
-  /*@media (min-width: calc(100vh * 0.7)) {
-    .separator {
-      width: 80%;
-    }
-
-    .separator:after {
-      font-size: 1.1em;
-      content: "scheherazade vió aparecer la mañana";
-    }
-  }*/
-
-  .separator:before {
-    content: "";
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: 3px;
-    box-shadow: 2px -2px 0 black;
-    background-color: var(--color-old-gold);
-    top: 9px;
-    left: 0px;
-  }
-
-  body:before {
-    position: fixed;
-    content: "";
-    display: none;
-    top: 0px;
-    left: 0px;
-    width: calc((var(--margin) / 3 ) * 2);
-    height: 100vh;
-    background: transparent url(./assests/bg.png) center center repeat-y;
-    background-size: contain;
-  }
-
-  body:after {
-    position: fixed;
-    content: "";
-    display: none;
-    top: 0px;
-    right: 0px;
-    width: calc((var(--margin) / 3 ) * 2);
-    height: 100vh;
-    background: transparent url(./assests/bg.png) center center repeat-y;
-    background-size: contain;
-    transform: scalex(-1);
-  }
-
-  body {
-    background: linear-gradient(45deg, transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%, transparent 90%), linear-gradient(135deg,  transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%,  transparent 90%), radial-gradient(circle at top,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at bottom,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at right,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at left,var(--color-grey) 20% , transparent 21%);
-    background-size: 3em 3em;
-
-    background-color: #ffffff;
-    opacity: 1;
-  }
-
-  body > section {
-    background: none;
-  } 
-
-
-  @media (min-width: 670px) {
-    body:before, body:after { display: block; }
-  }
-  @media print {
-
-    .nopdf {
-      display: none;
-    }
-
-    .saltopagina {
-      display: block;
-      page-break-before: always;
-      height: 1px;
-      background-color: transparent;
-      opacity: 0;
-    }
-
-    li.saltopagina {
-      margin-top: var(--margin);
-      opacity: 1;
-      height: auto;
-    }
-
-    section .saltopagina:not(li) + * {
-      margin-top: var(--margin);
-    }
-
-    @page {
-      size: A4;
-      margin: 0;
-    }
-
-    h1 {
-      margin-left: -10px !important;
-      margin-right: -10px !important;
-    }
-
-    h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-      height: calc(100vh - 2px);
-      position: relative;
-      z-index: 10;
-    }
-
-    section:first-of-type,
-    section:last-of-type {
-      position: relative;
-      z-index: 10; 
-    }
-
-    section:last-of-type,
-    section:first-of-type {
-      max-width: calc(100vw + 20px);   
-      min-height: 1130px;
-      height: 100%; 
-    }
-
-    section:last-of-type {
-      min-height: 1129px;
-    }
-
-    section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + p:first-letter,
-    section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)):not(section:nth-of-type(7)):not(section:nth-of-type(8)) h2 + p:first-letter {
-      font-size: 2em;
-    }
-
-    body>a:last-of-type {
-      display: none;
-    }
-  }
-
-
-  body>section:nth-of-type(3) div:not(body>section:nth-of-type(3) div:last-of-type) {
-    padding: 0;
-    min-height: 1021px;
-  }
-
-  .likeH1,
-  .likeH2,
-  .likeH3 {
-    display: block;
-    cursor: pointer;
-    margin: 0 0 3px 0;
-    text-decoration: none;
-    font-size: .6em;
-    max-height: 13px;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-  }
-
-  .likeH1 {
-      font-family: 'Oswald', sans-serif;
-  }
-
-  .likeH2 {
-    padding: 0 0 0 15px;
-  }
-
-  .likeH3 {
-    padding: 0 0 0 30px;
-  }
-
-  body>a.show:last-of-type {
-    opacity: 1;
-  }
-
-  body>a:last-of-type {
-    display: block;
-    opacity: 0;
-    position: fixed;
-    bottom: 0px;
-    right: 0px;
-    padding: 6px 12px;
-    background-color: var(--color-sand);
-    color: #fff;
-    text-decoration: none;
-    font-size: 25px;
-    transition: opacity 0.3s;
-    z-index: 10;
-  }
-
-  table tbody tr.random>* {
-    color: #fff;
-    background-color: var(--color-emerald);
-    text-shadow: 0px 0px 5px var(--color-emerald);
-  }
-
-  table[data-dice="4"] {
-    cursor: url('./assests/images/dice-d4.svg'), auto;
-  }
-
-  table[data-dice="6"] {
-    cursor: url('./assests/images/dice-d6.svg'), auto;
-  }
-
-  table[data-dice="8"] {
-    cursor: url('./assests/images/dice-d8.svg'), auto;
-  }
-
-  table[data-dice="10"] {
-    cursor: url('./assests/images/dice-d10.svg'), auto;
-  }
-
-  table[data-dice="12"] {
-    cursor: url('./assests/images/dice-d12.svg'), auto;
-  }
-
-  table[data-dice="20"] {
-    cursor: url('./assests/images/dice-d20.svg'), auto;
-  }
-
-  .map-grid {
-    width: 100%;
-    height: auto;
-  }
-
-
-  .leyendamapa {
-    font-style: italic;
-    text-align: center;
-    margin-top: 0px;
-    margin-bottom: 30px;
-    font-size: 12px;
-  }
-
-  @media print {
-    .map-grid {
-      width: auto !important;
-      height: calc(100vh - 160px);
-      display: block;
-      margin: auto;
-    }
-    .leyendamapa {
-      margin-bottom: 30px;
-    }
-    table tbody tr>* {
-      padding: 3px 4px;
-      font-size: 0.8rem;
-    }
-    table thead tr th {
-      padding: 10px 7px;
-    }
-
-    table thead tr:first-child th {
-      font-size: 1.3rem;
-    }
-
-    table {
-      margin: 0px auto;
-    }
-
-    p + table {
-      margin: 15px auto 0px;
-    }
-
-    body>a.show:last-of-type {
-      display: none;
-    }
-  }
-
-  a.download {
-    display: inline-block;
-    padding: 10px 20px;
-    text-decoration: none;
-    color: #fff;
-    background-color: var(--color-old-gold);
-    transition: background 0.3s;
-  }
-
-  a.download:hover {
-    background-color: var(--color-gold);
-  }
-
-  .twocol {
-    display: flex;
-    gap: 5px;
-    flex-wrap: wrap;
-  }
-
-  .twocol li {
-    width: calc(50% - 5px);
-  }
-
-</style>
-<!-- /* cSpell:enable */ -->
-<script src="./js/jquery-3.6.3.min.js"></script>
-<script src="./js/scripts.js?ver=1.1&hash=20231105"></script>
+<link rel="stylesheet" href="https://1001ghules.gwannon.com/assests/css/foot.css">
+<script src="https://1001ghules.gwannon.com/js/jquery-3.6.3.min.js"></script>
+<script src="https://1001ghules.gwannon.com/js/scripts.js?ver=1.1&hash=20231105"></script>
 </html>
 <!--
 
