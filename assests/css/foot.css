@@ -12,7 +12,7 @@ section:nth-of-type(5) > h1:not(section:last-of-type h1):not(section:first-of-ty
   background-image: url(../images/scheherazade-sultan.jpg);
 }
 
-/*section:nth-of-type(6) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+section:nth-of-type(6) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/sindbad.jpg);
 }
 
@@ -24,7 +24,7 @@ section:nth-of-type(8) > h1:not(section:last-of-type h1):not(section:first-of-ty
   background-image: url(../images/cassim.jpg);
 }
 
-section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+/*section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/scheherazade-y-shahryar.jpg);
 }
 
