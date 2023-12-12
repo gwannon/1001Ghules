@@ -1,0 +1,373 @@
+a,
+    a:visited {
+      color: black;
+    }
+
+    @font-face {
+      font-family: 'Khodijah';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(./assests/fonts/Khodijahfree-OVELp.ttf) format('truetype');
+    }
+
+    @font-face {
+      font-family: 'Open Sans';
+      src:
+        url(./assests/fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+      font-weight: 100 900;
+      font-stretch: 50% 200%;
+    }
+
+    @font-face {
+      font-family: 'Open Sans';
+      src:
+        url(./assests/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+      font-weight: 100 900;
+      font-stretch: 50% 200%;
+      font-style: italic;
+    }
+
+    :root {
+      --color-sand: #C2B280;
+      --color-sunset: #FF5733;
+      --color-gold: #FFC300;
+      --color-old-gold: #9a8a3a;
+      --color-emerald:#16a085;
+      --color-grey: #f7f7f7;
+      --color-green-cthulhu: #879f85;
+      --color-green-deepone: #c6cbc2;
+      --margin: 45px;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    body > section {
+      /*background-color: var(--color-grey);*/
+      margin: auto;
+      width: 100%;
+      /*background: linear-gradient(45deg, transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%, transparent 90%), linear-gradient(135deg,  transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%,  transparent 90%), radial-gradient(circle at top,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at bottom,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at right,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at left,var(--color-grey) 20% , transparent 21%);
+      background-size: 3em 3em;
+      background-color: #ffffff;
+      opacity: 1;*/
+    }
+
+    section > p,
+    section > ul,
+    section > blockquote,
+    section > h2,
+    section > h3,
+    section > h4,
+    section > h5,
+    section > ol,
+    section > ul,
+    section > div,
+    section > a  {
+      display: block;
+      padding: 0 0 calc((var(--margin) * 0.4) / 2) 0;
+      margin: 0 calc(var(--margin) * 0.4) ;
+    }
+
+    section > *:is(p, ul, blockquote, .saltopagina) + *:is(h3, h2, .likeh2, img) {
+      margin-top: calc((var(--margin) /4) * 2.5);
+    }
+
+    section:nth-of-type(2) > blockquote,
+    section:nth-of-type(2) > p {
+      word-break: break-word;
+    }
+
+    @media (min-width: calc(100vh * 0.7)) {
+      body>section {
+        max-width: calc(100vh * 0.7);
+        padding: 0px;
+      }
+
+      section > p,
+      section > ul,
+      section > blockquote,
+      section > h2,
+      section > h3,
+      section > h4,
+      section > h5,
+      section > ol,
+      section > ul,
+      section > div,
+      section > a  {
+
+        padding: 0 0 calc(var(--margin) / 3) 0;
+        margin: 0 var(--margin) ;
+      }
+    }
+
+    h1, h2, .likeh2, h3 {
+      font-family: 'Khodijah';
+      font-weight: 400;
+    }
+
+    h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+      font-size: 3em;
+      line-height: 120%;
+      margin: 0;
+      text-align: center;
+      color: white;
+      text-shadow: 0 0 5px black;
+    }
+
+    h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+      height: 60vh;
+      display: flex;
+      flex-direction: column;
+      align-content: stretch;
+      align-items: stretch;
+      flex-wrap: wrap;
+      justify-content: center;
+      background: black center center no-repeat;
+      background-size: cover;
+      margin-bottom: var(--margin);
+    }
+
+    h2,
+    .likeh2,
+    section:first-of-type > div > h1,
+    section:last-of-type > div > h1 {
+      font-size: 2em;
+      line-height: 120%;
+      color: var(--color-old-gold);
+      text-shadow: 3px -1px 1px black;
+      text-align: center;
+    }
+
+    section:first-of-type h2,
+    section:first-of-type h3 {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 1.5em;
+      letter-spacing: -2px;
+      line-height: 110%;
+    }
+
+    h3 {
+      font-size: 2em;
+      line-height: 100%;
+    }
+
+    h4 {
+      font-size: 1.2em;
+    }
+
+    h5 {
+      font-size: 1em;
+    }
+
+    section > ol,
+    section > ul {
+      /*list-style-position: inside;*/
+      padding: 0 0 calc(var(--margin) / 2) 25px;
+    }
+
+    section > blockquote,
+    section > *.rule {
+      font-style: italic;
+      border : 3px dashed var(--color-gold);
+      background: var(--color-old-gold);
+      padding: 15px;
+      margin-bottom: calc(var(--margin) / 2);
+    }
+
+    section > blockquote.primigenio {
+      border-color: var(--color-green-cthulhu);
+      background-color: var(--color-green-deepone);
+    }
+
+    section > *.rule {
+      --patternsize: 20px; 
+      border: 3px solid var(--color-emerald);
+      background-color: #cfd9d6;
+      margin-left: calc(var(--margin) + var(--patternsize));
+      margin-right: calc(var(--margin) + var(--patternsize));
+      margin-top: calc(var(--patternsize) * 2);
+      margin-bottom: calc(var(--patternsize) * 2);
+      position: relative;
+    }
+
+    section > *.rule:before,
+    section > *.rule:after {
+      content: "";
+      position: absolute;
+      display: block;
+      width: 20px;
+      top: calc(var(--patternsize) * -1);
+      left: calc(var(--patternsize) * -1);
+      height: calc(100% + (var(--patternsize) * 2));
+      border: 3px solid var(--color-emerald);
+      box-sizing: border-box;
+      clip-path: polygon(
+        0% 0%, 
+        var(--patternsize) 0%, 
+        var(--patternsize) 100%, 
+        0% 100%, 
+        0% calc(100% - var(--patternsize)), 
+        var(--patternsize) calc(100% - var(--patternsize)), 
+        var(--patternsize) var(--patternsize), 
+        0% var(--patternsize));
+      background: linear-gradient(
+        180deg,
+        transparent 0%, 
+        transparent calc(var(--patternsize) - 6px),
+        var(--color-emerald) calc(var(--patternsize) - 6px),
+        var(--color-emerald) calc(100% - var(--patternsize) + 6px),
+        transparent calc(100% - var(--patternsize) + 6px)
+      );
+    }
+
+    section > *.rule:after {
+      left: auto;
+      right: calc(var(--patternsize) * -1);
+    }
+    
+    /*section > .rule + .rule {
+      border-top: none;
+      margin-top: -1.8em;
+    }*/
+
+    section > blockquote.seed {
+      --pattern-size: 25px;
+      --color-emerald: #bbbbbb;
+      background-color:var(--color-emerald);
+      background-image:
+        linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(157.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(67.5deg, transparent 90%, var(--color-emerald) 90%),
+        linear-gradient(157.5deg, transparent 90%, var(--color-emerald) 90%),
+          
+        linear-gradient(22.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(112.5deg, var(--color-emerald) 10%, transparent 10%),
+        linear-gradient(22.5deg, transparent 90%, var(--color-emerald) 90%),
+        linear-gradient(112.5deg, transparent 90%, var(--color-emerald) 90%),
+        
+        linear-gradient(22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+        linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+        linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+        linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
+      background-size: var(--pattern-size) var(--pattern-size);
+      background-position: 
+        calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2),
+        calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3),
+        0 0, 0 0, 0 0, 0 0;
+    }
+
+    section > blockquote > p {
+      padding: 15px 0 0 0;
+      margin: 0;
+    }
+
+    section:first-of-type {
+      background-color: black;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    section:nth-of-type(2) {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding-top: var(--margin);
+      padding-bottom: var(--margin);
+      box-sizing: border-box;
+    }
+
+    @media (min-width: calc(100vh * 0.7)) {
+      section:nth-of-type(2) {
+        height: 100vh;
+      }
+    } 
+    
+    section:first-of-type > div {
+      text-align: center;
+      color: white;
+    }
+
+    section:first-of-type > div > h1 {
+      font-size: 4em;
+      color: var(--color-old-gold);
+    }
+
+    section:first-of-type img {
+      width: 150px;
+      height: 100px;
+      margin: 0 0 45px 0;
+    }
+
+    table {
+      margin: 15px auto;
+      border: 3px dashed var(--color-gold);
+      background: var(--color-old-gold);
+    }
+
+    table thead tr th {
+      padding: 10px;
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.1em;
+      font-weight: 400;
+    }
+
+    table thead tr:first-child th {
+      font-size: 1.5em;
+    }
+
+    table tbody tr>* {
+      padding: 5px;
+    }
+
+    table tbody tr th[rowspan] {
+      background-color: var(--color-sand);
+    }
+
+    table thead {
+      background-color: var(--color-sand);
+    }
+
+    table tbody tr>* {
+      transition: all 0.6s;
+    }
+
+    /*table tbody tr:nth-child(even) {
+      background-color: var(--green-gul);
+    }*/
+
+    table tbody tr:nth-child(odd) {
+      background-color: var(--color-gold);
+    }
+
+    img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img, img.silueta) {
+      width: 100%;
+      border: 1px solid black;
+      box-shadow: 1px 1px 8px 3px var(--color-old-gold);
+    }
+
+    @media (min-width: 500px) {
+      section > a.half {
+        display: block;
+        width: 48.6%;
+        float: right;
+      }
+    }
+
+    .silueta {
+      shape-image-threshold: 0.5;
+      shape-margin: 20px;
+      float: left;
+      z-index: 10;
+    }
