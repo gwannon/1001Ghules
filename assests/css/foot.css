@@ -24,7 +24,7 @@ section:nth-of-type(8) > h1:not(section:last-of-type h1):not(section:first-of-ty
   background-image: url(../images/cassim.jpg);
 }
 
-/*section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/scheherazade-y-shahryar.jpg);
 }
 
@@ -43,7 +43,7 @@ section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-t
   background-position: center center;
   background-size: 120% auto;
 }
-*/
+
 section:last-of-type {
   min-height: 100vh;
   padding-top: var(--margin);
