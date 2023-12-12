@@ -1,3 +1,4 @@
+/*
 section:first-of-type {
   background: black url(../images/sol-desierto.jpg) center center no-repeat;
   background-size: cover;
@@ -37,13 +38,12 @@ section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-t
   background-position: center top;
 }
 
-
 section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/ciudad-bronce.jpg);
   background-position: center center;
   background-size: 120% auto;
 }
-
+*/
 section:last-of-type {
   min-height: 100vh;
   padding-top: var(--margin);
@@ -157,7 +157,6 @@ li.saltopagina {
 
 .separator {
   display: block;
-  /*width: calc(100% - 40px);*/
   width: 80%;
   margin: 30px auto 0px;
   padding-bottom: 65px;
@@ -183,16 +182,6 @@ li.saltopagina {
   top: 5px;
   padding: 0 1px;
 }
-/*@media (min-width: calc(100vh * 0.7)) {
-  .separator {
-    width: 80%;
-  }
-
-  .separator:after {
-    font-size: 1.1em;
-    content: "scheherazade vió aparecer la mañana";
-  }
-}*/
 
 .separator:before {
   content: "";
@@ -247,6 +236,7 @@ body > section {
 @media (min-width: 670px) {
   body:before, body:after { display: block; }
 }
+
 @media print {
 
   .nopdf {
@@ -313,7 +303,6 @@ body > section {
     display: none;
   }
 }
-
 
 body>section:nth-of-type(3) div:not(body>section:nth-of-type(3) div:last-of-type) {
   padding: 0;
