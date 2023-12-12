@@ -237,7 +237,15 @@ body > section {
   body:before, body:after { display: block; }
 }
 
+
 @media print {
+
+  body {
+    background: #fff url(../bgbody.png) center center repeat;
+    opacity: 1;
+  }
+  
+
 
   .nopdf {
     display: none;
