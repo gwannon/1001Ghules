@@ -1,45 +1,45 @@
 section:first-of-type {
-  background: black url(./assests/images/sol-desierto.jpg) center center no-repeat;
+  background: black url(../images/sol-desierto.jpg) center center no-repeat;
   background-size: cover;
 }
 
 section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/scheherazade-schariar.jpg);
+  background-image: url(../images/scheherazade-schariar.jpg);
 }
 
 section:nth-of-type(5) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/scheherazade-sultan.jpg);
+  background-image: url(../images/scheherazade-sultan.jpg);
 }
 
 section:nth-of-type(6) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/sindbad.jpg);
+  background-image: url(../images/sindbad.jpg);
 }
 
 section:nth-of-type(7) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/alfombra-voladora.jpg);
+  background-image: url(../images/alfombra-voladora.jpg);
 }
 
 section:nth-of-type(8) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/cassim.jpg);
+  background-image: url(../images/cassim.jpg);
 }
 
 section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/scheherazade-y-shahryar.jpg);
+  background-image: url(../images/scheherazade-y-shahryar.jpg);
 }
 
 section:nth-of-type(10) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/tigres.webp);
+  background-image: url(../images/tigres.webp);
   background-position: 15% center;
 }
 
 section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/bagdad.jpg);
+  background-image: url(../images/bagdad.jpg);
   background-position: center top;
 }
 
 
 section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(./assests/images/ciudad-bronce.jpg);
+  background-image: url(../images/ciudad-bronce.jpg);
   background-position: center center;
   background-size: 120% auto;
 }
@@ -214,7 +214,7 @@ body:before {
   left: 0px;
   width: calc((var(--margin) / 3 ) * 2);
   height: 100vh;
-  background: transparent url(./assests/bg.png) center center repeat-y;
+  background: transparent url(../bg.png) center center repeat-y;
   background-size: contain;
 }
 
@@ -226,7 +226,7 @@ body:after {
   right: 0px;
   width: calc((var(--margin) / 3 ) * 2);
   height: 100vh;
-  background: transparent url(./assests/bg.png) center center repeat-y;
+  background: transparent url(../bg.png) center center repeat-y;
   background-size: contain;
   transform: scalex(-1);
 }
@@ -372,27 +372,27 @@ table tbody tr.random>* {
 }
 
 table[data-dice="4"] {
-  cursor: url('./assests/images/dice-d4.svg'), auto;
+  cursor: url('../images/dice-d4.svg'), auto;
 }
 
 table[data-dice="6"] {
-  cursor: url('./assests/images/dice-d6.svg'), auto;
+  cursor: url('../images/dice-d6.svg'), auto;
 }
 
 table[data-dice="8"] {
-  cursor: url('./assests/images/dice-d8.svg'), auto;
+  cursor: url('../images/dice-d8.svg'), auto;
 }
 
 table[data-dice="10"] {
-  cursor: url('./assests/images/dice-d10.svg'), auto;
+  cursor: url('../images/dice-d10.svg'), auto;
 }
 
 table[data-dice="12"] {
-  cursor: url('./assests/images/dice-d12.svg'), auto;
+  cursor: url('../images/dice-d12.svg'), auto;
 }
 
 table[data-dice="20"] {
-  cursor: url('./assests/images/dice-d20.svg'), auto;
+  cursor: url('../images/dice-d20.svg'), auto;
 }
 
 .map-grid {

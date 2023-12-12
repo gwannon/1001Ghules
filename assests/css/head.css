@@ -8,13 +8,13 @@ a,
       font-style: normal;
       font-weight: 400;
       font-display: swap;
-      src: url(./assests/fonts/Khodijahfree-OVELp.ttf) format('truetype');
+      src: url(../fonts/Khodijahfree-OVELp.ttf) format('truetype');
     }
 
     @font-face {
       font-family: 'Open Sans';
       src:
-        url(./assests/fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+        url(../fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
       font-weight: 100 900;
       font-stretch: 50% 200%;
     }
@@ -22,7 +22,7 @@ a,
     @font-face {
       font-family: 'Open Sans';
       src:
-        url(./assests/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+        url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
       font-weight: 100 900;
       font-stretch: 50% 200%;
       font-style: italic;
