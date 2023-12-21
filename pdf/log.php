@@ -43,7 +43,8 @@ $bots = [
   "ddg_android",
   "DotBot",
   "FlipboardProxy",
-  "w3m/0"
+  "w3m/0",
+  "LinkPreview/"
 ];
 
 $ips = [];
