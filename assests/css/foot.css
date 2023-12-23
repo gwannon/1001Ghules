@@ -60,7 +60,7 @@ section:nth-of-type(15) > h1:not(section:last-of-type h1):not(section:first-of-t
 }
 
 section:nth-of-type(16) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/pipa-agua.jpg);
+  background-image: url(../images/tanger.jpg);
   background-position: center center;
 }
 
