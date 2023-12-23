@@ -44,6 +44,11 @@ section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-t
   background-size: 120% auto;
 }
 
+section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/pipa-agua.jpg);
+  background-position: center top;
+}
+
 section:last-of-type {
   min-height: 100vh;
   padding-top: var(--margin);
