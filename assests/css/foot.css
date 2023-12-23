@@ -46,7 +46,7 @@ section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-t
 
 section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/pipa-agua.jpg);
-  background-position: center top;
+  background-position: center center;
 }
 
 section:last-of-type {
