@@ -49,6 +49,21 @@ section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-t
   background-position: center center;
 }
 
+section:nth-of-type(14) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/en-desierto.jpg);
+  background-position: center center;
+}
+
+section:nth-of-type(15) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/pipa-agua.jpg);
+  background-position: center center;
+}
+
+section:nth-of-type(16) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/pipa-agua.jpg);
+  background-position: center center;
+}
+
 section:last-of-type {
   min-height: 100vh;
   padding-top: var(--margin);
