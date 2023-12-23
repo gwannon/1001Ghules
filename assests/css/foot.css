@@ -51,11 +51,11 @@ section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-t
 
 section:nth-of-type(14) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/en-desierto.jpg);
-  background-position: center center;
+  background-position: center right;
 }
 
 section:nth-of-type(15) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/pipa-agua.jpg);
+  background-image: url(../images/arbol-cantor.jpg);
   background-position: center center;
 }
 
