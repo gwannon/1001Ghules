@@ -5,7 +5,14 @@ Fecha estimada de publicación: Febrero 2024
 
 ## Versiones
 
-### 0.4 En desarrollo
+### 0.5 En desarrollo
+
+### 0.4 26/12/2023
+* Montada toda la estructura.
+* Nuevos PNJ
+* Epílogo terminado
+* Portadas de secciones montadas
+* Toda la estructura de secciones, subsecciones, apartados, etc. terminada.
 
 ### 0.3 09/12/2023
 * Maquetados Tesoros
