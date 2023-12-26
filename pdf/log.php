@@ -44,7 +44,8 @@ $bots = [
   "DotBot",
   "FlipboardProxy",
   "w3m/0",
-  "LinkPreview/"
+  "LinkPreview/",
+  "panscient.com"
 ];
 
 $ips = [];
