@@ -18,7 +18,7 @@ $(document).ready(function () {
     currentDiv = Math.floor(counter / step) + 1;
   });
 
-  $("a[href=#*]").click(function () {
+  $('a[href$="#"]').click(function () {
     $('html,body').animate({
       scrollTop: $($(this).attr("href")).offset().top
     }, 'fast');
