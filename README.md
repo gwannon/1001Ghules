@@ -3,9 +3,15 @@ Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los 
 
 Fecha estimada de publicación: Febrero 2024
 
+[Paǵina web](https://1001ghules.gwannon.com)
+
+[Versión PDF](https://1001ghules.gwannon.com/pdf/)
+
 ## Versiones
 
 ### 0.5 En desarrollo
+- Nuevos PNJ
+- Nueva localización - El Valle de los Diamantes
 
 ### 0.4 26/12/2023
 * Montada toda la estructura.
