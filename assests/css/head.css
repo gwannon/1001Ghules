@@ -193,7 +193,7 @@ a,
       background-color: #cfd9d6;
       margin-left: calc(var(--margin) + var(--patternsize));
       margin-right: calc(var(--margin) + var(--patternsize));
-      margin-top: calc(var(--patternsize) * 2);
+      margin-top: calc(var(--patternsize) * 0.8);
       margin-bottom: calc(var(--patternsize) * 2);
       position: relative;
     }
