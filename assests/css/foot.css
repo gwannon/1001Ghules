@@ -17,7 +17,7 @@ section:nth-of-type(6) > h1:not(section:last-of-type h1):not(section:first-of-ty
 }
 
 section:nth-of-type(7) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/alfombra-voladora.jpg);
+  background-image: url(../images/alquimia.jpg);
 }
 
 section:nth-of-type(8) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
@@ -45,8 +45,9 @@ section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-t
 }
 
 section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/pipa-agua.jpg);
-  background-position: center center;
+  background-image: url(../images/alfombra-voladora.jpg);
+  /*background-image: url(../images/pipa-agua.jpg);
+  background-position: center center;*/
 }
 
 section:nth-of-type(14) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
