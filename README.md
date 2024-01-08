@@ -10,8 +10,9 @@ Fecha estimada de publicación: Febrero 2024
 ## Versiones
 
 ### 0.5 En desarrollo
-- Nuevos PNJ
-- Nueva localización - El Valle de los Diamantes
+* Nuevos PNJ
+* Nueva localización - El Valle de los Diamantes
+* Sección de Objetos magicos terminada y Tesoros Míticos casi terminada.
 
 ### 0.4 26/12/2023
 * Montada toda la estructura.
