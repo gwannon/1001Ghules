@@ -345,10 +345,10 @@ body > section {
 .likeH3 {
   display: block;
   cursor: pointer;
-  margin: 0 0 3px 0;
+  margin: 0 0 1px 0;
   text-decoration: none;
   font-size: .8em;
-  max-height: 15px;
+  max-height: 17px;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
