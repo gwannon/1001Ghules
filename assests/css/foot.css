@@ -278,7 +278,7 @@ body > section {
     page-break-before: always;
     height: 1px;
     background-color: transparent;
-    opacity: 0;
+    opacity: o;
   }
 
   li.saltopagina {
@@ -333,10 +333,11 @@ body > section {
     display: none;
   }
 }
-
-body>section:nth-of-type(3) div:not(body>section:nth-of-type(3) div:last-of-type) {
-  padding: 0;
-  min-height: 1021px;
+@media screen {
+  body>section:nth-of-type(3) div:not(body>section:nth-of-type(3) div:last-of-type) {
+    min-height: 992px;
+    padding: 0;
+  }
 }
 
 .likeH1,
@@ -346,8 +347,8 @@ body>section:nth-of-type(3) div:not(body>section:nth-of-type(3) div:last-of-type
   cursor: pointer;
   margin: 0 0 3px 0;
   text-decoration: none;
-  font-size: .6em;
-  max-height: 13px;
+  font-size: .8em;
+  max-height: 15px;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
@@ -484,4 +485,35 @@ a.download:hover {
 
 .twocol li {
   width: calc(50% - 5px);
+}
+
+
+
+
+
+/* Indice */
+
+
+@media print {
+  body>section:nth-of-type(3) {
+    display: flex;
+    gap: 0px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;
+    padding: 0 var(--margin) ;
+  }
+  
+  body>section:nth-of-type(3)>div {
+    padding-top: var(--margin);
+    width: 50%;
+    margin: 0;
+  }
+
+  body>section:nth-of-type(3) .saltopagina {
+    width: 100%;
+  }
 }
