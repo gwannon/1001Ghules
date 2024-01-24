@@ -9,10 +9,16 @@ Fecha estimada de publicación: Febrero 2024
 
 ## Versiones
 
-### 0.5 En desarrollo
+### 0.5.1 En desarrollo
+
+### 0.5 2024/01/24
 * Nuevos PNJ
-* Nueva localización - El Valle de los Diamantes
+* Nueva localización terminada - El Valle de los Diamantes
+* Nueva localización terminada - La ciudad sin nombre
+* Nueva localización terminada - El hammam de las delicias
+
 * Sección de Objetos magicos terminada y Tesoros Míticos casi terminada.
+* Relato salvaje terminado: Los encuentros de Al-Rashid en el puente de Bagdad
 
 ### 0.4 26/12/2023
 * Montada toda la estructura.
