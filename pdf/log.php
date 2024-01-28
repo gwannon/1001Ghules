@@ -49,7 +49,8 @@ $bots = [
   "fedistatsCrawler",
   "AwarioBot",
   "Cardyb/",
-  "Amazonbot"
+  "Amazonbot",
+  "website-datenbank.de"
 ];
 
 $ips = [];
