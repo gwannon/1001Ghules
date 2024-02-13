@@ -50,7 +50,8 @@ $bots = [
   "AwarioBot",
   "Cardyb/",
   "Amazonbot",
-  "website-datenbank.de"
+  "website-datenbank.de",
+  "NetBSD alpha",
 ];
 
 $ips = [];
