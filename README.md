@@ -9,14 +9,25 @@ Fecha estimada de publicación: Febrero 2024
 
 ## Versiones
 
-### 0.5.1 En desarrollo
+### 0.6 En desarrollo
+
+### 0.5.1 2024/02/15
+* Relato salvaje terminado: Historia de la noche en el cementerio
+* Relato salvaje terminado: El shatranj de Soleimán: Historia del mielero (I)
+* Relato salvaje terminado: El shatranj de Soleimán: Historia del las piezas de ébano del shatranj (II)
+* Relato salvaje terminado: El festival del Chaharshanbe Surí
+* Relato salvaje terminado: La paloma mensajera
+* Nueva localización terminada:  La Montaña del Imán
+* Sección de Poderes y hechizos terminada.
+* Tesoros y objetos mágicos.
+* Guia de viajes Arabia/Persia: Acre, Masada, Zigurat de Ur, Petra, Las Ciudades de Perlas del Golfo Pérsico
+* Guia de viajes Egipto: Khan Al-Gaonalí, El rio Nilo
 
 ### 0.5 2024/01/24
 * Nuevos PNJ
-* Nueva localización terminada - El Valle de los Diamantes
-* Nueva localización terminada - La ciudad sin nombre
-* Nueva localización terminada - El hammam de las delicias
-
+* Nueva localización terminada: El Valle de los Diamantes
+* Nueva localización terminada: La ciudad sin nombre
+* Nueva localización terminada: El hammam de las delicias
 * Sección de Objetos magicos terminada y Tesoros Míticos casi terminada.
 * Relato salvaje terminado: Los encuentros de Al-Rashid en el puente de Bagdad
 
