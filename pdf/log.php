@@ -52,6 +52,7 @@ $bots = [
   "Amazonbot",
   "website-datenbank.de",
   "NetBSD alpha",
+  "LivelapBot/0.2",
 ];
 
 $ips = [];
