@@ -10,6 +10,7 @@ Fecha estimada de publicación: Febrero 2024
 ## Versiones
 
 ### 0.6 En desarrollo
+* Guia de viajes Egipto: Lago Karún
 
 ### 0.5.1 2024/02/15
 * Relato salvaje terminado: Historia de la noche en el cementerio
