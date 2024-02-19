@@ -13,6 +13,9 @@ Fecha estimada de publicación: Febrero 2024
 * Guia de viajes Egipto: Lago Karún
 * Nueva ventaja: Maquillaje
 * Nuevo objeto mítico: Tesoro de Al-Schamardal
+* Descripción secta terminada: La Mano Dorada de Suc'Naath
+* Descripción secta terminada: La progenie de la Luna Creciente
+* Descripción secta terminada: Seguidores del Fuego y de la Luz
 
 ### 0.5.1 2024/02/15
 * Relato salvaje terminado: Historia de la noche en el cementerio
