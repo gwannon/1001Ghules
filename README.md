@@ -9,7 +9,9 @@ Fecha estimada de publicación: Febrero 2024
 
 ## Versiones
 
-### 0.6 En desarrollo
+### 0.6.1 En desarrollo
+
+### 0.6 2024/02/04
 * Guia de viajes Egipto: Lago Karún
 * Nueva ventaja: Maquillaje
 * Nuevo objeto mítico: Tesoro de Al-Schamardal
