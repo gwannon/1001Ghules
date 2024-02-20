@@ -16,6 +16,7 @@ Fecha estimada de publicación: Febrero 2024
 * Descripción secta terminada: La Mano Dorada de Suc'Naath
 * Descripción secta terminada: La progenie de la Luna Creciente
 * Descripción secta terminada: Seguidores del Fuego y de la Luz
+* Sección terminada: Personas notables de la ciudad
 
 ### 0.5.1 2024/02/15
 * Relato salvaje terminado: Historia de la noche en el cementerio
