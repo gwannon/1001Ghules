@@ -10,6 +10,10 @@ Fecha estimada de publicación: Febrero 2024
 ## Versiones
 
 ### 0.6.1 En desarrollo
+* Descripción secta terminada: Secta del cuarenta
+* Sección terminada: Viajes y comercio
+* Sección terminada: Magia Sihr
+* Sección terminada: Maldiciones
 
 ### 0.6 2024/02/04
 * Guia de viajes Egipto: Lago Karún
