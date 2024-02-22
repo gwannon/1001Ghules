@@ -14,6 +14,7 @@ Fecha estimada de publicación: Febrero 2024
 * Sección terminada: Viajes y comercio
 * Sección terminada: Magia Sihr
 * Sección terminada: Maldiciones
+* Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
 
 ### 0.6 2024/02/04
 * Guia de viajes Egipto: Lago Karún
