@@ -10,13 +10,15 @@ Fecha estimada de publicación: Febrero 2024
 ## Versiones
 
 ### 0.6.1 En desarrollo
+* Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
 * Descripción secta terminada: Secta del cuarenta
 * Sección terminada: Viajes y comercio
 * Sección terminada: Magia Sihr
 * Sección terminada: Maldiciones
-* Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
+* Sección terminada: Sexualidad, poligamia y divorcio
+* Sección terminada: Gastronomia
 
-### 0.6 2024/02/04
+### 0.6 2024/02/20
 * Guia de viajes Egipto: Lago Karún
 * Nueva ventaja: Maquillaje
 * Nuevo objeto mítico: Tesoro de Al-Schamardal
