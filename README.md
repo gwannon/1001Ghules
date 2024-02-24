@@ -12,11 +12,12 @@ Fecha estimada de publicación: Febrero 2024
 ### 0.6.1 En desarrollo
 * Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
 * Descripción secta terminada: Secta del cuarenta
+* Sección terminada: Gastronomia
 * Sección terminada: Viajes y comercio
+* Sección terminada: Sexualidad, poligamia y divorcio
+
 * Sección terminada: Magia Sihr
 * Sección terminada: Maldiciones
-* Sección terminada: Sexualidad, poligamia y divorcio
-* Sección terminada: Gastronomia
 
 ### 0.6 2024/02/20
 * Guia de viajes Egipto: Lago Karún
