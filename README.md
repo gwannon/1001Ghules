@@ -16,9 +16,7 @@ Fecha estimada de publicación: Febrero 2024
 * Sección terminada: Viajes y comercio
 * Sección terminada: Sexualidad, poligamia y divorcio
 * Nuevo monstruo: Color que cayo del cielo
-
-* Sección terminada: Magia Sihr
-* Sección terminada: Maldiciones
+* Nuevo monstruo: Habitantes de la Ciudad Sin Nombre
 
 ### 0.6 2024/02/20
 * Guia de viajes Egipto: Lago Karún
