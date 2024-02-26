@@ -17,6 +17,7 @@ Fecha estimada de publicación: Febrero 2024
 * Sección terminada: Sexualidad, poligamia y divorcio
 * Nuevo monstruo: Color que cayo del cielo
 * Nuevo monstruo: Habitantes de la Ciudad Sin Nombre
+* Nueva localización: La ciudad sin nombre
 
 ### 0.6 2024/02/20
 * Guia de viajes Egipto: Lago Karún
