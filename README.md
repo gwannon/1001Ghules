@@ -17,7 +17,10 @@ Fecha estimada de publicación: Febrero 2024
 * Sección terminada: Sexualidad, poligamia y divorcio
 * Nuevo monstruo: Color que cayo del cielo
 * Nuevo monstruo: Habitantes de la Ciudad Sin Nombre
+* Nuevo monstruo: Lengnita
+* Nuevo monstruo: Falak
 * Nueva localización: La ciudad sin nombre
+* Nueva sección de ambientación: Tierra de lso Sueños
 
 ### 0.6 2024/02/20
 * Guia de viajes Egipto: Lago Karún
