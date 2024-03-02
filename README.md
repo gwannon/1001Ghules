@@ -10,7 +10,8 @@ Fecha estimada de publicación: Febrero 2024
 ## Versiones
 
 ### 0.6.2
-* Para terminar: Falak, Sukaan, Ave de Rokh, Qatram, Nasnas, Davalpa, Serpigente, Lengnita
+* Monstruo terminado: Falak
+* Para terminar: Sukaan, Ave de Rokh, Qatram, Nasnas, Davalpa, Serpigente, Lengnita
 
 ### 0.6.1 02/03/2024
 * Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
