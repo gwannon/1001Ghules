@@ -9,7 +9,10 @@ Fecha estimada de publicación: Febrero 2024
 
 ## Versiones
 
-### 0.6.1 En desarrollo
+### 0.6.2
+* Para terminar: Falak, Sukaan, Ave de Rokh, Qatram, Nasnas, Davalpa, Serpigente, Lengnita
+
+### 0.6.1 02/03/2024
 * Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
 * Descripción secta terminada: Secta del cuarenta
 * Sección terminada: Gastronomia
@@ -19,6 +22,7 @@ Fecha estimada de publicación: Febrero 2024
 * Nuevo monstruo: Habitantes de la Ciudad Sin Nombre
 * Nuevo monstruo: Lengnita
 * Nuevo monstruo: Falak
+* Nuevo monstruo: Jann
 * Nueva localización: La ciudad sin nombre
 * Nueva sección de ambientación: Tierra de lso Sueños
 
