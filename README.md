@@ -7,14 +7,21 @@ Fecha estimada de publicación: Febrero 2024
 
 [Versión PDF](https://1001ghules.gwannon.com/pdf/)
 
+## Planificación versiones:
+* Ver. 6: Monstruos, Guía de viajes y Lugares míticos
+* Ver. 7: PNJs y Bagdad
+* Ver. 8: Aventuras
+* Ver. 9: Ambientación general, magía, paginación y correcciones
+
 ## Versiones
 
 ### 0.6.2
-* Monstruo terminado: Falak
+* Monstruo terminado: Falak y Falak menor
 * Monstruo terminado: Ave de Rokh
 * Monstruo terminado: Qatram
 * Monstruo terminado: Nasnas
-* Para terminar: Falak menor, Sukaan, Davalpa, Serpigente, Lengnita
+* Monstruo terminado: Lengnita
+* Para terminar: Sukaan, Davalpa, Serpigente
 
 ### 0.6.1 02/03/2024
 * Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
