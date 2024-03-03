@@ -16,12 +16,11 @@ Fecha estimada de publicación: Febrero 2024
 ## Versiones
 
 ### 0.6.2
-* Monstruo terminado: Falak y Falak menor
-* Monstruo terminado: Ave de Rokh
-* Monstruo terminado: Qatram
-* Monstruo terminado: Nasnas
-* Monstruo terminado: Lengnita
-* Para terminar: Sukaan, Davalpa, Serpigente
+* Monstruos terminados: Falak y Falak menor, Ave de Rokh, Qatram, Nasnas, Lengnita, Viejo del Mar, Serpigente
+* Para terminar monstruos: Sukaan
+* Para terminar lugarers míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares, La ciudad de G'harne
+* Para terminar guía de viajes: Arabia y Persia, Egipto, Magreb, China e India
+
 
 ### 0.6.1 02/03/2024
 * Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
