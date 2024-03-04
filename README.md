@@ -17,8 +17,9 @@ Fecha estimada de publicación: Febrero 2024
 
 ### 0.6.2
 * Monstruos terminados: Falak y Falak menor, Ave de Rokh, Qatram, Nasnas, Lengnita, Viejo del Mar, Serpigente, Sukaan
+* Gúia de viajes terminada: Basora
 * Para terminar lugarers míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares, La ciudad de G'harne
-* Para terminar guía de viajes: Arabia y Persia, Egipto, Magreb, China e India
+* Para terminar guía de viajes: Arabia y Persia (Alepo, Mosul y Jerusalem), Egipto (El Cairo, El-Iskandaria y Khaitán), Magreb (Miknas), China e India
 
 
 ### 0.6.1 02/03/2024
