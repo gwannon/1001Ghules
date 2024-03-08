@@ -1,7 +1,7 @@
 # Mil y Un Ghūles
 Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los relatos de horror cósmico que Scheherazade conto al sultán Shahriar durante 1001 noches.
 
-Fecha estimada de publicación: Febrero 2024
+Fecha estimada de publicación: Marzo 2024
 
 [Paǵina web](https://1001ghules.gwannon.com)
 
@@ -15,12 +15,13 @@ Fecha estimada de publicación: Febrero 2024
 
 ## Versiones
 
-### 0.6.2
-* Monstruos terminados: Falak y Falak menor, Ave de Rokh, Qatram, Nasnas, Lengnita, Viejo del Mar, Serpigente, Sukaan
-* Gúia de viajes terminada: Basora, Mosul, Alepo, Damasco, Khaitán, El-Iskandaria
+### 0.6.3 En desarrollo
 * Para terminar lugarers míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares, La ciudad de G'harne
-* Para terminar guía de viajes: El Cairo (Egipto), Miknas (Magreb), China e India
+* Para terminar guía de viajes: Miknas (Magreb), China e India
 
+### 0.6.2 08/03/2024
+* Monstruos terminados: Falak y Falak menor, Ave de Rokh, Qatram, Nasnas, Lengnita, Viejo del Mar, Serpigente, Sukaan
+* Gúia de viajes terminada: El Cairo, Basora, Mosul, Alepo, Damasco, Khaitán, El-Iskandaria
 
 ### 0.6.1 02/03/2024
 * Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
