@@ -16,8 +16,10 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.6.3 En desarrollo
-* Para terminar lugarers míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares, La ciudad de G'harne
-* Para terminar guía de viajes: Miknas (Magreb), China e India
+* Lugares míticos terminados: La ciudad de G'harne
+* Gúia de viajes terminada: China e India
+* Para terminar lugares míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
+* Para terminar guía de viajes: Miknas (Magreb)
 
 ### 0.6.2 08/03/2024
 * Monstruos terminados: Falak y Falak menor, Ave de Rokh, Qatram, Nasnas, Lengnita, Viejo del Mar, Serpigente, Sukaan
