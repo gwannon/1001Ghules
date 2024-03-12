@@ -17,7 +17,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.6.3 En desarrollo
 * Lugares míticos terminados: La ciudad de G'harne
-* Gúia de viajes terminada: China e India
+* Gúia de viajes terminada: China e India, Egipto y la serpigente
 * Para terminar lugares míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
 * Para terminar guía de viajes: Miknas (Magreb)
 
