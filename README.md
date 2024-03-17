@@ -19,7 +19,6 @@ Fecha estimada de publicación: Marzo 2024
 * Terminado magia: Maldiciones
 * Para terminar lugares míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
 
-
 ### 0.6.3 16/03/2024
 * Lugares míticos terminados: La ciudad de G'harne
 * Gúia de viajes terminada: China e India, Egipto y la serpigente, Miknas

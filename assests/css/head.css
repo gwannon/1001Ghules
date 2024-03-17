@@ -40,9 +40,9 @@ a,
       --margin: 45px;
     }
 
-    html {
+    /*html {
       scroll-behavior: smooth;
-    }
+    }*/
 
     body {
       font-family: 'Open Sans', sans-serif;
