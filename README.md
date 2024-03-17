@@ -16,7 +16,7 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.6.4 En desarrollo
-* Para terminar magia: Maldiciones
+* Terminado magia: Maldiciones
 * Para terminar lugares míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
 
 
