@@ -17,7 +17,8 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.6.4 En desarrollo
 * Terminado magia: Maldiciones
-* TErminado lugares de Bagdad: Babilonia
+* Terminado lugares de Bagdad: Babilonia
+* Terminado personaje: Alura
 
 ### 0.6.3 16/03/2024
 * Lugares míticos terminados: La ciudad de G'harne
