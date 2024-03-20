@@ -8,14 +8,17 @@ Fecha estimada de publicación: Marzo 2024
 [Versión PDF](https://1001ghules.gwannon.com/pdf/)
 
 ## Planificación versiones:
-* Ver. 6: Monstruos, Guía de viajes y Lugares míticos (Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares)
-* Ver. 7: PNJs y Bagdad
-* Ver. 8: Aventuras
+* Ver. 7: 
+* Ver. 8: PNJs y Bagdad
 * Ver. 9: Ambientación general, magía, paginación y correcciones
 
 ## Versiones
 
-### 0.6.4 En desarrollo
+### 0.7 En desarrollo
+* Para terminar Lugares míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
+* Para terminar aventuras
+
+### 0.6.4 20/03/2024
 * Terminado magia: Maldiciones
 * Terminado lugares de Bagdad: Babilonia
 * Terminado personaje: Alura
