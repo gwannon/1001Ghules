@@ -15,8 +15,9 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.7 En desarrollo
-* Para terminar Lugares míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
-* Para terminar Bagdad: Muralla, Bazar y Babs
+* Bagdad terminado: Ciudad Circular, Muralla y Bazar
+* Para terminar Lugares Míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
+* Para terminar Bagdad: Babs
 
 ### 0.6.4 20/03/2024
 * Terminado magia: Maldiciones
