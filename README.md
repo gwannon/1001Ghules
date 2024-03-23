@@ -8,14 +8,16 @@ Fecha estimada de publicación: Marzo 2024
 [Versión PDF](https://1001ghules.gwannon.com/pdf/)
 
 ## Planificación versiones:
-* Ver. 7: Bagdad y Lugares míticos
+* Ver. 7: Lugares míticos
 * Ver. 8: PNJs y Aventuras
 * Ver. 9: Ambientación general, magía, paginación y correcciones
 
 ## Versiones
 
 ### 0.7 En desarrollo
-* Bagdad terminado: Ciudad Circular, Muralla y Bazar, Babs
+* Localizaciones de Bagdad terminadas: Ciudad Circular, Muralla y Bazar, Babs
+* Ambientación general terminada: Rutas comerciales
+* Para terminar localizaciones de Bagdad: El pequeño consejo
 * Para terminar Lugares Míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
 
 ### 0.6.4 20/03/2024
