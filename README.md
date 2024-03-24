@@ -10,13 +10,14 @@ Fecha estimada de publicación: Marzo 2024
 ## Planificación versiones:
 * Ver. 7: Lugares míticos
 * Ver. 8: PNJs y Aventuras
-* Ver. 9: Ambientación general, magía, paginación y correcciones
+* Ver. 9: Ambientación general, paginación y correcciones
 
 ## Versiones
 
 ### 0.7 En desarrollo
 * Localizaciones de Bagdad terminadas: Ciudad Circular, Muralla y Bazar, Babs, El pequeño consejo
-* Ambientación general terminada: Rutas comerciales
+* Ambientación general terminada: Rutas comerciale
+* Reglas terminadas: Magia
 * Para terminar Lugares Míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
 
 ### 0.6.4 20/03/2024
