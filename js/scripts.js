@@ -1,6 +1,6 @@
 $(document).ready(function () {
   var counter = 0;
-  let step = 50;
+  let step = 56;
   var currentDiv = 1;
 
   $("body>section h1, body>section h2, body>section h3")
