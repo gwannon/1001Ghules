@@ -14,11 +14,13 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Versiones
 
-### 0.7 En desarrollo
-* Localizaciones de Bagdad terminadas: Ciudad Circular, Muralla y Bazar, Babs, El pequeño consejo
-* Ambientación general terminada: Rutas comerciale
-* Reglas terminadas: Magia
+### 0.7.1 En desarrollo
 * Para terminar Lugares Míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
+
+### 0.7 25/03/2024
+* Localizaciones de Bagdad terminadas: Ciudad Circular, Muralla y Bazar, Babs, El pequeño consejo
+* Ambientación general terminada: Rutas comerciales
+* Reglas terminadas: Magia
 
 ### 0.6.4 20/03/2024
 * Terminado magia: Maldiciones
