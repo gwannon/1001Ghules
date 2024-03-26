@@ -15,8 +15,9 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.7.1 En desarrollo
-*;Relatos terminados: Historia de la cuchara mágica
-* Para terminar Lugares Míticos: Aram-de-las-columnas, Las islas Al-Wakwak, La Isla de los Siete Mares
+* Relatos terminados: Historia de la cuchara mágica
+* Lugares Míticos terminados: Aram-de-las-columnas
+* Para terminar Lugares Míticos: Las islas Al-Wakwak, La Isla de los Siete Mares
 
 ### 0.7 25/03/2024
 * Localizaciones de Bagdad terminadas: Ciudad Circular, Muralla y Bazar, Babs, El pequeño consejo
