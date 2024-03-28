@@ -11,16 +11,16 @@ Fecha estimada de publicación: Marzo 2024
 * Lugares Míticos: Las islas Al-Wakwak, 
 
 ## Planificación versiones:
-* Ver. 0.7: Lugares míticos
 * Ver. 0.8: PNJs y Aventuras
 * Ver. 0.9: Ambientación general, paginación y correcciones
 
 ## Versiones
 
-### 0.7.1 28/03/2024
+### 0.8 En desarrollo
+
+### 0.7.1 29/03/2024
 * Relatos terminados: Historia de la cuchara mágica
 * Lugares Míticos terminados: Aram-de-las-columnas, La Isla de los Siete Mares
-
 
 ### 0.7 25/03/2024
 * Localizaciones de Bagdad terminadas: Ciudad Circular, Muralla y Bazar, Babs, El pequeño consejo
