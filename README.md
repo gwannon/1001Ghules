@@ -17,6 +17,54 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.8 En desarrollo
+* El Pequeño Consejo
+  * El shatranj de Soleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
+  * El shatranj de Soleimán: Historia de como el Califa se preparó para la guerra (IV)
+  * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
+  * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
+  * Historia de la casa encantada en el zoco de los tejedores
+  * Historia del dibujante de Laylays
+  * Historia del morshed malvado
+  * Historia del yinn encerrado en la casa de las fieras
+  * TERMINADO: Historia del gran robo del hielo del Califa
+  * Historia de la locura del almotacén
+  * Historia del asesino de Suc'Naath
+* Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
+  * La expedición
+  * Se buscan valientes
+  * Empieza el viaje
+  * 1ª etapa. Damasco - Gaza
+  * 2ª etapa. Gaza - Península del Sinaí
+  * 3ª etapa. Península del Sinaí - El Cairo
+  * 4ª etapa. El Cairo - Alejandría
+  * 5ª etapa. Alejandría - Sahara
+  * 6ª etapa. Sahara
+  * Adentrandose en lo desconocido
+  * 7ª etapa. Terreno desconocido
+  * 8ª etapa. Terreno desconocido
+  * La estatua ecuestre
+  * Entrando en la ciudad
+  * Explorando la ciudad
+  * Rompiendo la maldición
+* La llegada del cometa
+  * Aparece la maga
+  * Las ruinas de Babilonia
+  * Para hacer una tortilla hay que romper huevos
+  * La crianza del Rokh
+  * Prestamo de libros
+  * La traición
+  * A las estrellas
+* La caida de Giafar
+  * La cuenta atrás
+  * Cómo empezar
+  * Fatima se retira
+  * Escogidos para la gloria
+* El viajero del tiempo
+* Buscando la inmortalidad
+* La vida se abre camino...
+* El alcazar en las nubes
+* Sepultureros
+* El coral surgido del espacio
 
 ### 0.7.1 29/03/2024
 * Relatos terminados: Historia de la cuchara mágica

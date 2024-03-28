@@ -7,7 +7,7 @@ $html = explode("\n", removeHtmlComments($matches[1]));
 $lines = [];
 foreach($html as $line) {
   $line = cleanLine($line);
-  if(preg_match("/(<h1>|likeh1|<h2>|<h3>|<h4>|saltopagina)/", $line)) $lines[] = $line;
+  if(preg_match("/(<h1>|likeh1|<h2|<h3|<h4|saltopagina)/", $line)) $lines[] = $line;
 }
 $counter = 1;
 echo "BookmarkBegin\n";
@@ -21,19 +21,19 @@ foreach($lines as $line) {
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 1\n";
     echo "BookmarkPageNumber: {$counter}\n";
-  } else if(preg_match("/<h2>/", $line)) {
+  } else if(preg_match("/<h2/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 2\n";
     echo "BookmarkPageNumber: {$counter}\n";
-  } else if(preg_match("/<h3>/", $line)) {
+  } else if(preg_match("/<h3/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 3\n";
     echo "BookmarkPageNumber: {$counter}\n";
-  } else if(preg_match("/<h4>/", $line)) {
+  } else if(preg_match("/<h4/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
