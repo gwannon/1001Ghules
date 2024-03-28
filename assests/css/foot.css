@@ -338,6 +338,9 @@ body > section {
     min-height: 972px;
     padding: 0;
   }
+  blockquote + div.saltopagina + blockquote {
+    border-top: none; margin-top: -50px;
+  }
 }
 
 .likeH1,
@@ -528,3 +531,4 @@ p.caption {
   font-size: 1.1em;
   text-align: center;
 }
+
