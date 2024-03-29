@@ -18,7 +18,6 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.8 En desarrollo
 * El Pequeño Consejo
-  * TERMINADO: El shatranj de Soleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
   * El shatranj de Soleimán: Historia de como el Califa se preparó para la guerra (IV)
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
@@ -26,7 +25,6 @@ Fecha estimada de publicación: Marzo 2024
   * Historia del dibujante de Laylays
   * Historia del morshed malvado
   * Historia del yinn encerrado en la casa de las fieras
-  * TERMINADO: Historia del gran robo del hielo del Califa
   * Historia de la locura del almotacén
   * Historia del asesino de Suc'Naath
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
@@ -59,7 +57,6 @@ Fecha estimada de publicación: Marzo 2024
   * Cómo empezar
   * Fatima se retira
   * Escogidos para la gloria
-* El viajero del tiempo
 * Buscando la inmortalidad
 * La vida se abre camino...
 * El alcazar en las nubes
