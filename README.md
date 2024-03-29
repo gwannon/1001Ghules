@@ -18,7 +18,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.8 En desarrollo
 * El Pequeño Consejo
-  * El shatranj de Soleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
+  * TERMINADO: El shatranj de Soleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
   * El shatranj de Soleimán: Historia de como el Califa se preparó para la guerra (IV)
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
