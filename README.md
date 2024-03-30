@@ -52,8 +52,6 @@ Fecha estimada de publicación: Marzo 2024
   * La traición
   * A las estrellas
 * La caida de Giafar
-  * La cuenta atrás
-  * Cómo empezar
   * Fatima se retira
   * Escogidos para la gloria
 * Buscando la inmortalidad
