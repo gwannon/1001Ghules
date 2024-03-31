@@ -23,7 +23,6 @@ Fecha estimada de publicación: Marzo 2024
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
   * Historia de la casa encantada en el zoco de los tejedores
   * Historia del morshed malvado
-  * Historia del yinn encerrado en la casa de las fieras
   * Historia de la locura del almotacén
   * Historia del asesino de Suc'Naath
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
@@ -56,7 +55,6 @@ Fecha estimada de publicación: Marzo 2024
   * Escogidos para la gloria
 * Buscando la inmortalidad
 * La vida se abre camino...
-* El alcazar en las nubes
 * Sepultureros
 * El coral surgido del espacio
 
