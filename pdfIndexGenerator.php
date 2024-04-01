@@ -1,8 +1,13 @@
 <?php
+/*preg_match("/<body[^>]*>(.*?)<\/body>/is", file_get_contents('index.html'), $matches);
+print_r ($matches);
+die;*/
+$doc = new DOMDocument();
+$doc->loadHTMLFile("index.html");
+$body = $doc->getElementsByTagName('body');
+$body = $body->item(0);
 
-preg_match("/<body[^>]*>(.*?)<\/body>/is", file_get_contents('index.html'), $matches);
-
-$html = explode("\n", removeHtmlComments($matches[1]));
+$html = explode("\n", removeHtmlComments($doc->savehtml($body)));
 
 $lines = [];
 foreach($html as $line) {

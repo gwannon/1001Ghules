@@ -53,7 +53,6 @@ Fecha estimada de publicación: Marzo 2024
   * Fatima se retira
   * Escogidos para la gloria
 * Buscando la inmortalidad
-* La vida se abre camino...
 * Sepultureros
 * El coral surgido del espacio
 
