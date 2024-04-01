@@ -43,11 +43,10 @@ Fecha estimada de publicación: Marzo 2024
   * Explorando la ciudad
   * Rompiendo la maldición
 * La llegada del cometa
-  * Aparece la maga
-  * Las ruinas de Babilonia
   * Para hacer una tortilla hay que romper huevos
   * La crianza del Rokh
   * Prestamo de libros
+  * Consultando a la estrellas
   * La traición
   * A las estrellas
 * La caida de Giafar
