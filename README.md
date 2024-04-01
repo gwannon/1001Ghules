@@ -17,6 +17,27 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.8 En desarrollo
+
+#### PNJ
+* Harún Al-Raschid, Califa de Bagdad ☾
+* Sett Zobeida, Califesa de Bagdad ☾
+* Giafar al-Barmak, gran visir del califa de Bagdad ☾
+* Fatima, líder del Pequeño Consejo ☾
+* Princesa Alya de Damasco, líder de la segunda expidición a la Ciudad de Bronce ☾
+* Muhammad al-Lawati, explorador principal de la segunda expidición a la Ciudad de Bronce ☾
+* Mahmoud Assy, consejero personal de la princesa Alya de Damasco ☾
+* Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
+* Hunayn ibn Ishaq, director de la Casa de la Sabiduría ☾
+* Hachem ben Soleimán, el mejor cantor e interprete de Bagdad ☾
+* ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
+* Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
+* Ahmad-la-Tiña, antiguo criminal y jefe de policia de Bagdad ☾
+* Hassan-la-Peste, antiguo criminal y jefe de policia de Bagdad ☾
+* Ayub Lomo-de-Camello, jefe de los alguaciles de Ahmad-la-Tiña ☾
+* Dalila la taimada, reina de los bajos fondos Bagdad ☾
+* Alí Azogue, el mejor ladrón de Bagdad ☾
+
+#### Aventuras
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Califa se preparó para la guerra (IV)
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
