@@ -12,7 +12,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Planificación versiones:
 * Ver. 0.8: PNJs y Aventuras
-* Ver. 0.9: Ambientación general, paginación y correcciones
+* Ver. 0.9: Ambientación general y correcciones
 
 ## Versiones
 
