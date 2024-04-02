@@ -35,18 +35,21 @@ foreach($lines as $line) {
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 2\n";
     echo "BookmarkPageNumber: {$counter}\n";
+    $json[] = ["title" => $line,"page" => $counter];
   } else if(preg_match("/<h3/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 3\n";
     echo "BookmarkPageNumber: {$counter}\n";
+    $json[] = ["title" => $line,"page" => $counter];
   } else if(preg_match("/<h4/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 4\n";
     echo "BookmarkPageNumber: {$counter}\n";
+    $json[] = ["title" => $line,"page" => $counter];
   } else if(preg_match("/saltopagina/", $line)) {
     $counter++;
   }
