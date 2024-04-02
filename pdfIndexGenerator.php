@@ -6,6 +6,7 @@ $doc = new DOMDocument();
 $doc->loadHTMLFile("index.html");
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
+$json = [];
 
 $html = explode("\n", removeHtmlComments($doc->savehtml($body)));
 
@@ -19,13 +20,15 @@ echo "BookmarkBegin\n";
 echo "BookmarkTitle: Portada\n";
 echo "BookmarkLevel: 1\n";
 echo "BookmarkPageNumber: {$counter}\n";
+$json[] = ["title" => "Portada","page" => $counter];
 foreach($lines as $line) {
-  if(preg_match("/(<h1>|likeh1)/", $line)) {
+  if(preg_match("/(<h1>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 1\n";
     echo "BookmarkPageNumber: {$counter}\n";
+    $json[] = ["title" => $line,"page" => $counter];
   } else if(preg_match("/<h2/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
@@ -53,6 +56,9 @@ echo "BookmarkBegin\n";
 echo "BookmarkTitle: Contraportada\n";
 echo "BookmarkLevel: 1\n";
 echo "BookmarkPageNumber: {$counter}\n";
+$json[] = ["title" => "Contraportada","page" => $counter];
+
+file_put_contents ("./indice.json", json_encode($json));
 
 
 
