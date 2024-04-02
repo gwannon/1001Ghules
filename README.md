@@ -18,8 +18,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.8 En desarrollo
 
-#### PNJ
-* Harún Al-Raschid, Califa de Bagdad ☾
+#### PNJ (16)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
 * Fatima, líder del Pequeño Consejo ☾
@@ -37,7 +36,7 @@ Fecha estimada de publicación: Marzo 2024
 * Dalila la taimada, reina de los bajos fondos Bagdad ☾
 * Alí Azogue, el mejor ladrón de Bagdad ☾
 
-#### Aventuras
+#### Aventuras (34)
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Califa se preparó para la guerra (IV)
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
