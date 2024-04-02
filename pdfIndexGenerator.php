@@ -12,7 +12,7 @@ $html = explode("\n", removeHtmlComments($doc->savehtml($body)));
 $lines = [];
 foreach($html as $line) {
   $line = cleanLine($line);
-  if(preg_match("/(<h1>|likeh1|<h2|<h3|<h4|saltopagina)/", $line)) $lines[] = $line;
+  if(preg_match("/(<h1>|<h2|<h3|<h4|saltopagina)/", $line)) $lines[] = $line;
 }
 $counter = 1;
 echo "BookmarkBegin\n";
