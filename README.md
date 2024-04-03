@@ -11,12 +11,25 @@ Fecha estimada de publicación: Marzo 2024
 * Lugares Míticos: Las islas Al-Wakwak, 
 
 ## Planificación versiones:
-* Ver. 0.8: PNJs y Aventuras
-* Ver. 0.9: Ambientación general y correcciones
+* Ver. 0.8: Ambientación general, PNJs y Aventuras
+* Ver. 0.9: Revisión y correcciones
 
 ## Versiones
 
 ### 0.8 En desarrollo
+
+#### Ambientación
+* Abdul Alhazred
+  * Las mil y una noches de Alhazred
+* Los Yinns
+  * Ghūles
+  * Janns
+  * Al mighos
+  * Abu-Qith
+  * Warams
+  * Qareens
+  * Los yinns y sus posesiones
+  * Forma de actuar
 
 #### PNJ (16)
 * Sett Zobeida, Califesa de Bagdad ☾
