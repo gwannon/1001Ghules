@@ -1,5 +1,5 @@
 <?php
-
+date_default_timezone_set("Europe/Madrid");
 header("Content-Type: text/plain");
 
 $jsons['ArrrCthulhu'] = json_decode(file_get_contents("https://arrrcthulhu.com/pdf/log.php"));
