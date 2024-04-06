@@ -60,6 +60,7 @@ $bots = [
   "OpenGraph.io",
   "trendictionbot",
   "Yeti/",
+  "Friendly_Crawler/",
 ];
 
 $ips = [];
