@@ -87,7 +87,7 @@ a,
 
     @media (min-width: calc(100vh * 0.7)) {
       body>section {
-        max-width: calc(100vh * 0.7);
+        max-width: calc(100vh * 0.8);
         padding: 0px;
       }
 
