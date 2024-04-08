@@ -1,5 +1,7 @@
 <?php
 
+header('Content-Type: application/json; charset=utf-8');
+
 $bots = [
   "facebookexternalhit/1.1",
   "Semanticbot/1.0",
@@ -7,7 +9,7 @@ $bots = [
   "Twitterbot/1.0",
   "SemrushBot/7~bl",
   "bingbot/2.0",
-  "WhatsApp/2",
+  //"WhatsApp/2",
   "BW/1.1",
   "Applebot/0.1",
   "SeznamBot/4.0",
@@ -63,6 +65,11 @@ $bots = [
   "Friendly_Crawler/",
 ];
 
+if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
+  echo json_encode($bots);
+  die;
+}
+
 $ips = [];
 $json["total"] = 0;
 $lines = explode("\n", file_get_contents (__DIR__."/log.txt"));
@@ -79,6 +86,6 @@ foreach ($lines as $line) {
     }
   }
 }
-header('Content-Type: application/json; charset=utf-8');
+
 $json["descargas"] = array_reverse($json["descargas"]);
 echo json_encode($json);
