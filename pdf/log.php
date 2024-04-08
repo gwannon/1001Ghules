@@ -9,7 +9,7 @@ $bots = [
   "Twitterbot/1.0",
   "SemrushBot/7~bl",
   "bingbot/2.0",
-  //"WhatsApp/2",
+  "WhatsApp/2",
   "BW/1.1",
   "Applebot/0.1",
   "SeznamBot/4.0",
