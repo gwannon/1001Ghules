@@ -51,15 +51,6 @@ $(document).ready(function () {
         '"><span>'+pageNumber+'</span>' + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
     }
     currentDiv = Math.floor(counter / step) + 1;
-
-
-    //WordCount
-    var cont = jQuery("body").html();
-    cont = cont.replace(/<[^>]*>/g," ");
-    cont = cont.replace(/\s+/g, ' ');
-    cont = cont.trim();
-    var n = cont.split(" ").length
-    console.log(n+" words");
   });
 
   $('body').on('click', 'a[href^="#anchor"]', function () {
@@ -110,4 +101,13 @@ $(document).ready(function () {
       }
     });
   });
+
+  //WordCount
+  var cont = jQuery("body").html();
+  cont = cont.replace(/<[^>]*>/g," ");
+  cont = cont.replace(/\s+/g, ' ');
+  cont = cont.trim();
+  var n = cont.split(" ").length
+  console.log(n+" words");
+
 });
