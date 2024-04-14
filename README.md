@@ -36,17 +36,15 @@ Fecha estimada de publicación: Marzo 2024
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
 * Fatima, líder del Pequeño Consejo ☾
 * Princesa Alya de Damasco, líder de la segunda expidición a la Ciudad de Bronce ☾
-* Muhammad al-Lawati, explorador principal de la segunda expidición a la Ciudad de Bronce ☾
-* Mahmoud Assy, consejero personal de la princesa Alya de Damasco ☾
+* Muhammad al-Lawati, explorador principal de la segunda expedición a la Ciudad de Bronce ☾
 * Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
 * Hunayn ibn Ishaq, director de la Casa de la Sabiduría ☾
 * Hachem ben Soleimán, el mejor cantor e interprete de Bagdad ☾
 * ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
-* Ahmad-la-Tiña, antiguo criminal y jefe de policia de Bagdad ☾
-* Hassan-la-Peste, antiguo criminal y jefe de policia de Bagdad ☾
+* Ahmad-la-Tiña, antiguo criminal y jefe de policía de Bagdad ☾
+* Hassan-la-Peste, antiguo criminal y jefe de policía de Bagdad ☾
 * Ayub Lomo-de-Camello, jefe de los alguaciles de Ahmad-la-Tiña ☾
-* Dalila la taimada, reina de los bajos fondos Bagdad ☾
 * Alí Azogue, el mejor ladrón de Bagdad ☾
 
 #### Aventuras (34)
@@ -56,7 +54,6 @@ Fecha estimada de publicación: Marzo 2024
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
   * Historia de la casa encantada en el zoco de los tejedores
   * Historia del morshed malvado
-  * Historia de la locura del almotacén
   * Historia del asesino de Suc'Naath
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * La expedición
@@ -68,7 +65,7 @@ Fecha estimada de publicación: Marzo 2024
   * 4ª etapa. El Cairo - Alejandría
   * 5ª etapa. Alejandría - Sahara
   * 6ª etapa. Sahara
-  * Adentrandose en lo desconocido
+  * Adentrándose en lo desconocido
   * 7ª etapa. Terreno desconocido
   * 8ª etapa. Terreno desconocido
   * La estatua ecuestre
@@ -78,7 +75,7 @@ Fecha estimada de publicación: Marzo 2024
 * La llegada del cometa
   * Para hacer una tortilla hay que romper huevos
   * La crianza del Rokh
-  * Prestamo de libros
+  * Préstamo de libros
   * Consultando a la estrellas
   * La traición
   * A las estrellas
