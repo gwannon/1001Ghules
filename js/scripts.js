@@ -17,7 +17,7 @@ $(document).ready(function () {
     return json;
   })();
 
-  $("body>section > h1, body>section h2, body>section h3")
+  $("body>section h1, body>section h2, body>section h3")
   .not(".noindex")
   .each(function () {
     counter++;    
@@ -32,13 +32,11 @@ $(document).ready(function () {
         }
       });
 
-      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#' + 
-        $(this).attr('id') + '" class="like' + 
-        $(this).prop("tagName") + '"><span>'+pageNumber+'</span>' 
-        + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
+      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#' + $(this).attr('id') + '" class="like' + $(this).prop("tagName") +
+      '"><span>'+pageNumber+'</span>' + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
     } else {
-      if ($(this).prop("tagName") == 'H1') $(this).prepend('<a name="anchor' + counter + '"></a>');
-      else $(this).attr('id', 'anchor' + counter);
+
+      $(this).attr('id', 'anchor' + counter);
       var pageNumber = 0;
       var currentTitle = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
       $.each(indice, function(i, item) {
@@ -47,10 +45,10 @@ $(document).ready(function () {
           indice[i].title = "";
         }
       });
+
       
-      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' 
-        + $(this).prop("tagName") + '"><span>'+pageNumber+'</span>' + 
-        this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
+      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") +
+        '"><span>'+pageNumber+'</span>' + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
     }
     currentDiv = Math.floor(counter / step) + 1;
   });
