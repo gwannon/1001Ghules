@@ -59,7 +59,6 @@ Fecha estimada de publicación: Marzo 2024
   * La expedición
   * Se buscan valientes
   * Empieza el viaje
-  * 1ª etapa. Damasco - Gaza
   * 2ª etapa. Gaza - Península del Sinaí
   * 3ª etapa. Península del Sinaí - El Cairo
   * 4ª etapa. El Cairo - Alejandría
