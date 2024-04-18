@@ -35,7 +35,6 @@ Fecha estimada de publicación: Marzo 2024
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
 * Fatima, líder del Pequeño Consejo ☾
-* Princesa Alya de Damasco, líder de la segunda expidición a la Ciudad de Bronce ☾
 * Muhammad al-Lawati, explorador principal de la segunda expedición a la Ciudad de Bronce ☾
 * Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
 * Hunayn ibn Ishaq, director de la Casa de la Sabiduría ☾
@@ -53,7 +52,6 @@ Fecha estimada de publicación: Marzo 2024
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
   * Historia de la casa encantada en el zoco de los tejedores
-  * Historia del morshed malvado
   * Historia del asesino de Suc'Naath
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * La expedición
