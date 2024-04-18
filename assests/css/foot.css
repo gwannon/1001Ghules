@@ -316,12 +316,12 @@ body > section {
   section:last-of-type,
   section:first-of-type {
     max-width: calc(100vw + 20px);   
-    min-height: 1130px;
+    min-height: 1136px;
     height: 100%; 
   }
 
   section:last-of-type {
-    min-height: 1129px;
+    min-height: 1135px;
   }
 
   section:not(section:last-of-type):not(section:first-of-type):not(section:nth-of-type(2)) h1 + p:first-letter,
