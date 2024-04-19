@@ -37,7 +37,6 @@ Fecha estimada de publicación: Marzo 2024
 * Fatima, líder del Pequeño Consejo ☾
 * Muhammad al-Lawati, explorador principal de la segunda expedición a la Ciudad de Bronce ☾
 * Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
-* Hunayn ibn Ishaq, director de la Casa de la Sabiduría ☾
 * Hachem ben Soleimán, el mejor cantor e interprete de Bagdad ☾
 * ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
