@@ -74,7 +74,7 @@ Fecha estimada de publicación: Marzo 2024
   * La crianza del Rokh
   * Préstamo de libros
   * Consultando a la estrellas
-  * La traición
+  * Buscando la verdad
   * A las estrellas
 * La caida de Giafar
   * Fatima se retira
