@@ -47,10 +47,8 @@ Fecha estimada de publicación: Marzo 2024
 
 #### Aventuras (34)
 * El Pequeño Consejo
-  * El shatranj de Soleimán: Historia de como el Califa se preparó para la guerra (IV)
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
-  * Historia de la casa encantada en el zoco de los tejedores
   * Historia del asesino de Suc'Naath
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * La expedición
@@ -79,7 +77,6 @@ Fecha estimada de publicación: Marzo 2024
   * Fatima se retira
   * Escogidos para la gloria
 * Buscando la inmortalidad
-* Sepultureros
 * El coral surgido del espacio
 
 ### 0.7.1 29/03/2024
