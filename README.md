@@ -51,18 +51,13 @@ Fecha estimada de publicación: Marzo 2024
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
   * Historia del asesino de Suc'Naath
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
-  * La expedición
-  * Se buscan valientes
-  * Empieza el viaje
   * 2ª etapa. Gaza - Península del Sinaí
   * 3ª etapa. Península del Sinaí - El Cairo
   * 4ª etapa. El Cairo - Alejandría
   * 5ª etapa. Alejandría - Sahara
   * 6ª etapa. Sahara
-  * Adentrándose en lo desconocido
   * 7ª etapa. Terreno desconocido
   * 8ª etapa. Terreno desconocido
-  * La estatua ecuestre
   * Entrando en la ciudad
   * Explorando la ciudad
   * Rompiendo la maldición

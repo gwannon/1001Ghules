@@ -242,26 +242,31 @@ a,
       --pattern-size: 25px;
       --color-emerald: #bbbbbb;
       background-color:var(--color-emerald);
-      background-image:
-        linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(157.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(67.5deg, transparent 90%, var(--color-emerald) 90%),
-        linear-gradient(157.5deg, transparent 90%, var(--color-emerald) 90%),
+
+    }
+    @media not print {
+      section > blockquote.seed {
+        /*background-image:
+          linear-gradient(67.5deg, var(--color-emerald) 10%, transparent 10%),
+          linear-gradient(157.5deg, var(--color-emerald) 10%, transparent 10%),
+          linear-gradient(67.5deg, transparent 90%, var(--color-emerald) 90%),
+          linear-gradient(157.5deg, transparent 90%, var(--color-emerald) 90%),
+            
+          linear-gradient(22.5deg, var(--color-emerald) 10%, transparent 10%),
+          linear-gradient(112.5deg, var(--color-emerald) 10%, transparent 10%),
+          linear-gradient(22.5deg, transparent 90%, var(--color-emerald) 90%),
+          linear-gradient(112.5deg, transparent 90%, var(--color-emerald) 90%),
           
-        linear-gradient(22.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(112.5deg, var(--color-emerald) 10%, transparent 10%),
-        linear-gradient(22.5deg, transparent 90%, var(--color-emerald) 90%),
-        linear-gradient(112.5deg, transparent 90%, var(--color-emerald) 90%),
-        
-        linear-gradient(22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-        linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-        linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
-        linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
-      background-size: var(--pattern-size) var(--pattern-size);
-      background-position: 
-        calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2),
-        calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3),
-        0 0, 0 0, 0 0, 0 0;
+          linear-gradient(22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+          linear-gradient(-22.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+          linear-gradient(112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%),
+          linear-gradient(-112.5deg, transparent 33%, #d5d8dc 33%, #d5d8dc 36%, transparent 36%, transparent 64%, #d5d8dc 64%, #d5d8dc 67%, transparent 67%);
+        background-size: var(--pattern-size) var(--pattern-size);
+        background-position: 
+          calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2),
+          calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 2), calc(var(--pattern-size) / 5 * -2) calc(var(--pattern-size) / 5 * 3), calc(var(--pattern-size) / 5 * -3) calc(var(--pattern-size) / 5 * 3),
+          0 0, 0 0, 0 0, 0 0;*/
+      }
     }
 
     section > blockquote > p {
