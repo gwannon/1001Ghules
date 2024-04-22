@@ -48,7 +48,6 @@ Fecha estimada de publicación: Marzo 2024
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
-  * Historia del asesino de Suc'Naath
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * 2ª etapa. Gaza - Península del Sinaí
   * 3ª etapa. Península del Sinaí - El Cairo
