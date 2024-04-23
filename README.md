@@ -34,14 +34,12 @@ Fecha estimada de publicación: Marzo 2024
 #### PNJ (16)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
-* Fatima, líder del Pequeño Consejo ☾
 * Muhammad al-Lawati, explorador principal de la segunda expedición a la Ciudad de Bronce ☾
 * Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
 * ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
 * Ahmad-la-Tiña, antiguo criminal y jefe de policía de Bagdad ☾
 * Hassan-la-Peste, antiguo criminal y jefe de policía de Bagdad ☾
-* Ayub Lomo-de-Camello, jefe de los alguaciles de Ahmad-la-Tiña ☾
 * Alí Azogue, el mejor ladrón de Bagdad ☾
 
 #### Aventuras (34)
@@ -69,7 +67,6 @@ Fecha estimada de publicación: Marzo 2024
 * La caida de Giafar
   * Fatima se retira
   * Escogidos para la gloria
-* Buscando la inmortalidad
 * El coral surgido del espacio
 
 ### 0.7.1 29/03/2024
