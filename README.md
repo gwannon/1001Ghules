@@ -34,7 +34,6 @@ Fecha estimada de publicación: Marzo 2024
 #### PNJ (16)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
-* Muhammad al-Lawati, explorador principal de la segunda expedición a la Ciudad de Bronce ☾
 * Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
 * ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
