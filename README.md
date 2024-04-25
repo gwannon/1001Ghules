@@ -57,7 +57,6 @@ Fecha estimada de publicación: Marzo 2024
   * Explorando la ciudad
   * Rompiendo la maldición
 * La llegada del cometa
-  * Para hacer una tortilla hay que romper huevos
   * La crianza del Rokh
   * Préstamo de libros
   * Consultando a la estrellas
@@ -66,7 +65,6 @@ Fecha estimada de publicación: Marzo 2024
 * La caida de Giafar
   * Fatima se retira
   * Escogidos para la gloria
-* El coral surgido del espacio
 
 ### 0.7.1 29/03/2024
 * Relatos terminados: Historia de la cuchara mágica
