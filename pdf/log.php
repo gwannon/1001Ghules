@@ -63,6 +63,7 @@ $bots = [
   "trendictionbot",
   "Yeti/",
   "Friendly_Crawler/",
+  "GoogleOther",
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
