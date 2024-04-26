@@ -3,7 +3,7 @@ Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los 
 
 Fecha estimada de publicación: Marzo 2024
 
-[Paǵina web](https://1001ghules.gwannon.com)
+[Página web](https://1001ghules.gwannon.com)
 
 [Versión PDF](https://1001ghules.gwannon.com/pdf/)
 
@@ -62,7 +62,7 @@ Fecha estimada de publicación: Marzo 2024
   * Consultando a la estrellas
   * Buscando la verdad
   * A las estrellas
-* La caida de Giafar
+* La caída de Giafar
   * Fatima se retira
   * Escogidos para la gloria
 
@@ -82,17 +82,17 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.6.3 16/03/2024
 * Lugares míticos terminados: La ciudad de G'harne
-* Gúia de viajes terminada: China e India, Egipto y la serpigente, Miknas
+* Guía de viajes terminada: China e India, Egipto y la serpigente, Miknas
 * Ambientación terminada: Las Tierras del Sueño
 
 ### 0.6.2 08/03/2024
 * Monstruos terminados: Falak y Falak menor, Ave de Rokh, Qatram, Nasnas, Lengnita, Viejo del Mar, Serpigente, Sukaan
-* Gúia de viajes terminada: El Cairo, Basora, Mosul, Alepo, Damasco, Khaitán, El-Iskandaria
+* Guía de viajes terminada: El Cairo, Basora, Mosul, Alepo, Damasco, Khaitán, El-Iskandaria
 
 ### 0.6.1 02/03/2024
 * Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
 * Descripción secta terminada: Secta del cuarenta
-* Sección terminada: Gastronomia
+* Sección terminada: Gastronomía
 * Sección terminada: Viajes y comercio
 * Sección terminada: Sexualidad, poligamia y divorcio
 * Nuevo monstruo: Color que cayo del cielo
@@ -104,7 +104,7 @@ Fecha estimada de publicación: Marzo 2024
 * Nueva sección de ambientación: Tierra de lso Sueños
 
 ### 0.6 2024/02/20
-* Guia de viajes Egipto: Lago Karún
+* Guía de viajes Egipto: Lago Karún
 * Nueva ventaja: Maquillaje
 * Nuevo objeto mítico: Tesoro de Al-Schamardal
 * Descripción secta terminada: La Mano Dorada de Suc'Naath
@@ -121,16 +121,16 @@ Fecha estimada de publicación: Marzo 2024
 * Nueva localización terminada:  La Montaña del Imán
 * Sección de Poderes y hechizos terminada.
 * Tesoros y objetos mágicos.
-* Guia de viajes Arabia/Persia: Acre, Masada, Zigurat de Ur, Petra, Las Ciudades de Perlas del Golfo Pérsico
-* Guia de viajes Egipto: Khan Al-Gaonalí, El rio Nilo
+* Guía de viajes Arabia/Persia: Acre, Masada, Zigurat de Ur, Petra, Las Ciudades de Perlas del Golfo Pérsico
+* Guía de viajes Egipto: Khan Al-Gaonalí, El rio Nilo
 
 ### 0.5 2024/01/24
 * Nuevos PNJ
 * Nueva localización terminada: El Valle de los Diamantes
 * Nueva localización terminada: La ciudad sin nombre
 * Nueva localización terminada: El hammam de las delicias
-* Sección de Objetos magicos terminada y Tesoros Míticos casi terminada.
-* Relato salvaje terminado: Los encuentros de Al-Rashid en el puente de Bagdad
+* Sección de Objetos mágicos terminada y Tesoros Míticos casi terminada.
+* Relato salvaje terminado: Los encuentros de Al-Raschid en el puente de Bagdad
 
 ### 0.4 26/12/2023
 * Montada toda la estructura.
@@ -143,14 +143,14 @@ Fecha estimada de publicación: Marzo 2024
 * Maquetados Tesoros
 * Nuevos personajes
 * Bocetada la ciudad de Bagdad
-* Bocetada la Caida de Gaifar
+* Bocetada la Caída de Giafar
 
 ### 0.2.2 25/11/2023
 * Fijadas razas de yinns
 * Dibujos de PNJ
 * Maquetadas Reglas de ambientación
 
-### 0.2.1  04/11/2023
+### 0.2.1 04/11/2023
 * Establecidas las principales tramas de las campañas.
 * Montada toda la estructura de la ambientación. 
 
