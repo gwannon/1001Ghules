@@ -57,14 +57,20 @@ Fecha estimada de publicación: Marzo 2024
   * Explorando la ciudad
   * Rompiendo la maldición
 * La llegada del cometa
-  * La crianza del Rokh
-  * Préstamo de libros
   * Consultando a la estrellas
   * Buscando la verdad
   * A las estrellas
 * La caída de Giafar
-  * Fatima se retira
-  * Escogidos para la gloria
+  * Vigilancia
+  * El plan de los Seguidores del Fuego y de la Luz
+  * Infiltración
+  * Aprendiendo el gran hechizo
+  * La caída de Giafar
+  * Volando solos
+  * Planificando
+  * Salvando a los amigos
+  * El crepúsculo de Nardún
+  * La venganza de Bahram el Gauro
 
 ### 0.7.1 29/03/2024
 * Relatos terminados: Historia de la cuchara mágica
