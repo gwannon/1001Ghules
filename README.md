@@ -57,7 +57,6 @@ Fecha estimada de publicación: Marzo 2024
   * Explorando la ciudad
   * Rompiendo la maldición
 * La llegada del cometa
-  * Consultando a la estrellas
   * Buscando la verdad
   * A las estrellas
 * La caída de Giafar
