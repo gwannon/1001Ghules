@@ -31,7 +31,7 @@ Fecha estimada de publicación: Marzo 2024
   * Los yinns y sus posesiones
   * Forma de actuar
 
-#### PNJ (16)
+#### PNJ (8)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
 * Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
@@ -41,14 +41,13 @@ Fecha estimada de publicación: Marzo 2024
 * Hassan-la-Peste, antiguo criminal y jefe de policía de Bagdad ☾
 * Alí Azogue, el mejor ladrón de Bagdad ☾
 
-#### Aventuras (34)
+#### Aventuras (21)
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * 2ª etapa. Gaza - Península del Sinaí
   * 3ª etapa. Península del Sinaí - El Cairo
-  * 4ª etapa. El Cairo - Alejandría
   * 5ª etapa. Alejandría - Sahara
   * 6ª etapa. Sahara
   * 7ª etapa. Terreno desconocido
@@ -56,9 +55,6 @@ Fecha estimada de publicación: Marzo 2024
   * Entrando en la ciudad
   * Explorando la ciudad
   * Rompiendo la maldición
-* La llegada del cometa
-  * Buscando la verdad
-  * A las estrellas
 * La caída de Giafar
   * Vigilancia
   * El plan de los Seguidores del Fuego y de la Luz
@@ -70,6 +66,11 @@ Fecha estimada de publicación: Marzo 2024
   * Salvando a los amigos
   * El crepúsculo de Nardún
   * La venganza de Bahram el Gauro
+
+### 0.8 En desarrollo
+* Terminado el cuento salvaje largo "La llegada del cometa"
+* Terminados todos los cuentos salvajes cortos de "El pequeño consejo"
+* Terminados todos los "Otros cuentos salvajes" que faltaban
 
 ### 0.7.1 29/03/2024
 * Relatos terminados: Historia de la cuchara mágica
