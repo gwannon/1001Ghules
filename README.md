@@ -16,8 +16,6 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Versiones
 
-### 0.8 En desarrollo
-
 #### Ambientación
 * Abdul Alhazred
   * Las mil y una noches de Alhazred
@@ -31,10 +29,9 @@ Fecha estimada de publicación: Marzo 2024
   * Los yinns y sus posesiones
   * Forma de actuar
 
-#### PNJ (8)
+#### PNJ (7)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
-* Ziba Al-Alephi, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath ☾
 * ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
 * Ahmad-la-Tiña, antiguo criminal y jefe de policía de Bagdad ☾
