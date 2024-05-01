@@ -29,14 +29,13 @@ Fecha estimada de publicación: Marzo 2024
   * Los yinns y sus posesiones
   * Forma de actuar
 
-#### PNJ (7)
+#### PNJ (6)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
 * ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
 * Ahmad-la-Tiña, antiguo criminal y jefe de policía de Bagdad ☾
 * Hassan-la-Peste, antiguo criminal y jefe de policía de Bagdad ☾
-* Alí Azogue, el mejor ladrón de Bagdad ☾
 
 #### Aventuras (20)
 * El Pequeño Consejo
