@@ -38,7 +38,7 @@ Fecha estimada de publicación: Marzo 2024
 * Hassan-la-Peste, antiguo criminal y jefe de policía de Bagdad ☾
 * Alí Azogue, el mejor ladrón de Bagdad ☾
 
-#### Aventuras (21)
+#### Aventuras (20)
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
@@ -62,7 +62,6 @@ Fecha estimada de publicación: Marzo 2024
   * Planificando
   * Salvando a los amigos
   * El crepúsculo de Nardún
-  * La venganza de Bahram el Gauro
 
 ### 0.8 En desarrollo
 * Terminado el cuento salvaje largo "La llegada del cometa"
