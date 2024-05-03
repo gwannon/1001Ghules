@@ -110,4 +110,7 @@ $(document).ready(function () {
   var n = cont.split(" ").length
   console.log(n+" words");
 
+  //PageCount
+  console.log($('.saltopagina').length+" pages");
+
 });
