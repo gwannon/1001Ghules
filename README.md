@@ -29,10 +29,9 @@ Fecha estimada de publicación: Marzo 2024
   * Los yinns y sus posesiones
   * Forma de actuar
 
-#### PNJ (4)
+#### PNJ (2)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
-* Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
 
 #### Aventuras (20)
 * El Pequeño Consejo
