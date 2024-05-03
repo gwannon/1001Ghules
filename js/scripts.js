@@ -111,6 +111,6 @@ $(document).ready(function () {
   console.log(n+" words");
 
   //PageCount
-  console.log($('.saltopagina').length+" pages");
+  console.log(($('.saltopagina').length + 1)+" pages");
 
 });
