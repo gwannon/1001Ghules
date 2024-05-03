@@ -32,7 +32,6 @@ Fecha estimada de publicación: Marzo 2024
 #### PNJ (4)
 * Sett Zobeida, Califesa de Bagdad ☾
 * Giafar al-Barmak, gran visir del califa de Bagdad ☾
-* ʽInān bint ʽAbd-Alāh, poetisa y qiyan del Califa ☾
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente ☾
 
 #### Aventuras (20)
