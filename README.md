@@ -44,7 +44,6 @@ Fecha estimada de publicación: Marzo 2024
   * Explorando la ciudad
   * Rompiendo la maldición
 * La caída de Giafar
-  * Vigilancia
   * El plan de los Seguidores del Fuego y de la Luz
   * Infiltración
   * Aprendiendo el gran hechizo
