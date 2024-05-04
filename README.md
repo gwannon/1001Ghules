@@ -29,11 +29,7 @@ Fecha estimada de publicación: Marzo 2024
   * Los yinns y sus posesiones
   * Forma de actuar
 
-#### PNJ (2)
-* Sett Zobeida, Califesa de Bagdad ☾
-* Giafar al-Barmak, gran visir del califa de Bagdad ☾
-
-#### Aventuras (20)
+#### Aventuras (19)
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
@@ -57,7 +53,10 @@ Fecha estimada de publicación: Marzo 2024
   * Planificando
   * El crepúsculo de Nardún
 
-### 0.8 En desarrollo
+### 0.8.1 En desarrollo
+
+### 0.8 04/05/2024
+* Terminados todos los PNJs importantes
 * Terminado el cuento salvaje largo "La llegada del cometa"
 * Terminados todos los cuentos salvajes cortos de "El pequeño consejo"
 * Terminados todos los "Otros cuentos salvajes" que faltaban
