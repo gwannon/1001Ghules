@@ -16,7 +16,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Versiones
 
-#### Ambientación
+#### Ambientación (12)
 * Abdul Alhazred
   * Las mil y una noches de Alhazred
 * Los Yinns
@@ -26,7 +26,8 @@ Fecha estimada de publicación: Marzo 2024
   * Abu-Qith
   * Warams
   * Qareens
-  * Los yinns y sus posesiones
+  * Los abu-qith y sus posesiones a través de los tiempos
+  * Los qareens y su aura depresiva
   * Forma de actuar
 
 #### Aventuras (19)
@@ -34,12 +35,16 @@ Fecha estimada de publicación: Marzo 2024
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
-  * 2ª etapa. Gaza - Península del Sinaí
-  * 3ª etapa. Península del Sinaí - El Cairo
-  * 5ª etapa. Alejandría - Sahara
-  * 6ª etapa. Sahara
-  * 7ª etapa. Terreno desconocido
-  * 8ª etapa. Terreno desconocido
+  * Obstáculo: Habitantes de la arena
+  * Obstáculo: La pirámide desenterrada
+  * Misterio: ¿Quiénes son Gremio de Bronce?
+  * Misterio: Robo a medianoche
+  * Obstáculo: Ruinas en la arena
+  * Misterio: El juicio
+  * Obstáculo: Tormenta de arena
+  * Misterio: Ideas peligrosas
+  * Obstáculo: El palacio de la cúpula de oro
+  * Misterio: La decisión
   * Entrando en la ciudad
   * Explorando la ciudad
   * Rompiendo la maldición
