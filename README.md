@@ -10,15 +10,11 @@ Fecha estimada de publicación: Marzo 2024
 ##  Para futuras versiones
 * Lugares Míticos: Las islas Al-Wakwak, 
 
-## Planificación versiones:
-* Ver. 0.8: Ambientación general, PNJs y Aventuras
-* Ver. 0.9: Revisión y correcciones
+## Por terminar en la versión 0.8
 
-## Versiones
-
-#### Ambientación (12)
+### Ambientación (12)
 * Abdul Alhazred
-  * Las mil y una noches de Alhazred
+* Las mil y una noches de Alhazred
 * Los Yinns
   * Ghūles
   * Janns
@@ -30,7 +26,7 @@ Fecha estimada de publicación: Marzo 2024
   * Los qareens y su aura depresiva
   * Forma de actuar
 
-#### Aventuras (19)
+### Aventuras (19)
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
@@ -53,6 +49,8 @@ Fecha estimada de publicación: Marzo 2024
   * Volando solos
   * Planificando
   * El crepúsculo de Nardún
+
+## Versiones
 
 ### 0.8.1 En desarrollo
 
