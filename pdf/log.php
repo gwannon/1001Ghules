@@ -64,6 +64,7 @@ $bots = [
   "Yeti/",
   "Friendly_Crawler/",
   "GoogleOther",
+  "RottenLinks",
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
