@@ -26,7 +26,7 @@ Fecha estimada de publicación: Marzo 2024
   * Los qareens y su aura depresiva
   * Forma de actuar
 
-### Aventuras (16)
+### Aventuras (15)
 * El Pequeño Consejo
   * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
   * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
