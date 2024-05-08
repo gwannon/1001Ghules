@@ -44,8 +44,6 @@ Fecha estimada de publicación: Marzo 2024
   * Entrando en la ciudad
   * Explorando la ciudad
   * Rompiendo la maldición
-* La caída de Giafar
-  * El crepúsculo de Nardún
 
 ## Versiones
 
