@@ -47,7 +47,10 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Versiones
 
-### 0.8.1 En desarrollo
+### 0.8.2 En desarrollo
+* Correcciones ortográficas
+
+### 0.8.1 08/05/2024
 * Terminado el cuento salvaje largo "La caída de Giafar"
 
 ### 0.8 04/05/2024
