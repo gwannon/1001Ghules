@@ -12,7 +12,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Por terminar en la versión 0.8
 
-### Ambientación (12)
+### Ambientación (11)
 * Abdul Alhazred
 * Las mil y una noches de Alhazred
 * Los Yinns
@@ -24,7 +24,6 @@ Fecha estimada de publicación: Marzo 2024
   * Qareens
   * Los abu-qith y sus posesiones a través de los tiempos
   * Los qareens y su aura depresiva
-  * Forma de actuar
 
 ### Aventuras (15)
 * El Pequeño Consejo
