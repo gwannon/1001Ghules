@@ -49,6 +49,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.8.2 En desarrollo
 * Correcciones ortográficas
+* Secuaz terminado: Artista 
 
 ### 0.8.1 08/05/2024
 * Terminado el cuento salvaje largo "La caída de Giafar"
