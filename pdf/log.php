@@ -65,6 +65,7 @@ $bots = [
   "Friendly_Crawler/",
   "GoogleOther",
   "RottenLinks",
+  "54.39.104.161",
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
@@ -79,7 +80,7 @@ foreach ($lines as $line) {
   if($line != '') {
     $fields =  explode("|", $line);
     $last_key = array_key_last($fields);
-    if ( !preg_match('('.implode('|',$bots).')', $fields[$last_key])) {
+    if ( !preg_match('('.implode('|',$bots).')', $fields[$last_key]) && !preg_match('('.implode('|',$bots).')', $fields[1])) {
       $json["descargas"][] = $fields;
       if(!in_array($fields[1], $ips)) {
         $ips[] = $fields[1];
