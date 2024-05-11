@@ -25,10 +25,8 @@ Fecha estimada de publicación: Marzo 2024
   * Los abu-qith y sus posesiones a través de los tiempos
   * Los qareens y su aura depresiva
 
-### Aventuras (15)
-* El Pequeño Consejo
-  * El shatranj de Soleimán: Historia de como el Pequeño Consejo evito una guerra (V)
-  * El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
+### Aventuras (14)
+* El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * Obstáculo: Habitantes de la arena
   * Obstáculo: La pirámide desenterrada
