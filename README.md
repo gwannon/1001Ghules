@@ -25,8 +25,7 @@ Fecha estimada de publicación: Marzo 2024
   * Los abu-qith y sus posesiones a través de los tiempos
   * Los qareens y su aura depresiva
 
-### Aventuras (14)
-* El shatranj de Soleimán: Historia del fin de la Progenie de la Luna (VI)
+### Aventuras (13)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * Obstáculo: Habitantes de la arena
   * Obstáculo: La pirámide desenterrada
@@ -47,6 +46,7 @@ Fecha estimada de publicación: Marzo 2024
 ### 0.8.2 En desarrollo
 * Correcciones ortográficas
 * Secuaz terminado: Artista 
+* Terminado el cuento salvaje largo "El shatranj de Soleimán"
 
 ### 0.8.1 08/05/2024
 * Terminado el cuento salvaje largo "La caída de Giafar"
