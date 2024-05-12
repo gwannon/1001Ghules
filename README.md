@@ -12,9 +12,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Por terminar en la versión 0.8
 
-### Ambientación (11)
-* Abdul Alhazred
-* Las mil y una noches de Alhazred
+### Ambientación (9)
 * Los Yinns
   * Ghūles
   * Janns
