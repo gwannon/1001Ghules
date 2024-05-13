@@ -23,7 +23,7 @@ Fecha estimada de publicación: Marzo 2024
   * Los abu-qith y sus posesiones a través de los tiempos
   * Los qareens y su aura depresiva
 
-### Aventuras (13)
+### Aventuras (12)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * Obstáculo: Habitantes de la arena
   * Obstáculo: La pirámide desenterrada
@@ -31,7 +31,6 @@ Fecha estimada de publicación: Marzo 2024
   * Misterio: Robo a medianoche
   * Obstáculo: Ruinas en la arena
   * Misterio: El juicio
-  * Obstáculo: Tormenta de arena
   * Misterio: Ideas peligrosas
   * Obstáculo: El palacio de la cúpula de oro
   * Misterio: La decisión
