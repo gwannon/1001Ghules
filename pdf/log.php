@@ -62,6 +62,7 @@ $bots = [
   "OpenGraph.io",
   "trendictionbot",
   "Yeti/",
+  "ClaudeBot",
   "Friendly_Crawler/",
   "GoogleOther",
   "RottenLinks",
