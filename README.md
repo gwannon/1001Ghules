@@ -12,16 +12,12 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Por terminar en la versión 0.8
 
-### Ambientación (9)
+### Ambientación (5)
 * Los Yinns
-  * Ghūles
   * Janns
   * Al mighos
   * Abu-Qith
   * Warams
-  * Qareens
-  * Los abu-qith y sus posesiones a través de los tiempos
-  * Los qareens y su aura depresiva
 
 ### Aventuras (12)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
