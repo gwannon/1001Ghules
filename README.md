@@ -19,7 +19,7 @@ Fecha estimada de publicación: Marzo 2024
   * Abu-Qith
   * Warams
 
-### Aventuras (12)
+### Aventuras (11)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * Obstáculo: Habitantes de la arena
   * Obstáculo: La pirámide desenterrada
@@ -27,7 +27,6 @@ Fecha estimada de publicación: Marzo 2024
   * Misterio: Robo a medianoche
   * Obstáculo: Ruinas en la arena
   * Misterio: El juicio
-  * Misterio: Ideas peligrosas
   * Obstáculo: El palacio de la cúpula de oro
   * Misterio: La decisión
   * Entrando en la ciudad
