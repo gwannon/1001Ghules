@@ -19,10 +19,9 @@ Fecha estimada de publicación: Marzo 2024
   * Abu-Qith
   * Warams
 
-### Aventuras (11)
+### Aventuras (10)
 * Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
   * Obstáculo: Habitantes de la arena
-  * Obstáculo: La pirámide desenterrada
   * Misterio: ¿Quiénes son Gremio de Bronce?
   * Misterio: Robo a medianoche
   * Obstáculo: Ruinas en la arena
@@ -36,6 +35,7 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.8.2 En desarrollo
+* Nuevos monstruo. Momia y lapis
 * Correcciones ortográficas
 * Secuaz terminado: Artista 
 * Terminado el cuento salvaje largo "El shatranj de Soleimán"
