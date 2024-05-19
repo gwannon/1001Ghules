@@ -19,18 +19,15 @@ Fecha estimada de publicación: Marzo 2024
   * Abu-Qith
   * Warams
 
-### Aventuras (10)
-* Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
-  * Obstáculo: Habitantes de la arena
-  * Misterio: ¿Quiénes son Gremio de Bronce?
-  * Misterio: Robo a medianoche
-  * Obstáculo: Ruinas en la arena
-  * Misterio: El juicio
-  * Obstáculo: El palacio de la cúpula de oro
-  * Misterio: La decisión
-  * Entrando en la ciudad
-  * Explorando la ciudad
-  * Rompiendo la maldición
+### Aventuras (8)
+* Misterio: Robo a medianoche
+* Obstáculo: Ruinas en la arena
+* Misterio: El juicio
+* Obstáculo: El palacio de la cúpula de oro
+* Misterio: La decisión
+* Entrando en la ciudad
+* Explorando la ciudad
+* Rompiendo la maldición
 
 ## Versiones
 
