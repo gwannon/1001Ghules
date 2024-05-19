@@ -19,12 +19,13 @@ Fecha estimada de publicación: Marzo 2024
   * Abu-Qith
   * Warams
 
-### Aventuras (8)
+### Aventuras (9)
 * Misterio: Robo a medianoche
 * Obstáculo: Ruinas en la arena
 * Misterio: El juicio
 * Obstáculo: El palacio de la cúpula de oro
 * Misterio: La decisión
+* Entrando en la tierra de los sueños
 * Entrando en la ciudad
 * Explorando la ciudad
 * Rompiendo la maldición
