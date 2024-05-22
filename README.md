@@ -12,30 +12,29 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Por terminar en la versión 0.8
 
-### Ambientación (5)
-* Los Yinns
-  * Janns
-  * Al mighos
-  * Abu-Qith
-  * Warams
+### Ambientación (4)
+* Janns
+* Al mighos
+* Abu-Qith
+* Warams
 
-### Aventuras (9)
-* Misterio: Robo a medianoche
-* Obstáculo: Ruinas en la arena
+### Aventuras (6)
 * Misterio: El juicio
 * Obstáculo: El palacio de la cúpula de oro
 * Misterio: La decisión
-* Entrando en la tierra de los sueños
 * Entrando en la ciudad
 * Explorando la ciudad
 * Rompiendo la maldición
 
 ## Versiones
 
-### 0.8.2 En desarrollo
+### 0.8.3 En desarrollo
+
+### 0.8.2 08/05/2024
 * Nuevos monstruo. Momia y lapis
 * Correcciones ortográficas
 * Secuaz terminado: Artista 
+* Desarrollo de "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
 * Terminado el cuento salvaje largo "El shatranj de Soleimán"
 
 ### 0.8.1 08/05/2024
