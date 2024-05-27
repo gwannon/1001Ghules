@@ -18,8 +18,7 @@ Fecha estimada de publicación: Marzo 2024
 * Abu-Qith
 * Warams
 
-### Aventuras (6)
-* Misterio: El juicio
+### Aventuras (5)
 * Obstáculo: El palacio de la cúpula de oro
 * Misterio: La decisión
 * Entrando en la ciudad
@@ -29,6 +28,8 @@ Fecha estimada de publicación: Marzo 2024
 ## Versiones
 
 ### 0.8.3 En desarrollo
+* Terminada la parte de ambientación de "Los Yinns"
+* Terminado el cuento salvaje largo "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
 
 ### 0.8.2 08/05/2024
 * Nuevos monstruo. Momia y lapis
