@@ -20,7 +20,6 @@ Fecha estimada de publicación: Marzo 2024
 
 ### Aventuras (5)
 * Obstáculo: El palacio de la cúpula de oro
-* Misterio: La decisión
 * Entrando en la ciudad
 * Explorando la ciudad
 * Rompiendo la maldición
