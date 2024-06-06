@@ -10,23 +10,20 @@ Fecha estimada de publicación: Marzo 2024
 ##  Para futuras versiones
 * Lugares Míticos: Las islas Al-Wakwak, 
 
-## Por terminar en la versión 0.8
+## Por terminar en la versión 0.9
 
-### Ambientación (4)
-* Janns
-* Al mighos
+### Ambientación (1)
 * Abu-Qith
-* Warams
 
-### Aventuras (5)
-* Obstáculo: El palacio de la cúpula de oro
-* Entrando en la ciudad
+### Aventuras (2)
 * Explorando la ciudad
 * Rompiendo la maldición
 
 ## Versiones
 
-### 0.8.3 En desarrollo
+### 0.9 En desarrollo
+
+### 0.8.3 06/06/2024
 * Terminada la parte de ambientación de "Los Yinns"
 * Terminado el cuento salvaje largo "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
 
