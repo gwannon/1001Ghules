@@ -1,5 +1,5 @@
 # Mil y Un Ghūles
-Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los relatos de horror cósmico que Scheherazade conto al sultán Shahriar durante 1001 noches.
+Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los relatos de horror cósmico que Scheherazade contó al sultán Shahriar durante 1001 noches.
 
 Fecha estimada de publicación: Marzo 2024
 
@@ -55,7 +55,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.6.4 20/03/2024
 * Terminado magia: Maldiciones
-* Terminado lugares de Bagdad: Babilonia
+* Terminados lugares de Bagdad: Babilonia
 * Terminado personaje: Alura
 
 ### 0.6.3 16/03/2024
@@ -68,18 +68,18 @@ Fecha estimada de publicación: Marzo 2024
 * Guía de viajes terminada: El Cairo, Basora, Mosul, Alepo, Damasco, Khaitán, El-Iskandaria
 
 ### 0.6.1 02/03/2024
-* Relato salvaje terminado: Historia de la botella encontrada en el fondo del rio Tigris
+* Relato salvaje terminado: Historia de la botella encontrada en el fondo del río Tigris
 * Descripción secta terminada: Secta del cuarenta
 * Sección terminada: Gastronomía
 * Sección terminada: Viajes y comercio
 * Sección terminada: Sexualidad, poligamia y divorcio
-* Nuevo monstruo: Color que cayo del cielo
+* Nuevo monstruo: Color que cayó del cielo
 * Nuevo monstruo: Habitantes de la Ciudad Sin Nombre
 * Nuevo monstruo: Lengnita
 * Nuevo monstruo: Falak
 * Nuevo monstruo: Jann
 * Nueva localización: La ciudad sin nombre
-* Nueva sección de ambientación: Tierra de lso Sueños
+* Nueva sección de ambientación: Tierra de los Sueños
 
 ### 0.6 2024/02/20
 * Guía de viajes Egipto: Lago Karún
@@ -96,11 +96,11 @@ Fecha estimada de publicación: Marzo 2024
 * Relato salvaje terminado: El shatranj de Soleimán: Historia del las piezas de ébano del shatranj (II)
 * Relato salvaje terminado: El festival del Chaharshanbe Surí
 * Relato salvaje terminado: La paloma mensajera
-* Nueva localización terminada:  La Montaña del Imán
+* Nueva localización terminada: La Montaña del Imán
 * Sección de Poderes y hechizos terminada.
 * Tesoros y objetos mágicos.
 * Guía de viajes Arabia/Persia: Acre, Masada, Zigurat de Ur, Petra, Las Ciudades de Perlas del Golfo Pérsico
-* Guía de viajes Egipto: Khan Al-Gaonalí, El rio Nilo
+* Guía de viajes Egipto: Khan Al-Gaonalí, el río Nilo
 
 ### 0.5 2024/01/24
 * Nuevos PNJ
@@ -120,8 +120,8 @@ Fecha estimada de publicación: Marzo 2024
 ### 0.3 09/12/2023
 * Maquetados Tesoros
 * Nuevos personajes
-* Bocetada la ciudad de Bagdad
-* Bocetada la Caída de Giafar
+* Boceto de la ciudad de Bagdad
+* Boceto de la Caída de Giafar
 
 ### 0.2.2 25/11/2023
 * Fijadas razas de yinns
