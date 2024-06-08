@@ -14,6 +14,7 @@ Fecha estimada de publicación: Marzo 2024
 
 ### Ambientación (1)
 * Abu-Qith
+* El gran Rey Soleimán
 
 ### Aventuras (2)
 * Explorando la ciudad
