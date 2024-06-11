@@ -14,15 +14,14 @@ Fecha estimada de publicación: Marzo 2024
 
 ### Ambientación (1)
 * Abu-Qith
-* El gran Rey Soleimán
 
-### Aventuras (2)
-* Explorando la ciudad
+### Aventuras (1)
 * Rompiendo la maldición
 
 ## Versiones
 
 ### 0.9 En desarrollo
+* Terminada la parte de ambientación de "El gran Rey Soleimán"
 
 ### 0.8.3 06/06/2024
 * Terminada la parte de ambientación de "Los Yinns"
