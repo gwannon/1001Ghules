@@ -10,18 +10,15 @@ Fecha estimada de publicación: Marzo 2024
 ##  Para futuras versiones
 * Lugares Míticos: Las islas Al-Wakwak, 
 
-## Por terminar en la versión 0.9
-
-### Ambientación (1)
-* Abu-Qith
-
-### Aventuras (1)
-* Rompiendo la maldición
-
 ## Versiones
 
-### 0.9 En desarrollo
+### 0.9.1 En desarrollo
+* Correciones varias
+* Rompiendo la maldición
+
+### 0.9 12/06/2024
 * Terminada la parte de ambientación de "El gran Rey Soleimán"
+* Terminada la parte de ambientación de "Los Yinns"
 
 ### 0.8.3 06/06/2024
 * Terminada la parte de ambientación de "Los Yinns"
