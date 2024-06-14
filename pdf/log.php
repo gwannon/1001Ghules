@@ -67,6 +67,7 @@ $bots = [
   "GoogleOther",
   "RottenLinks",
   "enby-town",
+  "Barkrowler",
   "54.39.104.161",
   "51.222.42.127",
   "54.39.103.203",
