@@ -258,6 +258,9 @@ body > section {
   body:before, body:after { display: block; }
 }
 
+#anchorindice {
+  margin-top: var(--margin);
+}
 
 
 @media print {
