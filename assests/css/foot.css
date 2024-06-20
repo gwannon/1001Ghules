@@ -264,7 +264,7 @@ body > section {
   
 
   body section#anchorindice {
-    margin-top: var(--margin) !important;
+    padding-top: var(--margin) !important;
   }
   
 
