@@ -260,12 +260,13 @@ body > section {
   body:before, body:after { display: block; }
 }
 
+body {
+  background: #fff url(../bg-print.png) center center repeat;
+}
 
 @media print {
 
-  body {
-    background-image: url(../bg-print.png);
-  }
+
   
 
 
