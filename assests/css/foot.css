@@ -244,10 +244,8 @@ body:after {
 }
 
 body {
-  background: linear-gradient(45deg, transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%, transparent 90%), linear-gradient(135deg,  transparent 10%, var(--color-grey) 10% ,var(--color-grey) 20%, transparent 20%, transparent 80%, var(--color-grey)  80%, var(--color-grey) 90%,  transparent 90%), radial-gradient(circle at top,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at bottom,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at right,var(--color-grey) 20% , transparent 21%), radial-gradient(circle at left,var(--color-grey) 20% , transparent 21%);
+  background: #fff url(../bg-print.png) center center repeat;
   background-size: 3em 3em;
-
-  background-color: #ffffff;
   opacity: 1;
 }
 
@@ -261,11 +259,10 @@ body > section {
 }
 
 
+
 @media print {
   
-  body {
-    background: #fff url(../bg-print.png) center center repeat;
-  }
+
   
 
   .nopdf {
