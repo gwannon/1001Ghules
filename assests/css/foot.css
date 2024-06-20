@@ -263,9 +263,9 @@ body > section {
 
 @media print {
 
-  body {
+  /*body {
     background-image: none;
-  }
+  }*/
   
 
 
