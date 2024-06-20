@@ -158,6 +158,7 @@ $bots = [
   "65.21.158.47", //Hetzner Online GmbH
   "192.99.232.216", // OVH Hosting
   "34.105.34.194", // Google Other
+  "34.241.80.146", //Amazon
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
