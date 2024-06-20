@@ -12,8 +12,11 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Versiones
 
-## 0.9.2 En desarrollo
-* Correcciones de ortografía
+## 0.9.3 En desarrollo
+
+
+## 0.9.2 20/06/2024
+* Terminadas correcciones de ortografía
 
 ### 0.9.1 17/06/2024
 * Correcciones varias
