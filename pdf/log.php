@@ -68,6 +68,7 @@ $bots = [
   "RottenLinks",
   "enby-town",
   "Barkrowler",
+  "python-requests",
   "127.0.0.1",
   "54.39.104.161",
   "51.222.42.127",
@@ -160,6 +161,8 @@ $bots = [
   "34.105.34.194", // Google Other
   "34.241.80.146", //Amazon
   "34.82.27.245", //Google Cloud
+  "107.178.200.214", //Google Cloud
+  "66.249.84.37" //Google Cloud
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
