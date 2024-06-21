@@ -12,23 +12,29 @@ Fecha estimada de publicación: Marzo 2024
 
 ## Versiones
 
-## 0.9.3 En desarrollo
+## 1.1 En desarrollo
 
+## 1.0 22/06/2024
+* Lanzamiento el Día del Rol Gratis de 2024  
+
+## 0.9.3 21/06/2024
+* Más correciones de ortografía
+* Terminada la aventura de "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
 
 ## 0.9.2 20/06/2024
 * Terminadas correcciones de ortografía
 
 ### 0.9.1 17/06/2024
 * Correcciones varias
-* Rompiendo la maldición
+* Continuamos con el cuento salvaje largo "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
 
 ### 0.9 12/06/2024
 * Terminada la parte de ambientación de "El gran Rey Soleimán"
 * Terminada la parte de ambientación de "Los Yinns"
 
 ### 0.8.3 06/06/2024
-* Terminada la parte de ambientación de "Los Yinns"
-* Terminado el cuento salvaje largo "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
+* Continuamos con la parte de ambientación de "Los Yinns"
+* Continuamos con el cuento salvaje largo "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
 
 ### 0.8.2 08/05/2024
 * Nuevos monstruo. Momia y lapis
