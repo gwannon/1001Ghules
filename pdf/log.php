@@ -173,6 +173,9 @@ $bots = [
   "34.83.137.214", //Google
   "34.168.165.88", //Google
   "35.247.41.57", //Google
+  "74.125.210.103", //Google
+  "74.125.210.102", //Google
+  "3.254.66.73", //Amazon
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
