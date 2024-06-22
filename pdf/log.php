@@ -157,8 +157,8 @@ $bots = [
   "34.168.138.243",
   "168.119.76.139",
   "65.21.158.47", //Hetzner Online GmbH
-  "192.99.232.216", // OVH Hosting
-  "34.105.34.194", // Google Other
+  "192.99.232.216", //OVH Hosting
+  "34.105.34.194", //Google Other
   "34.241.80.146", //Amazon
   "34.82.27.245", //Google Cloud
   "107.178.200.214", //Google Cloud
@@ -176,6 +176,12 @@ $bots = [
   "74.125.210.103", //Google
   "74.125.210.102", //Google
   "3.254.66.73", //Amazon
+  "34.168.12.15", //Google
+  "158.69.125.158", //OVH Hosting
+  "51.79.99.78", //OVH Hosting
+  "34.168.186.146", //Google
+  "34.248.143.69", //Amazon
+  "144.217.252.156", //OVH Hosting
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
