@@ -182,6 +182,7 @@ $bots = [
   "34.168.186.146", //Google
   "34.248.143.69", //Amazon
   "144.217.252.156", //OVH Hosting
+  "34.82.60.8", //Google
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
