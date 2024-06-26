@@ -198,6 +198,7 @@ $bots = [
 
   "62.174.208.61", //My IP
   "47.58.171.195", //My IP
+  "46.26.127.194", //My IP
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
