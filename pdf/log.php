@@ -69,6 +69,10 @@ $bots = [
   "enby-town",
   "Barkrowler",
   "python-requests",
+  "DuckDuckBot",
+
+
+
   "127.0.0.1",
   "54.39.104.161",
   "51.222.42.127",
