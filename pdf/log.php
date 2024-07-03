@@ -70,6 +70,7 @@ $bots = [
   "Barkrowler",
   "python-requests",
   "DuckDuckBot",
+  "Iceshrimp",
 
 
 
