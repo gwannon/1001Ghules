@@ -71,6 +71,7 @@ $bots = [
   "python-requests",
   "DuckDuckBot",
   "Iceshrimp",
+  "Embedly/",
 
 
 
