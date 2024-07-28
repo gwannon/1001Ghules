@@ -71,6 +71,7 @@ $bots = [
   "python-requests",
   "DuckDuckBot",
   "Iceshrimp",
+  "Embedly/",
 
 
 
@@ -212,6 +213,7 @@ $bots = [
   "34.127.61.12", //Google
   "34.83.144.105", //Google
   "34.83.77.146", //Google
+  "74.125.210.194", //Google
 
 
   "62.174.208.61", //My IP
