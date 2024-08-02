@@ -72,6 +72,7 @@ $bots = [
   "DuckDuckBot",
   "Iceshrimp",
   "Embedly/",
+  "Google-Safety",
 
 
 
