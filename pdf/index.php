@@ -37,6 +37,7 @@ fwrite($f, date("Y-m-d H:i:s")."|".
   $_SERVER['HTTP_REFERER']."|".
   $_SERVER['HTTP_ORIGIN']."|".
   (isset($json->status) && $json->status == 'success' ? $json->country."|".$json->city : "")."|".
+  $json->isp." / ".$json->org." / ".$json->as."|".
   $_SERVER['HTTP_USER_AGENT']."\n");
 fclose($f);
 
