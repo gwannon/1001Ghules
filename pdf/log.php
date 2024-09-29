@@ -73,6 +73,7 @@ $bots = [
   "Iceshrimp",
   "Embedly/",
   "Google-Safety",
+  "axios/",
 
 
   "127.0.0.1",
