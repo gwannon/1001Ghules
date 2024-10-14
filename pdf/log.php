@@ -150,6 +150,7 @@ $bots = [
   "168.119.76.139", //Hetzner Online GmbH
   "65.21.158.47", //Hetzner Online GmbH
   "135.181.214.38", //Hetzner Online GmbH
+  "195.201.111.82", //Hetzner Online GmbH
   
 
 
