@@ -308,7 +308,7 @@ foreach ($lines as $line) {
   if($line != '') {
     $fields =  explode("|", $line);
     $last_key = array_key_last($fields);
-    if ( !preg_match('('.implode('|',$bots['bots']).')', $fields[$last_key]) && !preg_match('('.implode('|',$bots['ips']).')', $fields[1])) {
+    if ( !preg_match('('.implode('|',$bots->bots).')', $fields[$last_key]) && !preg_match('('.implode('|',$bots->ips).')', $fields[1])) {
       $json["descargas"][] = $fields;
       if(!in_array($fields[1], $ips)) {
         $ips[] = $fields[1];
