@@ -31,7 +31,7 @@ $bots = [
   "TelegramBot",
   "BLEXBot/1.0",
   "SerendeputyBot",
-  "SummalyBot",
+  "SummalyBot/1",
   "Friendica",
   "test-bot",
   "my-tiny-bot",
