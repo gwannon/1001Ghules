@@ -2,7 +2,7 @@
 
 header('Content-Type: application/json; charset=utf-8');
 
-$bots = [
+$bots['bots'] = [
   "facebookexternalhit/1.1",
   "Semanticbot/1.0",
   "serpstatbot/2.1",
@@ -74,8 +74,9 @@ $bots = [
   "Embedly/",
   "Google-Safety",
   "axios/",
+];
 
-
+$bots['ips'] = [
   "127.0.0.1",
 
 
