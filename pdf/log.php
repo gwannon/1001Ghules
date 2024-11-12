@@ -1,37 +1,38 @@
 <?php
 
+ini_set("display_errors", 1);
+
 header('Content-Type: application/json; charset=utf-8');
 
 $bots['bots'] = [
-  "facebookexternalhit/1.1",
-  "Semanticbot/1.0",
-  "serpstatbot/2.1",
-  "Twitterbot/1.0",
-  "SemrushBot/7~bl",
-  "bingbot/2.0",
-  "WhatsApp/2",
-  "BW/1.1",
-  "Applebot/0.1",
-  "SeznamBot/4.0",
-  "DataForSeoBot/1.0",
-  "AhrefsBot/7.0",
-  "YandexBot/3.0",
-  "Googlebot-Image/1.0",
-  "Googlebot/2",
+  "facebookexternalhit",
+  "Semanticbot",
+  "serpstatbot",
+  "Twitterbot",
+  "SemrushBot",
+  "bingbot",
+  "WhatsApp",
+  "BW\/1.1",
+  "Applebot",
+  "SeznamBot",
+  "DataForSeoBot",
+  "AhrefsBot",
+  "YandexBot",
+  "Googlebot-Image",
+  "Googlebot",
   "IonCrawl",
-  "SemrushBot/7",
+  "SemrushBot",
   "help@dataminr.com",
-  "BW/1.1",
-  "Mastodon/4",
-  "Mastodon/3",
+  "Mastodon",
   "craftopi.art",
   "Bytespider",
   "Pleroma 2",
   "Akkoma 3",
   "TelegramBot",
-  "BLEXBot/1.0",
+  "BLEXBot",
   "SerendeputyBot",
-  "SummalyBot/1",
+  "SummalyBot",
+  "Summalybot",
   "Friendica",
   "test-bot",
   "my-tiny-bot",
@@ -41,29 +42,28 @@ $bots['bots'] = [
   "TrendsmapResolver",
   "EventMachine HttpClient",
   "linkfluence.com",
-  "Python-urllib/3.9",
+  "Python-urllib",
   "ddg_android",
   "DotBot",
   "FlipboardProxy",
-  "w3m/0",
-  "LinkPreview/",
+  "w3m",
+  "LinkPreview",
   "panscient.com",
   "fedistatsCrawler",
   "AwarioBot",
-  "Cardyb/",
+  "Cardyb",
   "Amazonbot",
   "website-datenbank.de",
   "NetBSD alpha",
-  "LivelapBot/0.2",
-  "SummalyBot/2",
+  "LivelapBot",
   "ImagesiftBot",
   "trendictionbot",
   "MJ12bot",
   "OpenGraph.io",
   "trendictionbot",
-  "Yeti/",
+  "Yeti",
   "ClaudeBot",
-  "Friendly_Crawler/",
+  "Friendly_Crawler",
   "GoogleOther",
   "RottenLinks",
   "enby-town",
@@ -71,9 +71,9 @@ $bots['bots'] = [
   "python-requests",
   "DuckDuckBot",
   "Iceshrimp",
-  "Embedly/",
+  "Embedly",
   "Google-Safety",
-  "axios/",
+  "axios",
 ];
 
 $bots['ips'] = [
@@ -300,7 +300,6 @@ if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
   echo json_encode($bots);
   die;
 }
-
 $ips = [];
 $json["total"] = 0;
 $lines = explode("\n", file_get_contents (__DIR__."/log.txt"));
@@ -308,7 +307,7 @@ foreach ($lines as $line) {
   if($line != '') {
     $fields =  explode("|", $line);
     $last_key = array_key_last($fields);
-    if ( !preg_match('('.implode('|',$bots->bots).')', $fields[$last_key]) && !preg_match('('.implode('|',$bots->ips).')', $fields[1])) {
+    if ( !preg_match('('.implode('|',$bots['bots']).')', $fields[$last_key]) && !preg_match('('.implode('|',$bots['ips']).')', $fields[1])) {
       $json["descargas"][] = $fields;
       if(!in_array($fields[1], $ips)) {
         $ips[] = $fields[1];
