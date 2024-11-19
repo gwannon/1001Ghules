@@ -74,6 +74,7 @@ $bots['bots'] = [
   "Embedly",
   "Google-Safety",
   "axios",
+  "Pleroma;",
 ];
 
 $bots['ips'] = [
