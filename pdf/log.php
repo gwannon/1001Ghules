@@ -286,6 +286,8 @@ $bots['ips'] = [
 
 
   "128.199.15.211", //Digital Ocean LLC
+
+  "20.120.134.33", //Microsoft
  
 
   "62.174.208.61", //My IP
