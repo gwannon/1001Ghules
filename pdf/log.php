@@ -75,6 +75,7 @@ $bots['bots'] = [
   "Google-Safety",
   "axios",
   "Pleroma;",
+  "Bun/",
 ];
 
 $bots['ips'] = [
