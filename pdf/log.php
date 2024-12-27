@@ -300,7 +300,7 @@ $bots['ips'] = [
 
   "128.199.15.211", //Digital Ocean LLC
   "207.154.243.139", //Digital Ocean LLC
-   "64.226.124.225", //Digital Ocean LLC
+  "64.226.124.225", //Digital Ocean LLC
   "64.226.107.90", //Digital Ocean LLC
   "207.154.251.79", //Digital Ocean LLC
   "129.226.93.214", //Tecent
@@ -317,7 +317,8 @@ $bots['ips'] = [
   "47.58.168.61", // My IP
   "47.58.173.200", // My IP
   "77.231.12.109", // My IP
-  "47.58.167.102", //Mu IP
+  "47.58.167.102", //My IP
+  "47.61.251.54", //My IP
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
