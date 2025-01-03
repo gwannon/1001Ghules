@@ -307,6 +307,7 @@ a,
     section:first-of-type > div > h1 {
       font-size: 4em;
       color: var(--color-old-gold);
+      margin-top: 403px;
     }
 
     section:first-of-type img {
