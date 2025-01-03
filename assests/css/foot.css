@@ -244,7 +244,7 @@ body:after {
 }
 
 body {
-  background: #fff url(../bg-print.png) center center repeat;
+  background: #fff url(../bg-print.png) top left repeat;
   background-size: 3em 3em;
   opacity: 1;
 }
