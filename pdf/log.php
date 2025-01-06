@@ -309,6 +309,7 @@ $bots['ips'] = [
 
   "20.120.134.33", //Microsoft
   "99.255.100.228", //projectsdomain.org
+  "2a06:98c0:3600::103", //Cloudflare
 
   "62.174.208.61", //My IP
   "47.58.171.195", //My IP
