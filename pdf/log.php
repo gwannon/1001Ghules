@@ -77,6 +77,7 @@ $bots['bots'] = [
   "Pleroma;",
   "Bun/",
   "GeedoProductSearch",
+  "Turnitin",
 ];
 
 $bots['ips'] = [
