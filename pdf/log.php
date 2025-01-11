@@ -303,6 +303,7 @@ $bots['ips'] = [
 "35.227.62.178", //Google
 "172.253.192.244", //Google
   "172.253.15.237", //Google
+    "172.253.192.254", //Google
 
   "128.199.15.211", //Digital Ocean LLC
   "207.154.243.139", //Digital Ocean LLC
