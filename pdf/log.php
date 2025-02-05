@@ -164,6 +164,9 @@ $bots['ips'] = [
   "65.109.155.237", //Hetzner Online GmbH
   "65.21.136.254", //Hetzner Online GmbH
   "49.13.2.198", //Hetzner Online GmbH
+  "5.161.204.59", //Hetzner Online GmbH
+  "178.156.144.152", //Hetzner Online GmbH
+  "5.161.48.222", //Hetzner Online GmbH
 
 
   "52.17.217.34", //Amazon
@@ -327,8 +330,8 @@ $bots['ips'] = [
   "138.68.22.173", //Digital Ocean LLC
   "138.197.212.221", //Digital Ocean LLC
   "165.232.158.68", //Digital Ocean LLC
-   "167.99.174.172", //Digital Ocean LLC
-    "167.99.96.170", //Digital Ocean LLC
+  "167.99.174.172", //Digital Ocean LLC
+  "167.99.96.170", //Digital Ocean LLC
   //"129.226.93.214", //Tecent
 
   "20.120.134.33", //Microsoft
