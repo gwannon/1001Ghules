@@ -79,6 +79,7 @@ $bots['bots'] = [
   "GeedoProductSearch",
   "Turnitin",
   "MagpieRSS",
+  "undici",
 ];
 
 $bots['ips'] = [
