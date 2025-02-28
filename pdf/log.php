@@ -80,6 +80,7 @@ $bots['bots'] = [
   "Turnitin",
   "MagpieRSS",
   "undici",
+  "Go-http-client",
 ];
 
 $bots['ips'] = [
@@ -133,6 +134,7 @@ $bots['ips'] = [
   "51.91.18.151", //OVH SAS
   "66.70.240.189", //OVH SAS
   "69.176.89.192", //OVH SAS
+  "15.204.224.92", //OVH SAS
 
 
 
