@@ -348,6 +348,7 @@ $bots['ips'] = [
   "165.232.158.68", //Digital Ocean LLC
   "167.99.174.172", //Digital Ocean LLC
   "167.99.96.170", //Digital Ocean LLC
+  "104.248.85.196", //Digital Ocean
   //"129.226.93.214", //Tecent
 
   "20.120.134.33", //Microsoft
