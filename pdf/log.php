@@ -81,6 +81,7 @@ $bots['bots'] = [
   "MagpieRSS",
   "undici",
   "Go-http-client",
+  "meta-externalagent",
 ];
 
 $bots['ips'] = [
@@ -189,6 +190,8 @@ $bots['ips'] = [
   "54.206.127.151", //AWS
   "15.237.94.92", //AWS
   "54.156.251.192", //AWS
+  "3.95.179.243", //AWS
+  "3.95.179.243", //AWS
   
 
 
