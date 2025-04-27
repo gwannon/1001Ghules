@@ -82,6 +82,7 @@ $bots['bots'] = [
   "undici",
   "Go-http-client",
   "meta-externalagent",
+  "YisouSpider",
 ];
 
 $bots['ips'] = [
