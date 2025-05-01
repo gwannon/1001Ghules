@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#4d83a9">
+    <meta name="google-site-verification" content="XjYYpisg3ePb5JXgkfy7ACv6FoYjnIJxPnJTZ6ZKsDc">
+    <meta property="og:image" content="https://1001ghules.gwannon.com/assests/images/metas.jpg">
+    <link rel="stylesheet" href="./assests/css/head.css?ver=1.0&hash=20240621">
+    <title>|TITLE|</title>
+    <meta name="description" content="|DESCRIPTION| Versión |VERSION|">
+    <meta property="og:title" content="|TITLE|">
+    <meta property="og:description" content="|DESCRIPTION| Versión |VERSION|">
+    <meta property="og:image" content="|URL|/images/metas.jpg">
+    <meta property="og:url" content="|URL|" />
+  </head>
+  <body>
+    <section>
+      <h3 class="noindex">|SHORTDESCRIPTION|</h3>
+      <h1 class="noindex">|TITLE|</h1 >
+      <h2 class="noindex">|DESCRIPTION|</h2>
+      <img src="./images/pinnaclelogo.webp" alt="Logo Pinnacle">
+      <div class="saltopagina"></div>
+    </section>
+    <section>
+      <p>&nbsp;</p>
+      <div class="saltopagina"></div>
+      <p><b>Fecha publicación:</b> |LANZAMIENTO|</p>
+      <p><b>Versión:</b> |VERSION|</p>
+      <p><b>Páginas:</b> <span></span></p>
+      <p><b>Palabras:</b> <span></span></p>
+      <p class="nopdf"><a href="/pdf/" class="download">VERSIÓN EN PDF</a></p>
+      <div class="saltopagina"></div>
+      <h2 class="noindex">Licencia de uso</h2>
+      <p style="word-break: break-word;">La presente obra se encuentra bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0) (<a href="https://creativecommons.org/licenses/by/4.0/deed.es">https://creativecommons.org/licenses/by/4.0/deed.es</a>). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:</p>
+      <p style="word-break: break-word; font-style: italic;">Este trabajo está basado en la ambientación para Savage Worlds |TITLE| creada por |AUTHOR| y está disponible de forma gratuita en <a href="|URL|">|URL|</a> y el código original puede obtenerse en <a href="|GITHUB|">|GITHUB|</a>. Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en <a href="https://creativecommons.org/licenses/by/4.0/legalcode.es">https://creativecommons.org/licenses/by/4.0/legalcode.es</a>.
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+          <img alt="Licencia de Creative Commons" style="border-width:0; display: block; margin: 15px auto 0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png">
+        </a>
+      </p>
+      <p style="font-style: italic; margin-top: 20px;">This game references the Savage Worlds game system, available from Pinnacle Entertainment Group at www.peginc.com. Savage Worlds and all associated logos and trademarks are  copyrights of Pinnacle Entertainment Group. Used with permission. Pinnacle makes no  representation or warranty as to the quality, viability, or suitability for  purpose of this product.</p>
+      <p><img src="./images/pinnaclelogo.webp" alt="Logo Pinnacle" style="display: block; width: 150px; margin: auto;"></p>
+      <div class="saltopagina"></div>
+    </section>
+    <section id="index">
+      <div class="columns">|INDICE|</div>
+      <div class="saltopagina"></div>
+    </section>
+    <section>
+      |HTML|
+    </section>
+    <a id="gototop" href="#index">&#x21e7;</a>
+  </body>
+  <link rel="stylesheet" href="./assests/css/style.css?ver=|VERSION|&hash=|HASH|">
+  <script>
+    //WordCount
+    var cont = document.documentElement.innerHTML;
+    cont = cont.replace(/<[^>]*>/g," ");
+    cont = cont.replace(/\s+/g, ' ');
+    cont = cont.trim();
+    var n = cont.split(" ").length;
+    let words = document.querySelector('section:nth-of-type(2) p:nth-of-type(5) span');
+    words.innerHTML = n+" palabras";
+    //PageCount
+    let pages = document.querySelector('section:nth-of-type(2) p:nth-of-type(4) span');
+    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1)+" páginas";
+  </script>
+</html>

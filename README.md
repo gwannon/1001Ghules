@@ -1,5 +1,5 @@
 # Mil y Un Ghūles
-Mil y Un Ghūles es una ambientación para SWADE con el que podrás jugar a los relatos de horror cósmico que Scheherazade contó al sultán Shahriar durante 1001 noches.
+Mil y Un Ghūles es una ambientación para SWEA con el que podrás jugar a los relatos de horror cósmico que Scheherazade contó al sultán Shahriar durante 1001 noches.
 
 Fecha estimada de publicación: Marzo 2024
 
@@ -67,7 +67,7 @@ Fecha estimada de publicación: Marzo 2024
 * Terminado personaje: Alura
 
 ### 0.6.3 16/03/2024
-* Lugares míticos terminados: La ciudad de G'harne
+* Lugares míticos terminados: La ciudad de G’harne
 * Guía de viajes terminada: China e India, Egipto y la serpigente, Miknas
 * Ambientación terminada: Las Tierras del Sueño
 
@@ -93,7 +93,7 @@ Fecha estimada de publicación: Marzo 2024
 * Guía de viajes Egipto: Lago Karún
 * Nueva ventaja: Maquillaje
 * Nuevo objeto mítico: Tesoro de Al-Schamardal
-* Descripción secta terminada: La Mano Dorada de Suc'Naath
+* Descripción secta terminada: La Mano Dorada de Suc’Naath
 * Descripción secta terminada: La progenie de la Luna Creciente
 * Descripción secta terminada: Seguidores del Fuego y de la Luz
 * Sección terminada: Personas notables de la ciudad

@@ -1,0 +1,13 @@
+{"rule":"SEPARADO","sentence":"^\\Q|01ElMundo.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|02Reglas.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|03Monstruos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|04LugaresMiticos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|05GuisViajes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|06Bagdad.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|07CuentosSalvajes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|08Tesoros.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|09Gentes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|10Recursos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|11Epilogo.md|\\E$"}
+{"rule":"REP_CREAR","sentence":"^\\QReglas para crear personajes y enfrentarlos a la locura, a la magia y a los monstruos que pueblan los cuentos de las 1001 Noches y las historias de H. P. Lovecraft.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q¡Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn!\\E$"}

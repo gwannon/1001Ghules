@@ -1,16 +1,7 @@
 #!/bin/bash
 
-chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./index.html
-
-exiftool -overwrite_original -Title="Mil y Un Ghūles - Ambientación de Savage Worlds para poder jugar relatos de horror cósmico en las Mil y Una Noches. Versión 1.0" -Author="@Gwannon" -Subject="Mil y Un Ghūles es una ambientación de Savage Worlds Edición Aventura para poder jugar relatos de horror cósmico en las Mil y Una Noches. Versión 1.0" ./temp.pdf
-
-php pdfIndexGenerator.php > pdf.info
-
-pdftk 'temp.pdf' update_info_utf8 'pdf.info' output 'temp2.pdf'
-
+php ./tools/generateDocs.php
+google-chrome --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./index.html
+pdftk 'temp.pdf' update_info_utf8 'metas.txt' output '1001Ghules.pdf'
+rm metas.txt
 rm temp.pdf
-rm pdf.info
-
-./pagination.sh temp2.pdf 1001Ghules.pdf
-
-rm temp2.pdf
