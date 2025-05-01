@@ -295,7 +295,7 @@ También tenemos otros idiomas no humanos. Son idiomas hablados por los extraño
 * Aklo, es una lengua secreta usada por muchos cultos adoradores de los primigenios y demás dioses exteriores.
 * R’lyehiano, el idioma hablado por las gente del mar.
 * Naacal, la lengua que habla la serpigente.
-* Pnakótico, es el idioma con el que escriben los Abu-Qith, ya que hablan con una mezcla de chasquidos de sus pinzas y de telepatía.
+* Pnakótico, es el idioma con el que escriben los abu-qith, ya que hablan con una mezcla de chasquidos de sus pinzas y de telepatía.
 
 ## Horror y cordura
 

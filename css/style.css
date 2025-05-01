@@ -55,6 +55,8 @@ body {
   color: var(--color-black);
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
+  background: #fff url(../images/bg.jpg) repeat-y top center;
+  background-size: contain;
 }
 
 section > p,
@@ -87,6 +89,20 @@ blockquote {
   padding: 15px;
   margin-bottom: calc(var(--padding) / 2);
   margin: 0px;
+}
+
+blockquote:has(p.primigenio) {
+  border-color: var(--color-green-cthulhu);
+  padding: 15px;
+  background-color: var(--color-green-deepone);
+}
+
+blockquote:has(p.semilla) {
+  --pattern-size: 25px;
+  --color-emerald: #bbbbbb;
+  padding: 15px;
+  background-color:var(--color-emerald);
+
 }
 
 blockquote p {
@@ -184,13 +200,20 @@ h5 {
   margin-bottom: 0px;
 }
 
+h2:not(section:last-of-type h2):not(section:first-of-type h2) {
+      font-size: 2em;
+      line-height: 120%;
+      color: var(--color-old-gold);
+      text-shadow: 3px -1px 1px black;
+      text-align: center;
+    }
+
 h3 {
-  font-size: 1.2em;
-  border-bottom: 1px solid var(--color-black);
+  font-size: 1.5em;
 }
 
 h4 {
-  font-size: 1.1em;
+  font-size: 1.3em;
 }
 
 h5 {
@@ -223,7 +246,7 @@ img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-t
   max-height: 1000px;
 }
 
-img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img, img.silueta) {
+img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img, img[alt^=Silueta]) {
   width: 100%;
   border: 1px solid black;
   box-shadow: 1px 1px 8px 3px var(--color-old-gold);
@@ -279,6 +302,153 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
   section:nth-of-type(3) {
     padding-top: var(--padding);
   }
+
+  /* ---------- Margenes -------------- */
+
+  h1:not(section:last-of-type h1):not(section:first-of-type h1) { 
+    color: transparent;
+    text-shadow: none;
+  }
+
+  section:not(section:first-of-type, section:nth-of-type(2), section:nth-of-type(3), section:last-of-type ) .saltopagina:before {
+    display: block;
+    font-family: 'Khodijah';
+    word-wrap: break-word;
+    width: calc(var(--padding) - 10px);
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    clip-path: polygon(
+      0% 0%,
+      100% 0%,
+      100% calc(100% - var(--padding)),
+      0% 100%
+    );
+    box-sizing: border-box;
+    padding: 12px;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  section:not(section:first-of-type, section:nth-of-type(2), section:nth-of-type(3), section:nth-of-type(4), section:last-of-type ) .saltopagina.even:before {
+    left: auto;
+    right: 0px;
+    clip-path: polygon(
+      0% 0%,
+      100% 0%,
+      100% 100%,
+      0% calc(100% - var(--padding))      
+    );
+  }
+
+  section:nth-of-type(5) .saltopagina:before,
+  section:nth-of-type(5) .saltopagina.even:before {
+    height: 91vh;
+    bottom: calc(9vh + 2px);
+    content: "E \A l \A \A m \A u \A n \A d \A o \A \A d \A e \A \A l \A a \A s \A \A t \A e \A n \A e \A b \A r \A o \A s \A a \A s \A \A 1 \A 0 \A 0 \A 1 \A \A N \A o \A c \A h \A e \A s";
+    white-space: pre;
+    background-color: var(--color-emerald);
+  }
+
+  section:nth-of-type(6) .saltopagina:before,
+  section:nth-of-type(6) .saltopagina.even:before {
+    height: 42vh;
+    bottom: calc(58vh + 2px);
+    content: "R \A e \A g \A l \A a \A s \A \A d \A e \A \A a \A m \A b \A i \A e \A n \A t \A a \A c \A i \A ó \A n ";
+    white-space: pre;
+    background-color: var(--color-gold);
+  }
+
+  section:nth-of-type(7) .saltopagina:before,
+  section:nth-of-type(7) .saltopagina.even:before {
+    height: 52vh;
+    bottom: calc(48vh + 2px);
+    content: "M \A a \A g \A i \A a \A \A S \A i \A h \A r ";
+    white-space: pre;
+    background-color: var(--color-green-cthulhu);
+  }
+
+  section:nth-of-type(8) .saltopagina:before,
+  section:nth-of-type(8) .saltopagina.even:before {
+    height: 62vh;
+    bottom: calc(38vh + 2px);
+    content: "S \A e \A r \A e \A s \A \A y \A \A m \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A a \A s \A \A t \A e \A n \A e \A b \A r \A o \A s \A a \A s \A \A 1 \A 0 \A 0 \A 1 \A \A N \A o \A c \A h \A e \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(9) .saltopagina:before,
+  section:nth-of-type(9) .saltopagina.even:before {
+    height: 75vh;
+    bottom: calc(25vh + 2px);
+    content: "L \A u \A \A g \A a \A r \A e \A s \A \A m \A í \A t \A i \A c \A o \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(10) .saltopagina:before,
+  section:nth-of-type(10) .saltopagina.even:before {
+    height: 75vh;
+    bottom: calc(25vh + 2px);
+    content: "G \A u \A í \A a \A \A d \A e \A \A v \A i \A a \A j \A e \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(11) .saltopagina:before,
+  section:nth-of-type(11) .saltopagina.even:before {
+    height: 20vh;
+    bottom: calc(80vh + 2px);
+    content: "B \A a \A g \A d \A a \A d ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(12) .saltopagina:before,
+  section:nth-of-type(12) .saltopagina.even:before {
+    height: 43vh;
+    bottom: calc(57vh + 2px);
+    content: "C \A u \A e \A n \A t \A o \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(13) .saltopagina:before,
+  section:nth-of-type(13) .saltopagina.even:before {
+    height: 43vh;
+    bottom: calc(57vh + 2px);
+    content: "T \A e \A s \A o \A r \A o \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(14) .saltopagina:before,
+  section:nth-of-type(14) .saltopagina.even:before {
+    height: 43vh;
+    bottom: calc(57vh + 2px);
+    content: "G \A e \A n \A t \A e \A s \A \A d \A e \A \A l \A a \A \A A \A r \A a \A b \A i \A a \A \A m \A í \A t \A i \A c \A a ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(15) .saltopagina:before,
+  section:nth-of-type(15) .saltopagina.even:before {
+    height: 43vh;
+    bottom: calc(57vh + 2px);
+    content: "R \A e \A c \A u \A r \A s \A o \A s \A \A y \A \A m \A a \A p \A a \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  section:nth-of-type(16) .saltopagina:before,
+  section:nth-of-type(16) .saltopagina.even:before {
+    height: 43vh;
+    bottom: calc(57vh + 2px);
+    content: "E \A p \A í \A l \A o \A g \A o ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
 }
 
 
@@ -298,21 +468,22 @@ body {
 
 .saltopagina:after {
   --size: 30px;
+  font-size: 30px;
   font-family: 'Khodijah';
   display: flex;
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
-  color: var(--color-gold);
+  color: var(--color-emerald);
   position: absolute;
   bottom: 11px;
   left: 10px;
   width: var(--size);
   height: var(--size);
-  background-color: var(--color-sunset);
   z-index: 10;
   opacity: 1;
-  clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
+  /*background-color: var(--color-sunset);
+  clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);*/
 }
 
 section h1 + .saltopagina:after {
@@ -358,6 +529,43 @@ section h1 + .saltopagina:after {
 .saltocolumna + blockquote > p {
   margin-top: 0;
   padding-top: 0;
+}
+
+/* Tablas */
+
+table thead tr th {
+  padding: 10px;
+  font-family: 'Khodijah';
+  font-size: 1.1em;
+  font-weight: 400;
+}
+
+table thead tr:first-child th {
+  font-size: 1.5em;
+}
+
+table tbody tr>* {
+  padding: 5px;
+}
+
+table tbody tr th[rowspan] {
+  background-color: var(--color-sand);
+}
+
+table thead {
+  background-color: var(--color-sand);
+}
+
+table tbody tr>* {
+  transition: all 0.6s;
+}
+
+/*table tbody tr:nth-child(even) {
+  background-color: var(--green-gul);
+}*/
+
+table tbody tr:nth-child(odd) {
+  background-color: var(--color-gold);
 }
 
 

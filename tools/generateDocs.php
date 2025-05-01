@@ -40,6 +40,8 @@ $html = str_replace("<div class=\"columns\">\n</div>", "", $html);
 $html = str_replace("<table>", "<div><table>", $html); 
 $html = str_replace("</table>", "</table></div>", $html); 
 $html = str_replace("/br/", "<br/>", $html); 
+$html = str_replace("<p>/p/", "<p class=\"primigenio\">", $html); 
+$html = str_replace("<p>/s/", "<p class=\"semilla\">", $html); 
 
 $html = str_replace("<ul>\n<li><strong>Título:</strong>", "<ul class=\"libro\">\n<li><strong>Título:</strong>", $html);
 

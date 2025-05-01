@@ -729,9 +729,9 @@ Sin embargo, su fe budista es lo que ha hecho tan buen consejero y visir a Giafa
 
 El mayor secreto que guarda Giafar es que sabe que el propio Califa será el culpable de su muerte. Pero en vez de tratar de impedirlo o acabar con el Califa, prefiere dejar hacer al Destino, tratar de continuar con sus buenas acciones y de dejar la ciudad lo más protegida posible contra sus enemigos.
 
-Giafar fue poseído por un Abu-Qith y durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisando sus archivos, averiguó su propia muerte por orden su señor y amigo, el Califa Harun Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
+Giafar fue poseído por un abu-qith y durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisando sus archivos, averiguó su propia muerte por orden su señor y amigo, el Califa Harun Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
 
-Lo que hizo fallar el borrado de memoria fue una serie de mantras de meditación que pronuncio mientras trasteaban con su mente. Estos mantras interfirieron en la eliminación de sus recuerdos de su estancia en Pnakotus y todo lo que aprendió allí. Los Abu-Qith desconocen totalmente el fallo en el borrado de memoria de Giafar y por eso Giafar hace todo en el máximo secreto. No quiere que sus actividades se hagan públicas temiendo que los Abu-Qith vuelvan para acabar lo que dejaron a medias.
+Lo que hizo fallar el borrado de memoria fue una serie de mantras de meditación que pronuncio mientras trasteaban con su mente. Estos mantras interfirieron en la eliminación de sus recuerdos de su estancia en Pnakotus y todo lo que aprendió allí. Los abu-qith desconocen totalmente el fallo en el borrado de memoria de Giafar y por eso Giafar hace todo en el máximo secreto. No quiere que sus actividades se hagan públicas temiendo que los abu-qith vuelvan para acabar lo que dejaron a medias.
 
 También sabe que un terrible destino acecha a la ciudad de Bagdad, pero ahí, el borrado de memoria fue eficaz y no puede recordarlo. Es por ello que está llevando en secretos todo tipo de proyectos para proteger a su querida ciudad.
 

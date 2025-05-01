@@ -207,9 +207,9 @@ El hammam de las delicias
 
 El Hammam de las delicias es una especie de prisión donde encerrar a una persona sin que realmente sepas que estás encerrado. El Hammam es una especie de reino mágico (en realidad tecnología abu-qith) en la que se encierra la mente de prisionero y se le hace creer que está en un hammam increíblemente lujoso, con todo tipo de delicias, bellos y bellas masajistas, ricos manjares, aceites perfumados, piscinas de agua caliente, etc. Mientras, tu cuerpo puede estar en cualquier parte en estado casi comatoso, sin necesitar casi agua y comida.
 
-Los Abu-Qith con sus posesiones a través del tiempo tienen que dejar la mente del poseído en su cuerpo mientras ellos poseen el cuerpo del humano. Por ello, intentaron crear estos lugares tecno-mágicos para que los humanos no tuvieran que meterse en los cuerpos de los Abu-Qith y se quedarán en estos limbos.
+Los abu-qith con sus posesiones a través del tiempo tienen que dejar la mente del poseído en su cuerpo mientras ellos poseen el cuerpo del humano. Por ello, intentaron crear estos lugares tecno-mágicos para que los humanos no tuvieran que meterse en los cuerpos de los abu-qith y se quedarán en estos limbos.
 
-La idea era colocar una diadema mágica al cuerpo del abu-qith con la mente humana y mientras el cuerpo apenas sufría deterioro, la mete vivía en ese hammam de las delicias. El problema es que las mentes se deterioraban bastante rápidamente y al final no llegaron a usarlos. Era mucho más práctico y efectivo dejarles vivir dentro de un cuerpo del Abu-Qith y borrarles la memoria antes de devolver su mente a su cuerpo.
+La idea era colocar una diadema mágica al cuerpo del abu-qith con la mente humana y mientras el cuerpo apenas sufría deterioro, la mete vivía en ese hammam de las delicias. El problema es que las mentes se deterioraban bastante rápidamente y al final no llegaron a usarlos. Era mucho más práctico y efectivo dejarles vivir dentro de un cuerpo del abu-qith y borrarles la memoria antes de devolver su mente a su cuerpo.
 
 Las diademas funcionan con cualquier entidad o cosa que tenga dentro una mente humana, incluso aquellos malditos en cuerpos de animal o en tubos cerebrales Al Mighos y crean una fantasía idílica, normalmente el hammam, pero podría hacer otras fantasías para otras culturas.
 

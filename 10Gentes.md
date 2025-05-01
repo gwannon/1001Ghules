@@ -104,7 +104,7 @@ Sett, a diferencia de lo que pudiera pensarse, se lleva muy bien con las concubi
 ## Giafar al-Barmak, gran visir del califa de Bagdad ☾
 
 > Miro sus manos y solo encontró unas pinzas de cangrejo del Mar Rojo y mirando su cuerpo solo vio una especie de caracola gigantesca como las que los pescadores de Basora recogen en las playas. Su fe budista ya le había preparado para el ciclo eterno del karma y la reencarnación, pero aquello superaba lo que su cordura podía resistir. Su mirada se nubló y luego nada …  
-> Cuando el sentido volvió a su cuerpo, a su lado estaban dos seres como él que según Alhazred eran yinns de la tribu de Abu-Qiths. Y ahora era parte de la tribu y o mejor todos sus conocimientos eran también suyos.
+> Cuando el sentido volvió a su cuerpo, a su lado estaban dos seres como él que según Alhazred eran yinns de la tribu de abu-qiths. Y ahora era parte de la tribu y o mejor todos sus conocimientos eran también suyos.
 
 [![Sketch_Dailies: Jafar by giorgiobaroni](./images/giafar.png)](https://www.deviantart.com/giorgiobaroni/art/Sketch-Dailies-Jafar-530933382 "Sketch_Dailies: Jafar by giorgiobaroni") 
 
@@ -116,7 +116,7 @@ Los barmáquidas tiene una larga tradición de ministros, secretarios y visires 
 
 Giafar lleva toda su vida estudiando ciencias y humanidades como parte de su preparación para ser visir. Rápidamente descubrió el mundo del ocultismo y descubría que la magia se le daba muy bien, convirtiéndose con los años en un fabuloso mago. Dispone de una increíble biblioteca mágica con varios incunables de grandísimo valor.
 
-Giafar fue poseído por un Abu-Qith, seguramente por su excepcionalidad y su interés histórico. Durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisó sus archivos y averiguó su propia muerte por orden su señor y amigo, el Califa Harun Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
+Giafar fue poseído por un abu-qith, seguramente por su excepcionalidad y su interés histórico. Durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisó sus archivos y averiguó su propia muerte por orden su señor y amigo, el Califa Harun Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
 
 Giafar es budista como el resto de su familia, algo que han llevado en secreto durante siglos, ya que sería una vergüenza que el visir del califa no fuera de re islámica. Aunque corren rumores, nunca han podido ser demostrados, pero eso no quiere decir que no se hayan usado para envenenar el oído del califa contra Giafar.
 

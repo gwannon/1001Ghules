@@ -156,13 +156,13 @@ Gente del mar, Ghūl, Sukaan
 
 Experimentado
 
-Serpigente, Abu-Qith científico, Fuego de la Yahannam
+Serpigente, abu-qith científico, Fuego de la Yahannam
 
 6
 
 Veterano
 
-Sirviente alado, Abu-Qith soldado, Abibil
+Sirviente alado, abu-qith soldado, Abibil
 
 8
 
@@ -960,7 +960,7 @@ El libro describe la vida de Eibon, un hechicero y nigromante hiperbóreo, así 
 
 **Idioma:** Griego clásico
 
-Pnakotica es la traducción al griego de los Manuscritos Pnakóticos, un grimorio escrito por la gran raza de los Abu-Qith antes de la aparición del hombre.
+Pnakotica es la traducción al griego de los Manuscritos Pnakóticos, un grimorio escrito por la gran raza de los abu-qith antes de la aparición del hombre.
 
 Contiene mucha información acerca de estos yinns, así como de otras muchas materias taumatúrgicas, incluyendo descripciones de dioses exteriores, primigenios y lugares míticos y como llegar a ellos.
 

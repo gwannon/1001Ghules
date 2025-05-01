@@ -90,48 +90,48 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
     * **Telepatía:** Los Al Mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
 * **TPC:** 1d6
 
-### Abu-Qith (Gran raza de Yith)
+### Abu-qith (Gran raza de Yith)
 
 > … llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo. Aquella concha cónica con pseudópodos que surgía de la tierra, diríase un engendro monstruoso arrojado allí por la fuerza de las potencias infernales. Era negro y grande como el tronco de una palmera vieja, seca y desprovista de sus palmas. Tenía cuatro enormes tentáculos, dos de las cuales semejaban pinzas de cangrejos. Al final del tercero de forma espantosa se agitaba una especie de cabeza con ojos sin pupilas lanzando iguales resplandores verdes que la mirada de tigres y panteras. En el último tentáculo tenía una caja de hueso con varios tubo a modo de trompa que usaba para hablar.
 > 
 > **Referencia:** Historia de la ciudad de bronce (n. 341)
 
-Los Abu-Qiths es una tribu de yinns que no tiene forma corpórea. Vinieron a la Tierra para escapar de la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y otro en una especie de boca.
+Los abu-qiths es una tribu de yinns que no tiene forma corpórea. Vinieron a la Tierra para escapar de la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y otro en una especie de boca.
 
-Se caracterizan por su control del viaje a través del tiempo. De hecho, se les conoce como Gran raza, ya que han sido capaces de controlar los viajes temporales. Cuando te encuentres con un Abu-Qith debe tener en cuenta que igual estás hablando con alguien de tu pasado o de tu futuro, con todas las implicaciones que tiene eso.
+Se caracterizan por su control del viaje a través del tiempo. De hecho, se les conoce como Gran raza, ya que han sido capaces de controlar los viajes temporales. Cuando te encuentres con un abu-qith debe tener en cuenta que igual estás hablando con alguien de tu pasado o de tu futuro, con todas las implicaciones que tiene eso.
 
-Pueden mandar su mente a través del tiempo y ocupar los cuerpos de seres inteligentes de diferentes épocas. Las mentes de los cuerpos ocupados pasan al cuerpo del Abu-Qith y este puede usarlo para interactuar con otros Abu-Qiths. Cuando la mente del Abu-Qith vuelve a su cuerpo, la mente del huésped vuelve a su cuerpo tras ser borrada su memoria.
+Pueden mandar su mente a través del tiempo y ocupar los cuerpos de seres inteligentes de diferentes épocas. Las mentes de los cuerpos ocupados pasan al cuerpo del abu-qith y este puede usarlo para interactuar con otros abu-qiths. Cuando la mente del abu-qith vuelve a su cuerpo, la mente del huésped vuelve a su cuerpo tras ser borrada su memoria.
 
-#### Erudito Abu-Qith ☾
+#### Erudito abu-qith ☾
 
 [![Grate race of YITH by Nottsuo](./images/yith.webp)](https://www.deviantart.com/nottsuo/art/Grate-race-of-YITH-retouch2-875186832 "Grate race of YITH by Nottsuo") 
 
-Los Abu-Qiths son grandes científicos, como demuestra su capacidad de viajar en el tiempo o sus armas de rayos. El más simple de los Abu-Qiths está al nivel de grandes nombres de la ciencia como Abulcasis o Mariam Al-Ijliya al-Asturlabi.
+Los abu-qiths son grandes científicos, como demuestra su capacidad de viajar en el tiempo o sus armas de rayos. El más simple de los abu-qiths está al nivel de grandes nombres de la ciencia como Abulcasis o Mariam Al-Ijliya al-Asturlabi.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d12, Vigor d12
 * **Habilidades:** Ciencias d10, Disparar d6, Investigar d10, Mitos de Cthulhu d8, Notar d8, Pelear d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 17 (4)
 * **Capacidades especiales:**
     * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
-    * **Tecnología Abu-Qith:** Puedes asignarle a un Abu-Qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los Abu-Qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
-    * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un Abu-Qith. También tiene 1 herida extra.
+    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+    * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
     * **Pinzas:** FUE+d6
-    * **Telepatía:** Los Abu-Qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
+    * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
 * **TPC:** 1d8
 
-#### Soldado Abu-Qith ☾
+#### Soldado abu-qith ☾
 
-Los Abu-Qiths combatieron y derrotaron a un gran enemigo, los warams, y es por ello que puede ser formidables combatientes, sobre todo si disponen de sus temibles armas lanzarrayos.
+Los abu-qiths combatieron y derrotaron a un gran enemigo, los warams, y es por ello que puede ser formidables combatientes, sobre todo si disponen de sus temibles armas lanzarrayos.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d12+2, Vigor d12+2
 * **Habilidades:** Ciencias d60, Disparar d10, Mitos de Cthulhu d6, Notar d8, Pelear d8, Notar
 * **Paso:** 6; **Parada:** 5; **Dureza:** 18 (4)
 * **Capacidades especiales:**
     * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
-    * **Tecnología Abu-Qith:** Puedes asignarle a un Abu-Qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los Abu-Qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
-    * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un Abu-Qith. También tiene 1 herida extra.
+    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
+    * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
     * **Pinzas:** FUE+d6
-    * **Telepatía:** Los Abu-Qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
+    * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
 * **TPC:** 1d8
 
 Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego.
@@ -140,9 +140,9 @@ Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más 
 
 Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Tiene dos grandes asas y al pulsarse los gatillos que hay en cada asa lanza unos rayos que calcinan a su objetivo. Es por ello que se necesitan dos manos para poder usarla.
 
-Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público no es algo que se pueda esconder. Es el terrible ruido que produce esta arma y los rayos que lanza, lo que da fama a los Abu-Qith de seres terribles y malignos relacionados con el fuego.
+Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público no es algo que se pueda esconder. Es el terrible ruido que produce esta arma y los rayos que lanza, lo que da fama a los abu-qith de seres terribles y malignos relacionados con el fuego.
 
-Arma lanzarrayos Abu-Qith
+Arma lanzarrayos abu-qith
 
 Distancia
 
@@ -213,13 +213,13 @@ Los warams ya son de por sí enemigos temibles, pero pueden ponerles hechizos si
 
 > … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. \[…\] Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
 
-Según Alhazred, los Janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
+Según Alhazred, los janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
 A pesar de que son morfológicamente los yinns más extraños, ya que no se parecen a ningún ser de la naturaleza, eran muy parecidos a los humanos. Ambos tienen una sociedad compleja, con clases sociales, formas de producción avanzadas, donde se cultivaba el arte y la ciencia y en la que sus individuos no solo vivían para sobrevivir, sino que tenían vidas plenas, llenas de todo tipo de relaciones sociales.
 
 [![An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.](./images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.") 
 
-Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los Janns no son usables de forma normal por humanos y habría que adaptarlos.
+Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los janns no son usables de forma normal por humanos y habría que adaptarlos.
 
 El cinco es un número importante entre los janns debido a que su torso de tonel tiene 5 lados, tiene 5 tentáculos, etc. La estrella de 5 puntas es también un símbolo importante para los janns.
 
@@ -232,7 +232,7 @@ El cinco es un número importante entre los janns debido a que su torso de tonel
     * **Armadura +2:** Su dura piel de aspecto gomoso le protege de los ataques.
     * **Tamaño +2:** Un ejemplar adulto puede llegar a los 350 kg (+2 a dureza).
     * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
-    * **Tecnología Jann:** Puedes asignarle a un jann hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 6 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los Janns pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+    * **Tecnología Jann:** Puedes asignarle a un jann hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 6 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los janns pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
 * **Equipo:** Herramientas y utensilios que use en su trabajo
 * **TPC:** d8
 

@@ -1502,7 +1502,7 @@ El Gremio desconoce la naturaleza híbrida de la Alya, pero si tus schahriars le
 
 Si rechazan la propuesta del Gremio, estos se pondrán la capucha y se marcharán diciendo: _"No sabéis que fuerzas podéis terminar trayendo a vuestro mundo. Y cuando lo averigüéis, ya será tarde para evitar las consecuencias de vuestros insensatos actos."_
 
-Si intentan atacar, deberán enfrentarse a un [asesino del gremio](#anchorasesinoentrenado) y un [mago del gremio](#anchorcultistasuperior). La figura alta se levantará hasta llegar a los 3 metros y dejará caer su capa para mostrarse como un [Abu-qith soldado](#anchorabuqithsoldado) con una arma lanzarrayos.
+Si intentan atacar, deberán enfrentarse a un [asesino del gremio](#anchorasesinoentrenado) y un [mago del gremio](#anchorcultistasuperior). La figura alta se levantará hasta llegar a los 3 metros y dejará caer su capa para mostrarse como un [abu-qith soldado](#anchorabuqithsoldado) con una arma lanzarrayos.
 
 ### La estatua ecuestre
 
@@ -1658,7 +1658,7 @@ La ciudad va evolucionando según avanza la cultura humana y por ello tiene form
 
 #### Vuelve el gremio de Bronce
 
-Cuando menos se lo esperen de un palacio oirán una campanilla (claramente de bronce). En una ciudad en total silencio, una campanilla llama la atención. Si entran al palacio encontrarán a 3 encapuchados, los mismos de la cúpula de oro si aceptaron ayudar al Gremio. Si rechazaron ayudar al Gremio, habrá 6 (dos cultistas superiores, dos asesinos y dos soldados Abu qith).
+Cuando menos se lo esperen de un palacio oirán una campanilla (claramente de bronce). En una ciudad en total silencio, una campanilla llama la atención. Si entran al palacio encontrarán a 3 encapuchados, los mismos de la cúpula de oro si aceptaron ayudar al Gremio. Si rechazaron ayudar al Gremio, habrá 6 (dos cultistas superiores, dos asesinos y dos soldados abu-qith).
 
 Si son enemigos dirán que solo quieren hablar y tratarán de convencerles de unirse a ellos. Les hablarán de las cosas terribles que haría Bahamūt en la tierra. Si no lo consiguen atacarán. Deben de eliminar a tus schahriars y así evitar que se una a Alya.
 

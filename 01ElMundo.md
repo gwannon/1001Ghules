@@ -16,7 +16,9 @@ Tenemos extractos de las 1001 Noches originales y extractos de la versión que h
 
 > Aquí encontrarás extractos de los cuentos de las Mil y Una Noches originales.
 
-> Aquí encontrarás extractos de los cuentos de las Mil y Una Noches escritos de Abdul Alhazred.
+&nbsp;
+
+> /p/ Aquí encontrarás extractos de los cuentos de las Mil y Una Noches escritos de Abdul Alhazred.
 
 Además, todos los textos que supongan reglas y sistemas de juego estarán dentro de cajas como esta.
 
@@ -26,15 +28,13 @@ Aquí encontrarás reglas y sistemas de juego.
 
 El resto de elementos que se quieren destacar como reglas opcionales, semillas de aventuras y sugerencias varias vendrán con este formato.
 
-> Aquí encontrarás semillas de aventuras, recompensas de deseos y de cordura.
+> /s/ Aquí encontrarás semillas de aventuras, recompensas de deseos y de cordura.
+
+\sp
 
 Los nombres de personas, objetos o lugares a veces tienen paréntesis. Dentro de los paréntesis está su referencia a los Mitos.
 
-\sp
-
 Por ejemplo, si vemos «Gente del mar (Profundo)» sabemos que la Gente del mar, una especie de sirenas, hace referencia a los Profundos de los Mitos de Cthulhu.
-
-\sp
 
 \sinc
 
@@ -60,16 +60,19 @@ Es por ello que abandonó Sana y viajo por todo Oriente Próximo, Sinaí y el no
 Pasó diez años en el desierto arábigo de Rub al-Jali, habitado por espectros y monstruos. En Rub al-Jali hizo dos grandes descubrimientos:
 
 * **La ciudad perdida de Aram-de-las-Columnas:** donde encontró textos de una raza desaparecida anterior a la Humanidad que Alhazred denominó como los aads. Aquí sería donde abandonaría la fe musulmana y empezaría a adorar a dos entidades llamadas Cthulhu y Yog-Sothoth.
-
-\sp
-
 * **La ciudad sin nombre:** A menudo confundida con Aram-de-las-columnas, pero a diferencia de Aram, la Ciudad sin nombre es una ciudad habitada por una casi extinta de seres lagarto. Se dice que Abdul Alhazred soñó con esta ciudad la noche antes de pronunciar su inexplicable pareado: «Que no está muerto lo que puede yacer eternamente, Y con los evos extraños la muerte puede morir.»
 
 ### Damasco
 
 Tras muchas aventuras y con nuevos conocimientos, abandonó el desierto para establecerse en Damasco y escribir su obra magna Kitab Al-Azif, nombre que evoca los susurros nocturnos de los yinns, el cual fue más conocido por su traducción griega: el Necronomicón.
 
-Pero no solo escribió el Necronomicón, se dedicó a recopilar cuentos populares, canciones y nanas, relatos e incluso sueños premonitorios y reescribirlos desde el prisma de sus nuevos conocimientos adquiridos en Aram y la Ciudad sin nombre. Esta obra sería el germen de las versiones que conocemos de las 1001 Noches.
+\sp
+
+Pero no solo escribió el Necronomicón, se dedicó a recopilar cuentos populares, canciones y nanas, relatos e incluso sueños premonitorios y reescribirlos desde el prisma de sus nuevos conocimientos adquiridos en Aram y la Ciudad sin nombre. 
+
+Esta obra sería el germen de las versiones que conocemos de las 1001 Noches.
+
+\sc
 
 ### Las muertes de Alhazred
 
@@ -104,7 +107,7 @@ Aplicó todos sus nuevos conocimientos adquiridos para estudiar todas esas histo
 * Lo mismo pasa con los objetos mágicos que son formas de mostrar la avanzada tecnología de estos yinns.
 * Fuera de los yinns las historias populares hablan de otros seres que Alhazred trato de encajar con la nueva cosmogonía que acababa de descubrir y aceptar como su nueva fe.
 
-Estudiosos de Alhazred consideran que estos escritos fueron una forma de su autor para mantener su cordura mediante la catarsis de la creación mediante la escritura. Es por ello que los expertos y expertas le describen (a modo de chiste) como el árabe "medio" loco y no simplemente el árabe loco.
+Estudiosos de Alhazred consideran que estos escritos fueron una forma de su autor para mantener su cordura mediante la catarsis de la creación mediante la escritura. Es por ello que los expertos y expertas le describen (a modo de chiste) como el árabe «medio» loco y no simplemente el árabe loco.
 
 Estos relatos fueron descubiertos por el erudito cairota Ibn Khallikan hacia el 1250 en Damasco, que se dedicó a recopilar toda la obra de Alhazred. Esta obra caería en manos de Antoine Galland que la usaría para escribir una de las primeras versiones, en este caso en francés, de las 1001 Noches. 
 
@@ -112,7 +115,11 @@ Estos relatos fueron descubiertos por el erudito cairota Ibn Khallikan hacia el 
 
 Galland ocultó y limpió de todos sus elementos cósmicos y extradimensionales la obra de Alhazred y devolvió a las historias sus elementos originales, pero no consiguió ocultarlas del todo, quedando rastros sutiles entre sus páginas.
 
-> El mundo de las 1001 Noches de Alhazred no es el mundo de las 1001 Noches tradicional de los libros, ni el mundo de los Mitos de Cthulhu en Oriente Medio hacia el año 800. Es una mezcla bastarda que aúna ambos mundos y que espero que se quede con lo mejor y lo fusione en algo divertido que capture vuestro interés y os permita jugar muchas horas.
+\sinc
+
+> /s/ El mundo de las 1001 Noches de Alhazred no es el mundo de las 1001 Noches tradicional de los libros, ni el mundo de los Mitos de Cthulhu en Oriente Medio hacia el año 800. Es una mezcla bastarda que aúna ambos mundos y que espero que se quede con lo mejor y lo fusione en algo divertido que capture vuestro interés y os permita jugar muchas horas.
+
+\conc
 
 \sp
 
@@ -132,8 +139,6 @@ Los ghūles son de los más comunes de los yinns de los cuentos populares y fuer
 
 Los ghūles fueron la punta del iceberg de sus estudios. Al estudiarlos en los cementerios de Damasco descubrió que adoraban a divinidades parecidas a las de sus nuevas creencias. También le ayudaron a confirmar su teoría de que los yinns de los cuentos podían enmascarar a estos seres de más allá de las estrellas o de fuera de nuestra realidad.
 
-\sp
-
 ### Janns
 
 Cultural y antropológicamente hablando, los janns son los primeros yinns, o casi mejor, los proto-yinns. Son yinns muy parecidos a los humanos con estructuras sociales complejas, familias, tribus, reinos, comercio, culturas, artes, etc. Según las historias y cuentos, crearon en el Gennistán (el mundo de los yinns) ciudades, pueblos, carreteras, etc. Son considerados los primeros seres con libre albedrío que hubo en la Tierra.
@@ -150,23 +155,19 @@ Estableció que lo mismo que les pasó a los janns le pasará en el futuro a los
 
 Los al mighos son los yinns más alejados de los humanos, no solo físicamente, sino también en la forma de pensar y de actuar. Como todos los yinns, Alhazred sitúa su origen en las estrellas, en un planeta llamado Yuggoth. Su objetivo es conquistar la Tierra, pero a pesar de su tecnología son sabios y pacientes y están esperando el momento oportuno.
 
-\sp
-
 Según sus estudios y sus escritos, Alhazred consideraba que los al mighos son el origen de todos los mitos de lugares malditos, desapariciones misteriosas y gentes que vuelven completamente cambiados.
 
 Los al mighos no pueden mezclarse fácilmente con los humanos y suelen ser vistos como cheitans o demonios, es por ello que necesitan que sus minas y canteras donde extraen extraños metales estén lejos de miradas indiscretas. Tantos sus agentes humanos como ellos mismos con su avanzadísima tecnología usan todo tipo de estrategias para alejar a los intrusos o neutralizarlos mediante técnicas de control mental. No será la primera vez que el cacique de un pueblo perdido de las montañas vende todas sus tierras por una miseria a un oscuro comprador para luego suicidarse.
 
 Estos yinns tienen una especie de «poder de seducción» que les permite atraer a los marginados y a los débiles de mente, de forma que se convierten en sus sirvientes y en sus agentes humanos. Estos secuaces humanos pueden comprar tierras para sus años, expulsar a curiosos, intimidar a los investigadores, borrar pruebas, sobornar agentes de la ley y en situaciones extremas asesinar a personas peligrosas para los objetivos de los al mighos.
 
-### Abu-Qith
+### Abu-qiths
 
 Estos yinns son descritos por Alhazred como seres espirituales que necesitan poseer cuerpos de seres vivos para interactuar con el mundo físico. Alhazred considera a los abu-qith como los más poderosos de todos los yinns conocidos, solo ya su magia (que no deja de ser tecnología tan avanzada que parece magia) les pone primeros en poder. Pero es además tienen control del tiempo, pudiendo moverse a través de los días, los años o los siglos atrás y adelante y anclándose a una época poseyendo un cuerpo de un ser vivo.
 
 Si de otros yinns consideró que eran de fuera de la Tierra, con los abu-qith llego a la acertada conclusión de que eran de fuera del tiempo. Al tener una visión no lineal del tiempo, su forma de pensar, sus objetivos y sus metas e incluso su ética y moral escapa de la comprensión humana. Aun así, parece que no suelen ser peligrosos para nosotros procurando no dañarnos.
 
-\sp
-
-Según ss estudios del folclore local, estos abu-qith se escondían en los relatos y cuentos en los personajes poderosos, sabios y un poco excéntricos que entrenan a héroes y heroínas. Nos referimos a personajes como Abd Al-Samad de la «Historia de Juder el pescador o el saco encantado», un poderoso mago perteneciente a una familia de poderosos magos, un tanto alocado y que no busca dinero o poder, sino más conocimientos.
+Según sus estudios del folclore local, estos abu-qith se escondían en los relatos y cuentos en los personajes poderosos, sabios y un poco excéntricos que entrenan a héroes y heroínas. Nos referimos a personajes como Abd Al-Samad de la «Historia de Juder el pescador o el saco encantado», un poderoso mago perteneciente a una familia de poderosos magos, un tanto alocado y que no busca dinero o poder, sino más conocimientos.
 
 Estos personajes que tienen sus correspondientes versiones occidentales en personajes como Merlín (que curiosamente se movía al revés en el tiempo) esconden detrás a abu-qith que han tomado posesión de humanos y que por alguna razón que solo su percepción única del tiempo.
 
@@ -176,11 +177,9 @@ El estudio de los abu-qith llevo a Alhazred a conocer a sus mayores enemigos y a
 
 Tradicionalmente, los yinns siempre han tenido un elemento relacionado (aire, agua, etc.), no es definitorio de cada yinn, pero si explica muchas cosas de su forma de ser y pensar. Así pues, según las leyendas, los efrits son fuego, los mareds agua, los khotrobs la tierra, etc. Los Warams están detrás de las historias de yinns de aire y viento al ser parte viento y tener cierto control de este elemento.
 
-Según le fue rebelado a Alhazred, llegaron a la Tierra de las profundidades del espacio y dominaron la superficie de la Tierra durante milenios antes de la aparición de los humanos. Crearon fabulosas ciudades de basalto, pero tuvieron que abandonarlas cuando casi fueron aniquilados por los Abu-Qith y refugiarse bajo tierra para resurgir milenios más tarde y extinguir en venganza a los Abu-Qith. Es por esto que los abu-qith y los warams son enemigos ancestrales, aunque muchas no sepan bien por qué se pelean.
+Según le fue rebelado a Alhazred, llegaron a la Tierra de las profundidades del espacio y dominaron la superficie de la Tierra durante milenios antes de la aparición de los humanos. Crearon fabulosas ciudades de basalto, pero tuvieron que abandonarlas cuando casi fueron aniquilados por los abu-qith y refugiarse bajo tierra para resurgir milenios más tarde y extinguir en venganza a los abu-qith. Es por esto que los abu-qith y los warams son enemigos ancestrales, aunque muchas no sepan bien por qué se pelean.
 
 Con los siglos fueron decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos, a veces adorados como dioses por tribus paganas. También se sabe warams que se mueven por todo el desierto como eternas y poderosas de arena.
-
-\sp
 
 Estos yinns con forma de pólipos y hechos en parte de aire se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido. No solo su forma de pensar es totalmente alienígena, también su forma de percibirlo. Perciben el mundo de otras formas desconocidas, de forma que puede «ver» a través de las paredes o moverse sin problemas en plena oscuridad.
 
@@ -194,8 +193,6 @@ Pero Alhazred, fue más allá, estableciendo que los qareen eran mucho más que 
 
 Los qareens de las leyendas populares son seres espirituales que acompañan a los humanos y que les inducen a hacer actos malvados y suicidas. De hecho, se agarran con sus piernas a tu cuello para poder susurrarte maldades al oído. Es por ello que Alhazred nombro a estos yinns con su nombre popular, por su forma espiritual y su capacidad de poseerte y hacerte ejecutar acciones profanas e impuras.
 
-\sp
-
 ### Aads
 
 Poco se sabe de esta tribu de yinns a la que Alhazred atribuye la creación de Aram-de-las-columnas y el descubrimiento del azufre rojo, el más poderoso de los agentes alquímicos. Cuando la ciudad de Aram-de-las-columnas fue tragada por la Tierra como castigo divino por la soberbia de los Aads, su rey Scheddad ben-Aad se llevó a los supervivientes fuera de nuestro mundo y dejo un fabuloso tesoro.
@@ -205,8 +202,6 @@ Según pudo descubrir Alhazred el tiempo que en Aram-de-las-Columnas, los Aads e
 ### Los yinns y sus posesiones
 
 > Y para realizar este proyecto, voy a ir a buen paso, lo más de prisa que pueda, al palacio del sultán, en la India, y entraré en el cuerpo de la joven princesa y tomaré posesión de su espíritu momentáneamente. Y de tal suerte, convertida en posesa, parecerá loca a cuantos la rodean, y su padre, el sultán, procurará que la curen los médicos más hábiles de la India. Pero ninguno podrá adivinar la verdadera causa del mal, que será mi presencia en el cuerpo de la joven; y todos los cuidados que con ella tengan fracasarán bajo mi aliento y por mi voluntad. Y entonces te presentarás tú, y serás quien cure a la princesa. 
-
-\sp
 
 > ¡Y voy a indicarte los medios para ello!" Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: "Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino. Y en vista de ello, como recompensa a la curación verificada, serás esposo de la joven, hija del rey.
 > 
@@ -220,8 +215,6 @@ Dentro de los Yinns de los que nos habla Alhazred en sus 1001 Noches, hay dos tr
 
 Hay que hacer hincapié, que si bien no son posesiones como tal, los al mighos y las gentes del mar tienen cierta capacidad de seducir y atraer a personas débiles de mente y marginadas, convirtiéndolas en aliadas. No son posesiones reales, pero pueden fácilmente fanatizarlos para que atraigan a otros como ellos o incluso se dejen la vida en su defensa.
 
-\sp
-
 #### Los abu-qith y sus posesiones a través de los tiempos
 
 Los abu-qith, como ya hemos dicho, son yinns espirituales que pueden poseer los cuerpos de todo tipo de criaturas. La posesión es algo innato a su naturaleza y lo han perfeccionado tanto que incluso pueden poseer a través del tiempo, de forma que puede tomar el cuerpo de personas de los tiempos del Gran Soleimán y conocerle en persona. Las esencias de los poseídos son trasladados al cuerpo actual abu-qith y es tratado con amabilidad allí donde viva.
@@ -233,8 +226,6 @@ Como no tienen un carácter maligno, y por tanto, no son considerados cheitans, 
 Los qareens de normal no pueden poseer directamente a un humano, pero pueden corromper su alma, de forma que pueden inducirlos a actos ominosos como el asesinato o el suicidio. Lo que pierden en control lo ganan en cantidad pudiendo inducir a la depresión y la maldad a miles personas con su sola presencia. Su aura espiritual es tan poderosa que incluso años después de abandonar las cuevas subterráneas que suelen habitar estos lugares suelen afectar a sus visitantes.
 
 En mentes extremadamente débiles o rotas pueden llegar a conseguir un control total, de forma que obedezcan ciegamente sus órdenes. El control que ejerce sobre estas víctimas es tan poderoso que nadie más puede influir en ellos. Además, solo les importa cumplir las órdenes dadas que nada puede inmiscuirse, ni el hambre o la sed les importará, aunque sí hará estragos en su cuerpo.
-
-\sp
 
 \sinc
 
@@ -252,25 +243,25 @@ Sus ideas, aunque extrañas en su época, son totalmente correctas y seguramente
 
 ### Forma de actuar
 
-Como ya hemos visto, las motivaciones de los distintos yinns son muy diferentes, con lo que sus formas de actuar respecto de los humanos son muy diferentes. Tenemos, pues, dos opciones, los que son neutrales con los humanos y los que buscan esclavizar o erradicar a la raza humana, que la tradición los llama cheitans o diablos.
+Como ya hemos visto, las motivaciones de los distintos yinns son muy diferentes, con lo que sus formas de actuar respecto de los humanos son muy diferentes. 
+
+Tenemos, pues, dos opciones, los que son neutrales con los humanos y los que buscan esclavizar o erradicar a la raza humana, que la tradición los llama cheitans o diablos.
 
 Los yinns tienen libre albedrío, por lo que pueden ser buenos o malos y ser o no ser creyentes. Es por ello que la tradición distingue entre yinns y cheitans (o shaitans).
 
 Los cheitans son lo que en la tradición judeocristiana llamaríamos demonios. Son yinns que no profesan la fe musulmana y, por tanto, se les considera malvados, siendo el más poderoso de ellos Iblis que sería versión islámica de Satanás.
 
-\sp
-
 Para Alhazred no existe esa diferenciación entre buenos y malos, ya que no los considera parte de nuestro mundo y, por lo tanto, quedan fuera de las leyes divinas y humanas que rigen el mundo de los hombres.
 
 ### Relaciones sociales y relaciones con los humanos
 
-Cada tribu de yinns tiene su propia estructura social. Estas pueden ser más cerradas o más abiertas. Por ejemplo, los Al Mighos tienen un estricto sistema de castas donde el libre albedrío es casi inexistente. Por otro lado, los Abu-Qith y los Janns que tienen una sociedad más abierta y libre, donde cada ente puede hacer lo que quiera, cuando quiera, siempre que sus actos no entren en conflicto con otros entes de su sociedad.
+Cada tribu de yinns tiene su propia estructura social. Estas pueden ser más cerradas o más abiertas. Por ejemplo, los Al Mighos tienen un estricto sistema de castas donde el libre albedrío es casi inexistente. Por otro lado, los abu-qith y los janns que tienen una sociedad más abierta y libre, donde cada ente puede hacer lo que quiera, cuando quiera, siempre que sus actos no entren en conflicto con otros entes de su sociedad.
 
 Normalmente, no se ha tratado las relaciones sociales, familiares y sentimentales de los seres de los Mitos, pero puedes tener su importancia. Mientras que los al mighos no tienen lazos sentimentales, los janns y los abu-qith son más complejos.
 
 Un jann despertado después de miles de años, puede que esté asustado y trate de defenderse o que se desespere cuando vea que es el último de su tribu.
 
-Un Abu-Qith puede que trabe amistad con humanos, incluso se interese por su cultura y aprenda a disfrutarla mientras posee a un humano, quizás busque pareja y tenga amigos, tenga un jefe y disfrute de la maternidad/paternidad.
+Un abu-qith puede que trabe amistad con humanos, incluso se interese por su cultura y aprenda a disfrutarla mientras posee a un humano, quizás busque pareja y tenga amigos, tenga un jefe y disfrute de la maternidad/paternidad.
 
 Lo mismo que tienen relaciones positivas, pueden ser negativas. Los supervivientes de una tribu/colmena de al mighos pueden jurar vengarse del que los destruyo o un jann despertado decida destruir a aquellos que exterminaron a su tribu hace milenios.
 
@@ -315,6 +306,9 @@ Alhazred elaboró varias teorías que podrían explicar todas las historias que 
 
 * Podría ser un avatar de un dios arquetípico como Nodens que existía para tener controlados a los primigenios y sus adoradores, tanto humanos como yinns.
 * Otra opción que estudio el árabe medio loco fue que Soleimán fuera un gran mago Aad, los creadores de Aram-de-las-Columnas, o más conocidos como yaddithianos. Los yaddithianos/aads es una raza casi extinta de magos/científicos muy poderosos cuyo mundo/dimensión fue devorado por los falaks (dholes).
+
+\sp
+
 * La última teoría y quizás más loca que planteo Alhazred fue que Soleimán fuera un avatar de Nyarlathotep. Lo normal es que ese avatar como otros tantos fuera un ser malvado dedicado a causar miedo, locura y sufrimiento a los mortales. Pero esta teoría estipula que en el avatar residía una minúscula porción de Nyarlathotep, una porción compuesta por su amor por la humanidad. Una porción de un ser omnipotente podría explicar las prodigiosas hazañas del sabio rey Soleimán, tan extrañas a veces.
 
 Para entender más claramente este personaje podemos compararlo con el rey Arturo y su mítico Camelot. Estaríamos hablando de alguien mítico que representa grandes ideales y que es un elegido por el Destino para cuando grandes hazañas y que volverá cuando se ke necesite.
@@ -322,8 +316,6 @@ Para entender más claramente este personaje podemos compararlo con el rey Artur
 ### Hazañas del rey Soleimán
 
 Veamos algunas de sus hazañas narradas en las 1001 noches.
-
-\sp
 
 * Venció a un ejército de 10.000 yinns con su ejército de hombres, animales y aves. A muchos de ellos los encerró en vasos de cobre sellados con su símbolo.
 * Venció en singular combate a la Bestia Negra (un terrible avatar de Nyarlathotep) y la encerró en una botella y la lanzo al mar.
@@ -470,6 +462,8 @@ Cada célula de esta organización está formada por 40 personas, con un único 
 
 Cuando una célula es descubierta o destruida o incluso sus proyectos apocalípticos acaban mortalmente, los supervivientes se separan a la espera de una señal de ’Umr-At-Tawil. El que recibe la señal puede crear una nueva célula.
 
+\sp
+
 #### Personas destacadas que forman parte del culto
 
 Como secta es muy poco personalista. Cada célula es semi-autónoma y puede tener su jefe, elegido entre todas las personas de la célula, pero la secta como tal no tiene un líder que la dirija con mano de hierro. Los líderes de las diferentes células se comunican entre ellos y están organizados para llevar a cabo sus planes de destrucción mundial.
@@ -483,6 +477,9 @@ Lo curioso de las células es que cada una es muy diferente de las otras, una pu
 Cada célula de la secta tiene su guarida secreta, que pueden ir desde algún tipo de almacén medio abandonado hasta alcázares abandonados en las montañas o antiguas ruinas babilónicas.
 
 * Cerca de Bagdad, la secta tiene un antiguo alcázar abandonado en la cima de una montaña. Están estudiando tecnología perdida y rescatada del fondo del mar. Parte de la célula vive en el alcázar y otra en Bagdad, consiguiendo dinero, material y provisiones para la gente del alcázar.
+
+\sp
+
 * Otra célula se ha asentado en Petra. Están explorando sus cientos y cientos de pasadizos en busca de algún conocimiento prohibido u objeto mágico que les ayude en sus apocalípticos objetivos. Petra no es muy frecuentada, pero la célula está haciendo correr rumores de maldiciones y monstruos para que nadie se acerque. De todas formas no tienen problemas el sacar la jaiba y cortar los gaznates de los intrusos.
 
 #### Rituales
@@ -495,17 +492,22 @@ Cada grupo de votantes se coloca en un lado de la estancia y empiezan a hacer lo
 
 Una célula de los 40 encontró un antiguo asentamiento acuático de los janns en el Golfo Pérsico. Han ido sacando todo tipo de artilugios del fondo marino y los han ido repartiendo entre otras células para ver que pueden hacer con estos ingenios. Muchos están destrozados por el agua y el tiempo, pero algunos parece que pudieran funcionar y esos grupos empiezan a tener éxitos en sus proyectos.
 
+\sp
+
+[![Silueta Mano Izquierda No A La Guerra by OpenClipart-Vectors](./images/mano-dorada.png)](https://pixabay.com/es/illustrations/elixir-poci%C3%B3n-m%C3%A1gica-7425632/ "Mano Izquierda No A La Guerra by OpenClipart-Vectors") 
+
 ### La Mano Dorada de Suc’Naath
 
 > … y tras alabar el innombrable nombre de su dios, Suc’Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas. Pero de entre sus ropajes, sus giros y sus contorsiones empezaron a formarse figuras extrañas y sombras deformes que fueron tomando cada vez una forma más clara para mí, hasta poder ver la cara de mi jeiquesa Mariam llena de dolor y terror. Y sin previo aviso, uno a uno, los danzantes fue cayendo dejando grabado en mi alma la cara abotargada de la luz de mis mañanas y mis ocasos.
 
-[![Mano Izquierda No A La Guerra by OpenClipart-Vectors](./images/mano-dorada.png)](https://pixabay.com/es/illustrations/elixir-poci%C3%B3n-m%C3%A1gica-7425632/ "Mano Izquierda No A La Guerra by OpenClipart-Vectors") 
 
 La Mano Dorada de Suc’Naath reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos fanáticos bien entrenados. Su misión es adorar y liberar a Suc’Naath de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderosos y la vida eterna.
 
 La secta es pequeña, pero muy poderosa, sus agentes mágicos tiene grandes poderes, sus artistas tienen mucha fama y dinero y sus asesinos son mortales. Cada miembro del culto, tras una concienzuda selección y con el beneplácito de la suma sacerdotisa Ziba, puede elegir un discípulo al que enseña todos sus secretos y todo el credo de la secta.
 
 Los y las artistas suelen escoger a la gente más fanática de su arte. Si manejan las energías de la magia, buscan a las personas que portan la esencia de Suc’Naath, ya que su magia es poderosa y son proclives a la locura y el caos. Por último, los asesinos y asesinas de la secta suelen buscar pillastres que viven en la calle sin familia a los que infundir sus macabras creencias.
+
+\sp
 
 #### Personas destacadas que forman parte del culto
 
@@ -526,6 +528,8 @@ Siguiendo el destino de su amo y compartiendo su maldición, el principal ritual
 
 Fuera de los bailes que les ponen en comunión con su dios, son más de reuniones donde compartir secretos mágicos, hablar del arte profano que tanto les gusta y comentar sus trucos de asesino.
 
+\sp
+
 Los adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc’Naath.
 
 #### Situación actual
@@ -539,6 +543,8 @@ Actualmente, la secta está muy activa, los astrónomos han predicho que el come
 La progenie de la Luna Creciente es una secta de adoradores de Shub-Niggurath y de siervos de los Al Mighos que habitan la desértica región de Balad Ruz, a 90 km al este de Bagdad.
 
 Desde hace siglos hay una colonia de Al Mighos en las desérticas planicies de Balad Ruz donde tienen una instalación minera que extrae tierras raras. Siguiendo el _modus operandi_ de los Al Mighos, fueron buscando gente débil de mente a la que embaucaron y convirtieron en adeptos primero y siervos fanáticos después. Estos siervos con el paso de los años y las décadas asumieron las ideas religiosas de sus amos Al Mighos y empezaron a adorar a los mismos dioses que ellos.
+
+\sp
 
 [![Aladdin and the Magician - Houghton, Arthur Boyd](./images/magician-aladdin.jpg)](https://www.oldbookillustrations.com/illustrations/magician-aladdin/ "Aladdin and the Magician - Houghton, Arthur Boyd") 
 
@@ -556,6 +562,8 @@ La mayoría de los miembros de la secta son gente de campo de Balad Ruz y foraji
 
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie
 
+\sp
+
 #### Lugares de culto y refugios
 
 A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normalmente cuevas secretas donde reunirse lejos de miradas indiscretas con sus señores Al Mighos y donde invocar a su diosa Astarte. Además, esas cuevas secretas son perfectas para entrar en contacto con los Vástagos de Astarte.
@@ -569,6 +577,8 @@ A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normal
 Los rituales de la secta se basan en los antiguos rituales de Astarte que los pueblos mesopotámicos y sumerios realizaban, pero añadiéndoles elementos de adoración a los Al Mighos y con muchos detalles malignos y macabros por su conexión con infame deidad de la fertilidad.
 
 Los rituales empiezan con libaciones y lustraciones con vino y agua, y continúan con el consumo de infusiones de flor de loto como psico-activo para conseguir sueños intensos, vividos y a veces proféticos. También es frecuente el uso de opio, extraído de la adormidera, a fin de excitar el deseo sexual. Podían acabar en orgías en las que zánganos de Al Mighos podrían tomar parte de una forma más o menos activa.
+
+\sp
 
 No son raras las apariciones de los vástagos de Astarte al invocar a su madre en sus rituales. Normalmente, estas criaturas se descontrolan, con lo que los rituales suelen hacerse en lugares desérticos (como las llanuras de Balad Ruz) donde no pueden ser descubiertos y causar daños y perdidas humanas.
 
@@ -586,6 +596,8 @@ Estas noticias no agradan a los amos Al Mighos y esto ha hecho que los adeptos d
 > 
 > **Referencia:** Historia de Zobeida, la mayor de las jóvenes (n. 16)
 
+\sp
+
 ![](./images/llama-alada.png)
 
 Los seguidores del Fuego y la Luz son una secta depravada del zoroastrismo, que adoran a una versión de Ahura (la principal divinidad del zoroastrismo) a la que denominan Nardún. Nardún es en realidad el primigenio Cthugha, la llama viva.
@@ -602,6 +614,8 @@ El culto es pequeño y disperso y solo hay una figura de poder al que se pueda l
 
 * Bahram el Gauro, Adorador del Fuego, alquimista de oficio y líder de la secta del Fuego y de la Luz
 * Aunque no sea fanático del culto, el famoso cantante Ishak Al-Dadim, ha tonteado con los miembros de la secta. Fácilmente, podría acabar fanatizado y pasaría a ser un cultista más con la ventaja de tener acceso al Califa Harún Al-Raschid.
+
+\sp
 
 #### Lugares de culto y refugios
 
@@ -621,6 +635,8 @@ Como no podía ser de otra manera, todos los ritos de este culto sectario están
 
 Sus miembros se automutilan quemándose partes de cuerpo para obtener cicatrices o se marcan a fuego símbolos de su deidad en el cuerpo con hierros de marcar.
 
+\sp
+
 Los miembros más importantes suele tener una llama eterna que proviene del fuego que destruyo Sodoma y Gomorra. Ese fuego fue provocado, según sus creencias, por el propio Nardún y sería como, por ejemplo, para un cristiano tener una reliquia de la Santa Cruz.
 
 Los rituales normales conllevan saltar hogueras o andar sobre brasas. En las ocasiones especiales, se hacen sacrificios animales y humanos a Nardún, normalmente quemándoos vivos.
@@ -634,6 +650,8 @@ Dentro de sus rituales suele haber invocaciones voluntarias o involuntarias de f
 La organización en sí no es ni muy grande, ni muy poderosa, ni tiene grandes recursos, pero el fanatismo de sus miembros y el poder de [Bahram el Gauro](#anchorbahramgauro) compensan todo eso. Bahram se ha convertido en el hombre del saco de toda la zona. Su nombre no se pronuncia sin santiguarse y se usa para asustar a los niños y niñas.
 
 Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conseguido suficiente poder para ser un contrincante muy peligroso. Si objetivo es encontrar la esfera celeste de Al-Schamardal, que cree que contiene parte de la esencia de su reverenciada deidad. Ha puesto al resto de la secta en su búsqueda y están empezando las primeras pistas de su localización.
+
+\sp
 
 [![Georges-Antoine Rochegrosse - Moloch](./images/cultos-fuego.jpg)](https://en.m.wikipedia.org/wiki/File:Georges-Antoine_Rochegrosse_-_Moloch.jpg "Georges-Antoine Rochegrosse - Moloch")  
 
@@ -661,6 +679,8 @@ Tienes que tener en cuenta que los portales no tienen que ser solamente lugares 
 
 Así como la Meseta de Leng se considera que forma parte de varias dimensiones al mismo tiempo como la Tierra de los Sueños y nuestro mundo, la Vigilia, puedes hacer que partes de las 1001 Noches estén en nuestro mundo y el Sueño y partes del Sueño estén en las 1001 Noches.
 
+\sp
+
 A la hora de compartir zonas tenemos varias ideas de como hacerlo.
 
 * **Accidentes geográficos de gran tamaño** podrían ser usados como frontera entre ambos mundos, de forma que tras una gran cordillera como el Cáucaso nos encontraríamos en la Meseta de Leng. Quizás ciertas partes muy alejadas del desierto del Sahara conecten con el desierto Oriental y tras atravesarlo acabar en Kadatheron.
@@ -673,6 +693,8 @@ Aquí te presentamos algunas opciones de territorios compartidos:
 * La meseta de Leng: la propia naturaleza de Leng es ser un lugar que está al mismo tiempo en varias dimensiones al mismo tiempo y en nuestro mundo suele aparecer en Asia Central, especialmente en la cordillera del Himalaya, así que podría ser encontrada por una caravana que se ha perdido en las montañas en su camino a China o India.
 * La ciudad de Ulthar: Ulthar es una ubicación clásica de Lovecraft a la que se podría acceder a algún tipo de bosque mágico o al tratar de llegar ciudades más tipo europeo.
 
+\sp
+
 A todo esto, debes recordar que no es normal que una persona despierta visite las Tierras del Sueño, solo sus yoes oníricos deberían poder hacerlo y que si lo hacen despiertos tiene importantes implicaciones en el mundo de los Sueños.
 
 ### Las 1001 Noches como parte de las Tierra de los Sueños
@@ -682,6 +704,8 @@ Los cuentos de las 1001 Noches y la Tierra de los Sueños son muy combinables, n
 Quizás esta sea la más complicada y trabajosa de todas las opciones, pero encajar una versión onírica de Bagdad o Damasco en el desierto oriental puede ser muy interesante. El planteamiento es a priori sencillo. Tendríamos una ciudad de inspiración árabe no solo en sus costumbres y tradiciones, sino también en su forma de gobernarse, su magia, su comercio, sus historias, su religión, su artesanía, etc. en la que desarrollar todo tipo de tramas.
 
 Schahriars de la propia ciudad o extranjeros de otros continentes de las Tierras del Sueño recorrerían sus calles y correrían todo tipo aventuras mientras huyen de los guardias de la ciudad. Salvarían a la califesa o al califa de sus enemigos, derrotarían invasiones de bestias lunares o volarían en alfombra mágica hasta el Bosque Encantado en busca de una cura milagrosa eludiendo a las antropófagas tribus de zoogs.
+
+\sp
 
 ### Seres de las Tierras de los Sueños
 
@@ -694,11 +718,14 @@ Hay toda una serie de seres de las Tierras del Sueño que pueden aparecer en tus
 * Lengnitas: Estos sátiros son oriundos del Sueño, pero por su diseño clásico pueden ser integrados fácilmente de las aventuras de las 1001 Noches como seres míticos de tierras como Grecia. También puede ser considerados una raza menor de yinns. Recuerda que hay miles de tipos de yinns menores de todo tipo de forma y condición y los lengnitas podrían ser unos de ellos.
 * Ghūles: Los ghūles son yinns que podemos encontrar en los dos mundos. Si bien los de las Tierras del Sueño parecen más civilizados que los de nuestro mundo.
 
-[![Prince Azzam ~ Chhaya - Waiting for Azzam… by Eyoha](./images/costumbres.jpg)](https://www.deviantart.com/eyoha/art/Prince-Azzam-Chhaya-Waiting-for-Azzam-353516888 "Prince Azzam ~ Chhaya - Waiting for Azzam… by Eyoha") 
 
 \sp
 
 \sinc
+
+[![Prince Azzam ~ Chhaya - Waiting for Azzam… by Eyoha](./images/costumbres.jpg)](https://www.deviantart.com/eyoha/art/Prince-Azzam-Chhaya-Waiting-for-Azzam-353516888 "Prince Azzam ~ Chhaya - Waiting for Azzam… by Eyoha") 
+
+&nbsp;
 
 ## Sociedad
 
@@ -707,6 +734,8 @@ Hay toda una serie de seres de las Tierras del Sueño que pueden aparecer en tus
 La sociedad árabe que vemos en las 1001 Noches es una sociedad medieval con sus rasgos básicos, como clases sociales muy cerradas o la importancia y la influencia de la religión en todos los elementos de la sociedad.
 
 Aun así, en muchos aspectos es mucho más abierto que otras sociedades contemporáneas de la época. Es bastante permisiva religiosamente, permitiendo a sus gentes profesar las creencias que se deseen, o los siervos no estaban tan controlados por los nobles a los que rendían pleitesía. Las orientaciones sexuales eran más respetadas que no totalmente aceptadas y las mujeres tienen más opciones de trabajo y progreso, dándose casos de acceso a estudios superiores.
+
+\sp
 
 De todas formas, todas estas descripciones del mundo de las 1001 Noches son solo indicaciones. Eres libre de seguirlas o no.
 
@@ -723,6 +752,8 @@ Si bien puede ser cosa de los cuentos, los estamentos son cajas cerradas en la q
 * Es bastante común **hacer un favor a un gobernante** y que este te ascienda socialmente. Hay varias historias en que el Califa de Bagdad se disfraza de mercader para conocer a su pueblo y termina convirtiendo a un pescador en un chambelán o una vendedora en su consejera.
 * Los **matrimonios** entre la clase más baja y la más alta son algo normal. Se conocen y se enamoran sin saber su origen social. Cuando se va a formalizar el matrimonio, los padres de la clase superior impondrán algún tipo de prueba rocambolesca al pretendiente de clase baja.
 * La **magia y las aventuras** puede darte el dinero suficiente para ascender en la sociedad. Sindbad el marino cada vez que se va de viaje vuelve con tesoros pudiendo comprar casas y lujos y codeándose con emires y califas hasta que se quedaba sin dinero y volvía a embarcarse en locas aventuras.
+
+\sp
 
 Curiosamente, estas reglas no se aplican a esclavos, no hay esclavos que se casen con hijos o hijas de califas y como mucho consiguen su libertad. Tenemos por ejemplo la sierva de Alí Babá, Luz Nocturna, que es una especie de sierva/esclava/huérfana recogida que por sus servicios es liberada y termina casándose con el hijo de Alí Babá.
 
@@ -742,6 +773,9 @@ Aquí tienes un listado de esos títulos ordenados de más a menos poder.
 Otros títulos que puedes usar y que tienen cierta consideración social son:
 
 * **Visir:** El visir sería el consejero de más alta confianza de califas, emires y maliks. También son la mano ejecutora de los designios de estos. Se encargan de convertir en realidad las decisiones de los monarcas.
+
+\sp
+
 * **Kadí:** También llamados cadí. Es el título que se da a personas encargadas de impartir justicia.
 * **Jerife:** También conocido como cherif o sharif. Son descendientes del profeta Mahoma y es por ello que tienen cierta distinción social.
 * **Jeque:** Jeque es el término que se usa para definir a la persona anciana y sabia a la que se consulta sobre diversos temas.
@@ -750,11 +784,13 @@ Otros títulos que puedes usar y que tienen cierta consideración social son:
 
 ### Ley y justicia
 
-[![Cabezas de los rebeldes Beys en la mezquita de El Hasanein, El Cairo, 1866 por Jean-Léon Gérôme](./images/ley-justicia.jpg)](https://es.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me#/media/Archivo:Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Hasaneyn_Camii_%C3%96n%C3%BCnde_%C4%B0syankar_Beylerin_Ba%C5%9Flar%C4%B1.jpg "Cabezas de los rebeldes Beys en la mezquita de El Hasanein, El Cairo, 1866 por Jean-Léon Gérôme") 
-
 Si bien en Oriente Medio en la edad Media hay grandes códigos legales y grandes juristas, en las 1001 Noches la ley es algo muy simple basado en principios muy básicos como no matar o no robar. La palabra del gobernante es ley y el amo siempre tiene razón. Todo es blanco o negro, no hay zonas grises.
 
+[![Cabezas de los rebeldes Beys en la mezquita de El Hasanein, El Cairo, 1866 por Jean-Léon Gérôme](./images/ley-justicia.jpg)](https://es.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me#/media/Archivo:Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Hasaneyn_Camii_%C3%96n%C3%BCnde_%C4%B0syankar_Beylerin_Ba%C5%9Flar%C4%B1.jpg "Cabezas de los rebeldes Beys en la mezquita de El Hasanein, El Cairo, 1866 por Jean-Léon Gérôme") 
+
 Los juicios son rápidos y sin muchas sutilezas legales. El o la kadí escucha a la persona acusada, a la acusadora y a algún testigo y toma una decisión. Las decisiones pueden ser muy variadas. Pueden obligar a reparar los daños producidos, a devolver lo robado y servir como esclavo determinado tiempo, desterrarte u obligarte a hacer penitencias varias y muchas veces ridículas.
+
+\sp
 
 Si el kadí decide aplicar castigos, estos suelen ser expeditivos y rápidos, azotes, cercenar miembros o incluso el cuello. Normalmente, no hay penas de cárcel, pero una buena aventura escapando de la cárcel o una huida desesperada del cadalso siempre será bienvenida en tu mesa.
 
@@ -773,6 +809,8 @@ La otra forma de conseguir esclavos es si tienen descendencia. Los hijos e hijas
 Los cristianos y judíos al aparecer en el Antiguo Testamento eran considerados “gentes del libro” y se encontraban libres del peligro de la esclavitud siempre que pagaran un impuesto.
 
 Muchas veces en las historias de las 1001 Noches, los esclavos son tratados como parte de la servidumbre de la casa y son llamados siervos y criados, aunque en realidad fueran personas esclavizadas. Es bastante frecuente que parte de la servidumbre de un emir o un califa sean esclavos y personas libres y les trate de igual manera.
+
+\sp
 
 Los amos pueden liberar a sus esclavos y obtener su libertad, pero no era lo común. Lo más normal es que los y las esclavas ganaran cierta libertad al convertirse en concubinas y concubinos. Otras formas eran pagar por tu libertad. Llegabas a un acuerdo de pagarle a tu amo cierta cantidad de dinero y obtenías el derecho a trabajar para otros después de trabajar para tu señor. Con el dinero ganado pagabas tu libertad.
 
@@ -806,6 +844,8 @@ El deporte y las competiciones deportivas son eventos sociales muy importantes d
 
 Hay más prácticas deportivas, algunas bastante sangrientas, que no voy a referenciar por razones obvias como las peleas de gallos o de osos y perros.
 
+\sp
+
 #### Carreras de caballos y camellos
 
 Toda cultura que ha tenido animales de monta ha hecho carreras con esos animales y en las 1001 Noches las carreras de caballos y camellos son eventos deportivos muy importantes. En ellos se mezcla la competitividad innata del ser humano y la mejora de la raza.
@@ -818,6 +858,8 @@ Las carreras suelen tener una fecha fija en el año y se rodean de grandes festi
 > Y empezó el juego. Y por una y otra parte los jugadores desplegaron gran arte en sus movimientos y maravillosa destreza para despedir la pelota con el mazo a todo galope de los caballos. Pero de pronto, uno de los jugadores del bando opuesto al que dirigía el califa en persona lanzó la pelota derechamente contra la cara del califa, con golpe tan diestro y vigoroso, que infaliblemente el califa habría perdido un ojo y acaso la vida, si el joven Aslán con admirable maestría, no hubiera parado la pelota al vuelo con su mazo. Y la devolvió tan terriblemente en dirección contraria, que alcanzó en la espalda al jinete que la había lanzado, y le hizo perder los estribos y le rompió el espinazo.
 > 
 > **Referencia:** Historia del Gano-del-Belleza (n. 269)
+
+\sp
 
 Este deporte, que es el germen del actual polo, está solo al alcance de los ricos y poderosos, ya que muy pocas personas pueden mantener un caballo solo por ocio. Normalmente, los jugadores de polo tienen mecenas que pagan su manutención y la del caballo y por los que compiten en los eventos que emires y califas organizan.
 
@@ -837,7 +879,11 @@ Todo es legal para evitar que te marquen o para marcar y los heridos son frecuen
 
 #### Tiro con arco
 
-Siendo el arco un arma de caza y de guerra muy usado en estas tierras, los concursos para probar la habilidad con el arco son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos vivos como aves o jabalíes. Quizás la más arriesgada sea disparar a los pies del contrincante desde largas distancias y si le das pierdes y si se mueve pierde él.
+Siendo el arco un arma de caza y de guerra muy usado en estas tierras, los concursos para probar la habilidad con el arco son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos vivos como aves o jabalíes. 
+
+\sp
+
+Quizás la más arriesgada sea disparar a los pies del contrincante desde largas distancias y si le das pierdes y si se mueve pierde él.
 
 Esta última modalidad de tiro con arco se juega de la siguiente manera. Primero se decide la distancia entre los arqueros o arqueras (corta, media y larga) y se decide al azar quién empieza a disparar las flechas.  
   
@@ -852,6 +898,8 @@ Si alguno tiene una pifia en disparar hiere a su objetivo (tirada de daño real)
 > Inmediatamente extendieron una alfombra en el patio interior, y la joven y el muchacho llegaron al terreno, y se cogieron uno a otro por en medio del cuerpo, y juntaron sus axilas. Y lucharon enlazados maravillosamente. Y pronto la cogía el muchacho y la derribaba en tierra, como se erguía ella, cual una serpiente, y le derribaba a su vez. Y continuó él derivándola y ella derribándole durante dos horas de lucha, sin que ninguno de los dos pudiera hacer que el adversario tocase con los hombros en el suelo.
 > 
 > **Referencia:** Historia contada por el octavo capitán de policía (n. 949)
+
+\sp
 
 La lucha libre es una mezcla de deporte y arte marcial de origen turco y tiene mucha aceptación entre las clases más bajas y son frecuentes las apuestas. Dos personas se enzarzan en un combate de presas y llaves dentro de un círculo. Él o la que consiga derribar e inmovilizar al otro u otra gana el combate.
 
@@ -876,6 +924,8 @@ Para determinar su clase, un jugador disputaría una serie de encuentros frente 
 
 A diferencia de otros juegos, en el shatranj no hay suerte, es todo estrategia, con lo que se hace uso de Tácticas en vez de Apostar. De hecho, las ventajas, objetos, hechizos que dan pluses a Tácticas también se usan para jugar al shatranj.
 
+\sp
+
 ### Sexualidad, poligamia y divorcio
 
 Las relaciones sexo-afectivas en las 1001 Noches son el tema principal de muchos cuentos. Desde personas que corren grandes riesgos y asombrosas aventuras para conseguir el amor de su vida, hasta relatos eróticos o erótico-humorísticos.
@@ -892,6 +942,8 @@ También hay que tener en cuenta que algunas de las historias tienen un marcado 
 > 
 > **Referencia:** Historia de la pierna de carnero (n. 787)
 
+\sp
+
 La poligamia es algo bastante normal, sobre todo entre los ricos y poderosos que tenían una pareja principal, una esposa, y luego una serie de concubinas, algunas libres y otras esclavas. Los hijos de la esposa principal son los hijos que heredarán casi todos los bienes, pero eso no quiere decir que se pueda dejar parte de la herencia a un los hijos o hijas que se tienen con las concubinas. Si la esposa principal moría, una concubina podía pasar a ser la esposa principal, pero los hijos de la difunta seguían siendo herederos legítimos.
 
 La poligamia no es solo cosa de hombres también, puede darse el caso de que una mujer tenga varios hombres, aunque eso no es tan normal. De todas formas puedes montar las estructuras familiares que mejor se ajusten a los gustos y situaciones de tu mesa, incluso obviar todos estos elementos y centrarte en tus maravillosas e increíbles historias de horror cósmico.
@@ -906,6 +958,8 @@ La poligamia no es solo cosa de hombres también, puede darse el caso de que una
 El divorcio es algo que aparece en varias de las historias, nombrado o como parte importante de la historia. Es normal que en una cultura con poligamia haya formas de romper esas relaciones. Normalmente, hay que hablar con un kadí para que registre el divorcio y establezca la repartición de bienes.
 
 Pero seamos sinceros, que exista el divorcio no quiere decir que todo el mundo pueda ser libre de divorciarse, en especial las mujeres.
+
+\sp
 
 ### Gastronomía
 
@@ -922,6 +976,8 @@ Tratar de abarcar toda la gastronomía de las diferentes culturas de Oriente Med
 > **Referencia:** Algunas tonterías y teorías del maestro de las divisas y de las risas (n. 922)
 
 No creo necesario explicarlo, pero el kebab hace referencia a carne que es asada o cocida en rollos de carne prensada en un hornillo vertical. Quizás el plato más famoso de la rica gastronomía de Oriente medio. Originariamente es cordero, una de las carnes fundamentales, pero según restricciones religiosas y los gustos locales, tenemos kebabs de diferentes aves, ternera o pescado.
+
+\sp
 
 #### Seksu
 
@@ -957,11 +1013,14 @@ Aquí tienes más platos referenciados en las 1001 Noches.
 * Carnero a la parrilla
 * Pato relleno y circundado de tomates, pepinillos y berenjenas
 
-[![Temple Of Triangle por Typhonart](./images/vieja-ciudad.jpg)](https://www.deviantart.com/typhonart/art/Typhonart-Temple-Of-Triangle-599300492 "Temple Of Triangle por Typhonart") 
 
 \sp
 
 \sinc
+
+[![Temple Of Triangle por Typhonart](./images/vieja-ciudad.jpg)](https://www.deviantart.com/typhonart/art/Typhonart-Temple-Of-Triangle-599300492 "Temple Of Triangle por Typhonart") 
+
+&nbsp;
 
 ## Ciudades
 
@@ -973,7 +1032,9 @@ Todo esto contrasta con las historias de Lovecraft que tienen lugar muchas veces
 
 Es por todo esto que conocer las ciudades es importante para darle todo el sabor a tus aventuras. De hecho, en capítulos posteriores tendrás una detallada descripción de la misteriosa ciudad de Bagdad, el centro de las 1001 Noches y en esa descripción se sigue esta estructura de ciudad para desarrollarla.
 
-### Zonas de las ciudad
+\sp
+
+### Zonas de la ciudad
 
 Una ciudad de oriente medio en la Edad Media tiene de una serie de zonas típicas. En ciudades pequeñas no tiene por qué haber todas, como la alcazaba, pero las grandes como Bagdad o Basora no les falta ninguna de ellas y puede que incluso estén duplicadas como el zoco y el bazar y tener uno por cada barrio importante de la ciudad.
 
@@ -995,6 +1056,8 @@ Estos barrios tienen un carácter más residencial donde la gente vive y se rela
 
 Estos barrios tienen algún tipo de gobernante menor que toma las decisiones principales sobre el arrabal, normalmente un o una jeique que son llamados al-balad.
 
+\sp
+
 #### Bazares y zocos
 
 Los zocos y [bazares](#anchorgranbazar) son las zonas comerciales de las ciudades. Normalmente, los más importantes están localizados en la medina, pero cada barrio tiene como mínimo sus propios zocos de alimentación y enseres del día a día. Cosas más especializadas y caros como los orfebres igual solo están en el bazar principal.
@@ -1014,6 +1077,8 @@ Los zocos y bazares tienen dos figuras interesantes:
 
 Maidán hace referencia a una plaza normalmente la mas importante de la ciudad. Son amplios espacios y a veces ajardinados donde se desarrolla la vida social. La gente pasea y descansa a la sombra de árboles y toldos, come y toma te, etc.
 
+\sp
+
 Normalmente la medina se estructura en función del maidán principal y los edificios oficiales suelen estar a su alrededor.
 
 Como en los zocos podemos encontrar aguadores, vendedores ambulantes, incluso sacamuelas, encantadores de serpientes o músicos y actores ambulantes.
@@ -1027,6 +1092,8 @@ Son considerados lugares modernos y bastante abiertos de ideas, sin embargo, muc
 > "¡Oh nuestro señor sultán, y tú, juicioso visir, y tú, antiguo compañero mío de cadena! Sabed que el motivo de mi encarcelamiento en este maristán es todavía más sorprendente que el que conocéis ya, porque si este compañero mío fué encerrado como loco sin estarlo, fué por culpa suya y a causa de su credulidad y confianza en sí mismo. ¡Pero si yo he pecado ha sido precisamente por el exceso contrario, como vais a ver, siempre que queráis permitirme proceder con orden!" Y el sultán y su visir y su nuevo chambelán, que era el antiguo loco primero, contestaron de común acuerdo: "¡Desde luego!" Y el visir añadió: "Por cierto que, cuando más orden pongas en tu relato quedaremos mejor dispuestos para considerar que estás comprendido injustamente en el número de los locos y los dementes".
 > 
 > **Referencia:** Historia del segundo loco (n. 837)
+
+\sp
 
 Los maristán también eran usados como manicomios en el sentido más clásico de maltrato y sufrimiento (similar a lo que vemos en "Alguien voló sobre el nido del cuco"). Son varias las veces en que se hace referencia de maltratos a los locos encerrados en sus celdas, de atarlos con cadenas o de azotarlos.
 
@@ -1048,6 +1115,8 @@ La mezquita es el centro de la vida religiosa de la ciudad. Son, además, un sit
 
 Las mezquitas solo son referencian de pasada en muchas de las historias. Los personajes van o vienen de la mezquita y de los ritos religiosos, pero normalmente no son lugares en los que trascurran las historias de las 1001 Noches. Las sinagogas y las iglesias son frecuentemente mencionadas en los relatos, pero sin gran importancia en la historia.
 
+\sp
+
 #### Diwán
 
 El diwán es una mezcla de palacio de justicia y registro civil. Aquí es donde se juzgan diferentes delitos y donde se pueden hacer diferentes gestiones burocráticas como pagar impuestos, pedir permisos varios, solicitar audiencias con el califa, etc. Tienen un carácter religioso, ya que los jueces o kadís también pueden juzgar temas religiosos como delitos contra los preceptos religiosos.
@@ -1065,6 +1134,8 @@ En toda población de gran tamaño hay uno o más cementerios. Están fuera de l
 El privilegio de ser enterrados dentro de la ciudad era únicamente para personas de alta alcurnia de la ciudad, que eran enterradas en pequeños cementerios conocidos como rawdas.
 
 Los mausoleos son llamados turbeh (que significa en turco tumba-torre) y solían ser hexagonales u octogonales y solo tenían una puerta de entrada y una única estancia donde se dejaban los cuerpos en ataúdes o sarcófagos.
+
+\sp
 
 #### Hammam
 
@@ -1099,6 +1170,8 @@ Por todo Oriente Medio hay grandes rutas caravaneras que comunican las grandes c
 
 Las rutas suponen riqueza para las poblaciones por las que pasan, desde pequeños pueblos donde repostar agua y comida hasta grandes ciudades donde comprar y vender mercancías. Es por ello que los dirigentes de estos lugares hacen lo que sean por ayudar a las caravanas y facilitar su viaje. Son cosas que van desde arreglar el pozo para coger agua sea más rápido a construir khans (posadas) o tener guardias pagados que las protejan frente a los ladrones.
 
+\sp
+
 Los productos con que se comerciaba en estas rutas eran muy variados. Seda de la China; pimienta y otras especias provenientes de las islas de las Especias y de la India; esclavos, oro y marfil de África central hacia el Mediterráneo; coral de África del Norte que se llevaba a Asia; ámbar y estaño procedentes del Norte de Europa; sal, madera, caballos y todo tipo de productos manufacturados de múltiples procedencias (armas, tejidos, cuero, cerámica, papel, libros, etc.).
 
 #### Rutas actuales
@@ -1110,6 +1183,9 @@ Desde Oriente Medio partes rutas comerciales a todo el mundo conocido trayendo m
     piedras y metales preciosos (diamantes de Golconda, rubíes de Birmania, jade de China, perlas del golfo Pérsico), telas de lana o de lino, ámbar, marfil, laca, especias, porcelana, vidrio, materiales manufacturados, coral, etc.
 * **Ruta de las especies:** Durante cientos de años se han traído por tierra y barco especies desde la India y luego eran distribuidas por todo el Mediterráneo en barco. También se van más lejos en barco a las diferentes islas de las especies donde comerciaban con extrañas gentes que se ven reflejadas (y exageradas) en las historias de Sindbad el marino.  
     Por especies entendemos no solo pimienta o comino, también plantas medicinales, diferentes inciensos y aceites que se quemaban para dar olor.
+
+\sp
+
 * **Ruta del norte de África:** Estas rutas comerciaban con el norte de África, pero en realidad traían productos de todo el África subsahariana como oro o marfil. Desgraciadamente, también era la principal ruta esclavista. La dureza del desierto hacía que fuera una de las rutas con menor índice de supervivencia para los esclavos y esclavas.
 
 ### Las caravanas
@@ -1128,7 +1204,11 @@ Las caravanas estaban sometidas a una rígida organización y reglamentación, q
 
 #### Mokaddem
 
-La persona que dirige la caravana es llamado mokaddem. De normal, dirige la caravana tomando decisiones de rutas, reparto de provisiones y demás. Cuando la caravana está en tierra de nadie se convierte, además, en una especie de kadí y su palabra es ley. Puede juzgar crímenes como robos menores o estafas, dirimir discusiones y problemas entres caravaneros y caravaneras. En situaciones graves puede expulsar de la caravana a personas peligrosas y violentas y abandonarlas a su suerte en el desierto.
+La persona que dirige la caravana es llamado mokaddem. De normal, dirige la caravana tomando decisiones de rutas, reparto de provisiones y demás. Cuando la caravana está en tierra de nadie se convierte, además, en una especie de kadí y su palabra es ley. 
+
+\sp
+
+Puede juzgar crímenes como robos menores o estafas, dirimir discusiones y problemas entres caravaneros y caravaneras. En situaciones graves puede expulsar de la caravana a personas peligrosas y violentas y abandonarlas a su suerte en el desierto.
 
 ### Los khans
 
@@ -1143,6 +1223,9 @@ Los khans proporcionaban agua para el consumo de gente y animales, así como par
 Aunque a priori lo pueda parecer, el desierto y todos sus peligros no son un elemento muy importante en las 1001 Noches. No es común que un personaje se quede abandonado en el desierto y sufra todo tipo de desventuras. Lo normal es que los desiertos se crucen sin problemas, quizás haya ataques de bandidos o algún tipo de monstruo de las arenas, pero siempre se tienen agua y provisiones y no hay terribles tormentas de arena.
 
 * Sahara, en todo el norte de África. Debido a su gran tamaño podemos tener desde desierto de arena y dunas que llegan a la costa, hasta zonas de desierto de piedra. Al ser tan grande y tan variado da juego a todo tipo de situaciones, puedes meter oasis, dunas, kashbahs abandonadas, tribus monadas, etc. Mientras que el resto de desiertos son un obstáculo, el Sahara es un viaje en sí.
+
+\sp
+
 * Rub al-Jali, en la península arábiga. Es un erg, el clásico desierto de arena y dunas, con temperaturas terribles de día y de noche. Es una de las regiones más inhóspitas de la Tierra y está totalmente deshabitada.
 * Wadi Rum, en Aqaba. El "Valle de la luna" es un desierto en una meseta de arenisca y granito que tiene unas formaciones rocosas con túneles y cuevas bastante curiosas por no decir extraterrestres. Es famosa la montaña conocida como Los siete pilares de la sabiduría.
 * El desierto de Nefud, en la península arábiga. Es un erg, es un desierto de arena y dunas, famoso por sus violentos e inesperadas tormentas de arena. Es el desierto que cruzo Lawrence de Arabia, aunque curiosamente esas escenas debieron rodarse en el Wadi Rum.
@@ -1153,6 +1236,8 @@ Aunque a priori lo pueda parecer, el desierto y todos sus peligros no son un ele
 > Y todos estaban armados y forrados de hierro. Y sólo aguardaban una ocasión como aquélla para lograr botín, pues desde hacía tiempo que andaban por el mar. De modo que en cuanto vieron el navío en que estaba Safía, lo abordaron, le echaron los garfios y se apoderaron de él. Después se dieron de nuevo a la vela llevándolo a remolque. Pero levantó una furiosa tempestad que los arrojó a nuestras costas, desamparados. Entonces se arrojaron sobre ellos nuestros hombres, mataron a los piratas, y se apoderaron a su vez de las sesenta jóvenes entre las cuales se encontraba Safía.
 > 
 > **Referencia:** Historia del rey Omar Al-Neman y de sus dos hijos Scharkan y Daul’Makan (n. 50)
+
+\sp
 
 Los viajes en barco tampoco son fáciles como demuestran los cuentos de Sindbad el marino. Desde monstruos marinos capaces de tragarse un barco en dos bocados a cíclopes, pasando por aves de Rokhs, remolinos. Sin olvidarse que tras una terrible tormenta puedes en cualquier isla desierta donde se dan extraños sucesos.
 
@@ -1170,6 +1255,10 @@ Si no tienes mucha idea, piensa que los viajes de Ulises y las aventuras de Sind
 > 
 > **Referencia:** Historia de los artificios de Dalila la taimada y de su hija Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 432)
 
-Los grandes regentes de oriente Medio tenían que regir grandes territorios y proteger muchos kilómetros de fronteras y para tomar decisiones adecuadas necesitaban estar informados. Es por ello que las palomas mensajeras eran un elemento importante en las comunicaciones. Cada expedición diplomática o militar iba siempre con un menestral de palomar que enviaba mensajes con palomas mensajeras.
+Los grandes regentes de oriente Medio tenían que regir grandes territorios y proteger muchos kilómetros de fronteras y para tomar decisiones adecuadas necesitaban estar informados.
+
+\sp
+
+Es por ello que las palomas mensajeras eran un elemento importante en las comunicaciones. Cada expedición diplomática o militar iba siempre con un menestral de palomar que enviaba mensajes con palomas mensajeras.
 
 Perder tus palomas suponía quedar incomunicado y podía ser la diferencia entre la victoria o la derrota. Podías mandar mensajeros, pero eran más lentos y más fáciles de detectar por el enemigo. Es por ello que tanto el menestral del palomar principal como de los portátiles eran personas muy importantes dentro del Califato.
