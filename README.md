@@ -29,7 +29,7 @@ Fecha estimada de publicación: Marzo 2024
 * Continuamos con el cuento salvaje largo «Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce»
 
 ### 0.9 12/06/2024
-* Terminada la parte de ambientación de «El gran Rey Soleimán»
+* Terminada la parte de ambientación de «El gran Rey Suleimán»
 * Terminada la parte de ambientación de «Los Yinns»
 
 ### 0.8.3 06/06/2024
@@ -41,7 +41,7 @@ Fecha estimada de publicación: Marzo 2024
 * Correcciones ortográficas
 * Secuaz terminado: Artista 
 * Desarrollo de «Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce»
-* Terminado el cuento salvaje largo «El shatranj de Soleimán»
+* Terminado el cuento salvaje largo «El shatranj de Suleimán»
 
 ### 0.8.1 08/05/2024
 * Terminado el cuento salvaje largo «La caída de Giafar»
@@ -100,8 +100,8 @@ Fecha estimada de publicación: Marzo 2024
 
 ### 0.5.1 2024/02/15
 * Relato salvaje terminado: Historia de la noche en el cementerio
-* Relato salvaje terminado: El shatranj de Soleimán: Historia del mielero (I)
-* Relato salvaje terminado: El shatranj de Soleimán: Historia del las piezas de ébano del shatranj (II)
+* Relato salvaje terminado: El shatranj de Suleimán: Historia del mielero (I)
+* Relato salvaje terminado: El shatranj de Suleimán: Historia del las piezas de ébano del shatranj (II)
 * Relato salvaje terminado: El festival del Chaharshanbe Surí
 * Relato salvaje terminado: La paloma mensajera
 * Nueva localización terminada: La Montaña del Imán

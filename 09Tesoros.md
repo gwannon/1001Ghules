@@ -225,7 +225,7 @@ Las capacidades especiales también son una sugerencia. Igual no quieres armas d
 |4|Kitab an-nawamis - Libro de las leyes|
 |5|Anales de los Antiguos|
 |6|Pnakotica - Manuscritos Pnakóticos|
-|7|I ching|
+|7|I Ching|
 |8|Historia de las Aventuras de Hassan Al-Bassri|
 
 \conc
@@ -273,7 +273,7 @@ Las capacidades especiales también son una sugerencia. Igual no quieres armas d
 |37-40|Alfombra volante|89-92|Agujas mágicas|
 |41-44|Saco encantado|93-96|Taza talismánica|
 |45-48|Batería de Bagdad|97-100|Mesa de arena adivinatoria|
-|49-52|Kohl de búsqueda de tesoros| - | - |
+|49-52|Kohl de búsqueda de tesoros|—|—|
 
 \conc
 
@@ -287,26 +287,45 @@ Las capacidades especiales también son una sugerencia. Igual no quieres armas d
 
 Esta ambientación está llena de objetos maravillosos de inmenso poder y muchas veces malditos. Objetos que pueden traerte grandes dones o convertir tu mundo en un infierno en la Tierra. Estos objetos van más allá de alfombras voladoras y lámparas mágicas, estamos hablando de juguetes que te permiten viajar por el espacio (o quizás acabar pedido en la inmensidad del espacio) o armas dignas de dioses que pueden que terminen matando a tus seres queridos.
 
+\sinc
+
 ### Alfombra teleportadora
 
 > Y dijo el vendedor: "¡Tú lo has dicho, señor! ¡Has de saber que, en efecto, esta alfombra está dotada de una virtud invisible que hace que al sentarse en ella sea uno transportado inmediatamente adonde quiera ir, y con tanta rapidez, que se efectúa en menos tiempo del que se tarda en cerrar un ojo y abrir el otro! Y ningún obstáculo es capaz de detenerla en su marcha, porque ante ella se aleja la tempestad, huye la tormenta, se entreabren las montañas y las murallas, y por lo mismo, resultan inútiles y vanos los candados más sólidos. ¡Y tal es ¡oh mi señor! la virtud invisible de esta alfombra de plegaria!"
 > 
 > **Referencia:** Historia de la princesa Nurennahar y de la bella gennia (n. 808)
 
+&nbsp;
+
+\conc
+
 Este espectacular alfombra hecha con hilo de oro y plata y la mejor lana de Cachemira es ya espectacular simplemente como objeto decorativo. Pero, es que además, tiene una asombrosa cualidad, permite teleportarse a las personas que se sienten encima a lugar en la Tierra que quieran.
 
-La diferencia con las alfombras voladoras es que esta alfombra se teletransporta a donde sea, con lo que tarda segundos en hacer viajes de varios meses y además evade puertas, candados, rejas. Podría entrar dentro de la sala del tesoro de un califa. Las voladoras se quedarían a las puertas de la cámara, ya que no pueden atravesar puertas candadas.
+La diferencia con las alfombras voladoras es que esta alfombra se teletransporta a donde sea, con lo que tarda segundos en hacer viajes de varios meses y además evade puertas, candados, rejas. 
 
-La alfombra permite viajar con hasta otras 3 personas más el piloto. Necesita extenderse la alfombra en el suelo completamente y sin arrugas antes de poder montarse con ella y teleportarse. Es necesario conocer el lugar de alguna manera, bien porque se ha estado allí o porque se conoce mediante dibujos o descripciones detalladas. El viaje es instantáneo, lo cual la hace una vía de entrada o escape muy rápida, necesitando solo 3 turnos para colocarla en el suelo bien y sentarse o para levantarse y doblarla.  
+\sp
+
+Podría entrar dentro de la sala del tesoro de un califa. Las voladoras se quedarían a las puertas de la cámara, ya que no pueden atravesar puertas candadas.
+
+La alfombra permite viajar con hasta otras 3 personas más el piloto. Necesita extenderse la alfombra en el suelo completamente y sin arrugas antes de poder montarse con ella y teleportarse. Es necesario conocer el lugar de alguna manera, bien porque se ha estado allí o porque se conoce mediante dibujos o descripciones detalladas. El viaje es instantáneo, lo cual la hace una vía de entrada o escape muy rápida, necesitando solo 3 turnos para colocarla en el suelo bien y sentarse o para levantarse y doblarla.
+
 La alfombra cruza por diferentes dimensiones a la velocidad del rayo, para llegar a su destino. Sus pasajeros podrían tener que hacer unas TPC a discreción de Scheherazade por las cosas que vean en los poco que dura el viaje.
+
+\sinc
 
 ### Anillos mágicos
 
-> …Y he aquí que, cuando el desesperado Aladino frotó, sin querer, el anillo que llevaba en el pulgar y cuya virtud ignoraba, vio surgir de pronto ante él, como si brotara de la tierra, un inmenso y gigantesco efrit, semejante a un negro embetunado, con una cabeza como un caldero, y una cara espantosa, y unos ojos rojos, enormes y llameantes, el cual se inclinó ante él, y con una voz tan retumbante cual el rugido del trueno, le dijo "¡Aquí tienes entre tus manos a tu esclavo! ¿Qué quieres? Habla. ¡Soy el servidor del anillo en la tierra, en el aire y en el agua!"
+> … Y he aquí que, cuando el desesperado Aladino frotó, sin querer, el anillo que llevaba en el pulgar y cuya virtud ignoraba, vio surgir de pronto ante él, como si brotara de la tierra, un inmenso y gigantesco efrit, semejante a un negro embetunado, con una cabeza como un caldero, y una cara espantosa, y unos ojos rojos, enormes y llameantes, el cual se inclinó ante él, y con una voz tan retumbante cual el rugido del trueno, le dijo «¡Aquí tienes entre tus manos a tu esclavo! ¿Qué quieres? Habla. ¡Soy el servidor del anillo en la tierra, en el aire y en el agua!»
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 774)
 
+&nbsp;
+
+\conc
+
 Los anillos mágicos son uno de los objetos mágicos más comunes de las 1001 Noches y casi siempre están relacionados con genios servidores. Veamos tres ejemplos de anillos mágicos que funcionan exactamente igual que la Lámpara Mágica, pero con "yinns" más o menos poderosos que el genio de la lámpara.
+
+\sp
 
 * El anillo de Aladino. Historia de Aladino y de la lámpara mágica (n. 774)
 * El anillo del Padre de la Dicha. Historia del pastel hilado con miel de abejas y de la esposa calamitosa del zapatero remendón (n. 996)
@@ -318,23 +337,33 @@ Estos 3 anillos seguirían las mismas reglas generales que la Lámpara Mágica (
 * El anillo del Padre de la Dicha. Para invocar al servidor de este anillo debes frotar una vez el engarce del anillo, si lo frotas dos veces el anillo se destruye y el yinn se consume. El genio de este anillo no sale del anillo más que para cumplir órdenes y lo hace tan rápidamente que ni se le ve. El anillo también te hace heredero del gran rey y mago Scheddad y su fabuloso tesoro.
 * El anillo de Trueno Penetrante. Trueno Penetrante es un rey entre las tribus de los suyos y muchas de las tareas que se le encarga como construir un palacio en una noche, él, a su vez, se lo ordena a sus súbditos.
 
-#### El anillo mágico de Soleimán
+#### El anillo mágico de Suleimán
 
-Otro anillo terriblemente poderoso es el anillo mágico de Soleimán, que dicen portaba Adam en jardín del Edén. Este anillo terminó heredándolo el poderoso rey-mago Soleimán con el que fue enterrado en una cripta de la isla de los Siete Mares.
+Otro anillo terriblemente poderoso es el anillo mágico de Suleimán, que dicen portaba Adam en jardín del Edén. Este anillo terminó heredándolo el poderoso rey-mago Suleimán con el que fue enterrado en una cripta de la isla de los Siete Mares.
 
-La cripta de Soleimán, donde está el cuerpo preservado del Soleimán con el anillo en el índice de una mano y un cetro de oro y rubíes en la otra, está protegida por poderosas trampas mágicas que exigen una serie de ensalmos para desactivarlas. En la sección de la [isla de los Siete Mares](#anchorisla7mares) tienes una explicación de como es la cripta y las trampas que hay en ella.
+La cripta de Suleimán, donde está el cuerpo preservado del Suleimán con el anillo en el índice de una mano y un cetro de oro y rubíes en la otra, está protegida por poderosas trampas mágicas que exigen una serie de ensalmos para desactivarlas. En la sección de la [isla de los Siete Mares](#anchorisla7mares) tienes una explicación de como es la cripta y las trampas que hay en ella.
 
-En la Historia de Belukia, que es el cuento donde sale este anillo, no se especifica sus poderes, pero teniendo en cuenta que el anillo viene del mismo Adam y lo tuvo el poderoso rey Soleimán, podría hacer cualquier cosa. Este objeto puede ser el perfecto Macguffin para tus campañas. Puedes dotarle del poder que tú quieras que no cubran otros objetos como traer a la vida una persona muerta, viajar en el tiempo, alzar a los zombis o liberar a un primigenio de su prisión.
+En la Historia de Belukia, que es el cuento donde sale este anillo, no se especifica sus poderes, pero teniendo en cuenta que el anillo viene del mismo Adam y lo tuvo el poderoso rey Suleimán, podría hacer cualquier cosa.
+
+\sp
+
+Este objeto puede ser el perfecto Macguffin para tus campañas. Puedes dotarle del poder que tú quieras que no cubran otros objetos como traer a la vida una persona muerta, viajar en el tiempo, alzar a los zombis o liberar a un primigenio de su prisión.
+
+\sinc
 
 ### Armas del príncipe Diamante
 
-> cogió un cajón que había en otro agujero del muro, lo abrió y sacó de él un arco de oro con sus flechas, una espada de acero chino y un puñal con el puño de jade, y se los entregó a Diamante, diciéndole: "Este arco y sus flechas han pertenecido al profeta Saleh (¡con él la plegaria y la paz!). Esta espada que es conocida bajo el nombre de Escorpión de Soleimán, es tan excelente que si se golpeara con ella una montaña la partiría como jabón. Y por último, este puñal, fabricado en otro tiempo por el sabio Tammuz, es inapreciable para quien lo posee, porque preserva de todo ataque la virtud oculta en su hoja".
+> cogió un cajón que había en otro agujero del muro, lo abrió y sacó de él un arco de oro con sus flechas, una espada de acero chino y un puñal con el puño de jade, y se los entregó a Diamante, diciéndole: "Este arco y sus flechas han pertenecido al profeta Saleh (¡con él la plegaria y la paz!). Esta espada que es conocida bajo el nombre de Escorpión de Suleimán, es tan excelente que si se golpeara con ella una montaña la partiría como jabón. Y por último, este puñal, fabricado en otro tiempo por el sabio Tammuz, es inapreciable para quien lo posee, porque preserva de todo ataque la virtud oculta en su hoja".
 > 
 > **Referencia:** Historia espléndida del príncipe Diamante (n. 910)
 
+&nbsp;
+
+\conc
+
 Estas son las armas que la princesa Gamila entrego al príncipe Diamante para le protegiesen en su aventura en búsqueda de la ciudad de Wakak. Son el sueño de cualquier combatiente, ya que con ellas podrían llegar a ser leyendas de la lucha enfrentándose y venciendo a cualquier enemigo.
 
-Portar, aunque solo sea una de ellas, otorga un gran prestigio y respeto y la gente se pensará muy mucho enfrentarse directamente a tí.
+Portar, aunque solo sea una de ellas, otorga un gran prestigio y respeto y la gente se pensará muy mucho enfrentarse directamente a ti.
 
 #### Arco del profeta Saleh
 
@@ -342,9 +371,11 @@ Este arco recurvo con incrustaciones de oro era portado el profeta Saleh mientra
 
 El arco tiene 3 flechas, si disparas una de las 3 flechas con el arco negará cualquier tipo de cobertura física o mágica. El arco y las flechas son irrompibles. Si se lanzan flechas normales se obtiene un +1 a Disparar y al daño.
 
-#### Escorpión de Soleimán
+\sp
 
-El Escorpión de Soleimán es un dao de acero con empuñadura de jade. Está tan afilado que podría cortar cualquier cosa.
+#### Escorpión de Suleimán
+
+El Escorpión de Suleimán es un dao de acero con empuñadura de jade. Está tan afilado que podría cortar cualquier cosa.
 
 Niega hasta los 6 puntos de armadura de cualquier tipo, natural, mágica, de obstáculos, etc. Por ejemplo, un qatram con dureza de normal de 18, tendría 14 de dureza si es golpeado por esta espada. La espada quita el bono de 4 de su armadura natural.  
 También reduce en 6 puntos la consistencia de los objetos en caso de que quieras romperlos. Unas cadenas de consistencia 12 pasan a tener 6 si son golpeadas con esta hoja.
@@ -355,21 +386,39 @@ Este sencillo puñal de acero con empuñadura de sándalo sin ningún tipo de fi
 
 Con solo blandirla, dota a su portador +3 a parada y da Resistencia arcana mejorada.
 
+\sinc
+
 ### Caballo de ébano
 
-> … un caballo de madera de ébano, de la calidad más negra y más rara, incrustado de oro y pedrerías, y enjaezado maravillosamente con una silla, una brida y unos estribos como sólo llevan los caballos de los reyes. Así es que el rey Sabur quedó maravillado hasta el límite de la maravilla y desconcertado por la belleza y las perfecciones de aquel caballo; luego dijo: "¿Y qué virtudes tiene este caballo de ébano?"  
+> … un caballo de madera de ébano, de la calidad más negra y más rara, incrustado de oro y pedrerías, y enjaezado maravillosamente con una silla, una brida y unos estribos como solo llevan los caballos de los reyes. Así es que el rey Sabur quedó maravillado hasta el límite de la maravilla y desconcertado por la belleza y las perfecciones de aquel caballo; luego dijo: "¿Y qué virtudes tiene este caballo de ébano?"  
 >   
 > El persa contestó: "¡Oh mi señor! las virtudes que posee este caballo son cosa prodigiosa, hasta el punto de que cuando uno monta en él, parte con su jinete a través de los aires con la rapidez del relámpago, y le lleva a cualquier sitio donde se le guíe, cubriendo en un día distancias que tardaría un año en recorrer un caballo vulgar".
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414-431)
 
-El caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada. Tiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata. Es tan realista que si no fuera porque está inmóvil pasaría por real.
+&nbsp;
 
-Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales. En este líquido están flotando ciertos órganos extraídos de un ave de rokh (shantak) que le confieren al caballo algunas de las sus maravillosas propiedades que tiene el caballo.
+\conc
+
+El caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada. 
+
+\sp
+
+\sinc
 
 [![The Journey of Prince Firouz Schah - Houghton, Arthur Boyd](./images/journey-firouz.jpg)](https://www.oldbookillustrations.com/illustrations/journey-firouz/ "The Journey of Prince Firouz Schah - Houghton, Arthur Boyd") 
 
-El caballo de ébano volando por toda la Tierra.
+_El caballo de ébano volando por toda la Tierra._
+
+\conc
+
+\sp
+
+Tiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata. Es tan realista que si no fuera porque está inmóvil pasaría por real.
+
+Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales.
+
+En este líquido están flotando ciertos órganos extraídos de un ave de Rokh (shantak) que le confieren al caballo algunas de las sus maravillosas propiedades que tiene el caballo.
 
 Al presionar y mover las ruedas, tornillos y palancas que hay escondidas en su cabeza y debajo de la silla, el caballo se estimula diferentes partes de los órganos de ave de Rokh de su interior. Esto le permite elevarse y volar. Se mueve muy rápidamente si se desea, pudiendo recorrer en un día lo que un caballo recorrería en un año.
 
@@ -380,6 +429,8 @@ Es importante saber llegar a ese lugar. No puedes ir a sitios de los que no cono
 A nivel de juego, una persona con Afinidad mágica puede gastar un PP y tras pasar una tirada de Pilotar te llevará en un día máximo a cualquier parte del mundo conocido. Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de Bagdad a Basora podría llevar una hora de viaje.
 
 No puede volar con precisión, no podrías elevarte con él y atacar a desde el aire a tus enemigos o escapar de una gruta que está colapsando esquivando piedras que caen del techo. De hecho, no debería usarse en interior, solo al aire libre o en estancias muy grandes con ventanales o claraboyas de gran tamaño, como las estancias del palacio de un califa.
+
+\sp
 
 Si se fracasa la tirada de Pilotar, el caballo se descontrola y los instintos del ave de Rokh hacen que vaya a algún lugar que visito en vida. Deberás hacer una tirada en la Tabla de perdido en el tiempo y el espacio para saber dónde acabas.
 
@@ -397,9 +448,16 @@ Las estatuas ecuestres son objetos de gran poder en las 1001 Noches. Sus orígen
 
 Las 3 estatuas son:
 
-* La [estatua ecuestre](#anchorecuestrebagdad) de la cúpula verde del palacio de las maravillas de Bagdad. Este jinete avisa de los ejércitos enemigos que quieren atacar la ciudad. Fue creado por el propio Eibon de Mhu Thulan para proteger su torre de mago.
 * La [estatua ecuestre](#anchorecuestreiman) de la montaña del Imán. Este jinete tiene un gran poder electromagnético que convierte la montaña donde está en un gigantesco imán que atrae todo elemento metálico de los barcos que se le acercan y hace que se hundan. No se sabe muy bien su función, ya que puede ser usado ofensivamente destruyendo a los enemigos o como una herramienta de extracción de metales, incluso una cárcel para algún primigenio magnético.
+
+\sp
+
+* La [estatua ecuestre](#anchorecuestrebagdad) de la cúpula verde del palacio de las maravillas de Bagdad. Este jinete avisa de los ejércitos enemigos que quieren atacar la ciudad. Fue creado por el propio Eibon de Mhu Thulan para proteger su torre de mago.
 * La [estatua ecuestre](#anchorecuestreciudadbronce) de la Ciudad de Bronce abre una especie de portal que permite llegar a la mítica Ciudad de Bronce. Esta estatua juega con la geometría euclidiana haciendo que para encontrar la ciudad de Bronce tengas que volver por el camino que has venido tras rodearla. Cuando parece que has dado un giro de 360º y estás volviendo por donde has venido, en realidad solo has girado 180º y continuas por la dirección por la que ibas. Cualquier otra combinación hará que te pierdas irremediablemente.
+
+\sinc
+
+&nbsp;
 
 ### Figura-reloj de pavos reales
 
@@ -409,11 +467,19 @@ Las 3 estatuas son:
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
+&nbsp;
+
+\conc
+
 Esta figura-reloj es el reloj más preciso que existe en el mundo actual y su tecnología está muy avanzada a su tiempo. Aun así, no deja de ser un objeto decorativo muy caro que el califa sacará cuando ponga a tus schahriars una fecha límite para cumplir una tarea.
+
+\sp
 
 Está diseñado para contar horas y también los meses, ya que el reloj marca la luna nueva y calendario árabe es lunar. Es por eso que permite dar desde periodos cortos como horas hasta largos como «hasta la próxima luna llena» o «dentro de dos lunas».
 
 Este objeto no tiene ningún poder en realidad, salvo no necesitar darle cuerda, lo cual en realidad lo convierte en una máquina de movimiento perpetuo. Si algún schahriar lo examina con Ciencias se dará cuenta de que no tienen ningún sentido, se escapa a las leyes básicas de la física y deberá pasar un TPC d6.
+
+\sinc
 
 ### Gorro de cuero mágico
 
@@ -421,11 +487,19 @@ Este objeto no tiene ningún poder en realidad, salvo no necesitar darle cuerda,
 > 
 > **Referencia:** Las aventuras de Hassan Al-Bassri (n. 614)
 
+&nbsp;
+
+\conc
+
 Este gorro de cuero, que parece totalmente normal, otorga, sin embargo, un poder que cualquier ladrón o asesino le gustaría tener. No tienen ningún tipo de sello o símbolo, así que la única forma de saber qué hace es ponérselo.
 
 Gastando un deseo te haces invisible como si hubieras usado el poder de Invisibilidad. No se consigue ninguna ventaja por avances, ni se puede usar modificares de poder. La invisibilidad dura una hora no pudiéndose volver a usar hasta el día siguiente. Ponerse o quitarse el gorro supone una acción. Puedes quitártelo en cualquier momento y hacerte visible y volver a ponértelo y hacerte invisible las veces que quieras mientras dure la hora.
 
 El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llevándolo puesto, es como si te hubiera hecho una herida un Ghūl (Capacidades especiales: Infección).
+
+\sp
+
+\sinc
 
 ### Figura amorfa de oro y joyas con flauta
 
@@ -434,25 +508,51 @@ El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llev
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
-[![Flautista Tolima, Colombia. Gold statuette 1200 B.C. ](./images/flautista.png)](https://www.pinterest.es/pin/713257659705408985/ "Flautista Tolima, Colombia. Gold statuette 1200 B.C. ") 
+&nbsp;
 
-En el mismo estilo de la estatua del guerrero a caballo que corona la cúpula verde del palacio de las Maravillas de Bagdad, esta monstruosa figura de oro de unos 60 cm de altura hace que las milicias atacantes de la puerta donde se halle, caigan muertas de miedo y huyan despavoridas. De hecho, ningún miembro del ejército querrá acercarse a la ciudad, ya que de hacerlo empezará a recordar el terrible sonido de su aberrante flauta.
+\conc
+
+
+En el mismo estilo de la estatua del guerrero a caballo que corona la cúpula verde del palacio de las Maravillas de Bagdad, esta monstruosa figura de oro de unos 60 cm de altura hace que las milicias atacantes de la puerta donde se halle, caigan muertas de miedo y huyan despavoridas.
+
+De hecho, ningún miembro del ejército querrá acercarse a la ciudad, ya que de hacerlo empezará a recordar el terrible sonido de su aberrante flauta.
 
 La figura de este flautista amorfo no tiene ningún tipo de bisagra, ni articulación, ni engranaje. Cuando se mueve el metal y las gemas del que está hecho se animan como si fueran carne.
 
-Una tirada de Saber de Soleimán, dejará claro que la figura representa a un flautista amorfo, parte de la Corte del Gran Azathoth, que toca su flauta para tranquilizar y apaciguar a su señor. De hecho, si se rompiera la figura se vería que está hueca y que en su interior hay los órganos principales de uno de estos amorfos flautistas en un estado parecido al de los cerebros humanos en los tubos cerebrales de los al mighos.
 
-El propio Nyarlathotep secuestró y entregó a uno de estos seres como parte del pacto que hizo con el alquimista que creo este objeto. Al romper la figura y hacer un hechizo de destierro adecuado, la esencia del flautista volvería a la Corte de Azathoth donde tomaría carne de nuevo y volvería a tocar para este caótico dios.
+Una tirada de Saber de Suleimán, dejará claro que la figura representa a un flautista amorfo, parte de la Corte del Gran Azathoth, que toca su flauta para tranquilizar y apaciguar a su señor.
+
+De hecho, si se rompiera la figura se vería que está hueca y que en su interior hay los órganos principales de uno de estos amorfos flautistas en un estado parecido al de los cerebros humanos en los tubos cerebrales de los al mighos.
+
+El propio Nyarlathotep secuestró y entregó a uno de estos seres como parte del pacto que hizo con el alquimista que creo este objeto.
+
+\sp
+
+Al romper la figura y hacer un hechizo de destierro adecuado, la esencia del flautista volvería a la Corte de Azathoth donde tomaría carne de nuevo y volvería a tocar para este caótico dios.
 
 La figura puede detectar fuerzas enemigas a más de 5 kilómetros de distancia y sacará su flauta avisando a los defensores de que se acercan enemigos. Cuando las fuerzas enemigas sean visibles hará sonar su flauta y el comandante del ejército enemigo deberá hacer una tirada opuesta de Espíritu contra d12+4 de la figura.  
+
 En caso de fallar, el ejército atacante huirá para no volver en mucho tiempo (a discreción de Scheherazade). En caso de pasar la tirada tendrán un +2 a todas las tiradas de moral en el combate de masa. Los schahriars pueden tirar, si quieren, independientemente de la del comandante del ejército.  
+
 La figura solo puede defender una puerta (entiéndase puerta como un lado de la muralla de la ciudad), pero eso no quiere decir que no pueda ponerse en otras puertas de la ciudad.
+
+\sc
+
+[![Silueta Flautista Tolima, Colombia. Gold statuette 1200 B.C. ](./images/flautista.png)](https://www.pinterest.es/pin/713257659705408985/ "Flautista Tolima, Colombia. Gold statuette 1200 B.C. ") 
+
+\sp
+
+\sinc
 
 ### Lámpara mágica
 
 > Cuando estés en esta terraza, ¡oh Aladino! ten cuidado, porque enfrente de ti verás una especie de hornacina al aire libre; y en esta hornacina, sobre un pedestal de bronce, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! Y no temas mancharte el traje, porque el aceite que viertas no será aceite, sino otro líquido que no deja huella alguna en las ropas. ¡Y volverás a mí por el mismo camino que hayas seguido!
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 731-774)
+
+&nbsp;
+
+\conc
 
 [![Aladin Lámpara Milagrosa por Karinamannott](./images/lampara.jpg)](https://pixabay.com/es/photos/aladin-l%C3%A1mpara-milagrosa-magia-2368384/ "Aladin Lámpara Milagrosa por Karinamannott") 
 
@@ -464,10 +564,17 @@ A diferencia de lo que hayas leído, no cumple tres deseos, cumple todas las ór
 
 Las normas generales del yinn encerrado en la lámpara son:
 
-* En general, no son magos. No hacen magia como tal, son seres tremendamente poderosos que pueden hacer multitud de cosas, pero aplicando solo sus poderes normales. Si les pides que te construyan un palacio en una noche lo hacen porque son super-fuertes y super-rápidos. Si quieres oro o vino podrán conseguírtelo, pero no pueden convertir el plomo en oro o el agua en vino. Puede bajar al fondo del mar y rescatar un barco hundido, pero no pueden darte agallas para que respires debajo del agua.
-* No tienen poderes mentales. No pueden controlar las mentes de la gente, ni hacer visiones, ni retocar los recuerdos. Pueden hacer que la gente te quiera regalándoles oro y joyas en tu nombre, pero nada de magia para que la gente te adore.
-* No Tienen poderes sanadores. Como ya hemos explicado con otros tipos de poderes, podrán llevarte ante el mejor médico del mundo, pero no curarte una herida mágicamente. Tampoco pueden curarte enfermedades, pero sí conseguirte alguna poción sanalotodo. Tampoco pueden trasformar tu cuerpo haciéndote más alto o más guapo, pero podrán buscarte las mejores ropas del mundo y darte los mejores cosméticos.
-* Tampoco tienen otros poderes, como viajar en el tiempo, levantar a los muertos, ver el futuro o el pasado, pero si pueden hablar con todo tipo de seres y tienen gran sabiduría y memoria.
+**En general, no son magos.** No hacen magia como tal, son seres tremendamente poderosos que pueden hacer multitud de cosas, pero aplicando solo sus poderes normales. Si les pides que te construyan un palacio en una noche lo hacen porque son superfuertes y superrápidos.
+
+\sp
+
+Si quieres oro o vino podrán conseguírtelo, pero no pueden convertir el plomo en oro o el agua en vino. Puede bajar al fondo del mar y rescatar un barco hundido, pero no pueden darte agallas para que respires debajo del agua.
+
+**No tienen poderes mentales.** No pueden controlar las mentes de la gente, ni hacer visiones, ni retocar los recuerdos. Pueden hacer que la gente te quiera regalándoles oro y joyas en tu nombre, pero nada de magia para que la gente te adore.
+
+**No tienen poderes sanadores.** Como ya hemos explicado con otros tipos de poderes, podrán llevarte ante el mejor médico del mundo, pero no curarte una herida mágicamente. Tampoco pueden curarte enfermedades, pero sí conseguirte alguna poción sanalotodo. Tampoco pueden trasformar tu cuerpo haciéndote más alto o más guapo, pero podrán buscarte las mejores ropas del mundo y darte los mejores cosméticos.
+
+**Tampoco tienen otros poderes,** como viajar en el tiempo, levantar a los muertos, ver el futuro o el pasado, pero si pueden hablar con todo tipo de seres y tienen gran sabiduría y memoria.
 
 #### Genios como avatares de dioses exteriores
 
@@ -475,84 +582,141 @@ Una forma de integrar los genios de la lámpara dentro de los mitos de Cthulhu e
 
 El genio de la lámpara es un ser muy poderoso, relegado al oído y a la obediencia del propietario de la lámpara. Lleva cientos de años sirviendo a los humanos y con el tiempo ha terminado odiándolos y a destruirlos, pero el oído y la obediencia le impide hacerlo. Así busca métodos más sutiles para acabar con su amo.
 
-Sin saltarse las normas de sus poderes y sus propias reglas, hace de todo por tí hasta que eres adicto y no sabes solucionar tus problemas sin ellos. En ese momento te hace caer en desgracia buscando un resquicio legal a tus órdenes para hundirte en la miseria o incluso acabar con tu vida. Quizás si le pides que te haga un palacio lo construirá a propósito más alto que la del califa que enfurecido por tu osadía te haga decapitar. Quizás al pedir una montaña de oro lo haga caer sobre ti sepultándote en monedas de oro y mueras aplastado.
+Sin saltarse las normas de sus poderes y sus propias reglas, hace de todo por ti hasta que eres adicto y no sabes solucionar tus problemas sin ellos. En ese momento te hace caer en desgracia buscando un resquicio legal a tus órdenes para hundirte en la miseria o incluso acabar con tu vida.
+
+\sp
+
+Quizás si le pides que te haga un palacio lo construirá a propósito más alto que la del califa que enfurecido por tu osadía te haga decapitar. Tal vez al pedir una montaña de oro lo haga caer sobre ti sepultándote en monedas de oro y mueras aplastado.
 
 Acabando contigo no queda libre de su cárcel de cobre, pero puede ganar un tiempo de tranquilidad. Estar siglos en éxtasis dentro de una lámpara de aceite en el estómago podrido de un gusano gargantuesco muerto es mejor que cumplir otra orden de un estúpido humano.
 
 #### Reglas propias del genio de la lámpara:
 
-* No puede tocar a las Aves Rokh. Como criaturas de Azathoth no puede hacer nada contra unos siervos de su señor Azathoth.
+* No puede tocar a las aves de Rokh. Como criaturas de Azathoth no puede hacer nada contra unos siervos de su señor Azathoth.
 * Solo aparece si se frota una zona muy concreta de la lámpara. No todo el mundo puede y sabe invocar al genio.
 * La presencia del genio es aterradora para todos los presentes, excepto para el dueño de la lámpara. Provoca un TPC d6 a todos los presentes, excepto a la persona que lo invocó, al que muestra una cara falsa en vez de su auténtica apariencia.
 
+\sinc
+
 ### Lámpara de Alhazred
 
-> El aspecto de la lámpara de Alhazred era poco corriente. Funcionaba con aceite, y parecía ser de oro. Por su forma, se asemejaba a una marmita oblonga, con un asa curvada a un lado y una espita para la llama al otro. Su decoración consistía en unos extraños dibujos, mezclados con letras y colocados de tal manera que parecían formar unas palabras. Pero aquel lenguaje era desconocido para Yassir, que conocía varios dialectos árabes y, sin embargo, no lograba descifrar la inscripción de la lámpara. No era sánscrito. Indudablemente se trataba de un idioma más antiguo; su escritura se componía de letras y jeroglíficos, algunos de los cuales eran pictografías. Yassir dedicó una tarde entera a limpiarla por dentro y por fuera y, después de haberle sacado brillo, la llenó de aceite.
+> El aspecto de la lámpara de Alhazred era poco corriente. Funcionaba con aceite, y parecía ser de oro. Por su forma, se asemejaba a una marmita oblonga, con un asa curvada a un lado y una espita para la llama al otro. Su decoración consistía en unos extraños dibujos, mezclados con letras y colocados de tal manera que parecían formar unas palabras. Pero aquel lenguaje era desconocido para Yassir, que conocía varios dialectos árabes y, sin embargo, no lograba descifrar la inscripción de la lámpara. No era sánscrito. Indudablemente, se trataba de un idioma más antiguo; su escritura se componía de letras y jeroglíficos, algunos de los cuales eran pictografías. Yassir dedicó una tarde entera a limpiarla por dentro y por fuera y, después de haberle sacado brillo, la llenó de aceite.
+
+\conc
+
+\sp
 
 Se dice que se creó en Aram-de-las-columnas por la mítica tribu de los Aads. Se dice que Abdul Alhazred utilizó la luz de esta lámpara de aceite para escribir su impío Necronomicón en sus noches de insomnio.
 
 Si se llena de aceite y se enciende, la luz que arroja proyectará imágenes sobre las paredes, el techo, el suelo y los objetos de alrededor. El observador se percatará de extraños paisajes alienígenas que posiblemente sean lugares o dimensiones de los Mitos.
 
-Encender solo pide a los afines a la magia 1 PP, pero las visiones y las TPC serán para todos los presentes. Las visiones quedan a discreción de Scheherazade y puedes reducir la cordura de quien las estudie, sobre todo si se presencian criaturas o deidades de los Mitos. El TPC de las visiones es aleatorio, así que tira un dado de d12, 1-2 el TPC será d4, 3-4 d6, 5-6 d8, 7-8 d10, 9-10 d12, 11 d12+1 y 12 d12+2. La lámpara exige un sacrificio en cordura, si nadie falla la TPC, no ofrecerá visiones hasta la próxima luna nueva.
+Encender solo pide a los afines a la magia 1 PP, pero las visiones y las TPC serán para todos los presentes. Las visiones quedan a discreción de Scheherazade y puedes reducir la cordura de quien las estudie, sobre todo si se presencian criaturas o deidades de los Mitos.
+
+El TPC de las visiones es aleatorio, así que tira un dado de d12, 1-2 el TPC será d4, 3-4 d6, 5-6 d8, 7-8 d10, 9-10 d12, 11 d12+1 y 12 d12+2. La lámpara exige un sacrificio en cordura, si nadie falla la TPC, no ofrecerá visiones hasta la próxima luna nueva.
+
+\sinc
 
 ### Maravillosa manzana curalotodo
 
-> Y dijo el vendedor: "Pues bien, señor; ya que por ti mismo acabas de experimentar efectos tan inesperados aspirando el aroma de esta manzana, has de saber que la tal manzana no es natural, sino fabricada por la mano del hombre; y no es fruto de un árbol ciego e insensible, sino fruto del estudio y las vigilias de un gran sabio, de un filósofo muy célebre, que se pasó toda la vida haciendo investigaciones y experiencias respecto a las virtudes de las plantas y de los minerales. Y logró la composición de esta manzana, que encierra en si la quintaesencia de todos los cuerpos simples, de todas las plantas útiles y de todos los minerales curativos. En efecto, no hay enfermo, cualquiera que sea la calamidad de que esté afligido, aun cuando se trate de la peste, de la fiebre purpúrea o de la lepra, que no recobre la salud al olerla, aunque esté moribundo. Y tú mismo inclusive acabas de sentir hasta cierto punto su efecto, pues que con su olor se te ha disipado el cansancio del viaje. Pero, para mayor certeza, quiero que con ella cure ante tus ojos un enfermo aquejado de un mal incurable, a fin de que estés seguro de sus virtudes y propiedades, como lo están todos los habitantes de esta ciudad. \[…\]  
+> Y dijo el vendedor: "Pues bien, señor; ya que por ti mismo acabas de experimentar efectos tan inesperados aspirando el aroma de esta manzana, has de saber que la tal manzana no es natural, sino fabricada por la mano del hombre; y no es fruto de un árbol ciego e insensible, sino fruto del estudio y las vigilias de un gran sabio, de un filósofo muy célebre, que se pasó toda la vida haciendo investigaciones y experiencias respecto a las virtudes de las plantas y de los minerales. Y logró la composición de esta manzana, que encierra en sí la quintaesencia de todos los cuerpos simples, de todas las plantas útiles y de todos los minerales curativos. 
+En efecto, no hay enfermo, cualquiera que sea la calamidad de que esté afligido, aun cuando se trate de la peste, de la fiebre purpúrea o de la lepra, que no recobre la salud al olerla, aunque esté moribundo. Y tú mismo inclusive acabas de sentir hasta cierto punto su efecto, pues que con su olor se te ha disipado el cansancio del viaje. 
+
+\conc
+
+\sp
+
+\sinc
+
+> Pero, para mayor certeza, quiero que con ella cure ante tus ojos un enfermo aquejado de un mal incurable, a fin de que estés seguro de sus virtudes y propiedades, como lo están todos los habitantes de esta ciudad. \[…\]  
 > Y como para confirmar todo lo bien que hablaban de ella, acertó a pasar por allí un pobre hombre ciego y paralítico, a quien un mozo llevaba a hombros en una banasta. Y el vendedor se acercó a él con viveza y le puso la manzana junto a la nariz. Y de repente el enfermo se levantó en la banasta, y saltando como un gato por encima de la cabeza del que le llevaba, echó a correr, abriendo unos ojos como tizones. Y todo el mundo le vio y dio fe de ello.
 > 
 > **Referencia:** Historia de la princesa Nurennahar y de la bella gennia (n. 809)
 
-Esta manzana es una creación de un alquimista que destilo la esencia de miles de plantas y minerales curativos y los combino en este artefacto con forma de manzana. Su simple olor de esta manzana cura cualquier enfermad y sana cualquier herida, así como quita el cansancio e incluso combate en cierta medida la vejez.
+&nbsp;
 
-Oliendo esta manzana durante un turno se curan todas las enfermedades, venenos y heridas y quitas toda la fatiga acumulada. Los schahriars con desventajas como Sordo, Ciego, Tuerto o Cojo podrán gastar avances para quitárselas. También podrán quitarse la desventaja Anciano.  
+\conc
+
+Esta manzana es una creación de un alquimista que destilo la esencia de miles de plantas y minerales curativos y los combino en este artefacto con forma de manzana.
+
+Su simple olor de esta manzana cura cualquier enfermad y sana cualquier herida, así como quita el cansancio e incluso combate en cierta medida la vejez.
+
+Oliendo esta manzana durante un turno se curan todas las enfermedades, venenos y heridas y quitas toda la fatiga acumulada. Los schahriars con desventajas como Sordo, Ciego, Tuerto o Cojo podrán gastar avances para quitárselas. También podrán quitarse la desventaja Anciano.
+
 Tiene dos usos diarios, pero si se desea pueden usarse más veces. Cada uso extra tendrá un 5% de fallar (3º intento 5%, 4º intento 10%, 5º intento 15%) y de inutilizar para siempre la manzana maravillosa.
+
+\sp
+
+\sinc
 
 ### El misterioso libro mágico
 
-> Y Giafar y Massrur sostenían sendas antorchas, y el califa cogía libros de los armarios magníficos y de los cofres de madera aromática, y los abría y los cerraba. Y de tal suerte examinó varios estantes, y acabó por echar mano a un libro viejísimo que abrió al azar. Y encontró algo que hubo de interesarle vivamente, porque, en vez de abandonar el libro al cabo de un instante, se sentó y se puso a hojearlo página por página y a leerlo atentamente. Y he aquí que de pronto se echó a reír de tal modo, que se cayó de trasero. Luego volvió a coger el libro y continuó su lectura. Y he aquí que de sus ojos brotó el llanto; y se echó a llorar de tal manera, que se mojó toda la barba con lágrimas que corrían por sus intersticios hasta caer sobre el libro que tenía él en las rodillas. Después cerró el libro, se lo metió en la manga y se levantó para salir.\[…\]  
+> Y Giafar y Massrur sostenían sendas antorchas, y el califa cogía libros de los armarios magníficos y de los cofres de madera aromática, y los abría y los cerraba. Y de tal suerte examinó varios estantes, y acabó por echar mano a un libro viejísimo que abrió al azar.
+>  Y encontró algo que hubo de interesarle vivamente, porque, en vez de abandonar el libro al cabo de un instante, se sentó y se puso a hojearlo página por página y a leerlo atentamente. Y he aquí que de pronto se echó a reír de tal modo, que se cayó de trasero. Luego volvió a coger el libro y continuó su lectura. Y he aquí que de sus ojos brotó el llanto; y se echó a llorar de tal manera, que se mojó toda la barba con lágrimas que corrían por sus intersticios hasta caer sobre el libro que tenía él en las rodillas. Después cerró el libro, se lo metió en la manga y se levantó para salir.\[…\]  
 > "Te ordeno pues, que vayas a buscar a alguien que me diga por qué he reído y llorado con la lectura de este libro y adivine lo que hay en este volumen desde la primera página hasta la última. Y si no encuentras a ese hombre, te cortaré el cuello, y entonces te enseñaré lo que me ha hecho reír y llorar"
 > 
 > **Referencia:** Historia del libro mágico (n. 895)
 
+&nbsp;
+
+\conc
+
 Solo el Califa sabe que pone en este antiguo y polvoriento y porque rio y lloró al leerlo. Así que puedes usar este libro como quieras. Quizás leyó la mejor historia del mundo, quizás leyó su futuro o quizás simplemente era un libro de relatos de Howard Phillips Lovecraft perdido en el tiempo y el espacio.
+
+\sinc
 
 ### Saco de arena maldita
 
-> Con unos de sus legamosas extremidades recogió la arena verdosa que acababa de regurgitar y la dejo caer delante del acólito que la recogió con un simple saco de arpillera. Con sus gargantas no humanas pronuncio estas palabras:  
-> Esparce mi esencia y profana el poder de la tierra. La tierra, el barro, el fango o la arenas quedará estéril por eones.
+> Con unos de sus legamosas extremidades recogió la arena verdosa que acababa de regurgitar y la dejo caer delante del acólito que la recogió con un simple saco de arpillera. Con sus gargantas no humanas pronuncio estas palabras: Esparce mi esencia y profana el poder de la tierra. La tierra, el barro, el fango o las arenas quedará estéril por eones.
 
-Este saco de arpillera lleno de una extraña arena que tiene un extraño brillo verdoso dota a la persona que lo porta el poder de controlar la tierra a su voluntad, podrá mover grandes cantidades de roca, moverse a través de la tierra o golpear a sus enemigos con terremotos o lluvias de rocas. Simplemente hay que sacar un pellizco de arena y dejarlo caer en el suelo.
+\conc
+
+\sp
+
+Este saco de arpillera lleno de una extraña arena que tiene un extraño brillo verdoso dota a la persona que lo porta el poder de controlar la tierra a su voluntad, podrá mover grandes cantidades de roca, moverse a través de la tierra o golpear a sus enemigos con terremotos o lluvias de rocas. Simplemente, hay que sacar un pellizco de arena y dejarlo caer en el suelo.
 
 El saco extrae su poder de la propia tierra convirtiéndola en cenizas estériles, las plantas que haya en esa tierra se marchitaran al instante para terminar convirtiéndose en cenizas también.
 
 Cogiendo un pellizco de arena y dejándolo caer en el suelo, puedes lanzar a voluntad y sin gastos de PP los siguientes poderes: Armadura, Barrera, Captura, Cavar, Chorro, Conmoción, Explosión, Manipulación Elemental y Proyectil. Los poderes tendrán siempre un ornamento de piedra y deberás estar en contacto con la tierra (o roca o arena). No se puede usar ni volando, ni en el agua, tampoco sobre superficies no naturales como el asfalto o madera o piedra trabajada. Como habilidad arcana deberá usarse Espíritu y podrán meterse todas las modificaciones que se deseen.  
 Cada vez que se usa el saco y su arena cae en el suelo se crea una área circular de tantas casillas de radio como PP se habrían gastado en el hechizo, se convertirán en cenizas de las que nunca volverá a crecer nada.
 
+\sinc
+
 ### Tesoro de Al-Schamardal
 
-> ¡Es necesario, pues, que aquel de vosotros que desee poseer este libro vaya a abrir el tesoro llamado Al-Schamardal, y me traiga la esfera celeste, la redomita de kohl, el alfanje y el anillo, que todos estos objetos contiene el tesoro! ¡Y son extraordinarias sus virtudes! En efecto, el sello está guardado por un ser más poderoso que el más poderoso de los yinn, cuyo sólo nombre da miedo pronunciarlo: se llama Trueno-Penetrante.
+> ¡Es necesario, pues, que aquel de vosotros que desee poseer este libro vaya a abrir el tesoro llamado Al-Schamardal, y me traiga la esfera celeste, la redomita de kohl, el alfanje y el anillo, que todos estos objetos contiene el tesoro! ¡Y son extraordinarias sus virtudes! En efecto, el sello está guardado por un ser más poderoso que el más poderoso de los yinn, cuyo solo nombre da miedo pronunciarlo: se llama Trueno-Penetrante.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 469)
 
+&nbsp;
+
+\conc
+
+\sp
+
 El tesoro de Al-Schamardal es un conjunto de objetos y armas mágicas que convierte a su portador es un ser tremendamente poderoso capaz de acabar con ejércitos y destruir ciudades con solo desearlo, pero a la vez todos estos objetos traen maldiciones y si se abusa de ellos las consecuencias pueden ser catastróficas.
 
-Al-Schamardal fue un poderoso mago de la antigüedad tan poderoso como para crear la poderosa esfera celeste o de encerrar en un anillo a un poderoso yinn algo solo digno del gran y poderoso rey Soleimán. Su tesoro incluye también riquezas que no podrías gastar en mis vidas.
+Al-Schamardal fue un poderoso mago de la antigüedad tan poderoso como para crear la poderosa esfera celeste o de encerrar en un anillo a un poderoso yinn algo solo digno del gran y poderoso rey Suleimán. Su tesoro incluye también riquezas que no podrías gastar en mis vidas.
 
 Todo su tesoro se encuentra en su tumba, donde su cuerpo incorrupto se encuentra sentado en un trono con sus más ricos ropajes y sus más poderosos objetos mágicos.
+
+\sinc
 
 #### La búsqueda del tesoro
 
 > Juder penetró entonces sin dificultad en la estancia del tesoro, y vio los montones de oro agrupados en apretadas filas; pero se dirigió al pabellón sin prestarles la menor atención, y cuando hubo levantado la cortina, vio al gran adivino Al-Schamardal acostado en el trono de oro, con el alfanje talismánico a la cintura, el anillo en un dedo, la redomita de kohl sujeta al cuello por una cadena de oro, y encima de su cabeza aparecía la esfera celeste, brillante y redonda como la luna.  
-> Entonces se adelantó Juder sin vacilar y quitó del tahalí el alfanje, sacó el anillo talismánico, desató la redoma de kohl, cogió la esfera celeste y retrocedió para salir. Y al punto se hizo oír a su alrededor un concierto de instrumentos que hubo de acompañarle triunfalmente hasta la salida, en tanto que de todos los puntos del tesoro subterráneo se elevaban las voces de los guardianes que le felicitaban gritando:  
-> "¡Que te haga buen provecho ¡oh Juder! lo que supiste ganar! ¡Enhorabuena! ¡Enhorabuena!" Y no dejó de tocar la música ni dejaron de felicitarle las voces hasta que estuvo fuera del tesoro subterráneo.
+> Entonces se adelantó Juder sin vacilar y quitó del tahalí el alfanje, sacó el anillo talismánico, desató la redoma de kohl, cogió la esfera celeste y retrocedió para salir. Y al punto se hizo oír a su alrededor un concierto de instrumentos que hubo de acompañarle triunfalmente hasta la salida, en tanto que de todos los puntos del tesoro subterráneo se elevaban las voces de los guardianes que le felicitaban gritando: "¡Que te haga buen provecho ¡oh Juder! lo que supiste ganar! ¡Enhorabuena! ¡Enhorabuena!" Y no dejó de tocar la música ni dejaron de felicitarle las voces hasta que estuvo fuera del tesoro subterráneo.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 469)
+
+\conc
+
+\sp
 
 Aunque poco conocida, la "Historia de Juder el pescador o el saco encantado" que narra la búsqueda de tesoro de Al-Schamardal es una de las historias más largas y más complejas de las 1001 Noches, donde la magia, las maldiciones, los objetos mágicos y los seres extraños y poderosos abundan. Por sí sola podría ser una mini-campaña para schahriars experimentados.
 
 ##### El mago Al-Schamardal
 
-Al-Schamardal es un mago nacido en hiperbórea hace miles de año y que gracias a la magia negra y los pactos con diferentes divinidades exteriores y primigenias sobrevivió hasta hace unos siglos. Durante sus siglos de vida fue creando objetos mágicos de grandísimo poder al conseguir esencias de diferentes dioses con Cthugha con la que creo su esfera mágica.
+Al-Schamardal es un mago nacido en hiperbórea hace miles de años y que gracias a la magia negra y los pactos con diferentes divinidades exteriores y primigenias sobrevivió hasta hace unos siglos. Durante sus siglos de vida fue creando objetos mágicos de grandísimo poder al conseguir esencias de diferentes dioses con Cthugha con la que creo su esfera mágica.
 
 Cuando vio que no podía seguir alargando su vida, decidió, como los faraones egipcios con los que convivió, preparar una tumba en la que guardar sus tesoros y permanecer eternamente como la momia de un faraón.
 
@@ -564,7 +728,11 @@ Según la leyenda, en el fondo del lago hay dos carpas de colores que son dos pr
 
 Realmente no existen dos carpas rojas, sino dos cilindros cerebrales con las mentes de dos aprendices del mago Al-Schamardal. Ayudaron a su maestro a preparar su tumba y por ello saben dónde está y qué pruebas hay que pasar para acceder al tesoro. Tras terminar la tumba, Al-Schamardal pensaba matarlos, pero en su lugar los encerró en los cilindros cerebrales y los abandono en el lago Karum.
 
-Dalila y Adil, que así se llaman los ayudantes de Al-Schamardal, llevan siglos en éxtasis en los cilindros y primero se necesitará encontrar la forma de que puedan comunicar con el exterior. Puede conseguirse unos moduladores de voz y unos micrófonos para poder hablar con ellos. La secta de la Progenie es sierva un grupo de al mighos que seguro quieren vender su tecnología a cambio de algún servicio. Otra es buscarle un cuerpo y conseguir que los al mighos lo metan dentro.
+Dalila y Adil, que así se llaman los ayudantes de Al-Schamardal, llevan siglos en éxtasis en los cilindros y primero se necesitará encontrar la forma de que puedan comunicar con el exterior.
+
+\sp
+
+Puede conseguirse unos moduladores de voz y unos micrófonos para poder hablar con ellos. La secta de la Progenie es sierva un grupo de al mighos que seguro quieren vender su tecnología a cambio de algún servicio. Otra es buscarle un cuerpo y conseguir que los al mighos lo metan dentro.
 
 El segundo problema es que están muy desubicados y con grandes fallos de memoria. Tienen recelos a hablar y será difícil sacarles respuestas. Se necesitará y buenas tiradas de persuadir para sacarles la ubicación de la tumba de Al-Schamardal.
 
@@ -580,17 +748,27 @@ Por suerte, Al-Schamardal conocía estas instalaciones gracias a sus miles de a�
 
 Al-Schamardal no construyo la tumba desde cero, sino que aprovecho unas instalaciones de la serpigente como base para su tumba. De hecho, la mayoría de las trampas de la tumba son sistemas de defensa serpigente modificados.
 
-Lo que para tus schahriars debe parecer un sitio extraño, en realidad es lo que queda de un laboratorio aséptico, con suelos y paredes blancas con carteles de seguridad en Naacal. Todo ello hecho con extraños materiales. Las baterías alimentadas por un antiguo reactor nuclear siguen funcionando, ya que el sistema se apaga cuando se cierra el laboratorio. Aun así, los focos parpadearan a veces y habrá puertas que cueste abrir.
+Lo que para tus schahriars debe parecer un sitio extraño, en realidad es lo que queda de un laboratorio aséptico, con suelos y paredes blancas con carteles de seguridad en Naacal. Todo ello hecho con extraños materiales.
+
+\sp
+
+Las baterías alimentadas por un antiguo reactor nuclear siguen funcionando, ya que el sistema se apaga cuando se cierra el laboratorio. Aun así, los focos parpadearan a veces y habrá puertas que cueste abrir.
 
 Al-Schamardal, junto a su gente, vació de objetos como herramientas, mesas, estanterías, aparatos de investigación, etc., dejando las paredes y el suelo completamente vacíos. Luego lo fue llenando todo con alfombras, tapices, cojines, sacos de joyas y monedas de oro, cuberterías de plata, etc.
 
 Más allá de la última estancia hay una sala de control que Al-Schamardal oculto con una pared falsa (-4 a Notar para encontrarla). En ella estaban los controles de los drones, los proyectores holográficos y un sistema de autodestrucción que ya no funciona en caso de fugas biológicas.
 
-##### La puerta de oro bajo el rio
+\conc
+
+##### La puerta de oro bajo el río
 
 > …Sabe ¡oh Juder! que en cuanto yo me ponga a recitar las fórmulas mágicas sobre el incienso humeante, el agua del río empezará a disminuir poco a poco, y el río acabará por secarse completamente y dejar su lecho al descubierto. Entonces verás que en la pendiente del cauce seco se te aparece una gran puerta de oro, tan alta como la puerta de la ciudad, con dos aldabas del mismo metal. Dirígete a esa puerta y golpéala muy ligeramente con una de las aldabas que tiene en cada hoja, y espera un instante. Llama luego con un segundo aldabonazo más fuerte que el primero, ¡y espera todavía! Después llamarás con un tercer aldabonazo más fuerte que los otros dos, y no te muevas ya. Y cuando hayas llamado así con tres aldabonazos consecutivos, oirás gritar a alguien desde dentro: «¿Quién llama a la puerta de los Tesoros sin saber romper los encantos?» Tú contestarás: «¡Soy Juder el pescador, hijo de Omar, de El Cairo! Y se abrirá la puerta …
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
+
+&nbsp;
+
+\conc
 
 Hace milenios la entrada de la tumba fue tapada al cambiar el curso de un río cercano a Miknas. Esto hace que solo en caso de sequía se puede acceder a la puerta, la otra opción es usar hechizos de manipulación elemental de agua para abrir las aguas.
 
@@ -633,7 +811,7 @@ Tanto si derrota al dron con su valor como si lo derrota en combate, podrá hace
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
-Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra Intimidar d6. En este caso si falla no solo le atacará el dron actual si no también el de la estancia anterior a no se que haya sido destruido.
+Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra Intimidar d6. En este caso si falla no solo le atacará el dron actual si no también el de la estancia anterior a no ser que haya sido destruido.
 
 ##### 3ª puerta
 
@@ -649,12 +827,12 @@ Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra In
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
-Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra Intimidar d10. En este caso, si falla no solo le atacará el dron actual, sino también los de las tres estancias anteriores a no ser que hayan sido destruido.
+Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra Intimidar d10. En este caso, si falla no solo le atacará el dron actual, sino también los de las tres estancias anteriores a no ser que hayan sido destruidos.
 
 ##### 5ª y 6ª puerta
 
 > "Dirígete entonces a la quinta puerta, de la que verás salir a un negro de betún que te preguntará: «¿Quién eres» Tú dirás: «¡Soy Juder!» Y te contestará él: «¡Si eres verdaderamente ese hombre, intenta abrir la sexta puerta!»  
-> "Al punto irás a abrir la sexta puerta, y exclamarás: «¡Oh Jesús, ordena a Moisés que abra la puerta! » Y la puerta se abrirá ante ti y verás aparecer dos dragones enormes, uno a la derecha y otro a la izquierda, los cuales saltarán sobre ti con las fauces abiertas. ¡No tengas miedo! Tiéndele a cada uno una de tus manos, en las que te querrán morder; pero en vano, porque ya habrán caído impotentes a tus pies. Y sobre todo no aparentes temerlos, pues tu muerte sería segura.
+> "Al punto irás a abrir la sexta puerta, y exclamarás: «¡Oh Jesús, ordena a Moisés que abra la puerta!» Y la puerta se abrirá ante ti y verás aparecer dos dragones enormes, uno a la derecha y otro a la izquierda, los cuales saltarán sobre ti con las fauces abiertas. ¡No tengas miedo! Tiéndele a cada uno una de tus manos, en las que te querrán morder; pero en vano, porque ya habrán caído impotentes a tus pies. Y sobre todo no aparentes temerlos, pues tu muerte sería segura.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -673,7 +851,7 @@ A tu elección el holograma puede ser de cualquier ser querido, amistad verdader
 
 ##### La sala del tesoro
 
-> "Y de esta manera ¡oh Juder! habrás roto todos los encantos y disuelto todos los hechizos, a la vez que pondrás en salvo tu vida. Y te restará sólo recoger el fruto de tus trabajos.  
+> "Y de esta manera ¡oh Juder! habrás roto todos los encantos y disuelto todos los hechizos, a la vez que pondrás en salvo tu vida. Y te restará solo recoger el fruto de tus trabajos.  
 > "A tal fin, no tendrás más que franquear esa séptima puerta, y dentro encontrarás montones de oro. Pero no les prestes la menor atención, y dirígete a un pabellón pequeño que hay en medio de la estancia del tesoro, y sobre el cual se extiende una cortina corrida. ¡Levanta entonces la cortina, y verás, acostado en un trono de oro, al gran mago Schamardal, el mismo a quien pertenece el tesoro! Y junto a su cabeza verás brillar una cosa redonda como la luna: es la esfera celeste. ¡Le verás con el alfanje consabido a la cintura, con el anillo en un dedo y con la redomita del kohl sujeta al cuello por una cadena de oro! ¡No vaciles entonces! ¡Apodérate de esos cuatro objetos preciosos, y date prisa a salir del tesoro para venir a entregármelos!
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
@@ -737,7 +915,7 @@ El usar el poder de vivencia consume 1 PP, pero usar la lluvia de fuego supone u
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 469)
 
-Al aplicar el kohl de esta redomita (que no se acaba nunca) permite ver todos aquellos tesoros enterrados en la tierra o detrás de paredes de roca. Se vera donde debe cavarse o picar, pero no se verá exactamente cuál es el tesoro, solo el tipo y de forma muy general.
+Al aplicar el kohl de esta redomita (que no se acaba nunca) permite ver todos aquellos tesoros enterrados en la tierra o detrás de paredes de roca. Se verá donde debe cavarse o picar, pero no se verá exactamente cuál es el tesoro, solo el tipo y de forma muy general.
 
 Se considera tesoro todos aquellos objetos que podrían salir en una tirada de botín y todos los tesoros míticos. No hay que hacer tirada de Notar, solo en caso de haberse usado una tirada de Ocultación mágica. El efecto dura hasta quitar el maquillaje voluntariamente o involuntariamente o al día siguiente.
 
@@ -796,17 +974,17 @@ La alfombra no es especialmente rápida en el despegue y el aterrizaje, lo que h
 
 ### Amuleto para vivir debajo del agua
 
-> Sabe que, por virtud de los nombres grabados en el sello de Soleimán ben-Daúd (¡con ambos la plegaria y la paz!), vivimos y andamos por el fondo del mar como se vive y anda por la tierra; y respiramos en el agua como se respira en el aire; y el agua en vez de asfixiarnos, contribuye a nuestra vida, y ni siquiera moja nuestras vestiduras; y no nos impide ver en el mar, donde tenemos los ojos abiertos sin ninguna dificultad; y poseemos vista tan excelente, que atraviesa las profundidades marinas \[…\] lo mismo cuando los rayos del sol penetran hasta nosotros que cuando la luna y las estrellas se miran en nuestras aguas.
+> Sabe que, por virtud de los nombres grabados en el sello de Suleimán ben-Daúd (¡con ambos la plegaria y la paz!), vivimos y andamos por el fondo del mar como se vive y anda por la tierra; y respiramos en el agua como se respira en el aire; y el agua en vez de asfixiarnos, contribuye a nuestra vida, y ni siquiera moja nuestras vestiduras; y no nos impide ver en el mar, donde tenemos los ojos abiertos sin ninguna dificultad; y poseemos vista tan excelente, que atraviesa las profundidades marinas \[…\] lo mismo cuando los rayos del sol penetran hasta nosotros que cuando la luna y las estrellas se miran en nuestras aguas.
 > 
 > **Referencia:** Historia de Flor-de-Granada y de Sonrisa-de-Luna (n. 530)
 
-Este amuleto con el sello de Soleimán otorga la capacidad de vivir bajo el agua. No solo permite respirar bajo el agua, también sobrevivir a la presión, ver en la oscuridad, hablar con normalidad y andar por el fondo marino como si lo hicieras por tierra seca y cuando sales del agua apareces completamente seco.
+Este amuleto con el sello de Suleimán otorga la capacidad de vivir bajo el agua. No solo permite respirar bajo el agua, también sobrevivir a la presión, ver en la oscuridad, hablar con normalidad y andar por el fondo marino como si lo hicieras por tierra seca y cuando sales del agua apareces completamente seco.
 
 No puedes ahogarte. Puedes andar por el fondo marino a tu paso normal. Puedes comunicarte normalmente bajo el agua. Aguantas presiones normales (no se puede acceder a simas abisales). Ignoras las penalizaciones a la visibilidad por penumbra y oscuridad, pero no las de oscuridad completa. Por último, nadar tiene un coste normal, es decir, puedes nadar lo mismo que tu paso.
 
 ### Azufre rojo
 
-> Y encontró dentro unos polvos rojos, y exclamó: "¡He aquí el Azufre rojo, ya Hassán Abdalah! ¡Esta es la Kimia de los sabios y de los filósofos, todos los cuales murieron sin dar con ella!" \[…\] "¡Oh pobre! ¡Ese polvo es la fuente misma de todas las riquezas de la tierra! Y un sólo grano de este polvo basta para convertir en oro los metales más viles. ¡Es la Kimia! ¡Es el Azufre rojo!, ¡oh pobre ignorante! ¡Con este polvo, si quiero, construiré palacios más hermosos que éste, fundaré ciudades más magníficas que ésta, compraré la vida de los hombres y la conciencia de los puros, seduciré a la propia virtud y me haré rey, hijo de rey!" Y le dije: "Y con ese polvo, ¡oh mi señor! ¿podrás prolongar un sólo día tu vida o borrar una hora de tu existencia pasada?"
+> Y encontró dentro unos polvos rojos, y exclamó: "¡He aquí el Azufre rojo, ya Hassán Abdalah! ¡Esta es la Kimia de los sabios y de los filósofos, todos los cuales murieron sin dar con ella!" \[…\] "¡Oh pobre! ¡Ese polvo es la fuente misma de todas las riquezas de la tierra! Y un solo grano de este polvo basta para convertir en oro los metales más viles. ¡Es la Kimia! ¡Es el Azufre rojo!, ¡oh pobre ignorante! ¡Con este polvo, si quiero, construiré palacios más hermosos que éste, fundaré ciudades más magníficas que ésta, compraré la vida de los hombres y la conciencia de los puros, seduciré a la propia virtud y me haré rey, hijo de rey!" Y le dije: "Y con ese polvo, ¡oh mi señor! ¿podrás prolongar un solo día tu vida o borrar una hora de tu existencia pasada?"
 > 
 > **Referencia:** Las llaves del destino (n. 792)
 
@@ -814,7 +992,7 @@ El Azufre Rojo o Kimia es una sustancia alquímica muy buscada que permite grand
 
 ### Batería de Bagdad
 
-> Y vertió toda una tinaja de agua regia que el mismo había filtrado en el alambique de su taller en un recipiente de barro, donde introdujo un cilindro del más puro cobre y una barra de hierro frío. El agua regia empezó a generar un humo rojizo que invadió toda la estancia. En unos segundos, yinns que deberían estar ahí se hicieron visibles para el sabio alquimista y pudo percatarse como le percibían ahora y le atravesaban con sys miradas \[…\] los cheitans no dejaron de acosarlo con sus miradas, sus ensalmos y sus gritos, hasta que consumido por la locura salió corriendo de su casa para morir atropellado por un carro.
+> Y vertió toda una tinaja de agua regia que el mismo había filtrado en el alambique de su taller en un recipiente de barro, donde introdujo un cilindro del más puro cobre y una barra de hierro frío. El agua regia empezó a generar un humo rojizo que invadió toda la estancia. En unos segundos, yinns que deberían estar ahí se hicieron visibles para el sabio alquimista y pudo percatarse como le percibían ahora y le atravesaban con suss miradas \[…\] los cheitans no dejaron de acosarlo con sus miradas, sus ensalmos y sus gritos, hasta que consumido por la locura salió corriendo de su casa para morir atropellado por un carro.
 
 La [batería de Bagdad](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_Bagdad) es un recipiente de barro de unos 14 centímetros. Tiene dentro un cilindro de cobre y dentro de una barra de cobre. Si se llena de agua, la batería produce unas pequeñas descargas eléctricas que podrían hacer chispear una pequeña bombilla o dar algún chispazo a un humano. Es capaz de producir esas descargas gracias a la capa de azufre rojo que cubre su interior.
 
@@ -826,72 +1004,34 @@ La batería de Bagdad no tiene un poder específico. Es un objeto que tú, como 
 
 ### Botellas selladas
 
-> Al abrirla encontró un enorme jarrón de cobre dorado, lleno e intacto. La boca estaba cerrada con un plomo que ostentaba el sello de nuestro señor Soleimán, hijo de David. \[…\] Intentó mover el jarrón, pero hallándolo muy pesado, se dijo para sí: «Tengo que abrirlo sin remedio; meteré en el saco lo que contenga y luego lo venderé en el zoco de los caldereros». Sacó el cuchillo y empezó a maniobrar, hasta que levantó el plomo. Entonces sacudió el jarrón, queriendo inclinarlo para verter el contenido en el suelo. Pero nada salió del vaso, aparte de una humareda que subió hasta lo azul del cielo y se extendió por la superficie de la tierra. \[…\] Una vez que hubo salido todo el humo, comenzó a condensarse en torbellinos, y al fin se convirtió en un terrible siervo alado cuyas negras alas abiertas eran mas grande que la barca del pescador, mientras las garras de sus pies se hundían en el polvo.
+> Al abrirla encontró un enorme jarrón de cobre dorado, lleno e intacto. La boca estaba cerrada con un plomo que ostentaba el sello de nuestro señor Suleimán, hijo de David. \[…\] Intentó mover el jarrón, pero hallándolo muy pesado, se dijo para sí: «Tengo que abrirlo sin remedio; meteré en el saco lo que contenga y luego lo venderé en el zoco de los caldereros». Sacó el cuchillo y empezó a maniobrar, hasta que levantó el plomo. Entonces sacudió el jarrón, queriendo inclinarlo para verter el contenido en el suelo. Pero nada salió del vaso, aparte de una humareda que subió hasta lo azul del cielo y se extendió por la superficie de la tierra. \[…\] Una vez que hubo salido todo el humo, comenzó a condensarse en torbellinos, y al fin se convirtió en un terrible siervo alado cuyas negras alas abiertas eran más grandes que la barca del pescador, mientras las garras de sus pies se hundían en el polvo.
 > 
 > **Referencia:** Historia del pescador y el efrit (n. 3)
 
-A lo largo de todas las 1001 Noches hay varios ejemplos de botellas o tinajas selladas con el sello se Soleimán de las que salen todo tipo de cosas, desde maldiciones y monstruos hasta increíbles riquezas y yinns servidores. Y a veces simples mensajes con relatos fantásticos de sus autores.
+A lo largo de todas las 1001 Noches hay varios ejemplos de botellas o tinajas selladas con el sello se Suleimán de las que salen todo tipo de cosas, desde maldiciones y monstruos hasta increíbles riquezas y yinns servidores. Y a veces simples mensajes con relatos fantásticos de sus autores.
 
 Toda la magia de estas botellas se encuentra en el sello de Suleimán que crea una dimensión de bolsillo dentro del recipiente. En esa mini-dimensión no pasa el tiempo para tu cuerpo, pudiendo pasar milenios dentro, pero sí pasa para tu mente que está encerrada por siglos en esta prisión dimensional. Quedar encerrado en la botella, supone una TPC cada 10 años de prisión. Es importante decir quién rompe el sello, ya que a no ser que se diga lo contrario será al único al que le afectará el contenido del recipiente.
 
 Al romper el sello y abrirla, normalmente saldrá un humo negro del que se materializará lo que haya dentro. Puedes decidir lo que sale o puedes tirar al azar en la siguiente tabla el contenido de la botella.
 
-Tabla de Objetos en botellas selladas
+#### Tabla de Objetos en botellas selladas
 
-1d12
+|1d12|Objeto|
+|---|---|
+|1|**Arena:** Al abrir la botella y darle la vuelta solo cae arena del desierto.|
+|2|**Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico hasta una botella de refresco de cola o un reproductor MP3. Descríbelo de la forma más críptica que puedas. Todas las tiradas de Saber de Suleimán para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual el califa se encapricha de él por su extrañeza.|
+|3|**Libro en un extraño idioma:** Este libro está escrito en Aklo. Parece algún tipo de grimorio, por sus esquemas y sus símbolos, pero en realidad es una trampa. Si se envía a traducir a alguien, solo los sectarios de algunos cultos saben Aklo y podrán traducirlo. El grimorio pide que se mate al portador del libro por ser una persona ajena al culto que seguramente ha robado el libro. Por lo demás, el libro no tiene ningún valor ni poder. Esto te puede servir como semilla de partida en la que tus schahriars tienen que escapar de asesinos sectarios.|
+|4|**Cajita de azufre rojo:** Dentro de una cajita de madera bastante usada hay 1d6 dosis de azufre rojo.|
+|5|**Arma digna de un sultán:** Genera un arma cuerpo a cuerpo o a distancia al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.|
+|6|**Armadura digna de un sultán:** Genera una armadura al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.|
+|7|**Talega llena de dátiles amarillos y rojos:** Al disiparse el humo aparece un saquito de tela lleno de [dátiles rojos y amarillos](#anchordatiles).|
+|8|**Kohl de invisibilidad:** El humo toma forma de una cajita lapislázuli con kohl de invisibilidad en su interior.|
+|9|**Una mujer con vestiduras antiguas:** Empieza el cuento salvaje [La viajera del tiempo](#anchorviajeratiempo).|
+|10|**Cilindro cerebral de los al mighos:** Estos cilindros de metal verdusco con extrañas luces y una especie de tubo por donde salen sonidos tiene algo en su interior flotando en líquido.|
+|11|**Grimorio:** Al disiparse el humo aparece un grimorio de magia. Coge al azar uno de los que se presentan en la sección de [Grimorios y libros de hechizos](#anchorgrimorios) o puedes crear uno como Scheherazade.|
+|12|**Una docena de huevos:** Aparecen una docena de huevos y parecen de gallina. En realidad son huevos puestos por un gallo y si se encuban adecuadamente y eclosionan se convertirán en pollos cuya [curcusilla](#anchorcurcusilla) tiene propiedades mágicas.|
 
-Objeto
-
-1
-
-**Arena:** Al abrir la botella y darle la vuelta solo cae arena del desierto.
-
-2
-
-**Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico hasta una botella de refresco de cola o un reproductor MP3. Descríbelo de la forma más críptica que puedas. Todas las tiradas de Saber de Suleimán para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual el califa se encapricha de él por su extrañeza.
-
-3
-
-**Libro en un extraño idioma:** Este libro está escrito en Aklo. Parece algún tipo de grimorio, por sus esquemas y sus símbolos, pero en realidad es una trampa. Si se envía a traducir a alguien, solo los sectarios de algunos cultos saben Aklo y podrán traducirlo. El grimorio pide que se mate al portador del libro por ser una persona ajena al culto que seguramente ha robado el libro. Por lo demás, el libro no tiene ningún valor ni poder.  
-Esto te puede servir como semilla de partida en la que tus schahriars tienen que escapar de asesinos sectarios.
-
-4
-
-**Cajita de azufre rojo:** Dentro de una cajita de madera bastante usada hay 1d6 dosis de azufre rojo.
-
-5
-
-**Arma digna de un sultán:** Genera un arma cuerpo a cuerpo o a distancia al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.
-
-6
-
-**Armadura digna de un sultán:** Genera una armadura al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.
-
-7
-
-**Talega llena de dátiles amarillos y rojos:** Al disiparse el humo aparece un saquito de tela lleno de [dátiles rojos y amarillos](#anchordatiles).
-
-8
-
-**Kohl de invisibilidad:** El humo toma forma de una cajita lapislázuli con kohl de invisibilidad en su interior.
-
-9
-
-**Una mujer con vestiduras antiguas:** Empieza el cuento salvaje [La viajera del tiempo](#anchorviajeratiempo).
-
-10
-
-**Cilindro cerebral de los al mighos:** Estos cilindros de metal verdusco con extrañas luces y una especie de tubo por donde salen sonidos tiene algo en su interior flotando en líquido.
-
-11
-
-**Grimorio:** Al disiparse el humo aparece un grimorio de magia. Coge al azar uno de los que se presentan en la sección de [Grimorios y libros de hechizos](#anchorgrimorios) o puedes crear uno como Scheherazade.
-
-12
-
-**Una docena de huevos:** Aparecen una docena de huevos y parecen de gallina. En realidad son huevos puestos por un gallo y si se encuban adecuadamente y eclosionan se convertirán en pollos cuya [curcusilla](#anchorcurcusilla) tiene propiedades mágicas.
-
-[![Decantador Vidrio Estaño por 27707](./images/botella-sellada.png)](https://pixabay.com/es/photos/decantador-vidrio-esta%C3%B1o-azul-942521/ "Decantador Vidrio Estaño por 27707") 
+[![Silueta Decantador Vidrio Estaño por 27707](./images/botella-sellada.png)](https://pixabay.com/es/photos/decantador-vidrio-esta%C3%B1o-azul-942521/ "Decantador Vidrio Estaño por 27707") 
 
 A propósito no se ha añadido ningún tipo de yinn que salga de una botella, este es un tropo argumental tan clásico que creo que deberías usarlo tú cuando lo desees y no porque haya aparecido en una tabla aleatoria.
 
@@ -954,7 +1094,7 @@ La curcusilla tiene una desventaja muy grave y es que mientras está en tu cuerp
 ### Dátiles rojos y amarillos
 
 > Y la hija del rey observó que eran dátiles amarillos, los que más le gustaban precisamente. Y se comió los dieciséis, uno tras de otro, en el tiempo justo para llevárselos a la boca. Y dijo: "¡Oh corazón mío, cuán deliciosos son!" Pero apenas había pronunciado estas palabras, sintió un atroz dolor en dieciséis sitios distintos de la cabeza. Y se llevó inmediatamente la mano a la cabeza, y sintió que le agujereaban el cuero cabelludo dieciséis tentáculos en dieciséis sitios distintos y simétricos. Y ni tiempo de gritar había tenido, cuando ya los dieciséis pseudópodos se habían desarrollado, y de cuatro en cuatro habían ido a clavarse en la pared fuertemente.\[…\]  
-> Pues que el hijo del tañedor de clarinete, que sólo esperaba aquel momento, entró al palacio y subió al aposento de la princesa, diciendo: "Yo haré que le desaparezcan los tentáculos". Y en cuanto estuvo en su presencia, cogió un dátil rojo, lo partió en pedazos, y lo puso en la boca de la princesa. Y en el mismo instante se separó de la pared un tentáculo, y a ojos vistas, se fué encogiendo y acabó por desaparecer enteramente de la cabeza de la joven.
+> Pues que el hijo del tañedor de clarinete, que solo esperaba aquel momento, entró al palacio y subió al aposento de la princesa, diciendo: "Yo haré que le desaparezcan los tentáculos". Y en cuanto estuvo en su presencia, cogió un dátil rojo, lo partió en pedazos, y lo puso en la boca de la princesa. Y en el mismo instante se separó de la pared un tentáculo, y a ojos vistas, se fue encogiendo y acabó por desaparecer enteramente de la cabeza de la joven.
 > 
 > **Referencia:** Historia contada por el octavo capitán de policía (n. 950)
 
@@ -970,7 +1110,7 @@ La persona que consume los dátiles amarillos queda inmovilizada y es vulnerable
 
 ### Droga Liao
 
-> Tengo aquí cinco píldoras de la droga de Liao, que era usada por nuestro el gran mago Soleimán ben-Daúd, y bajo cuya influencia tuvo muchas visiones. Se dice que en una de ellas volvió a tiempos pretéritos donde conoció el poder del hexagrama de los lemurios, que le serviría para crear el poderoso sello de Soleimán.
+> Tengo aquí cinco píldoras de la droga de Liao, que era usada por nuestro el gran mago Suleimán ben-Daúd, y bajo cuya influencia tuvo muchas visiones. Se dice que en una de ellas volvió a tiempos pretéritos donde conoció el poder del hexagrama de los lemurios, que le serviría para crear el poderoso sello de Suleimán.
 
 Esta sustancia, llamada a veces Droga Plutónica, proveniente de Asia se crea a partir de extracto de loto negro. Esta droga tiene la propiedad de enviar la mente del schahriar afín a la magia que la tome hacia atrás en el tiempo.
 
@@ -990,13 +1130,13 @@ Funciona como un espejo normal, pero una persona afín a la magia puede gastar 1
 
 ### Jugo de plantas para caminar sobre las aguas
 
-> … llegamos ante las mazorcas de una planta, que con todas las corolas rojas de sus flores cantaban bajo la brisa que la inclinaba: "¡Yo soy la maravillosa que otorga a quien se frota los pies con mi jugo la facultad de caminar sin mojarse por la superficie de todos los mares que creó Alah el Altísimo!" \[…\] "Cuando el joven Belukia y el sabio Offán me dejaron para ir a la isla situada allende los Siete Mares, donde se encuentra el cuerpo de Soleimán, llegaron a la orilla del Primer Mar, y se sentaron allí en tierra, y empezaron por frotarse enérgicamente la planta de los pies y los tobillos con el jugo que habían recogido en el frasco. Luego se levantaron, y con mucha precaución al principio, se aventuraron por mar. Pero cuando comprobaron que podían marchar por el agua sin temor a ahogarse, y aún mejor que en tierra firme, se animaron, y se pusieron en camino muy de prisa para no perder tiempo.
+> … llegamos ante las mazorcas de una planta, que con todas las corolas rojas de sus flores cantaban bajo la brisa que la inclinaba: "¡Yo soy la maravillosa que otorga a quien se frota los pies con mi jugo la facultad de caminar sin mojarse por la superficie de todos los mares que creó Alah el Altísimo!" \[…\] "Cuando el joven Belukia y el sabio Offán me dejaron para ir a la isla situada allende los Siete Mares, donde se encuentra el cuerpo de Suleimán, llegaron a la orilla del Primer Mar, y se sentaron allí en tierra, y empezaron por frotarse enérgicamente la planta de los pies y los tobillos con el jugo que habían recogido en el frasco. Luego se levantaron, y con mucha precaución al principio, se aventuraron por mar. Pero cuando comprobaron que podían marchar por el agua sin temor a ahogarse, y aún mejor que en tierra firme, se animaron, y se pusieron en camino muy de prisa para no perder tiempo.
 > 
 > **Referencia:** Historia de Belukia (n. 358)
 
 Las plantas de las que sacar este curioso jugo son extremadamente raras y no se dan de normal en la naturaleza, han de ser cultivadas por mujeres y hombres de gran sabiduría y magia. Una vez obtenidas es fácil obtener el jugo, solo hay que exprimir los frutos que da. De cada pieza de fruta sale jugo para un uso.
 
-La única forma de llegar a la isla de los Siete Mares es cruzando de los 7 mares y solo pueden cruzarse los 7 mares usando este jugo de planta. En la isla de los Siete Mares está la tumba del gran rey Soleimán, llena de tesoro de valor incalculable y objetos mágicos de inmenso poder.
+La única forma de llegar a la isla de los Siete Mares es cruzando de los 7 mares y solo pueden cruzarse los 7 mares usando este jugo de planta. En la isla de los Siete Mares está la tumba del gran rey Suleimán, llena de tesoro de valor incalculable y objetos mágicos de inmenso poder.
 
 Una persona afín a la magia puede gastarse 1 PP y frotarse el jugo en las plantas de los pies y ponerse a caminar sobre las aguas. Con ello se gana el poder de caminar sobre el agua hasta a volver tocar tierra firme. Adicionalmente, permite moverse sobre grandes masas de agua muy rápidamente. Un schahriar podría atravesar todo el mar Rojo en un día o andar por el Tigris desde Basora a Bagdad en medio día. Para distancias más cortas, como cruzar el Mar Muerto, podría ser casi instantáneo.
 
@@ -1011,8 +1151,8 @@ Cada dosis de hidromiel espacial permite a un schahriars que gaste 1 PP resistir
 ### La joya talismánica de la cama de viaje
 
 > Lo cogió y comprobó, en el límite del asombro, que era una gran gema talismánica, tallada en seis facetas y colgada de cadenilla de oro viejo. Y en las facetas estaban grabados nombres con caracteres desconocidos, que se parecían mucho a hormigas o a insectos del mismo tamaño.\[…\]  
-> Ella dijo: "¡Vamos allá!" Y cogió la cornalina y volvió hacia el cielo una de sus caras, en que estaba grabada la imagen de una cama, y frotó rápidamente aquella cara con el pulgar, diciendo: "¡Oh cornalina, en nombre de Soleimán te ordeno que me proporciones una cama de viaje!"  
-> Apenas pronunciadas tales palabras, se colocó delante de ellos un lecho de viaje, con sus sábanas v almohadones. Lo ocuparon los dos y se tendieron cómodamente. Entonces la princesa Mariam cogió entre los dedos la cornalina, volvió hacia el cielo una de sus caras, en que estaba grabado un pájaro, y dijo: ¡Cornalina, ¡oh cornalina! te ordeno, por el nombre de Soleimán, que nos transportes sanos y salvos a Iskandaria por la vía más directa!  
+> Ella dijo: "¡Vamos allá!" Y cogió la cornalina y volvió hacia el cielo una de sus caras, en que estaba grabada la imagen de una cama, y frotó rápidamente aquella cara con el pulgar, diciendo: "¡Oh cornalina, en nombre de Suleimán te ordeno que me proporciones una cama de viaje!"  
+> Apenas pronunciadas tales palabras, se colocó delante de ellos un lecho de viaje, con sus sábanas v almohadones. Lo ocuparon los dos y se tendieron cómodamente. Entonces la princesa Mariam cogió entre los dedos la cornalina, volvió hacia el cielo una de sus caras, en que estaba grabado un pájaro, y dijo: ¡Cornalina, ¡oh cornalina! te ordeno, por el nombre de Suleimán, que nos transportes sanos y salvos a Iskandaria por la vía más directa!  
 > Apenas había dado la orden, cuando la cama se levantó sola por el aire, sin sacudidas, subió hasta la cúpula, salió por el mayor ventanal, y más rápida que el ave más rápida, hendió el espacio con maravillosa regularidad, y en menos tiempo que el necesario para orinar los depositó en Iskandaria.
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 269)
@@ -1061,7 +1201,7 @@ Normalmente, viene en una pequeña cajita de maquillaje con 1d10+5 usos. Cada us
 
 Esta llave de gran tamaño, de un material desconocido parecido a la plata y con extraños jeroglíficos, abre cualquier cerradura automáticamente, incluso aquellas cerradas mágicamente. Cada vez que la usen saca una carta de acción. Si sale el comodín, la puerta se abre a la tierra de los sueños.
 
-> **Semilla de aventura:** Entrar despierto en la tierra de los sueños es el primer paso para llegar a la Última Puerta custodiada por ’Umr-At-Tawil (avatar de Yog-Sothoth) que puede permitirte entrar en la estancia de Yog-Sothoth. Al entrar en la estancia tienes derecho a una audiencia con el mismísimo Yog-Sothoth, que aquí puede manifestarse en todo su esplendor.
+> /s/ **Semilla de aventura:** Entrar despierto en la tierra de los sueños es el primer paso para llegar a la Última Puerta custodiada por ’Umr-At-Tawil (avatar de Yog-Sothoth) que puede permitirte entrar en la estancia de Yog-Sothoth. Al entrar en la estancia tienes derecho a una audiencia con el mismísimo Yog-Sothoth, que aquí puede manifestarse en todo su esplendor.
 
 ### Mesa de arena adivinatoria
 
@@ -1133,13 +1273,13 @@ Una persona con Afinidad mágica puede gastar 1 PP y hacer una tirada de Interpr
 ### Taza talismánica
 
 > Y quiso precipitarse sobre el mago Azania, que, al ver aquello, extendió la mano y le arrojó al rostro algunas gotas del agua que contenía la taza grabada con palabras talismánicas, gritándole: "¡Conviértete en oso!" Y al punto Alí Azogue quedó transformado en oso, con una gruesa cadena unida a una anilla de hierro que le atravesaba el hocico, y con bozal, como los osos amaestrados para que bailen.\[…\]  
-> Tras de lo cual cada una de las dos jóvenes cogió una taza talismánica, y después de haber murmurado en lengua hebrea algunas palabras, rociaron con el agua al perro Alí, diciéndole: "¡Por las virtudes, y los méritos de Soleimán, torna a convertirte en un ser humano vivo! Y al instante saltó sobre sus dos pies Alí Azogue, más joven y más hermoso que nunca.
+> Tras de lo cual cada una de las dos jóvenes cogió una taza talismánica, y después de haber murmurado en lengua hebrea algunas palabras, rociaron con el agua al perro Alí, diciéndole: "¡Por las virtudes, y los méritos de Suleimán, torna a convertirte en un ser humano vivo! Y al instante saltó sobre sus dos pies Alí Azogue, más joven y más hermoso que nunca.
 > 
 > **Referencia:** Historia de los artificios de Dalila la taimada y de su hija Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 463)
 
 Si no fuera por sus extraños grabados en diferentes idiomas, esta taza de bronce parecería bastante normal. Sin embargo, el ojo entrenado de una persona con habilidades mágicas se da cuenta de que es especial.
 
-Presumiblemente fue creada por el poderoso rey Soleimán como forma de castigar a pequeños criminales, haciéndoles, por ejemplo, trabajar penosamente como asnos transportando pesadas cargas de sol a sol.
+Presumiblemente fue creada por el poderoso rey Suleimán como forma de castigar a pequeños criminales, haciéndoles, por ejemplo, trabajar penosamente como asnos transportando pesadas cargas de sol a sol.
 
 Esta taza permite a tu portador convertir a una persona en un animal y volver a convertirlo en humano de nuevo. Simplemente hay que salpicar unas gotas del líquido que contiene y pronunciar las palabras grabadas en ella.
 
@@ -1156,7 +1296,7 @@ El objetivo debe resistirse con una tirada enfrentada de d10 contra el Espíritu
 
 Estos vasos canopos (recipientes de piedra con tapa de cabeza de animal/dios egipcio que contienen restos extraídos a un cuerpo que se va a momificar como cerebro, entrañas, …) seguramente fueron sacados de la pirámide acodada de Dashur, donde yace el cuerpo momificado del faraón Nefrén-Ka, conocido como el «Faraón negro». Contienen los restos del Faraón Negro, al que Nyarlathotep le concedió el poder de ver el futuro.
 
-Consumir alguno de los 1d4 órganos guardados en cada uno de ellos permite usar una vez el poder de Adivinación, usando Espíritu como habilidad arcana y sin gastar PP. Si se busca consultar con primigenios o dioses exteriores, la tirada deberá ser con Saber de Soleimán.
+Consumir alguno de los 1d4 órganos guardados en cada uno de ellos permite usar una vez el poder de Adivinación, usando Espíritu como habilidad arcana y sin gastar PP. Si se busca consultar con primigenios o dioses exteriores, la tirada deberá ser con Saber de Suleimán.
 
 \sp
 

@@ -11,3 +11,26 @@
 {"rule":"SEPARADO","sentence":"^\\Q|11Epilogo.md|\\E$"}
 {"rule":"REP_CREAR","sentence":"^\\QReglas para crear personajes y enfrentarlos a la locura, a la magia y a los monstruos que pueblan los cuentos de las 1001 Noches y las historias de H. P. Lovecraft.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q¡Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn!\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\QEstaba amueblada con divanes, cual es costumbre, y sus mercancías consistían en objetos para la gente de mar, como velas, cuerdas, cordeles, arcas sólidas, sacas para pacotillas, armas de todas formas y precios, y sobre todo una cantidad enorme de hierro y antigüedades muy estimables por los capitanes de marina, que las compraban allí para venderlas a la gente de Occidente, pues los de este país estiman en mucho las cosas antiguas, y cambian sus mujeres e hijas por un pedazo de madera podrida, por ejemplo, o por una piedra talismánica, o por un sable viejo y enmohecido.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QY también por apresar y vender para circos animales salvajes de la Cordillera del Atlas, como el león del Atlas o león de Berbería (Panthera leo leo) y el oso del Atlas (Ursus arctos crowtheri).\\E$"}
+{"rule":"MISSING_COMMA","sentence":"^\\QSaludos mi muy querido amigo Giafar,\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\Q¡Pero solo Alah conoce los destinos, y nuestro deber es inclinarnos ante El con obediencia muda!»\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\Q¡Diéronme mis esposas una posteridad de mil príncipes reales, valientes cual leones!\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Q¡Bhadraṃ te!\\E$"}
+{"rule":"ES_REPEATEDWORDS","sentence":"^\\QLo más importante es que hay un acuerdo tácito entre sus habituales de no meterse en los asuntos de otros.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QSe comenta que la tecnología para la fabricación de papel viene de prisioneros chinos de la Batalla del Talas.\\E$"}
+{"rule":"AGREEMENT_NUMERAL_PLURAL","sentence":"^\\Q1-2 Traducción\n3 Incompleto\n4 Anotado\n5 Dañado\n6 Muy dañado\n7 Edición original\n8 Maldito\\E$"}
+{"rule":"AGREEMENT_PRONOUNSUBJECT_VERB","sentence":"^\\QPuedes dotarle del poder que tú quieras que no cubran otros objetos como traer a la vida una persona muerta, viajar en el tiempo, alzar a los zombis o liberar a un primigenio de su prisión.\\E$"}
+{"rule":"DE_TILDE","sentence":"^\\QEste caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEspecial\nPuntos de poder: 3PP x nivel de dificultad\nDistancia:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 4\nDistancia: --\nDuración:\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QExperimentado\nPuntos de poder: 2\nDistancia:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 2\nDistancia: --\nDuración:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 2 PP\nDistancia:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 2\nDistancia: —\nDuración:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 4\nDistancia: —\nDuración:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEspecial\nPuntos de poder: 3 PP x nivel de dificultad\nDistancia:\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QAplicando aceite de hígado del gigantesco pez dan dan (o de cualquier pez) puedes sumergirte en el agua sin problemas para respirar o de presión.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\Q\"Se compone con grasa del hígado de una especie entre las especies de peces que se llama dan dan.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\Q¡Y este pez dan dan es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!\"\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QPor otro lado, los abu-qith y los janns que tienen una sociedad más abierta y libre, donde cada ente puede hacer lo que quiera, cuando quiera, siempre que sus actos no entren en conflicto con otros entes de su sociedad.\\E$"}

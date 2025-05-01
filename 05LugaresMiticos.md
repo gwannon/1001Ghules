@@ -110,7 +110,7 @@ Este fabuloso tesoro escondido en unas cámaras secretas subterráneas, ocupa 3 
 
 Si tus schahriars consigue encontrar el tesoro y llevarlo a una ciudad, otorgarles la ventaja "Rico como un sultán" directamente sin necesidad de requisitos. Solo la cuarta estancia y el anillo mágico del Padre de la Dicha es cosa tuya dárselo o no.
 
-> **Semilla de aventura:** La búsqueda del tesoro de Scheddad puede ser una aventura por todo Oriente Medio buscando primero como encontrar la misteriosa Aram-de-las-columnas y luego buscando el tesoro siguiendo las pistas que hay en Aram-de-las-columnas sobre el tesoro.
+> /s/ **Semilla de aventura:** La búsqueda del tesoro de Scheddad puede ser una aventura por todo Oriente Medio buscando primero como encontrar la misteriosa Aram-de-las-columnas y luego buscando el tesoro siguiendo las pistas que hay en Aram-de-las-columnas sobre el tesoro.
 
 [![Sinbad in the Valley of Diamonds - Albert Goodwin](./images/valle-diamantes.jpg)](https://commons.wikimedia.org/wiki/Category:Albert_Goodwin "Sinbad in the Valley of Diamonds - Albert Goodwin") 
 
@@ -150,7 +150,7 @@ Los al mighos investigaron lo que le paso a su colonia y abandonaron la cantera 
 
 Usando el método de la carne solo se pueden extraer diamantes. Por cada pieza de carne que se recupere se pueden conseguir 2d6 x 1.000 dinares de oro. Si deciden bajar al valle, podrán conseguir botines en los nidos de las serpientes. Pueden ser cualquier tipo de botín, ya que las serpientes, las paredes del valle y la radiación llevan siglos matando a exploradores que intentaron conseguir diamantes.
 
-> **Semilla de aventura:** Si tus schahriars consiguen extraer diamantes del valle y venderlos, puede que lleguen a manos de agentes de los al mighos como la progenie de la Luna Creciente. Los al mighos mandarán a sus agentes humanos a averiguar de donde vienen los diamantes y estos harán lo que sea para saber de donde sacaron los cuasicristales. En resumen, tus schahriars deberán enfrentarse a un culto de psicópatas y a una tribu de Yinns por sus vidas.
+> /s/ **Semilla de aventura:** Si tus schahriars consiguen extraer diamantes del valle y venderlos, puede que lleguen a manos de agentes de los al mighos como la progenie de la Luna Creciente. Los al mighos mandarán a sus agentes humanos a averiguar de donde vienen los diamantes y estos harán lo que sea para saber de donde sacaron los cuasicristales. En resumen, tus schahriars deberán enfrentarse a un culto de psicópatas y a una tribu de Yinns por sus vidas.
 
 [![La ciudad sin nombre, ilustración de leothefox](./images/ciudad-sin-nombre.jpg)](https://es.wikipedia.org/wiki/La_ciudad_sin_nombre#/media/Archivo:The_Nameless_City_by_leothefox.jpg "La ciudad sin nombre, ilustración de leothefox") 
 
@@ -236,12 +236,12 @@ Si te quitan la diadema saldrás directamente del hammam, pero es bastante traum
 ## La Isla de los Siete Mares
 
 > Abrió el cofrecillo de oro, y vio un rollo de pergamino, que desplegó al punto.  
-> Y decía en lengua griega: Quien desee llegar a ser dueño y soberano de los hombres, de los genios, de las aves y de los animales, no tendrá más que encontrar el anillo que el profeta Soleimán lleva al dedo en la Isla de los Siete Mares que le sirve de sepultura. Ese anillo mágico es el que Adán, padre del hombre, llevaba al dedo en el paraíso antes de su pecado, y que se lo quitó el ángel Gobrail, donándoselo al prudente Soleimán más tarde. Pero ningún navío podría intentar surcar los piélagos y llegar a esa isla situada allende los Siete Mares. Sólo llevará a cabo esta empresa quien encuentre el vegetal con cuyo jugo basta frotar la planta de los pies para poder caminar por la superficie del mar. Ese vegetal se encuentra en el reino subterráneo de la reina Yamlika. Y únicamente esta princesa sabe el lugar donde crece tal planta; porque conoce el lenguaje de las plantas y las flores todas, y no ignora ninguna de sus virtudes. Quien quiera dar con este anillo, vaya primero al reino subterráneo de la reina Yamlika.  
+> Y decía en lengua griega: Quien desee llegar a ser dueño y soberano de los hombres, de los genios, de las aves y de los animales, no tendrá más que encontrar el anillo que el profeta Suleimán lleva al dedo en la Isla de los Siete Mares que le sirve de sepultura. Ese anillo mágico es el que Adán, padre del hombre, llevaba al dedo en el paraíso antes de su pecado, y que se lo quitó el ángel Gobrail, donándoselo al prudente Suleimán más tarde. Pero ningún navío podría intentar surcar los piélagos y llegar a esa isla situada allende los Siete Mares. Solo llevará a cabo esta empresa quien encuentre el vegetal con cuyo jugo basta frotar la planta de los pies para poder caminar por la superficie del mar. Ese vegetal se encuentra en el reino subterráneo de la reina Yamlika. Y únicamente esta princesa sabe el lugar donde crece tal planta; porque conoce el lenguaje de las plantas y las flores todas, y no ignora ninguna de sus virtudes. Quien quiera dar con este anillo, vaya primero al reino subterráneo de la reina Yamlika.  
 > ¡Y si es tan dichoso que triunfa y se apodera del anillo, no solamente podrá entonces dominar a todos los seres creados, sino que también penetrará en la Comarca de las Tinieblas para beber en la Fuente de Vida, que da belleza, juventud, ciencia, prudencia e inmortalidad!
 > 
 > **Referencia:** Historia de Belukia (n. 357)
 
-La Isla de los Siete Mares en el lugar donde se supone que está la Tumba del gran rey y poderoso mago Soleimán. Es una tierra mágica llena de magia y prodigios, desde ejércitos de amazonas a gigantes.
+La Isla de los Siete Mares en el lugar donde se supone que está la Tumba del gran rey y poderoso mago Suleimán. Es una tierra mágica llena de magia y prodigios, desde ejércitos de amazonas a gigantes.
 
 Es llamada así porque para llegar a dicha isla hay que cruzar 7 mares. Son mares tan peligrosos que ningún barco puede atravesarlos. Todas las naves que lo intentan acaban naufragando. La única forma conocida es frotando el [jugo de unas plantas mágicas](#anchorjugoagua) en los pies. Este jugo te permite caminar sobre las aguas y así recorrer los 7 mares. Estas plantas solo las conoce y son cultivadas por la reina Yamlika que vive en una especie de reino subterráneo.
 
@@ -258,12 +258,12 @@ La reina Yamlika es una poderosa reina maga soñadora de la raza de la serpigent
 
 Yamlika es omnipotente en su reino de sueños y nadie puede hacerle nada en ella. Además, ha seguidos sus experimentos mágico-científicos como es el jugo de las plantas para andar por el agua.
 
-A diferencia de otros miembros de su raza, Yamlika acepta a los humanos y no los ve como una plaga a exterminar o posibles seres para esclavizar. De hecho, de buen grado responde a preguntas con un Saber de Soleimán d12+2 e incluso podría enseñar magia a schahriars que le caigan excepcionalmente bien.
+A diferencia de otros miembros de su raza, Yamlika acepta a los humanos y no los ve como una plaga a exterminar o posibles seres para esclavizar. De hecho, de buen grado responde a preguntas con un Saber de Suleimán d12+2 e incluso podría enseñar magia a schahriars que le caigan excepcionalmente bien.
 
 Puede incluso querer tener un encuentro sexual o una relación romántica con alguno de los o las schahriars si los encuentra atractivos o intelectualmente atrayentes. Los suele marcar convirtiendo partes de su piel es escamas de serpiente que ella disfruta acariciando como si fueran de su misma especie.
 
 > Tras de lo cual, seguido por el sabio Offán, salió de su palacio y de su ciudad y se adentró en el desierto.  
-> Sólo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargo al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
+> Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargo al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
 > 
 > **Referencia:** Historia de Belukia (n. 357)
 
@@ -297,7 +297,7 @@ Tras andar 4 días y 4 noches llegan a isla que no es más que un banco de arena
 
 #### El quinto mar
 
-> Por el Quinto Mar sólo viajaron un día y una noche, porque al amanecer vieron una islita cuyas montañas eran de cristal con anchas venas de oro, y estaban cubiertas de árboles asombrosos que tenían flores de un amarillo brillante. Al caer la noche estas flores refulgían como astros, y su resplandor, reflejado por las rocas de cristal, iluminó la isla y la dejó más brillante que en pleno día. Y dijo Offán a Belukia: "Delante de los ojos tienes la Isla de las Flores de Oro. Se trata de unas flores que, después de caer de los árboles y cuando se secan, se reducen a polvo, y su fusión acaba por formar las venas de donde se saca el oro. Esta Isla de las Flores de Oro no es más que una partícula del sol separado del astro, y caída antaño aquí mismo".
+> Por el Quinto Mar solo viajaron un día y una noche, porque al amanecer vieron una islita cuyas montañas eran de cristal con anchas venas de oro, y estaban cubiertas de árboles asombrosos que tenían flores de un amarillo brillante. Al caer la noche estas flores refulgían como astros, y su resplandor, reflejado por las rocas de cristal, iluminó la isla y la dejó más brillante que en pleno día. Y dijo Offán a Belukia: "Delante de los ojos tienes la Isla de las Flores de Oro. Se trata de unas flores que, después de caer de los árboles y cuando se secan, se reducen a polvo, y su fusión acaba por formar las venas de donde se saca el oro. Esta Isla de las Flores de Oro no es más que una partícula del sol separado del astro, y caída antaño aquí mismo".
 > 
 > **Referencia:** Historia de Belukia (n. 359)
 
@@ -317,19 +317,19 @@ Cruzar el último mar puede tardar meses y podría obligar a los viajeros a tene
 
 Tras cruzar el séptimo mar llegaremos a la isla de los Siete Mares, otra isla paradisíaca con ríos de agua fresca, árboles frutales, aves de vivos colores, etc. Pero la isla está habitada y protegida por una tribu de gugos que cuidan de que nadie salga vivos. Los gugos están repartidos por toda isla vigilando que haya extraños, dándoles caza y devorando sus cuerpos.
 
-### La cripta de Soleimán
+### La cripta de Suleimán
 
-> … llegaron a una colina cuyas rocas eran de ámbar amarillo y de almizcle, y en cuyas laderas se abría una gruta magnífica con bóveda y paredes de diamantes. Como estaba tan bien alumbrada, cual a pleno sol, se aventuraron bastante en sus profundidades, y a medida que avanzaban, veían aumentar la claridad y ensancharse la bóveda. Así anduvieron maravillándose de aquello, y empezaban a preguntarse si tendría fin la gruta, cuando de repente llegaron a una sala inmensa, tallada de diamante, y que ostentaba en medio un gran lecho de oro macizo, en el cual aparecía tendido Soleimán ben-David, a quien podía reconocerse por su manto verde adornado de perlas y pedrerías, y por el anillo mágico que ceñía un dedo de su mano derecha, lanzando resplandores ante los que palidecía el brillo de la sala de diamantes. La mano que tenía el anillo en el dedo meñique, descansaba sobre su pecho, y la otra mano, extendida, sostenía el cetro áureo de ojos de esmeralda.
+> … llegaron a una colina cuyas rocas eran de ámbar amarillo y de almizcle, y en cuyas laderas se abría una gruta magnífica con bóveda y paredes de diamantes. Como estaba tan bien alumbrada, cual a pleno sol, se aventuraron bastante en sus profundidades, y a medida que avanzaban, veían aumentar la claridad y ensancharse la bóveda. Así anduvieron maravillándose de aquello, y empezaban a preguntarse si tendría fin la gruta, cuando de repente llegaron a una sala inmensa, tallada de diamante, y que ostentaba en medio un gran lecho de oro macizo, en el cual aparecía tendido Suleimán ben-David, a quien podía reconocerse por su manto verde adornado de perlas y pedrerías, y por el anillo mágico que ceñía un dedo de su mano derecha, lanzando resplandores ante los que palidecía el brillo de la sala de diamantes. La mano que tenía el anillo en el dedo meñique, descansaba sobre su pecho, y la otra mano, extendida, sostenía el cetro áureo de ojos de esmeralda.
 > 
 > **Referencia:** Historia de Belukia (n. 360)
 
-En una colina en el centro de la isla hay una gruta larguísima al final de la cual está la cripta de Soleimán. El cadáver incorrupto de Soleimán porta dos objetos de gran poder, el anillo de Soleimán y el cetro áureo de esmeraldas.
+En una colina en el centro de la isla hay una gruta larguísima al final de la cual está la cripta de Suleimán. El cadáver incorrupto de Suleimán porta dos objetos de gran poder, el anillo de Suleimán y el cetro áureo de esmeraldas.
 
-La gruta está protegida con una serie de protecciones mágicas, si intentas acercarte al lecho donde está el cadáver de Soleimán del techo caen diamantes líquidos tan calientes que si te tocan te abrasan vivo.
+La gruta está protegida con una serie de protecciones mágicas, si intentas acercarte al lecho donde está el cadáver de Suleimán del techo caen diamantes líquidos tan calientes que si te tocan te abrasan vivo.
 
 Hay que hacer 5 tiradas de Atletismo para esquivar las gotas de diamante y llegar hasta el lecho. Si se falla la tirada de Atletismo se recibe una herida directa por fuego y si se falla una tirada de Vigor una segunda herida. Los hechizos de resistencia al fuego podrían dar un +2 a la tirada de Vigor, pero no protegen de la primera herida.
 
-El anillo de Soleimán es explicado [más adelante](#anchoranillosoleiman) y el cetro es un objeto mágico de gran poder que maximiza todos los conjuros que se lancen cuando lo portamos. A nivel de juego hace que la persona que lo porte al lanzar un hechizo obtenga un avance extra si consigue lanzarlo.
+El anillo de Suleimán es explicado [más adelante](#anchoranillosoleiman) y el cetro es un objeto mágico de gran poder que maximiza todos los conjuros que se lancen cuando lo portamos. A nivel de juego hace que la persona que lo porte al lanzar un hechizo obtenga un avance extra si consigue lanzarlo.
 
 ## La cueva de las maravillas
 
@@ -374,9 +374,9 @@ La Cueva de las Maravillas - Interior de un falak
 
 ## La Montaña del Imán
 
-> … mañana llegaremos a una montaña de rocas negras que se llama la Montaña del Imán, y hacia ella han de llevarnos a la fuerza las aguas. Y nuestra nave se despedazará, porque volarán todos sus clavos, atraídos por la montaña y adhiriéndose a sus laderas, pues Alah el Altísimo dotó a la Montaña del Imán de una secreta virtud que le permite atraer todos los objetos de hierro. Y no puedes imaginarte la enorme cantidad de cosas de hierro que se ha acumulado y colgado de dicha montaña desde que atrae a los navíos. ¡Sólo Alah sabe su número! Desde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas. Sabe, ¡oh rey! que mientras el jinete permanezca sobre su caballo, quedarán destrozados todos los barcos que naveguen en torno suyo, y todos los pasajeros se perderán sin remedio, y todos los hierros de las naves se irán a pegar a la montaña. ¡No habrá salvación posible mientras no se precipite el jinete al mar!”  
+> … mañana llegaremos a una montaña de rocas negras que se llama la Montaña del Imán, y hacia ella han de llevarnos a la fuerza las aguas. Y nuestra nave se despedazará, porque volarán todos sus clavos, atraídos por la montaña y adhiriéndose a sus laderas, pues Alah el Altísimo dotó a la Montaña del Imán de una secreta virtud que le permite atraer todos los objetos de hierro. Y no puedes imaginarte la enorme cantidad de cosas de hierro que se ha acumulado y colgado de dicha montaña desde que atrae a los navíos. ¡Solo Alah sabe su número! Desde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas. Sabe, ¡oh rey! que mientras el jinete permanezca sobre su caballo, quedarán destrozados todos los barcos que naveguen en torno suyo, y todos los pasajeros se perderán sin remedio, y todos los hierros de las naves se irán a pegar a la montaña. ¡No habrá salvación posible mientras no se precipite el jinete al mar!”  
 > »Dicho esto, ¡oh señora mía! el capitán continuó derramando abundantes lágrimas, y juzgamos segura e irremediable nuestra pérdida, despidiéndose cada cual de sus amigos.  
-> »Y así fué; porque apenas amaneció, nos vimos próximos a la montaña de rocas negras imantadas, y las aguas nos empujaban violentamente hacia ella. Y cuando las diez naves llegaron al pie de la montaña, los clavos se desprendieron de pronto y comenzaron a volar por millares, lo mismo que todos los hierros, y todos fueron a adherirse a la montaña. Y nuestros barcos se abrieron, siendo precipitados al mar todos nosotros.
+> »Y así fue; porque apenas amaneció, nos vimos próximos a la montaña de rocas negras imantadas, y las aguas nos empujaban violentamente hacia ella. Y cuando las diez naves llegaron al pie de la montaña, los clavos se desprendieron de pronto y comenzaron a volar por millares, lo mismo que todos los hierros, y todos fueron a adherirse a la montaña. Y nuestros barcos se abrieron, siendo precipitados al mar todos nosotros.
 > 
 > **Referencia:** Historia del tercer saaluk (n. 14)
 
@@ -403,7 +403,7 @@ Hay varias teorías sobre el origen de la estatua, siendo todas posibles en mayo
 
 * Pudiera ser que contenga encerrado en su interior la esencia de algún primigenio o dios exterior menor relacionado con el magnetismo. Quien le dio la forma ecuestre es un misterio, quizás sea un chiste del dios arquetípico Nodens que no podemos entender.
 * Otra teoría es que sean algún tipo de ingenio Al-Migho para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera en forma de estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento al migho y abandonó allí la esfera.
-* La tercera y, quizás, más acertada es que sea algún tipo de trampa o arma creada por el gran rey y mago Soleimán para destruir a sus enemigos. Un objeto tan poderoso podría destruir naves estelares y hacerlas estrellarse contra la tierra. De alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.
+* La tercera y, quizás, más acertada es que sea algún tipo de trampa o arma creada por el gran rey y mago Suleimán para destruir a sus enemigos. Un objeto tan poderoso podría destruir naves estelares y hacerlas estrellarse contra la tierra. De alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.
 
 #### Destruyendo la estatua ecuestre
 
@@ -421,7 +421,7 @@ Las rocas y piedras de la montaña no funcionan como imán sin la presencia de l
 
 Si se está una hora buscando activamente entre los restos de naufragios y los objetos atraídos por el imán, se podrá hacer una tirada de botín de d8.
 
-> **Semilla de aventura:** Si la teoría del arma anti naves espaciales es cierta, la montaña podría tener unas instalaciones militares de los creadores de la estatua y a las que esta protegía de ataques. Puede haber de todo en esas instalaciones.
+> /s/ **Semilla de aventura:** Si la teoría del arma anti naves espaciales es cierta, la montaña podría tener unas instalaciones militares de los creadores de la estatua y a las que esta protegía de ataques. Puede haber de todo en esas instalaciones.
 
 [![Rūdolfs Pērle - Saule (1916) Tempera](./images/gharne.jpg)](https://en.wikipedia.org/wiki/R%C5%ABdolfs_P%C4%93rle#/media/File:R%C5%ABdolfs_P%C4%93rle_-_Saule_(1916).jpg "Rūdolfs Pērle - Saule (1916) Tempera") 
 
@@ -449,7 +449,7 @@ Si no se tiene ninguna referencia, ni nada con que compararlo, traducir esos gli
 
 La traducción de los glifos puede ordenarse y estudiarse adecuadamente y crear un grimorio/libro de historia bastante interesante para cualquier practicante de las artes mágicas.
 
-El libro que se consiga de las traducciones nos da un interesante grimorio de NP 5. No es tanto un grimorio como un libro de historia, de ahí su bajo nivel, pero como libro de historia otorga un +2 a las tiradas de Saber de Soleimán relacionado con janns y las guerras que mantuvieron con otros tipos de yinns antes de la aparición del hombre.
+El libro que se consiga de las traducciones nos da un interesante grimorio de NP 5. No es tanto un grimorio como un libro de historia, de ahí su bajo nivel, pero como libro de historia otorga un +2 a las tiradas de Saber de Suleimán relacionado con janns y las guerras que mantuvieron con otros tipos de yinns antes de la aparición del hombre.
 
 ### G’harne y los falaks menores
 

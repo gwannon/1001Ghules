@@ -224,7 +224,7 @@ Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan
 El cinco es un número importante entre los janns debido a que su torso de tonel tiene 5 lados, tiene 5 tentáculos, etc. La estrella de 5 puntas es también un símbolo importante para los janns.
 
 * **Atributos:** Agilidad d10, Astucia d10, Espíritu d6, Fuerza d12+3, Vigor d12+2
-* **Habilidades:** Atletismo d10, Ciencias d6, Humanidades d6, Pelear d6, Notar d6, Pelear d6, Saber de Soleimán d6, Sigilo d6
+* **Habilidades:** Atletismo d10, Ciencias d6, Humanidades d6, Pelear d6, Notar d6, Pelear d6, Saber de Suleimán d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 12(2)
 * **Capacidades especiales:**
     * **Vuelo:** Paso volando 10
@@ -257,7 +257,7 @@ Son considerados cheitans, yinns malvados. Además, son tremendamente poderosos 
 Los qareens son seres de energía invisibles en forma de vórtice. En este estado suelen coger a individuos marginales y de mente débiles y convertirlos en sus siervos que se encargan de hacer las tareas que ellos no pueden.
 
 * **Atributos:** Agilidad --, Astucia d12+1, Espíritu d12+3, Fuerza --, Vigor --
-* **Habilidades:** Saber de Soleimán d12, Notar d10, Sigilo d8
+* **Habilidades:** Saber de Suleimán d12, Notar d10, Sigilo d8
 * **Paso:** 6; **Parada:** --; **Dureza:** --
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
@@ -469,7 +469,7 @@ Solo mueren de forma violenta. Según las leyendas, viven eternamente en el fond
 Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los individuos más ancianos son los más grandes y poderosos. Cuando esto ocurre es más raro aún que salgan a la superficie. De hecho, se considera que Baba Daryä y Bu Diryan son gente del mar muy muy antiguos y, por tanto, muy poderosos. Hay teorías que creen que todas las gentes del mar son primigenios en potencia si se le dan eones de tiempo.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d8, Idioma nativo d8, Saber de Soleimán d4, Notar d8, Pelear d6, Sigilo d10, Supervivencia d8
+* **Habilidades:** Atletismo d8, Idioma nativo d8, Saber de Suleimán d4, Notar d8, Pelear d6, Sigilo d10, Supervivencia d8
 * **Paso:** 6; **Parada:** 6 (5); **Dureza:** 8 (2)
 * **Capacidades especiales:**
     * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
@@ -556,7 +556,7 @@ En de las 1001 Noches puedes usarlos como uno más dentro de la gran variedad de
 En su mundo son esclavos que extraen de la tierra rubís para sus amos, las bestias lunares. Como esclavos que son, no es de extrañar que pudiera haber lengnitas que hayan escapado y llegado a nuestro mundo y se muevan entre nosotros disfrazados como humanos o como una de tantas criaturas mágicas que abundan en los cuentos de Scheherazade.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Idioma nativo d8, Saber de Soleimán d4, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
+* **Habilidades:** Atletismo d6, Idioma nativo d8, Saber de Suleimán d4, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Escoge dos Hábitos, uno menor y otro mayor. Puede ser cosas como alcohol, comida, juego, sexo, etc. Los lengnitas suelen llevar al extremo las cosas que consideramos como vicios.
 * **Capacidades especiales:**
@@ -565,7 +565,7 @@ En su mundo son esclavos que extraen de la tierra rubís para sus amos, las best
 
 ### Nasnas
 
-> … y en el mismo instante desapareció parte de mi cuerpo y no quedó visible de mi persona más que la mitad de un hombre, un tronco dotado de movimiento. Y mi maestro me dijo: "Transpórtate ahora a la ciudad. Y allá esperarás así lo que ansías". Y contesté con el oído y la obediencia, y me transporté en un abrir y cerrar de ojos a la plaza pública, donde, en cuanto llegué, me vi rodeado de una muchedumbre innumerable. Y todos me miraban con asombro. Y de todos lados acudían para contemplar a un ser tan singular que sólo tenía de hombre la mitad y que se movía con tanta rapidez. Y en seguida cundió por la ciudad el rumor de tan extraño fenómeno, y llegó hasta el palacio en que vivía la hija del sultán con su madre. Y ambas desearon satisfacer su curiosidad para conmigo, y enviaron a los eunucos para que me cogieran y me llevaran a presencia suya.
+> … y en el mismo instante desapareció parte de mi cuerpo y no quedó visible de mi persona más que la mitad de un hombre, un tronco dotado de movimiento. Y mi maestro me dijo: "Transpórtate ahora a la ciudad. Y allá esperarás así lo que ansías". Y contesté con el oído y la obediencia, y me transporté en un abrir y cerrar de ojos a la plaza pública, donde, en cuanto llegué, me vi rodeado de una muchedumbre innumerable. Y todos me miraban con asombro. Y de todos lados acudían para contemplar a un ser tan singular que solo tenía de hombre la mitad y que se movía con tanta rapidez. Y en seguida cundió por la ciudad el rumor de tan extraño fenómeno, y llegó hasta el palacio en que vivía la hija del sultán con su madre. Y ambas desearon satisfacer su curiosidad para conmigo, y enviaron a los eunucos para que me cogieran y me llevaran a presencia suya.
 > 
 > **Referencia:** Historia del tercer loco (n. 843)
 
@@ -685,7 +685,7 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 
 ### Sirrush (Sabueso de Tíndalos) ☾
 
-> …En sus cuerpos flacos y famélicos se concentra tanto mal como el propio Iblis. En realidad no estoy seguro de que tuvieran cuerpo: sólo los vi un instante. Pero de tenerlo se parecían a los perros guardianes con un solo cuerno que había en los bajorrelieves de la antigua puerta de Ishtar en las ruinas de Babilonia.
+> …En sus cuerpos flacos y famélicos se concentra tanto mal como el propio Iblis. En realidad no estoy seguro de que tuvieran cuerpo: solo los vi un instante. Pero de tenerlo se parecían a los perros guardianes con un solo cuerno que había en los bajorrelieves de la antigua puerta de Ishtar en las ruinas de Babilonia.
 
 Según Alhazred, los sirrush, los sirvientes de Marduk, son unos seres inmortales que habitan la Tierra antes de los humanos, los ángeles y los yinns. Se dice que viven entre los ángulos del tiempo, mientras que el resto de seres vivimos en las curvas del tiempo. No se sabe muy bien su forma exacta, ya que nadie ha sobrevivido a su ataque. Aun así, según la creencia mesopotámica, podrían ser reptiles alargados que se mueven sobre 4 patas con garras de león.
 
@@ -698,7 +698,7 @@ Los sirrushes representan todo lo que es impuro y odian todo lo que es puro. Des
 Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y la forma más segura de protegerse sería en una habitación sin ángulos, por ejemplo, una habitación donde las juntas entre paredes, techo y suelo hayan sido rellenadas de cemento, de forma que haya ángulos rectos.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d12, Vigor d12+2
-* **Habilidades:** Saber de Soleimán d8, Notar d12, Pelear d12, Sigilo d12, Supervivencia d10
+* **Habilidades:** Saber de Suleimán d8, Notar d12, Pelear d12, Sigilo d12, Supervivencia d10
 * **Paso:** 10; **Parada:** 8; **Dureza:** 11(9)
 * **Capacidades especiales:**
     * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
@@ -743,7 +743,7 @@ Los suukan son realmente algún tipo de cheitan sin cuerpo que desde el infierno
 El cheitan también transforma el cuerpo de la víctima con pústulas y llagas y las orejas y los ojos se hacen más grandes. Cuando la posesión mental y corporal se ha completado la piel, se cae y deja paso a la piel arenosa que caracteriza al sukaan. En ese momento la persona deja de existir para dar vida al suukan.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d6, Notar d6, Saber de Soleimán d4, Pelear d6, Sigilo d8, Supervivencia d6
+* **Habilidades:** Atletismo d6, Notar d6, Saber de Suleimán d4, Pelear d6, Sigilo d8, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 9(6)
 * **Capacidades especiales:**
     * **Armadura +3:** Su piel áspera y con textura de arena le ofrece una buena protección.
@@ -751,7 +751,7 @@ El cheitan también transforma el cuerpo de la víctima con pústulas y llagas y
     * **Vida en el desierto:** Llevan tanto tiempo en el desierto que conocen sus secretos. Todas las tiradas de buscar agua y comida, orientarse, cazar o hacer trampas y emboscadas obtienen +2 a las de Supervivencia en el desierto.
     * **Garras:** FUE+d4
     * **Nactílopes:** Están acostumbrados a vivir de noche y las penalizaciones por poca luz se reducen a la mitad.
-    * **Hechizos:** Algunos habitantes puede tener 3 hechizos y 6 PP, normalmente de ataque y Saber de Soleimán d6.
+    * **Hechizos:** Algunos habitantes puede tener 3 hechizos y 6 PP, normalmente de ataque y Saber de Suleimán d6.
 * **Equipo:** Herramientas de piedra
 * **TPC:** d6 (manada)
 
@@ -900,7 +900,7 @@ Puedes usar este secuaz desde guardias de la ciudad a soldados de elite, mercena
 Estamos hablando de cultistas de nivel bajo que se dedican a hacer el trabajo sucio de la secta. Serían los guardias, los matones, los ayudantes de laboratorio, etc. No tiene ningún tipo de poder, solo obedecen órdenes a la espera de ascender en la estructura del culto.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Idioma materno d6, Saber de Soleimán d4, Notar d6, Pelear d6, Reparar d6
+* **Habilidades:** Atletismo d6, Idioma materno d6, Saber de Suleimán d4, Notar d6, Pelear d6, Reparar d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Elige 1 o más: Alerta, Callejear, Responsable, Ritualista
@@ -911,7 +911,7 @@ Estamos hablando de cultistas de nivel bajo que se dedican a hacer el trabajo su
 Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pie de campo según las órdenes de sus círculos superiores dentro del culto o la secta. Tienen acceso a los recursos económicos y mágicos.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Humanidades d8, Idioma materno d8, Idioma extranjero d6, Saber de Soleimán d8, Notar d6, Pelear d6
+* **Habilidades:** Atletismo d4, Humanidades d8, Idioma materno d8, Idioma extranjero d6, Saber de Suleimán d8, Notar d6, Pelear d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Nuevos Poderes x2, Puntos de poder, Trasfondo arcano (Sihr). Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista

@@ -1,6 +1,10 @@
 # Reglas de ambientación
 
+\sinc
+
 ## Toques de ambientación
+
+\conc
 
 Hay una serie de conceptos que son importantes para que tus aventuras tenga un toque a las Mil y Una Noches y le resulte diferente a tu mesa. Son cosas pequeñas, pero que creo sinceramente que pueden hacer las sesiones diferentes.
 
@@ -32,7 +36,13 @@ Los cuentos deberían acabar con frases tales como:
 
 De todas formas esto son solo consejos y tuya es la elección de seguirlos o no.
 
+\sp
+
+\sinc
+
 ## Creación de personaje
+
+\conc
 
 Hay una serie de reglas en esta ambientación que modifican las normas generales de creación de personajes. No son muchas, ni muy complicadas, pero tienen su sentido dentro de esta extraña ambientación. Principalmente, son cambios en las habilidades y la regla de Sin parangón que hace único a tu schahriar.
 
@@ -68,17 +78,23 @@ Esta regla es totalmente opcional, pero muy recomendable para darle a tus schahr
 
 Muchos de los personajes principales de los cuentos de las 1001 Noches están marcados por los hados. Se ha dictado que son especiales y son imprescindibles para que se pueda cumplir algún tipo de designio. Solo Aladino puede abrir la cueva de las Maravillas y solo Juder el pescador puede encontrar el tesoro de Al-Schamardal.
 
-En la creación del personaje deberán establecer un destino para su schahriar. Tienen que ser ideas casi imposibles y maravillosas como «Casarse con la hija o hijo del Califa», «Visitar las estrellas», «Convertirme en una amazona», «Encontrar la tumba perdida de Soleimán» o «Tener un efrit servidor».
+En la creación del personaje deberán establecer un destino para su schahriar. Tienen que ser ideas casi imposibles y maravillosas como «Casarse con la hija o hijo del Califa», «Visitar las estrellas», «Convertirme en una amazona», «Encontrar la tumba perdida de Suleimán» o «Tener un efrit servidor».
 
 Cada vez que al schahriar le salga un jóker el Destino se pondrá en movimiento y hará avanzar su historia. Quizás aparezca un familiar desaparecido que le entregue una reliquia familiar y que le ponga en camino o le haga avanzar en el cumplimiento de su destino.
 
 Debería ser inmediato, ya que si es inesperado será más impactante. Es importante que tengas preparados o por lo menos bocetado los destinos de tus schahriars por si sale el jóker de repente en mitad de una noche.
 
-Pero aquí también jugamos con los Mitos de Cthulhu y lo normal es que todo el mundo acabe muerto o acabe en el maristán. Así que para representar todo esto, Scheherazade deberá elegir un destino aciago asociado al destino que eligió el schahriar. Por ejemplo, «Encontrar la tumba perdida de Soleimán» puede suponer que encuentres la tumba, pero no que sobrevivas y salgas con los tesoros de Soleimán. «Visitar las estrellas» puede convertirse en una pesadilla y que termines en el centro del universo bailando para Azathoth.
+Pero aquí también jugamos con los Mitos de Cthulhu y lo normal es que todo el mundo acabe muerto o acabe en el maristán. Así que para representar todo esto, Scheherazade deberá elegir un destino aciago asociado al destino que eligió el schahriar. Por ejemplo, «Encontrar la tumba perdida de Suleimán» puede suponer que encuentres la tumba, pero no que sobrevivas y salgas con los tesoros de Suleimán. «Visitar las estrellas» puede convertirse en una pesadilla y que termines en el centro del universo bailando para Azathoth.
 
 Para elaborar el destino aciago debes pensar esos genios malvados de cuentos y películas que tergiversan los deseos de los humanos para buscarles la desgracia, la perdición e incluso la muerte.
 
+\sp
+
+\sinc
+
 ## Nuevas desventajas
+
+\conc
 
 Esta ambientación es un mundo muy especial que claramente va a tener sus desventajas propias, unas más centradas en los Mitos y otras más cercanas a las 1001 Noches y la mitología que le rodea.
 
@@ -170,9 +186,15 @@ A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el 
 
 Tu mente artística e imaginativa es muy susceptible a las ondas mentales de Bahamūt (Cthulhu), teniendo terribles pesadillas sobre este poderoso ser y su tumba acuática.
 
-Siempre que te duermas sin tener deseos, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un deseo y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Saber de Soleimán para tratar de sacar información sobre Bahamūt.
+Siempre que te duermas sin tener deseos, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un deseo y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Saber de Suleimán para tratar de sacar información sobre Bahamūt.
+
+\sp
+
+\sinc
 
 ## Nuevas ventajas
+
+\conc
 
 Como se explicará más adelante, desaparecen una serie de ventajas, bien porque son sustituidas por otras nuevas o bien porque no tienen sentido dentro del universo de las 1001 Noches:
 
@@ -251,25 +273,31 @@ Exige tener Afinidad Mágica, ser Experimentado y haber conseguido un grimorio m
 
 Como no exige el gasto de un avance, puede cogerse cuando se quiera cumpliendo los requisitos, pero debe cogerse entre aventuras o cuando pasen grandes lapsos de tiempo durante los que se ha podido estudiar o practicar las enseñanzas del libro de hechizos.
 
-**Habilidad arcana:** Saber de Soleimán  
+**Habilidad arcana:** Saber de Suleimán  
 **Poderes iniciales:** 3  
 **Puntos de poder (PP):** 0 (Tiene para empezar los que otorga Afinidad mágica).
 
 Todo personaje dispone de tantos puntos de poder diarios como su nivel de Espíritu que recupera tras una noche de descanso (8 horas de descanso sin interrupciones). Si gasta avances para subir su Espíritu, suben sus PP.
 
+\sp
+
+\sinc
+
 ## Nuevas habilidades
+
+\conc
 
 En 1001 Ghūles puedes hacer uso de todas las habilidades básicas de SWEA a excepción de habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que no hay vehículos autopropulsados, equipos eléctricos u ordenadores.
 
-Ocultismo pasa a ser parte de la habilidad Saber de Soleimán. Cosas muy sencillas como prevenir el mal de ojo puede ser conocidas por la gente de a pie usando Conocimientos generales.
+Ocultismo pasa a ser parte de la habilidad Saber de Suleimán. Cosas muy sencillas como prevenir el mal de ojo puede ser conocidas por la gente de a pie usando Conocimientos generales.
 
 Aquí te presentamos nuevas habilidades específicas de esta ambientación.
 
-### Saber de Soleimán
+### Saber de Suleimán
 
-El rey Soleimán (rey salomón en la tradición cristiana) fue el más poderoso mago que se ha conocido. Tan poderoso que, por ejemplo, era capaz de encerrar a un yinns en un recipiente, sellándolo con su símbolo. Se dice que con su ejército derroto a una hueste de 10.000 efrits. Además, estudió medicina, ingeniería, astronomía y otras ciencias para fusionarlas con sus artes mágicas.
+El rey Suleimán (rey salomón en la tradición cristiana) fue el más poderoso mago que se ha conocido. Tan poderoso que, por ejemplo, era capaz de encerrar a un yinns en un recipiente, sellándolo con su símbolo. Se dice que con su ejército derroto a una hueste de 10.000 efrits. Además, estudió medicina, ingeniería, astronomía y otras ciencias para fusionarlas con sus artes mágicas.
 
-Saber de Soleimán representa los conocimientos que tienes sobre Ocultismo en general y los Mitos de Cthulhu, los monstruos, los hechizos, ritos, objetos, etc. y la historia que hay detrás de ellos. También puede servirte para identificar maldiciones y quitarlas o para identificar puntos débiles de seres de los Mitos.
+Saber de Suleimán representa los conocimientos que tienes sobre Ocultismo en general y los Mitos de Cthulhu, los monstruos, los hechizos, ritos, objetos, etc. y la historia que hay detrás de ellos. También puede servirte para identificar maldiciones y quitarlas o para identificar puntos débiles de seres de los Mitos.
 
 La gente que practica la magia no es muy dada a revelar sus secretos y los libros que hablan sobre ello no son de fácil acceso, así que no es muy normal que haya personas que tengan estos conocimientos.
 
@@ -297,7 +325,13 @@ También tenemos otros idiomas no humanos. Son idiomas hablados por los extraño
 * Naacal, la lengua que habla la serpigente.
 * Pnakótico, es el idioma con el que escriben los abu-qith, ya que hablan con una mezcla de chasquidos de sus pinzas y de telepatía.
 
+\sp
+
+\sinc
+
 ## Horror y cordura
+
+\conc
 
 El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo schahriar tiene 4 puntos de cordura y si pierde todos, caerá en la locura y pasará a ser un PNJ al servicio de Scheherazade.
 
@@ -307,169 +341,41 @@ Si falla la tirada, deberá hacer una segunda tirada de Espíritu, si saca más 
 
 Puede evitarse la pérdida de puntos de cordura, adquiriendo un trastorno mental permanente con un máximo de 3 trastornos permanentes o gastando todos tus deseos (mínimo 1) y adquiriendo un trastorno mental de forma temporal.
 
+\sinc
+
 ### Tabla de Trastornos
 
-♥
+|&nbsp;|♥|♣|♠|♦|
+|---|---|---|---|---|
+|2-3|Paranoia (menor)|Delirio (menor)|Fobia (menor)|Manía (menor)|
+|4-5|Envidioso (menor)|Hábito (menor)|Fobia (menor)|Trastorno de ansiedad generalizada (menor)|
+|6-7|Fobia (menor)|Manía (menor)|Delirio (menor)|Fobia (menor)|
+|8-9|Amnesia y flashbacks (menor)|Ataques de pánico (menor)|Fobia (menor)|Arrogante (mayor)|
+|10|Avaricioso (menor)|Megalomanía (menor)|Envidioso (mayor)|Arrogante (mayor)|
+|J|Ataques de pánico (menor)|Megalomanía (mayor)|Avaricioso (menor)|Fobia (mayor)|
+|Q|Trastorno de ansiedad generalizada (mayor)|Avaricioso (mayor)|Exceso de Confianza (mayor)|Sanguinario|
+|K|Trastorno obsesivo-compulsivo (mayor)|Amnesia y flashbacks (mayor)|Ataques de pánico (mayor)|Delirio (mayor)|
+|A|Fobia (mayor)|Paranoia (Mayor)|Hábito (mayor)|Depresión (mayor)|
 
-♣
-
-♠
-
-♦
-
-2-3
-
-Paranoia (menor)
-
-Delirio (menor)
-
-Fobia (menor)
-
-Manía (menor)
-
-4-5
-
-Envidioso (menor)
-
-Hábito (menor)
-
-Fobia (menor)
-
-Trastorno de ansiedad generalizada (menor)
-
-6-7
-
-Fobia (menor)
-
-Manía (menor)
-
-Delirio (menor)
-
-Fobia (menor)
-
-8-9
-
-Amnesia y flashbacks (menor)
-
-Ataques de pánico (menor)
-
-Fobia (menor)
-
-Arrogante (mayor)
-
-10
-
-Avaricioso (menor)
-
-Megalomanía (menor)
-
-Envidioso (mayor)
-
-Arrogante (mayor)
-
-J
-
-Ataques de pánico (menor)
-
-Megalomanía (mayor)
-
-Avaricioso (menor)
-
-Fobia (mayor)
-
-Q
-
-Trastorno de ansiedad generalizada (mayor)
-
-Avaricioso (mayor)
-
-Exceso de Confianza (mayor)
-
-Sanguinario
-
-K
-
-Trastorno obsesivo-compulsivo (mayor)
-
-Amnesia y flashbacks (mayor)
-
-Ataques de pánico (mayor)
-
-Delirio (mayor)
-
-A
-
-Fobia (mayor)
-
-Paranoia (Mayor)
-
-Hábito (mayor)
-
-Depresión (mayor)
+\conc
 
 Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Para decidir el trastorno deberá sacar una carta y revisar la tabla de Trastornos. Si es temporal deberá consultar la tabla de Duración del trastorno. Los trastornos permanentes repetidos pueden apilarse si son menores, convirtiéndose en un trastorno mayor. Si no, tendrá que volver a coger una carta nueva. Los temporales simplemente ampliarán el tiempo.
 
+\sinc
+
 ### Tabla de Duración del trastorno
 
-♥
+|&nbsp;|♥|♣|♠|♦|
+|---|---|---|---|---|
+|2 - 10|8 turnos|8 minutos|8 horas|8 días|
+|J|10 turnos|10 minutos|10 horas|10 días|
+|Q|12 turnos|12 minutos|12 horas|12 días|
+|K|14 turnos|14 minutos|14 horas|14 días|
+|As|20 turnos|20 minutos|20 horas|20 días|
 
-♣
+\conc
 
-♠
-
-♦
-
-2 - 10
-
-8 turnos
-
-8 minutos
-
-8 horas
-
-8 días
-
-J
-
-10 turnos
-
-10 minutos
-
-10 horas
-
-10 días
-
-Q
-
-12 turnos
-
-12 minutos
-
-12 horas
-
-12 días
-
-K
-
-14 turnos
-
-14 minutos
-
-14 horas
-
-14 días
-
-As
-
-20 turnos
-
-20 minutos
-
-20 horas
-
-20 días
-
-En condiciones normales, si se saca un Joker en cualquier carta relacionada con trastornos, no solo no adquieres el trastorno, sino que recuperas un punto de cordura.
+En condiciones normales, si se saca un jokér en cualquier carta relacionada con trastornos, no solo no adquieres el trastorno, sino que recuperas un punto de cordura.
 
 La TPC del monstruo es específica para cada schahriar, pero solo debe hacerse una tirada con cada tipo de monstruo, aunque la cantidad sí puede modificar la TPC. Es decir, que si nos encontramos con 4 profundos y una docena de ghūles. Cada jugador deberá hacer una tirada enfrentada contra los profundos y otra contra los ghūles.
 
@@ -484,91 +390,20 @@ Las TPCs pueden ser modificadas en determinadas situaciones.
 * **Pásame el haschisch:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, masticando una buena pieza de haschisch antes de entrar de noche en un cementerio infestado de ghūles. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, etc. y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
 * **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
 
+\sinc
+
 ### Tabla de Modificación del TPC por grandes grupos
 
-Tamaño de la manada
+|Tamaño de la manada|d4|d6|d8|d10|d12|
+|---|---|---|---|---|---|
+|hasta tamaño del grupo (0)|d4|d6|d8|d10|d12|
+|hasta tamaño del grupo x 2 (+1)|d6|d8|d10|d12|d12+1|
+|hasta tamaño del grupo x 5 (+2)|d8|d10|d12|d12+1|d12+2|
+|hasta tamaño del grupo x 10 (+3)|d10|d12|d12+1|d12+2|d12+3|
+|hasta tamaño del grupo x 20 (+5)|d12|d12+1|12+2|d12+3|d12+4|
+|hasta tamaño del grupo x 50 (+6)|d12+1|d12+2|d12+3|d12+4|d12+5|
 
-d4
-
-d6
-
-d8
-
-d10
-
-d12
-
-hasta tamaño del grupo (0)
-
-d4
-
-d6
-
-d8
-
-d10
-
-d12
-
-hasta tamaño del grupo x 2 (+1)
-
-d6
-
-d8
-
-d10
-
-d12
-
-d12+1
-
-hasta tamaño del grupo x 5 (+2)
-
-d8
-
-d10
-
-d12
-
-d12+1
-
-d12+2
-
-hasta tamaño del grupo x 10 (+3)
-
-d10
-
-d12
-
-d12+1
-
-d12+2
-
-d12+3
-
-hasta tamaño del grupo x 20 (+5)
-
-d12
-
-d12+1
-
-12+2
-
-d12+3
-
-d12+4
-
-hasta tamaño del grupo x 50 (+6)
-
-d12+1
-
-d12+2
-
-d12+3
-
-d12+4
-
-d12+5
+\conc
 
 [![Gnarled Monster - Doré, Gustave](./images/monstruo-nudoso.jpg)](https://www.oldbookillustrations.com/illustrations/gnarled-monster/ "Gnarled Monster - Doré, Gustave") 
 
@@ -899,7 +734,7 @@ A discreción de Scheherazade, puede usarse en rituales para conectar con entida
 
 #### Bang cretense
 
-> … "¡Oh efrit del anillo! ¿conoces las diversas especies de polvos soporíferos?" El efrit contestó: "Es lo que mejor conozco!" Aladino dijo: "¡En ese caso te ordeno que me traigas una onza de bang cretense, una sola toma del cual sea capaz de derribar a un elefante!" Y desapareció el efrit, pero para volver al cabo de un momento, llevando en los dedos una cajita, que entregó a Aladino, diciéndole: "¡Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina!" … Y se fué.
+> … "¡Oh efrit del anillo! ¿conoces las diversas especies de polvos soporíferos?" El efrit contestó: "Es lo que mejor conozco!" Aladino dijo: "¡En ese caso te ordeno que me traigas una onza de bang cretense, una sola toma del cual sea capaz de derribar a un elefante!" Y desapareció el efrit, pero para volver al cabo de un momento, llevando en los dedos una cajita, que entregó a Aladino, diciéndole: "¡Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina!" … Y se fue.
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 769)
 

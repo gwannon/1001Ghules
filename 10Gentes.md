@@ -16,7 +16,7 @@ Las sugerencias de interpretación están pensadas para ayudarte a darles carác
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente
 * Bahlul el Cuerdo, bufón de la corte
 * Abu-Nowas, poeta del califa y el mayor juerguista de Bagdad
-* Hachem ben Soleimán, el mejor cantor e intérprete de Bagdad
+* Hachem ben Suleimán, el mejor cantor e intérprete de Bagdad
 * ’Inān bint ’Abd-Alāh, poetisa y qiyan del Califa
 * Yacub Abu-Yussef, kadí supremo de Bagdad
 * Ahmad-la-Tiña, antiguo criminal y jefe de policía de Bagdad
@@ -52,7 +52,7 @@ Las sugerencias de interpretación están pensadas para ayudarte a darles carác
 > 
 > **Referencia:** Historia de la jovenzuela obra maestra de los corazones, lugartenienta de los pájaros (n. 929)
 
-[![Harun Al Rashid en su tienda con los sabios de oriente por Gaspare Landi](./images/harun.jpg)](https://www.ecured.cu/Archivo:Harun_al-Rashid_(763-809).jpg "Harun Al Rashid en su tienda con los sabios de oriente por Gaspare Landi") 
+[![Harún Al-Rashid en su tienda con los sabios de oriente por Gaspare Landi](./images/harun.jpg)](https://www.ecured.cu/Archivo:Harun_al-Rashid_(763-809).jpg "Harún Al-Rashid en su tienda con los sabios de oriente por Gaspare Landi") 
 
 Harún Al-Raschid es el peor califa de la dinastía abbasí. Harún era el segundo al trono y realmente no quería el puesto. Prefería pasarse el día vagueando y disfrutando de todo lo que su posición y sus riquezas le daban, manjares, libaciones, baños y masajes, sexo ocasional, etc. Pero tras la muerte en combate de su hermano mayor, se convirtió sin quererlo en el máximo dirigente de un bastísimo imperio.
 
@@ -64,21 +64,21 @@ La mayoría de sus escapadas suelen empezar con tremendas borracheras y suelen a
 
 Si hay algo destacable en su persona es su increíble suerte. Tal es su suerte que ha evitado varios intentos de asesinato y que, a pesar de sus imprudencias, haberse librado de terribles accidentes.
 
-Harun siempre va acompañado de su portaalfanje o guardaespaldas personal, Massrur ([Guardia de palacio](#anchorsoldado) comodín con ventaja Grande). Massrur también hace las veces de verdugo del Califa y la verdad que tiene bastante trabajo.
+Harún siempre va acompañado de su portaalfanje o guardaespaldas personal, Massrur ([Guardia de palacio](#anchorsoldado) comodín con ventaja Grande). Massrur también hace las veces de verdugo del Califa y la verdad que tiene bastante trabajo.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d4, Vigor d6
-* **Habilidades:** Atletismo d6, Cabalgar d8, Ciencias d4, Conocimientos Generales d4, Idioma materno d6, Humanidades d6, Interpretar d4, Notar d4, Pelear d6, Persuadir d4, Saber de Soleimán d4, Sigilo d4
+* **Habilidades:** Atletismo d6, Cabalgar d8, Ciencias d4, Conocimientos Generales d4, Idioma materno d6, Humanidades d6, Interpretar d4, Notar d4, Pelear d6, Persuadir d4, Saber de Suleimán d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** Hábito (mayor, adicto al sexo), Obligaciones (mayor, deberes de Califa), Suspicaz (menor)
 * **Ventajas:** Afinidad mágica, Alcurnia, Muy afortunado, Rico como un sultán
-* **Equipo:** Ropajes carísimos y pretenciosos y todo lo que se le ocurra, cualquier capricho sobre todo de comida y bebida. Si está de incógnito, llevará ropa caras, pero no pretenciosas, pero seguramente portará alguna botella de licor o comida callejera.
+* **Equipo:** Ropajes carísimos y pretenciosos y todo lo que se le ocurra, cualquier capricho sobre todo de comida y bebida. Si está de incógnito, llevará ropas caras, pero no pretenciosas, pero seguramente portará alguna botella de licor o comida callejera.
 
 **Sugerencia de interpretación:** Harún es muy sencillo de interpretar, solo tienes que ser lo más infantil y caprichoso posible. Sin olvidarte de ser totalmente despótico y de cogerte alguna rabieta de vez en cuando. Si tus schahriars le odian es que lo estás haciendo bien.
 
 ## Sett Zobeida, Califesa de Bagdad ☾
 
-> Cuentan que el Comendador de los Creyentes, Harún Al-Raschid, entró un día a dormir la siesta en las habitaciones de su esposa Sett Zobeida, y ya iba a echarse cuando notó precisamente en mitad del lecho una extensa mancha, fresca todavía, de cuyo origen no podía dudarse. Al ver aquello, se ennegreció el mundo ante el califa, que llegó al límite de la indignación. Hizo llamar al punto a Sett Zobeida, y con los ojos inflamados de cólera y temblándole la barba, le dijo: "¿De qué es esa mancha que hay en nuestro lecho?" Sett Zobeida acercó la cabeza a la mancha consabida, la olió y dijo: "Es de licor de hombre, ¡oh Emir de los Creyentes!" Conteniendo a duras penas el estallido de su cólera, exclamó él: "¿Y puedes explicarme la presencia de ese líquido aún tibio en un lecho donde no me he acostado contigo desde hace más de una semana?"  
-> Ella exclamó muy conmovida: "¡La fidelidad sobre mí y alrededor de mí ¡oh Emir de los Creyentes! ¿Acaso me acusas de fornicación?"
+> Cuentan que el Comendador de los Creyentes, Harún Al-Raschid, entró un día a dormir la siesta en las habitaciones de su esposa Sett Zobeida, y ya iba a echarse cuando notó precisamente en mitad del lecho una extensa mancha, fresca todavía, de cuyo origen no podía dudarse. Al ver aquello, se ennegreció el mundo ante el califa, que llegó al límite de la indignación. Hizo llamar al punto a Sett Zobeida, y con los ojos inflamados de cólera y temblándole la barba, le dijo: "¿De qué es esa mancha que hay en nuestro lecho?" Sett Zobeida acercó la cabeza a la mancha consabida, la olió y dijo: "Es de licor de hombre, ¡oh Emir de los Creyentes!" Conteniendo a duras penas el estallido de su cólera, exclamó él: «¿Y puedes explicarme la presencia de ese líquido aún tibio en un lecho donde no me he acostado contigo desde hace más de una semana?»
+> Ella exclamó muy conmovida: «¡La fidelidad sobre mí y alrededor de mí ¡oh Emir de los Creyentes! ¿Acaso me acusas de fornicación?»s
 > 
 > **Referencia:** El flagrante delito de Sett Zobeida (n. 380)
 
@@ -112,18 +112,18 @@ Giafar es el principal personaje de esta ambientación. Es el personaje alrededo
 
 Giafar es un barmáquidas (por eso se le llama Giafar al-Barmak). Esta familia persa es originaria de Afganistán, exactamente son descendientes del gran sacerdote budista Barmak del monasterio de Nawbahar.
 
-Los barmáquidas tiene una larga tradición de ministros, secretarios y visires al servicio de los primeros califas abbasies. De hecho el padre de Giafar, Yahía al-Barmak, sirvió al padre de Harun, Mansur al-Mahdi. Es por ello que desde muy pequeño fue preparado para que él y su hermano mayor, El-Fadl, fueran su sustituto cuando su padre se retirara.
+Los barmáquidas tiene una larga tradición de ministros, secretarios y visires al servicio de los primeros califas abbasies. De hecho el padre de Giafar, Yahía al-Barmak, sirvió al padre de Harún, Mansur al-Mahdi. Es por ello que desde muy pequeño fue preparado para que él y su hermano mayor, El-Fadl, fueran su sustituto cuando su padre se retirara.
 
 Giafar lleva toda su vida estudiando ciencias y humanidades como parte de su preparación para ser visir. Rápidamente descubrió el mundo del ocultismo y descubría que la magia se le daba muy bien, convirtiéndose con los años en un fabuloso mago. Dispone de una increíble biblioteca mágica con varios incunables de grandísimo valor.
 
-Giafar fue poseído por un abu-qith, seguramente por su excepcionalidad y su interés histórico. Durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisó sus archivos y averiguó su propia muerte por orden su señor y amigo, el Califa Harun Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
+Giafar fue poseído por un abu-qith, seguramente por su excepcionalidad y su interés histórico. Durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisó sus archivos y averiguó su propia muerte por orden su señor y amigo, el Califa Harún Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
 
 Giafar es budista como el resto de su familia, algo que han llevado en secreto durante siglos, ya que sería una vergüenza que el visir del califa no fuera de re islámica. Aunque corren rumores, nunca han podido ser demostrados, pero eso no quiere decir que no se hayan usado para envenenar el oído del califa contra Giafar.
 
 Giafar está felizmente casado y con hijos, pero tiene ciertos sentimientos por ’Inān bint ’Abd-Alāh, concubina del califa.
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d10, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d6, Cabalgar d4, Ciencias d10, Conocimientos Generales d4, Humanidades d10, Idioma Materno d10, Idioma Aklo d6, idioma Chino d6, Idioma Indio d6, Idioma Franco d6, Intimidar d8, Medicina d6, Notar d8, Saber de Soleimán d12+1, Persuadir d6, Pelear d8, Sigilo d4
+* **Habilidades:** Atletismo d6, Cabalgar d4, Ciencias d10, Conocimientos Generales d4, Humanidades d10, Idioma Materno d10, Idioma Aklo d6, idioma Chino d6, Idioma Indio d6, Idioma Franco d6, Intimidar d8, Medicina d6, Notar d8, Saber de Suleimán d12+1, Persuadir d6, Pelear d8, Sigilo d4
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (menor, conoce cuándo y cómo morirá), Secreto (Mayor, budista)
 * **Ventajas:** Afinidad mágica, Alcurnia, Canalización, Investigador, Nuevos poderes x3, Trasfondo arcano (Sihr), Puntos de poder x2, Temple
@@ -151,7 +151,7 @@ Cuando creció y fue elegida como jefa por su predecesora juro hacer lo que fuer
 Se hace mayor y tiene que buscar alguien que la sustituya, quizás alguno de tus schahriars atraiga el interés de Fátima y herede el cargo.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
-* **Habilidades:** Atletismo d6, Cabalgar d6, Conocimientos Generales d4, Idioma Materno d10, Medicina d6, Notar d4, Pelear d4, Persuadir d10, Reparar d6, Saber de Soleimán d6, Sigilo d6
+* **Habilidades:** Atletismo d6, Cabalgar d6, Conocimientos Generales d4, Idioma Materno d10, Medicina d6, Notar d4, Pelear d4, Persuadir d10, Reparar d6, Saber de Suleimán d6, Sigilo d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** Joven (menor), Heroica
 * **Ventajas:** Acaparadora, Afinidad mágica, Afortunada, Mujer de recursos
@@ -193,7 +193,7 @@ Alya desconoce todo esto, pero su tutor y consejero personal Mahmoud Assy está 
 
 **Sugerencia de interpretación:** La sangre de gente del mar corre por tus venas y se nota en tu carácter hosco y huraño. Sabes que Damasco no es tu lugar, es donde naciste, pero no donde deberías estar. Farfullas por lo bajo cuando te llevan lo contrario y sientes que nadie te comprende. Esos pieles blandas no te comprenden … ¿por qué les he llamado pieles blandas?
 
-Una tirada de Saber de Soleimán puede indicarte que hay algo extraño en la princesa, pero para detectar su auténtica esencia deberán sacar por lo menos 2 avances. Si tienen pruebas, como que puede aguantar muchos años bajo el agua o que aguanta enfermedades, venenos o alcohol mejor que el resto de la gente, solo necesitarán 1 avance, para descubrir la verdad.
+Una tirada de Saber de Suleimán puede indicarte que hay algo extraño en la princesa, pero para detectar su auténtica esencia deberán sacar por lo menos 2 avances. Si tienen pruebas, como que puede aguantar muchos años bajo el agua o que aguanta enfermedades, venenos o alcohol mejor que el resto de la gente, solo necesitarán 1 avance, para descubrir la verdad.
 
 ## Muhammad al-Lawati, explorador principal de la segunda expedición a la Ciudad de Bronce ☾
 
@@ -213,7 +213,7 @@ Siempre va acompañado por su camello Abu. Llevan juntos toda la vida, de hecho,
 No es un genio del shatranj, pero desde luego se le da bien. Todas las noches que no tiene guardia o alguna tarea que hacer las pasa jugando con Mahmoud Assy. Recibe unas palizas tremendas, pero espera que a la vuelta haya podido ganarle una partida. Si quieres ganártelo una forma muy sencilla, lo mejor es darle algún consejo de shatranj o enseñarle alguna apertura que desconozca.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d8, Cabalgar d8, Conocimientos Generales d6, Disparo d8, Idioma Materno d8, Notar d10, Persuadir d6, Pelear d10, Reparar d6, Saber de Soleimán d4, Sigilo d4, Supervivencia d10, Tácticas d6
+* **Habilidades:** Atletismo d8, Cabalgar d8, Conocimientos Generales d6, Disparo d8, Idioma Materno d8, Notar d10, Persuadir d6, Pelear d10, Reparar d6, Saber de Suleimán d4, Sigilo d4, Supervivencia d10, Tácticas d6
 * **Paso:** 6; **Parada:** 8(1); **Dureza:** 6
 * **Desventajas:** Impulsivo, Fobia (enoclofobia, miedo a las multitudes, mayor)
 * **Ventajas:** Afinidad mágica, Bloqueo, Leñador, Señor de las bestias, Temple
@@ -259,7 +259,7 @@ Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un 
 
 Ziba mantiene en secreto sus lazos con la Mano Dorada y mantiene una imagen pública de poderosa maga "bondadosa" y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
 
-Ziba quizás sea la maga más poderosa de todo Oriente Medio y si bien su poder no el comparable al Rey Soleimán puede vencer en combate mágico a humanos y yinns por igual.
+Ziba quizás sea la maga más poderosa de todo Oriente Medio y si bien su poder no el comparable al Rey Suleimán puede vencer en combate mágico a humanos y yinns por igual.
 
 Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutación y tiene gran una cantidad de azufre rojo, con lo que hacer oro a partir de plomo es muy fácil. Si gastase todo su azufre rojo podría tener su propia montaña de oro.
 
@@ -298,7 +298,7 @@ Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gra
 * **Ventajas:** Afinidad mágica, Ambidextro, Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
 * **Equipo:** Cimitarra mágica +1/+1(FUE+d8+1), Katar (FUE+d6), Jawshan (+4 peto, +3 piernas y brazos), Chakram, Arco recurvo con 10 flechas
 
-**Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Ziba lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de tí porque no saben por dónde vas a salir.
+**Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Ziba lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de ti porque no saben por dónde vas a salir.
 
 ## Hunayn ibn Ishaq, director de la Casa de la Sabiduría ☾
 
@@ -337,7 +337,7 @@ Bahlul el Cuerdo es el bufón de la corte, como su padre antes que él. Es una d
 
 [![Henri Regnault: A Chief of Abyssinia](./images/bahlul.jpg)](https://commons.wikimedia.org/wiki/File:Henri_Regnalt_-_Head_of_a_Moor_-_Stierch.jpg "Henri Regnault: A Chief of Abyssinia") 
 
-La propia Sett Zobeida ha cuidado las heridas de los latigazos que Harun ha mandado dar a su bufón por sus impertinencias. Tienen una serie de señas secretas para que cuando ella quiera, salga con sus tontadas y sus cabriolas y así despiste al Califa de los asuntos que tenía entre manos. No sería la primera vez que gracias a esto el Califa no ha declarado la guerra a otro país o ha sentenciado a muerte a gente de extraordinario valor.
+La propia Sett Zobeida ha cuidado las heridas de los latigazos que Harún ha mandado dar a su bufón por sus impertinencias. Tienen una serie de señas secretas para que cuando ella quiera, salga con sus tontadas y sus cabriolas y así despiste al Califa de los asuntos que tenía entre manos. No sería la primera vez que gracias a esto el Califa no ha declarado la guerra a otro país o ha sentenciado a muerte a gente de extraordinario valor.
 
 Lo más interesante fuera de la corte es que en su tiempo libre es un investigador amateur de lo extraño. Recorre la ciudad escuchando los rumores de los viajeros, los chismes de los parroquianos de las tabernas y los cotilleos que se susurran en el zoco. Filtra y estudio toda esa información e investiga todos los sucesos extraños que pasan en la ciudad.
 
@@ -376,9 +376,9 @@ Abu-Nowas es abiertamente bisexual y creo que es un detalle que deberías manten
 
 **Sugerencia de interpretación:** Eres un vividor, te gusta el buen comer, el buen beber, los hombres y las mujeres. También eres un pendenciero y un descarado. Todo esto alimenta tu poesía y se refleja en tus versos.
 
-## Hachem ben Soleimán, el mejor cantor e intérprete de Bagdad ☾
+## Hachem ben Suleimán, el mejor cantor e intérprete de Bagdad ☾
 
-> "Un día en que el califa Harún Al-Raschid había oído encomiar el talento del músico cantor Hachem ben Soleimán, envió a buscarle. Y cuando introdujeron al cantor Harún le hizo sentarse delante de él y le rogó que le dejase oír alguna composición suya. Y Hachem cantó una cantilena de tres versos con tanto arte y tan hermosa voz, que el califa exclamó, en el límite del entusiasmo y del arrebato: "Has estado admirable, ¡oh hijo de Soleimán! ¡Alah bendiga el alma de tu padre!". Y lleno de gratitud, se quitó del cuello un magnífico collar enriquecido de esmeraldas y colgantes tan gordos como peras almizcladas, y lo puso en el cuello del cantor.
+> "Un día en que el califa Harún Al-Raschid había oído encomiar el talento del músico cantor Hachem ben Suleimán, envió a buscarle. Y cuando introdujeron al cantor Harún le hizo sentarse delante de él y le rogó que le dejase oír alguna composición suya. Y Hachem cantó una cantilena de tres versos con tanto arte y tan hermosa voz, que el califa exclamó, en el límite del entusiasmo y del arrebato: "Has estado admirable, ¡oh hijo de Suleimán! ¡Alah bendiga el alma de tu padre!". Y lleno de gratitud, se quitó del cuello un magnífico collar enriquecido de esmeraldas y colgantes tan gordos como peras almizcladas, y lo puso en el cuello del cantor.
 > 
 > **Referencia:** El collar fúnebre (n. 984)
 
@@ -441,7 +441,7 @@ Lo que buscaban los al mighos y sus agentes humanos de la Progenie con todo esto
 [![Salah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS](./images/ibrahim.jpg)](https://www.deviantart.com/muratcalis/art/Salah-Al-Din-Yusuf-Ibn-Ayyub-354014608 "Salah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS") 
 
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d10, Vigor d10
-* **Habilidades:** Atletismo d10, Conocimientos Generales d8, Disparar d8, Idioma Aklo d8, Idioma materno d8, Investigar d6, Notar d8, Pelear d12, Persuadir d8, Saber de Soleimán d8, Sigilo d6, Supervivencia d6, Tácticas d10
+* **Habilidades:** Atletismo d10, Conocimientos Generales d8, Disparar d8, Idioma Aklo d8, Idioma materno d8, Investigar d6, Notar d8, Pelear d12, Persuadir d8, Saber de Suleimán d8, Sigilo d6, Supervivencia d6, Tácticas d10
 * **Paso:** 6; **Parada:** 8; **Dureza:** 11(4)
 * **Desventajas:** Secreto (mayor, líder de la Progenie de la Luna), Despiadado (mayor)
 * **Ventajas:** Afinidad mágica, Berserk, Contraataque, Nervios de acero, Puntos de poder, Trasfondo arcano (Sihr)
@@ -466,7 +466,7 @@ Bahram es el líder de la secta del Fuego y de la Luz y vive para servir a su se
 En el momento en que huele algo (persona, objeto, ritual, etc.) que le permita acercarse a Nardún centra toda su atención en ese algo y lo persigue como un perro de presa usando todos sus recursos personales y de la secta y sin importarle si tiene que robar, torturar o asesinar.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Ciencias d6, Conocimientos Generales d10, Humanidades d6, Idioma materno d10, Medicina d6, Notar d6, Pelear d8, Persuadir d4, Saber de Soleimán d10, Sigilo d6, Reparar d8
+* **Habilidades:** Atletismo d4, Ciencias d6, Conocimientos Generales d10, Humanidades d6, Idioma materno d10, Medicina d6, Notar d6, Pelear d8, Persuadir d4, Saber de Suleimán d10, Sigilo d6, Reparar d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 5
 * **Desventajas:** Hábito (mayor, piromanía), Paranoia (mayor), Megalomanía (mayor)
 * **Ventajas:** Afinidad mágica, Concentración, Nuevos poderes, Puntos de poder, Trasfondo arcano (Sihr)
@@ -516,7 +516,7 @@ En esas ocasiones tiene un lado oscuro donde es capaz de tergiversar y retorcer 
 Como hombre de leyes es terriblemente tradicional, por no decir que retrogrado, rancio y reaccionario. De hecho, trata por todos los medios de que su hija Zoraida no se relacione sentimentalmente con la Sett Zahía, la gran Maestra.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d4
-* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Humanidades d8 (Especialización Leyes), Idioma Materno d4, Investigar d10, Latrocinio d6, Notar d8, Pelear d4, Persuadir d4, Saber de Soleimán d4, Sigilo d4, Tácticas d8
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Humanidades d8 (Especialización Leyes), Idioma Materno d4, Investigar d10, Latrocinio d6, Notar d8, Pelear d4, Persuadir d4, Saber de Suleimán d4, Sigilo d4, Tácticas d8
 * **Paso:** 5; **Parada:** 4; **Dureza:** 4
 * **Desventajas:** Anciano (Mayor), Juramento (Mayor, Respetar la ley)
 * **Ventajas:** Afinidad mágica, Alcurnia, Alerta
@@ -620,7 +620,7 @@ Dalila es una buena cuidadora de palomas mensajeras y tiene su propio palomar. P
 
 ## Zeinab la embustera, hija de Dalila la taimada y su lugarteniente ☾
 
-> Entonces Zeinab, que era una joven graciosa y esbelta con ojos oscuros en un rostro encantador y claro, se levantó al punto y se vistió con gran elegancia y se veló la cara con una ligera muselina de seda, de modo que el brillo de sus ojos era más aterciopelado y subyugante. Adornada a la sazón de esta manera, fué a abrazar a su madre, y le dijo:  
+> Entonces Zeinab, que era una joven graciosa y esbelta con ojos oscuros en un rostro encantador y claro, se levantó al punto y se vistió con gran elegancia y se veló la cara con una ligera muselina de seda, de modo que el brillo de sus ojos era más aterciopelado y subyugante. Adornada a la sazón de esta manera, fue a abrazar a su madre, y le dijo:  
 > "¡Oh madre! ¡juro por la integridad de mi candado intacto y cerrado, que me adueñaré de los cuarenta y uno y serán mi juguete!"\[…\]  
 > Entonces Zeinab arrastró los cadáveres de los pies uno por uno y los arrojó a lo último de la tienda, amontonándolos unos sobre otros, y escondiéndolos debajo de una manta grande, corrió por delante de ellos una amplia cortina, y salió para apostarse de nuevo en la puerta de la taberna.
 > 
@@ -635,7 +635,7 @@ Está especializada en timos y estafas. También es una carterista de mucho nive
 Su principal defecto es su carácter vengativo, que hace que se meta en estúpidas venganzas, muchas veces con gente con la que no debiera. Por suerte también es bastante afortunada y suele caer de pies cuando las cosas se ponen complicadas.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conocimientos Generales d8, Interpretar d8, Idioma materno d8, Latrocinio d10, Notar d8, Pelear d6, Persuadir d10, Saber de Soleimán d4, Sigilo d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d8, Interpretar d8, Idioma materno d8, Latrocinio d10, Notar d8, Pelear d6, Persuadir d10, Saber de Suleimán d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Buscada (Mayor), Vengativa (mayor)
 * **Ventajas:** Afinidad mágica, Afortunada, Callejear, Maquillaje
@@ -693,7 +693,7 @@ Si saliera a la luz este secreto, algún enemigo del Califa podría intentar sec
 Sett Zahía es abiertamente lesbiana y creo que es un detalle que deberías mantener en tus aventuras. Está locamente enamorada de Zora, la hija de Yacub Abu-Yussef, kadí supremo de Bagdad. La tragedia es que si bien es un amor correspondido, es imposible por la sociedad en la que viven.
 
 * **Atributos:** Agilidad d6, Astucia d12, Espíritu d10, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Ciencias d12, Conocimientos Generales d6, Humanidades d12+2, Todos los idiomas normales humanos d12, Interpretar d8, Medicina d12, Notar d10, Pelear d4, Persuadir d4, Saber de Soleimán d10, Sigilo d4, Tácticas d12
+* **Habilidades:** Atletismo d6, Ciencias d12, Conocimientos Generales d6, Humanidades d12+2, Todos los idiomas normales humanos d12, Interpretar d8, Medicina d12, Notar d10, Pelear d4, Persuadir d4, Saber de Suleimán d10, Sigilo d4, Tácticas d12
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** Pacifista (Menor), Secreto (Mayor, es hija de una concubina del padre del Califa Harún Al-Raschid, por tanto, su hermanastra).
 * **Ventajas:** Afinidad mágica, Erudito (Humanidades) Lingüista, Cuentacuentos
@@ -720,7 +720,7 @@ Debido a su gran inteligencia y sus gustos necrófagos se ha convertido en un ex
 También es una experta albañil y cantera y cuando tiene tiempo se dedica a restaurar las tumbas más viejas de su cementerio. De hecho, muchas veces el Consejo no le paga sus servicios en oro, sino que le da herramientas y materiales de construcción.
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d8, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Latrocinio d6, Medicina d4, Notar d8, Pelear d8, Persuadir d4, Saber de Soleimán d8, Repara d6, Sigilo d10
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Latrocinio d6, Medicina d4, Notar d8, Pelear d8, Persuadir d4, Saber de Suleimán d8, Repara d6, Sigilo d10
 * **Paso:** 6; **Parada:** 6; **Dureza:** 7(1)
 * **Desventajas:** Bocazas
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Puntos de poder

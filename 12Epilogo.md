@@ -22,7 +22,7 @@ Toda esta ambientación está muy influenciada por el juego de rol de “La Llam
 
 En esta ambientación no se busca la veracidad histórica, empezando con que sus dos piedras fundacionales, las 1001 Noches y los mitos de Cthulhu son obras de ficción, los detalles y hechos que se narran en estas páginas no tienen ninguna base científica. Se ha intentado darle una pátina histórica y geográfica, pero en ningún caso buscando el realismo.
 
-Veamos un ejemplo, dos personajes históricos de la ciudad de Bagdad, el califa Harún Al-Raschid y el sabio Hunayn ibn Ishaq nunca llegaron a conocerse porque cuando el califa murió, el sabio Hunayn no había nacido todavía. Sin embargo, en este mundo comparten época y tienen sus más y sus menos. Otro ejemplo es Sett Zahía, que es hermana del califa Al-Raschid, pero un descendiente de Harun al-Raschid que gobernó en el siglo XII. No obstante, me pareció interesante que conviviesen en el mismo espacio temporal.
+Veamos un ejemplo, dos personajes históricos de la ciudad de Bagdad, el califa Harún Al-Raschid y el sabio Hunayn ibn Ishaq nunca llegaron a conocerse porque cuando el califa murió, el sabio Hunayn no había nacido todavía. Sin embargo, en este mundo comparten época y tienen sus más y sus menos. Otro ejemplo es Sett Zahía, que es hermana del califa Al-Raschid, pero un descendiente de Harún Al-Raschid que gobernó en el siglo XII. No obstante, me pareció interesante que conviviesen en el mismo espacio temporal.
 
 \sp
 

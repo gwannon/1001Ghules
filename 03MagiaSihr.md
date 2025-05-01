@@ -28,13 +28,13 @@ Un combate o curar a tus aliados son interrupciones graves, levantarte de tu alc
 
 Toda mejora de poderes mágicos implica gastar avances y la lectura de un grimorio al que le queden Niveles de Poder (NP).
 
-Cada vez que lees un grimorio y usas [esa lectura](#anchorleergrimorios) para subir tu habilidad Saber de Soleimán o para aprender alguna ventaja mágica, el grimorio pierde un NP para tí, hasta que llega a cero y ya no puedes aprender más cosas de él.
+Cada vez que lees un grimorio y usas [esa lectura](#anchorleergrimorios) para subir tu habilidad Saber de Suleimán o para aprender alguna ventaja mágica, el grimorio pierde un NP para ti, hasta que llega a cero y ya no puedes aprender más cosas de él.
 
-Que para tí tenga NP 0 no quiere decir que otras personas no puedan aprender magia de él, ya que para esa persona el NP estará al máximo. Puedes:
+Que para ti tenga NP 0 no quiere decir que otras personas no puedan aprender magia de él, ya que para esa persona el NP estará al máximo. Puedes:
 
 * dejar libremente que cada schahriar gaste los NP del libro como quiera,
 * fijar en que exactamente se puede gastar los NP antes de dar el libro a tus schahriar
-* o un modo mixto en el que el primer lector deja fijo que se aprende de él libro con sus decisiones a la hora de gastar sus avances y los siguientes lectores se tienen que ceñir a esa lista de gastos.
+* o un modo mixto en el que el primer lector deja fijo que se aprende del libro con sus decisiones a la hora de gastar sus avances y los siguientes lectores se tienen que ceñir a esa lista de gastos.
 
 ## Ventajas mágicas
 
@@ -63,7 +63,7 @@ Recuperación rápida supondrá que necesitará la mitad de tiempo de descanso p
 
 Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, funcionarán normalmente, pero puede que haya ventajas de otras ambientaciones que quieras usar y que tengas que adaptar teniendo en cuenta estas reglas.
 
-* Los puntos de poder se basan en Espíritu. Si una ventaja da/quita puntos de poder no será un valor fijo, sino basado en el nivel de Espíritu del personaje.
+* Los puntos de poder se basan en Espíritu. Si una ventaja da o quita puntos de poder no será un valor fijo, sino basado en el nivel de Espíritu del personaje.
 * La adquisición de ventajas que den (como Nuevos poderes) o mejoren poderes debe estar asociadas al estudio de grimorios malditos y al gasto de su nivel de poder.
 
 ## Poderes
@@ -86,7 +86,7 @@ El cambio de forma es un poder muy común entre los seres de las 1001 Noches, pe
 
 ### Captura
 
-Estamos hablando de desde muros de tierra que aprisionan a la víctima a convertirte en piedra de cintura para abajo. En versiones más lovecraftsianas podemos ver como pseudópodos de todo tipo que atrapan a la víctima, arenas movedizas o zarzas endemoniadas que se enroscan en tus piernas.
+Estamos hablando de desde muros de tierra que aprisionan a la víctima a convertirte en piedra de cintura para abajo. En versiones más lovecraftianas podemos ver como pseudópodos de todo tipo que atrapan a la víctima, arenas movedizas o zarzas endemoniadas que se enroscan en tus piernas.
 
 ### Castigo
 
@@ -100,7 +100,7 @@ Algo muy medieval y bastante bíblico es dejar ciego a tu oponente tanto de form
 
 [![The Fisherman Wished to Run Away - Rhead, Louis](./images/huge-monster.jpg)](https://www.oldbookillustrations.com/illustrations/huge-monster/ "The Fisherman Wished to Run Away - Rhead, Louis") 
 
-Los alientos de fuego o pestilentes o incluso los pedos venenosos son comunes entre los monstruos de las 1001 noches. Los magos, siguiendo la tradición del autor de Providence, deberían poder lanzar nubes ácidas y corrosivas que pudran la carne de sus objetivos o nubes de escarabajos o langostas carnívoras que devoren a tus schahriars.
+Los alientos de fuego o pestilentes o incluso los pedos venenosos son usuales entre los monstruos de las 1001 noches. Los magos, siguiendo la tradición del autor de Providence, deberían poder lanzar nubes ácidas y corrosivas que pudran la carne de sus objetivos o nubes de escarabajos o langostas carnívoras que devoren a tus schahriars.
 
 ### Curación
 
@@ -126,11 +126,11 @@ La invisibilidad es otro de esos puntos donde los dos mundos que forman esta amb
 
 ### Invocación de aliados
 
-Las invocaciones son parte fundamental de la magia de los Mitos. Llamar a seres del espacio profundo o extradimensionales para que maten a mis enemigos, roben algún objeto o secuestres a víctimas inocentes es algo fundamental de todo buen líder o lideresa de culto innombrable.
+Las invocaciones son parte fundamental de la magia de los Mitos. Llamar a seres del espacio profundo o extradimensionales para que maten a mis enemigos, roben algún objeto o secuestres a víctimas inocentes es algo esencial de todo buen líder o lideresa de culto innombrable.
 
 La duración de las invocaciones no es 5 turnos, si no de 5 horas y no se pueden meter los modificadores de poder de Mordisco/Garras, Volar y Jinete Mental.
 
-También hay posibilidades de que el aliado invocado no este muy contento con la invocación. Es por ello que la tirada de invocación debería ser hecha por Scheherazade, ya que, siempre que haya una pifia en la tirada de invocación, el ser invocado será agresivo al o la invocadora. Algunos podrían atacar directamente como los Sirrush, pero otros como los rokhs o qatrams podrían parecer aliados y esperar al momento adecuado para atacar y jugársela.
+También hay posibilidades de que el aliado invocado no este muy contento con la invocación. Es por ello que la tirada de invocación debería ser hecha por Scheherazade, ya que, siempre que haya una pifia en la tirada de invocación, el ser invocado será agresivo al o la invocadora. Algunos podrían atacar directamente como los sirrush, pero otros como los rokhs o qatrams podrían parecer aliados y esperar al momento adecuado para atacar y jugársela.
 
 #### Aliados que pueden ser invocados
 
@@ -138,45 +138,17 @@ Los aliados que pueden invocarse son monstruos de los Mitos, normalmente razas s
 
 Los monstruos invocados generan una TPC igual a la del monstruo a todos los que lo vean, excepto el invocador que su TPC es menos dos niveles con un mínimo de d4. No se puede usar el modificador de Horror.
 
-Tabla de Aliados que pueden ser invocados
+##### Tabla de Aliados que pueden ser invocados
 
-Coste PP
+|Coste PP|Rango del lanzador|Monstruo|
+|---|---|---|
+|2|Novato|Gente del mar, ghūl, sukaan|
+|4|Experimentado|Serpigente, abu-qith científico, fuego de la Yahannam|
+|6|Veterano|Sirviente alado, abu-qith soldado, abibil|
+|8|Heroico|Vástago de Astarte, sirrush|
+|15|Legendario|Qatrams, ave de Rokh|
 
-Rango del lanzador
-
-Monstruo
-
-2
-
-Novato
-
-Gente del mar, Ghūl, Sukaan
-
-4
-
-Experimentado
-
-Serpigente, abu-qith científico, Fuego de la Yahannam
-
-6
-
-Veterano
-
-Sirviente alado, abu-qith soldado, Abibil
-
-8
-
-Heroico
-
-Vástago de Astarte, Sirrush
-
-15
-
-Legendario
-
-Qatrams, Ave de Rokh
-
-\* Recuerda que debes ser experimentado para poder lanzar hechizos, con lo que siendo novato/a no puedes lanzar este hechizo.
+&ast; Recuerda que debes ser experimentado para poder lanzar hechizos, con lo que siendo novato/a no puedes lanzar este hechizo.
 
 ### Manipulación elemental
 
@@ -186,7 +158,7 @@ La creación agua o fuego, mover tierra o hacer soplar fuego es un tipo de magia
 
 Al contrario que la mayoría de poderes, este poder es solo típicamente de los Mitos, pero junto a Marioneta queda muy bien para villanos, magos tenebrosos, visires malvados, etc.
 
-En el manual básico se dice que pruebas claras podrían hacer volver destellos del recuerdo manipulado (Tirada de Astucia -2). En esta ambientación basada en las 1001 Noches, los olores, los sabores, etc. tienen su importancia y el olor del perfume que usaba tu pareja olvidada o unos sensuales bailes que ejecutaba para tí pueden recordártela. Quizás un plato típico de una zona te haga recordar una ciudad de esa zona hecha desaparecer por los Al-mighos y que hicieron olvidar a todo el mundo.
+En el manual básico se dice que pruebas claras podrían hacer volver destellos del recuerdo manipulado (Tirada de Astucia -2). En esta ambientación basada en las 1001 Noches, los olores, los sabores, etc. tienen su importancia y el olor del perfume que usaba tu pareja olvidada o unos sensuales bailes que ejecutaba para ti pueden recordártela. Quizás un plato típico de una zona te haga recordar una ciudad de esa zona hecha desaparecer por los Al-mighos y que hicieron olvidar a todo el mundo.
 
 Aunque se use este poder para hacer olvidar hechos traumáticos, la psique está ya rota y no se puede recuperar puntos de Cordura.
 
@@ -206,7 +178,7 @@ Los proyectiles normalmente son de fuego. Hay ejemplos de proyectiles asociados 
 
 Este poder se ve muchas veces reflejado en las 1001 Noches en bebedizos que potencian las cualidades de tus schahriars.
 
-Como reductor de atributos y con un toque más lovecraftsiano, este poder puede tener varias formas de aplicarse en tus partidas en forma de enfermedades con reminiscencias medievales como la lepra, la tuberculosis o la sarna que restan Fuerza, Vigor o Destreza. También puedes tener una vertiente de robar la juventud.
+Como reductor de atributos y con un toque más lovecraftiano, este poder puede tener varias formas de aplicarse en tus partidas en forma de enfermedades con reminiscencias medievales como la lepra, la tuberculosis o la sarna que restan Fuerza, Vigor o Destreza. También puedes tener una vertiente de robar la juventud.
 
 ### Sueño
 
@@ -214,7 +186,7 @@ El sueño es algo común en las historias de las 1001 Noches desde sueños profu
 
 ### Vuelo
 
-Volar es un poder muy común en las historias de las 1001 Noches, tanto con objetos mágicos como con monturas aladas o pócimas místicas. Aunque la mayoría de las veces volar supone una forma de viajar muy rápido por todo el mundo, también hay veces en que los seres vuelan y combaten en el aire.
+Volar es un poder muy habitual en las historias de las 1001 Noches, tanto con objetos mágicos como con monturas aladas o pócimas místicas. Aunque la mayoría de las veces volar supone una forma de viajar muy rápido por todo el mundo, también hay veces en que los seres vuelan y combaten en el aire.
 
 ### Zombi
 
@@ -247,18 +219,18 @@ El hechizo abre los elementos normales de una puerta, pero no afecta a elementos
 
 * **Rango:** Novato
 * **Puntos de poder:** 2
-* **Distancia:** --
+* **Distancia:** —
 * **Duración:** Hasta llegar al objetivo
 
 Según el ornamento, aparecerá delante de la persona que use el poder una guía que marcará el camino hasta el lugar que se busca.
 
-Debemos conocer el nombre del lugar que buscar y debe haber una forma física de llegar a ella. Si buscamos un lugar en las tierras de Sueños sin saber como llegar a mundo onírico, el hechizo fallará.
+Debemos conocer el nombre del lugar que buscar y debe haber una forma física de llegar a ella. Si buscamos un sitio en las tierras de Sueños sin saber como llegar a mundo onírico, el hechizo fallará.
 
 [![John William Waterhouse: El círculo mágico](./images/circulo-magico.jpg)](https://es.m.wikipedia.org/wiki/Archivo:John_William_Waterhouse_-_Magic_Circle.JPG "John William Waterhouse: El círculo mágico") 
 
 La guía es visible para todo el mundo, con lo que, por ejemplo, un fuego fatuo que marca el camino podría ser visto por los guardias que protegen la muralla.
 
-A medida que se acerque al destino será cada vez más impreciso. Por ejemplo, nos puede llevar hasta el palacio del Califa, pero no específicamente a las habitaciones del Califa. Los lugares tendrán que tener nombre y cosas como "donde está el Califa" no funcionan.
+A medida que se acerque al destino será cada vez más impreciso. Por ejemplo, nos puede llevar hasta el palacio del Califa, pero no específicamente a las habitaciones del Califa. Los lugares tendrán que tener nombre y cosas como «dónde está el Califa» no funcionan.
 
 La guía siempre marca el camino más rápido posible que sea factible. Por ejemplo, evitará ríos y buscará puentes, pero no se preocupará si hay enemigos en la zona o si se quiere moverse sin ser detectado.
 
@@ -287,7 +259,7 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 
 * **Rango:** Novato
 * **Puntos de poder:** 4
-* **Distancia:** --
+* **Distancia:** —
 * **Duración:** Una semana
 
 Con este poder se invoca una montura (mula, caballo o camello) que tiene la capacidad de moverse a gran velocidad recorriendo en 1 día, lo que haría en 2 semanas. Además, no se ve afectado por los terrenos difíciles. Con un avance en la tirada se duplica la velocidad avanzando en 1 día lo que se recorrería en 1 mes.
@@ -307,7 +279,7 @@ No se puede usar en combate más que como forma de huida. Durante el turno de su
 ### Transmutación
 
 * **Rango:** Especial
-* **Puntos de poder:** 3PP x nivel de dificultad
+* **Puntos de poder:** 3 PP x nivel de dificultad
 * **Distancia:** Toque
 * **Duración:** 1 hora
 
@@ -324,27 +296,15 @@ La transmutación es muy complicada y hay muy pocas posibilidades de que salga b
 
 Según el nivel del lanzador, puede intentar transmutaciones más difíciles.
 
-Novato
+|Rango|Niveles|
+|---|---|
+|Novato|1 nivel &ast;|
+|Experimentado|2 niveles|
+|Veterano|4 niveles|
+|Heroico|8 niveles|
+|Legendario|sin límite|
 
-1 nivel\*
-
-Experimentado
-
-2 niveles
-
-Veterano
-
-4 niveles
-
-Heroico
-
-8 niveles
-
-Legendario
-
-sin límite
-
-\* Recuerda que debes ser experimentado para poder lanzar hechizos, con lo que siendo novato/a no puedes lanzar este hechizo.
+&ast; Recuerda que debes ser experimentado para poder lanzar hechizos, con lo que siendo novato/a no puedes lanzar este hechizo.
 
 La transmutación no sirve para crear otra cosa que la propia transformación de la materia. No puedes conseguir ventajas adicionales que puedan darte otros poderes.
 
@@ -371,7 +331,7 @@ La transmutación no sirve para crear otra cosa que la propia transformación de
 
 Esta modificación es genérica para la mayoría de poderes. Gastando la mitad de los puntos poder normales que pide el poder se puede hacer que el hechizo infunda terror en los objetivos y los que los presencien. Por ejemplo, Adivinación puede hacerse tan horripilante (sombras aterradoras que rodean al o la vidente, voces graves y terroríficas, …) que los que lo presencien tengan que hacer una TPC de d4, si se gasta la misma cantidad de puntos de poder la TPC es un d6. Incluso poderes de sanación puede ser horripilantes con esta modificación.
 
-Recuerda que este es más un recurso más para que lo usen tus PNJs, especialmente los malos que realmente para tus schahriars y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
+Recuerda que este es más un recurso más para que lo usen tus PNJ, especialmente los malos que realmente para tus schahriars y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
 
 ## Hechizos (Ornamentos)
 
@@ -381,7 +341,7 @@ En esta sección te ofrecemos una serie de hechizos basados en los poderes anter
 
 _Poder:_ Abrir puertas
 
-> Y he aquí que, al llegar a su casa, Alí Babá encontró la puerta cerrada por dentro con el pestillo grande de madera, y se dijo: "¡Voy a ensayar en ella la virtud de la fórmula!" Y dijo: "¡Sésamo, ábrete!" Y al punto, separándose de su pestillo, la puerta se abrió de par en par.
+> Y he aquí que, al llegar a su casa, Alí Babá encontró la puerta cerrada por dentro con el pestillo grande de madera, y se dijo: «¡Voy a ensayar en ella la virtud de la fórmula!» Y dijo: «¡Sésamo, ábrete!» Y al punto, separándose de su pestillo, la puerta se abrió de par en par.
 > 
 > **Referencia:** Historia de Alí Babá y los cuarenta ladrones (n. 853)
 
@@ -399,7 +359,7 @@ Frotando azufre con firmeza y rapidez en tu tripa se crea un fuego que te cubre 
 
 _Poder:_ Protección medioambiental (agua y presión)
 
-> Al oír estas palabras, el terrestre dijo al marítimo: "En ese caso, no tengo inconveniente en sumergirme contigo. ¡Tráeme, pues, el ungüento consabido para que lo ensaye!" El marítimo contestó: "¡Eso es lo que voy a hacer!" Y se llevó el cesto de frutas y se metió en el mar para volver al cabo de unos instantes llevando en las manos una vasija llena de un ungüento parecido a la grasa de las vacas y de un color amarillo como el oro, y de un olor absolutamente delicioso. Y preguntó Abdalah de la Tierra: "¿Con qué se compone este ungüento?" El otro contestó: "Se compone con grasa del hígado de una especie entre las especies de peces que se llama dandana. ¡Y este pez dandana es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!"
+> Al oír estas palabras, el terrestre dijo al marítimo: "En ese caso, no tengo inconveniente en sumergirme contigo. ¡Tráeme, pues, el ungüento consabido para que lo ensaye!" El marítimo contestó: "¡Eso es lo que voy a hacer!" Y se llevó el cesto de frutas y se metió en el mar para volver al cabo de unos instantes llevando en las manos una vasija llena de un ungüento parecido a la grasa de las vacas y de un color amarillo como el oro, y de un olor absolutamente delicioso. Y preguntó Abdalah de la Tierra: "¿Con qué se compone este ungüento?" El otro contestó: "Se compone con grasa del hígado de una especie entre las especies de peces que se llama dan dan. ¡Y este pez dan dan es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!"
 > 
 > **Referencia:** Historia de Abdalah de la tierra y de Abdalah del mar (n. 512)
 
@@ -467,7 +427,7 @@ Sabiendo el auténtico nombre de los umbrales, ninguna puerta se te resiste.
 
 _Poder:_ Buscar el camino
 
-> Sólo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales, y no dejó de descubrir por aquel lado el sitio en que se hallaba la entrada a mi reino subterráneo.
+> Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales, y no dejó de descubrir por aquel lado el sitio en que se hallaba la entrada a mi reino subterráneo.
 > 
 > **Referencia:** Historia de Belukia (n. 358)
 
@@ -487,7 +447,7 @@ Haciendo un círculo en el suelo con los símbolos apropiado podemos invocar dif
 
 _Poder:_ Proyectil
 
-> Pero, en su emoción, Belukia había pronunciado al revés las palabras mágicas, y tal error resultó fatal para Offán, porque enseguida le cayó desde el techo una gota de diamante líquido, que le inflamó por entero y en unos instantes le dejó reducido a un montoncillo de cenizas al pie del trono de Soleimán.
+> Pero, en su emoción, Belukia había pronunciado al revés las palabras mágicas, y tal error resultó fatal para Offán, porque enseguida le cayó desde el techo una gota de diamante líquido, que le inflamó por entero y en unos instantes le dejó reducido a un montoncillo de cenizas al pie del trono de Suleimán.
 > 
 > **Referencia:** Historia de Belukia (n. 360)
 
@@ -507,7 +467,7 @@ Tradicionalmente, los yinns han tenido un aspecto elemental asociándolos con ag
 
 _Poder:_ Vuelo
 
-> …les brotaban alas de los hombros, y se convertían en volátiles. Podían volar entonces hasta lo más alto de la bóveda aérea, y se aprovechaban de su nuevo estado para volar todos fuera de la ciudad, dejando en ésta a los niños y mujeres, a quienes nunca brotaban alas.
+> …les brotaban alas de los hombros, y se convertían en volátiles. Podían volar entonces hasta lo más alto de la bóveda aérea, y se aprovechaban de su nuevo estado para volar todos fuera de la ciudad, dejando en esta a los niños y mujeres, a quienes nunca brotaban alas.
 > 
 > **Referencia:** La séptima historia de las historias de Sindbad el marino, que trata de la séptima y última historia (n. 314)
 
@@ -517,7 +477,7 @@ Unas alas de ave salen de tus hombros dotándote de la capacidad de volar como u
 
 _Poder:_ Destierro
 
-> Entonces dijo: «Por el nombre del Altísimo, que está grabado en sello de Soleimán, te conjuro a que respondas con verdad a mi pregunta». Cuando el efrit oyó el nombre del Altísimo, respondió muy conmovido: «Pregunta, que yo contestaré la verdad». Entonces dijo el pescador: «¿Cómo has podido entrar por entero en este jarrón donde apenas cabe tu pie o tu mano?» El efrit dijo: «¿Dudas acaso de ello?» El pescador respondió: «Efectivamente, no lo creeré jamás mientras no vea con mis propios ojos que te metes en él». \[…\] el efrit comenzó a agitarse, convirtiéndose nuevamente en humareda que subía hasta el firmamento. Después se condensó, y empezó a entrar en el jarrón poco a poco, hasta el fin. Entonces el pescador cogió rápidamente la tapadera de plomo con el sello de Soleimán, y obstruyó la boca del jarrón.
+> Entonces dijo: «Por el nombre del Altísimo, que está grabado en sello de Suleimán, te conjuro a que respondas con verdad a mi pregunta». Cuando el efrit oyó el nombre del Altísimo, respondió muy conmovido: «Pregunta, que yo contestaré la verdad». Entonces dijo el pescador: «¿Cómo has podido entrar por entero en este jarrón donde apenas cabe tu pie o tu mano?» El efrit dijo: «¿Dudas acaso de ello?» El pescador respondió: «Efectivamente, no lo creeré jamás mientras no vea con mis propios ojos que te metes en él». \[…\] el efrit comenzó a agitarse, convirtiéndose nuevamente en humareda que subía hasta el firmamento. Después se condensó, y empezó a entrar en el jarrón poco a poco, hasta el fin. Entonces el pescador cogió rápidamente la tapadera de plomo con el sello de Suleimán, y obstruyó la boca del jarrón.
 > 
 > **Referencia:** Historia del pescador y el efrit (n. 4)
 
@@ -547,7 +507,7 @@ Mirando fijamente a los ojos del animal o ave con la que se quiere hablar se cre
 
 _Poder:_ Vuelo
 
-> Y mientras reflexionaba de este modo, oyó de pronto un ruido como el que produce el viento al pasar por el intersticio de una puerta, y vio que el vientre del gigante se inflaba a ojos vistas y alcanzaba en seguida las dimensiones de una cúpula. Y aquel ruido de viento a la sazón se hizo semejante al de un fuelle de herrero, a medida que se inflaba el vientre del gigante. Y de pronto Al-Simurg golpeó el suelo con el pie, y en un instante se remontó con su carga por encima del jardín. Luego continuó subiendo por el cielo, haciendo maniobrar sus piernas como un sapo en el agua. Y llegado que fué a una altura conveniente, tomó en línea recta hacia Occidente. Y cuando, a pesar suyo, sentía que no iba bien y estaba a más altura de la que deseaba, soltaba uno o dos o tres o cuatro cuescos de fuerza y duración variadas. Y cuando, por el contrario, a consecuencia de esta pérdida, se le desinflaba el vientre, aspiraba aire con todas sus aberturas superiores, o sea boca, nariz y oídos. Y al punto se remontaba por el cielo cerúleo, y seguía en línea recta con la rapidez del ave.
+> Y mientras reflexionaba de este modo, oyó de pronto un ruido como el que produce el viento al pasar por el intersticio de una puerta, y vio que el vientre del gigante se inflaba a ojos vistas y alcanzaba en seguida las dimensiones de una cúpula. Y aquel ruido de viento a la sazón se hizo semejante al de un fuelle de herrero, a medida que se inflaba el vientre del gigante. Y de pronto Al-Simurg golpeó el suelo con el pie, y en un instante se remontó con su carga por encima del jardín. Luego continuó subiendo por el cielo, haciendo maniobrar sus piernas como un sapo en el agua. Y llegado que fue a una altura conveniente, tomó en línea recta hacia Occidente. Y cuando, a pesar suyo, sentía que no iba bien y estaba a más altura de la que deseaba, soltaba uno o dos o tres o cuatro cuescos de fuerza y duración variadas. Y cuando, por el contrario, a consecuencia de esta pérdida, se le desinflaba el vientre, aspiraba aire con todas sus aberturas superiores, o sea boca, nariz y oídos. Y al punto se remontaba por el cielo cerúleo, y seguía en línea recta con la rapidez del ave.
 > 
 > **Referencia:** Historia espléndida del príncipe Diamante (n. 913)
 
@@ -567,7 +527,7 @@ Usando algún tipo de recipiente lleno de agua para salpicar al objetivo y hacie
 
 _Poder:_ Manipulación de recuerdos
 
-> Inmovilizado como estaba, Bahram el Gauro se retiro unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: "Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infringiré mañana".
+> Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: "Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infringiré mañana".
 
 Imponiendo tus manos, que toman un brillo verdusco, sobre la cabeza (o donde este su cerebro o similar) puedes crear, modificar o borrar recuerdos de tu víctima.
 
@@ -579,13 +539,13 @@ _Poder:_ Adivinación
 > 
 > **Referencia:** Los amores de Zein Al-Mawassif (n. 653)
 
-El mago a maga puede acostarse cerca del lugar, objeto o persona dormida a la quiere preguntar. Durante el sueño recibe la visita de alguna presencia relacionada que contestará a sus preguntas. También puedes interpretar sueños que te cuenten terceras personas.
+El mago a maga puede acostarse cerca del lugar, objeto o persona dormida a la que quiere preguntar. Durante el sueño recibe la visita de alguna presencia relacionada que contestará a sus preguntas. También puedes interpretar sueños que te cuenten terceras personas.
 
 ### Levantar nasnas
 
 _Poder:_ Zombis
 
-> Yendo en contra de todos los mandatos del Libro, Huseeim, como un hábil carnicero del zoco despiezando carneros, corto por la mitad las cadáveres que sus acólitos habían desenterrado y robado. Con sus ropajes ceremoniales llenos de sangre y vísceras, empezó a recitar en lengua judaica los mantras talismánicos hasta que una de las mitades en un estertor movió su pierna.
+> Yendo en contra de todos los mandatos del Libro, Huseeim, como un hábil carnicero del zoco despiezando carneros, corto por la mitad los cadáveres que sus acólitos habían desenterrado y robado. Con sus ropajes ceremoniales llenos de sangre y vísceras, empezó a recitar en lengua judaica los mantras talismánicos hasta que una de las mitades en un estertor movió su pierna.
 
 Necesitarás cadáveres completos y relativamente reciente y cortarlos por la mitad de arriba abajo. De esa forma, cuando el cadáver se levante, será un nasnas. Si no se cortan los cadáveres, se obtendrán zombis normales.
 
@@ -628,7 +588,7 @@ Lanzando una piedra u otro material de construcción a tu objetivo, se crea alre
 
 _Poder:_ Chorro
 
-> Así es que, alzando la pierna, le soltó en pleno rostro una pedorrera que duró una hora de tiempo y que envenenaría a todos los seres animados en cuatro parasangas a la redonda. Y sólo gracias a la virtud que tenían las armas de que era portador, pudo Diamante escapar de aquel soplo infernal.
+> Así es que, alzando la pierna, le soltó en pleno rostro una pedorrera que duró una hora de tiempo y que envenenaría a todos los seres animados en cuatro parasangas a la redonda. Y solo gracias a la virtud que tenían las armas de que era portador, pudo Diamante escapar de aquel soplo infernal.
 > 
 > **Referencia:** Historia espléndida del príncipe Diamante (n. 913)
 
@@ -646,7 +606,7 @@ Los ojos del brujo o bruja toman la forma de los de una serpiente y sus víctima
 
 _Poder:_ Curación
 
-> Y el muchacho fué en busca de la joven por entre los árboles, llevando en su mano izquierda su brazo derecho cortado. Y la libertó. Y ella le dijo: "Aquí tiene tres hojas de una planta que he encontrado, \[…\] Aplícatelas en los muñones de tu brazo, y sanará". Y así lo hizo el muchacho. Y se le quedó el brazo como estaba antes.
+> Y el muchacho fue en busca de la joven por entre los árboles, llevando en su mano izquierda su brazo derecho cortado. Y la libertó. Y ella le dijo: "Aquí tiene tres hojas de una planta que he encontrado, \[…\] Aplícatelas en los muñones de tu brazo, y sanará". Y así lo hizo el muchacho. Y se le quedó el brazo como estaba antes.
 > 
 > **Referencia:** Historia contada por el duodécimo capitán de policía (n. 953)
 
@@ -734,9 +694,9 @@ El lanzamiento de una maldición empieza con el lanzamiento del hechizo de un no
 * Las maldiciones solo pueden usarse contra comodines y no importa su tamaño, pero exige un PP por cada dos niveles superior. Podrías petrificar un Falak (tamaño 30)con un coste de 24 PP (10 + 14 del tamaño).
 * Un practicante de magia solo puede lanzar una vez una maldición a una víctima en concreto y no puede hacerse en un combate o en situaciones no estresantes como escapar de un incendio o escalar un acantilado. Normalmente se debería lanzar a objetivos indefensos derrotados, por ejemplo, meter en una botella a una poderosa hechicera serpigente tras derrotarla y lanzar el recipiente al mar.
 * Para lanzar una maldición es necesario que las personas implicadas, el lanzador de la maldición y el maldecido, estén el mismo espacio, ya que se necesita una interacción física entre ellas. Por ejemplo, es muy normal en las maldiciones de transformaciones en animal que se lance agua al objetivo de la maldición.
-* Lanzar una maldición es una tirada enfrentada entre Saber de Soleimán y el atributo especificado en cada maldición.
+* Lanzar una maldición es una tirada enfrentada entre Saber de Suleimán y el atributo especificado en cada maldición.
 * Lanzar una maldición gasta tantos PP como marca cada maldición. Además, una maldición exitosa consume un PP del lanzador de forma permanente que no recupera hasta que la maldición sea revertida.
-* Si el hechizo sale correctamente, tanto la persona que lanza el hechizo como la que lo recibe tendrán que pasar una TPC igual a la tirada de Saber de Soleimán que se hizo al lanzar la maldición. Una maldición afecta tanto a la cordura del mago o maga como de la víctima. Y cuanto mayor sea el efecto, más difícil será evitar sus efectos en la cordura.
+* Si el hechizo sale correctamente, tanto la persona que lanza el hechizo como la que lo recibe tendrán que pasar una TPC igual a la tirada de Saber de Suleimán que se hizo al lanzar la maldición. Una maldición afecta tanto a la cordura del mago o maga como de la víctima. Y cuanto mayor sea el efecto, más difícil será evitar sus efectos en la cordura.
 * El efecto es permanente en la víctima hasta que otra persona que conozca la maldición la revierta o hasta que se cumpla una condición bastante difícil de cumplir. Pueden ser condiciones como leer un pasaje de algún grimorio perdido, alguna extraña conjunción astral, alguna improbable situación como que llueva sangre o conseguir algún objeto mágico. En cada maldición hay ejemplos de condiciones que puedes usar y la condición debe ser aprobada por Scheherazade.
 
 #### Revertir una maldición
@@ -771,7 +731,7 @@ La víctima quedará completamente ciega hasta que se retire la maldición. Obte
 * **Resistencia:** ESP
 * **Puntos de poder:** 12
 
-> Al oírle, el efrit intentó salir, pero no pudo, y vio que estaba encarcelado y tenía encima el sello de Soleimán, convenciéndose entonces de que el pescador le había encerrado en un calabozo contra el cual no pueden prevalecer ni los más débiles ni los más fuertes de los efrits. Y comprendiendo que el pescador le llevaría hacia el mar, suplicó: «¡No me lleves! ¡no me lleves!» Y el pescador dijo: «No hay remedio». Entonces, dulcificando su lenguaje, exclamó el efrit: «¡Ah pescador! ¿Qué vas a hacer conmigo?» El otro dijo: «Echarte al mar, que si has estado en él mil ochocientos años, no saldrás esta vez hasta el día del Juicio. ¿No te rogué yo que me dejaras la vida para que Alah la conservase a ti y no me mataras para que Alah no te matase? Obrando infamemente, rechazaste mi plegaria. Por eso Alah te ha puesto en mis manos, y no me remuerde el haberte engañado». Entonces dijo el efrit: «Ábreme el jarrón y te colmaré de beneficios». El pescador respondió: «Mientes, ¡oh maldito! …
+> Al oírle, el efrit intentó salir, pero no pudo, y vio que estaba encarcelado y tenía encima el sello de Suleimán, convenciéndose entonces de que el pescador le había encerrado en un calabozo contra el cual no pueden prevalecer ni los más débiles ni los más fuertes de los efrits. Y comprendiendo que el pescador le llevaría hacia el mar, suplicó: «¡No me lleves! ¡no me lleves!» Y el pescador dijo: «No hay remedio». Entonces, dulcificando su lenguaje, exclamó el efrit: «¡Ah pescador! ¿Qué vas a hacer conmigo?» El otro dijo: «Echarte al mar, que si has estado en él mil ochocientos años, no saldrás esta vez hasta el día del Juicio. ¿No te rogué yo que me dejaras la vida para que Alah la conservase a ti y no me mataras para que Alah no te matase? Obrando infamemente, rechazaste mi plegaria. Por eso Alah te ha puesto en mis manos, y no me remuerde el haberte engañado». Entonces dijo el efrit: «Ábreme el jarrón y te colmaré de beneficios». El pescador respondió: «Mientes, ¡oh maldito! …
 > 
 > **Referencia:** Historia del pescador y el efrit (n. 4)
 
@@ -790,7 +750,7 @@ Algún schahriar inteligente podría meter a una persona con una enfermedad term
 
 > «Sabrás, ¡oh, efrit! que, en la antigüedad del tiempo y en lo pasado de la edad, hubo en la ciudad de Fars, en el país de los rumán, un rey llamado Yunán. Era rico y poderoso, señor de ejércitos, dueño de fuerzas considerables y de aliados de todas las especies de hombres. Pero su cuerpo padecía una lepra que desesperaba a los médicos y a los sabios. Ni drogas, ni píldoras, ni pomadas le hacían efecto alguno, y ningún sabio pudo encontrar un eficaz remedio para la espantosa dolencia. Pero cierto día llegó a la capital del rey Yunán un médico anciano, de renombre, llamado Ruyán.
 > 
-> **Referencia:** Historia del visir del rey Yunán y el medico Ruyán (n. 4)
+> **Referencia:** Historia del visir del rey Yunán y el médico Ruyán (n. 4)
 
 Hablamos de enfermedades no-mortales, pero visibles y estigmatizadas y que crean problemas para la víctima. Serían cosas como lepra o sarna. El lanzador podrá elegir entre:
 
@@ -813,7 +773,7 @@ Esta maldición no está ligada a ningún poder, ya que no funciona exactamente 
 
 No hay gasto de PP ni temporales ni permanente, pero hay una tirada enfrentada de ESP para que la maldición surta efecto y ambos tienen que pasar una TPC d8.
 
-Esta maldición se refleja en un Hábito (Mayor) que obliga al schahriar a consumir carne humana o sangre cada 24 horas. La condición puede ser hacer alguna peregrinación a algún lugar sagrado perdido o o conseguir algún tipo de compuesto mágico.
+Esta maldición se refleja en un Hábito (Mayor) que obliga al schahriar a consumir carne humana o sangre cada 24 horas. La condición puede ser hacer alguna peregrinación a algún lugar sagrado perdido o conseguir algún tipo de compuesto mágico.
 
 #### Petrificar
 
@@ -828,7 +788,7 @@ La víctima de la maldición es convertido en piedra total o parcialmente, de fo
 
 Mientras la víctima esté petrificada no necesita, ni comer, ni beber, ni respirar y es inmune a la edad, enfermedades, etc. La piedra tiene la dureza del material que el lanzador eligió desde cristal a mármol o granito.
 
-> »Entonces desembarcamos, pero apenas hubimos entrado en la ciudad, nos quedamos asombradas. Todos los habitantes estaban convertidos en estatuas de piedra negra. Y sólo ellos habían sufrido esta petrificación, pues en los zocos y en las tiendas aparecían las mercancías en su estado normal, lo mismo que las cosas de oro y de plata. Al ver aquello llegamos al límite de la admiración, y nos dijimos: “En verdad que la causa de todo esto debe ser rarísima”.  
+> »Entonces desembarcamos, pero apenas hubimos entrado en la ciudad, nos quedamos asombradas. Todos los habitantes estaban convertidos en estatuas de piedra negra. Y solo ellos habían sufrido esta petrificación, pues en los zocos y en las tiendas aparecían las mercancías en su estado normal, lo mismo que las cosas de oro y de plata. Al ver aquello llegamos al límite de la admiración, y nos dijimos: “En verdad que la causa de todo esto debe ser rarísima”.  
 > »Y nos separamos, para recorrer cada cual a su gusto las calles de la ciudad, y recoger por su cuenta cuanto oro, plata y telas preciosas pudiese llevar consigo.
 > 
 > **Referencia:** Historia de Zobeida, la mayor de las jóvenes (n. 16)
@@ -890,7 +850,7 @@ El grimorio es algo muy importante para su propietario. Nunca viajas sin él, nu
 
 Los grimorios normalmente no se venden, no de manos de una persona con poderes mágicos. Son demasiado preciados para ellas. Podrías comprarlo a algún buhonero o a alguien que los ha recibido en una herencia y desconoce su valor real.
 
-Todos los grimorios tiene un nivel de poder que representa el conocimiento que se puede aprender, el número de hechizos que se pueden aprender de él y la cantidad de poder mágico (PP) que se puede conseguir siguiendo sus enseñanzas. Un libro de magia con un nivel de poder 4 permite gastar 4 avances en ventajas mágicas como Puntos de poder o Nuevos poderes. Adquirir otras ventajas de tipo mágico quedan a descripción de Scheherazade si gastan o no niveles de poder. También podemos gastar niveles de poder en subir nuestra habilidad de Saber de Soleimán.
+Todos los grimorios tiene un nivel de poder que representa el conocimiento que se puede aprender, el número de hechizos que se pueden aprender de él y la cantidad de poder mágico (PP) que se puede conseguir siguiendo sus enseñanzas. Un libro de magia con un nivel de poder 4 permite gastar 4 avances en ventajas mágicas como Puntos de poder o Nuevos poderes. Adquirir otras ventajas de tipo mágico quedan a descripción de Scheherazade si gastan o no niveles de poder. También podemos gastar niveles de poder en subir nuestra habilidad de Saber de Suleimán.
 
 Además de nivel de poder, todos los libros de magia tienen un idioma que se debe dominar mínimamente (d6 o más) para poder leerlo.
 
@@ -900,7 +860,7 @@ Leer un libro de hechizos exige mínimo de una semana ininterrumpida dedicándol
 
 Se puede dedicar 4 horas diarias, pero entonces tendrá que ser 2 semanas sin interrupción. Si se interrumpe el estudio se exigen el doble de semanas de las normales.
 
-Leer un manuscrito mágico exige una tirada de TPC igual al NP que le queda para el lector, redondeando hacia abajo. La primera vez que se lee un grimorio de NP 8, la TPC será d8, la siguiente vez el nivel de poder es 7 y la TPC sera de d6, la siguiente NP 6 y TPC d6, etc. Así hasta un mínimo de TPC d4.
+Leer un manuscrito mágico exige una tirada de TPC igual al NP que le queda para el lector, redondeando hacia abajo. La primera vez que se lee un grimorio de NP 8, la TPC será d8, la siguiente vez el nivel de poder es 7 y la TPC será de d6, la siguiente NP 6 y TPC d6, etc. Así hasta un mínimo de TPC d4.
 
 ### Compartir o intercambiar grimorios
 

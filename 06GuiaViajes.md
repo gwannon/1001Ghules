@@ -14,17 +14,17 @@ Acre es una ciudad muy interesante, ya que es la ciudad perfecta para ambientar 
 
 En estas historias los protagonistas se relacionan y muchas veces se enfrentan con los llamados caballeros francos, es decir, con los cruzados, con caballeros Templarios y Hospitalarios. Veamos algunos ejemplos:
 
-> "¡Oh mi señor! la madre de mis hijos es una hija de los francos, y la compré como prisionera de guerra en tiempos de Saladino el Victorioso, después de la batalla de Hattin, que nos libró para siempre de los cristianos extranjeros usurpadores del reino de Jerusalén. ¡Pero ya hace mucho tiempo de eso, porque fué en los días de mi juventud!"
+> «¡Oh mi señor! la madre de mis hijos es una hija de los francos, y la compré como prisionera de guerra en tiempos de Saladino el Victorioso, después de la batalla de Hattin, que nos libró para siempre de los cristianos extranjeros usurpadores del reino de Jerusalén. ¡Pero ya hace mucho tiempo de eso, porque fue en los días de mi juventud!»
 > 
 > **Referencia:** El Felah de Egipto y sus hijos blancos (n. 551)
 
-> "¡Vé a llevar tu lino al castillo de Acre, en Siria, donde le venderás con mucho beneficio!" Y yo, que les escuché, cogí mi lino y me fui a la ciudad de Acre, que en aquel tiempo estaba entre las manos de los francos.
+> «¡Ve a llevar tu lino al castillo de Acre, en Siria, donde le venderás con mucho beneficio!» Y yo, que les escuché, cogí mi lino y me fui a la ciudad de Acre, que en aquel tiempo estaba entre las manos de los francos.
 > 
 > **Referencia:** El Felah de Egipto y sus hijos blancos (n. 551)
 
 Acre tiene una de las fortalezas templarias más famosas de la historia y fue la última ciudad que mantuvieron los cruzados cristianos antes de ser expulsados de Oriente Medio.
 
-> **Semilla de aventura:** Puedes montarte una trama rollo Assassin’s Creed, donde los templarios forman un culto de adoradores de algún tipo de dios exterior o primigenio. Puede que tus schahriars deban entrar en la fortaleza de la Ciudadela de Acre en busca de pruebas para que el califa decida tomar la ciudad y acabar con la amenaza de los templarios.
+> /s/ **Semilla de aventura:** Puedes montarte una trama rollo Assassin’s Creed, donde los templarios forman un culto de adoradores de algún tipo de dios exterior o primigenio. Puede que tus schahriars deban entrar en la fortaleza de la Ciudadela de Acre en busca de pruebas para que el califa decida tomar la ciudad y acabar con la amenaza de los templarios.
 
 ### Alepo
 
@@ -71,7 +71,7 @@ Pasando dos semanas en Basora y gastando unos 1200 dinares entre invitaciones, r
 
 #### El huerto del Comendador de los Creyentes
 
-> "Y he aquí que en el camino me encontré con un jardinero, hombre de edad, al que le consulté sobre lo de las manzanas. Y me dijo: “¡Oh hijo mío! Es una cosa difícil de encontrar, porque ahora no las hay en ninguna parte como no sea en Basrah, en el huerto del Comendador de los Creyentes. Y aun allí no te será fácil conseguirlas, pues el jardinero las reserva cuidadosamente para uso del califa”.
+> «Y he aquí que en el camino me encontré con un jardinero, hombre de edad, al que le consulté sobre lo de las manzanas. Y me dijo: “¡Oh hijo mío! Es una cosa difícil de encontrar, porque ahora no las hay en ninguna parte como no sea en Basrah, en el huerto del Comendador de los Creyentes. Y aun allí no te será fácil conseguirlas, pues el jardinero las reserva cuidadosamente para uso del califa”.
 > 
 > **Referencia:** Historia de la mujer despedazada, de las tres manzanas y del negro rihan (n. 18)
 
@@ -91,7 +91,7 @@ Los antiguos gobernantes de Damasco, los omeyas, tenían un excepcional gusto po
 
 #### La pastelería de Hassan Badreddin
 
-> Y el eunuco salió, marchando a la pastelería, donde dijo al pastelero: «He aquí que acabamos de apostar en favor de ese plato de granada, que sabes hacer, contra otro que han preparado los criados. Aquí tienes medio dinar, pero preséntalo con toda tu pericia, pues si no, me apalearán de nuevo. Todavía me duelen las costillas». Entonces Hassán se echó a reír y le dijo: «No tengas cuidado; sólo hay en el mundo una persona que sepa hacer este dulce, y es mi madre. ¡Pero está en un país muy lejano!»  
+> Y el eunuco salió, marchando a la pastelería, donde dijo al pastelero: «He aquí que acabamos de apostar en favor de ese plato de granada, que sabes hacer, contra otro que han preparado los criados. Aquí tienes medio dinar, pero preséntalo con toda tu pericia, pues si no, me apalearán de nuevo. Todavía me duelen las costillas». Entonces Hassán se echó a reír y le dijo: «No tengas cuidado; solo hay en el mundo una persona que sepa hacer este dulce, y es mi madre. ¡Pero está en un país muy lejano!»  
 > Después Badreddin llenó muy cuidadosamente la terrina, y aun hubo de mejorarla añadiéndole un poco de almizcle y de agua de rosas. Y el eunuco regresó a toda prisa al campamento. Entonces la abuela de Agib tomó la terrina y se apresuró a probar el dulce, para darse cuenta de su calidad y su sabor. Y apenas lo llevó a sus labios, exhaló un grito y cayó de espaldas.
 > 
 > **Referencia:** Historia del visir Nureddin, de su hermano el visir Chamseddin y de Hassan Badreddin (n. 24)
@@ -112,7 +112,7 @@ Tres cosas caracterizan y dan fama a Mosul, sus sastres y tejedores, las tribus 
 
 En la ciudad puede encontrarse la tumba del profeta Jonás. Según el antiguo testamento, Jonás fue, como castigo divino, engullido por una ballena y sobrevivió 3 días en sus tripas hasta que lo expulso. Según los escritos de Alhazred, la ballena es en realidad algo más terrible, un dios primordial acuático llamada Cthulhu.
 
-> **Semilla de aventura:** Si alguien necesitará restos de Cthulhu para alguna invocación, profanar la tumba de Jonás en el cementerio local, sería una idea bastante buena.
+> /s/ **Semilla de aventura:** Si alguien necesitará restos de Cthulhu para alguna invocación, profanar la tumba de Jonás en el cementerio local, sería una idea bastante buena.
 
 #### Los restos de las murallas de Mosul
 
@@ -122,7 +122,7 @@ Por todo esto y para evitar problemas, se ordenó destruir las murallas de la ci
 
 Desde su destrucción han empezado a suceder cosas extrañas, la alegre ciudad ha cambiado de humor y un sentimiento de tristeza y depresión inunda la ciudad. Incluso ha habido varios casos de suicidios muy sonados y comentados.
 
-> **Semilla de aventura:** Los trabajos de derribo han roto los sellos mágicos que mantenían a un qareen encerrado en una sala de las ruinas del templo de Isthar. Sacerdotes de la diosa de la guerra y la fertilidad consiguieron atraparlo hace dos milenios y ahora que se ha liberado quiere vengarse de los descendientes de los humanos que lo encerraron. Tus schahriars, contratados por el emir de Mosul, deberán detectar la presencia del qareen y acabar con él en su forma física o encerrarlo y reparar los sellos que lo mantenían encarcelado.
+> /s/ **Semilla de aventura:** Los trabajos de derribo han roto los sellos mágicos que mantenían a un qareen encerrado en una sala de las ruinas del templo de Isthar. Sacerdotes de la diosa de la guerra y la fertilidad consiguieron atraparlo hace dos milenios y ahora que se ha liberado quiere vengarse de los descendientes de los humanos que lo encerraron. Tus schahriars, contratados por el emir de Mosul, deberán detectar la presencia del qareen y acabar con él en su forma física o encerrarlo y reparar los sellos que lo mantenían encarcelado.
 
 #### Zoco de tejedores y tintoreros
 
@@ -143,7 +143,7 @@ Supone primero un desafío llegar hasta ella (mediante una escalada muy difícil
 
 Puedes añadir misterios a muchas de las cosas que rodean Masada; por qué la construyo Herodes en ese lugar tan complicado, quería ocultar algo a los ojos de su pueblo, etc. Quizás los romanos no querían apaciguar la zona, sino acabar con algo o alguien que había en Masada. Las opciones son muchas.
 
-> **Semilla de aventura:** Una tribu de al mighos ha tomado la cima de la montaña como base para sus extracciones de minerales raros. Por ahora solo están haciendo voladuras de prospección, pero las tribus monadas de la zona han detectado los temblores y las luces nocturnas. Estos sucesos raros han llegado a los oídos del emir de Judea que busca alguien que lo investigue.
+> /s/ **Semilla de aventura:** Una tribu de al mighos ha tomado la cima de la montaña como base para sus extracciones de minerales raros. Por ahora solo están haciendo voladuras de prospección, pero las tribus monadas de la zona han detectado los temblores y las luces nocturnas. Estos sucesos raros han llegado a los oídos del emir de Judea que busca alguien que lo investigue.
 
 #### Zigurat de Ur
 
@@ -151,7 +151,7 @@ De camino a Basora desde Bagdad se pueden encontrar las ruinas semienterradas de
 
 Dentro de los antiguos sumerios había adoradores de diferentes primigenios y dioses exteriores. Entre los restos de sus bajorrelieves y estatuas pueden encontrarse imágenes terroríficas de estas deidades y quizás haya todavía salas secretas con terribles secretos en su interior.
 
-> **Semilla de aventura:** La astrónoma Mariam Al-Ijliya al-Asturlabi necesita un grupo que le ayude en una expedición a la ciudad de Ur. Está convencida de que su templo a la luna era además un observatorio astronómico y cree que puede encontrar conocimientos perdidos entre sus restos. Puedes montar una historia de exploración en las ruinas en la que despiertan algún antiguo mal.
+> /s/ **Semilla de aventura:** La astrónoma Mariam Al-Ijliya al-Asturlabi necesita un grupo que le ayude en una expedición a la ciudad de Ur. Está convencida de que su templo a la luna era además un observatorio astronómico y cree que puede encontrar conocimientos perdidos entre sus restos. Puedes montar una historia de exploración en las ruinas en la que despiertan algún antiguo mal.
 
 #### Petra
 
@@ -187,7 +187,7 @@ En unas pocas décadas, toda la población eran híbridos capaces de conseguir f
 
 Hace años que nadie de fuera pasa una noche en el asentamiento, solo algunos cobradores de impuestos y buhoneros pasan por la ciudad y no suelen contar cosas buenas de sus gentes. Cuentan que las antiguas casas de los ricos pescadores, que durante años eran la envidia de todo el golfo Pérsico, ahora se caen a cachos. La mezquita está abandonada y en la playa se han levantado altares con materiales de deriva con extraños y profanos símbolos, donde hacen cánticos extraños: ¡Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn!
 
-> **Semilla de aventura:** Las ciudades de las perlas son comunidades pequeñas, aisladas y costeras y son perfectas para montar historias tipo La sombra sobre Innsmouth. Tus schahriars llegan a una población de pescadores de perlas ariscos, huraños y algo deformes que miran mal a extraños. Quizás no sea buena idea pasar la noche en el khan local, pero, ¿qué podría pasar?
+> /s/ **Semilla de aventura:** Las ciudades de las perlas son comunidades pequeñas, aisladas y costeras y son perfectas para montar historias tipo La sombra sobre Innsmouth. Tus schahriars llegan a una población de pescadores de perlas ariscos, huraños y algo deformes que miran mal a extraños. Quizás no sea buena idea pasar la noche en el khan local, pero, ¿qué podría pasar?
 
 [![Roberts&Haghe Thebes](./images/tebas.jpg)](https://en.m.wikipedia.org/wiki/David_Roberts_(painter) "Roberts&Haghe Thebes") 
 
@@ -199,7 +199,7 @@ El Egipto faraónico no es mencionado en las 1001 Noches. Las pirámides, los te
 
 ### El Cairo
 
-> … llegó a la ciudad espléndida de El Cairo, esa inmensa ciudad tan diferente de las ciudades de su país, y cuya vuelta exige tres jornadas y media de puente de Sanja, el faro de Al-Iskandaria y la mezquita de los Ommiadas en Damasco. Y le pareció que estaba lejos de haber exagerado las bellezas de aquella ciudad y de aquel país el poeta que ha dicho: "¡Egipto! ¡tierra maravillosa cuyo polvo es de oro, cuyo río es una bendición y cuyos habitantes son deleitosos, perteneces al victorioso que sabe conquistarte!"
+> … llegó a la ciudad espléndida de El Cairo, esa inmensa ciudad tan diferente de las ciudades de su país, y cuya vuelta exige tres jornadas y media de puente de Sanja, el faro de Al-Iskandaria y la mezquita de los Ommiadas en Damasco. Y le pareció que estaba lejos de haber exagerado las bellezas de aquella ciudad y de aquel país el poeta que ha dicho: «¡Egipto! ¡tierra maravillosa cuyo polvo es de oro, cuyo río es una bendición y cuyos habitantes son deleitosos, perteneces al victorioso que sabe conquistarte!"
 > 
 > **Referencia:** Historia complicada del adulterino simpático (n. 831)
 
@@ -225,7 +225,7 @@ El precio de todo lo que pidas (bebida, comida, cama, …) es un 50% más caro d
 
 #### Lago Karún
 
-> Y he aquí que en el momento en que vuestro padre iba a ponerles la mano encima, se escaparon y fueron a arrojarse, transformados en peces rojos, al fondo del lago Karún, en las proximidades de El Cairo. Y como aquel lago estaba también encantado, por mucho que hizo vuestro padre no pudo atrapar a los dos peces. Entonces fué a buscarme y se me quejó de la ineficacia de sus tentativas. Y enseguida hice yo mis cálculos astrológicos y saqué el horóscopo; y descubrí que aquel tesoro de Schamardal no podía abrirse más que con ayuda y en presencia de un joven de El Cairo llamado Juder ben-Omar, pescador de oficio. Se encontrará el tal Juder a orillas del lago Karún.
+> Y he aquí que en el momento en que vuestro padre iba a ponerles la mano encima, se escaparon y fueron a arrojarse, transformados en peces rojos, al fondo del lago Karún, en las proximidades de El Cairo. Y como aquel lago estaba también encantado, por mucho que hizo vuestro padre no pudo atrapar a los dos peces. Entonces fue a buscarme y se me quejó de la ineficacia de sus tentativas. Y enseguida hice yo mis cálculos astrológicos y saqué el horóscopo; y descubrí que aquel tesoro de Schamardal no podía abrirse más que con ayuda y en presencia de un joven de El Cairo llamado Juder ben-Omar, pescador de oficio. Se encontrará el tal Juder a orillas del lago Karún.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 470)
 
@@ -249,7 +249,7 @@ Bastante seguidores menores del Fuego y de la Luz están establecidos en las inm
 
 El-Iskandaria (más conocida como Alejandría) fue fundada por Iskandar el bi-corne (más conocido como Alejandro Magno) en el siglo III a.CV.
 
-Según parece, Iskandar tuvo un sueño en el que se le apareció un anciano de cabellos muy blancos y que le recitaba insistentemente cierto pasaje de la Odisea: "Hay a continuación una isla en el mar turbulento, delante de Egipto, que llaman Faros (Φάρος)". Cuando se levantó quiso ir a la isla y se dio cuenta de su situación privilegiada y más aún si, por medio de un dique, se la unía a la costa. Entonces, mandó traer harina para marcar él mismo el enclave de la futura El-Iskandaria, pues no se disponía del yeso con que solía hacerse.
+Según parece, Iskandar tuvo un sueño en el que se le apareció un anciano de cabellos muy blancos y que le recitaba insistentemente cierto pasaje de la Odisea: «Hay a continuación una isla en el mar turbulento, delante de Egipto, que llaman Faros (Φάρος)». Cuando se levantó quiso ir a la isla y se dio cuenta de su situación privilegiada y más aún si, por medio de un dique, se la unía a la costa. Entonces, mandó traer harina para marcar él mismo el enclave de la futura El-Iskandaria, pues no se disponía del yeso con que solía hacerse.
 
 Los pájaros empezaron a comerse la harina e Iskandar temió que fuera un mal augurio. Sus videntes que era una buena señal, que sería una ciudad rica que daría de comer a gentes de todo el mundo.
 
@@ -259,11 +259,11 @@ Quizás la vista más impresionante de El-Iskandaria es su famoso faro de unos 1
 
 #### Cúpula del libro
 
-> … tomó el camino del zoco de los libreros. Y congregó a todos los mercaderes de libros, algunos de los cuales tenían libros procedentes del palacio de los libros que los rums cristianos habían quemado cuando entró Amrú ben El-Ass en El-Iskandaria. Y les mandó que transportaran a su casa cuantos libros de valor poseyeran. Y los retribuyó con más esplendidez de lo que ellos mismos pretendían, sin regateos ni vacilaciones. Pero no se limitó a estas compras. Envió emisarios a El Cairo, a Damasco, a Bagdad, a Persia, al Magreb, a la India, e incluso a los países de los rums, para que compraran los libros más reputados en estas diversas comarcas, con encargo de no escatimar el precio de compra. Y al cabo de cierto tiempo, volvieron unos tras de otros los emisarios, con fardos cargados de manuscritos preciosos. Y el joven hizo ponerlo todo por orden en los armarios de una magnífica cúpula que había mandado construir con esta intención, y que, en el frontis de su entrada principal, tenía escritas en grandes letras de oro y azul estas sencillas palabras: "Cúpula del Libro".
+> … tomó el camino del zoco de los libreros. Y congregó a todos los mercaderes de libros, algunos de los cuales tenían libros procedentes del palacio de los libros que los rums cristianos habían quemado cuando entró Amrú ben El-Ass en El-Iskandaria. Y les mandó que transportaran a su casa cuantos libros de valor poseyeran. Y los retribuyó con más esplendidez de lo que ellos mismos pretendían, sin regateos ni vacilaciones. Pero no se limitó a estas compras. Envió emisarios a El Cairo, a Damasco, a Bagdad, a Persia, al Magreb, a la India, e incluso a los países de los rums, para que compraran los libros más reputados en estas diversas comarcas, con encargo de no escatimar el precio de compra. Y al cabo de cierto tiempo, volvieron unos tras de otros los emisarios, con fardos cargados de manuscritos preciosos. Y el joven hizo ponerlo todo por orden en los armarios de una magnífica cúpula que había mandado construir con esta intención, y que, en el frontis de su entrada principal, tenía escritas en grandes letras de oro y azul estas sencillas palabras: «Cúpula del Libro».
 > 
 > **Referencia:** Los tragaluces del saber y de la historia (n. 971)
 
-A la muerte de su creador, la "Cúpula del libro" se ha convertido en una biblioteca pública que mantiene gracias a un fideicomiso de su fundador y que compra todo tipo de libros para aumentar su colección.
+A la muerte de su creador, la «Cúpula del libro» se ha convertido en una biblioteca pública que mantiene gracias a un fideicomiso de su fundador y que compra todo tipo de libros para aumentar su colección.
 
 Puedes consultar cualquier libro de su colección, pero si dañas o robas cualquiera de los libros no te dejarán entrar nunca más. Otra opción es hablar con el bibliotecario e intentar un intercambio, no siempre funciona, pero es la única forma de llevarte un libro que te interese.
 
@@ -279,7 +279,7 @@ Esta vieja tienda, que hace décadas que perdió su nombre, ha pasado de vender 
 
 Vende oxidados alfanjes mamelucos, descoloridas vasijas y platos del antiguo Egipto, tablillas sumerias con escritos cuneiformes, etc. sin descartar todo tipo de reliquias saqueadas de templos y tumbas de Egipto.
 
-La tienda tiene cierta maldición que hace que sus dueños no duren mucho y cada vez que vas lo lleva alguien distinto. Lo curioso es que siempre hay alguien que la hereda, la compra o la arrienda para seguir vendiendo sus antigüedades. Cada nuevo propietario remodela la tienda y eso hace cada vez que pasas por El-Iskandaria y la visitas hay nuevos productos.
+La tienda tiene cierta maldición que hace que sus dueños no duren mucho y cada vez que vas lo lleva alguien distinto. Lo curioso es que siempre hay alguien que la hereda, la compra o la arrienda para seguir vendiendo sus antigüedades. Cada nuevo propietario la remodela y eso hace cada vez que pasas por El-Iskandaria y visitas la tienda hay nuevos productos.
 
 También puedes encontrar trabajos, no es raro que alguien busque un objeto en concreto y haya dejado aviso en la tienda de que compraría tal o cual objeto por una buena suma de dinero si lo alguien lo conseguía.
 
@@ -305,7 +305,7 @@ En la cripta, además, hay un sarcófago vacío con joyas por valor de 20.000 di
 
 Todas las personas sacrificadas en honor a Nyarlathotep pueden ser levantadas como nasnas si deseas crear una aventura basada una invasión de zombis. Quizás tengan que entrar en la pirámide para encontrar algo que detenga a los zombis. O quizás simplemente quieran cargar a caballo desde lo alto de una duna contra una horda de miles y miles de nasnas.
 
-> **Semilla de aventura:** La pirámide acodada de Dashur es perfecta para montar un dungeon para tus schahriars con salas y pasillos, trampas, puertas ocultas, momias y, al final, el tesoro del Faraón Negro.
+> /s/ **Semilla de aventura:** La pirámide acodada de Dashur es perfecta para montar un dungeon para tus schahriars con salas y pasillos, trampas, puertas ocultas, momias y, al final, el tesoro del Faraón Negro.
 
 #### Khaitán
 
@@ -315,7 +315,7 @@ Otro detalle importante es que Khaitán está en la falda del volcán en activo 
 
 Asi como nada nuevo llega a Khaitán, nada sale de Khaitán. Sus gentes ven el exterior como un lugar horrible, lleno de peligros y amenazas. Muy pocas personas salen de Khaitán y normalmente para temas gubernamentales como entregar los impuestos al califa.
 
-La mayoría de la población gentes profesan la religión islámica, pero en una forma pagana, mezclándola con las antiguas leyes, leyes pre-islámicas que incluyen la adoración de dioses ancestrales de Egipto. Por ejemplo, los rituales mortuorios siguen las leyes de la antigua religión como la momificación y adoran a dioses paganos como Ra, Anubis, Set, etc.
+La mayoría de la población gentes profesan la religión islámica, pero en una forma pagana, mezclándola con las antiguas leyes, leyes preislámicas que incluyen la adoración de dioses ancestrales de Egipto. Por ejemplo, los rituales mortuorios siguen las leyes de la antigua religión como la momificación y adoran a dioses paganos como Ra, Anubis, Set, etc.
 
 El gran secreto que esconde Khaitán es que en uno de los campos que están a las afueras hay una losa de mármol enterrada que da acceso a unas criptas donde el poderoso y sabio rey Scheddad ben-Aad, dirigente de Aram-de-las-columnas, escondió un [fabuloso tesoro](#anchortesoroscheddad).
 
@@ -365,7 +365,7 @@ Volubilis era famosa en su tiempo por su aceite. Y también por apresar y vender
 
 Entre los valles y las cimas del Atlas hay una comunidad de estas bestias legendarias que viven tranquilas, lejos de los humanos. La mayoría de estos animales son descendientes de experimentos genéticos que la serpigente realizo en la zona hace miles de años.
 
-> **Semilla de aventura:** El Califa de Bagdad ofrece buenas sumas de dinares para aquellos que cacen extraños criaturas y animales fantásticos para su zoo. Quizás pasarse por Volubilis y hacer una expedición de caza por el Atlas sea una forma de conseguir dinero rápido o el favor del Califa de Bagdad.
+> /s/ **Semilla de aventura:** El Califa de Bagdad ofrece buenas sumas de dinares para aquellos que cacen extraños criaturas y animales fantásticos para su zoo. Quizás pasarse por Volubilis y hacer una expedición de caza por el Atlas sea una forma de conseguir dinero rápido o el favor del Califa de Bagdad.
 
 ## China e India
 

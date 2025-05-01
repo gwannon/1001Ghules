@@ -31,7 +31,7 @@ Puedes usar esta aventuras como una introducción para tus schahriars. Se conoci
 
 Junto con Joven deberían ponerse la desventaja de Hija de un zapatero remendón, aunque excepcionalmente alguno de tus schahriars podría ser incluso rico y de buena familia, pero le gusta mezclarse con las niñas y niños de las calles de Bagdad.
 
-Puedes usar "Historia de la noche en el cementerio" como aventura introductoria para que se conozcan y luego la trama general de "El shatranj de Soleimán". Al final de este cuento salvaje hay una serie de aventuras que no siguen la trama general, pero que puedes intercalar entre medio.
+Puedes usar "Historia de la noche en el cementerio" como aventura introductoria para que se conozcan y luego la trama general de "El shatranj de Suleimán". Al final de este cuento salvaje hay una serie de aventuras que no siguen la trama general, pero que puedes intercalar entre medio.
 
 * Historia de la casa encantada en el zoco de los tejedores
 * Historia de la botella encontrada en el fondo del río Tigris
@@ -146,7 +146,7 @@ Después de acabar en el cementerio podrán volver a reunirse con el Pequeño Co
 
 A partir de ese momento son miembros de pleno derecho del Pequeño Consejo con todos sus beneficios y obligaciones. Además, según su actuación en el cementerio, puedes darle como aliado a Dana, que les puede ayudar sobre todo en temas forenses y del submundo de los mitos en Bagdad.
 
-### El shatranj de Soleimán: Historia del mielero (I)
+### El shatranj de Suleimán: Historia del mielero (I)
 
 _El cadáver de Haquim "el mielero" ha aparecido en las orillas del río Tigris con signos de violencia. Haquim cuidaba del Pequeño Consejo y van a buscar y ajusticiar a su asesino._
 
@@ -186,19 +186,19 @@ Deberán evitar a los celadores (Notar d6) que vigilan el maristán y los enferm
 
 La visión del cadáver, destripado, con los dedos cortados y algo hinchado por una noche en el río, tiene una TPC d6. Desde luego no ayuda la escasa iluminación, el resto de los cadáveres y los gritos de los perturbados encerrados en las cercanas celdas.
 
-Si examinan el cadáver, una tirada de Notar detectará una cicatriz por quemadura con forma de sello de Soleimán, que ninguno de tus schahriars puede reconocer.
+Si examinan el cadáver, una tirada de Notar detectará una cicatriz por quemadura con forma de sello de Suleimán, que ninguno de tus schahriars puede reconocer.
 
-### El shatranj de Soleimán: Historia del las piezas de ébano del shatranj (II)
+### El shatranj de Suleimán: Historia del las piezas de ébano del shatranj (II)
 
 _Haquim murió para robarle sus piezas de ébano de un antiguo juego de shatranj. Habrá que averiguar quién contrató al asesino y porque es tan importante ese juego._
 
 Déjales moverse por la ciudad buscando información. Estos son algunos item de información que pueden sacar.
 
-* En el zoco de alquimistas reconocerán la cicatriz como el sello de Soleimán. Algunas sociedades secretas usan este símbolo como señal para reconocerse entre sus miembros.
+* En el zoco de alquimistas reconocerán la cicatriz como el sello de Suleimán. Algunas sociedades secretas usan este símbolo como señal para reconocerse entre sus miembros.
 * Si enseñan la caja de piezas a diferentes artesanos, nadie ve nada raro. Es una funda muy corriente y barata.
-* Si visitan la Casa de la Sabiduría, sabrán que el poderoso rey Soleimán usaba el shatranj para entrenar tácticas militares con sus generales. Pero aunque hay tableros muy valiosos, ninguno que sea solo de madera es tan especial como para matar.
+* Si visitan la Casa de la Sabiduría, sabrán que el poderoso rey Suleimán usaba el shatranj para entrenar tácticas militares con sus generales. Pero aunque hay tableros muy valiosos, ninguno que sea solo de madera es tan especial como para matar.
 * Si preguntan a los farmacéuticos por un hombre con terribles picaduras de abejas, uno les describirá a un hombre alto, muy fuerte y rapado con muchas cicatrices de heridas muy profundas por todo el cuerpo.
-* Si buscan a jugadores de shatranj, les contarán montones de anécdotas, pero nada útil. Salvo que el rey Soleimán fue el mejor jugador de shatranj de su época.
+* Si buscan a jugadores de shatranj, les contarán montones de anécdotas, pero nada útil. Salvo que el rey Suleimán fue el mejor jugador de shatranj de su época.
 * Si usan contactos en los bajos fondos, parece que hay un grupo sectario nuevo en la ciudad buscando a alguien por las preguntas que hacen. Si tienen la descripción del asesino, el farmacéutico confirmarán la descripción.
 * Un experto en madera les dirá que la caja huele a sándalo, una madera muy cara que seguro se usó, como incrustaciones en las piezas muy valiosas, seguramente de ébano.
 * Si le llevan un pedazo del cuerpo de Haquim "el mielero" a Dana y le dan una buena descripción del cadáver, está podrá decirles que lo torturaron antes de matarlo. Estaba atado y le fueron cortando dedos hasta que confeso. Entonces lo destriparon. Por la heridas, el torturador debía ser alguien muy fuerte.
@@ -209,7 +209,7 @@ Si tienen una descripción, el Pequeño Consejo pondrá en avisos a todos los br
 
 Por otro lado, encargarán al grupo que averigüen más del shatranj, si no es tan valioso económicamente como para torturar y matar. Quizás esconda una pista de algo de gran valor o tenga capacidades mágicas ocultas. El mejor sitio para descubrir todo eso sería la Casa de la Sabiduría.
 
-### El shatranj de Soleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
+### El shatranj de Suleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
 
 [![Two shatranj players in a detail from a Persian miniature painting of Bayasanghori Shahname made in 1430](./images/shatranj.jpg)](https://en.wikipedia.org/wiki/Shatranj#/media/File:Bayasanghori_Shahnameh_5_(cropped).jpg "Two shatranj players in a detail from a Persian miniature painting of Bayasanghori Shahname made in 1430") 
 
@@ -239,20 +239,20 @@ Acumulando 3 tiradas exitosas (contando los avances) de Investigar encontrarán 
 
 Pueden intentar robarlo u ojearlo rápidamente y dejarlo donde estaban. Si se lo llevan, nada lo echará en falta y tendrán su primer grimorio mágico. Si quieren llevarse otros libros, asústales con las penas por robo y que alguno de esos tomos podrían matarlos o volverles locos con solo abrirlos.
 
-#### El shatranj de Soleimán
+#### El shatranj de Suleimán
 
 > Cuando entre en los aposentos del Emir, este estaba leyendo una carta. Tras leerla se acercó a un tablero de shatranj e hizo un movimiento con las figuras de marfil, mientras mascullaba para sus adentros. Empezó a dar vueltas alrededor del shatranj y cuando se percató de mi presencia, me dijo: "Acércate, ¿qué te parece?"  
 > Cuando mis ojos se posaron en el viejo tablero, mi vista se nubló, las dimensiones del tablero se distorsionaron de maneras imposibles y las figuras parecía que tomarán vida. Tomo a mi alrededor cambió, ya no estaba en el palacio del emir, sino en un lugar vació y oscuro donde no sabía lo que era arriba y abajo. De repente, sentí la mano del emir en mi espalda. La oscuridad ya no estaba y yo volví, pero yo no quería acercarme al shatranj, nunca jamás.
 
 Secretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
 
-Este juego de shatranj, creado por el poderoso soberano Soleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
+Este juego de shatranj, creado por el poderoso soberano Suleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
 
 Los peones son infantería, los caballos caballería ligera, los elefantes caballería pesada y carros de guerra y las torres fortalezas y maquinaria de asedio.
 
-Soleimán creo este artefacto a partir de tecnología yinn con el objetivo de practicar y aprender tácticas de guerra. El tablero simula movimientos enemigos, ataques sorpresa, huidas, reagrupaciones, etc. y el jugador humano mueve sus fichas y sus ejércitos respondiendo o adelantándose a los movimientos del enemigo. Cuando el mared del tablero lo considera oportuno otorga la victoria al jugador ébano o marfil. Las ilusiones pueden ser a veces muy realistas y podrían suplantar incluso a mensajeros y oficiales que darían órdenes de atacar objetivos reales.
+Suleimán creo este artefacto a partir de tecnología yinn con el objetivo de practicar y aprender tácticas de guerra. El tablero simula movimientos enemigos, ataques sorpresa, huidas, reagrupaciones, etc. y el jugador humano mueve sus fichas y sus ejércitos respondiendo o adelantándose a los movimientos del enemigo. Cuando el mared del tablero lo considera oportuno otorga la victoria al jugador ébano o marfil. Las ilusiones pueden ser a veces muy realistas y podrían suplantar incluso a mensajeros y oficiales que darían órdenes de atacar objetivos reales.
 
-A la muerte de Soleimán dejo escrito que el tablero y las piezas fueran separadas y entregadas a diferentes personas que deberían guardarlas y no permitir que se vuelva a juntar el juego.
+A la muerte de Suleimán dejo escrito que el tablero y las piezas fueran separadas y entregadas a diferentes personas que deberían guardarlas y no permitir que se vuelva a juntar el juego.
 
 ##### La verdad sobre el shatranj
 
@@ -260,9 +260,9 @@ El shatranj es un artilugio creado por un "científico loco" al migho hecho con 
 
 El objetivo de este sorprendente objeto era alejar a los intrusos de las zonas donde los al mighos tienen sus asentamientos. La idea de su creador es tener un sistema que automáticamente alejara a los humanos que tienen la costumbre de meter sus narices donde nos les incumbe.
 
-El Rey Soleimán consiguió este artefacto en una de sus batallas contra los al mighos y lo reprogramó en sus funciones actuales y lo oculto dentro de un tablero de shatranj. Desde entonces exploradores al migho lo llevan buscando para replicar su tecnología.
+El Rey Suleimán consiguió este artefacto en una de sus batallas contra los al mighos y lo reprogramó en sus funciones actuales y lo oculto dentro de un tablero de shatranj. Desde entonces exploradores al migho lo llevan buscando para replicar su tecnología.
 
-### El shatranj de Soleimán: Historia de la estatua ecuestre mágica (IV)
+### El shatranj de Suleimán: Historia de la estatua ecuestre mágica (IV)
 
 _Los espías y exploradores del Califa traen malas noticias, los enemigos del califa están preparándose en la frontera para atacar Bagdad. Alguien deberá avisar al Califa de que todos los movimientos enemigos son ilusiones._
 
@@ -310,7 +310,7 @@ Si fallas podrán intentarlo otra noche e igual se les ocurre tener un carro o m
 
 Sea como sea, la figura aterrizará cerca de un bazar de alimentación de la zona sur de Karkh. No es mucho, pero acotará mucho la búsqueda. Podrán informar a Giafar del sabotaje y que él y califesa tenían razón. Giafar les dará 200 dinares por sus servicios de los que Fátima cogerá 50 para la caja de resistencia.
 
-### El shatranj de Soleimán: Historia de como el Pequeño Consejo evitó una guerra (V)
+### El shatranj de Suleimán: Historia de como el Pequeño Consejo evitó una guerra (V)
 
 [![Summary Execution under the Moorish Kings of Granada (1870), Henri Regnault](./images/ejecucion.jpg)](https://en.wikipedia.org/wiki/Henri_Regnault#/media/File:Henri_regnault_maures_grena.jpg "Summary Execution under the Moorish Kings of Granada (1870), Henri Regnault") 
 
@@ -356,7 +356,7 @@ Astarte es una diosa lunar y en las noches de cambio de fase hay ceremonias reli
 
 Una tirada de Notar detectará una salida secreta que sale a la calle directamente. En realidad era el conducto de recogida de lluvia, pero ahora se usa de vía de escape.
 
-En una esquina hay una mesita de madera con un shatranj de Soleimán con las piezas con quitar una sola pieza o rendir un rey, su poder desaparece (Tácticas) y nadie excepto Ibrahim lo notará. Si roban el shatranj entero lo notarán, pero tendrán una prueba irrefutable que Giafar podrá enseñar al Califa.
+En una esquina hay una mesita de madera con un shatranj de Suleimán con las piezas con quitar una sola pieza o rendir un rey, su poder desaparece (Tácticas) y nadie excepto Ibrahim lo notará. Si roban el shatranj entero lo notarán, pero tendrán una prueba irrefutable que Giafar podrá enseñar al Califa.
 
 #### Redada
 
@@ -378,7 +378,7 @@ Adicionalmente, el fondo de resistencia recibirá 5.000 dinares y Fátima entreg
 
 **Recompensa de cordura:** Si consiguen detener el plan de la Progenie y los al mighos y asistes a la feria del califa, recuperarán algo de su infancia perdida, esa que las calles de Bagdad les arrebataron. Devuelves todos los puntos de cordura perdida en la aventura y si no han perdido nada podrán quitarse un trastorno que hayan adquirido.
 
-> **Semilla de aventura:** El plan de la Progenie de la Luna ha sido frustrado, pero todavía queda acabar son sus miembros en Balaz Rud y los yinns malvados que los dirigen. Son muy peligrosos como para dejarlos escapar y que puedan volver a conspirar contra el Califa y la ciudad. Pero primero habrá que encontrar su guarida en la región de Balad Ruz.
+> /s/ **Semilla de aventura:** El plan de la Progenie de la Luna ha sido frustrado, pero todavía queda acabar son sus miembros en Balaz Rud y los yinns malvados que los dirigen. Son muy peligrosos como para dejarlos escapar y que puedan volver a conspirar contra el Califa y la ciudad. Pero primero habrá que encontrar su guarida en la región de Balad Ruz.
 
 ### Historia de la botella encontrada en el fondo del río Tigris
 
@@ -398,7 +398,7 @@ Si siguen sin tenerle mucho miedo a lo que pueda contener la botella, diles que 
 
 Cuando tengan un plan más o menos viable de que cómo van a abrir la botella, permíteles que lo lleven a cabo y simplemente tira en la Tabla de Objetos en botellas selladas y que salga lo que salga.
 
-> **Semilla de aventura:** Otras opciones al abrir la botella pueden ser que los engulla y los encierre en algún tipo dimensión mazmorra, los mande a las Tierras del Sueño, viajen al futuro o acaben en el Japón feudal o el México precolombino. La botella es una forma sencilla de iniciar una campaña diferente a las líneas generales de esta ambientación.
+> /s/ **Semilla de aventura:** Otras opciones al abrir la botella pueden ser que los engulla y los encierre en algún tipo dimensión mazmorra, los mande a las Tierras del Sueño, viajen al futuro o acaben en el Japón feudal o el México precolombino. La botella es una forma sencilla de iniciar una campaña diferente a las líneas generales de esta ambientación.
 
 ### Historia del dibujante de Laylays
 
@@ -478,7 +478,7 @@ Unas tiradas de Persuadir e Investigar les dejarán claro que el punto en común
 
 #### El guiñol
 
-Cuando lleguen a la plaza del zoco, el espectáculo estará a punto de empezar. Puede investigar por la zona o atender a la obra. Si ponen atención a la obra caerán en su hechizo. Si se zafan de su influjo podrán ver que pasa en realidad. La audiencia está como hipnotizada, asintiendo con la cabeza cuando la marioneta del yinn les dicta órdenes. Con una tirada de Saber de Soleimán detectarán que la joya tiene poderes hipnóticos y con un avance podrían elaborar la teoría de que el yinn es una representación de algún avatar de un dios exterior llamado Nyarlathotep.
+Cuando lleguen a la plaza del zoco, el espectáculo estará a punto de empezar. Puede investigar por la zona o atender a la obra. Si ponen atención a la obra caerán en su hechizo. Si se zafan de su influjo podrán ver que pasa en realidad. La audiencia está como hipnotizada, asintiendo con la cabeza cuando la marioneta del yinn les dicta órdenes. Con una tirada de Saber de Suleimán detectarán que la joya tiene poderes hipnóticos y con un avance podrían elaborar la teoría de que el yinn es una representación de algún avatar de un dios exterior llamado Nyarlathotep.
 
 #### Las marionetas mágicas
 
@@ -500,7 +500,7 @@ Hay muchas formas de enfrentarse al morshed para evitar que siga con sus malvado
 
 Si consiguen su joya, el titiritero se irá de la ciudad y desaparecerá para siempre. Tendrán, entonces, un peligroso objeto mágico de bastante valor (10.000 o 15.000 dinares). Si consiguen que le detengan, dará con sus huesos en la cárcel y la joya terminará en manos de Giafar, el visir del Califa.
 
-> **Semilla de aventura:** Si consiguen averiguar de donde saco la joya el morshed, puedan ir a ese lugar a ver si hay más tesoros. O quizás les diga donde encontró la piedra preciosa roja si le dejan escapar antes de que le apresen los guardas.
+> /s/ **Semilla de aventura:** Si consiguen averiguar de donde saco la joya el morshed, puedan ir a ese lugar a ver si hay más tesoros. O quizás les diga donde encontró la piedra preciosa roja si le dejan escapar antes de que le apresen los guardas.
 
 ### Historia del monstruo encerrado en la casa de las fieras
 
@@ -628,7 +628,7 @@ Pueden intentar varias líneas de investigación.
 
 * **Colarse en casa de almotacén:** la casa (Latrocinio para abrir la cerradura de casa) solo dirá que es muy riguroso y estricto en su forma de ser. Todo está inmaculado y nada fuera de lugar.
 * **Visitar su oficina en el zoco:** su oficina como su casa está muy ordenada, todo el papeleo hecho y clasificado. Una tirada de Notar les mostrará unos pliegos con comerciantes denunciados por hacer trampas en los pesos. 3 de ellos parece que están prohibidos en el zoco.
-* **Conocimientos mágicos:** Una tirada de Saber de Soleimán de tus schahriars o sus aliados dejará que están ante una vieja maldición que hace siglos que no se usa. Se hace un montón de arena con un objeto personal del maldito dentro. Según el viento se lleva arena, el objetivo se hace más pequeño hasta que no queda arena y desaparece. La única forma de parar la maldición es echar más arena y se cancela cogiendo el montón y dejándolo en el desierto, de forma que el viento nunca acabe la arena.
+* **Conocimientos mágicos:** Una tirada de Saber de Suleimán de tus schahriars o sus aliados dejará que están ante una vieja maldición que hace siglos que no se usa. Se hace un montón de arena con un objeto personal del maldito dentro. Según el viento se lleva arena, el objetivo se hace más pequeño hasta que no queda arena y desaparece. La única forma de parar la maldición es echar más arena y se cancela cogiendo el montón y dejándolo en el desierto, de forma que el viento nunca acabe la arena.
 * **Hablar con sus amistades:** si hablan con son sus amigos, vecinos y demás, le dirán que estaba soltero y era muy estricto en costumbres, tanto como sus pesos y medidas. En el hammam se baña siempre en la misma bañera con la misma temperatura. Lleva cortándose el pelo igual desde hace años y siempre come lo mismo, siguiendo una dieta pesada y medida. Una tirada de persuadir con una invitación a comida o bebida hará que la gente del zoco les diga que tenía 3 enemigos, tres tramposos dependientes que hacían trampas con el peso.
 
 #### Sospechosos habituales
@@ -794,7 +794,7 @@ Adif no está ni muerto ni vivo, está en un estado intermedio de muerte en vida
 Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer la casa. La única forma de acabar definitivamente con él es haciendo algún hechizo de Destierro. También acabará con él sacando su cuerpo de la casa y exponiéndole a la luz del sol. El problema es sacar un cadáver a la calle a la vista de todos y que se convierta en polvo al darle la luz del sol. Además, las calles aledañas están cubiertas de telas de los tejedores y teñidores y el sol no entra nunca. Deberán salir del arrabal para que el sol ilumine las calles.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
-* **Habilidades:** Atletismo d6, Conocimientos Generales d10, Humanidades d10, Idioma Materno d10, Intimidar d8, Notar d8, Persuadir d4, Pelear d6, Saber de Soleimán d8, Sigilo d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d10, Humanidades d10, Idioma Materno d10, Intimidar d8, Notar d8, Persuadir d4, Pelear d6, Saber de Suleimán d8, Sigilo d6
 * **Paso:** 4; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Nuevos poderes, Puntos de poder
 * **Capacidades especiales:**
@@ -835,7 +835,7 @@ Para controlar lo que pasa en todo momento hay una serie de mirillas en las pare
 
 #### Primera sala
 
-En esta sala se despertarán tus schahriars. Estarán atados de pies y manos y en la pared estará escrito en grandes letras "Solo uno sobrevivirá para servir a la Mano Dorada". Una tirada de Saber de Soleimán les dirá que la Mano Dorada es una secta de adoradores de un dios pagano llamado Suc’Naath. Con avances dales más datos de la descripción de la secta.
+En esta sala se despertarán tus schahriars. Estarán atados de pies y manos y en la pared estará escrito en grandes letras "Solo uno sobrevivirá para servir a la Mano Dorada". Una tirada de Saber de Suleimán les dirá que la Mano Dorada es una secta de adoradores de un dios pagano llamado Suc’Naath. Con avances dales más datos de la descripción de la secta.
 
 Les han quitado las armas, las herramientas y en general cualquier objeto grande que portaran, solo tienen sus ropas y cosas pequeñas como anillos o amuletos. Objetos mágicos como un kohl de invisibilidad o sangre de fénix hay un 50% de posibilidades de que los detecte y se los quite.
 
@@ -920,11 +920,11 @@ Por la noche, mientras la expedición descansa, a la luz de las hogueras se desa
 
 #### Antecedentes: la primera expedición a la Ciudad de Bronce
 
-> Un día en que el califa, oyendo hablar de ciertos vasos de cobre antiguo, cuyo contenido era una extraña humareda negra de formas diabólicas, asombrose en extremo y parecía poner en duda la realidad de hechos tan verídicos, hubo de levantarse entre los circunstantes el famoso viajero Taleb ben-Sehl, quien confirmó el relato que acababan de escuchar, y añadió: "En efecto, ¡oh Emir de los Creyentes! esos vasos de cobre no son otros que aquellos donde se encerraron, en tiempos antiguos, a los genios que se rebelaron ante las órdenes de Soleimán, vasos arrojados al fondo del mar mugiente, en los confines del Magreb, en el África occidental, tras de sellarlos con el sello temible. Y el humo que se escapa de ellos es simplemente el alma condensada de los efrits, los cuales no por eso dejan de tomar su aspecto formidable si llegan a salir al aire libre".
+> Un día en que el califa, oyendo hablar de ciertos vasos de cobre antiguo, cuyo contenido era una extraña humareda negra de formas diabólicas, asombrose en extremo y parecía poner en duda la realidad de hechos tan verídicos, hubo de levantarse entre los circunstantes el famoso viajero Taleb ben-Sehl, quien confirmó el relato que acababan de escuchar, y añadió: "En efecto, ¡oh Emir de los Creyentes! esos vasos de cobre no son otros que aquellos donde se encerraron, en tiempos antiguos, a los genios que se rebelaron ante las órdenes de Suleimán, vasos arrojados al fondo del mar mugiente, en los confines del Magreb, en el África occidental, tras de sellarlos con el sello temible. Y el humo que se escapa de ellos es simplemente el alma condensada de los efrits, los cuales no por eso dejan de tomar su aspecto formidable si llegan a salir al aire libre".
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 338)
 
-Hace 60 años, el califa de Damasco, Abdalmalek ben-Merwán oyo hablar de una leyenda de unos vasos de cobre donde el gran Soleimán encerró usando su propio sello a los yinns que se rebelaron contra él. Dichos vasos los arrojó al mar desde una alta montaña en cuyos pies estaba la Ciudad de Bronce.
+Hace 60 años, el califa de Damasco, Abdalmalek ben-Merwán oyo hablar de una leyenda de unos vasos de cobre donde el gran Suleimán encerró usando su propio sello a los yinns que se rebelaron contra él. Dichos vasos los arrojó al mar desde una alta montaña en cuyos pies estaba la Ciudad de Bronce.
 
 Deseoso el califa de ver tal prodigio, montó una expedición de más de 2.000 camellos con agua y comida y unas 300 personas entre guardas, montaraces, intendentes y peones. Estaba dirigida por su amigo y siervo del califa, el emir Muza ben-Nossair, gobernador del Magreb. Este enroló a su amigo y famoso explorador, el jeique Abdossamad.
 
@@ -1087,7 +1087,7 @@ Si pasan una tirada de Sigilo podrán pillarlos sorprendidos. Los sukaan luchar�
 
 Además de las tiradas de botín de los sukaans, hay una tirada extra de d8 de la basura de la entrada de la cueva, si son libros (creados con las tablas de libros) estarán dañados, si salen dañados estarán muy dañados y si salen muy dañados estarán destruidos y se perderán la tirada de botín.
 
-> **Semilla de aventura:** Uno de los exploradores que iba en el grupo ha sido poseído y en unas semanas se convertirá en un sukaan completo. Mientras se dedicará a matar a gente de la expedición y devorar su carne.
+> /s/ **Semilla de aventura:** Uno de los exploradores que iba en el grupo ha sido poseído y en unas semanas se convertirá en un sukaan completo. Mientras se dedicará a matar a gente de la expedición y devorar su carne.
 
 #### Misterio: La pelea
 
@@ -1157,7 +1157,7 @@ En cuanto la luz de la luna entre en la claraboya e ilumine la estancia, gracias
 * **Equipo:** Khopesh digno de un califa (FUE+d8)
 * **TPC:** 1d6
 
-Una tirada de Saber de Soleimán les dirá que seguramente la pirámide fue enterrada por sus propios súbditos para que no pudiera volver a la vida gracias a luz de la luna, representada por la diosa Isis.
+Una tirada de Saber de Suleimán les dirá que seguramente la pirámide fue enterrada por sus propios súbditos para que no pudiera volver a la vida gracias a luz de la luna, representada por la diosa Isis.
 
 Si no traen fuentes de luz, en toda la pirámide habrá oscuridad completa (-6), solo habrá algo de iluminación (Oscuridad -4) en la tercera sala, cuando entre la luna en la tercera estancia y cuando entre la luz de luna habrá penumbra (-2).
 
@@ -1218,7 +1218,7 @@ Mientras se muevan en los terrenos inundados del delta del Nilo, puedes montar e
 
 Si algún schahriar consigue una tirada de Supervivencia muy buena, puede que encuentran un templo egipcio antiguo que las aguas han sacado del fango. En el templo tendrán un botín d8 y por lo menos la mitad de las riquezas deberán compartirlas con el resto de la caravana. Los objetos que encuentren tendrán un 30% de posibilidades de que el agua los haya estropeado.
 
-Puedes hacer que el templo sea de la diosa con cabeza de hipopótamo Tawaret (diosa de la fertilidad) y que haya una manada de estos animales protegiendo el lugar. Y si deseas un toque más lovecraftsiano, podría haber [Vástagos de Astarte](anchorvastagoastarte), en este caso de Tawaret que protege el templo de su madre.
+Puedes hacer que el templo sea de la diosa con cabeza de hipopótamo Tawaret (diosa de la fertilidad) y que haya una manada de estos animales protegiendo el lugar. Y si deseas un toque más lovecraftiano, podría haber [Vástagos de Astarte](anchorvastagoastarte), en este caso de Tawaret que protege el templo de su madre.
 
 #### Misterio: Documentarse
 
@@ -1231,11 +1231,11 @@ Alya les va a dar 1 día para buscar el libro, eso supone que podrán gastar la 
 Si pasan las tiradas de Investigar, podrán encontrar dos tomos interesantes.
 
 * **Genealogías de las tierras ignotas (NP 6, árabe)** Este libro son páginas y páginas de genealogías y árboles genealógicos de nobles, reyes y príncipes de tierra desconocidas o muy lejanas. Se pueden encontrar varias referencias a la princesa Tadnaar, aunque ninguna específica de la princesa. Estudiándolo podría hacerse una genealogía de la princesa Tadnaar a partir de las referencias en otras genealogías. Eso exigiría una semana de lectura del libro y otra de estudio y trabajo hilvanando las ramas de los árboles genealógicos.
-* **De antiguas maldiciones (NP 4, griego jónico)** Este tratado griego explica diferentes maldiciones y los lugares sobre las que cayeron. Si bien no habla de la maldición que cae sobre la Ciudad de Bronce, da muchas ideas sobre las causas de las maldiciones y cómo revertirlas. Otorga, si se puede consultar por 1 hora o más, +1 a las tiradas de Saber de Soleimán en tema de maldiciones.
+* **De antiguas maldiciones (NP 4, griego jónico)** Este tratado griego explica diferentes maldiciones y los lugares sobre las que cayeron. Si bien no habla de la maldición que cae sobre la Ciudad de Bronce, da muchas ideas sobre las causas de las maldiciones y cómo revertirlas. Otorga, si se puede consultar por 1 hora o más, +1 a las tiradas de Saber de Suleimán en tema de maldiciones.
 
 ##### Intercambio de libros
 
-El [bibliotecario de la Cúpula](#anchorcultistasuperior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios. El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Soleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
+El [bibliotecario de la Cúpula](#anchorcultistasuperior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios. El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Suleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
 
 Las tiradas serán secretas y solo las sabrá cada parte de la negociación. Si acierta sabe el nivel del libro que tiene entre manos y si falla deberá tirar un dado igual al poder del libro hacia abajo (NP 9 será un d8 que puede explotar). Esa será el NP del libro para cada parte.
 
@@ -1303,7 +1303,7 @@ Si el encapuchado se escapa o se quema el diario, es una perdida, pero no es tan
 
 Si son un poco avispados, se darán cuenta de que es raro que la princesa estuviera totalmente vestida a esas horas de la noche cuando debería estar durmiendo. La razón es que como descendiente de profundo no duerme casi nunca, pero tus schahriars pueden interpretarlo de muchas formas.
 
-Si la vigilan las siguientes noches, verán que casi no duerme. Se va la última a dormir y está despierta demasiado pronto. Tras averiguar esto, pueden hacer una tirada de Saber de Soleimán para descubrir que igual no es totalmente humana.
+Si la vigilan las siguientes noches, verán que casi no duerme. Se va la última a dormir y está despierta demasiado pronto. Tras averiguar esto, pueden hacer una tirada de Saber de Suleimán para descubrir que igual no es totalmente humana.
 
 ### 6ª etapa. Sahara
 
@@ -1327,7 +1327,7 @@ Parece algún tipo templo con grandes capiteles sobre altas columnas que el vien
 
 Las inscripciones de las paredes son caracteres jónicos, pero no parece descifrable con sus medios. Con una tirada de Reparar podrían hacer copias en telas. Una tirada de Investigar les dirá que se repite un motivo, una bola de barro que contiene unas losas de piedra escrita como si fuera las tablas de la ley de Moisés.
 
-Saber de Soleimán les permitirá saber que eso parece un icono que representa a especie de yinn de gran poder llamado Ubbo-Sathla, que está asociado con la vida vegetal. Se sabe de esclavos del África subsahariana que adoran a esta entidad.
+Saber de Suleimán les permitirá saber que eso parece un icono que representa a especie de yinn de gran poder llamado Ubbo-Sathla, que está asociado con la vida vegetal. Se sabe de esclavos del África subsahariana que adoran a esta entidad.
 
 En el centro de las ruinas hay pozo de agua (5x5 casillas) lleno de plantas flotadoras de grandes hojas. Una de ellas en el centro del pozo y de mayor tamaño parece que tiene una flor de metro y medio de altura. Dentro de la flor hay tres especies de semillas que irradian un brillo verdoso. Cada semilla es una [semilla de Khizr](#anchorsemillakhizr), una pequeña parte de la esencia de Ubbo-Sathla.
 
@@ -1356,7 +1356,7 @@ Al-Lawati como defensor ha puesto a tus schahriars a investigar lo que ha pasado
 Pueden seguir otras pistas:
 
 * Si inspeccionan el cadáver con Medicina verán que fue acuchillado 2 veces en puntos mortales mientras dormía. La víctima no tuvo tiempo ni de defenderse ni de gritar. Una tirada de Latrocinio dirá que parece cosa de un profesional.
-* Si buscan rastros desde la tienda de Isbar, hay unas gotas de sangre y pisadas en la arena que enseguida desaparecen. Una tirada de Notar encontrará plumas en el lugar. Hace días que no ven ningún ave por la zona y menos con el tamaño que dan a entender esas plumas. Saber de Soleimán podría decirles que puede ser Sangre de Fenix, que te permite volar al crecerte alas. El crecimiento suele ser traumático y violento.
+* Si buscan rastros desde la tienda de Isbar, hay unas gotas de sangre y pisadas en la arena que enseguida desaparecen. Una tirada de Notar encontrará plumas en el lugar. Hace días que no ven ningún ave por la zona y menos con el tamaño que dan a entender esas plumas. Saber de Suleimán podría decirles que puede ser Sangre de Fenix, que te permite volar al crecerte alas. El crecimiento suele ser traumático y violento.
 * Si preguntan, nadie vio ni escuchó nada. El cadáver lo encontró un compañero al ir a buscarle para desayunar.
 * Si hacen pruebas a la sangre de la ropa de Barukh, es sangre y seguro que es humana, pero una tirada de Latrocinio/Ciencias les dirá que las manchas deberían ser diferentes.
 * Si preguntan mágicamente a los camellos, estos le dirán que se acercó alguien a la noche y el más viejo de los camellos de Barukh se despertó. Y vio como una figura lanzaba una piedra que al golpear a Barukh pringo sus ropas de un líquido rojo.
@@ -1398,7 +1398,7 @@ La tormenta durará 4 días, 4 días de ruido constante, problemas para respirar
 
 La segunda noche, Adira ben-Hamed, una de las doctoras contratadas por Alya, expondrá un curioso caso médico en un par de camelleros. Las plantas de los pies están llenas de llagas y están muy blancos como si sufrieran anemia. Nunca ha visto nada parecido y que ocurriese tan rápido, ya que el día anterior estaban en perfecto estado de salud.
 
-Pueden ir a ver a los pacientes, pero no sacarán mucho más de lo que les ha dicho la doctora. Una tirada de Saber de Soleimán puede decirles que los camelleros son víctimas de unos palis. Si fallan será al-Lawati quien se los diga.
+Pueden ir a ver a los pacientes, pero no sacarán mucho más de lo que les ha dicho la doctora. Una tirada de Saber de Suleimán puede decirles que los camelleros son víctimas de unos palis. Si fallan será al-Lawati quien se los diga.
 
 Lleva desde que se levantó la tormenta, avisando a la gente de que duerma con las plantas de los pies apoyadas contra el camello o contra otra persona. Pero bajo ninguna circunstancia dejen las plantas de los pies al descubierto. Parece que estos dos no le hicieron caso.
 
@@ -1458,11 +1458,11 @@ _La caravana ha encontrado un extraño edificio abandonado con una cúpula de or
 
 Este palacio fue creado Kusch ben-scheddad ben-Aad hijo del Rey Scheddad ben-Aad fundador de la ciudad de Aram-de-las-columnas. En un sarcófago se puede [leer su historia](#anchorsarcofagokusch).
 
-Una tirada de Saber de Soleimán dejará clara la relación entre esta cúpula de oro que sirve de mausoleo para Kusch ben-scheddad ben-Aad y la ciudad de Aram-de-las-Columnas construida por su padre, el rey Scheddad ben-Aad. Una tirada de Humanidades permitirá establecer claras similitudes entre la cúpula y Aram (tirada normal si han estado en Aram y -2 si solo saben de ella por los libros).
+Una tirada de Saber de Suleimán dejará clara la relación entre esta cúpula de oro que sirve de mausoleo para Kusch ben-scheddad ben-Aad y la ciudad de Aram-de-las-Columnas construida por su padre, el rey Scheddad ben-Aad. Una tirada de Humanidades permitirá establecer claras similitudes entre la cúpula y Aram (tirada normal si han estado en Aram y -2 si solo saben de ella por los libros).
 
 Tras la caída de Aram, el príncipe Kusch prefirió buscar su destino en la Tierra con sus fieles, mientras el rey Scheddad abandonaba nuestro mundo con sus súbditos.
 
-> **Semilla de aventura:** Un jugador podría intentar hablar con los muertos y sacar información al Rey Kusch que podría saber la ubicación de la fabulosa ciudad de Aram-de-las-columnas fundada por su padre, el Rey Scheddad ben-Aad, o tratar de averiguar dónde enterró su fabuloso tesoro cuando colapsó Aram y la abandonaron.
+> /s/ **Semilla de aventura:** Un jugador podría intentar hablar con los muertos y sacar información al Rey Kusch que podría saber la ubicación de la fabulosa ciudad de Aram-de-las-columnas fundada por su padre, el Rey Scheddad ben-Aad, o tratar de averiguar dónde enterró su fabuloso tesoro cuando colapsó Aram y la abandonaron.
 
 [![Imagen de Ylanite Koppens en Pixabay](./images/cuervo.jpg)](https://pixabay.com/es/illustrations/p%C3%A1jaro-cuervo-animal-patr%C3%B3n-8149449/ "Imagen de Ylanite Koppens en Pixabay") 
 
@@ -1472,7 +1472,7 @@ Si pueden volar el resultado es el mismo según se acerquen al oro. La única fo
 
 No conseguir el oro, será un bajón muy grande para la moral de la gente. Venían a por este tipo de riquezas y no las han podido conseguir. Si se llevan el oro habrán profanado la tumba de un príncipe.
 
-> **Semilla de aventura:** Los espíritus del príncipe de Kusch y sus mil caballeros buscarán y ejecutarán a todos los ladrones y devolverán el oro a la tumba. Otra opción es que les caiga una maldición y solo devolviendo el oro puedan deshacer la maldición.
+> /s/ **Semilla de aventura:** Los espíritus del príncipe de Kusch y sus mil caballeros buscarán y ejecutarán a todos los ladrones y devolverán el oro a la tumba. Otra opción es que les caiga una maldición y solo devolviendo el oro puedan deshacer la maldición.
 
 #### Misterio: La decisión
 
@@ -1550,7 +1550,7 @@ Están el desierto, pero una tirada de Supervivencia les dirá que las pocas esp
 
 Si alguien intentase lanzar hechizos basados en el sueño, como Mecer o Interpretar sueños, fallarán siempre. Tampoco funcionará ningún objeto con ornamento de sueño, como la alfombra de piel de serpiente.
 
-Dales pistas de que ya no están en su mundo y cuando tengan varias, permíteles si te piden una de Saber de Soleimán para saber donde están.
+Dales pistas de que ya no están en su mundo y cuando tengan varias, permíteles si te piden una de Saber de Suleimán para saber donde están.
 
 Si la idea de que ya no están en este mundo, sino en de los sueños, pasará lo mismo que con la estatua ecuestre. 3d6 personas perderán la poca cordura que les quede al darse de que están perdidos en una tierra extraña.
 
@@ -1594,7 +1594,7 @@ Según el emir Muza y su diario, la segunda inscripción hace referencia al paso
 
 Este tercer verso resumen los otros dos, hablando de cómo a todos nos espera a la muerte y de como el tiempo hará que todo lo que hicimos en vida sea olvidado y más tarde o más temprano se convierta en polvo y sea arrastrado por el viento.
 
-> **Cuarta inscripción:** "¡Oh el misterio del nacimiento y de la muerte! ¿Por qué nacer, si hay que morir? ¿Por qué vivir, si la muerte da el olvido de la vida? ¡Pero sólo Alah conoce los destinos, y nuestro deber es inclinarnos ante El con obediencia muda!"
+> **Cuarta inscripción:** "¡Oh el misterio del nacimiento y de la muerte! ¿Por qué nacer, si hay que morir? ¿Por qué vivir, si la muerte da el olvido de la vida? ¡Pero solo Alah conoce los destinos, y nuestro deber es inclinarnos ante El con obediencia muda!"
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 343)
 
@@ -1642,7 +1642,7 @@ Si se ponen a investigar podrán descubrir diferentes cosas:
 * La gente tiene ropa actual, van a la última moda de Bagdad y Damasco. Lo cual no tiene sentido teniendo en cuenta que la ciudad lleva milenios congelada en el tiempo. De hecho, si van a zonas nuevas, la gente tiene ropa medianamente moderna, pero de hace unos 30 0 40 años, pero en los siguientes días parecerá que se ha actualizado sutilmente. Con Humanidades se darán cuenta de que la ropa es de tiempos de la primera expedición.
 * Si estudian a las personas congeladas (Notar) verán que hay extraños detalles, como si fuera una simulación por ordenador y tuviera bugs porque el programador no entendiera como es la realidad que está programando. Por ejemplo, los sirvientes van en la posición de los amos, los soldados llevan las armas y en escudo en manos equivocadas, en los bares las jarras para el agua tienen vino y las de agua vino. Se creativo con estos detalles.
 
-Cuando lo creas oportuno y tus schahriars hayan conseguido averiguado alguno de los puntos anteriores podrán tirar Saber de Soleimán y descubrir que están dentro del sueño de alguien. La ciudad es una representación onírica de un ser de gran poder que puede darle forma física en la Tierra de los sueños.
+Cuando lo creas oportuno y tus schahriars hayan conseguido averiguado alguno de los puntos anteriores podrán tirar Saber de Suleimán y descubrir que están dentro del sueño de alguien. La ciudad es una representación onírica de un ser de gran poder que puede darle forma física en la Tierra de los sueños.
 
 Alya desaparecerá la primera noche mientras duermen. Asi que al-Lawati y Mahmoud Assy montarán un grupo de búsqueda, dejando a tus schahriars solos para explorar la ciudad. Puedes usar avistamientos de la princesa para moverles por toda la ciudad para que vean todo lo que pasa. Debes recordarles el aviso del gremio de no cercarse al gran palacio.
 
@@ -1933,7 +1933,7 @@ La Cúpula del libro solo deja consultar sus libros y en muy extraños casos int
 
 ##### Intercambio de libros
 
-El [bibliotecario de la Cúpula](#anchorcultistasuperior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios. El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Soleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
+El [bibliotecario de la Cúpula](#anchorcultistasuperior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios. El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Suleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
 
 Las tiradas serán secretas y solo las sabrá cada parte de la negociación. Si acierta sabe el nivel del libro que tiene entre manos y si falla deberá tirar un dado igual al poder del libro hacia abajo (NP 9 será un d8 que puede explotar). Esa será el NP del libro para cada parte.
 
@@ -2166,7 +2166,7 @@ La secta ha descubierto un líquido negro (petróleo) que a veces se encuentra e
 
 Seguidores del Fuego y de la Luz invocando a Nardún
 
-Está mágica llama les permitirá iniciar el ritual que abrirá los cielos y permitirá que Nardún entre en nuestro mundo. Consumirá con su fuego todo lo que encuentre y cuando esté saciado volverá a su realidad. La secta espera ofrecerse como sacrificio a Nardún y ser consumido por su fuego de forma que formen parte de él para toda la eternidad. También especulan que los convertirá en Fuegos de la Yahannam que servirán a su señor hasta que su llama se apague.
+Está mágica llama les permitirá iniciar el ritual que abrirá los cielos y permitirá que Nardún entre en nuestro mundo. Consumirá con su fuego todo lo que encuentre y cuando esté saciado volverá a su realidad. La secta espera ofrecerse como sacrificio a Nardún y ser consumido por su fuego de forma que formen parte de él para toda la eternidad. También especulan que los convertirá en fuegos de la Yahannam que servirán a su señor hasta que su llama se apague.
 
 Los Seguidores tienen una baza muy importante a su favor, han captado finalmente a Ishak Al-Dadim, el intérprete preferido del califa. Ishak puede manipular al califa y envenenar sus oídos contra quien la secta desee. Su idea es evitar que el califa y su guardia actúen contra la secta y sus planes apocalípticos, teniendo controlado al califa.
 
@@ -2212,7 +2212,7 @@ _Giafar tiene un plan B en caso de que no pueden detener a los seguidores de la 
 
 Con toda la información recabada deberían reunirse con Giafar (1 marcador) que los invitará a su guarida secreta. No tienen mucha información y no pueden parar lo que sea que quiera que vaya a hacer los Seguidores, así que Giafar propone montar un contraataque.
 
-Desde hace años lleva asfaltando la ciudad, pero ha asfaltado ciertas calles con asfalto especial (con polvo de plata) de forma que las ciertas calles asfaltadas formar ahora un sello de Soleimán gigante y muy poderoso. Su idea es esperar al alineamiento y usar el símbolo de protección contra aquello que vayan a traer el Fuego y la Luz. Lo que no sea destruido será repelido y enviado a donde sea que salió.
+Desde hace años lleva asfaltando la ciudad, pero ha asfaltado ciertas calles con asfalto especial (con polvo de plata) de forma que las ciertas calles asfaltadas formar ahora un sello de Suleimán gigante y muy poderoso. Su idea es esperar al alineamiento y usar el símbolo de protección contra aquello que vayan a traer el Fuego y la Luz. Lo que no sea destruido será repelido y enviado a donde sea que salió.
 
 #### Clases de magia
 
@@ -2232,7 +2232,7 @@ El resto de tus schahriars pueden hacer otras cosas mientras los otros aprenden 
 * El fuego es parte de los rituales de la secta. Pueden tratar de buscar volando hogueras grandes por la noche (2 marcadores) y quizás detecten alguna reunión.
 * Buscar en la biblioteca de Giafar o en el pasillo prohibido pistas sobre el plan de Bahram es buena idea. Cada tirada de Investigar cuesta 1 marcador, pero necesitarán mínimo dos avances, si no solo sacarán datos que ya saben o deberían saber como que adoran al dios ígneo Nardún o que todos sus rituales están relacionados con el fuego. Si sacan los dos avances encontrarán un pasaje que dice aquel que consiga hacer arder el agua durante un gran evento cósmico, pueden sacar a Nardún de su prisión en la prisión de Fomalhaut. Esto les dará una pista de cuál es el plan, lanzar queroseno al río y hacerlo arder para traer a Nardún. Aun asi no saben donde ni como y el Tigris recorre varios kilómetros por la ciudad.
 
-Si esta parte se vuelve aburrida, puedes montar algún encuentro con Fuegos de la Yahannam o les prepare un almacén trampa que salte por los aires cuando entren. Piensa que Bahram también puede estar investigando quién está destruyendo sus almacenes y quiera deshacerse de los intrusos.
+Si esta parte se vuelve aburrida, puedes montar algún encuentro con fuegos de la Yahannam o les prepare un almacén trampa que salte por los aires cuando entren. Piensa que Bahram también puede estar investigando quién está destruyendo sus almacenes y quiera deshacerse de los intrusos.
 
 Recuerda que por muy bien que lo hagan solo deberían acabar con algún que otro almacén. Bahram el guaro debería escapárseles siempre el último momento.
 
@@ -2318,7 +2318,7 @@ Estamos hablando de personas como Dana la ghūl que si no sale de la ciudad desa
 
 También pueden aprovechar a deshacerse de problemas como Heráclita de la historia de "La viajera del tiempo" que seguramente desaparecerá de nuestro plano de existencia si le pilla dentro del símbolo arcano.
 
-Tal vez tengan objetos malditos que quieran destruir y que si dejan cerca de la zona de lanzamiento del conjuro, serán desterrados a otra dimensión, seguramente para aparecer dentro de siglos. Necesitarán tiradas de Saber de Soleimán para decidir cuáles son las zonas donde el hechizo impactará con más fuerza y podrá destruir los objetos malditos.
+Tal vez tengan objetos malditos que quieran destruir y que si dejan cerca de la zona de lanzamiento del conjuro, serán desterrados a otra dimensión, seguramente para aparecer dentro de siglos. Necesitarán tiradas de Saber de Suleimán para decidir cuáles son las zonas donde el hechizo impactará con más fuerza y podrá destruir los objetos malditos.
 
 El único problema será la falla de seguridad que va a suponer que varias personas fuera de la camarilla de la califesa sepan el plan que se desarrollará los próximos días. Puedes jugar con su paranoia, pero no afectará en nada en el desarrollo de la historia. Como hemos dicho varias veces, los Seguidores del Fuego y de la Luz son muy fanáticos, pero muy poco organizados. Ahora mismo solo están centrados en preparar y almacenar la mayor cantidad de queroseno posible.
 
@@ -2338,7 +2338,7 @@ El plan de Giafar era desde el Palacio de la Eternidad, que está cerca del río
 
 Puente de Bagdad en llamas
 
-Activar el círculo de protección supone gastar 15 PP y hacer una tirada de Saber de Soleimán. Si se consigue ciertas calles asfaltadas (con mezcla de polvo de plata) empezarán a billar formando el dibujo desde el aire de un gigantesco pentáculo. Todo yinn o ser de los Mitos dentro del círculo será volatilizado. Los grandes poderes como Nardún no será destruido, pero será devuelvo a su dimensión con graves daños.
+Activar el círculo de protección supone gastar 15 PP y hacer una tirada de Saber de Suleimán. Si se consigue ciertas calles asfaltadas (con mezcla de polvo de plata) empezarán a billar formando el dibujo desde el aire de un gigantesco pentáculo. Todo yinn o ser de los Mitos dentro del círculo será volatilizado. Los grandes poderes como Nardún no será destruido, pero será devuelvo a su dimensión con graves daños.
 
 Tus schahriars pueden quedarse en el palacio y ver el espectáculo desde uno de los balcones o dividirse y un grupo quedarse en el palacio y otro ir al puente a acabar con todos los sectarios que puedan.
 
@@ -2387,7 +2387,7 @@ Si están en el puente el calor seguirá siendo insoportable y habrá que seguir
 
 Si devuelven a su mundo a Nardún y paran a Bahram, serán reconocidos como héroes protectores del califato por el califa y especialmente la califesa. Los nombrarán algún tipo de cargo público muy bien remunerado y de poco trabajo. Habrá recepciones, paseos triunfales por las calles de Bagdad y comida, bebida, música y bailes durante días.
 
-Todo este suceso será conocido como la noche del Efrit, ya que es lo que la gente creyó que era cuando Nardún apareció sobre Bagdad. Habrá canciones sobre estos hechos y obras de títeres. De hecho, Hachem ben Soleimán hará una de sus mejores obras contando toda esta historia.
+Todo este suceso será conocido como la noche del Efrit, ya que es lo que la gente creyó que era cuando Nardún apareció sobre Bagdad. Habrá canciones sobre estos hechos y obras de títeres. De hecho, Hachem ben Suleimán hará una de sus mejores obras contando toda esta historia.
 
 Solo Zobeida sabe toda la verdad de esta historia y jamás la revelará, para el resto del mundo un Efrit malvado y su siervo aparecieron en el cielo y fueron destruidos por la magia y fe de unos poderosos héroes.
 
@@ -2532,7 +2532,7 @@ Tarde o temprano Heráclita desaparecerá y a partir de ese momento podrá apare
 
 #### ¿Quién es Heráclita?
 
-Heráclita es un avatar de Nyarlathotep que fue encerrada por el Rey Soleimán hace muchos siglos. Soleimán encerró a la Bestia Negra, pero con los siglos de soledad desterrada en la botella cambio de forma a algo menos peligroso.
+Heráclita es un avatar de Nyarlathotep que fue encerrada por el Rey Suleimán hace muchos siglos. Suleimán encerró a la Bestia Negra, pero con los siglos de soledad desterrada en la botella cambio de forma a algo menos peligroso.
 
 Heráclita es una especie de turista en nuestro mundo. Todo lo atrae y todo le parece maravilloso, pero según pase el tiempo la esencia de la Bestia Negra irá emergiendo. Los cambios serán cada vez menos sutiles. Al principio serán cambios de humor o diferentes tonos de voz, pero luego serán más evidentes como mayor tamaño, más bello, ojos de gato, dientes afilados, etc. Si nadie la para, la Bestia Negra volverá a aparecer con terribles consecuencias.
 
@@ -2796,7 +2796,7 @@ Estas son las posibles opciones que puedes ofrecerles.
 
 **Recompensa de deseos (+1):** Otórgale un deseo al schahriar que decida cuidar a la paloma y devolverla a su palomar por amor a los animales y no por la recompensa.
 
-> **Semilla de aventura:** Si deciden abrir y descifrar el mensaje puedes usarlo para meterles en otros cuentos salvajes.
+> /s/ **Semilla de aventura:** Si deciden abrir y descifrar el mensaje puedes usarlo para meterles en otros cuentos salvajes.
 
 ### Buscando la inmortalidad
 
@@ -2817,7 +2817,7 @@ Junto a Mariam viaja un siniestro personaje llamado Bassir (usa las estadística
 * Mariam está débil para montar por lo que va en un carromato bien protegida de los rigores del desierto. Una tirada de Medicina dejará claro que Mariam está muy enferma y no debería hacer este viaje. Parece algo respiratorio, pero sin una exploración profunda es imposible saber que tiene y su gravedad. Si le preguntan directamente, les confesará que se muere y que este viaje es su último intento de sobrevivir, pero no le sacarán mucho más.
 * Bassir y Mariam no pueden ser más diferentes y no parecen para nada una pareja. No hay ninguno de interacción amorosa. No pueden ser más distintos, ella es una culta mujer de ciencias y Bassir es un paleto de campo con modales un poco finos.
 * Una tirada de Humanidades deja claro que esto es algún tipo de arreglo legal. Ella consigue algo y él heredera sus bienes cuando muera.
-* Notar permitirá detectar que, aunque trate de ocultarle, reza a algún tipo de divinidad pagana. Si consiguen espiarle mientras hace sus ritos religiosos, podrán tirar Saber de Soleimán para averiguar que reza a una divinidad mesopotámica de la fertilidad llamada Astarte. Humanidades permitirá ver que no reza exactamente a la diosa mesopotámica, sino una especie de versión pervertida.
+* Notar permitirá detectar que, aunque trate de ocultarle, reza a algún tipo de divinidad pagana. Si consiguen espiarle mientras hace sus ritos religiosos, podrán tirar Saber de Suleimán para averiguar que reza a una divinidad mesopotámica de la fertilidad llamada Astarte. Humanidades permitirá ver que no reza exactamente a la diosa mesopotámica, sino una especie de versión pervertida.
 * Hablar con Bassir dejará claro que su salud mental no está bien. Tiene arrebatos de ira y parece tremendamente paranoico. Aunque el resto del tiempo parece bastante normal.
 * Hablar con Mariam deja claro que lo único que le importa es llegar a Balaz Rud. Hay algo en Balaz Rud que para ella es más importante que su propia vida.
 
@@ -2868,7 +2868,7 @@ A priori el trabajo es de 10 noches. Durante ese tiempo deberán pasar las noche
 
 La paga será de 10 dinares la noche por guarda. Parece un trabajo sencillo, se meten con agua y comida en el rawda y a pasar allí la noche. En principio pueden atrancar la puerta desde dentro. Así que no habrá sorpresas que traten de entrar.
 
-Si revisan el rawda (Notar -2) verán una pesada piedra en la pared que parece suelta. Con una tirada de Reparar, parece que ha sido varias veces retirada y vuelta a colocar. Con Saber de Soleimán podrás ver que en la piedra hay rastros de garras de Ghūles.
+Si revisan el rawda (Notar -2) verán una pesada piedra en la pared que parece suelta. Con una tirada de Reparar, parece que ha sido varias veces retirada y vuelta a colocar. Con Saber de Suleimán podrás ver que en la piedra hay rastros de garras de Ghūles.
 
 Todo irá perfectamente hasta la 5 noche, que será luna llena. A media noche, un grupo de ghūles (1,5 ghūles por cada schahriars redondeando arriba) ha movido una piedra de la pared del rawda y están entrando.
 
@@ -2916,7 +2916,7 @@ El pueblo pesquero de Khamas en el Mar Rojo
 
 El [pueblo](#anchorpescadores) a simple vista parece un pueblo pesquero como tantos en la zona, chozas pequeñas, barcas en la playa, pescado secándose, redes por todas partes y olor a salitre y pescado en el aire. A medida que te acercas e interactúas con la gente, te das cuenta de que algo pasa.
 
-La gente es hosca y gruñona, a penas hablar y solo farfulla respuestas cortas. A pesar de la nueva riqueza que está entrando al pueblo, la gente va sucia y desaliñada, más cerca de parecer derviches mendicantes que nuevos ricos. Una tirada de Notar para detectar que bastantes personas tienen ronchas y eccemas de una extraña tonalidad fucsia. Saber de Soleimán les dirá que la enfermedad no es algo de la Tierra, con avances puedes darles más datos como que debe pudiera ser una especie de plaga que enloquece a la gente o que todas estas cosas las produce una entidad al expandirse y contaminar personas, animales y plantas.
+La gente es hosca y gruñona, a penas hablar y solo farfulla respuestas cortas. A pesar de la nueva riqueza que está entrando al pueblo, la gente va sucia y desaliñada, más cerca de parecer derviches mendicantes que nuevos ricos. Una tirada de Notar para detectar que bastantes personas tienen ronchas y eccemas de una extraña tonalidad fucsia. Saber de Suleimán les dirá que la enfermedad no es algo de la Tierra, con avances puedes darles más datos como que debe pudiera ser una especie de plaga que enloquece a la gente o que todas estas cosas las produce una entidad al expandirse y contaminar personas, animales y plantas.
 
 Si se ponen a Investigar por el pueblo encontrarán más objetos como barcas o redes con restos del color fucsia. Si recorren la playa, verán restos de peces muertos y trozos de algas infectadas del color. Si comparan todos estos objetos infectados con el preciado coral, todo indica que el valioso coral que tan bien se vende está infectado y mutado por esa extraña plaga color morado.
 
@@ -2933,7 +2933,7 @@ Hasta que de repente los 3 miran hacia arriba y se lanzan gritando a por la barc
 * **Ciencias:** Los cráteres son creados por piedras llamadas meteoritos que vienen de las estrellas.
 * **Ciencias:** Será muy difícil acabar con la plaga. De normal el fuego podría funcionar, pero debajo del agua es imposible.
 * **Supervivencia:** Se ha extendido muy rápido, así que puede que haya varios o haya criado. Aun así, el centro de la infección es el cráter.
-* **Saber de Soleimán:** Para concluir que tiene algún tipo de control, sobre los infectados. Es muy básica pero lo suficiente para defenderle.
+* **Saber de Suleimán:** Para concluir que tiene algún tipo de control, sobre los infectados. Es muy básica pero lo suficiente para defenderle.
 
 #### El color y la gente del mar
 

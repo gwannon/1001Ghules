@@ -70,9 +70,9 @@ A nivel de juego es imposible atacar por sorpresa Bagdad con un ejército (más 
 
 El perímetro de la Ciudad Circular está fortificado con un foso de 12 m de ancho, una muralla exterior y una enorme muralla interior.
 
-La muralla interior (44m de ancho en la base, 14 en la parte superior y 30m de altura), de ladrillos de adobe y una capa de ladrillo cocido a ambos lados, está custodiada por 132 torres circulares colocadas de forma equidistante en toda su extensión.
+La muralla interior (44 m de ancho en la base, 14 en la parte superior y 30 m de altura), de ladrillos de adobe y una capa de ladrillo cocido a ambos lados, está custodiada por 132 torres circulares colocadas de forma equidistante en toda su extensión.
 
-La muralla exterior tiene un ancho un 40m y la misma altura que la interior. Entre las dos murallas había una zona vacía donde era difícil esconderse.
+La muralla exterior tiene un ancho de 40 m y la misma altura que la interior. Entre las dos murallas había una zona vacía donde era difícil esconderse.
 
 Hay patrullas de guardias vigilando día y noche las dos murallas, bien haciendo rondas (cada media hora pasa una patrulla) o desde las torres de vigilancia de la muralla interior.
 
@@ -96,7 +96,7 @@ Los propios comerciantes tienen seguridad privada en esta zona día y noche para
 
 #### La escuela de la docta Simpatía
 
-> Ella le contestó: "¡Oh señor! estudié la sintaxis, la poesía, el derecho civil y el derecho general; la música, la astronomía, la geometría, la aritmética, la jurisprudencia desde el punto de vista de las sucesiones, y el arte de descifrar las escrituras mágicas y las inscripciones antiguas. Me sé de memoria el Libro Sublime y puedo leerle de siete maneras distintas; conozco exactamente el número de sus capítulos, de sus versículos, de sus divisiones, de sus diferentes partes y sus combinaciones, y cuantas líneas, palabras, letras consonantes y vocales encierra: recuerdo con precisión qué capítulos se inspiraron y escribieron en la Meca y cuáles otros se dictaron en Medina; no ignoro las leyes y los dogmas, sé distinguirlos con las tradiciones y diferenciar su grado de autenticidad; no soy una profana en lógica, ni en arquitectura, ni en filosofía, como tampoco en lo que afecta a la elocuencia, al lenguaje escogido, a la retórica y a las reglas de los versos, los cuales sé ordenar y medir sin omitir ninguna dificultad en su construcción; sé hacerlos sencillos y fluidos, como también complicados y enrevesados para deleitar sólo a las gentes delicadas; y si a veces pongo en ellos oscuridad, es para fijar más la atención y halagar al espíritu, que despliega por último su trama sutil y frágil; en una palabra, aprendí muchas cosas y retuve cuanto aprendí.
+> Ella le contestó: "¡Oh señor! estudié la sintaxis, la poesía, el derecho civil y el derecho general; la música, la astronomía, la geometría, la aritmética, la jurisprudencia desde el punto de vista de las sucesiones, y el arte de descifrar las escrituras mágicas y las inscripciones antiguas. Me sé de memoria el Libro Sublime y puedo leerle de siete maneras distintas; conozco exactamente el número de sus capítulos, de sus versículos, de sus divisiones, de sus diferentes partes y sus combinaciones, y cuantas líneas, palabras, letras consonantes y vocales encierra: recuerdo con precisión qué capítulos se inspiraron y escribieron en la Meca y cuáles otros se dictaron en Medina; no ignoro las leyes y los dogmas, sé distinguirlos con las tradiciones y diferenciar su grado de autenticidad; no soy una profana en lógica, ni en arquitectura, ni en filosofía, como tampoco en lo que afecta a la elocuencia, al lenguaje escogido, a la retórica y a las reglas de los versos, los cuales sé ordenar y medir sin omitir ninguna dificultad en su construcción; sé hacerlos sencillos y fluidos, como también complicados y enrevesados para deleitar solo a las gentes delicadas; y si a veces pongo en ellos oscuridad, es para fijar más la atención y halagar al espíritu, que despliega por último su trama sutil y frágil; en una palabra, aprendí muchas cosas y retuve cuanto aprendí.
 > 
 > **Referencia:** Historia de la docta Simpatía (n. 270)
 
@@ -174,7 +174,7 @@ Todos estos animales están en jaulas repartidas por el jardín. Las condiciones
 
 Pero no solo hay aves y animales en la casa de fieras. Han tenido varios monstruos y yinns expuestos para disfrute y horror de los visitantes como ghūles, habitantes de las arenas o al mighos. El califa paga muy bien por estos seres y hay cazadores de monstruos que traen este tipo de seres para cobrar la recompensa.
 
-> **Semilla de aventura:** Se dice que el Califa pagaría 20.000 dinares por una cría de Rokh o un huevo viable del que termine saliendo un polluelo. Es mucho dinero como para que un grupo de schahriars no se plantee tratar de traerle un polluelo al Califa.
+> /s/ **Semilla de aventura:** Se dice que el Califa pagaría 20.000 dinares por una cría de Rokh o un huevo viable del que termine saliendo un polluelo. Es mucho dinero como para que un grupo de schahriars no se plantee tratar de traerle un polluelo al Califa.
 
 ##### El palomar del califa
 
@@ -212,13 +212,13 @@ Cuentan los parroquianos que el Califa suele visitar esta taberna disfrazados de
 
 #### Bimaristán Adudi
 
-Actualmente, Bagdad cuenta con 5 maristanes, pero el Bimaristán Adudi es el mayor y más moderno. Está en el la orilla oeste del Tigris, al norte de la ciudad.
+Actualmente, Bagdad cuenta con 5 maristanes, pero el Bimaristán Adudi es el mayor y más moderno. Está en la orilla oeste del Tigris, al norte de la ciudad.
 
 Se cuenta que a la hora de buscarle emplazamiento, Al Razi, su primer director, colocó cuatro trozos de carne en cuatro puntos de la ciudad y levantaron el hospital en el lugar en el que más tiempo tardó en descomponerse.
 
 Adudi son las mejores instalaciones médicas de Bagdad y seguramente del mundo.
 
-Como ya hemos dicho, los maristán también se usan como instituciones mentales donde "cuidar" y "curar" a los enfermos mentales. En realidad solo en Adudi se cuida y se trata de curar de las personas con problemas mentales. El resto de maristanes son cárceles para "locos" y "maníacos" donde encerrarlos y maltratarlos. Las cadenas, los abusos y las palizas son el día a día para sus "reclusos".
+Como ya hemos dicho, los maristán también se usan como instituciones mentales donde «cuidar» y «curar» a los enfermos mentales. En realidad solo en Adudi se cuida y se trata de curar de las personas con problemas mentales. El resto de maristanes son cárceles para «locos» y «maníacos» donde encerrarlos y maltratarlos. Las cadenas, los abusos y las palizas son el día a día para sus «reclusos».
 
 Aunque de normal no hay forma de recuperar puntos de cordura, a no ser que sea con actos heroicos y de bondad, el personal de Adudi podría, a descripción de Scheherazade, devolver 1 punto de cordura a un schahriar ingresado en sus instalaciones. Esto debería ser extremadamente raro y extremadamente caro. También podría ser un regalo del Califa (o su visir) a persona que ha hecho grandes cosas para el califato.
 
@@ -228,9 +228,9 @@ Asi se denomina a la ribera este del Tigris. Podríamos definir que es la zona d
 
 #### Palacio Hasani
 
-Este es el más moderno de los palacios de Bagdad y el más importante de Al-Rusafa. En este palacio vive, cuando no está sirviendo a su señor, el Califa, el visir Giafar. Junto cón el viven su mujer, sus hijos, sus hermanos y hermanas y su padre que fue visir del padre de Harún Al-Raschid, el califa Al-Mahdi.
+Este es el más moderno de los palacios de Bagdad y el más importante de Al-Rusafa. En este palacio vive, cuando no está sirviendo a su señor, el Califa, el visir Giafar. Junto con él viven su mujer, sus hijos, sus hermanos y hermanas y su padre que fue visir del padre de Harún Al-Raschid, el califa Al-Mahdi.
 
-Montado como refugio de "soltero" para el anterior califa donde tener sus escarceos, tiene unos jardines muy bellos con rincones ocultos para sus aventuras amorosos. También estaba lleno de habitaciones con camas gigantescas de muchos estilos dependiendo del humor de Al-Mahdi están ocupadas por la extensa familia del visir.
+Montado como refugio de «soltero» para el anterior califa donde tener sus escarceos, tiene unos jardines muy bellos con rincones ocultos para sus aventuras amorosos. También estaba lleno de habitaciones con camas gigantescas de muchos estilos dependiendo del humor de Al-Mahdi están ocupadas por la extensa familia del visir.
 
 ##### El sótano
 
@@ -259,7 +259,7 @@ Giafar usa este yakhchāl como refrigerador donde mantener los cuerpos de difere
 #### Taberna de Hagg-Karim al-Mossuli
 
 > Y salió de la casa y se fue a la calle Mustafá, y entró en la taberna de Hagg-Karim el de Mosul.  
-> Empezó por hacer una zalema muy amable al tabernero Hagg-Karim, quien se la devolvió con creces, encantado. Entonces le dijo ella: "¡Ya Hagg-Karim! ¡he aquí cinco dinares para ti si quieres alquilarme hasta mañana la sala interior grande, adonde voy a invitar a algunos amigos, sin que puedan penetrar allí tus parroquianos habituales!"
+> Empezó por hacer una zalema muy amable al tabernero Hagg-Karim, quien se la devolvió con creces, encantado. Entonces le dijo ella: «¡Ya Hagg-Karim! ¡He aquí cinco dinares para ti si quieres alquilarme hasta mañana la sala interior grande, adonde voy a invitar a algunos amigos, sin que puedan penetrar allí tus parroquianos habituales!»
 > 
 > **Referencia:** Historia de los artificios de Dalila la taimada y de su hija Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 446)
 
@@ -281,7 +281,7 @@ Yussuf Islam, dueño del hammam y apodado el gato, vende todos esos secretos a g
 
 Yussuf no tiene nada por escrito, todo lo retiene en su cerebro, así que todos los secretos deberían morir con él
 
-> **Semilla de aventura:**Una de las escapadas nocturnas del califa acabó en el Nuevo Hammam y entre el relax de los masajes y los vapores del alcohol que habían tomado antes, a alguien del séquito del califa se le ha ido la lengua. Tus schahriars deberán asegurarse de que Yussuf no hable sobre el tema, desde ejecutándolo a pagarle o borrarle recuerdos.
+> /s/ **Semilla de aventura:**Una de las escapadas nocturnas del califa acabó en el Nuevo Hammam y entre el relax de los masajes y los vapores del alcohol que habían tomado antes, a alguien del séquito del califa se le ha ido la lengua. Tus schahriars deberán asegurarse de que Yussuf no hable sobre el tema, desde ejecutándolo a pagarle o borrarle recuerdos.
 
 #### Escuela de danza de Neima Akef
 
@@ -297,7 +297,7 @@ Su escuela, a pesar de lo que podría creerse, está en la pobre Al-Rusafa y no 
 
 En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que sus alumnos y alumnas usan en sus prácticas. Tiene contratados a intérpretes musicales que tocan durante las clases y un par de guardaespaldas que cuidan de ella y de las joyas que siempre lleva encima.
 
-Neima es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
+Neima es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella «verdadero talento».
 
 **Clases de danza:** Por unos 2500 dinares y dos semanas de entrenamiento intensivo, mejorará el valor de Interpretación del schahriar en un nivel de dado cuando baile. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance.  
 Para que te acepte en su escuela deberás demostrar que tienes mucho dinero o un mínimo de d6 en Interpretación.
@@ -347,7 +347,7 @@ Bagdad se halla a la orilla del Tigris y, como ya hemos dicho, divide la ciudad 
 
 El Tigris ha sido una ruta de transporte importante durante mucho tiempo a través de un territorio mayormente desértico. Es navegable desde Basora hasta Bagdad por botes de poco calado, pero se requiere de balsas para el transporte hasta Mosul.
 
-Hay una red de puentes a lo largo de la ciudad que une ambas orillas del río, siendo el más importante por su tamaño y tráfico el conocido como Puente de Bagdad. Hay además toda una serie de bateleros que con sus barcas permiten cruzar el Tigris en las zonas en las que no hay puentes. Estos barqueros también pueden llevarte de una parte de la ciudad a otra subiendo o bajando el rio.
+Hay una red de puentes a lo largo de la ciudad que une ambas orillas del río, siendo el más importante por su tamaño y tráfico el conocido como Puente de Bagdad. Hay además toda una serie de bateleros que con sus barcas permiten cruzar el Tigris en las zonas en las que no hay puentes. Estos barqueros también pueden llevarte de una parte de la ciudad a otra subiendo o bajando el río.
 
 ### Puente de Bagdad
 
@@ -367,7 +367,7 @@ El molino tiene lo último en tecnología alquímica y cada cierto tiempo el vis
 
 Con el consentimiento del visir o una buena suma de dinero (por su silencio y trabajo extra) y suministrándoles los materiales apropiados, los trabajadores del molino de papel pueden preparar cualquier tipo de compuesto alquímico en grandes cantidades. Si fuera necesario, con aún más dinero o una buena motivación, se podría conseguir en un tiempo récord.
 
-### Fauna y flora del rio
+### Fauna y flora del río
 
 El río tiene poca fauna a la altura de Bagdad, algunas aves acuáticas, varias especies de peces y animales domésticos como camellos, burros, perros y gatos vienen a beber al río. La flora tampoco es muy abundante, predominando en sus orillas los cañaverales y palmeras. De mamíferos, pueden encontrarse todavía nutrías, pero estás siendo expulsadas por los pescadores a otros tramos del río.
 
@@ -393,7 +393,7 @@ Desde hace unos 20 años es una ciudad vacía, solo habitada por mendigos, locos
 
 Los cambios económicos no fueron la única causa del declive de la ciudad, el aura de depresión y locura de un waram que habitaba las catacumbas de la ciudad hizo que mucha gente abandonará la ciudad y su ambiente depresivo y diabólico. Cuando la ciudad se quedó vacía, el nexo de energía que forma el waram se marchó y tarde o temprano aparecerá en otro lugar corrompiéndolo.
 
-> **Semilla de aventura:** Algún rico personaje de Bagdad puede contratar a tus schahriars para que busquen alguna reliquia familiar que se dejó atrás en Ctesifonte. La ciudad puede estar controlada por alguna secta depravada que la usa de base para su culpo. La secta no quiere testigos de sus actividades y tratará de cazar y matar a tus schahriars. También puede que alguna invocación haya salido mal y la ciudad esté habitada con monstruos de los Mitos que acechan entre las sombras a inocentes visitantes.
+> /s/ **Semilla de aventura:** Algún rico personaje de Bagdad puede contratar a tus schahriars para que busquen alguna reliquia familiar que se dejó atrás en Ctesifonte. La ciudad puede estar controlada por alguna secta depravada que la usa de base para su culpo. La secta no quiere testigos de sus actividades y tratará de cazar y matar a tus schahriars. También puede que alguna invocación haya salido mal y la ciudad esté habitada con monstruos de los Mitos que acechan entre las sombras a inocentes visitantes.
 
 ### Cementerio de Al-Kazimiyya
 
@@ -593,7 +593,7 @@ La fama de ’Inān llevó al califa Harún al-Raschid a intentar comprarla, per
 
 #### Neima Akef, la diosa de la danza
 
-> Y bailó la danza de los velos, y la del pañuelo, y la del bastón. Y bailó las danzas de las judías, y las de las griegas, y las de las etíopes, y las de las persas, y las de las beduinas, con una ligereza tan maravillosa, que, en verdad, sólo Balkis, la reina enamorada de Soleimán, las había podido bailar iguales.  
+> Y bailó la danza de los velos, y la del pañuelo, y la del bastón. Y bailó las danzas de las judías, y las de las griegas, y las de las etíopes, y las de las persas, y las de las beduinas, con una ligereza tan maravillosa, que, en verdad, solo Balkis, la reina enamorada de Suleimán, las había podido bailar iguales.  
 > Y en cuanto hubo bailado todo aquello, cuando el corazón de su amo, y el del hijo de su amo, y el del mercader invitado por su amo quedaron suspensos de sus pasos y los ojos quedaron fijos en la soltura de su cuerpo, esbozó la ondulante danza del puñal.
 > 
 > **Referencia:** Historia de Alí Babá y los cuarenta ladrones (n. 859)
@@ -606,13 +606,13 @@ Una adivina le dijo que morirá bailando y eso le da paz ahora que su cuerpo emp
 
 Las malas lenguas dicen Neima y el poeta Abu-Nowas son amigos con beneficios. De hecho, dicen que es Abu-Nowas quien le baila la danza del velo a Neima.
 
-#### Hachem ben Soleimán, el mejor cantor e intérprete de Bagdad
+#### Hachem ben Suleimán, el mejor cantor e intérprete de Bagdad
 
 Como mejor cantante e intérprete de Bagdad, Hachem se codea todos los días con los ricos y poderosos de la ciudad. Sin embargo, Hachem, a pesar de su dinero y fama, es un hombre sencillo de campo, un nómada del país de Sham (actual Siria) que disfruta de la comida sencilla, de los atardeceres en el desierto y de paseos a camello entre las dunas.
 
 #### Ishak Al-Dadim
 
-> Aquel salón sólo se abría cuando llegaba el califa, y entonces se encendían las lámparas y la araña y se abrían todas las ventanas, y el califa se sentaba en un magnífico diván forrado de seda, terciopelo y oro, y mandaba a las cantoras que cantasen y a los músicos que tañesen sus instrumentos; pero lo que prefería era oír al ilustre cantor Ishak, cuyos cantos e improvisaciones admiraba todo el mundo. Y en medio de la calma de la noche y respirando aquel aire perfumado con las flores del jardín, el califa descansaba de las fatigas de la ciudad.
+> Aquel salón solo se abría cuando llegaba el califa, y entonces se encendían las lámparas y la araña y se abrían todas las ventanas, y el califa se sentaba en un magnífico diván forrado de seda, terciopelo y oro, y mandaba a las cantoras que cantasen y a los músicos que tañesen sus instrumentos; pero lo que prefería era oír al ilustre cantor Ishak, cuyos cantos e improvisaciones admiraba todo el mundo. Y en medio de la calma de la noche y respirando aquel aire perfumado con las flores del jardín, el califa descansaba de las fatigas de la ciudad.
 > 
 > **Referencia:** Historia de Dulce-Amiga (n. 34)
 
@@ -655,11 +655,11 @@ Nacido en el Cairo, abandonó su tierra natal para huir de la justicia que quer�
 #### Sindbad el Marino
 
 > Te explicaré, pues, todas las aventuras que me sucedieron y todas las pruebas que sufrí antes de llegar a esta felicidad y de habitar este palacio. Y verás entonces a costa de cuán terribles y extraños trabajos, a costa de cuántas calamidades, de cuántos males y de cuántas desgracias iniciales adquirí estas riquezas en medio de las que me ves vivir en mi vejez.  
-> Sin duda ignoras los siete viajes extraordinarios que he realizado, y cómo cada cual de estos viajes constituye por sí sólo una cosa tan prodigiosa, que únicamente con pensar en ella queda uno sobrecogido y en el límite de todos los estupores. ¡Pero cuanto voy a contarte a ti y a todos mis honorables invitados no me sucedió, en suma, más que porque el Destino lo había dispuesto de antemano y porque toda cosa escrita debe acaecer, sin que sea posible rehuirla o evitarla!
+> Sin duda ignoras los siete viajes extraordinarios que he realizado, y cómo cada cual de estos viajes constituye por sí solo una cosa tan prodigiosa, que únicamente con pensar en ella queda uno sobrecogido y en el límite de todos los estupores. ¡Pero cuanto voy a contarte a ti y a todos mis honorables invitados no me sucedió, en suma, más que porque el Destino lo había dispuesto de antemano y porque toda cosa escrita debe acaecer, sin que sea posible rehuirla o evitarla!
 > 
 > **Referencia:** Historia de Sindbad el marino (n. 290)
 
-Sindbad es un marino bagdadí. Se le puede encontrar por las calles de la ciudad contando sus fantásticos viajes a aquel que los quiera escuchar. Normalmente, derrochará una gran cantidad de dinero (tirada de Notar para ver que siempre paga con moneda extranjera) en comida, bebida y ricos ropajes. Así que seguramente en unas semanas se tendrá que enrolar en otro de sus sorprendentes viajes del que volverá más rico y con nuevos relatos fantásticos.
+Sindbad es un marino bagdadí. Se le puede encontrar por las calles de la ciudad contando sus fantásticos viajes a aquel que los quiera escuchar. Normalmente, derrochará una gran cantidad de dinero (tirada de Notar para ver que siempre paga con moneda extranjera) en comida, bebida y ricos ropajes. Así que seguramente en unas semanas se tendrá que enrolar en otro de sus sorprendentes viajes del que volverá más rico y con nuevos relatos magníficos.
 
 Sindbad el Marino es uno de los personajes más famoso de las 1001 Noches y puedes usarlo como una forma de darles pistas o encarrilar a tus schahriars en la dirección correcta para completar alguna aventura. Él les hablará de alguna tierra lejana donde puedan conseguir lo que necesitan para cumplir su misión o les contará algún objeto extraño que vio en sus viajes y que podría ayudarles con algún problema actual que tengan.
 
@@ -667,7 +667,7 @@ Durante sus viajes se ha enfrentado y salido airoso de sus encuentros con seres 
 
 #### Simpatía
 
-> Efectivamente, esta esclava se llamaba Simpatía, y en verdad que jamás nombre alguno cuadró mejor a las cualidades de la que lo llevaba. La esclava Simpatía era una adolescente tan derecha como la letra aleph, de estatura proporcionada, y tan esbelta y delicada que podía desafiar al sol a que prolongase en el suelo su sombra; maravillosas eran la belleza y la lozanía de su rostro; todas sus facciones ostentaban con claridad la huella de la bendición y el buen augurio; su boca parecía sellada con el sello de Soleimán, como para guardar precisamente el tesoro de perlas que encerraba; eran sus dientes collares dobles e iguales; las dos granadas de su seno aparecían separadas por el intervalo más encantador, y su ombligo era lo suficiente ancho y profundo para contener una onza de manteca moscada. En cuanto a su grupa monumental, remontaba dignamente la finura de su talle, y dejaba profundamente impreso en divanes y colchones el hueco creado por la importancia de su peso.
+> Efectivamente, esta esclava se llamaba Simpatía, y en verdad que jamás nombre alguno cuadró mejor a las cualidades de la que lo llevaba. La esclava Simpatía era una adolescente tan derecha como la letra aleph, de estatura proporcionada, y tan esbelta y delicada que podía desafiar al sol a que prolongase en el suelo su sombra; maravillosas eran la belleza y la lozanía de su rostro; todas sus facciones ostentaban con claridad la huella de la bendición y el buen augurio; su boca parecía sellada con el sello de Suleimán, como para guardar precisamente el tesoro de perlas que encerraba; eran sus dientes collares dobles e iguales; las dos granadas de su seno aparecían separadas por el intervalo más encantador, y su ombligo era lo suficiente ancho y profundo para contener una onza de manteca moscada. En cuanto a su grupa monumental, remontaba dignamente la finura de su talle, y dejaba profundamente impreso en divanes y colchones el hueco creado por la importancia de su peso.
 > 
 > **Referencia:** Historia de la docta Simpatía (n. 270)
 
@@ -689,7 +689,7 @@ Para tomar decisiones se vota democráticamente y las decisiones tomadas deben s
 
 Los tres miembros mayores forman un tribunal que juzga delitos y dirime disputas. Cuando se hacen mayores y abandonan las calles son sustituidos por los y las mayores del gremio.
 
-Aunque no lo parezca, son un aliado muy util. Tienen ojos en todas partes y es difícil que algo pase en la ciudad sin que se enteren. También puede servirte de mensajeros y recadistas. Pero la amistad del Pequeño Consejo no se consigue fácilmente, no vale con darles unas pocas monedas, solo ayudan a los que les ayudan. Quizás librar a una pillastre de una paliza de un mercader o salvar a un pilluelo de algún lío, sea un buen comienzo.
+Aunque no lo parezca, son un aliado muy útil. Tienen ojos en todas partes y es difícil que algo pase en la ciudad sin que se enteren. También puede servirte de mensajeros y recadistas. Pero la amistad del Pequeño Consejo no se consigue fácilmente, no vale con darles unas pocas monedas, solo ayudan a los que les ayudan. Quizás librar a una pillastre de una paliza de un mercader o salvar a un pilluelo de algún lío, sea un buen comienzo.
 
 El consejo ha creado un código secreto de señales y claves que usa para comunicarse. Marcan las puertas de casas y tiendas avisando de si dan limosna o son generosos, señalan sitios seguros donde dormir, etc. También hay claves para decir que están en peligro y lugares donde dejar mensajes seguros.
 
@@ -703,7 +703,7 @@ Fátima hace trabajos para el visir Giafar, pero desconoce el alcance de la orga
 
 El Pequeño Consejo tiene una caja de resistencia que los mayores pueden usar para pagar curanderos cuando alguien cae enfermo o para comprar comida a quien no ha podido conseguir dinero. En cada reunión mensual todo el mundo pone 5 dinares. La caja tiene de media unos 2.000 dinares y Fátima no duda en hacer uso de ello cuando es necesario.
 
-> **Semilla de aventura:** Fátima tiene malas noticias, la caja de resistencia ha sido robada. Si alguien no la recupera bastantes niños y niñas de la calle van a pasarlo muy mal en las semanas venideras.
+> /s/ **Semilla de aventura:** Fátima tiene malas noticias, la caja de resistencia ha sido robada. Si alguien no la recupera bastantes niños y niñas de la calle van a pasarlo muy mal en las semanas venideras.
 
 ## Los secretos de Giafar
 
@@ -711,8 +711,8 @@ Bagdad es una ciudad de secretos y por suerte o por desgracia muchos de ellos ti
 
 ### Giafar y los barmáquidas
 
-> Así es que, cuando Yahía fué a medianoche en compañía de Massrur a despertar a Harún para notificarle que era dueño del Imperio y califa de Alah sobre la tierra, Harún le dio inmediatamente el título de gran visir y nombró visires a sus dos hijos El-Fadl y Giafar. Y así empezó su reinado bajo los auspicios más dichosos.  
-> Y desde entonces la familia de los Barmáquidas fué en su siglo lo que un adorno en la frente y una corona en la cabeza. Y el Destino les prodigó cuanto de más seductor tienen sus favores, y los colmó de sus dones más escogidos. Y Yahía y sus hijos se tornaron astros brillantes, vastos océanos de generosidad, torrentes impetuosos de gracias, lluvias bienhechoras. El mundo se vivificó con su soplo, y el Imperio llegó a la cima más alta del esplendor. Y eran ellos refugio de afligidos y recurso de desdichados. \[…\]  
+> Así es que, cuando Yahía fue a medianoche en compañía de Massrur a despertar a Harún para notificarle que era dueño del Imperio y califa de Alah sobre la tierra, Harún le dio inmediatamente el título de gran visir y nombró visires a sus dos hijos El-Fadl y Giafar. Y así empezó su reinado bajo los auspicios más dichosos.  
+> Y desde entonces la familia de los Barmáquidas fue en su siglo lo que un adorno en la frente y una corona en la cabeza. Y el Destino les prodigó cuanto de más seductor tienen sus favores, y los colmó de sus dones más escogidos. Y Yahía y sus hijos se tornaron astros brillantes, vastos océanos de generosidad, torrentes impetuosos de gracias, lluvias bienhechoras. El mundo se vivificó con su soplo, y el Imperio llegó a la cima más alta del esplendor. Y eran ellos refugio de afligidos y recurso de desdichados. \[…\]  
 > Eran, en efecto, visires prudentes, administradores admirables, que aumentaban el tesoro público, elocuentes, instruidos, firmes, de buen consejo, y generosos al igual de Hatim-Tai. Eran fuentes de felicidad, vientos bienhechores que atraen los nublados fecundantes. Y sobre todo, merced a su prestigio, el nombre y la gloria de Harún Al-Raschid repercutieron desde las mesetas del Asia Central hasta el fondo de las selvas norteñas, y desde el Magreb y la Andalucía hasta las fronteras extremas de China y de Tartaria.
 > 
 > **Referencia:** El fin de Giafar y de los barmáquidas (n. 995)
@@ -729,13 +729,13 @@ Sin embargo, su fe budista es lo que ha hecho tan buen consejero y visir a Giafa
 
 El mayor secreto que guarda Giafar es que sabe que el propio Califa será el culpable de su muerte. Pero en vez de tratar de impedirlo o acabar con el Califa, prefiere dejar hacer al Destino, tratar de continuar con sus buenas acciones y de dejar la ciudad lo más protegida posible contra sus enemigos.
 
-Giafar fue poseído por un abu-qith y durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisando sus archivos, averiguó su propia muerte por orden su señor y amigo, el Califa Harun Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
+Giafar fue poseído por un abu-qith y durante el tiempo que paso en su tierra, la ciudad de Pnakotus, revisando sus archivos, averiguó su propia muerte por orden su señor y amigo, el Califa Harún Al-Raschid. Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
 
 Lo que hizo fallar el borrado de memoria fue una serie de mantras de meditación que pronuncio mientras trasteaban con su mente. Estos mantras interfirieron en la eliminación de sus recuerdos de su estancia en Pnakotus y todo lo que aprendió allí. Los abu-qith desconocen totalmente el fallo en el borrado de memoria de Giafar y por eso Giafar hace todo en el máximo secreto. No quiere que sus actividades se hagan públicas temiendo que los abu-qith vuelvan para acabar lo que dejaron a medias.
 
 También sabe que un terrible destino acecha a la ciudad de Bagdad, pero ahí, el borrado de memoria fue eficaz y no puede recordarlo. Es por ello que está llevando en secretos todo tipo de proyectos para proteger a su querida ciudad.
 
-> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel Alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abbasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fué la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: "¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!" Y Al-Raschid, muy pálido, dijo: "¡Has hecho bien!" Pero se le oyó que murmuraba: "¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!"
+> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel Alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abbasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fue la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: "¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!" Y Al-Raschid, muy pálido, dijo: "¡Has hecho bien!" Pero se le oyó que murmuraba: "¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!"
 > 
 > **Referencia:** El fin de Giafar y de los barmáquidas (n. 995)
 
@@ -757,7 +757,7 @@ Giafar y Hunayn ibn Ishaq controlan quién entra en ese pasillo y hacen creer al
 
 ### El laboratorio del palacio de Hasani
 
-Como ya hemos dicho, debajo de su palacio el visir ha montado una guarida secreta donde realiza experimentos científicos y mágicos, una biblioteca personal mágica y una buena colección de objetos mágicos y mundanos de gran valor. Además puede practicar su fe budista en un pequeño templo que ha montado en el subterráneo del palacio. De descubrirse, significaría el destierro en el mejor de los casos y la pena de muerte para Giafar y su familia en el peor. Esa por ello que su entrada es secreta y solo conocida por su padre, su hermano y su mujer.
+Como ya hemos dicho, debajo de su palacio el visir ha montado una guarida secreta donde realiza experimentos científicos y mágicos, una biblioteca personal mágica y una buena colección de objetos mágicos y mundanos de gran valor. Además, puede practicar su fe budista en un pequeño templo que ha montado en el subterráneo del palacio. De descubrirse, significaría el destierro en el mejor de los casos y la pena de muerte para Giafar y su familia en el peor. Esa por ello que su entrada es secreta y solo conocida por su padre, su hermano y su mujer.
 
 ### El Pequeño Consejo
 
@@ -769,7 +769,7 @@ Aun así, no es consciente de lo grande y bien organizado que está el Pequeño 
 
 Giafar lleva años realizando diferentes proyectos urbanísticos con la ayuda de la califesa que han mejorado la calidad de vida de las gentes de Bagdad, pero detrás de ellos hay también planes secretos para proteger a su ciudad.
 
-* Todo el asfaltado de la ciudad es una forma de crear un gran símbolo de protección de Soleimán para proteger toda la ciudad. Además de las ventajas en movilidad urbana que supone asfaltar las calles el visir, está creando un símbolo arcano asfaltando unas u otras calles y mezclando polvo de plata con el asfalto. En caso de necesidad podría lanzarse algún tipo de hechizo protección en toda la ciudad, canalizando el poder a través del símbolo de asfalto y plata.
+* Todo el asfaltado de la ciudad es una forma de crear un gran símbolo de protección de Suleimán para proteger toda la ciudad. Además de las ventajas en movilidad urbana que supone asfaltar las calles el visir, está creando un símbolo arcano asfaltando unas u otras calles y mezclando polvo de plata con el asfalto. En caso de necesidad podría lanzarse algún tipo de hechizo protección en toda la ciudad, canalizando el poder a través del símbolo de asfalto y plata.
 * Los monstruos que el visir trae a la casa de fieras son una forma de que la gente conozca y sepa como enfrentarse a los yinns y otros monstruos que acechan Bagdad. Es una forma de dar a conocer, su forma, sus poderes y sus debilidades.
 * Varias instalaciones como el yakhchāl o el molino de papel han sido promovidas por el visir y son usadas secretamente por él para sus planes ocultos.
 
