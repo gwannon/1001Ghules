@@ -143,7 +143,7 @@ Supone primero un desafío llegar hasta ella (mediante una escalada muy difícil
 
 Puedes añadir misterios a muchas de las cosas que rodean Masada; por qué la construyo Herodes en ese lugar tan complicado, quería ocultar algo a los ojos de su pueblo, etc. Quizás los romanos no querían apaciguar la zona, sino acabar con algo o alguien que había en Masada. Las opciones son muchas.
 
-> **Semilla de aventura:** Una tribu de Al Mighos ha tomado la cima de la montaña como base para sus extracciones de minerales raros. Por ahora solo están haciendo voladuras de prospección, pero las tribus monadas de la zona han detectado los temblores y las luces nocturnas. Estos sucesos raros han llegado a los oídos del emir de Judea que busca alguien que lo investigue.
+> **Semilla de aventura:** Una tribu de al mighos ha tomado la cima de la montaña como base para sus extracciones de minerales raros. Por ahora solo están haciendo voladuras de prospección, pero las tribus monadas de la zona han detectado los temblores y las luces nocturnas. Estos sucesos raros han llegado a los oídos del emir de Judea que busca alguien que lo investigue.
 
 #### Zigurat de Ur
 
@@ -229,7 +229,7 @@ El precio de todo lo que pidas (bebida, comida, cama, …) es un 50% más caro d
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 470)
 
-El lago Karún es un lago salino situado al oeste del río Nilo, a dos días al suroeste de El Cairo. Mide unos 220km2, está por debajo del nivel del mar y obtiene sus aguas de un canal creado por los antiguos egipcios en 2300 A.C.
+El lago Karún es un lago salino situado al oeste del río Nilo, a dos días al suroeste de El Cairo. Mide unos 220 km2, está por debajo del nivel del mar y obtiene sus aguas de un canal creado por los antiguos egipcios en 2300 A.C.
 
 Se dice que sus aguas son mágicas y solo los pescadores más desesperados tratan de pescar tilapias en ellas. Se cree que lo que saques con tus redes solo te traerá desgracias y si te zambulles en sus aguas seguramente acabes ahogado.
 

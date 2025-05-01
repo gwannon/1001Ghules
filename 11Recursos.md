@@ -65,13 +65,13 @@ Calles de un bazar
 > 
 > **Referencia:** La estatua ecuestre
 
-> **Secretos oscuros del Shatranj**
+> **Secretos oscuros del shatranj**
 > 
 > **Nivel de poder:** 3  
 > **Idioma:** Árabe  
 > **Condición:** Traducción del hindú
 > 
-> Secretos oscuros del Shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
+> Secretos oscuros del satranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
 > 
 > Este juego de shatranj, creado por el poderoso soberano Soleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
 > 

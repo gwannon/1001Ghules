@@ -122,13 +122,13 @@ Si tus schahriars consigue encontrar el tesoro y llevarlo a una ciudad, otorgarl
 
 Sindbad el marino hablaba de un valle de muy difícil acceso lleno de diamantes y protegido por serpientes gigantes. Los mercaderes tiraban carne untada en miel al fondo del valle, los diamantes se pegaban a la carne y grandes águilas (o inclusos rokhs) cogían la carne y se la llevaban a su nido para sus crías. Los mercaderes espantaban a las aves y recogían los diamantes de los restos de carne.
 
-Todo este relato de Sindbad es una simplificación de una historia mucho más compleja que incluye Al Mighos, extrañas piedras cristalinas, mutaciones, radiaciones y explosiones nucleares.
+Todo este relato de Sindbad es una simplificación de una historia mucho más compleja que incluye al mighos, extrañas piedras cristalinas, mutaciones, radiaciones y explosiones nucleares.
 
 ### Cómo se formo el Valle de los Diamantes
 
-El inaccesible Valle de los Diamantes surgió hace miles de años de la explosión nuclear involuntaria de un asentamiento minero de Al Mighos. Los minerales de las tierras raras de la zona fueron afectados por la presión, el calor y la radiación de la explosión, transformándose y cristalizándose en lo que los mercaderes que los recogen creen que son diamantes, pero en realidad son cuasicristales.
+El inaccesible Valle de los Diamantes surgió hace miles de años de la explosión nuclear involuntaria de un asentamiento minero de al mighos. Los minerales de las tierras raras de la zona fueron afectados por la presión, el calor y la radiación de la explosión, transformándose y cristalizándose en lo que los mercaderes que los recogen creen que son diamantes, pero en realidad son cuasicristales.
 
-Estos causicristales no se consiguen en la naturaleza, solo se pueden crear alquímicamente y, aun así, son muy difíciles de crear. La estructura ordenada, pero no periódica, los hace muy valiosos para estos Al Mighos que serían de hacer lo que fuera por estos valiosos minerales.
+Estos causicristales no se consiguen en la naturaleza, solo se pueden crear alquímicamente y, aun así, son muy difíciles de crear. La estructura ordenada, pero no periódica, los hace muy valiosos para estos al mighos que serían de hacer lo que fuera por estos valiosos minerales.
 
 ### Peligros del valle
 
@@ -142,15 +142,15 @@ No hay ninguna forma de saber que la radiación existe a no ser que algún merca
 
 El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. La radiación es indetectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle. Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
 
-### Los Al Mighos y el valle
+### Los al mighos y el valle
 
-Los Al Mighos investigaron lo que le paso a su colonia y abandonaron la cantera porque la radiación hacía imposible durante siglos volver a extraer en el valle. Durante ese tiempo encontraron otros lugares igual de interesantes para sacar sus tierras raras y olvidaron el valle. Lo que no saben, porque no supieron esperar, es que con los milenios terminarán creándose los cuasicristales que para ellos son muy valiosos. Si llegaran a saber lo que se puede extraer del valle, seguramente buscarían la forma de hacerse con el valle y acabar con toda la competencia que extrae los valiosos cristales.
+Los al mighos investigaron lo que le paso a su colonia y abandonaron la cantera porque la radiación hacía imposible durante siglos volver a extraer en el valle. Durante ese tiempo encontraron otros lugares igual de interesantes para sacar sus tierras raras y olvidaron el valle. Lo que no saben, porque no supieron esperar, es que con los milenios terminarán creándose los cuasicristales que para ellos son muy valiosos. Si llegaran a saber lo que se puede extraer del valle, seguramente buscarían la forma de hacerse con el valle y acabar con toda la competencia que extrae los valiosos cristales.
 
 ### Tesoro y botín
 
 Usando el método de la carne solo se pueden extraer diamantes. Por cada pieza de carne que se recupere se pueden conseguir 2d6 x 1.000 dinares de oro. Si deciden bajar al valle, podrán conseguir botines en los nidos de las serpientes. Pueden ser cualquier tipo de botín, ya que las serpientes, las paredes del valle y la radiación llevan siglos matando a exploradores que intentaron conseguir diamantes.
 
-> **Semilla de aventura:** Si tus schahriars consiguen extraer diamantes del valle y venderlos, puede que lleguen a manos de agentes de los Al Mighos como la progenie de la Luna Creciente. Los Al Mighos mandarán a sus agentes humanos a averiguar de donde vienen los diamantes y estos harán lo que sea para saber de donde sacaron los cuasicristales. En resumen, tus schahriars deberán enfrentarse a un culto de psicópatas y a una tribu de Yinns por sus vidas.
+> **Semilla de aventura:** Si tus schahriars consiguen extraer diamantes del valle y venderlos, puede que lleguen a manos de agentes de los al mighos como la progenie de la Luna Creciente. Los al mighos mandarán a sus agentes humanos a averiguar de donde vienen los diamantes y estos harán lo que sea para saber de donde sacaron los cuasicristales. En resumen, tus schahriars deberán enfrentarse a un culto de psicópatas y a una tribu de Yinns por sus vidas.
 
 [![La ciudad sin nombre, ilustración de leothefox](./images/ciudad-sin-nombre.jpg)](https://es.wikipedia.org/wiki/La_ciudad_sin_nombre#/media/Archivo:The_Nameless_City_by_leothefox.jpg "La ciudad sin nombre, ilustración de leothefox") 
 
@@ -211,7 +211,7 @@ Los abu-qith con sus posesiones a través del tiempo tienen que dejar la mente d
 
 La idea era colocar una diadema mágica al cuerpo del abu-qith con la mente humana y mientras el cuerpo apenas sufría deterioro, la mete vivía en ese hammam de las delicias. El problema es que las mentes se deterioraban bastante rápidamente y al final no llegaron a usarlos. Era mucho más práctico y efectivo dejarles vivir dentro de un cuerpo del abu-qith y borrarles la memoria antes de devolver su mente a su cuerpo.
 
-Las diademas funcionan con cualquier entidad o cosa que tenga dentro una mente humana, incluso aquellos malditos en cuerpos de animal o en tubos cerebrales Al Mighos y crean una fantasía idílica, normalmente el hammam, pero podría hacer otras fantasías para otras culturas.
+Las diademas funcionan con cualquier entidad o cosa que tenga dentro una mente humana, incluso aquellos malditos en cuerpos de animal o en tubos cerebrales al mighos y crean una fantasía idílica, normalmente el hammam, pero podría hacer otras fantasías para otras culturas.
 
 No hay tirada de resistencia, si te ponen la diadema caes dentro de la fantasía. Pero si podrás despertar, si empiezas a ver fallos dentro de la ilusión. En caso de usar varias diademas, unas cerca de otras, se sincronizan y crean el mismo hammam para todos.
 
@@ -402,7 +402,7 @@ La estatua ecuestre de las montañas de Imán es una de las tres estatuas ecuest
 Hay varias teorías sobre el origen de la estatua, siendo todas posibles en mayor o meno medida.
 
 * Pudiera ser que contenga encerrado en su interior la esencia de algún primigenio o dios exterior menor relacionado con el magnetismo. Quien le dio la forma ecuestre es un misterio, quizás sea un chiste del dios arquetípico Nodens que no podemos entender.
-* Otra teoría es que sean algún tipo de ingenio Al-Migho para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera en forma de estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento Al Migho y abandonó allí la esfera.
+* Otra teoría es que sean algún tipo de ingenio Al-Migho para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera en forma de estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento al migho y abandonó allí la esfera.
 * La tercera y, quizás, más acertada es que sea algún tipo de trampa o arma creada por el gran rey y mago Soleimán para destruir a sus enemigos. Un objeto tan poderoso podría destruir naves estelares y hacerlas estrellarse contra la tierra. De alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.
 
 #### Destruyendo la estatua ecuestre

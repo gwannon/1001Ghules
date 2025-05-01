@@ -172,7 +172,7 @@ En los jardines públicos del Palacio de la Eternidad, el Califa ha construido u
 
 Todos estos animales están en jaulas repartidas por el jardín. Las condiciones de estos animales no son buenas. Están bien alimentados y cuidados, pero sus jaulas siguen siendo cárceles. Es famosa su gigantesca pajarera, una estructura de 10 metros de alto enrejado donde tiene todo tipo aves.
 
-Pero no solo hay aves y animales en la casa de fieras. Han tenido varios monstruos y yinns expuestos para disfrute y horror de los visitantes como ghūles, habitantes de las arenas o Al Mighos. El califa paga muy bien por estos seres y hay cazadores de monstruos que traen este tipo de seres para cobrar la recompensa.
+Pero no solo hay aves y animales en la casa de fieras. Han tenido varios monstruos y yinns expuestos para disfrute y horror de los visitantes como ghūles, habitantes de las arenas o al mighos. El califa paga muy bien por estos seres y hay cazadores de monstruos que traen este tipo de seres para cobrar la recompensa.
 
 > **Semilla de aventura:** Se dice que el Califa pagaría 20.000 dinares por una cría de Rokh o un huevo viable del que termine saliendo un polluelo. Es mucho dinero como para que un grupo de schahriars no se plantee tratar de traerle un polluelo al Califa.
 
@@ -459,9 +459,9 @@ El Califa aconsejado por su visir está tratando de crear una ruta comercial que
 
 Las tribus locales son reticentes a estos cambios y los más violentos sabotean los trabajos de construcción. Parece ser que no quieren gentes de fuera en sus tierras, que metan sus narices en lo que no les importa. Aun así, el califa sigue con sus planes, no quiere tener a unos salvajes nómadas tan cerca de su moderna ciudad.
 
-De hace unos años a esta parte la actividad sísmica de la zona ha aumentado más de lo normal. Esto es debido a las excavaciones de los Al Mighos para extraer tierras raras en las que usan explosivos de baja potencia y técnicas de fracturación hidráulica.
+De hace unos años a esta parte la actividad sísmica de la zona ha aumentado más de lo normal. Esto es debido a las excavaciones de los al mighos para extraer tierras raras en las que usan explosivos de baja potencia y técnicas de fracturación hidráulica.
 
-Los ánimos de las tribus de pastores son exaltados por agentes afines a los Al Mighos. Estos no ven con buenos ojos que la desértica y solitaria zona se llene de comerciantes que les molesten en tus trabajos de minería.
+Los ánimos de las tribus de pastores son exaltados por agentes afines a los al mighos. Estos no ven con buenos ojos que la desértica y solitaria zona se llene de comerciantes que les molesten en tus trabajos de minería.
 
 ### Wadi us-Salaam
 
@@ -533,7 +533,7 @@ Giafar es el principal personaje de esta ambientación. Es el personaje alrededo
 
 La genialidad militar de Ibrahim solo es comparable con su sadismo. De un recluta venido de las inhóspitas tierras de Balaz Rud ascendió hasta general gracias a sus excelentes actuaciones allí donde era enviado.
 
-Lo que nadie sabe es que este exitoso general es el sumo sacerdote del culto de la Progenie de la Luna Creciente. Su carrera militar ha sido impulsada gracias a la magia y la intervención de los Al Mighos hasta convertirse en el militar de confianza del Califa.
+Lo que nadie sabe es que este exitoso general es el sumo sacerdote del culto de la Progenie de la Luna Creciente. Su carrera militar ha sido impulsada gracias a la magia y la intervención de los al mighos hasta convertirse en el militar de confianza del Califa.
 
 El plan es tener alguien cerca del Califa que pueda impedir todos sus planes de civilizar y modernizar toda la región de Balad Ruz.
 

@@ -6,7 +6,7 @@ Hay una serie de conceptos que son importantes para que tus aventuras tenga un t
 
 En esta ambientación de las 1001 Noches como contador de historias no serás master o DJ sino Scheherazade y las personas de tu mesa serán schahriars, en referencia al sultán al que Scheherazade le contaba cada noche un cuento.
 
-Nos referiremos como "noche" a cada sesión y como cada noche tienes 3 benis para usar deberías llamarlos "deseos". De forma que cuando tus schahriars gasten un beni digan "Voy a gastar un deseo".
+Nos referiremos como «noche» a cada sesión y como cada noche tienes 3 benis para usar deberías llamarlos «deseos». De forma que cuando tus schahriars gasten un beni digan «Voy a gastar un deseo».
 
 Como Scheherazade, todas las primeras sesiones de un cuento salvaje deberían empezar con:
 
@@ -68,13 +68,13 @@ Esta regla es totalmente opcional, pero muy recomendable para darle a tus schahr
 
 Muchos de los personajes principales de los cuentos de las 1001 Noches están marcados por los hados. Se ha dictado que son especiales y son imprescindibles para que se pueda cumplir algún tipo de designio. Solo Aladino puede abrir la cueva de las Maravillas y solo Juder el pescador puede encontrar el tesoro de Al-Schamardal.
 
-En la creación del personaje deberán establecer un destino para su schahriar. Tienen que ser ideas casi imposibles y maravillosas como "Casarse con la hija o hijo del Califa", "Visitar las estrellas", "Convertirme en una amazona", "Encontrar la tumba perdida de Soleimán" o "Tener un efrit servidor".
+En la creación del personaje deberán establecer un destino para su schahriar. Tienen que ser ideas casi imposibles y maravillosas como «Casarse con la hija o hijo del Califa», «Visitar las estrellas», «Convertirme en una amazona», «Encontrar la tumba perdida de Soleimán» o «Tener un efrit servidor».
 
-Cada vez que al schahriar le salga un joker el Destino se pondrá en movimiento y hará avanzar su historia. Quizás aparezca un familiar desaparecido que le entregue una reliquia familiar y que le ponga en camino o le haga avanzar en el cumplimiento de su destino.
+Cada vez que al schahriar le salga un jóker el Destino se pondrá en movimiento y hará avanzar su historia. Quizás aparezca un familiar desaparecido que le entregue una reliquia familiar y que le ponga en camino o le haga avanzar en el cumplimiento de su destino.
 
-Debería ser inmediato, ya que si es inesperado será más impactante. Es importante que tengas preparados o por lo menos bozetado los destinos de tus schahriars por si sale el joker de repente en mitad de una noche.
+Debería ser inmediato, ya que si es inesperado será más impactante. Es importante que tengas preparados o por lo menos bocetado los destinos de tus schahriars por si sale el jóker de repente en mitad de una noche.
 
-Pero aquí también jugamos con los Mitos de Cthulhu y lo normal es que todo el mundo acabe muerto o acabe en el maristán. Así que para representar todo esto, Scheherazade deberá elegir un destino aciago asociado al destino que eligió el schahriar. Por ejemplo, "Encontrar la tumba perdida de Soleimán" puede suponer que encuentres la tumba, pero no que sobrevivas y salgas con los tesoros de Soleimán. "Visitar las estrellas" puede convertirse en una pesadilla y que termines en el centro del universo bailando para Azathoth.
+Pero aquí también jugamos con los Mitos de Cthulhu y lo normal es que todo el mundo acabe muerto o acabe en el maristán. Así que para representar todo esto, Scheherazade deberá elegir un destino aciago asociado al destino que eligió el schahriar. Por ejemplo, «Encontrar la tumba perdida de Soleimán» puede suponer que encuentres la tumba, pero no que sobrevivas y salgas con los tesoros de Soleimán. «Visitar las estrellas» puede convertirse en una pesadilla y que termines en el centro del universo bailando para Azathoth.
 
 Para elaborar el destino aciago debes pensar esos genios malvados de cuentos y películas que tergiversan los deseos de los humanos para buscarles la desgracia, la perdición e incluso la muerte.
 
@@ -209,7 +209,7 @@ Esta ventaja te da un bonus de +2 a Interpretar y Persuadir frente a humanos, be
 
 _Prerrequisitos: Novato, Espíritu d6._
 
-Eres un excepcional contador de cuentos, las palabras fluyen de tu boca y evocan en la mente de tu audiencia claras y precisas imágenes de lo que estás narrando.
+Eres un excepcional contador de cuentos, las palabras fluyen de tu boca y evocan en la mente de tu audiencia imágenes claras y precisas de lo que estás narrando.
 
 Algo muy común con los contadores de cuentos en las 1001 Noches es que suelen usar los cuentos como forma de convencer a la audiencia. No es raro que el visir cuente una parábola o un cuento al califa para convencerle de hacer o no hacer algo.
 
@@ -293,7 +293,7 @@ Se hablan infinidad de lenguas en las tierras de las 1001 Noches, pero los idiom
 También tenemos otros idiomas no humanos. Son idiomas hablados por los extraños seres.
 
 * Aklo, es una lengua secreta usada por muchos cultos adoradores de los primigenios y demás dioses exteriores.
-* R’lyehiano, el idioma hablado por las gente del mar.
+* R’lyehiano, el idioma hablado por las gentes del mar.
 * Naacal, la lengua que habla la serpigente.
 * Pnakótico, es el idioma con el que escriben los abu-qith, ya que hablan con una mezcla de chasquidos de sus pinzas y de telepatía.
 
@@ -307,7 +307,7 @@ Si falla la tirada, deberá hacer una segunda tirada de Espíritu, si saca más 
 
 Puede evitarse la pérdida de puntos de cordura, adquiriendo un trastorno mental permanente con un máximo de 3 trastornos permanentes o gastando todos tus deseos (mínimo 1) y adquiriendo un trastorno mental de forma temporal.
 
-Tabla de Trastornos
+### Tabla de Trastornos
 
 ♥
 
@@ -409,7 +409,7 @@ Depresión (mayor)
 
 Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Para decidir el trastorno deberá sacar una carta y revisar la tabla de Trastornos. Si es temporal deberá consultar la tabla de Duración del trastorno. Los trastornos permanentes repetidos pueden apilarse si son menores, convirtiéndose en un trastorno mayor. Si no, tendrá que volver a coger una carta nueva. Los temporales simplemente ampliarán el tiempo.
 
-Tabla de Duración del trastorno
+### Tabla de Duración del trastorno
 
 ♥
 
@@ -484,7 +484,7 @@ Las TPCs pueden ser modificadas en determinadas situaciones.
 * **Pásame el haschisch:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, masticando una buena pieza de haschisch antes de entrar de noche en un cementerio infestado de ghūles. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, etc. y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
 * **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
 
-Tabla de Modificación del TPC por grandes grupos
+### Tabla de Modificación del TPC por grandes grupos
 
 Tamaño de la manada
 
@@ -594,9 +594,9 @@ Durante la creación de tu schahriar solo tendrás acceso al equipo normal de un
 
 Todo producto manufacturado es de origen artesanal, herreros, carpinteros, tejedores, etc. trabajan en sus talleres y producen a mano todo tipo de productos. Eso quiere decir que muchos productos exigirán un tiempo de fabricación. Lo normal es que el herrero tenga unas pocas armas en su taller para que veas su arte y destreza y te haga en una semana el arma que estás buscando.
 
-Si tus schahriars tienen dudas sobre si tienen acceso a un tipo concreto de invento, es tan fácil como mirar su año de invención en internet y ver si ronda el siglo IX. Si juegas en grandes ciudades como Bagdad o Basora, que están en el centro de las grandes rutas comerciales, seguramente tendrán acceso al invento. Si estás perdido en el desierto en pequeño poblado, seguramente no.
+Si tus schahriars tienen dudas sobre si tienen acceso a un tipo concreto de invento, es tan fácil como mirar su año de invención en internet y ver si ronda el siglo IX. Si juegas en grandes ciudades como Bagdad o Basora, que están en el centro de las grandes rutas comerciales, seguramente tendrán acceso al invento. Si estás perdido en el desierto en un pequeño poblado, seguramente no.
 
-La moneda que se va a a usar de normal será el dinar de oro. 1 dinar de oro es igual 1 dolar a la hora de mirar precios en las tablas de equipo del Manual Básico. Para pocas de poco valor puedes usar dirhams de plata (1 dinar = 10 dirhams) y para cosas sin valor diferentes monedas de cobre como el felus.
+La moneda que se va a usar de normal será el dinar de oro. 1 dinar de oro es igual 1 dólar a la hora de mirar precios en las tablas de equipo del Manual Básico. Para pocas de poco valor puedes usar dirhams de plata (1 dinar = 10 dirhams) y para cosas sin valor diferentes monedas de cobre como el felus.
 
 Para darle un toque más exótico, cuando tus schahriars viajen puedes usar otros nombres de monedas como el dracma griego (y tetradracmas), el schekel judío o los riales persas. En tesoros antiguos podrían ser denarios romanos, dracmas de nuevo o estateros de tiempos de Iskandar (Alejandro Magno).
 
@@ -710,7 +710,7 @@ d6
 
 150/250
 
-**Notas:** Si se ata no se le puede desarmar normalmente, pero la mano queda inservible para cualquier acción que no se atacar con el katar. Además, exige 1 turno deshacerse del katar atado. Si no se ata adecuadamente, impone un -1 a las tiradas de Pelear.  
+**Notas:** Si se ata no se le puede desarmar normalmente, pero la mano queda inservible para cualquier acción que no sea atacar con el katar. Además, exige 1 turno deshacerse del katar atado. Si no se ata adecuadamente, impone un -1 a las tiradas de Pelear.  
 Si tiene protección es más cara y otorga una protección en el antebrazo de +1 a la armadura.
 
 #### Chakram

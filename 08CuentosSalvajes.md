@@ -198,7 +198,7 @@ Déjales moverse por la ciudad buscando información. Estos son algunos item de 
 * Si enseñan la caja de piezas a diferentes artesanos, nadie ve nada raro. Es una funda muy corriente y barata.
 * Si visitan la Casa de la Sabiduría, sabrán que el poderoso rey Soleimán usaba el shatranj para entrenar tácticas militares con sus generales. Pero aunque hay tableros muy valiosos, ninguno que sea solo de madera es tan especial como para matar.
 * Si preguntan a los farmacéuticos por un hombre con terribles picaduras de abejas, uno les describirá a un hombre alto, muy fuerte y rapado con muchas cicatrices de heridas muy profundas por todo el cuerpo.
-* Si buscan a jugadores de shatranj, les contarán montones de anécdotas, pero nada útil. Salvo que el rey Soleimán fue el mejor jugador de Shatranj de su época.
+* Si buscan a jugadores de shatranj, les contarán montones de anécdotas, pero nada útil. Salvo que el rey Soleimán fue el mejor jugador de shatranj de su época.
 * Si usan contactos en los bajos fondos, parece que hay un grupo sectario nuevo en la ciudad buscando a alguien por las preguntas que hacen. Si tienen la descripción del asesino, el farmacéutico confirmarán la descripción.
 * Un experto en madera les dirá que la caja huele a sándalo, una madera muy cara que seguro se usó, como incrustaciones en las piezas muy valiosas, seguramente de ébano.
 * Si le llevan un pedazo del cuerpo de Haquim "el mielero" a Dana y le dan una buena descripción del cadáver, está podrá decirles que lo torturaron antes de matarlo. Estaba atado y le fueron cortando dedos hasta que confeso. Entonces lo destriparon. Por la heridas, el torturador debía ser alguien muy fuerte.
@@ -229,9 +229,9 @@ El [pasillo prohibido](#anchorpasilloprohibido) está cerrado al público y solo
 
 Dentro podrán empezar a buscar libros de magia que hagan referencia al shatranj. Tendrán que pasar un TPC d4 si solo miran dibujos y un TPC d6 si leen pasajes. Leer pasajes les dará un bono de +2 a Investigar
 
-Acumulando 3 tiradas exitosas (contando los avances) de Investigar encontrarán un libro que puede servirles, Secretos oscuros del Shatranj. Cada tirada supone 15 minutos de búsqueda, así mientras un grupo busca entre los libros, otro deberá tratar de que nadie se acerque al pasillo, ya que si alguien se acerca los verá y llamará a seguridad. En el pasillo no hay donde esconderse y con un simple vistazo serían detectados.
+Acumulando 3 tiradas exitosas (contando los avances) de Investigar encontrarán un libro que puede servirles, Secretos oscuros del shatranj. Cada tirada supone 15 minutos de búsqueda, así mientras un grupo busca entre los libros, otro deberá tratar de que nadie se acerque al pasillo, ya que si alguien se acerca los verá y llamará a seguridad. En el pasillo no hay donde esconderse y con un simple vistazo serían detectados.
 
-##### Secretos oscuros del Shatranj
+##### Secretos oscuros del shatranj
 
 **Nivel de poder:** 3  
 **Idioma:** Árabe  
@@ -244,7 +244,7 @@ Pueden intentar robarlo u ojearlo rápidamente y dejarlo donde estaban. Si se lo
 > Cuando entre en los aposentos del Emir, este estaba leyendo una carta. Tras leerla se acercó a un tablero de shatranj e hizo un movimiento con las figuras de marfil, mientras mascullaba para sus adentros. Empezó a dar vueltas alrededor del shatranj y cuando se percató de mi presencia, me dijo: "Acércate, ¿qué te parece?"  
 > Cuando mis ojos se posaron en el viejo tablero, mi vista se nubló, las dimensiones del tablero se distorsionaron de maneras imposibles y las figuras parecía que tomarán vida. Tomo a mi alrededor cambió, ya no estaba en el palacio del emir, sino en un lugar vació y oscuro donde no sabía lo que era arriba y abajo. De repente, sentí la mano del emir en mi espalda. La oscuridad ya no estaba y yo volví, pero yo no quería acercarme al shatranj, nunca jamás.
 
-Secretos oscuros del Shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
+Secretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
 
 Este juego de shatranj, creado por el poderoso soberano Soleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
 
@@ -272,7 +272,7 @@ Por las calles corren rumores de guerra, la gente está comprando para tener res
 
 #### El plan de Ibrahim Ibn Jibril
 
-Las últimas políticas del Califa (en realidad su visir y la Califesa) para la zona del Balad Ruz van en contra de los intereses de los Al Mighos y es por ello que sus siervos de la Progenie de la Luna Creciente tratan de que no lleguen a aplicarse.
+Las últimas políticas del Califa (en realidad su visir y la Califesa) para la zona del Balad Ruz van en contra de los intereses de los al mighos y es por ello que sus siervos de la Progenie de la Luna Creciente tratan de que no lleguen a aplicarse.
 
 La Progenie ha tratado de sabotear todos los intentos del Califa de poblar y civilizar Balad Ruz, pero siempre han fracasado, así que han decidido cortar de raíz y derrocar al todopoderoso Califa.
 
@@ -328,7 +328,7 @@ Hay varias vías de investigación que pueden tomar.
 
 **Buscar la guarida:** Pueden buscar en el arrabal donde aterrizó el saboteador de la estatua ecuestre. Puede que vean algo sospechoso. Lo único interesante es una carnicería llevada por una familia proveniente de la región de Balaz Rud. No son pruebas muy sólidas, pero puede ser algo más si lo confirman con otras líneas de investigación. Investigar para encontrar pistas a la posible guarida.
 
-**Investigar al general:** Parece que todo esto es cosa del general Ibrahim, quizás estudiar su pasado revele algo. A simple vista ha salido de la nada y ha ascendido muy deprisa, eso no suena muy limpio. Una visita al diwán podría permitirles descubrir que sus ascensos son demasiado rápidos y en extrañas circunstancias. Sus hazañas son muy espectaculares y peligrosas y cualquier otro estaría muerto a no ser que tengas aliados como los Al mighos o sepas de magia. Investigar para zambullirse en los archivos, pero deberán sobornar a los empleados públicos y Tácticas para entender los ascensos del general.
+**Investigar al general:** Parece que todo esto es cosa del general Ibrahim, quizás estudiar su pasado revele algo. A simple vista ha salido de la nada y ha ascendido muy deprisa, eso no suena muy limpio. Una visita al diwán podría permitirles descubrir que sus ascensos son demasiado rápidos y en extrañas circunstancias. Sus hazañas son muy espectaculares y peligrosas y cualquier otro estaría muerto a no ser que tengas aliados como los al mighos o sepas de magia. Investigar para zambullirse en los archivos, pero deberán sobornar a los empleados públicos y Tácticas para entender los ascensos del general.
 
 Podrán encontrar que Ibrahim compró una vieja carnicería que ha alquilado a una gente de Balaz Rud. Parecen familiares por sus apellidos.
 
@@ -376,7 +376,7 @@ Giafar y la califesa querrán agradecer por salvar la ciudad y el califato a los
 
 Adicionalmente, el fondo de resistencia recibirá 5.000 dinares y Fátima entregará 200 a cada schahriar.
 
-**Recompensa de cordura:** Si consiguen detener el plan de la Progenie y los Al Mighos y asistes a la feria del califa, recuperarán algo de su infancia perdida, esa que las calles de Bagdad les arrebataron. Devuelves todos los puntos de cordura perdida en la aventura y si no han perdido nada podrán quitarse un trastorno que hayan adquirido.
+**Recompensa de cordura:** Si consiguen detener el plan de la Progenie y los al mighos y asistes a la feria del califa, recuperarán algo de su infancia perdida, esa que las calles de Bagdad les arrebataron. Devuelves todos los puntos de cordura perdida en la aventura y si no han perdido nada podrán quitarse un trastorno que hayan adquirido.
 
 > **Semilla de aventura:** El plan de la Progenie de la Luna ha sido frustrado, pero todavía queda acabar son sus miembros en Balaz Rud y los yinns malvados que los dirigen. Son muy peligrosos como para dejarlos escapar y que puedan volver a conspirar contra el Califa y la ciudad. Pero primero habrá que encontrar su guarida en la región de Balad Ruz.
 
@@ -2840,21 +2840,21 @@ Al tercer día la actividad se disparará, el cielo nocturno se llenará de las 
 
 Si quieren entrar en la casa deberán enfrentarse a un grupo de aldeanos que la protegen (2 [aldeanos](anchorbandido) por schahriar). Si los derrotan podrán entrar en la casa.
 
-Se encontrarán con 5 Al Mighos, 4 obreros y un sabio. Mariam está sobre un quirófano y el Al Migho sabio se prepara para extraer el cerebro a Mariam y meterlo en un cilindro cerebral.
+Se encontrarán con 5 al mighos, 4 obreros y un sabio. Mariam está sobre un quirófano y el al migho sabio se prepara para extraer el cerebro a Mariam y meterlo en un cilindro cerebral.
 
-En este momento tus schahriars pueden lanzarse al combate contra los Al Mighos o intentar negociar con ellos, ya que podrían usar a Mariam de rehén. Si se lanzan al ataque solo los obreros se enfrentarán a ellos, el sabio se quedará mirando al lado de Mariam.
+En este momento tus schahriars pueden lanzarse al combate contra los al mighos o intentar negociar con ellos, ya que podrían usar a Mariam de rehén. Si se lanzan al ataque solo los obreros se enfrentarán a ellos, el sabio se quedará mirando al lado de Mariam.
 
-Si Mariam los ve en problema, derrotan a todos los obreros u optan por negociar desde el principio, Mariam intervendrá. Les contará que se muere y que los Al Mighos con su magia pueden salvar su mente y preservarla en los cilindros que se ven en una de las mesas. Seguirá viva a pesar de que su decrepito cuerpo muera, seguirá viva cuando todos ellos hayan muerto y sus aventuras hayan sido olvidadas.
+Si Mariam los ve en problema, derrotan a todos los obreros u optan por negociar desde el principio, Mariam intervendrá. Les contará que se muere y que los al mighos con su magia pueden salvar su mente y preservarla en los cilindros que se ven en una de las mesas. Seguirá viva a pesar de que su decrepito cuerpo muera, seguirá viva cuando todos ellos hayan muerto y sus aventuras hayan sido olvidadas.
 
 Pero lo más importante es que gracias a estos extraños yinns podrá viajar a las estrellas que tanto ama y conocer sus misterios. Ese ha sido su gran deseo y ahora se hará realidad. Les pedirá que dejen al sabio hacer su trabajo y dejar que se cumplan sus anhelos.
 
 En este punto tus schahriars deberán elegir: acabar con los al Mighos y acabar con los sueños de Mariam o dejarla ir con ellos. Ella está decidida y aunque le prometan curarla no cambiará de opinión.
 
-Si deciden dejarle con su plan, podrán ver la operación (TPC d6) y podrán hablar con Mariam una vez este en el cilindro. Podrán despedirse cuando los Al Mighos salgan volando hacia el espacio exterior.
+Si deciden dejarle con su plan, podrán ver la operación (TPC d6) y podrán hablar con Mariam una vez este en el cilindro. Podrán despedirse cuando los al mighos salgan volando hacia el espacio exterior.
 
-Si paran la operación y acaban con los Al Mighos, la psique de Mariam se romperá y caerá catatónica al ver si mayor deseo frustrado. Aunque puedan curar su cuerpo mágicamente, su mente estará destruida y en un par de días se dejará morir.
+Si paran la operación y acaban con los al mighos, la psique de Mariam se romperá y caerá catatónica al ver si mayor deseo frustrado. Aunque puedan curar su cuerpo mágicamente, su mente estará destruida y en un par de días se dejará morir.
 
-Los Al Mighos derrotados dejarán de botín los artilugios que había en la caa de Bassir que no se han podido llevar. Además, podrán coger los enseres personales de Mariam y quedárselos (botín d8 con solo riquezas, objetos mundanos y grimorios, además de todo tipo de artilugios astronómicos). Puede que quieran devolvérselos a su familia, se los queden o traten de venderlos.
+Los al mighos derrotados dejarán de botín los artilugios que había en la caa de Bassir que no se han podido llevar. Además, podrán coger los enseres personales de Mariam y quedárselos (botín d8 con solo riquezas, objetos mundanos y grimorios, además de todo tipo de artilugios astronómicos). Puede que quieran devolvérselos a su familia, se los queden o traten de venderlos.
 
 **Recompensa de cordura (+1):** Si aceptan las decisiones personales de Mariam y no tratan de contrariarlas, otórgales un punto de cordura.
 

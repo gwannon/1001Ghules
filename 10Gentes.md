@@ -432,11 +432,11 @@ De un recluta venido de las inhóspitas tierras de Balaz Rud ascendió hasta gen
 
 La genialidad militar de Ibrahim solo es comparable con su sadismo, de hecho ya correr muchos rumores de sanguinarias acciones de guerra que sobrepasan con mucho lo que dictan las reglas de la guerra.
 
-Lo que nadie sabe es que este exitoso general es el sumo sacerdote del culto de la Progenie de la Luna Creciente. Su carrera militar ha sido impulsada gracias a la magia y la intervención de los Al Mighos hasta convertirse en el militar de confianza del Califa.
+Lo que nadie sabe es que este exitoso general es el sumo sacerdote del culto de la Progenie de la Luna Creciente. Su carrera militar ha sido impulsada gracias a la magia y la intervención de los al mighos hasta convertirse en el militar de confianza del Califa.
 
 También ha ayudado a su meteórico ascenso en el escalafón militar que Dalila la taimada vendiera secretos a la Progenie de la Luna Creciente sobre sus competidores para que medrará en su carrera militar hasta ser un alto general.
 
-Lo que buscaban los Al Mighos y sus agentes humanos de la Progenie con todo esto es poner a uno de sus agentes humanos cerca del califa para influir en él. Lo que no sabían y empiezan a sospechar es que el califa es un estúpido y que sus cortesanos son los que en realidad andan metiendo sus zarpas en Balaz Rud y creando problemas a los Al Mighos.
+Lo que buscaban los al mighos y sus agentes humanos de la Progenie con todo esto es poner a uno de sus agentes humanos cerca del califa para influir en él. Lo que no sabían y empiezan a sospechar es que el califa es un estúpido y que sus cortesanos son los que en realidad andan metiendo sus zarpas en Balaz Rud y creando problemas a los al mighos.
 
 [![Salah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS](./images/ibrahim.jpg)](https://www.deviantart.com/muratcalis/art/Salah-Al-Din-Yusuf-Ibn-Ayyub-354014608 "Salah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS") 
 

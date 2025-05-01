@@ -186,7 +186,7 @@ La creación agua o fuego, mover tierra o hacer soplar fuego es un tipo de magia
 
 Al contrario que la mayoría de poderes, este poder es solo típicamente de los Mitos, pero junto a Marioneta queda muy bien para villanos, magos tenebrosos, visires malvados, etc.
 
-En el manual básico se dice que pruebas claras podrían hacer volver destellos del recuerdo manipulado (Tirada de Astucia -2). En esta ambientación basada en las 1001 Noches, los olores, los sabores, etc. tienen su importancia y el olor del perfume que usaba tu pareja olvidada o unos sensuales bailes que ejecutaba para tí pueden recordártela. Quizás un plato típico de una zona te haga recordar una ciudad de esa zona hecha desaparecer por los Al-Mighos y que hicieron olvidar a todo el mundo.
+En el manual básico se dice que pruebas claras podrían hacer volver destellos del recuerdo manipulado (Tirada de Astucia -2). En esta ambientación basada en las 1001 Noches, los olores, los sabores, etc. tienen su importancia y el olor del perfume que usaba tu pareja olvidada o unos sensuales bailes que ejecutaba para tí pueden recordártela. Quizás un plato típico de una zona te haga recordar una ciudad de esa zona hecha desaparecer por los Al-mighos y que hicieron olvidar a todo el mundo.
 
 Aunque se use este poder para hacer olvidar hechos traumáticos, la psique está ya rota y no se puede recuperar puntos de Cordura.
 

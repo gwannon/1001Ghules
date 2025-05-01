@@ -1,12 +1,22 @@
 # Tesoros
 
+\sinc
+
 En 1001 Ghūles hay situaciones en las que los schahriars podrán buscar botines y tesoros, puede ser en el interior de una cueva de ladrones, en el laboratorio de un malvado hechicero o al derrotar una bestia sanguinaria venida de una dimensión paralela.
+
+&nbsp;
 
 ## Tiradas de botín
 
-Muchas de las situaciones o peligros a los que se enfrentarán los schahriars tendrán una tirada de botín. Esta tirada puede ser un valor de d4 a d12 o incluso más. Siempre que se derrote a un monstruo de los Mitos, si la descripción de este no dice lo contrario, se podrá hacer también una tirada de botín de igual valor al TPC del monstruo más modificaciones.
+\conc
 
-Tras derrotar al monstruo o resolver la situación, uno de los schahriars podrá hacer la tirada de botín. El botín también exige que tengan un mínimo tiempo de buscarlo. Si acaban con un shoggoth y tienen que salir corriendo porque un río de lava inunda su estancia, no podrán intentar conseguir botín. La dificultad es 4 y pasarla da un éxito y cada avance da otro éxito más. Según los éxitos que consigan, podrán tirar en diferentes tablas:
+Muchas de las situaciones o peligros a los que se enfrentarán los schahriars tendrán una tirada de botín. Esta tirada puede ser un valor de d4 a d12 o incluso más.
+
+Siempre que se derrote a un monstruo de los Mitos, si la descripción de este no dice lo contrario, se podrá hacer también una tirada de botín de igual valor al TPC del monstruo más modificaciones.
+
+Tras derrotar al monstruo o resolver la situación, uno de los schahriars podrá hacer la tirada de botín. El botín también exige que tengan un mínimo tiempo de buscarlo. 
+
+Si acaban con un shoggoth y tienen que salir corriendo porque un río de lava inunda su estancia, no podrán intentar conseguir botín. La dificultad es 4 y pasarla da un éxito y cada avance da otro éxito más. Según los éxitos que consigan, podrán tirar en diferentes tablas:
 
 * Tabla de riquezas (1 éxito).
 * Tabla de objetos especiales (2 éxitos). Solo puede cogerse una vez por tirada de botín.
@@ -19,592 +29,261 @@ Si se consigue:
 
 Tras decidir como gastar su botín podrán tirar en la Tabla de Riquezas o en la Tabla de objetos especiales.
 
-Tabla de Riquezas
+\sp
 
-1d12
+\sinc
 
-Descripción
+### Tabla de Riquezas
 
-Valor en dinares
+|1d12|Descripción|Valor en dinares|
+|---|---|---|
+|1-4|Algunos dinares y monedas de cobre y plata|1d10 x 10|
+|5-6|Pequeños objetos de oro como vasos, cubiertos, pequeñas joyas, espejos o peines|2d10 x 20|
+|7-8|Piedras semipreciosas|1d10 x 50|
+|9-10|Buena cantidad de dinares|1d10 x 100|
+|11|Joyas de oro con piedras preciosas|1d10 x 200|
+|12|Piedras preciosas de gran valor|1d10 x 500|
 
-1-4
-
-Algunos dinares y monedas de cobre y plata
-
-1d10 x 10
-
-5-6
-
-Pequeños objetos de oro como vasos, cubiertos, pequeñas joyas, espejos o peines
-
-2d10 x 20
-
-7-8
-
-Piedras semipreciosas
-
-1d10 x 50
-
-9-10
-
-Buena cantidad de dinares
-
-1d10 x 100
-
-11
-
-Joyas de oro con piedras preciosas
-
-1d10 x 200
-
-12
-
-Piedras preciosas de gran valor
-
-1d10 x 500
 
 Dentro de los objetos especiales podemos tener armas, cuerpo a cuerpo o a distancia, armaduras, objetos mundanos curiosos y objetos mágicos.
 
-Tabla de Objetos especiales
+&nbsp;
 
-1d10
+### Tabla de Objetos especiales
 
-Tipo
+|1d10|Tipo|
+|---|---|
+|1-2|**Arma cuerpo a cuerpo.** Tira en la tabla de armas cuerpo a cuerpo y luego en la de capacidades.|
+|3-4|**Arma a distancia.** Tira en la tabla de armas a distancia y luego en la de capacidades.|
+|5|**Armaduras .** Tira en la Tabla de Armaduras y luego en la de capacidades.|
+|6|**Protecciones.** Tira en la Tabla de Protecciones y luego en la de capacidades.|
+|7-8|**Objetos mundanos.** Tira en la Tabla de Objetos mundanos.|
+|9|**Objetos mágicos.** Tira en la Tabla de Objetos mágicos.|
+|10|**Grimorio .** Tira en la Tabla de Grimorios y luego en la de modificaciones.|
 
-1-2
+\conc
 
-Arma cuerpo a cuerpo  
-Tira en la tabla de armas cuerpo a cuerpo y luego en la de capacidades.
+\sp
 
-3-4
+\sinc
 
-Arma a distancia  
-Tira en la tabla de armas a distancia y luego en la de capacidades.
-
-5
-
-Armaduras  
-Tira en la Tabla de Armaduras y luego en la de capacidades.
-
-6
-
-Protecciones  
-Tira en la Tabla de Protecciones y luego en la de capacidades.
-
-7-8
-
-Objetos mundanos  
-Tira en la Tabla de Objetos mundanos.
-
-9
-
-Objetos mágicos  
-Tira en la Tabla de Objetos mágicos
-
-10
-
-Grimorio  
-Tira en la Tabla de Grimorios y luego en la de modificaciones.
+### Tabla de Armas cuerpo a cuerpo
 
 Puedes usar la tabla siguiente o poner armas más exóticas de pueblos que pasaron por estas tierras como un gladius romano, una falcata o un kopis griego. Las dos últimas son armas con cierta curva que se asemejan a alfanjes y cimitarras.
 
-Tabla de Armas cuerpo a cuerpo
+|1d10|Nombre|
+|---|---|
+|1-2|Cimitarra|
+|3-4|Alfanje|
+|5|Jambia|
+|6|Shibriya|
+|7|Khopesh|
+|8|Shotel|
+|9|Katar|
+|10|Tabar Shishpar|
 
-1d10
+&nbsp;
 
-Nombre
-
-1-2
-
-Cimitarra
-
-3-4
-
-Alfanje
-
-5
-
-Jambia
-
-6
-
-Shibriya
-
-7
-
-Khopesh
-
-8
-
-Shotel
-
-9
-
-Katar
-
-10
-
-Tabar Shishpar
+### Tabla de capacidades de Armas cuerpo a cuerpo
 
 Las capacidades especiales también son una sugerencia. Igual no quieres armas directamente mágicas para que los enemigos inmunes a ataques físicos sean más complicados o que un practicante de magia las imbuya de su poder.
 
-Tabla de capacidades de Armas cuerpo a cuerpo
+|1d10|Capacidad|
+|---|---|
+|1-4|Hecha por herreros yemeníes, +1 a pelea +1 a daño|
+|5-6|Afilada, +2 a daño|
+|7|Digna de un califa, x10 su precio normal|
+|8|Mágica, se considera mágica a la hora de inmunidades, +1 a pelea y +1 a daño|
 
-1d10
+\conc
 
-Capacidad
+\sp
 
-1-4
+\sinc
 
-Hecha por herreros yemeníes, +1 a pelea +1 a daño
+|1d10|Capacidad|
+|---|---|
+|9|Protectora, +2 a parada|
+|10|Legendaria, se considera mágica a la hora de inmunidades, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.|
 
-5-6
+&nbsp;
 
-Afilada, +2 a daño
+### Tabla de Armas a distancia
 
-7
+|1d8|Nombre|
+|---|---|
+|1-2|Honda|
+|3-4|Arco|
+|5-6|Azagaya|
+|7|Arco recurvo|
+|8|Chakram|
 
-Digna de un califa, x10 su precio normal
+&nbsp;
 
-8
+### Tabla de capacidades de Armas a distancia
 
-Mágica, se considera mágica a la hora de inmunidades, +1 a pelea y +1 a daño
+|1d10|Capacidad|
+|---|---|
+|1-4|De excelente calidad, +1 a pelea +1 a daño|
+|5-6|Empaladora, +2 a daño|
+|7|Digna de un califa, x10 su precio normal|
+|8|Mágica, se considera mágica a la hora de inmunidades, +1 a pelea y +1 a daño|
+|9|De tirador de primera, dobla los rangos de alcance|
+|10|Legendaria, se considera mágica a la hora de inmunidades, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.|
 
-9
+\conc
 
-Protectora, +2 a parada
+\sp
 
-10
-
-Legendaria, se considera mágica a la hora de inmunidades, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.
-
-Tabla de Armas a distancia
-
-1d8
-
-Nombre
-
-1-2
-
-Honda
-
-3-4
-
-Arco
-
-5-6
-
-Azagaya
-
-7
-
-Arco recurvo
-
-8
-
-Chakram
-
-Tabla de capacidades de Armas a distancia
-
-1d10
-
-Capacidad
-
-1-4
-
-De excelente calidad, +1 a pelea +1 a daño
-
-5-6
-
-Empaladora, +2 a daño
-
-7
-
-Digna de un califa, x10 su precio normal
-
-8
-
-Mágica, se considera mágica a la hora de inmunidades, +1 a pelea y +1 a daño
-
-9
-
-De tirador de primera, dobla los rangos de alcance
-
-10
-
-Legendaria, se considera mágica a la hora de inmunidades, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.
+\sinc
 
 Las capacidades especiales también son una sugerencia. Igual no quieres armas directamente mágicas para que los enemigos inmunes a ataques físicos sean más complicados o que un practicante de magia las imbuya de su poder.
 
-Tabla de Armaduras y protecciones
-
-1d20
-
-Nombre
-
-1-2
-
-Chaqueta de tela gruesa
-
-3-4
-
-Pantalones de tela gruesa
-
-5-6
-
-Caftán/Galabiya/Chilaba reforzada
-
-7-8
-
-Turbante reforzado
-
-9
-
-Chaqueta de piel gruesa
-
-10
-
-Pantalones de piel gruesa
-
-11
-
-Camisa de mala
-
-12
-
-Pantalones de malla
-
-13
-
-Cofia de malla
-
-14
-
-Escudo pequeño
-
-15
-
-Escudo mediano
-
-16
-
-Escudo grande
-
-17
-
-Spara
-
-18
-
-Casco de turbante
-
-19
-
-Jawshan
-
-20
-
-Kalantar
-
-Tabla de capacidades de Armaduras y protecciones
-
-1d10
-
-Capacidad
-
-1-2
-
-Reforzado, +1 Armadura/cobertura
-
-3-4
-
-Ligero, 3/4 del peso normal
-
-5
-
-Digna de un califa, x10 su precio normal
-
-6
-
-Antimagia, otorga Resistencia arcana
-
-7
-
-Protectora, -1 a todos los daños de origen mágico, +1 a armadura/cobertura
-
-8
-
-Legendaria, -1 a todos los daños de origen mágico, +2 a armadura/cobertura. Tiene nombre propio y perteneció a alguien famoso.
-
-Tabla de Objetos mundanos
-
-1d20
-
-Objeto
-
-1
-
-Alambique
-
-2
-
-Astrolabio
-
-3
-
-Dados trucados
-
-4
-
-Instrumento musical de calidad
-
-5
-
-Maqueta precisa del sistema solar
-
-6
-
-Paracaídas
-
-7
-
-Tablero de shatranj y piezas de marfil y ébano
-
-8
-
-Tinta invisible
-
-9
-
-Brea pegalotodo
-
-10
-
-Anestésico natural de cactus
-
-11
-
-Canicas magnetizadas
-
-12
-
-Redes de hilo de seda
-
-13
-
-Jaula para monstruos
-
-14
-
-Afrodisíaco (1d8 dosis)
-
-15
-
-Agua regía (2d10 litros)
-
-16
-
-Haschisch (2d8 dosis)
-
-17
-
-Bang cretense (1d6 dosis)
-
-18
-
-Agua de rosas (2d10 litros)
-
-19
-
-Kohl de calidad (3d10 usos)
-
-20
-
-Ropajes dignos de un califa (10d100 dinares de oro)
-
-Tabla de Grimorios
-
-1d8
-
-Objeto
-
-1
-
-Liber Ivonis (Libro de Eibon)
-
-2
-
-Séfer HaRazim - El libro de los secretos
-
-3
-
-Séfer Raziel HaMalaj - El Libro del Arcángel Raziel
-
-4
-
-Kitab an-nawamis - Libro de las leyes
-
-5
-
-Anales de los Antiguos
-
-6
-
-Pnakotica - Manuscritos Pnakóticos
-
-7
-
-I ching
-
-8
-
-Historia de las Aventuras de Hassan Al-Bassri
-
-Tabla de Modificaciones de Grimorios
-
-1d8
-
-Modificación
-
-1-2
-
-Traducción
-
-3
-
-Incompleto
-
-4
-
-Anotado
-
-5
-
-Dañado
-
-6
-
-Muy dañado
-
-7
-
-Edición original
-
-8
-
-Maldito
-
-Tabla de Objetos mágicos
-
-1d100
-
-Objeto
-
-1d100
-
-Objeto
-
-1-4
-
-Vasos canopos del Faraón negro
-
-53-56
-
-Amuleto para vivir debajo del agua
-
-5-8
-
-Espejo de Leng
-
-57-60
-
-Sangre de Fénix
-
-9-12
-
-Alfombra de piel de serpiente
-
-61-64
-
-Jugo de plantas para caminar sobre las aguas
-
-13-16
-
-Llave de plata
-
-65-68
-
-Tambor de piel de gallo
-
-17-20
-
-Polvo de Ibn-Ghazi
-
-69-72
-
-Bang cretense (1d8 dosis)
-
-21-24
-
-Concha roja
-
-73-76
-
-Hidromiel espacial (1d8 dosis)
-
-25-28
-
-Cetros de faraón
-
-77-80
-
-Droga Liao
-
-29-32
-
-Semilla de Khizr, guardián de los vergeles y los huertos
-
-81-84
-
-Botella sellada
-
-33-36
-
-Búcaro de alabastro
-
-85-88
-
-La joya talismánica de la cama de viaje
-
-37-40
-
-Alfombra volante
-
-89-92
-
-Agujas mágicas
-
-41-44
-
-Saco encantado
-
-93-96
-
-Taza talismánica
-
-45-48
-
-Batería de Bagdad
-
-97-100
-
-Mesa de arena adivinatoria
-
-49-52
-
-Kohl de búsqueda de tesoros
+&nbsp;
+
+### Tabla de Armaduras y protecciones
+
+|1d20|Nombre|
+|---|---|
+|1-2|Chaqueta de tela gruesa|
+|3-4|Pantalones de tela gruesa|
+|5-6|Caftán/Galabiya/Chilaba reforzada|
+|7-8|Turbante reforzado|
+|9|Chaqueta de piel gruesa|
+|10|Pantalones de piel gruesa|
+|11|Camisa de mala|
+|12|Pantalones de malla|
+|13|Cofia de malla|
+|14|Escudo pequeño|
+|15|Escudo mediano|
+|16|Escudo grande|
+|17|Spara|
+|18|Casco de turbante|
+|19|Jawshan|
+|20|Kalantar|
+
+\conc
+
+\sp
+
+\sinc
+
+### Tabla de capacidades de Armaduras y protecciones
+
+|1d10|Capacidad|
+|---|---|
+|1-2|Reforzado, +1 Armadura/cobertura|
+|3-4|Ligero, 3/4 del peso normal|
+|5|Digna de un califa, x10 su precio normal|
+|6|Antimagia, otorga Resistencia arcana|
+|7|Protectora, -1 a todos los daños de origen mágico, +1 a armadura/cobertura|
+|8|Legendaria, -1 a todos los daños de origen mágico, +2 a armadura/cobertura. Tiene nombre propio y perteneció a alguien famoso.|
+
+### Tabla de Objetos mundanos
+
+|1d20|Objeto|
+|---|---|
+|1|Alambique|
+|2|Astrolabio|
+|3|Dados trucados|
+|4|Instrumento musical de calidad|
+|5|Maqueta precisa del sistema solar|
+|6|Paracaídas|
+|7|Tablero de shatranj y piezas de marfil y ébano|
+|8|Tinta invisible|
+|9|Brea pegalotodo|
+|10|Anestésico natural de cactus|
+
+\conc
+
+\sp
+
+\sinc
+
+|1d20|Objeto|
+|---|---|
+|11|Canicas magnetizadas|
+|12|Redes de hilo de seda|
+|13|Jaula para monstruos|
+|14|Afrodisíaco (1d8 dosis)|
+|15|Agua regía (2d10 litros)|
+|16|Haschisch (2d8 dosis)|
+|17|Bang cretense (1d6 dosis)|
+|18|Agua de rosas (2d10 litros)|
+|19|Kohl de calidad (3d10 usos)|
+|20|Ropajes dignos de un califa (10d100 dinares de oro)|
+
+&nbsp;
+
+### Tabla de Grimorios
+
+|1d8|Objeto|
+|---|---|
+|1|Liber Ivonis (Libro de Eibon)|
+|2|Séfer HaRazim - El libro de los secretos|
+|3|Séfer Raziel HaMalaj - El Libro del Arcángel Raziel|
+|4|Kitab an-nawamis - Libro de las leyes|
+|5|Anales de los Antiguos|
+|6|Pnakotica - Manuscritos Pnakóticos|
+|7|I ching|
+|8|Historia de las Aventuras de Hassan Al-Bassri|
+
+\conc
+
+\sp
+
+\sinc
+
+### Tabla de Modificaciones de Grimorios
+
+|1d8|Modificación|
+|---|---|
+|1-2|Traducción|
+|3|Incompleto|
+|4|Anotado|
+|5|Dañado|
+|6|Muy dañado|
+|7|Edición original|
+|8|Maldito|
+
+&nbsp;
+
+### Tabla de Objetos mágicos
+
+|1d100|Objeto|1d100|Objeto|
+|---|---|---|---|
+|1-4|Vasos canopos del Faraón negro|53-56|Amuleto para vivir debajo del agua|
+|5-8|Espejo de Leng|57-60|Sangre de Fénix|
+|9-12|Alfombra de piel de serpiente|61-64|Jugo de plantas para caminar sobre las aguas|
+|13-16|Llave de plata|65-68|Tambor de piel de gallo|
+|17-20|Polvo de Ibn-Ghazi|69-72|Bang cretense (1d8 dosis)|
+|21-24|Concha roja|73-76|Hidromiel espacial (1d8 dosis)|
+|25-28|Cetros de faraón|77-80|Droga Liao|
+|29-32|Semilla de Khizr|81-84|Botella sellada|
+|33-36|Búcaro de alabastro|85-88|La joya talismánica de la cama de viaje|
+
+\conc
+
+\sp
+
+\sinc
+
+|1d100|Objeto|1d100|Objeto|
+|---|---|---|---|
+|37-40|Alfombra volante|89-92|Agujas mágicas|
+|41-44|Saco encantado|93-96|Taza talismánica|
+|45-48|Batería de Bagdad|97-100|Mesa de arena adivinatoria|
+|49-52|Kohl de búsqueda de tesoros| - | - |
+
+\conc
+
+\sp
+
+\sinc
 
 ## Tesoros míticos
+
+\conc
 
 Esta ambientación está llena de objetos maravillosos de inmenso poder y muchas veces malditos. Objetos que pueden traerte grandes dones o convertir tu mundo en un infierno en la Tierra. Estos objetos van más allá de alfombras voladoras y lámparas mágicas, estamos hablando de juguetes que te permiten viajar por el espacio (o quizás acabar pedido en la inmensidad del espacio) o armas dignas de dioses que pueden que terminen matando a tus seres queridos.
 
@@ -686,7 +365,7 @@ Con solo blandirla, dota a su portador +3 a parada y da Resistencia arcana mejor
 
 El caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada. Tiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata. Es tan realista que si no fuera porque está inmóvil pasaría por real.
 
-Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los Al Mighos en sus tubos cerebrales. En este líquido están flotando ciertos órganos extraídos de un ave de rokh (shantak) que le confieren al caballo algunas de las sus maravillosas propiedades que tiene el caballo.
+Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales. En este líquido están flotando ciertos órganos extraídos de un ave de rokh (shantak) que le confieren al caballo algunas de las sus maravillosas propiedades que tiene el caballo.
 
 [![The Journey of Prince Firouz Schah - Houghton, Arthur Boyd](./images/journey-firouz.jpg)](https://www.oldbookillustrations.com/illustrations/journey-firouz/ "The Journey of Prince Firouz Schah - Houghton, Arthur Boyd") 
 
@@ -761,7 +440,7 @@ En el mismo estilo de la estatua del guerrero a caballo que corona la cúpula ve
 
 La figura de este flautista amorfo no tiene ningún tipo de bisagra, ni articulación, ni engranaje. Cuando se mueve el metal y las gemas del que está hecho se animan como si fueran carne.
 
-Una tirada de Saber de Soleimán, dejará claro que la figura representa a un flautista amorfo, parte de la Corte del Gran Azathoth, que toca su flauta para tranquilizar y apaciguar a su señor. De hecho, si se rompiera la figura se vería que está hueca y que en su interior hay los órganos principales de uno de estos amorfos flautistas en un estado parecido al de los cerebros humanos en los tubos cerebrales de los Al Mighos.
+Una tirada de Saber de Soleimán, dejará claro que la figura representa a un flautista amorfo, parte de la Corte del Gran Azathoth, que toca su flauta para tranquilizar y apaciguar a su señor. De hecho, si se rompiera la figura se vería que está hueca y que en su interior hay los órganos principales de uno de estos amorfos flautistas en un estado parecido al de los cerebros humanos en los tubos cerebrales de los al mighos.
 
 El propio Nyarlathotep secuestró y entregó a uno de estos seres como parte del pacto que hizo con el alquimista que creo este objeto. Al romper la figura y hacer un hechizo de destierro adecuado, la esencia del flautista volvería a la Corte de Azathoth donde tomaría carne de nuevo y volvería a tocar para este caótico dios.
 
@@ -885,7 +564,7 @@ Según la leyenda, en el fondo del lago hay dos carpas de colores que son dos pr
 
 Realmente no existen dos carpas rojas, sino dos cilindros cerebrales con las mentes de dos aprendices del mago Al-Schamardal. Ayudaron a su maestro a preparar su tumba y por ello saben dónde está y qué pruebas hay que pasar para acceder al tesoro. Tras terminar la tumba, Al-Schamardal pensaba matarlos, pero en su lugar los encerró en los cilindros cerebrales y los abandono en el lago Karum.
 
-Dalila y Adil, que así se llaman los ayudantes de Al-Schamardal, llevan siglos en éxtasis en los cilindros y primero se necesitará encontrar la forma de que puedan comunicar con el exterior. Puede conseguirse unos moduladores de voz y unos micrófonos para poder hablar con ellos. La secta de la Progenie es sierva un grupo de Al Mighos que seguro quieren vender su tecnología a cambio de algún servicio. Otra es buscarle un cuerpo y conseguir que los Al Mighos lo metan dentro.
+Dalila y Adil, que así se llaman los ayudantes de Al-Schamardal, llevan siglos en éxtasis en los cilindros y primero se necesitará encontrar la forma de que puedan comunicar con el exterior. Puede conseguirse unos moduladores de voz y unos micrófonos para poder hablar con ellos. La secta de la Progenie es sierva un grupo de al mighos que seguro quieren vender su tecnología a cambio de algún servicio. Otra es buscarle un cuerpo y conseguir que los al mighos lo metan dentro.
 
 El segundo problema es que están muy desubicados y con grandes fallos de memoria. Tienen recelos a hablar y será difícil sacarles respuestas. Se necesitará y buenas tiradas de persuadir para sacarles la ubicación de la tumba de Al-Schamardal.
 
@@ -1062,7 +741,13 @@ Al aplicar el kohl de esta redomita (que no se acaba nunca) permite ver todos aq
 
 Se considera tesoro todos aquellos objetos que podrían salir en una tirada de botín y todos los tesoros míticos. No hay que hacer tirada de Notar, solo en caso de haberse usado una tirada de Ocultación mágica. El efecto dura hasta quitar el maquillaje voluntariamente o involuntariamente o al día siguiente.
 
+\sp
+
+\sinc
+
 ## Objetos mágicos
+
+\conc
 
 Los objetos que aparecen aquí no son tan poderosos y únicos como los anteriores, pero son objetos mágicos de bastante poder que te permiten hacer hazañas increíbles. Estamos hablando de alfombras voladoras, amuletos de protección, materiales alquímicos, etc. En general te van a permitir emular los poderes básicos de Savage Worlds, como volar, respirar bajo el agua o ser invisible.
 
@@ -1196,7 +881,7 @@ Esto te puede servir como semilla de partida en la que tus schahriars tienen que
 
 10
 
-**Cilindro cerebral de los Al Mighos:** Estos cilindros de metal verdusco con extrañas luces y una especie de tubo por donde salen sonidos tiene algo en su interior flotando en líquido.
+**Cilindro cerebral de los al mighos:** Estos cilindros de metal verdusco con extrañas luces y una especie de tubo por donde salen sonidos tiene algo en su interior flotando en líquido.
 
 11
 
@@ -1231,7 +916,7 @@ Estos cetros, fruto del saqueo de tumbas reales egipcias, están hechos de un ex
 Una persona afín a la magia puede gastar 1 PP y durante 1 turno los cetros ofrecen inmunidad a ataques físicos o a ataques mentales y mágicos. Solamente hay que coger los cetros, uno en cada mano, y cruzarlos delante del pecho. Si ponemos el cetro del ankh delante se consigue inmunidad física y con el del disco solar delante inmunidad mágica y mental.  
 Todo esto exige que la persona que porta los cetros no pueda hacer nada más ese turno que moverse y sostener los cetros. No puede atacar, ni coger cosas, ni darlas, etc.
 
-### Cilindro cerebral de los Al Mighos
+### Cilindro cerebral de los al mighos
 
 > Allí, en una fila ordenada, había más de una docena de cilindros de un metal que ningún creyente ni infiel hubiera visto nunca: cilindros que llegaban a un codo de alto y algo menos de ancho, con tres curiosas cavidades colocadas en un triángulo isósceles sobre la superficie frontal convexa de cada uno. Uno de ellos contaba con 2 cornetas, una grande y abierta y otra más pequeña y estrecha de la que salia un zumbido constante. No necesité que me explicaran su significado
 
@@ -1473,7 +1158,13 @@ Estos vasos canopos (recipientes de piedra con tapa de cabeza de animal/dios egi
 
 Consumir alguno de los 1d4 órganos guardados en cada uno de ellos permite usar una vez el poder de Adivinación, usando Espíritu como habilidad arcana y sin gastar PP. Si se busca consultar con primigenios o dioses exteriores, la tirada deberá ser con Saber de Soleimán.
 
+\sp
+
+\sinc
+
 ## Objetos mundanos
+
+\conc
 
 A pesar de no ser mágicos, en las 1001 Noches hay toda una serie de objetos mundanos que pueden ser muy interesantes, útiles en determinados momentos e, incluso, buenas semillas de historias. Veamos algunos ejemplos:
 
@@ -1483,10 +1174,15 @@ A pesar de no ser mágicos, en las 1001 Noches hay toda una serie de objetos mun
 
 **Astrolabio:** El astrolabio era un instrumento astronómico usado por los navegantes y astrónomos para localizar los astros y observar su movimiento, para determinar la hora a partir de la latitud y viceversa. Los marinos lo usan para calcular el horario de oración y localizar la dirección de La Meca. Ofrece un +2 a las tiradas de Navegación si sabe usarse (con una tirada de previa de Ciencias).
 
-**Brea pegalotodo:** Este ungüento maloliente es un potente pegamento de secado muy rápido que permite reparar un objeto roto de tamaño normal (algo que se pueda llevar en una mano) en un solo turno con una tirada exitosa de Reparar. La duración de la reparación no suele ser muy larga, utiliza la Tabla de Duración del trastorno para determinar la duración de la reparación. También puede usarse para reparar agujeros en odres o cántaros.  
+**Brea pegalotodo:** Este ungüento maloliente es un potente pegamento de secado muy rápido que permite reparar un objeto roto de tamaño normal (algo que se pueda llevar en una mano) en un solo turno con una tirada exitosa de Reparar. La duración de la reparación no suele ser muy larga, utiliza la Tabla de Duración del trastorno para determinar la duración de la reparación. También puede usarse para reparar agujeros en odres o cántaros.
+
 Si se quiere reparar algo de mayor tamaño, Scheherazade podrá establecer las dosis y turnos que se necesitan para hacer las reparaciones. El bote tiene 1d12 usos.
 
-**Canicas magnetizadas:** Estas bolas de metal ennegrecidas del tamaño de canicas se magnetizaron cuando las toco un rayo de tormenta. Ahora se atraen entre sí, aunque haya mucha distancia entre ellas. Son perfectas para meter una de las canicas en un cofre o ponérsela en un bolsillo a una persona y así poder seguirle el rastro a distancia. Mientras el personaje que lleva la canica este a menos de un kilómetro, podrá saber dónde está la otra canica, dejando la suya rodar por el suelo y siguiendo la dirección que indique.
+**Canicas magnetizadas:** Estas bolas de metal ennegrecidas del tamaño de canicas se magnetizaron cuando las toco un rayo de tormenta. Ahora se atraen entre sí, aunque haya mucha distancia entre ellas. 
+
+\sp
+
+Son perfectas para meter una de las canicas en un cofre o ponérsela en un bolsillo a una persona y así poder seguirle el rastro a distancia. Mientras el personaje que lleva la canica este a menos de un kilómetro, podrá saber dónde está la otra canica, dejando la suya rodar por el suelo y siguiendo la dirección que indique.
 
 **Dados trucados:** Estos preciosos dados de marfil y ébano están trucados y según como se lancen obtienen unas tiradas u otras. Al usarlos en juegos de azar se obtiene un +2 a las tiradas. Una tirada de Latrocinio con dos avances permitirá al resto de jugadores darse cuenta de la trampa.
 
@@ -1500,10 +1196,14 @@ Si se quiere reparar algo de mayor tamaño, Scheherazade podrá establecer las d
 
 **Maqueta precisa del sistema solar:** Este artilugio mecánico representa precisamente nuestro sistema solar. Da un +2 a las tiradas de Ciencias relacionadas con la astronomía si puede dedicarse una hora a trabajar y hacer cálculos usando la maqueta.
 
-**Paracaídas:** El ingeniero Abbas ibn Firnas, hizo varios intentos de construir una máquina que volara. Inventó el paracaídas al usar una tela estirada por puntales de madera y lanzarse desde un acantilado. Reduce a 0 todo daño por caída. Si hay mucho viento o se cae sobre un terreno como rocas puntiagudas podría hacerse 1d6 de daño.
+**Paracaídas:** El ingeniero Abbas ibn Firnas, hizo varios intentos de construir una máquina que volara. Inventó el paracaídas al usar una tela estirada por puntales de madera y lanzarse desde un acantilado. Reduce a 0 todo daño por caída.
+
+\sp
+
+Si hay mucho viento o se cae sobre un terreno como rocas puntiagudas podría hacerse 1d6 de daño.
 
 **Redes de hilo de seda:** Estas redes hechas de hilo de seda son tremendamente resistentes (consistencia 10) y muy ligeras (5 kilos). Parecen ser de origen chino y permiten atrapar peces de gran tamaño sin romperse (+1 a toda actividad de pesca). Un manitas podría adaptarlas fácilmente para crear una trampa para atrapar animales (y monstruos) de gran tamaño (tamaño 3).
 
-**Tablero de Shatranj y piezas de marfil y ébano:** El shatranj es una forma previa del ajedrez de origen persa. Las piezas y el tablero son muy parecidas a los del actual ajedrez y este juego es de una altísima calidad. Su precio rondaría d6 x 1.000 dinares. Sería un buen regalo para aficionados al juego.
+**Tablero de shatranj y piezas de marfil y ébano:** El shatranj es una forma previa del ajedrez de origen persa. Las piezas y el tablero son muy parecidas a los del actual ajedrez y este juego es de una altísima calidad. Su precio rondaría d6 x 1.000 dinares. Sería un buen regalo para aficionados al juego.
 
 **Tinta invisible:** Está compuesto por un juego de tintero y pluma y un saquito de polvos. El mensaje que se escribe con esta tinta se hace invisible en segundos y solo se revela cuando echan encima los polvos del saquito. Hay tinta y polvos para 1d8 usos.

@@ -52,7 +52,6 @@ _Abdul Alhazred revisando su obra a la luz del fuego_
 
 \conc
 
-
 Abdul Alhazred nace hacia el año 700 en la ciudad yemení de Sana. Vivió durante el califato de los Omeyas y no se sabe mucho de su infancia y su juventud, excepto que se hizo poeta y tuvo algunos encontronazos con los poderes de la zona.
 
 Es por ello que abandonó Sana y viajo por todo Oriente Próximo, Sinaí y el norte de África. Según cronistas y biógrafos, visitó las ruinas de Babilonia y las secretas catacumbas de Menfis. En estas localizaciones empezó a descubrir que el mundo no era como le habían contado y que había poderes horribles y ominosos que regían en las fronteras de nuestra realidad.
@@ -143,7 +142,11 @@ Los ghūles fueron la punta del iceberg de sus estudios. Al estudiarlos en los c
 
 Cultural y antropológicamente hablando, los janns son los primeros yinns, o casi mejor, los proto-yinns. Son yinns muy parecidos a los humanos con estructuras sociales complejas, familias, tribus, reinos, comercio, culturas, artes, etc. Según las historias y cuentos, crearon en el Gennistán (el mundo de los yinns) ciudades, pueblos, carreteras, etc. Son considerados los primeros seres con libre albedrío que hubo en la Tierra.
 
-Es por todo esto que Alhazred, uso el nombre de janns para describir a los primeros seres que llegaron y dominaron la Tierra, mucho antes de que los humanos existieran. Estos seres con formas de barril de 5 caras y con pseudópodos y tentáculos por extremidades y con alas, sin embargo, se extinguieron mucho antes de que los hombres pisarán la Tierra y solo sabemos de ellos por los restos de su civilización que aun se conservan.
+Es por todo esto que Alhazred, uso el nombre de janns para describir a los primeros seres que llegaron y dominaron la Tierra, mucho antes de que los humanos existieran. Estos seres con formas de barril de 5 caras y con pseudópodos y tentáculos por extremidades y con alas.
+
+\sp
+
+Sin embargo, se extinguieron mucho antes de que los hombres pisarán la Tierra y solo sabemos de ellos por los restos de su civilización que aun se conservan.
 
 Aunque morfológicamente los humanos no tenemos nada que ver esos primeros yinns, si son muy parecidos a nosotros por su forma de pensar y vivir, por su cultura y su forma de percibir el mundo. Frente a las mentes super-avanzadas de los al mighos o la visión no-lineal del tiempo de los abu-qith, los janns podrían ser estudiados como si fueran humanos.
 
@@ -157,17 +160,29 @@ Los al mighos son los yinns más alejados de los humanos, no solo físicamente, 
 
 Según sus estudios y sus escritos, Alhazred consideraba que los al mighos son el origen de todos los mitos de lugares malditos, desapariciones misteriosas y gentes que vuelven completamente cambiados.
 
-Los al mighos no pueden mezclarse fácilmente con los humanos y suelen ser vistos como cheitans o demonios, es por ello que necesitan que sus minas y canteras donde extraen extraños metales estén lejos de miradas indiscretas. Tantos sus agentes humanos como ellos mismos con su avanzadísima tecnología usan todo tipo de estrategias para alejar a los intrusos o neutralizarlos mediante técnicas de control mental. No será la primera vez que el cacique de un pueblo perdido de las montañas vende todas sus tierras por una miseria a un oscuro comprador para luego suicidarse.
+Los al mighos no pueden mezclarse fácilmente con los humanos y suelen ser vistos como cheitans o demonios, es por ello que necesitan que sus minas y canteras donde extraen extraños metales estén lejos de miradas indiscretas. Tantos sus agentes humanos como ellos mismos con su avanzadísima tecnología usan todo tipo de estrategias para alejar a los intrusos o neutralizarlos mediante técnicas de control mental.
 
-Estos yinns tienen una especie de «poder de seducción» que les permite atraer a los marginados y a los débiles de mente, de forma que se convierten en sus sirvientes y en sus agentes humanos. Estos secuaces humanos pueden comprar tierras para sus años, expulsar a curiosos, intimidar a los investigadores, borrar pruebas, sobornar agentes de la ley y en situaciones extremas asesinar a personas peligrosas para los objetivos de los al mighos.
+\sp
+
+No será la primera vez que el cacique de un pueblo perdido de las montañas vende todas sus tierras por una miseria a un oscuro comprador para luego suicidarse.
+
+Estos yinns tienen una especie de «poder de seducción» que les permite atraer a los marginados y a los débiles de mente, de forma que se convierten en sus sirvientes y en sus agentes humanos.
+
+Estos secuaces humanos pueden comprar tierras para sus amos, expulsar a curiosos, intimidar a los investigadores, borrar pruebas, sobornar agentes de la ley y en situaciones extremas asesinar a personas peligrosas para los objetivos de los al mighos.
 
 ### Abu-qiths
 
 Estos yinns son descritos por Alhazred como seres espirituales que necesitan poseer cuerpos de seres vivos para interactuar con el mundo físico. Alhazred considera a los abu-qith como los más poderosos de todos los yinns conocidos, solo ya su magia (que no deja de ser tecnología tan avanzada que parece magia) les pone primeros en poder. Pero es además tienen control del tiempo, pudiendo moverse a través de los días, los años o los siglos atrás y adelante y anclándose a una época poseyendo un cuerpo de un ser vivo.
 
-Si de otros yinns consideró que eran de fuera de la Tierra, con los abu-qith llego a la acertada conclusión de que eran de fuera del tiempo. Al tener una visión no lineal del tiempo, su forma de pensar, sus objetivos y sus metas e incluso su ética y moral escapa de la comprensión humana. Aun así, parece que no suelen ser peligrosos para nosotros procurando no dañarnos.
+Si de otros yinns consideró que eran de fuera de la Tierra, con los abu-qith llego a la acertada conclusión de que eran de fuera del tiempo. 
 
-Según sus estudios del folclore local, estos abu-qith se escondían en los relatos y cuentos en los personajes poderosos, sabios y un poco excéntricos que entrenan a héroes y heroínas. Nos referimos a personajes como Abd Al-Samad de la «Historia de Juder el pescador o el saco encantado», un poderoso mago perteneciente a una familia de poderosos magos, un tanto alocado y que no busca dinero o poder, sino más conocimientos.
+Al tener una visión no lineal del tiempo, su forma de pensar, sus objetivos y sus metas e incluso su ética y moral escapa de la comprensión humana. Aun así, parece que no suelen ser peligrosos para nosotros procurando no dañarnos.
+
+Según sus estudios del folclore local, estos abu-qith se escondían en los relatos y cuentos en los personajes poderosos, sabios y un poco excéntricos que entrenan a héroes y heroínas.
+
+Nos referimos a personajes como Abd Al-Samad de la «Historia de Juder el pescador o el saco encantado», un poderoso mago perteneciente a una familia de poderosos magos, un tanto alocado y que no busca dinero o poder, sino más conocimientos.
+
+\sp
 
 Estos personajes que tienen sus correspondientes versiones occidentales en personajes como Merlín (que curiosamente se movía al revés en el tiempo) esconden detrás a abu-qith que han tomado posesión de humanos y que por alguna razón que solo su percepción única del tiempo.
 
@@ -175,13 +190,19 @@ Estos personajes que tienen sus correspondientes versiones occidentales en perso
 
 El estudio de los abu-qith llevo a Alhazred a conocer a sus mayores enemigos y a continuar sus investigaciones con esta tribu casi extinta de yinns, los warams, que junto a los qareens, quizás sean los yinns más alejados de los humanos.
 
-Tradicionalmente, los yinns siempre han tenido un elemento relacionado (aire, agua, etc.), no es definitorio de cada yinn, pero si explica muchas cosas de su forma de ser y pensar. Así pues, según las leyendas, los efrits son fuego, los mareds agua, los khotrobs la tierra, etc. Los Warams están detrás de las historias de yinns de aire y viento al ser parte viento y tener cierto control de este elemento.
+Tradicionalmente, los yinns siempre han tenido un elemento relacionado (aire, agua, etc.), no es definitorio de cada yinn, pero si explica muchas cosas de su forma de ser y pensar.
+
+Así pues, según las leyendas, los efrits son fuego, los mareds agua, los khotrobs la tierra, etc. Los Warams están detrás de las historias de yinns de aire y viento al ser parte viento y tener cierto control de este elemento.
 
 Según le fue rebelado a Alhazred, llegaron a la Tierra de las profundidades del espacio y dominaron la superficie de la Tierra durante milenios antes de la aparición de los humanos. Crearon fabulosas ciudades de basalto, pero tuvieron que abandonarlas cuando casi fueron aniquilados por los abu-qith y refugiarse bajo tierra para resurgir milenios más tarde y extinguir en venganza a los abu-qith. Es por esto que los abu-qith y los warams son enemigos ancestrales, aunque muchas no sepan bien por qué se pelean.
 
 Con los siglos fueron decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos, a veces adorados como dioses por tribus paganas. También se sabe warams que se mueven por todo el desierto como eternas y poderosas de arena.
 
-Estos yinns con forma de pólipos y hechos en parte de aire se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido. No solo su forma de pensar es totalmente alienígena, también su forma de percibirlo. Perciben el mundo de otras formas desconocidas, de forma que puede «ver» a través de las paredes o moverse sin problemas en plena oscuridad.
+Estos yinns con forma de pólipos y hechos en parte de aire se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido. 
+
+\sp
+
+No solo su forma de pensar es totalmente alienígena, también su forma de percibirlo. Perciben el mundo de otras formas desconocidas, de forma que puede «ver» a través de las paredes o moverse sin problemas en plena oscuridad.
 
 ### Qareens
 
@@ -195,17 +216,29 @@ Los qareens de las leyendas populares son seres espirituales que acompañan a lo
 
 ### Aads
 
-Poco se sabe de esta tribu de yinns a la que Alhazred atribuye la creación de Aram-de-las-columnas y el descubrimiento del azufre rojo, el más poderoso de los agentes alquímicos. Cuando la ciudad de Aram-de-las-columnas fue tragada por la Tierra como castigo divino por la soberbia de los Aads, su rey Scheddad ben-Aad se llevó a los supervivientes fuera de nuestro mundo y dejo un fabuloso tesoro.
+Poco se sabe de esta tribu de yinns a la que Alhazred atribuye la creación de Aram-de-las-columnas y el descubrimiento del azufre rojo, el más poderoso de los agentes alquímicos.
 
-Según pudo descubrir Alhazred el tiempo que en Aram-de-las-Columnas, los Aads eran yinns de gran poder mágico. Como otros yinns eran de fuera de nuestro mundo (puede que de Yaddith, un planeta cerca de Deneb, la estrella más brillante de la constelación del cisne). Construyeron la fabulosa ciudad de Aram-de-las-Columnas gracias a uno de sus grandes descubrimientos, el agente alquímico conocido como azufre rojo. Con él podían crea oro a partir de plomo y hierro y piedras preciosas con cantos rodados.
+\sp
+
+Cuando la ciudad de Aram-de-las-columnas fue tragada por la Tierra como castigo divino por la soberbia de los Aads, su rey Scheddad ben-Aad se llevó a los supervivientes fuera de nuestro mundo y dejo un fabuloso tesoro.
+
+Según pudo descubrir Alhazred el tiempo que en Aram-de-las-Columnas, los Aads eran yinns de gran poder mágico. Como otros yinns eran de fuera de nuestro mundo (puede que de Yaddith, un planeta cerca de Deneb, la estrella más brillante de la constelación del cisne). 
+
+Construyeron la fabulosa ciudad de Aram-de-las-Columnas gracias a uno de sus grandes descubrimientos, el agente alquímico conocido como azufre rojo. Con él podían crea oro a partir de plomo y hierro y piedras preciosas con cantos rodados.
+
+\sinc
 
 ### Los yinns y sus posesiones
 
 > Y para realizar este proyecto, voy a ir a buen paso, lo más de prisa que pueda, al palacio del sultán, en la India, y entraré en el cuerpo de la joven princesa y tomaré posesión de su espíritu momentáneamente. Y de tal suerte, convertida en posesa, parecerá loca a cuantos la rodean, y su padre, el sultán, procurará que la curen los médicos más hábiles de la India. Pero ninguno podrá adivinar la verdadera causa del mal, que será mi presencia en el cuerpo de la joven; y todos los cuidados que con ella tengan fracasarán bajo mi aliento y por mi voluntad. Y entonces te presentarás tú, y serás quien cure a la princesa. 
-
-> ¡Y voy a indicarte los medios para ello!" Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: "Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino. Y en vista de ello, como recompensa a la curación verificada, serás esposo de la joven, hija del rey.
+> 
+> ¡Y voy a indicarte los medios para ello!" Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: "Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino.
 > 
 > **Referencia:** Historia del jinete detrás del cual tocaban salto indios y chinos (n. 867)
+
+\conc
+
+\sp
 
 Un aspecto muy importante de los yinns, que Alhazred debió sufrir en sus carnes, son su capacidad de poseer a las personas. Hablamos tanto de poseer los cuerpos directamente como de controlar sus mentes para que obedezcan sus órdenes.
 
@@ -219,7 +252,17 @@ Hay que hacer hincapié, que si bien no son posesiones como tal, los al mighos y
 
 Los abu-qith, como ya hemos dicho, son yinns espirituales que pueden poseer los cuerpos de todo tipo de criaturas. La posesión es algo innato a su naturaleza y lo han perfeccionado tanto que incluso pueden poseer a través del tiempo, de forma que puede tomar el cuerpo de personas de los tiempos del Gran Soleimán y conocerle en persona. Las esencias de los poseídos son trasladados al cuerpo actual abu-qith y es tratado con amabilidad allí donde viva.
 
-Como no tienen un carácter maligno, y por tanto, no son considerados cheitans, tratan de interferir lo mínimo en sus víctimas, de forma que no alteran las vidas de sus poseídos durante el tiempo de posesión y le borran la memoria antes de abandonar el cuerpo poseído y devolvérselo a su legítimo dueño.
+Como no tienen un carácter maligno, y, por tanto, no son considerados cheitans, tratan de interferir lo mínimo en sus víctimas, de forma que no alteran las vidas de sus poseídos durante el tiempo de posesión y le borran la memoria antes de abandonar el cuerpo poseído y devolvérselo a su legítimo dueño.
+
+\sp
+
+\sinc
+
+[![Small World by ArtDoge](./images/gennistan.jpg)](https://www.deviantart.com/artdoge/art/Small-World-595127250 "Small World by ArtDoge") 
+
+&nbsp;
+
+\conc
 
 #### Los qareens y su aura depresiva
 
@@ -227,19 +270,19 @@ Los qareens de normal no pueden poseer directamente a un humano, pero pueden cor
 
 En mentes extremadamente débiles o rotas pueden llegar a conseguir un control total, de forma que obedezcan ciegamente sus órdenes. El control que ejerce sobre estas víctimas es tan poderoso que nadie más puede influir en ellos. Además, solo les importa cumplir las órdenes dadas que nada puede inmiscuirse, ni el hambre o la sed les importará, aunque sí hará estragos en su cuerpo.
 
-\sinc
-
-[![Small World by ArtDoge](./images/gennistan.jpg)](https://www.deviantart.com/artdoge/art/Small-World-595127250 "Small World by ArtDoge") 
-
-\conc
-
 ### El país de Gennistán
 
-Según las creencias populares y la teología islámica, los yinns viven a caballo entre nuestra realidad y una especie de mundo espiritual como puede ser el cielo o el infierno llamado en Gennistán o país de los yinns. Alhazred interpretó el Gennistán de otra manera muy distinta. Para él, el Gennistán no era una dimensión espiritual, sino que serían las estrellas, el espacio exterior.
+Según las creencias populares y la teología islámica, los yinns viven a caballo entre nuestra realidad y una especie de mundo espiritual como puede ser el cielo o el infierno llamado en Gennistán o país de los yinns.
+
+\sp
+
+Alhazred interpretó el Gennistán de otra manera muy distinta. Para él, el Gennistán no era una dimensión espiritual, sino que serían las estrellas, el espacio exterior.
 
 Mediante sus estudios y sus visiones elaboró la teoría de que los yinns venía de los cielos y que la mayoría de seres extraños también venían del espacio exterior o incluso de realidades diferentes a las nuestras.
 
-Sus ideas, aunque extrañas en su época, son totalmente correctas y seguramente muy influenciada por a astronomía/astrología tan popular en su época. De hecho, hemos de considerar que Alhazred no era musulmán, adoraba a unos dioses cósmicos llamados Yog-Sothoth y Cthulhu. Según sus creencias, Yog-Sothoth estaba atrapado fuera de nuestra realidad y Cthulhu había llegado a la Tierra de las distantes estrellas.
+Sus ideas, aunque extrañas en su época, son totalmente correctas y seguramente muy influenciada por a astronomía/astrología tan popular en su época.
+
+De hecho, hemos de considerar que Alhazred no era musulmán, adoraba a unos dioses cósmicos llamados Yog-Sothoth y Cthulhu. Según sus creencias, Yog-Sothoth estaba atrapado fuera de nuestra realidad y Cthulhu había llegado a la Tierra de las distantes estrellas.
 
 ### Forma de actuar
 
@@ -253,9 +296,11 @@ Los cheitans son lo que en la tradición judeocristiana llamaríamos demonios. S
 
 Para Alhazred no existe esa diferenciación entre buenos y malos, ya que no los considera parte de nuestro mundo y, por lo tanto, quedan fuera de las leyes divinas y humanas que rigen el mundo de los hombres.
 
+\sp
+
 ### Relaciones sociales y relaciones con los humanos
 
-Cada tribu de yinns tiene su propia estructura social. Estas pueden ser más cerradas o más abiertas. Por ejemplo, los Al Mighos tienen un estricto sistema de castas donde el libre albedrío es casi inexistente. Por otro lado, los abu-qith y los janns que tienen una sociedad más abierta y libre, donde cada ente puede hacer lo que quiera, cuando quiera, siempre que sus actos no entren en conflicto con otros entes de su sociedad.
+Cada tribu de yinns tiene su propia estructura social. Estas pueden ser más cerradas o más abiertas. Por ejemplo, los al mighos tienen un estricto sistema de castas donde el libre albedrío es casi inexistente. Por otro lado, los abu-qith y los janns que tienen una sociedad más abierta y libre, donde cada ente puede hacer lo que quiera, cuando quiera, siempre que sus actos no entren en conflicto con otros entes de su sociedad.
 
 Normalmente, no se ha tratado las relaciones sociales, familiares y sentimentales de los seres de los Mitos, pero puedes tener su importancia. Mientras que los al mighos no tienen lazos sentimentales, los janns y los abu-qith son más complejos.
 
@@ -293,10 +338,8 @@ De hecho, son famosos los tratados de juristas medievales estableciendo leyes qu
 
 \conc
 
-[![Salomón escribe los Proverbios (Doré).](./images/salomon.webp)](https://es.wikipedia.org/wiki/Salom%C3%B3n#/media/Archivo:Dore_Solomon_Proverbs.png "Salomón escribe los Proverbios (Doré).") 
 
 El gran Rey Soleimán, más conocido como el sabio rey Salomón, es una figura mítica dentro de los cuentos de las 1001 Noches.
-
 
 Las grandes hazañas de la antigüedad siempre son fruto del rey Soleimán desde vencer a ejércitos de yinns a realizar grandes prodigios mágicos.
 
@@ -304,12 +347,21 @@ Hay, además, toda una serie de objetos de gran poder que se le atribuyen como c
 
 Alhazred elaboró varias teorías que podrían explicar todas las historias que tratan sobre este personaje histórico.
 
-* Podría ser un avatar de un dios arquetípico como Nodens que existía para tener controlados a los primigenios y sus adoradores, tanto humanos como yinns.
-* Otra opción que estudio el árabe medio loco fue que Soleimán fuera un gran mago Aad, los creadores de Aram-de-las-Columnas, o más conocidos como yaddithianos. Los yaddithianos/aads es una raza casi extinta de magos/científicos muy poderosos cuyo mundo/dimensión fue devorado por los falaks (dholes).
+Podría ser un avatar de un dios arquetípico como Nodens que existía para tener controlados a los primigenios y sus adoradores, tanto humanos como yinns.
+
+Otra opción que estudio el árabe medio loco fue que Soleimán fuera un gran mago Aad, los creadores de Aram-de-las-Columnas, o más conocidos como yaddithianos.
+
+\sc
+
+[![Salomón escribe los Proverbios (Doré).](./images/salomon.webp)](https://es.wikipedia.org/wiki/Salom%C3%B3n#/media/Archivo:Dore_Solomon_Proverbs.png "Salomón escribe los Proverbios (Doré).") 
+
+Los yaddithianos/aads es una raza casi extinta de magos/científicos muy poderosos cuyo mundo/dimensión fue devorado por los falaks (dholes).
+
+La última teoría y quizás más loca que planteo Alhazred fue que Soleimán fuera un avatar de Nyarlathotep. Lo normal es que ese avatar como otros tantos fuera un ser malvado dedicado a causar miedo, locura y sufrimiento a los mortales.
 
 \sp
 
-* La última teoría y quizás más loca que planteo Alhazred fue que Soleimán fuera un avatar de Nyarlathotep. Lo normal es que ese avatar como otros tantos fuera un ser malvado dedicado a causar miedo, locura y sufrimiento a los mortales. Pero esta teoría estipula que en el avatar residía una minúscula porción de Nyarlathotep, una porción compuesta por su amor por la humanidad. Una porción de un ser omnipotente podría explicar las prodigiosas hazañas del sabio rey Soleimán, tan extrañas a veces.
+Pero esta teoría estipula que en el avatar residía una minúscula porción de Nyarlathotep, una porción compuesta por su amor por la humanidad. Una porción de un ser omnipotente podría explicar las prodigiosas hazañas del sabio rey Soleimán, tan extrañas a veces.
 
 Para entender más claramente este personaje podemos compararlo con el rey Arturo y su mítico Camelot. Estaríamos hablando de alguien mítico que representa grandes ideales y que es un elegido por el Destino para cuando grandes hazañas y que volverá cuando se ke necesite.
 
@@ -338,21 +390,25 @@ Dentro de las tradiciones de Oriente Medio podemos encontrar bastantes seres que
 
 Baba Daryä significa «padre del mar» en persa y eso denota el origen de esta leyenda. Esta criatura es un demonio o yinn cuyas historias de horror son muy populares entre las comunidades que viven junto al mar. Nadie conoce sus verdaderos rasgos faciales porque nunca es visible y siempre aparece en la más absoluta oscuridad. 
 
-\sp
-
 Sin embargo, es descrito como una persona del mar increíblemente alto, grande y fuerte. Sus víctimas más habituales son los buceadores de perlas, los pescadores y la gente de mar. Su historia mantiene alerta a los marineros, especialmente a los aprendices, y evita que los niños se acerquen solos al mar.
 
-Bu Diryan es un ser acuático espeluznantemente feo y gigante que controla el agua y los mundos submarinos. Esta criatura tiene grandes cadenas que se envuelven alrededor de su cuello y sus pies. Se cuenta que estas cadenas son usadas para envolver a las personas que atrapa. El tintineo que provocan mientras camina por la playa y la costa es escuchado por la gente, provocando espanto.
+Bu Diryan es un ser acuático espeluznantemente feo y gigante que controla el agua y los mundos submarinos. Esta criatura tiene grandes cadenas que se envuelven alrededor de su cuello y sus pies. 
 
-Alhazred los describe en sus cuentos como gentes del mar de gran tamaño, muchos más poderosos que sus congéneres. Estima que tienen miles de años de antigüedad y con casi inmortales. Tantos años de vida les han hecho muy poderosos, pero también han afectado a su mente y los han convertido en peligrosos seres.
+Se cuenta que estas cadenas son usadas para envolver a las personas que atrapa. El tintineo que provocan mientras camina por la playa y la costa es escuchado por la gente, provocando espanto.
+
+Alhazred los describe en sus cuentos como gentes del mar de gran tamaño, muchos más poderosos que sus congéneres. Estima que tienen miles de años de antigüedad y con casi inmortales. 
+
+\sp
+
+Tantos años de vida les han hecho muy poderosos, pero también han afectado a su mente y los han convertido en peligrosos seres.
 
 Baba Daryä y Bu Diryan son adorados por la gente del mar y realizan todo tipo de sacrificios en su nombre. En general, son temidos por los marineros y la gente de comunidades costeras, sin embargo, algunas de estas comunidades han sido corrompidas por las gentes del mar y han caído en su influjo y se dedican a adorarlos.
 
-El proceso de corrupción de muchas de poblaciones costeras son muy parecidas. Suelen seducir a las comunidades costeras favoreciendo su pesca. Hacen que sean prósperas y estas comunidades empiezan a ver a las gentes del mar con buenos ojos, no solo como monstruos marinos, sino como fuentes de riqueza. Empiezan entonces a hibridarse con las mujeres de dichas comunidades, prometiendo que sus descendientes serán poderosos e inmortales y que podrán combatir a los poblados vecinos que envidian su prosperidad.
+El proceso de corrupción de muchas de poblaciones costeras son muy parecidas. Suelen seducir a las comunidades costeras favoreciendo su pesca. Hacen que sean prósperas y estas comunidades empiezan a ver a las gentes del mar con buenos ojos, no solo como monstruos marinos, sino como fuentes de riqueza.
+
+Empiezan entonces a hibridarse con las mujeres de dichas comunidades, prometiendo que sus descendientes serán poderosos e inmortales y que podrán combatir a los poblados vecinos que envidian su prosperidad.
 
 Finalmente, con el paso del tiempo, acaban convirtiendo a toda la comunidad en híbridos que poco a poco deja de relacionarse con el mundo exterior.
-
-\sp
 
 En este punto introducen sus creencias y sus cultos y estos pueblos costeros empiezan a servir a las deidades a las que sirven las gentes del mar, como Baba Daryä y Bu Diryan o el ser que llamamos Bahamūt y las gentes del mar llaman Cthulhu.
 
@@ -361,6 +417,8 @@ En este punto introducen sus creencias y sus cultos y estos pueblos costeros emp
 ’Umr-At-Tawil (en árabe عمر الطويل, El de la vida prolongada) es un avatar de Yog-Sothoth que custodia la Última Puerta, tras la cual, está la Estancia de Yog-Sothoth donde reside esta deidad exterior.
 
 ’Umr At-Tawil se manifiesta como un humanoide alto y delgado, cubierto por un velo que oculta su rostro. Se dice que su rostro es tan horrible que su sola visión provoca la pérdida de la poca cordura que te quede.
+
+\sp
 
 Es considerado relativamente benévolo, ya que no es abiertamente hostil al ser humano. Si se consigue llegar hasta él, puede dejarte pasar a la Estancia de Yog-Sothoth o concederte algún deseo, pero también puede quitarse el velo y volverte loco al instante.
 
@@ -372,17 +430,17 @@ El culto del cuarenta no adora a este avatar de la deidad exterior Yog-Sothoth, 
 
 Esta deidad mesopotámica de la fertilidad es la máscara que usa la pervertida divinidad primigenia de la fertilidad denominada por Alhazred como Shub-Niggurath. Se la representaba como una mujer embarazada de múltiples retoños, de forma que está inflada y deformada.
 
-\sp
-
 Sus sirvientes directos son sus vástagos, que aparecen en su representación al ser invocada su madre si está no puede aparecerse.
 
-Esta divinidad exterior es adorada por La progenie de la Luna Creciente, un culto de adeptos sirvientes de los Al Mighos.
+Esta divinidad exterior es adorada por La progenie de la Luna Creciente, un culto de adeptos sirvientes de los al mighos.
 
 ### Nardún (Cthugha)
 
 [![Volcano at Night by Jules Tavernier](./images/nardun.jpg)](https://en.wikipedia.org/wiki/Jules_Tavernier_(painter) "Volcano at Night by Jules Tavernier") 
 
 Nardún es un primigenio relacionado con el elemento fuego. Normalmente, se presenta como una gran bola de fuego consciente, pero puede cambiar de forma a su antojo, ya que es solamente una masa de radiación y calor dotada de consciencia.
+
+\sp
 
 Nardún desprende calor en estado puro y es capaz de provocar desertización y matar humanos por falta deshidratación con su sola presencia. La única función de esta entidad es reducirlo todo a cenizas, propósito para el que se sirve de sus súbditos, los fuegos de la Yahannam.
 
@@ -396,37 +454,33 @@ Se sabe de ciertos elementos que podrían contener parte de su esencia y podría
 
 Suc’Naath es uno de los dioses malditos y descerebrado que bailan desenfrenadamente al son de flautas y tambores para su señor Azathoth. Tiene forma de huracán con trazas color violeta y dorado.
 
-\sp
-
 Entre sus remolinos de viento se forman rostros agonizando y emite constantemente chasquidos y chirridos terriblemente desagradables.
 
 Su esencia está fragmentada en tres partes, una en un cometa llamado Aiin, otra en algún tipo de estatua ubicada en la antigua Babilonia, y la última ha sido transmitida genéticamente durante eones a través de razas pre-humanas y humanas, principalmente en las tierras regadas por el Tigris y el Eufrates, lo que conocemos como Mesopotamia. Si alguna vez se combinan estas tres partes, Suc’Naath se liberará de su maldición.
 
 Se dice que los portadores de sus poderes pueden realizar grandes prodigios mágicos y/o están locos.
 
-Es servido por un pequeño culto conocido como la Mano Dorada de Suc’Naath, que reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos entrenados. Su misión es adorar y liberar a Suc’Naath de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderes y la vida eterna.
+\sp
 
-[![Azrail / Azrael by MuratCALIS](./images/ensenar-magia.jpg)](https://www.deviantart.com/muratcalis/art/Azrail-Azrael-782780528 "Azrail / Azrael by MuratCALIS") 
+Es servido por un pequeño culto conocido como la Mano Dorada de Suc’Naath, que reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos entrenados. Su misión es adorar y liberar a Suc’Naath de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderes y la vida eterna.
 
 ### Bahamūt (Cthulhu)
 
 > "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo.
-
-\sp
-
+> 
 > También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un inmenso monstruo acuático llamado Bahamūt que flota en la superficie del Mar de la Eternidad sumido en un profundo sueño.
 > 
 > **Referencia:** Historia de Belukia (n. 362)
-
-[![Cthulhu Statuette I by Samize](./images/bahamut.png)](https://www.deviantart.com/samize/art/Cthulhu-Statuette-I-669368333 "Cthulhu Statuette I by Samize") 
 
 Bahamūt es un ser mitológico de inmenso poder y de tamaño gargantuesco, que según diferentes versiones tiene forma de pez, de ballena, de hipopótamo o incluso las más locas y desquiciadas como la Alhazred que lo describe como un humanoide con cabeza de pulpo y alas membranosas y al que denomina Cthulhu.
 
 Bahamūt flota inconsciente sobre el mar de la Eternidad y sobre él reposa todo nuestro mundo. Si algún día despierta, el mundo será destruido. Según Alhazred, esta creencia es una exageración para demostrar su inmenso poder. Como adorador de Bahamūt, Alhazred tiene hojas y hojas hablando él.
 
-Según estos escritos, Bahamūt llego a nuestro mundo de las estrellas y alguna extraña maldición hizo que lleve eones dormido en una ciudad sumergida llama R’lyeh con todos sus congéneres, versiones menos poderosas llamadas Semillas. R’lyeh, como parte de la maldición, se hundió en el mar y ascenderá de los abismos oceánicos cuando las estrellas se alineen adecuadamente y el gran Bahamūt despierte de su sueño.
+Según estos escritos, Bahamūt llego a nuestro mundo de las estrellas y alguna extraña maldición hizo que lleve eones dormido en una ciudad sumergida llama R’lyeh con todos sus congéneres, versiones menos poderosas llamadas Semillas.
 
 \sp
+
+R’lyeh, como parte de la maldición, se hundió en el mar y ascenderá de los abismos oceánicos cuando las estrellas se alineen adecuadamente y el gran Bahamūt despierte de su sueño.
 
 Es adorado por varias sectas por todo oriente próximo y es la deidad principal de las gentes del mar. Todos estos grupos trabajan para despertarlo de su profundo sueño.
 
@@ -435,6 +489,8 @@ Es adorado por varias sectas por todo oriente próximo y es la deidad principal 
 La mente durmiente de Bahamūt es tan poderosa que puede afectar al mundo de los sueños y es por ello que se cree que ha creado una versión de R’lyeh en la Tierra de los Sueños conocida como la Ciudad de Bronce. La Ciudad de Bronce es una versión de R’lyeh adaptada a los sueños de los humanos (la especie dominante en este momento en la tierra), pero igual de maldita, donde todos sus habitantes están en una mezcla de sueño eterno y éxtasis temporal.
 
 La princesa Tadnaar, dormida sobre un diván en el palacio más grande de la ciudad y vigilada por dos portaalfanjes, es una representación onírica del propio Bahamūt. Si alguien consigue despertarla, el gran Bahamūt podría subir niveles en su profundo sueño y estar más cerca de despertar. Además, podría afectar al mundo real y no solo las tierras oníricas.
+
+[![Silueta Cthulhu Statuette I by Samize](./images/bahamut.png)](https://www.deviantart.com/samize/art/Cthulhu-Statuette-I-669368333 "Cthulhu Statuette I by Samize") 
 
 Para evitar esto, tanto en el mundo de la vigilia como en el mundo de los sueños hay una organización llamada e Gremio de Bronce que vigila y sabotea todo intento de descubrir la ciudad y despertar a la princesa. Toda esta trama se desarrolla en la aventura [Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce](#anchorexpedicionciudadbronce).
 
@@ -540,9 +596,9 @@ Actualmente, la secta está muy activa, los astrónomos han predicho que el come
 
 > Sobre la losa de piedra que usaban de altar el sacerdote tenía una figura de una antigua diosa de la fertilidad, si lo que recordaba de los libros del pasillo prohibido de la Casa de Sabiduría era correcto. Pero la estatuilla tenía algo extraño, antinatural. El grano de la piedra parecía como si tuviera miles de ojos y las vetas dotaban a la efigie de un volumen que parecía que cientos de tentáculos cada centímetro de su superficie.
 
-La progenie de la Luna Creciente es una secta de adoradores de Shub-Niggurath y de siervos de los Al Mighos que habitan la desértica región de Balad Ruz, a 90 km al este de Bagdad.
+La progenie de la Luna Creciente es una secta de adoradores de Shub-Niggurath y de siervos de los al mighos que habitan la desértica región de Balad Ruz, a 90 km al este de Bagdad.
 
-Desde hace siglos hay una colonia de Al Mighos en las desérticas planicies de Balad Ruz donde tienen una instalación minera que extrae tierras raras. Siguiendo el _modus operandi_ de los Al Mighos, fueron buscando gente débil de mente a la que embaucaron y convirtieron en adeptos primero y siervos fanáticos después. Estos siervos con el paso de los años y las décadas asumieron las ideas religiosas de sus amos Al Mighos y empezaron a adorar a los mismos dioses que ellos.
+Desde hace siglos hay una colonia de al mighos en las desérticas planicies de Balad Ruz donde tienen una instalación minera que extrae tierras raras. Siguiendo el _modus operandi_ de los al mighos, fueron buscando gente débil de mente a la que embaucaron y convirtieron en adeptos primero y siervos fanáticos después. Estos siervos con el paso de los años y las décadas asumieron las ideas religiosas de sus amos al mighos y empezaron a adorar a los mismos dioses que ellos.
 
 \sp
 
@@ -550,7 +606,7 @@ Desde hace siglos hay una colonia de Al Mighos en las desérticas planicies de B
 
 Era inevitable que con todo esto su adoración se convirtiera en un culto de seguidores de Shub-Niggurath que se autodenominó la Progenie de la Luna Creciente. No adoran directamente a Shub-Niggurath, sino que le adoran a través de una versión primigenia y depravada de Astarte, la antigua deidad cananea del amor, el sexo y la fertilidad, pero también de la guerra. Los primeros cultistas eran incapaces de asumir todas las implicaciones que suponía Shub-Niggurath y le crearon un avatar más asumible a sus mentes con la figura de una diosa Astarte caótica que exigía ritos sanguinarios y sexuales.
 
-Esta secta sirve como agentes humanos a los Al Mighos evitando principalmente que el resto de la gente meta sus narices en los territorios donde los Al Mighos extraen sus metales extraños.
+Esta secta sirve como agentes humanos a los al mighos evitando principalmente que el resto de la gente meta sus narices en los territorios donde los al mighos extraen sus metales extraños.
 
 Con los años se han radicalizado, convirtiendo el asesinato su principal forma de interactuar con los problemas y los posibles intrusos.
 
@@ -566,7 +622,7 @@ La mayoría de los miembros de la secta son gente de campo de Balad Ruz y foraji
 
 #### Lugares de culto y refugios
 
-A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normalmente cuevas secretas donde reunirse lejos de miradas indiscretas con sus señores Al Mighos y donde invocar a su diosa Astarte. Además, esas cuevas secretas son perfectas para entrar en contacto con los Vástagos de Astarte.
+A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normalmente cuevas secretas donde reunirse lejos de miradas indiscretas con sus señores al mighos y donde invocar a su diosa Astarte. Además, esas cuevas secretas son perfectas para entrar en contacto con los Vástagos de Astarte.
 
 [![Un martyr volontaire au caucase - Élisée Reclus](./images/sectario.jpg)](https://commons.wikimedia.org/wiki/File:P405_-_un_martyr_volontaire_au_caucase_-_Liv4-Ch10.png?uselang=fr "Un martyr volontaire au caucase - Élisée Reclus") 
 
@@ -574,21 +630,21 @@ A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normal
 
 #### Rituales
 
-Los rituales de la secta se basan en los antiguos rituales de Astarte que los pueblos mesopotámicos y sumerios realizaban, pero añadiéndoles elementos de adoración a los Al Mighos y con muchos detalles malignos y macabros por su conexión con infame deidad de la fertilidad.
+Los rituales de la secta se basan en los antiguos rituales de Astarte que los pueblos mesopotámicos y sumerios realizaban, pero añadiéndoles elementos de adoración a los al mighos y con muchos detalles malignos y macabros por su conexión con infame deidad de la fertilidad.
 
-Los rituales empiezan con libaciones y lustraciones con vino y agua, y continúan con el consumo de infusiones de flor de loto como psico-activo para conseguir sueños intensos, vividos y a veces proféticos. También es frecuente el uso de opio, extraído de la adormidera, a fin de excitar el deseo sexual. Podían acabar en orgías en las que zánganos de Al Mighos podrían tomar parte de una forma más o menos activa.
+Los rituales empiezan con libaciones y lustraciones con vino y agua, y continúan con el consumo de infusiones de flor de loto como psico-activo para conseguir sueños intensos, vividos y a veces proféticos. También es frecuente el uso de opio, extraído de la adormidera, a fin de excitar el deseo sexual. Podían acabar en orgías en las que zánganos de al mighos podrían tomar parte de una forma más o menos activa.
 
 \sp
 
 No son raras las apariciones de los vástagos de Astarte al invocar a su madre en sus rituales. Normalmente, estas criaturas se descontrolan, con lo que los rituales suelen hacerse en lugares desérticos (como las llanuras de Balad Ruz) donde no pueden ser descubiertos y causar daños y perdidas humanas.
 
-Con la política del Califa de Bagdad de poblar estas llanuras, se está planteando usar estas criaturas para hacer huir a los nuevos colonos. Pero esto es una medida temporal, ya que solo terminará atrayendo el interés del Califa y su visir, que terminarán mandando a sus tropas, lo cual podría poner en peligro a la secta y al asentamiento Al Migho.
+Con la política del Califa de Bagdad de poblar estas llanuras, se está planteando usar estas criaturas para hacer huir a los nuevos colonos. Pero esto es una medida temporal, ya que solo terminará atrayendo el interés del Califa y su visir, que terminarán mandando a sus tropas, lo cual podría poner en peligro a la secta y al asentamiento al migho.
 
 #### Situación actual
 
-Dentro de los planes de mejoras públicas del califato está crear nuevas rutas comerciales. Una de esas rutas pasa por el territorio de los Al Mighos y va a suponer más tráfico de personas y mercancías por su zona. Eso supone más gente husmeando en el territorio, soldados protegiendo los caminos contra los bandidos y seguramente terminarán construyéndose khans.
+Dentro de los planes de mejoras públicas del califato está crear nuevas rutas comerciales. Una de esas rutas pasa por el territorio de los al mighos y va a suponer más tráfico de personas y mercancías por su zona. Eso supone más gente husmeando en el territorio, soldados protegiendo los caminos contra los bandidos y seguramente terminarán construyéndose khans.
 
-Estas noticias no agradan a los amos Al Mighos y esto ha hecho que los adeptos de la secta estén buscando modos de boicotear los planes del califato.
+Estas noticias no agradan a los amos al mighos y esto ha hecho que los adeptos de la secta estén buscando modos de boicotear los planes del califato.
 
 ### Seguidores del Fuego y de la Luz
 
@@ -679,9 +735,9 @@ Tienes que tener en cuenta que los portales no tienen que ser solamente lugares 
 
 Así como la Meseta de Leng se considera que forma parte de varias dimensiones al mismo tiempo como la Tierra de los Sueños y nuestro mundo, la Vigilia, puedes hacer que partes de las 1001 Noches estén en nuestro mundo y el Sueño y partes del Sueño estén en las 1001 Noches.
 
-\sp
-
 A la hora de compartir zonas tenemos varias ideas de como hacerlo.
+
+\sp
 
 * **Accidentes geográficos de gran tamaño** podrían ser usados como frontera entre ambos mundos, de forma que tras una gran cordillera como el Cáucaso nos encontraríamos en la Meseta de Leng. Quizás ciertas partes muy alejadas del desierto del Sahara conecten con el desierto Oriental y tras atravesarlo acabar en Kadatheron.
 * **Lugares misteriosos de gran poder e historia** podrían estar en varios planos a la vez, de forma que entras Petra desde la Vigilia y al salir estás en su versión onírica. Quizás si hicieron noche en sus corredores y pasajes al despertar y salir al exterior ya no estén en nuestro mundo sino en las Tierras del Sueño.
@@ -693,9 +749,9 @@ Aquí te presentamos algunas opciones de territorios compartidos:
 * La meseta de Leng: la propia naturaleza de Leng es ser un lugar que está al mismo tiempo en varias dimensiones al mismo tiempo y en nuestro mundo suele aparecer en Asia Central, especialmente en la cordillera del Himalaya, así que podría ser encontrada por una caravana que se ha perdido en las montañas en su camino a China o India.
 * La ciudad de Ulthar: Ulthar es una ubicación clásica de Lovecraft a la que se podría acceder a algún tipo de bosque mágico o al tratar de llegar ciudades más tipo europeo.
 
-\sp
-
 A todo esto, debes recordar que no es normal que una persona despierta visite las Tierras del Sueño, solo sus yoes oníricos deberían poder hacerlo y que si lo hacen despiertos tiene importantes implicaciones en el mundo de los Sueños.
+
+\sp
 
 ### Las 1001 Noches como parte de las Tierra de los Sueños
 
@@ -705,19 +761,18 @@ Quizás esta sea la más complicada y trabajosa de todas las opciones, pero enca
 
 Schahriars de la propia ciudad o extranjeros de otros continentes de las Tierras del Sueño recorrerían sus calles y correrían todo tipo aventuras mientras huyen de los guardias de la ciudad. Salvarían a la califesa o al califa de sus enemigos, derrotarían invasiones de bestias lunares o volarían en alfombra mágica hasta el Bosque Encantado en busca de una cura milagrosa eludiendo a las antropófagas tribus de zoogs.
 
-\sp
-
 ### Seres de las Tierras de los Sueños
 
 [![goliathTen by ArtDoge](./images/gigante.jpg)](https://www.deviantart.com/artdoge/art/goliathTen-802309279 "goliathTen by ArtDoge") 
 
 Hay toda una serie de seres de las Tierras del Sueño que pueden aparecer en tus aventuras de las horribles 1001 Noches. Aquí te damos algunas opciones de como han acabado en nuestro mundo.
 
-* Gigantes (Gugs): Estos gigantescos seres de apariencia simiesca solo viven en cavernas subterráneas de las Tierras del Sueño. Esos laberintos de cuevas pueden tener acceso a nuestro mundo y es posible que algún Gug haya acabado en alguna caverna de nuestro mundo esperando a visitantes desprevenidos.
-* Ave de Rokh (Shantak): Estas aves reptilianas provienen del Sueño, pero es posible invocarlos en nuestro mundo, incluso puede que haya colonias que hayan venido del espacio exterior y se hayan establecido en nuestro mundo.
-* Lengnitas: Estos sátiros son oriundos del Sueño, pero por su diseño clásico pueden ser integrados fácilmente de las aventuras de las 1001 Noches como seres míticos de tierras como Grecia. También puede ser considerados una raza menor de yinns. Recuerda que hay miles de tipos de yinns menores de todo tipo de forma y condición y los lengnitas podrían ser unos de ellos.
-* Ghūles: Los ghūles son yinns que podemos encontrar en los dos mundos. Si bien los de las Tierras del Sueño parecen más civilizados que los de nuestro mundo.
+\sp
 
+* **Gigantes (Gugs):** Estos gigantescos seres de apariencia simiesca solo viven en cavernas subterráneas de las Tierras del Sueño. Esos laberintos de cuevas pueden tener acceso a nuestro mundo y es posible que algún Gug haya acabado en alguna caverna de nuestro mundo esperando a visitantes desprevenidos.
+* **Ave de Rokh (Shantak):** Estas aves reptilianas provienen del Sueño, pero es posible invocarlos en nuestro mundo, incluso puede que haya colonias que hayan venido del espacio exterior y se hayan establecido en nuestro mundo.
+* **Lengnitas:** Estos sátiros son oriundos del Sueño, pero por su diseño clásico pueden ser integrados fácilmente de las aventuras de las 1001 Noches como seres míticos de tierras como Grecia. También puede ser considerados una raza menor de yinns. Recuerda que hay miles de tipos de yinns menores de todo tipo de forma y condición y los lengnitas podrían ser unos de ellos.
+* **Ghūles:** Los ghūles son yinns que podemos encontrar en los dos mundos. Si bien los de las Tierras del Sueño parecen más civilizados que los de nuestro mundo.
 
 \sp
 
@@ -903,7 +958,7 @@ Si alguno tiene una pifia en disparar hiere a su objetivo (tirada de daño real)
 
 La lucha libre es una mezcla de deporte y arte marcial de origen turco y tiene mucha aceptación entre las clases más bajas y son frecuentes las apuestas. Dos personas se enzarzan en un combate de presas y llaves dentro de un círculo. Él o la que consiga derribar e inmovilizar al otro u otra gana el combate.
 
-### El Shatranj
+### El shatranj
 
 > Le hizo, pues, sentarse al lado suyo, y le dijo: "¡Ya Anís! ¡tengo ganas de distraerme un poco! ¡Sabes jugar al shatranj?" Dijo él: "¡Sí, por cierto!" Y ella hizo señas a una de las jóvenes, quien al punto les llevó un tablero de ébano y marfil con cantoneras de oro, y los peones del shatranj eran rojos y blancos y estaban tallados en rubíes los peones rojos y tallados en cristal de roca los peones blancos. Y le preguntó ella: "¿Quieres los rojos o los blancos?"\[…\]  
 > Entonces le dijo ella: "¡Juguemos todo tu oro contra todo el mío!" Aceptó él, y perdió. Entonces se jugó sus tiendas, sus casas, sus jardines y sus esclavos, y los perdió unos tras de otros. Y ya no le quedó nada entre las manos.
@@ -1149,7 +1204,6 @@ Los hammames, en principio, no son mixtos con lo que tenemos espacios para hombr
 
 También tienen un carácter erótico y se deja caer que varias escenas hetero u homosexual tienen escenario entre los vapores de sus bañeras, como en la historia del "El mozalbete y el masajista del hammam".
 
-
 \sp
 
 \sinc
@@ -1227,7 +1281,7 @@ Aunque a priori lo pueda parecer, el desierto y todos sus peligros no son un ele
 \sp
 
 * Rub al-Jali, en la península arábiga. Es un erg, el clásico desierto de arena y dunas, con temperaturas terribles de día y de noche. Es una de las regiones más inhóspitas de la Tierra y está totalmente deshabitada.
-* Wadi Rum, en Aqaba. El "Valle de la luna" es un desierto en una meseta de arenisca y granito que tiene unas formaciones rocosas con túneles y cuevas bastante curiosas por no decir extraterrestres. Es famosa la montaña conocida como Los siete pilares de la sabiduría.
+* Wadi Rum, en Aqaba. El «Valle de la luna» es un desierto en una meseta de arenisca y granito que tiene unas formaciones rocosas con túneles y cuevas bastante curiosas por no decir extraterrestres. Es famosa la montaña conocida como Los siete pilares de la sabiduría.
 * El desierto de Nefud, en la península arábiga. Es un erg, es un desierto de arena y dunas, famoso por sus violentos e inesperadas tormentas de arena. Es el desierto que cruzo Lawrence de Arabia, aunque curiosamente esas escenas debieron rodarse en el Wadi Rum.
 
 ### Los peligros del mar

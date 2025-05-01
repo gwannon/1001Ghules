@@ -91,6 +91,10 @@ blockquote {
   margin: 0px;
 }
 
+section > blockquote {
+  padding: 15px;
+}
+
 blockquote:has(p.primigenio) {
   border-color: var(--color-green-cthulhu);
   padding: 15px;
@@ -167,6 +171,30 @@ pre:after {
   left: auto;
   right: calc(var(--patternsize) * -1);
 }
+
+ul,
+ol {
+  padding-left: 19px;
+}
+
+ol li {
+  list-style-type: upper-roman;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: "\26E7";
+  position: absolute;
+  font-size: 22px;
+  top: 0px;
+  left: -23px;
+  display: block;
+  color: var(--color-red);
+} 
 
 
 
@@ -482,6 +510,7 @@ body {
   height: var(--size);
   z-index: 10;
   opacity: 1;
+  text-shadow: 0px 0px 1px var(--color-black);
   /*background-color: var(--color-sunset);
   clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);*/
 }
@@ -777,4 +806,22 @@ section:last-of-type > p > img {
 
 #gototop {
   display: none;
+}
+
+
+/* Letras capitulares */
+
+h2 + div.columns > p:first-of-type:first-letter {
+  --pattern-size: 25px;
+  --color-gold: #9a8a3a;
+  background:var(--color-gold) url(../images/bg-letter.jpg) center center repeat;
+  font-family: 'Khodijah';
+  font-size: 2.8em;
+  display: block;
+  float: left;
+  margin: 3px 10px 0px 0px;
+  padding: 25px 15px 15px;
+  border: 1px solid var(--color-black);
+  color: var(--color-black);
+  text-transform: uppercase;
 }

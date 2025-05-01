@@ -44,23 +44,23 @@ Se organizan en pequeños grupos familiares y son muy territoriales. Pueden infe
 * **Equipo:** Pueden llevar herramientas toscas y armas simples y ropajes sucios y andrajosos que les cubran del sol.
 * **TPC:** 1d4 (manada).
 
-### Al Mighos (Hongos de Yuggoth)
+### Al mighos (Hongos de Yuggoth)
 
 > "Eran unos bestias imberbes y rosadas de alrededor de 3 codos de altura. Los cuerpos eran de cangrejo, pero con alas de murciélago y varios grupos de patas de insecto acabados en unas terribles pinzas. En el lugar donde el Gran Creador pondría la cabeza había una especie de plato de bronce cubierto por muchísimas antenitas. Si tuviera que describirlo diría que lo más parecido serían las langostas que arrasan las cosechas en verano."
 
 [![Mi-Go by Khannea](./images/migo.jpg)](https://en.wikipedia.org/wiki/Mi-Go#/media/File:Migo.jpg "Mi-Go by Khannea") 
 
-Los Al Mighos tienes aspecto de crustáceos, aunque en realidad son parte animal, parte hongo. Tienen varios pares de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas o telepatía.
+Los al mighos tienes aspecto de crustáceos, aunque en realidad son parte animal, parte hongo. Tienen varios pares de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas o telepatía.
 
-Los Al Mighos son una tribu de yinns que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan sus recursos minerales. Su asentamiento más cercano a la Tierra se encuentra ahora mismo en Plutón (que no será descubierto hasta 1930). Suelen buscarse aliados indígenas en los planetas que quieren conquistar para que les ayuden en sus planes. Adoran a varios dioses primigenios como difundiendo Nyarlathotep y Shub-Niggurath y en sus planes de colonización siempre está difundir el culto a estos primigenios.
+Los al mighos son una tribu de yinns que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan sus recursos minerales. Su asentamiento más cercano a la Tierra se encuentra ahora mismo en Plutón (que no será descubierto hasta 1930). Suelen buscarse aliados indígenas en los planetas que quieren conquistar para que les ayuden en sus planes. Adoran a varios dioses primigenios como difundiendo Nyarlathotep y Shub-Niggurath y en sus planes de colonización siempre está difundir el culto a estos primigenios.
 
-Los Al Mighos son famosos por sus conocimientos en cirugía cerebral que les permite extraer un cerebro de un cuerpo humano y mantenerlo conservados en unos tubos metálicos llenos de líquido llamados cilindros cerebrales. Estos tubos pueden conectarse a diferentes aparatos que le permiten al cerebro, ver, oír, hablar, etc. Esta tecnología les permite a los Al Mighos llevarse con ellos en sus viajes especiales a los humanos con los mínimos riesgos para los cerebros. También saben como conservar los cuerpos y si es necesario, pueden devolver al cerebro a su cuerpo sin ningún tipo de problema.
+Los al mighos son famosos por sus conocimientos en cirugía cerebral que les permite extraer un cerebro de un cuerpo humano y mantenerlo conservados en unos tubos metálicos llenos de líquido llamados cilindros cerebrales. Estos tubos pueden conectarse a diferentes aparatos que le permiten al cerebro, ver, oír, hablar, etc. Esta tecnología les permite a los al mighos llevarse con ellos en sus viajes especiales a los humanos con los mínimos riesgos para los cerebros. También saben como conservar los cuerpos y si es necesario, pueden devolver al cerebro a su cuerpo sin ningún tipo de problema.
 
-Con el material adecuado, un Al Migho sabio puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
+Con el material adecuado, un al migho sabio puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
 
-#### Al Migho obrero
+#### Al migho obrero
 
-Los obreros son la mano de obra y la fuerza de combate de los Al Mighos. Trabajan en las minas extrayendo extraños minerales y defienden sus asentamientos secretos. Son fuertes, ágiles y resistentes.
+Los obreros son la mano de obra y la fuerza de combate de los al mighos. Trabajan en las minas extrayendo extraños minerales y defienden sus asentamientos secretos. Son fuertes, ágiles y resistentes.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8 Vigor d8
 * **Habilidades:** Ciencias d6, Disparar d8, Medicina d4, Mitos d6, Notar d8, Pelear d8
@@ -69,12 +69,12 @@ Los obreros son la mano de obra y la fuerza de combate de los Al Mighos. Trabaja
 * **Capacidades especiales:**
     * **Armadura +2:** Caparazón de crustáceo
     * **Pinzas:** FUE+d4
-    * **Volar:** Paso volando 12. Los Al Mighos tienen unas alas con las que vuelan.
+    * **Volar:** Paso volando 12. Los al mighos tienen unas alas con las que vuelan.
     * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
-    * **Telepatía:** Los Al Mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
+    * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
 * **TPC:** 1d6 (manada)
 
-#### Al Migho sabio
+#### Al migho sabio
 
 Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuertes y resistentes como los colonos, pero son más inteligentes.
 
@@ -84,10 +84,10 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
 * **Capacidades especiales:**
     * **Armadura +2:** Caparazón de crustáceo
     * **Pinzas:** FUE+d4
-    * **Volar:** Paso volando 8. Los Al Mighos tienen unas alas con las que vuelan.
-    * **Tecnología Migho:** Puedes asignarle a un sabio hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su "garganta" y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6. Los Al Mighos pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+    * **Volar:** Paso volando 8. Los al mighos tienen unas alas con las que vuelan.
+    * **Tecnología Migho:** Puedes asignarle a un sabio hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su "garganta" y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6. Los al mighos pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
     * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
-    * **Telepatía:** Los Al Mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
+    * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
 * **TPC:** 1d6
 
 ### Abu-qith (Gran raza de Yith)
@@ -809,7 +809,7 @@ Vas a necesitar llenar tus khans de turbios personajes de miradas perdidas y tus
 
 También los puedes usar como base para tus PNJ. Si el jefe de la caravana entre Bagdad y El Cairo va a ser importante, coge la plantilla de mercader y adórnalo con tus propios detalles.
 
-En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJs. Por ejemplo, los mercaderes pueden ser avariciosos, borrachos o bocazas y los agricultores puede que lleven cuchillos o machetes.
+En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJ. Por ejemplo, los mercaderes pueden ser avariciosos, borrachos o bocazas y los agricultores puede que lleven cuchillos o machetes.
 
 ### Pescador/a y agricultor/a
 

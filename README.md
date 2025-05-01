@@ -1,5 +1,5 @@
 # Mil y Un Ghūles
-Mil y Un Ghūles es una ambientación para SWEA con el que podrás jugar a los relatos de horror cósmico que Scheherazade contó al sultán Shahriar durante 1001 noches.
+Mil y Un Ghūles es una ambientación para SWEA con el que podrás jugar a los relatos de horror cósmico que Scheherazade contó al sultán Schahriar durante 1001 noches.
 
 Fecha estimada de publicación: Marzo 2024
 
@@ -19,38 +19,38 @@ Fecha estimada de publicación: Marzo 2024
 
 ## 0.9.3 21/06/2024
 * Más correciones de ortografía
-* Terminada la aventura de "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
+* Terminada la aventura de «Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce»
 
 ## 0.9.2 20/06/2024
 * Terminadas correcciones de ortografía
 
 ### 0.9.1 17/06/2024
 * Correcciones varias
-* Continuamos con el cuento salvaje largo "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
+* Continuamos con el cuento salvaje largo «Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce»
 
 ### 0.9 12/06/2024
-* Terminada la parte de ambientación de "El gran Rey Soleimán"
-* Terminada la parte de ambientación de "Los Yinns"
+* Terminada la parte de ambientación de «El gran Rey Soleimán»
+* Terminada la parte de ambientación de «Los Yinns»
 
 ### 0.8.3 06/06/2024
-* Continuamos con la parte de ambientación de "Los Yinns"
-* Continuamos con el cuento salvaje largo "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
+* Continuamos con la parte de ambientación de «Los Yinns»
+* Continuamos con el cuento salvaje largo «Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce»
 
 ### 0.8.2 08/05/2024
 * Nuevos monstruo. Momia y lapis
 * Correcciones ortográficas
 * Secuaz terminado: Artista 
-* Desarrollo de "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce"
-* Terminado el cuento salvaje largo "El shatranj de Soleimán"
+* Desarrollo de «Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce»
+* Terminado el cuento salvaje largo «El shatranj de Soleimán»
 
 ### 0.8.1 08/05/2024
-* Terminado el cuento salvaje largo "La caída de Giafar"
+* Terminado el cuento salvaje largo «La caída de Giafar»
 
 ### 0.8 04/05/2024
-* Terminados todos los PNJs importantes
-* Terminado el cuento salvaje largo "La llegada del cometa"
-* Terminados todos los cuentos salvajes cortos de "El pequeño consejo"
-* Terminados todos los "Otros cuentos salvajes" que faltaban
+* Terminados todos los PNJ importantes
+* Terminado el cuento salvaje largo «La llegada del cometa»
+* Terminados todos los cuentos salvajes cortos de «El pequeño consejo»
+* Terminados todos los «Otros cuentos salvajes» que faltaban
 
 ### 0.7.1 29/03/2024
 * Relatos terminados: Historia de la cuchara mágica

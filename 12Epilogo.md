@@ -1,6 +1,10 @@
 # Epílogo
 
+\sinc
+
 ## Notas del autor
+
+\conc
 
 ### ¿Por qué Savage Worlds?
 
@@ -8,7 +12,7 @@ Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos 
 
 ### Salud mental
 
-Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWEA el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJs.
+Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWEA el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJ.
 
 ### Influencias
 
@@ -20,17 +24,33 @@ En esta ambientación no se busca la veracidad histórica, empezando con que sus
 
 Veamos un ejemplo, dos personajes históricos de la ciudad de Bagdad, el califa Harún Al-Raschid y el sabio Hunayn ibn Ishaq nunca llegaron a conocerse porque cuando el califa murió, el sabio Hunayn no había nacido todavía. Sin embargo, en este mundo comparten época y tienen sus más y sus menos. Otro ejemplo es Sett Zahía, que es hermana del califa Al-Raschid, pero un descendiente de Harun al-Raschid que gobernó en el siglo XII. No obstante, me pareció interesante que conviviesen en el mismo espacio temporal.
 
+\sp
+
 ### Inclusión, diversidad y ecología
 
 He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal.
 
-He tratado de que haya diversidad entre PNJs con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJs). He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJ).
 
-Está claro que los malos van a ser racistas, machistas, homófobos, etc. Vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestros schahriars ni aunque digan que "su personaje es así" o "era lo normal en esa época". Esto es un juego de rol y ya hay mucha mierda en la vida real para tener que aguantarla también en una mesa de juego.
+He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
-Muchas "sugerencias de deseo" están pensadas para premiar a los schahriars por ser más empáticos y ayudar a grupos discriminados. En ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida. Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como Scheherazade creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos "premios" sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
+Está claro que los malos van a ser racistas, machistas, homófobos, etc. Vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestros schahriars ni aunque digan que "su personaje es así" o "era lo normal en esa época". 
 
-Nada puede ser inclusivo y abierto si no tiene en cuenta el medio ambiente y la ecología, así que he tratado de darle una mirada ecologista con varias aventuras en las que la protección de la naturaleza es importante, además, de recompensas de cordura y sugerencias de deseos. Así pues, trata de evitar que tus jugadores utilicen muchas veces el camino rápido y tomen decisiones con grandes repercusiones para el medio ambiente. Puede que emponzoñar el manantial de un oasis para acabar con el enemigo sea un plan muy bueno, pero sus consecuencias para la fauna y flora local pueden ser desastrosas, así como para las comunidades que vivan cerca.
+Esto es un juego de rol y ya hay mucha mierda en la vida real para tener que aguantarla también en una mesa de juego.
+
+Muchas "sugerencias de deseo" están pensadas para premiar a los schahriars por ser más empáticos y ayudar a grupos discriminados. 
+
+En ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida.
+
+Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como Scheherazade creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos "premios" sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
+
+Nada puede ser inclusivo y abierto si no tiene en cuenta el medio ambiente y la ecología, así que he tratado de darle una mirada ecologista con varias aventuras en las que la protección de la naturaleza es importante, además, de recompensas de cordura y sugerencias de deseos. 
+
+Así pues, trata de evitar que tus jugadores utilicen muchas veces el camino rápido y tomen decisiones con grandes repercusiones para el medio ambiente. 
+
+\sp
+
+Puede que emponzoñar el manantial de un oasis para acabar con el enemigo sea un plan muy bueno, pero sus consecuencias para la fauna y flora local pueden ser desastrosas, así como para las comunidades que vivan cerca.
 
 [![This website is hosted Green - checked by thegreenwebfoundation.org](https://api.thegreenwebfoundation.org/greencheckimage/1001ghules.gwannon.com?nocache=true)](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2F1001ghules.gwannon.com%2F "This website is hosted Green - checked by thegreenwebfoundation.org") 
 
@@ -46,6 +66,8 @@ Así pues, tenemos en estos cuentos elementos clásicos de la conducta machista,
 
 El consentimiento sexual o de pareja es bastante infrecuente y muchas veces está viciado por los trucos y las mentiras. Por no hablar de tocamientos y besos a mujeres que no pueden dar su consentimiento por estar dormidas, drogadas o hechizadas. Y podemos hablar también de muchos casos de pederastia, como el de Abu-Nowas que he obviado totalmente en esta ambientación.
 
+\sp
+
 No debemos olvidar toda la misoginia que describe a las mujeres como ladinas y mentirosas y muchas veces fuente de todos los problemas. Pocas son las historias protagonizadas por mujeres y muchas veces tienen intención ejemplificante poniéndolas en su lugar bajo el dominio del hombre.
 
 La masculinidad tóxica es también algo común. Abundan las historias donde el tamaño de los atributos sexuales y tus aventuras sexuales marca muchas veces tu valía como hombre. Por no hablar de la incapacidad de tener descendencia, que siempre se debía a la esterilidad de la mujer y nunca del hombre. Se habla de un caso de un hombre considerado menos hombre por ser capaz de gestar y parir a un bebe.
@@ -60,7 +82,11 @@ Como consejo, si alguno de tus schahriars o tu Scheherazade aprueba, justifica d
 
 Todo el tema de religión, no solo musulmana, sino también, cristiana, judía o incluso hindú, ha sido obviada en esta ambientación. Eres muy libre de dejar la religión fuera de tu mesa o de meterla, pero eso queda en tu mano.
 
-Lo que sí has de tener en cuenta es que en la mayoría de las historias de las 1001 Noches la religión no es algo fundamental que afecte a la historia, ni tan siquiera tangencialmente. Los personajes son creyentes, alaban el nombre de su dios y siguen sus preceptos, pero normalmente no se narra que recen o vayan a la mezquita, iglesia o sinagoga o que respeten su día santo (sobre todo porque en las 1001 noches nunca es ni lunes, ni martes, …).
+Lo que sí has de tener en cuenta es que en la mayoría de las historias de las 1001 Noches la religión no es algo fundamental que afecte a la historia, ni tan siquiera tangencialmente.
+
+\sp
+
+Los personajes son creyentes, alaban el nombre de su dios y siguen sus preceptos, pero normalmente no se narra que recen o vayan a la mezquita, iglesia o sinagoga o que respeten su día santo (sobre todo porque en las 1001 noches nunca es ni lunes, ni martes, …).
 
 La mayoría de las referencias a la religión quedan relegadas a fórmulas protocolarias y alabanzas, es por ello que he decidido dejar el tema religioso en esta ambientación al mismo nivel que le da la obra original; detalles interesantes que dan color y profundidad al mundo, pero que no afectan a las tramas.
 
@@ -91,7 +117,7 @@ Aquí tienes algunas herramientas de seguridad que puedes usar:
 
 Si algo no te gusta eres libre de cambiarlo o descartarlo, pero hay partes en esta ambientación que pido encarecidamente en su propio texto que no se cambien.
 
-### Romancear PNJs
+### Romancear PNJ
 
 Las vidas sentimentales y sexuales de la mayoría de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí.
 
@@ -109,16 +135,13 @@ Las 1001 Noches tiene muchas cosas criticables, pero también hay que decir que 
 
 ### Participar en el proyecto
 
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/1001Ghules). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/1001Ghules). Si no estás familiarizado con Git, pues me mandas un DM a mis redes [Gwannon](|URL|) y hablamos.
 
-## Otros proyectos
-
-Si os ha gustado esta ambientación podéis probar otros de mis proyectos también bajo el sistema Savage Worlds Edición Aventura. Animaros y dadles un poco de cariño.
-
-* [¡Arrr! Cthulhu](https://arrrcthulhu.com/) Aventuras de piratas en el Caribe de los Mitos de Cthulhu
-* [Bosque Sh3rW00d](https://bosque.gwannon.com/) Ambientación CyberPunk en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe
+\sinc
 
 ## Atribuciones
+
+\conc
 
 ### Imágenes
 
@@ -161,7 +184,11 @@ Gracias por su documentación a:
 * [sectarios.org](http://www.sectarios.org/)
 * [Wiki Amor de Otro Mundo](https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo)
 
+\sinc
+
 ## Música para las partidas
+
+\conc
 
 Esta es mi selección de música para jugar a 1001 Ghūles. Es casi imposible encontrar música que pegue con 1001 Noches y los mitos de Cthulhu así damos a dar recomendaciones para cada género.
 
@@ -179,14 +206,20 @@ Y como siempre está es mi recomendación para momentos más terroríficos y de 
 
 Mis conocimientos de música popular árabe son escasos, así que no puedo recomendaros nada. Seguramente podréis encontrar canciones populares para ambientar las reuniones en los khans, los bailes en el palacio del Califa o las celebraciones alrededor de un fuego de campamento en las frías noches del desierto.
 
+\sp
+
+\sinc
+
 ## Otros proyectos que te pueden interesar
 
-Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitareis el Manual Básico de Savage Worlds Edición Aventura.
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitaréis el Manual Básico de Savage Worlds Edición Aventura.
 
-[![¡Arrr! Cthulhu](./assests./images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
+[![¡Arrr! Cthulhu](./images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
 
 **[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)**
 
-[![OPERACIÓN: Tras El Mundo Perdido ](./assests./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
+[![OPERACIÓN: Tras El Mundo Perdido ](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
 
 **[OPERACIÓN: Tras El Mundo Perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
+
+\conc
