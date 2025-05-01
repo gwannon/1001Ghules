@@ -1,5 +1,7 @@
 # Y si …
 
+\sinc
+
 ## ¿Y si Abdul Alhazred hubiera escrito las Mil y Una Noches?
 
 Abdul Alhazred es uno de los personajes más importantes de todos los Mitos de Cthulhu, ya que es el autor del más infame de los libros, Al Azif (العزيف) más conocido por todos como el Necronomicón.
@@ -18,53 +20,55 @@ Y si durante la milésima primera noche Scheherazade sacó una jambia, cortó el
 
 Sigue leyendo y descúbrelo …
 
+\conc
+
 ***
 
 |01ElMundo.md|
 
 ***
 
-|02Reglas.md|
+02Reglas.md|
 
 ***
 
-|03MagiaSihr.md|
+03MagiaSihr.md|
 
 ***
 
-|04Monstruos.md|
+04Monstruos.md|
 
 ***
 
-|05LugaresMiticos.md|
+05LugaresMiticos.md|
 
 ***
 
-|06GuiaViajes.md|
+06GuiaViajes.md|
 
 ***
 
-|07Bagdad.md|
+07Bagdad.md|
 
 ***
 
-|08CuentosSalvajes.md|
+08CuentosSalvajes.md|
 
 ***
 
-|09Tesoros.md|
+09Tesoros.md|
 
 ***
 
-|10Gentes.md|
+10Gentes.md|
 
 ***
 
-|11Recursos.md|
+11Recursos.md|
 
 ***
 
-|12Epilogo.md|
+12Epilogo.md|
 
 ***
 

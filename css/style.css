@@ -1,0 +1,572 @@
+
+:root {
+  --color-sand: #C2B280;
+  --color-sunset: #FF5733;
+  --color-gold: #FFC300;
+  --color-old-gold: #9a8a3a;
+  --color-emerald:#16a085;
+  --color-grey: #f7f7f7;
+  --color-green-cthulhu: #879f85;
+  --color-green-deepone: #c6cbc2;
+  --color-black: #000;
+  --color-white: #fff;
+  --padding: 60px;
+}
+
+@font-face {
+  font-family: 'Khodijah';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/Khodijahfree-OVELp.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src:
+    url(./fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src:
+    url(./fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+  font-style: italic;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a,
+a:visited,
+a:active {
+  color: black;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+  color: var(--color-black);
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+section > p,
+section > ul,
+section > blockquote,
+section > h2,
+section > h3,
+section > h4,
+section > h5,
+section > ol,
+section > ul,
+section > div,
+section > a {
+  display: block;
+  padding: 0 0 calc((var(--padding) * 0.4) / 2) 0;
+  margin: 0 var(--padding) ;
+}
+
+
+
+
+
+
+
+
+
+blockquote {
+  border : 3px dashed var(--color-gold);
+  background: var(--color-old-gold);
+  padding: 15px;
+  margin-bottom: calc(var(--padding) / 2);
+  margin: 0px;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+}
+
+blockquote > p + p {
+  padding-top: 10px !important;
+}
+
+pre code {
+  color: var(--color-black);
+  font-family: 'Open Sans', sans-serif;
+  display: block;
+  padding: 10px;
+}
+
+pre {
+  --patternsize: 20px; 
+  white-space: pre-wrap;
+  border: 3px solid var(--color-emerald);
+  background-color: #cfd9d6;
+  margin-left: var(--patternsize);
+  margin-right: var(--patternsize);
+  margin-top: calc(var(--patternsize) * 0.8);
+  margin-bottom: calc(var(--patternsize) * 2);
+  position: relative;
+}
+
+pre:before,
+pre:after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 20px;
+  top: calc(var(--patternsize) * -1);
+  left: calc(var(--patternsize) * -1);
+  height: calc(100% + (var(--patternsize) * 2));
+  border: 3px solid var(--color-emerald);
+  box-sizing: border-box;
+  clip-path: polygon(
+    0% 0%, 
+    var(--patternsize) 0%, 
+    var(--patternsize) 100%, 
+    0% 100%, 
+    0% calc(100% - var(--patternsize)), 
+    var(--patternsize) calc(100% - var(--patternsize)), 
+    var(--patternsize) var(--patternsize), 
+    0% var(--patternsize));
+  background: linear-gradient(
+    180deg,
+    transparent 0%, 
+    transparent calc(var(--patternsize) - 6px),
+    var(--color-emerald) calc(var(--patternsize) - 6px),
+    var(--color-emerald) calc(100% - var(--patternsize) + 6px),
+    transparent calc(100% - var(--patternsize) + 6px)
+  );
+}
+
+pre:after {
+  left: auto;
+  right: calc(var(--patternsize) * -1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --------------- Titles ------------------ */
+
+h1 {
+  font-size: 4em;
+  font-family: 'Khodijah';
+  margin: 0;
+  text-align: center;
+  padding: 0 30px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Khodijah';
+  clear: both;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 1.2em;
+  border-bottom: 1px solid var(--color-black);
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  font-size: 3em;
+  line-height: 120%;
+  margin: 0;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 5px black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: black center center no-repeat;
+  background-size: cover;
+  margin-bottom: var(--padding);
+}
+
+/* ----------- Imágenes ---------------*/
+
+img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  width: 100%;
+  max-height: 1000px;
+}
+
+img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-type img, img.silueta) {
+  width: 100%;
+  border: 1px solid black;
+  box-shadow: 1px 1px 8px 3px var(--color-old-gold);
+}
+
+/* Media Query */
+
+@media print {
+  .columns {
+    columns: 2;
+  }
+  
+  .saltocolumna {
+    break-before: column;
+    height: 0px;
+    padding: 0;
+    margin: 0;
+  }
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    padding: 0;
+    margin: 0px;
+    opacity: 1; 
+    position: relative;
+  }
+
+  section .saltopagina + * {
+    margin-top: var(--padding);
+  }
+
+  .likeH1 span,
+  .likeH2 span {
+    display: inline-block;
+  }
+
+  .nopdf {
+    display: none !important;
+  }
+
+  section:nth-of-type(2),
+  section:nth-of-type(3) {
+    padding-top: var(--padding);
+  }
+}
+
+
+/* ------------- Paginación -------------------- */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 1;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: 'Khodijah';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--color-gold);
+  position: absolute;
+  bottom: 11px;
+  left: 10px;
+  width: var(--size);
+  height: var(--size);
+  background-color: var(--color-sunset);
+  z-index: 10;
+  opacity: 1;
+  clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
+}
+
+section h1 + .saltopagina:after {
+  opacity: 0;
+}
+
+.saltopagina.even:after {
+  left: auto;
+  right: 10px;
+  clip-path: polygon(33% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 33%);
+}
+
+/* ----------- Indice -------------------- */
+.likeH1,
+.likeH2 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 1px 0;
+  text-decoration: none;
+  font-size: 0.6em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.likeH1 {
+  font-size: 0.7em;
+}
+
+.likeH2 {
+  padding: 0 0 0 15px;
+}
+
+.likeH1 span,
+.likeH2 span {
+  display: none;
+  float: right;
+  margin-right: 5px;
+}
+
+.columns > *:first-child:not(p.seed),
+.saltocolumna + *,
+.saltocolumna + blockquote > p {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+
+/* Imágenes de títulos */
+
+section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/scheherazade-schariar.jpg);
+}
+
+section:nth-of-type(5) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/scheherazade-sultan.jpg);
+}
+
+section:nth-of-type(6) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/sindbad.jpg);
+}
+
+section:nth-of-type(7) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/alquimia.jpg);
+  background-position: top center;
+}
+
+section:nth-of-type(8) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/cassim.jpg);
+}
+
+section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/scheherazade-y-shahryar.jpg);
+}
+
+section:nth-of-type(10) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/tigres.webp);
+  background-position: 15% center;
+}
+
+section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/bagdad.jpg);
+  background-position: center top;
+}
+
+section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/ciudad-bronce.jpg);
+  background-position: center center;
+  background-size: 120% auto;
+}
+
+section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/alfombra-voladora.jpg);
+  
+}
+
+section:nth-of-type(14) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/pipa-agua.jpg);
+  background-position: center center;
+}
+
+section:nth-of-type(15) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/arbol-cantor.jpg);
+  background-position: center center;
+}
+
+/* ----------------- Portada --------------- */
+
+section:first-of-type {
+  --barheight: 230px;
+  background: var(--color-black) url(../images/invocacion-nardun.jpg) top center no-repeat;
+  background-size: cover;
+  color: var(--color-white);
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+section:first-of-type > * {
+  position: relative;
+  z-index: 10;
+}
+
+section:first-of-type:before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: calc(var(--barheight) + 100px);
+  /*clip-path: polygon(
+    0% 0%,
+    100% 100px,
+    100% 100%,
+    0% 100%
+  );
+  background: #1e271d url(../images/madera.png) top center no-repeat;
+  background-size: 120% auto;*/
+}
+
+section:first-of-type .saltopagina {
+  display: none;
+}
+
+section:first-of-type > * {
+  text-shadow: 0px 0px 5px #000;
+}
+
+section:first-of-type > h2,
+section:first-of-type > h3 {
+  margin: 0 100px 0 40px;
+}
+
+section:first-of-type > h2 {
+  margin-bottom: 40px;
+  max-width: 490px;
+  line-height: 120%;
+}
+
+section:first-of-type > img {
+  width:100px;
+  height:auto;
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+}
+
+/* ----------------- Contraportada --------------- */
+
+section:last-of-type {
+  --barheight: 560px;
+  height: 100vh;
+  display: flex;
+  background: var(--color-black) url(../images/tanger.jpg) top center no-repeat;
+  background-size: auto calc(100% - var(--barheight));
+  position: relative;
+  color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+section:last-of-type > * {
+  position: relative;
+  z-index: 10;
+  text-shadow: 0px 0px 5px #000;
+}
+
+section:last-of-type > p {
+  margin: 0 0 0 40px;
+}
+
+section:last-of-type > p > a {
+  color: var(--color-white);
+}
+
+section:last-of-type > p:first-of-type {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
+section:last-of-type > p:nth-of-type(2) {
+  font-family: 'Khodijah';
+  font-weight: 400;
+  font-size: 2.5em;
+}
+
+section:last-of-type > p:last-of-type {
+  margin-bottom: 40px;
+}
+
+section:last-of-type > ol {
+  margin-left: 65px;
+  margin-bottom: 40px;
+}
+
+section:last-of-type > ol > li:not(li:last-of-type) {
+  margin-bottom: 8px;
+}
+
+section:last-of-type:before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: calc(var(--barheight) + 100px);
+  clip-path: polygon(
+    0% 0%,
+    100% 100px,
+    100% 100%,
+    0% 100%
+  );
+  background-color: var(--green-dark);
+}
+
+section:last-of-type > p:has(img) {
+  position: absolute;
+  right: 35px;
+  top: 35px;
+}
+
+section:last-of-type > p > img {
+  width: 120px;
+  height: auto;
+}
+
+#gototop {
+  display: none;
+}

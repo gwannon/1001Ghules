@@ -1,8 +1,14 @@
 # El mundo de las tenebrosas 1001 Noches
 
+\sinc
+
 En esta sección vamos a ver de una forma muy general el mundo de las historias de horror cósmico de las 1001 Noches. Explicaremos como son las 1001 Noches escritas por el árabe loco de Abdul Alhazred y como se integran los Mitos de Cthulhu en la cosmología de todos estos cuentos populares.
 
+&nbsp;
+
 ## ¿Cómo usar este libro?
+
+\conc
 
 Ya que vamos a movernos entre dos mundos literarios muy diferentes, los Mitos De Cthulhu y los cuentos de las 1001 Noches, hay un sistema visual para diferenciar los diferentes contenidos.
 
@@ -14,19 +20,38 @@ Tenemos extractos de las 1001 Noches originales y extractos de la versión que h
 
 Además, todos los textos que supongan reglas y sistemas de juego estarán dentro de cajas como esta.
 
+```
 Aquí encontrarás reglas y sistemas de juego.
+```
 
 El resto de elementos que se quieren destacar como reglas opcionales, semillas de aventuras y sugerencias varias vendrán con este formato.
 
 > Aquí encontrarás semillas de aventuras, recompensas de deseos y de cordura.
 
-Los nombres de personas, objetos o lugares a veces tienen paréntesis. Dentro de los paréntesis está su referencia a los Mitos. Por ejemplo, si vemos «Gente del mar (Profundo)» sabemos que la Gente del mar, una especie de sirenas, hace referencia a los Profundos de los Mitos de Cthulhu.
+Los nombres de personas, objetos o lugares a veces tienen paréntesis. Dentro de los paréntesis está su referencia a los Mitos.
+
+\sp
+
+Por ejemplo, si vemos «Gente del mar (Profundo)» sabemos que la Gente del mar, una especie de sirenas, hace referencia a los Profundos de los Mitos de Cthulhu.
+
+\sp
+
+\sinc
 
 [![Abdul Alhazred by mgenccinar](./images/alhazred.jpg)](https://www.deviantart.com/mgenccinar/art/Abdul-Alhazred-845019057 "Abdul Alhazred by mgenccinar") 
 
-Abdul Alhazred revisando su obra a la luz del fuego
+_Abdul Alhazred revisando su obra a la luz del fuego_
+
+\conc
+
+\sp
+
+\sinc
 
 ## Abdul Alhazred
+
+\conc
+
 
 Abdul Alhazred nace hacia el año 700 en la ciudad yemení de Sana. Vivió durante el califato de los Omeyas y no se sabe mucho de su infancia y su juventud, excepto que se hizo poeta y tuvo algunos encontronazos con los poderes de la zona.
 
@@ -35,6 +60,9 @@ Es por ello que abandonó Sana y viajo por todo Oriente Próximo, Sinaí y el no
 Pasó diez años en el desierto arábigo de Rub al-Jali, habitado por espectros y monstruos. En Rub al-Jali hizo dos grandes descubrimientos:
 
 * **La ciudad perdida de Aram-de-las-Columnas:** donde encontró textos de una raza desaparecida anterior a la Humanidad que Alhazred denominó como los aads. Aquí sería donde abandonaría la fe musulmana y empezaría a adorar a dos entidades llamadas Cthulhu y Yog-Sothoth.
+
+\sp
+
 * **La ciudad sin nombre:** A menudo confundida con Aram-de-las-columnas, pero a diferencia de Aram, la Ciudad sin nombre es una ciudad habitada por una casi extinta de seres lagarto. Se dice que Abdul Alhazred soñó con esta ciudad la noche antes de pronunciar su inexplicable pareado: «Que no está muerto lo que puede yacer eternamente, Y con los evos extraños la muerte puede morir.»
 
 ### Damasco
@@ -49,11 +77,23 @@ Según biografías oficiales, Alhazred murió de una manera misteriosa y bastant
 
 Otros cronistas aseguran que sus restos pueden encontrarse en alguna de las galerías secretas de «La Ciudad sin Nombre».
 
+\sp
+
+\sinc
+
 [![He Began to Meditate - Rhead, Louis](./images/meditando.jpg)](https://www.oldbookillustrations.com/illustrations/began-meditate/ "He Began to Meditate - Rhead, Louis") 
 
-Abdul Alhazred y sus visiones
+_Abdul Alhazred y sus visiones_
+
+\conc
+
+\sp
+
+\sinc
 
 ## Las mil y una noches de Alhazred
+
+\conc
 
 Durante los años que estuvo en Damasco no solo escribió el Necronomicón, sino que se dedicó recopilar e investigar cuentos e historias populares y escribir sus propias 1001 Noches, pero mostrando la cruda realidad de esas historias y como todos los agentes de los Mitos de Cthulhu eran en gran parte actores de esas historias.
 
@@ -66,11 +106,21 @@ Aplicó todos sus nuevos conocimientos adquiridos para estudiar todas esas histo
 
 Estudiosos de Alhazred consideran que estos escritos fueron una forma de su autor para mantener su cordura mediante la catarsis de la creación mediante la escritura. Es por ello que los expertos y expertas le describen (a modo de chiste) como el árabe "medio" loco y no simplemente el árabe loco.
 
-Estos relatos fueron descubiertos por el erudito cairota Ibn Khallikan hacia el 1250 en Damasco, que se dedicó a recopilar toda la obra de Alhazred. Esta obra caería en manos de Antoine Galland que la usaría para escribir una de las primeras versiones, en este caso en francés, de las 1001 Noches. Galland ocultó y limpió de todos sus elementos cósmicos y extradimensionales la obra de Alhazred y devolvió a las historias sus elementos originales, pero no consiguió ocultarlas del todo, quedando rastros sutiles entre sus páginas.
+Estos relatos fueron descubiertos por el erudito cairota Ibn Khallikan hacia el 1250 en Damasco, que se dedicó a recopilar toda la obra de Alhazred. Esta obra caería en manos de Antoine Galland que la usaría para escribir una de las primeras versiones, en este caso en francés, de las 1001 Noches. 
+
+\sp
+
+Galland ocultó y limpió de todos sus elementos cósmicos y extradimensionales la obra de Alhazred y devolvió a las historias sus elementos originales, pero no consiguió ocultarlas del todo, quedando rastros sutiles entre sus páginas.
 
 > El mundo de las 1001 Noches de Alhazred no es el mundo de las 1001 Noches tradicional de los libros, ni el mundo de los Mitos de Cthulhu en Oriente Medio hacia el año 800. Es una mezcla bastarda que aúna ambos mundos y que espero que se quede con lo mejor y lo fusione en algo divertido que capture vuestro interés y os permita jugar muchas horas.
 
+\sp
+
+\sinc
+
 ## Los Yinns
+
+\conc
 
 Alhazred explica en sus 1001 Noches que existen muchas razas (él las llama tribus) y se centra en 6 tribus, especialmente, los ghūles, los janns, los al mighos, los abu-qiths, los qareens y los aads.
 
@@ -81,6 +131,8 @@ Estos yinns ya no son productos del dios de su antigua fe, sino que llevan en la
 Los ghūles son de los más comunes de los yinns de los cuentos populares y fueron los primeros que estudió Alhazred al ser muy parecidos a la nueva realidad que estaba descubriendo. Eran carroñeros y antropófagos, vivían de noche y en cementerios y eran buenos excavadores.
 
 Los ghūles fueron la punta del iceberg de sus estudios. Al estudiarlos en los cementerios de Damasco descubrió que adoraban a divinidades parecidas a las de sus nuevas creencias. También le ayudaron a confirmar su teoría de que los yinns de los cuentos podían enmascarar a estos seres de más allá de las estrellas o de fuera de nuestra realidad.
+
+\sp
 
 ### Janns
 
@@ -98,6 +150,8 @@ Estableció que lo mismo que les pasó a los janns le pasará en el futuro a los
 
 Los al mighos son los yinns más alejados de los humanos, no solo físicamente, sino también en la forma de pensar y de actuar. Como todos los yinns, Alhazred sitúa su origen en las estrellas, en un planeta llamado Yuggoth. Su objetivo es conquistar la Tierra, pero a pesar de su tecnología son sabios y pacientes y están esperando el momento oportuno.
 
+\sp
+
 Según sus estudios y sus escritos, Alhazred consideraba que los al mighos son el origen de todos los mitos de lugares malditos, desapariciones misteriosas y gentes que vuelven completamente cambiados.
 
 Los al mighos no pueden mezclarse fácilmente con los humanos y suelen ser vistos como cheitans o demonios, es por ello que necesitan que sus minas y canteras donde extraen extraños metales estén lejos de miradas indiscretas. Tantos sus agentes humanos como ellos mismos con su avanzadísima tecnología usan todo tipo de estrategias para alejar a los intrusos o neutralizarlos mediante técnicas de control mental. No será la primera vez que el cacique de un pueblo perdido de las montañas vende todas sus tierras por una miseria a un oscuro comprador para luego suicidarse.
@@ -109,6 +163,8 @@ Estos yinns tienen una especie de «poder de seducción» que les permite atraer
 Estos yinns son descritos por Alhazred como seres espirituales que necesitan poseer cuerpos de seres vivos para interactuar con el mundo físico. Alhazred considera a los abu-qith como los más poderosos de todos los yinns conocidos, solo ya su magia (que no deja de ser tecnología tan avanzada que parece magia) les pone primeros en poder. Pero es además tienen control del tiempo, pudiendo moverse a través de los días, los años o los siglos atrás y adelante y anclándose a una época poseyendo un cuerpo de un ser vivo.
 
 Si de otros yinns consideró que eran de fuera de la Tierra, con los abu-qith llego a la acertada conclusión de que eran de fuera del tiempo. Al tener una visión no lineal del tiempo, su forma de pensar, sus objetivos y sus metas e incluso su ética y moral escapa de la comprensión humana. Aun así, parece que no suelen ser peligrosos para nosotros procurando no dañarnos.
+
+\sp
 
 Según ss estudios del folclore local, estos abu-qith se escondían en los relatos y cuentos en los personajes poderosos, sabios y un poco excéntricos que entrenan a héroes y heroínas. Nos referimos a personajes como Abd Al-Samad de la «Historia de Juder el pescador o el saco encantado», un poderoso mago perteneciente a una familia de poderosos magos, un tanto alocado y que no busca dinero o poder, sino más conocimientos.
 
@@ -124,6 +180,8 @@ Según le fue rebelado a Alhazred, llegaron a la Tierra de las profundidades del
 
 Con los siglos fueron decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos, a veces adorados como dioses por tribus paganas. También se sabe warams que se mueven por todo el desierto como eternas y poderosas de arena.
 
+\sp
+
 Estos yinns con forma de pólipos y hechos en parte de aire se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido. No solo su forma de pensar es totalmente alienígena, también su forma de percibirlo. Perciben el mundo de otras formas desconocidas, de forma que puede «ver» a través de las paredes o moverse sin problemas en plena oscuridad.
 
 ### Qareens
@@ -136,6 +194,8 @@ Pero Alhazred, fue más allá, estableciendo que los qareen eran mucho más que 
 
 Los qareens de las leyendas populares son seres espirituales que acompañan a los humanos y que les inducen a hacer actos malvados y suicidas. De hecho, se agarran con sus piernas a tu cuello para poder susurrarte maldades al oído. Es por ello que Alhazred nombro a estos yinns con su nombre popular, por su forma espiritual y su capacidad de poseerte y hacerte ejecutar acciones profanas e impuras.
 
+\sp
+
 ### Aads
 
 Poco se sabe de esta tribu de yinns a la que Alhazred atribuye la creación de Aram-de-las-columnas y el descubrimiento del azufre rojo, el más poderoso de los agentes alquímicos. Cuando la ciudad de Aram-de-las-columnas fue tragada por la Tierra como castigo divino por la soberbia de los Aads, su rey Scheddad ben-Aad se llevó a los supervivientes fuera de nuestro mundo y dejo un fabuloso tesoro.
@@ -144,7 +204,11 @@ Según pudo descubrir Alhazred el tiempo que en Aram-de-las-Columnas, los Aads e
 
 ### Los yinns y sus posesiones
 
-> Y para realizar este proyecto, voy a ir a buen paso, lo más de prisa que pueda, al palacio del sultán, en la India, y entraré en el cuerpo de la joven princesa y tomaré posesión de su espíritu momentáneamente. Y de tal suerte, convertida en posesa, parecerá loca a cuantos la rodean, y su padre, el sultán, procurará que la curen los médicos más hábiles de la India. Pero ninguno podrá adivinar la verdadera causa del mal, que será mi presencia en el cuerpo de la joven; y todos los cuidados que con ella tengan fracasarán bajo mi aliento y por mi voluntad. Y entonces te presentarás tú, y serás quien cure a la princesa. ¡Y voy a indicarte los medios para ello!" Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: "Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino. Y en vista de ello, como recompensa a la curación verificada, serás esposo de la joven, hija del rey.
+> Y para realizar este proyecto, voy a ir a buen paso, lo más de prisa que pueda, al palacio del sultán, en la India, y entraré en el cuerpo de la joven princesa y tomaré posesión de su espíritu momentáneamente. Y de tal suerte, convertida en posesa, parecerá loca a cuantos la rodean, y su padre, el sultán, procurará que la curen los médicos más hábiles de la India. Pero ninguno podrá adivinar la verdadera causa del mal, que será mi presencia en el cuerpo de la joven; y todos los cuidados que con ella tengan fracasarán bajo mi aliento y por mi voluntad. Y entonces te presentarás tú, y serás quien cure a la princesa. 
+
+\sp
+
+> ¡Y voy a indicarte los medios para ello!" Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: "Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino. Y en vista de ello, como recompensa a la curación verificada, serás esposo de la joven, hija del rey.
 > 
 > **Referencia:** Historia del jinete detrás del cual tocaban salto indios y chinos (n. 867)
 
@@ -155,6 +219,8 @@ En bastantes partes de sus 1001 Noches muestra posesiones y según sus biógrafo
 Dentro de los Yinns de los que nos habla Alhazred en sus 1001 Noches, hay dos tribus con capacidad de poseer a seres humanos, los abu-qith y los qareens. También habla en sus cuentos de otras criaturas que no considera yinns con capacidad de poseer humanos como los falaks menores.
 
 Hay que hacer hincapié, que si bien no son posesiones como tal, los al mighos y las gentes del mar tienen cierta capacidad de seducir y atraer a personas débiles de mente y marginadas, convirtiéndolas en aliadas. No son posesiones reales, pero pueden fácilmente fanatizarlos para que atraigan a otros como ellos o incluso se dejen la vida en su defensa.
+
+\sp
 
 #### Los abu-qith y sus posesiones a través de los tiempos
 
@@ -168,7 +234,13 @@ Los qareens de normal no pueden poseer directamente a un humano, pero pueden cor
 
 En mentes extremadamente débiles o rotas pueden llegar a conseguir un control total, de forma que obedezcan ciegamente sus órdenes. El control que ejerce sobre estas víctimas es tan poderoso que nadie más puede influir en ellos. Además, solo les importa cumplir las órdenes dadas que nada puede inmiscuirse, ni el hambre o la sed les importará, aunque sí hará estragos en su cuerpo.
 
+\sp
+
+\sinc
+
 [![Small World by ArtDoge](./images/gennistan.jpg)](https://www.deviantart.com/artdoge/art/Small-World-595127250 "Small World by ArtDoge") 
+
+\conc
 
 ### El país de Gennistán
 
@@ -185,6 +257,8 @@ Como ya hemos visto, las motivaciones de los distintos yinns son muy diferentes,
 Los yinns tienen libre albedrío, por lo que pueden ser buenos o malos y ser o no ser creyentes. Es por ello que la tradición distingue entre yinns y cheitans (o shaitans).
 
 Los cheitans son lo que en la tradición judeocristiana llamaríamos demonios. Son yinns que no profesan la fe musulmana y, por tanto, se les considera malvados, siendo el más poderoso de ellos Iblis que sería versión islámica de Satanás.
+
+\sp
 
 Para Alhazred no existe esa diferenciación entre buenos y malos, ya que no los considera parte de nuestro mundo y, por lo tanto, quedan fuera de las leyes divinas y humanas que rigen el mundo de los hombres.
 
@@ -204,7 +278,11 @@ Recordemos que los qareens no piensan como nosotros y tienen una mentalidad malv
 
 #### Relaciones sexuales
 
-> y me dijo: “¿No reconoces a tu esposa? Te he salvado de la muerte con ayuda del Altísimo. Porque has de saber que soy una efrita. Y desde el instante en que te vi, te amó mi corazón, simplemente porque Alah lo ha querido, y yo soy una creyente en Alah y en su Profeta, al cual Alah bendiga y preserve. Cuando yo me he acercado a ti en la pobre condición en que me hallaba, tú te aviniste de todos modos a casarte conmigo. Y yo, en justa gratitud, he impedido que perezcas ahogado. En cuanto a tus hermanos, siento el mayor furor contra ellos y es preciso que los mate”.
+> y me dijo: “¿No reconoces a tu esposa? Te he salvado de la muerte con ayuda del Altísimo. Porque has de saber que soy una efrita. Y desde el instante en que te vi, te amó mi corazón, simplemente porque Alah lo ha querido, y yo soy una creyente en Alah y en su Profeta, al cual Alah bendiga y preserve.
+
+\sp
+
+>  Cuando yo me he acercado a ti en la pobre condición en que me hallaba, tú te aviniste de todos modos a casarte conmigo. Y yo, en justa gratitud, he impedido que perezcas ahogado. En cuanto a tus hermanos, siento el mayor furor contra ellos y es preciso que los mate”.
 > 
 > **Referencia:** Cuento del segundo jeque (n. 2)
 
@@ -216,11 +294,20 @@ Algunos de los yinns tienen capacidad de transformarse en entes con apariencia h
 
 De hecho, son famosos los tratados de juristas medievales estableciendo leyes que rigieran, las bodas, las separaciones y divorcios o las herencias en las que estaban involucrados los yinns.
 
+\sp
+
+\sinc
+
 ## El gran Rey Soleimán
+
+\conc
 
 [![Salomón escribe los Proverbios (Doré).](./images/salomon.webp)](https://es.wikipedia.org/wiki/Salom%C3%B3n#/media/Archivo:Dore_Solomon_Proverbs.png "Salomón escribe los Proverbios (Doré).") 
 
-El gran Rey Soleimán, más conocido como el sabio rey Salomón, es una figura mítica dentro de los cuentos de las 1001 Noches. Las grandes hazañas de la antigüedad siempre son fruto del rey Soleimán desde vencer a ejércitos de yinns a realizar grandes prodigios mágicos.
+El gran Rey Soleimán, más conocido como el sabio rey Salomón, es una figura mítica dentro de los cuentos de las 1001 Noches.
+
+
+Las grandes hazañas de la antigüedad siempre son fruto del rey Soleimán desde vencer a ejércitos de yinns a realizar grandes prodigios mágicos.
 
 Hay, además, toda una serie de objetos de gran poder que se le atribuyen como creador, desde su mítico tesoro más allá de los siete mares a alfombras voladoras o amuletos para vivir bajo el agua.
 
@@ -236,20 +323,32 @@ Para entender más claramente este personaje podemos compararlo con el rey Artur
 
 Veamos algunas de sus hazañas narradas en las 1001 noches.
 
+\sp
+
 * Venció a un ejército de 10.000 yinns con su ejército de hombres, animales y aves. A muchos de ellos los encerró en vasos de cobre sellados con su símbolo.
 * Venció en singular combate a la Bestia Negra (un terrible avatar de Nyarlathotep) y la encerró en una botella y la lanzo al mar.
 * Se dice que su alfanje, el Escorpión de Soleimán, podía partir una montaña como si fuera de jabón.
 * Era servido por los yinns, los cuales no osaban a rebelarse a sus órdenes. De hecho, creó varias joyas que tenían vinculados a poderosos caudillos yinn.
 * Hay historias que aseguran que estaba en dos sitios a la vez haciendo importantes prodigios. Quizás podía estar en dos sitios a la vez o quizás podía moverse muy rápidamente con objetos como alfombras voladoras.
-* Uno de sus hazañas más poderosas es crear el sello de Soleimán (Símbolo arcano) que te permite protegerte del poder de los yinns y otros seres malvados o que sirve para encerrar a cheitans y desterrarlos de esta realidad.
+* Una de sus hazañas más poderosas es crear el sello de Soleimán (Símbolo arcano) que te permite protegerte del poder de los yinns y otros seres malvados o que sirve para encerrar a cheitans y desterrarlos de esta realidad.
+
+\sp
+
+\sinc
 
 ## Los primigenios y los dioses exteriores
+
+\conc
 
 Dentro de las tradiciones de Oriente Medio podemos encontrar bastantes seres que se ajustan con las criaturas y los monstruos de las historias de Lovecraft. Pudiendo relacionar al gran ser acuático que sostiene el mundo llamado Bahamūt con el gran y poderoso Cthulhu o a los genios de la lámpara con avatares de Nyarlathotep, preferimos mostrar otros seres y dioses de los Mitos menos conocidos como Nardún (más conocido como Cthugha) o Suc’Naath, pero igual de interesantes.
 
 ### Baba Daryä y Bu Diryan (Dagón, Hydra)
 
-Baba Daryä significa «padre del mar» en persa y eso denota el origen de esta leyenda. Esta criatura es un demonio o yinn cuyas historias de horror son muy populares entre las comunidades que viven junto al mar. Nadie conoce sus verdaderos rasgos faciales porque nunca es visible y siempre aparece en la más absoluta oscuridad. Sin embargo, es descrito como una persona del mar increíblemente alto, grande y fuerte. Sus víctimas más habituales son los buceadores de perlas, los pescadores y la gente de mar. Su historia mantiene alerta a los marineros, especialmente a los aprendices, y evita que los niños se acerquen solos al mar.
+Baba Daryä significa «padre del mar» en persa y eso denota el origen de esta leyenda. Esta criatura es un demonio o yinn cuyas historias de horror son muy populares entre las comunidades que viven junto al mar. Nadie conoce sus verdaderos rasgos faciales porque nunca es visible y siempre aparece en la más absoluta oscuridad. 
+
+\sp
+
+Sin embargo, es descrito como una persona del mar increíblemente alto, grande y fuerte. Sus víctimas más habituales son los buceadores de perlas, los pescadores y la gente de mar. Su historia mantiene alerta a los marineros, especialmente a los aprendices, y evita que los niños se acerquen solos al mar.
 
 Bu Diryan es un ser acuático espeluznantemente feo y gigante que controla el agua y los mundos submarinos. Esta criatura tiene grandes cadenas que se envuelven alrededor de su cuello y sus pies. Se cuenta que estas cadenas son usadas para envolver a las personas que atrapa. El tintineo que provocan mientras camina por la playa y la costa es escuchado por la gente, provocando espanto.
 
@@ -260,6 +359,8 @@ Baba Daryä y Bu Diryan son adorados por la gente del mar y realizan todo tipo d
 El proceso de corrupción de muchas de poblaciones costeras son muy parecidas. Suelen seducir a las comunidades costeras favoreciendo su pesca. Hacen que sean prósperas y estas comunidades empiezan a ver a las gentes del mar con buenos ojos, no solo como monstruos marinos, sino como fuentes de riqueza. Empiezan entonces a hibridarse con las mujeres de dichas comunidades, prometiendo que sus descendientes serán poderosos e inmortales y que podrán combatir a los poblados vecinos que envidian su prosperidad.
 
 Finalmente, con el paso del tiempo, acaban convirtiendo a toda la comunidad en híbridos que poco a poco deja de relacionarse con el mundo exterior.
+
+\sp
 
 En este punto introducen sus creencias y sus cultos y estos pueblos costeros empiezan a servir a las deidades a las que sirven las gentes del mar, como Baba Daryä y Bu Diryan o el ser que llamamos Bahamūt y las gentes del mar llaman Cthulhu.
 
@@ -278,6 +379,8 @@ El culto del cuarenta no adora a este avatar de la deidad exterior Yog-Sothoth, 
 > ¡Iah! ¡Iah! ¡Astarte! Gran Madre de los mil y un retoños, ¡Yo te invoco! ¡Contesta la llamada de tu siervo que conoce las palabras de poder! Yo te digo: ¡Levántate de tu sueño y acude con un millar más uno! Hago los signos y las libaciones, pronuncio las palabras que abren la puerta. Te digo: ¡Acude! Golpeo la aldaba. ¡Ahora! ¡Anda por la Tierra una vez más!
 
 Esta deidad mesopotámica de la fertilidad es la máscara que usa la pervertida divinidad primigenia de la fertilidad denominada por Alhazred como Shub-Niggurath. Se la representaba como una mujer embarazada de múltiples retoños, de forma que está inflada y deformada.
+
+\sp
 
 Sus sirvientes directos son sus vástagos, que aparecen en su representación al ser invocada su madre si está no puede aparecerse.
 
@@ -299,7 +402,11 @@ Se sabe de ciertos elementos que podrían contener parte de su esencia y podría
 
 ### Suc’Naath
 
-Suc’Naath es uno de los dioses malditos y descerebrado que bailan desenfrenadamente al son de flautas y tambores para su señor Azathoth. Tiene forma de huracán con trazas color violeta y dorado. Entre sus remolinos de viento se forman rostros agonizando y emite constantemente chasquidos y chirridos terriblemente desagradables.
+Suc’Naath es uno de los dioses malditos y descerebrado que bailan desenfrenadamente al son de flautas y tambores para su señor Azathoth. Tiene forma de huracán con trazas color violeta y dorado.
+
+\sp
+
+Entre sus remolinos de viento se forman rostros agonizando y emite constantemente chasquidos y chirridos terriblemente desagradables.
 
 Su esencia está fragmentada en tres partes, una en un cometa llamado Aiin, otra en algún tipo de estatua ubicada en la antigua Babilonia, y la última ha sido transmitida genéticamente durante eones a través de razas pre-humanas y humanas, principalmente en las tierras regadas por el Tigris y el Eufrates, lo que conocemos como Mesopotamia. Si alguna vez se combinan estas tres partes, Suc’Naath se liberará de su maldición.
 
@@ -311,7 +418,11 @@ Es servido por un pequeño culto conocido como la Mano Dorada de Suc’Naath, qu
 
 ### Bahamūt (Cthulhu)
 
-> "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo. También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un inmenso monstruo acuático llamado Bahamūt que flota en la superficie del Mar de la Eternidad sumido en un profundo sueño.
+> "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo.
+
+\sp
+
+> También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un inmenso monstruo acuático llamado Bahamūt que flota en la superficie del Mar de la Eternidad sumido en un profundo sueño.
 > 
 > **Referencia:** Historia de Belukia (n. 362)
 
@@ -323,6 +434,8 @@ Bahamūt flota inconsciente sobre el mar de la Eternidad y sobre él reposa todo
 
 Según estos escritos, Bahamūt llego a nuestro mundo de las estrellas y alguna extraña maldición hizo que lleve eones dormido en una ciudad sumergida llama R’lyeh con todos sus congéneres, versiones menos poderosas llamadas Semillas. R’lyeh, como parte de la maldición, se hundió en el mar y ascenderá de los abismos oceánicos cuando las estrellas se alineen adecuadamente y el gran Bahamūt despierte de su sueño.
 
+\sp
+
 Es adorado por varias sectas por todo oriente próximo y es la deidad principal de las gentes del mar. Todos estos grupos trabajan para despertarlo de su profundo sueño.
 
 #### El sueño de Bahamūt
@@ -333,9 +446,17 @@ La princesa Tadnaar, dormida sobre un diván en el palacio más grande de la ciu
 
 Para evitar esto, tanto en el mundo de la vigilia como en el mundo de los sueños hay una organización llamada e Gremio de Bronce que vigila y sabotea todo intento de descubrir la ciudad y despertar a la princesa. Toda esta trama se desarrolla en la aventura [Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce](#anchorexpedicionciudadbronce).
 
+\sp
+
+\sinc
+
 ## Cultos y sectas de adoradores
 
+\conc
+
 Las arenas de todo Oriente Medio y el Magreb están llenas de sectas de adoradores de dioses de los Mitos. Veamos en profundidad algunos de los cultos más importantes e interesantes, cuáles son sus creencias, cómo se organizan, qué buscan y cuáles son sus rituales más significativos.
+
+\sp
 
 ### Secta del cuarenta
 
@@ -516,7 +637,13 @@ Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conse
 
 [![Georges-Antoine Rochegrosse - Moloch](./images/cultos-fuego.jpg)](https://en.m.wikipedia.org/wiki/File:Georges-Antoine_Rochegrosse_-_Moloch.jpg "Georges-Antoine Rochegrosse - Moloch")  
 
+\sp
+
+\sinc
+
 ## Las Tierras del Sueño
+
+\conc
 
 Toda esta sección es algo que como Scheherazade puedes tener en cuenta en tus historias u obviarlo totalmente. Si quieres darle un toque más fantástico a tus cuentos puedes conectar las 1001 Noches con las Tierras del Sueño a diferentes niveles como te planteamos aquí.
 
@@ -569,7 +696,13 @@ Hay toda una serie de seres de las Tierras del Sueño que pueden aparecer en tus
 
 [![Prince Azzam ~ Chhaya - Waiting for Azzam… by Eyoha](./images/costumbres.jpg)](https://www.deviantart.com/eyoha/art/Prince-Azzam-Chhaya-Waiting-for-Azzam-353516888 "Prince Azzam ~ Chhaya - Waiting for Azzam… by Eyoha") 
 
+\sp
+
+\sinc
+
 ## Sociedad
+
+\conc
 
 La sociedad árabe que vemos en las 1001 Noches es una sociedad medieval con sus rasgos básicos, como clases sociales muy cerradas o la importancia y la influencia de la religión en todos los elementos de la sociedad.
 
@@ -643,7 +776,13 @@ Muchas veces en las historias de las 1001 Noches, los esclavos son tratados como
 
 Los amos pueden liberar a sus esclavos y obtener su libertad, pero no era lo común. Lo más normal es que los y las esclavas ganaran cierta libertad al convertirse en concubinas y concubinos. Otras formas eran pagar por tu libertad. Llegabas a un acuerdo de pagarle a tu amo cierta cantidad de dinero y obtenías el derecho a trabajar para otros después de trabajar para tu señor. Con el dinero ganado pagabas tu libertad.
 
+\sp
+
+\sinc
+
 ## Costumbres, fiestas y otras actividades sociales
+
+\conc
 
 Oriente medio y el Magreb se componen muchas culturas y sociedades distintas con sus propias reglas y convenciones sociales. Vamos a ver las más importantes, que pudieran ser integradas en tus aventuras y que la mayoría de esas culturas observan.
 
@@ -820,7 +959,13 @@ Aquí tienes más platos referenciados en las 1001 Noches.
 
 [![Temple Of Triangle por Typhonart](./images/vieja-ciudad.jpg)](https://www.deviantart.com/typhonart/art/Typhonart-Temple-Of-Triangle-599300492 "Temple Of Triangle por Typhonart") 
 
+\sp
+
+\sinc
+
 ## Ciudades
+
+\conc
 
 Aunque pudiera parecer que no, las aventuras de las 1001 Noches son tremendamente urbanas. La mayoría de las tramas empiezan en grandes ciudades como Bagdad o Damasco y puede que se queden allí o que te lleven a lugares misteriosos y lejanos para volver con riquezas a tu ciudad natal o con el objeto necesario para librar al ser amado de su maldición o vengarte de la persona que hizo que tuvieras que irte de aventuras.
 
@@ -933,9 +1078,18 @@ Los hammames, en principio, no son mixtos con lo que tenemos espacios para hombr
 
 También tienen un carácter erótico y se deja caer que varias escenas hetero u homosexual tienen escenario entre los vapores de sus bañeras, como en la historia del "El mozalbete y el masajista del hammam".
 
+
+\sp
+
+\sinc
+
 [![Desert por glazyrin](./images/desierto-princesa.jpg)](https://www.deviantart.com/glazyrin/art/Desert-161476988 "Desert por glazyrin") 
 
+&nbsp;
+
 ## Viajes y comercio
+
+\conc
 
 Ya hemos dicho que las ciudades son una parte importante de los relatos de las 1001 Noches. La otra parte son los viajes a lugares misteriosos y mágicos atravesando desiertos peligrosos, mares extraños e inhóspitas cordilleras.
 

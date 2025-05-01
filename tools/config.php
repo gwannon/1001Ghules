@@ -3,14 +3,14 @@
 $tags = [
   'HTML' => '',
   'HASH' => date("YmdH"),
-  'TITLE' => "¡Arrr! Cthulhu",
+  'TITLE' => "Mil y Un Ghūles",
   'SHORTDESCRIPTION' => 'Ambientación para SWEA',
-  'DESCRIPTION' => "El juego de rol para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu",
-  'VERSION' => "1.5",
-  'LANZAMIENTO' => '24/09/2023',
-  "AUTHOR" => "Jorge Monclús",
+  'DESCRIPTION' => "Relatos de horror cósmico en los cuentos de las Mil y Una Noches.",
+  'VERSION' => "1.1",
+  'LANZAMIENTO' => 'Día del rol gratis 2024',
+  "AUTHOR" => "Jorge Monclús Fernández (Gwannon)",
   "AUTHOR_URL" => 'https://linktr.ee/gwannon',
-  "KEYWORDS" => "juego de rol, Savage Worlds, ciberpunk, robin hood",
+  "KEYWORDS" => "juego de rol, Savage Worlds, cthulhu, 1001 noches, lovecraft",
   "URL" => "https://1001ghules.gwannon.com",
   "GITHUB" => 'https://github.com/gwannon/1001Ghules'
 ];
