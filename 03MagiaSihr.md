@@ -30,9 +30,9 @@ El Sihr o magia funciona como se describe en el manual básico, pero con alguna 
 
 Todo personaje dispone de tantos puntos de poder diarios como su nivel de Espíritu que recupera tras una noche de descanso (8 horas de descanso sin interrupciones importantes).
 
-Descanso no implica estar dormido, puede ser disfrutar de estar a la sombra en un exótico oasis o disfrutando y bebiendo con tus amistades en un khan. En general, acciones que no impliquen avanzar la trama son descanso.
-
 \sp
+
+Descanso no implica estar dormido, puede ser disfrutar de estar a la sombra en un exótico oasis o disfrutando y bebiendo con tus amistades en un khan. En general, acciones que no impliquen avanzar la trama son descanso.
 
 Un combate o curar a tus aliados son interrupciones graves, levantarte de tu alcoba para llenar el orinal no.
 
@@ -48,9 +48,16 @@ Que para ti tenga NP 0 no quiere decir que otras personas no puedan aprender mag
 * fijar en que exactamente se puede gastar los NP antes de dar el libro a tus schahriar
 * o un modo mixto en el que el primer lector deja fijo que se aprende del libro con sus decisiones a la hora de gastar sus avances y los siguientes lectores se tienen que ceñir a esa lista de gastos.
 
+\sp
+
+\sinc
+
 ## Ventajas mágicas
 
+\conc
+
 Veamos como afectan las ventajas mágicas normales a este trasfondo arcano.
+
 
 ### Puntos de poder
 
@@ -60,11 +67,11 @@ Adquirir esta ventaja supone también el estudio de un libro de hechizo.
 
 ### Nuevos poderes
 
-La ventaja de Nuevos poderes solo podrá adquirirse tras leer un libro de hechizos y gastará un nivel de poder de dicho libro. Si durante el avance no tuvo acceso a su grimorio, no habrá podido estudiar nuevos hechizos y no podrá gastar el avance en nuevos poderes. Por ejemplo, si ha estado encerrado en la cárcel sin su libro.
+La ventaja de Nuevos poderes solo podrá adquirirse tras leer un libro de hechizos y gastará un nivel de poder de dicho libro.
+
+Si durante el avance no tuvo acceso a su grimorio, no habrá podido estudiar nuevos hechizos y no podrá gastar el avance en nuevos poderes. Por ejemplo, si ha estado encerrado en la cárcel sin su libro.
 
 Adquirir esta ventaja supone también el estudio de un libro de hechizo.
-
-\sp
 
 ### Recuperación rápida
 
@@ -78,6 +85,9 @@ Recuperación rápida supondrá que necesitará la mitad de tiempo de descanso p
 Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, funcionarán normalmente, pero puede que haya ventajas de otras ambientaciones que quieras usar y que tengas que adaptar teniendo en cuenta estas reglas.
 
 * Los puntos de poder se basan en Espíritu. Si una ventaja da o quita puntos de poder no será un valor fijo, sino basado en el nivel de Espíritu del personaje.
+
+\sp
+
 * La adquisición de ventajas que den (como Nuevos poderes) o mejoren poderes debe estar asociadas al estudio de grimorios malditos y al gasto de su nivel de poder.
 
 \sp
@@ -90,7 +100,9 @@ Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, func
 
 [![Edmund Dulac](./images/magia.jpg)](https://en.wikisource.org/wiki/Sindbad_the_sailor_and_other_stories_from_the_Arabian_nights/The_Story_of_the_Three_Calenders#/media/File:Sindbad_the_sailor_&_other_stories_from_the_Arabian_nights_-_Dulac_color_plate_facing_page_168.jpg "Edmund Dulac") 
 
-No todos los poderes de SWEA están disponibles en esta ambientación. Aun así, esto es una sugerencia. Si crees que hemos eliminados poderes que pudieran cuadrar, eres muy libre de meterlos. Aquí tienes un listado de poderes posibles en 1001 Ghūles.
+No todos los poderes de SWEA están disponibles en esta ambientación. Aun así, esto es una sugerencia.
+
+Si crees que hemos eliminados poderes que pudieran cuadrar, eres muy libre de meterlos. Aquí tienes un listado de poderes posibles en 1001 Ghūles.
 
 ### Adivinación
 
@@ -106,7 +118,13 @@ El cambio de forma es un poder muy común entre los seres de las 1001 Noches, pe
 
 ### Captura
 
-Estamos hablando de desde muros de tierra que aprisionan a la víctima a convertirte en piedra de cintura para abajo. En versiones más lovecraftianas podemos ver como pseudópodos de todo tipo que atrapan a la víctima, arenas movedizas o zarzas endemoniadas que se enroscan en tus piernas.
+Estamos hablando de desde muros de tierra que aprisionan a la víctima a convertirte en piedra de cintura para abajo.
+
+En versiones más lovecraftianas podemos ver como pseudópodos de todo tipo que atrapan a la víctima, arenas movedizas o zarzas endemoniadas que se enroscan en tus piernas.
+
+\sp
+
+[![The Fisherman Wished to Run Away - Rhead, Louis](./images/huge-monster.jpg)](https://www.oldbookillustrations.com/illustrations/huge-monster/ "The Fisherman Wished to Run Away - Rhead, Louis") 
 
 ### Castigo
 
@@ -118,8 +136,6 @@ Algo muy medieval y bastante bíblico es dejar ciego a tu oponente tanto de form
 
 ### Chorro
 
-[![The Fisherman Wished to Run Away - Rhead, Louis](./images/huge-monster.jpg)](https://www.oldbookillustrations.com/illustrations/huge-monster/ "The Fisherman Wished to Run Away - Rhead, Louis") 
-
 Los alientos de fuego o pestilentes o incluso los pedos venenosos son usuales entre los monstruos de las 1001 noches. Los magos, siguiendo la tradición del autor de Providence, deberían poder lanzar nubes ácidas y corrosivas que pudran la carne de sus objetivos o nubes de escarabajos o langostas carnívoras que devoren a tus schahriars.
 
 ### Curación
@@ -128,35 +144,53 @@ La curación mágica es principalmente a través de pócimas y emplastos. Aunque
 
 ### Destierro
 
-El destierro es algo muy común usado por practicantes de magia para deshacerse de yinns, cheitans y entidades más poderosas como avatares de dioses exteriores. Se les encierra en botellas y tinajas que son lanzadas a las profundidades marinas y a pozos sin fondo o se les manda a otras dimensiones o las profundidades del espacio exterior.
+El destierro es algo muy común usado por practicantes de magia para deshacerse de yinns, cheitans y entidades más poderosas como avatares de dioses exteriores.
+
+\sp
+
+Se les encierra en botellas y tinajas que son lanzadas a las profundidades marinas y a pozos sin fondo o se les manda a otras dimensiones o las profundidades del espacio exterior.
 
 ### Disfraz
 
-Si Cambiaformas es un poder típico de yinn, Disfraz es un poder típico de humano. Muchos son los ejemplos de personajes de las 1001 Noches que se disfrazan, es por ello que es interesante dejar su versión mágica. Este poder, que pueden usar tanto schahriars como PNJ, puede ser importante en muchas tramas donde colarse en la guarida de los villanos sea esencial.
+Si Cambiaformas es un poder típico de yinn, Disfraz es un poder típico de humano. 
 
-Hay disfraces tan convincentes en muchas historias que nadie lo sospecha, solo las personas más listas y avispadas se dan cuenta. El jefe de los 40 ladrones se hace pasar por un vendedor de aceite y el mago malvado de Aladino por una santona que engaña a la princesa Badrú’l-Budur.
+Muchos son los ejemplos de personajes de las 1001 Noches que se disfrazan, es por ello que es interesante dejar su versión mágica.
+
+Este poder, que pueden usar tanto schahriars como PNJ, puede ser importante en muchas tramas donde colarse en la guarida de los villanos sea esencial.
+
+Hay disfraces tan convincentes en muchas historias que nadie lo sospecha, solo las personas más listas y avispadas se dan cuenta.
+
+El jefe de los 40 ladrones se hace pasar por un vendedor de aceite y el mago malvado de Aladino por una santona que engaña a la princesa Badrú’l-Budur.
 
 ### Gigantismo
 
-Que los personajes se hagan enormes es algo muy típico en las 1001 Noches sobre todo los yinns, no tanto en los mitos donde los seres que tienen que ser gigantescos ya lo son de por sí. Aunque quede muy Disney, este poder puedes reservarlo para villanos que se convierten en gigantes en la épica batalla final.
+Que los personajes se hagan enormes es algo muy típico en las 1001 Noches sobre todo los yinns, no tanto en los mitos donde los seres que tienen que ser gigantescos ya lo son de por sí.
+
+Aunque quede muy Disney, este poder puedes reservarlo para villanos que se convierten en gigantes en la épica batalla final.
 
 ### Invisibilidad
 
-La invisibilidad es otro de esos puntos donde los dos mundos que forman esta ambientación están de manos. Son comunes en los Mitos con muchos seres invisibles y en las 1001 Noches con objetos mágicos que hacen invisible al schahriar para colarse en el palacio del califa o para salvar a su amor.
+La invisibilidad es otro de esos puntos donde los dos mundos que forman esta ambientación están de manos.
+
+Son comunes en los Mitos con muchos seres invisibles y en las 1001 Noches con objetos mágicos que hacen invisible al schahriar para colarse en el palacio del califa o para salvar a su amor.
 
 ### Invocación de aliados
 
 Las invocaciones son parte fundamental de la magia de los Mitos. Llamar a seres del espacio profundo o extradimensionales para que maten a mis enemigos, roben algún objeto o secuestres a víctimas inocentes es algo esencial de todo buen líder o lideresa de culto innombrable.
 
+\sp
+
 La duración de las invocaciones no es 5 turnos, si no de 5 horas y no se pueden meter los modificadores de poder de Mordisco/Garras, Volar y Jinete Mental.
 
-También hay posibilidades de que el aliado invocado no este muy contento con la invocación. Es por ello que la tirada de invocación debería ser hecha por Scheherazade, ya que, siempre que haya una pifia en la tirada de invocación, el ser invocado será agresivo al o la invocadora. Algunos podrían atacar directamente como los sirrush, pero otros como los rokhs o qatrams podrían parecer aliados y esperar al momento adecuado para atacar y jugársela.
+También hay posibilidades de que el aliado invocado no este muy contento con la invocación. Es por ello que la tirada de invocación debería ser hecha por Scheherazade, ya que, siempre que haya una pifia en la tirada de invocación, el ser invocado será agresivo al o la invocadora.
+
+Algunos podrían atacar directamente como los sirrush, pero otros como los rokhs o qatrams podrían parecer aliados y esperar al momento adecuado para atacar y jugársela.
 
 #### Aliados que pueden ser invocados
 
-Los aliados que pueden invocarse son monstruos de los Mitos, normalmente razas servidoras como las gentes del mar o los ghūles. Las razas independientes y poderosas como los qareens son más complejas de invocar. Según el rango del lanzador, podrá invocar los aliados de rango igual o inferior. Para poder invocar a un ser de los Mitos ha debido conocerse y haber sobrevivido a su visión, es decir, haber hecho una TPC y haberla pasado.
+Los aliados que pueden invocarse son monstruos de los Mitos, normalmente razas servidoras como las gentes del mar o los ghūles. Las razas independientes y poderosas como los qareens son más complejas de invocar.
 
-Los monstruos invocados generan una TPC igual a la del monstruo a todos los que lo vean, excepto el invocador que su TPC es menos dos niveles con un mínimo de d4. No se puede usar el modificador de Horror.
+Según el rango del lanzador, podrá invocar los aliados de rango igual o inferior. Para poder invocar a un ser de los Mitos ha debido conocerse y haber sobrevivido a su visión, es decir, haber hecho una TPC y haberla pasado.
 
 \sinc
 
@@ -174,6 +208,8 @@ Los monstruos invocados generan una TPC igual a la del monstruo a todos los que 
 
 \conc
 
+Los monstruos invocados generan una TPC igual a la del monstruo a todos los que lo vean, excepto el invocador que su TPC es menos dos niveles con un mínimo de d4. No se puede usar el modificador de Horror.
+
 ### Manipulación elemental
 
 La creación agua o fuego, mover tierra o hacer soplar fuego es un tipo de magia que pega muy bien en esta ambientación. Son pequeños prodigios mágicos que dan color a los cuentos.
@@ -182,7 +218,9 @@ La creación agua o fuego, mover tierra o hacer soplar fuego es un tipo de magia
 
 Al contrario que la mayoría de poderes, este poder es solo típicamente de los Mitos, pero junto a Marioneta queda muy bien para villanos, magos tenebrosos, visires malvados, etc.
 
-En el manual básico se dice que pruebas claras podrían hacer volver destellos del recuerdo manipulado (Tirada de Astucia -2). En esta ambientación basada en las 1001 Noches, los olores, los sabores, etc. tienen su importancia y el olor del perfume que usaba tu pareja olvidada o unos sensuales bailes que ejecutaba para ti pueden recordártela. Quizás un plato típico de una zona te haga recordar una ciudad de esa zona hecha desaparecer por los Al-mighos y que hicieron olvidar a todo el mundo.
+En el manual básico se dice que pruebas claras podrían hacer volver destellos del recuerdo manipulado (Tirada de Astucia -2).
+
+En esta ambientación basada en las 1001 Noches, los olores, los sabores, etc. tienen su importancia y el olor del perfume que usaba tu pareja olvidada o unos sensuales bailes que ejecutaba para ti pueden recordártela. Quizás un plato típico de una zona te haga recordar una ciudad de esa zona hecha desaparecer por los Al-mighos y que hicieron olvidar a todo el mundo.
 
 Aunque se use este poder para hacer olvidar hechos traumáticos, la psique está ya rota y no se puede recuperar puntos de Cordura.
 
@@ -192,33 +230,55 @@ Este poder es típicamente de los Mitos, junto a Manipulación de recuerdos qued
 
 ### Protección medioambiental
 
-Caminar sobre fuego, andar por el fondo marino o simplemente sobrevivir a los rigores del desierto son algo normal en los cuentos, pero los mitos son mucho más modernos y en ellos se hablan de conceptos más modernos como radiaciones, presión, vacío, etc. Considera que la protección medioambiental cubre todos los aspectos de un tipo de acción sin importar todos los riesgos. Por ejemplo, respirar debajo del agua te da agallas para respirar y resistencia contra la presión.
+Caminar sobre fuego, andar por el fondo marino o simplemente sobrevivir a los rigores del desierto son algo normal en los cuentos, pero los mitos son mucho más modernos y en ellos se hablan de conceptos más modernos como radiaciones, presión, vacío, etc.
+
+Considera que la protección medioambiental cubre todos los aspectos de un tipo de acción sin importar todos los riesgos. Por ejemplo, respirar debajo del agua te da agallas para respirar y resistencia contra la presión.
+
+\sp
 
 ### Proyectil
 
-Los proyectiles normalmente son de fuego. Hay ejemplos de proyectiles asociados a yinns que respiran fuego y pueden escupirlo, pero no aparecen rayos eléctricos o flechas de hielo. Deberías dejar el fuego para tus schahriars y el hielo, la electricidad, el veneno o el ácido para tus villanos y villanas. El fuego, entre las creencias religiosas de la zona como en el zoroastrismo, no tiene connotaciones diabólicas, sino más bien de elemento purificador y sagrado.
+Los proyectiles normalmente son de fuego. Hay ejemplos de proyectiles asociados a yinns que respiran fuego y pueden escupirlo, pero no aparecen rayos eléctricos o flechas de hielo. 
+
+Deberías dejar el fuego para tus schahriars y el hielo, la electricidad, el veneno o el ácido para tus villanos y villanas. 
+
+El fuego, entre las creencias religiosas de la zona como en el zoroastrismo, no tiene connotaciones diabólicas, sino más bien de elemento purificador y sagrado.
 
 ### Aumento/Reducción de atributo
 
 Este poder se ve muchas veces reflejado en las 1001 Noches en bebedizos que potencian las cualidades de tus schahriars.
 
-Como reductor de atributos y con un toque más lovecraftiano, este poder puede tener varias formas de aplicarse en tus partidas en forma de enfermedades con reminiscencias medievales como la lepra, la tuberculosis o la sarna que restan Fuerza, Vigor o Destreza. También puedes tener una vertiente de robar la juventud.
+Como reductor de atributos y con un toque más lovecraftiano, este poder puede tener varias formas de aplicarse en tus partidas en forma de enfermedades con reminiscencias medievales como la lepra, la tuberculosis o la sarna que restan Fuerza, Vigor o Destreza.
+
+También puedes tener una vertiente de robar la juventud.
 
 ### Sueño
 
-El sueño es algo común en las historias de las 1001 Noches desde sueños profundos en el que despiertas semanas, meses o incluso años después hasta sueños premonitorios en que tus schahriars pueden conseguir visiones del futuro, del pasado o consejos de seres queridos muertos. Todo esto coincide con las historias del autor de Providence, donde los sueños pueden ser auténticas pesadillas inducidas por primigenios acuáticos.
+El sueño es algo común en las historias de las 1001 Noches desde sueños profundos en el que despiertas semanas, meses o incluso años después hasta sueños premonitorios en que tus schahriars pueden conseguir visiones del futuro, del pasado o consejos de seres queridos muertos.
+
+Todo esto coincide con las historias del autor de Providence, donde los sueños pueden ser auténticas pesadillas inducidas por primigenios acuáticos.
 
 ### Vuelo
 
-Volar es un poder muy habitual en las historias de las 1001 Noches, tanto con objetos mágicos como con monturas aladas o pócimas místicas. Aunque la mayoría de las veces volar supone una forma de viajar muy rápido por todo el mundo, también hay veces en que los seres vuelan y combaten en el aire.
+Volar es un poder muy habitual en las historias de las 1001 Noches, tanto con objetos mágicos como con monturas aladas o pócimas místicas.Aunque la mayoría de las veces volar supone una forma de viajar muy rápido por todo el mundo, también hay veces en que los seres vuelan y combaten en el aire.
+
+\sp
 
 ### Zombi
 
-En las 1001 Noches no existen los zombis como los conocemos actualmente, pero tienen un monstruo muy parecido, los Nasnas. Un Nasnas es la mitad de un cuerpo humano, media cabeza, medio tronco, y solo un brazo y una pierna. Si bien no son cadáveres putrefactos, al verse las tripas y el cerebro tienen un aspecto de muerto viviente. También son lentos al tener que moverse a la pata coja con su única pierna. Sin embargo, pueden dar grandes saltos.
+En las 1001 Noches no existen los zombis como los conocemos actualmente, pero tienen un monstruo muy parecido, los Nasnas. 
+
+Un Nasnas es la mitad de un cuerpo humano, media cabeza, medio tronco, y solo un brazo y una pierna. Si bien no son cadáveres putrefactos, al verse las tripas y el cerebro tienen un aspecto de muerto viviente. También son lentos al tener que moverse a la pata coja con su única pierna. Sin embargo, pueden dar grandes saltos.
 
 Cuando uses este poder, usa la plantilla del Nasnas de esta ambientación y necesitarás cortar en dos partes un cadáver reciente completo.
 
+\sp
+
+\sinc
+
 ## Nuevos poderes de las 1001 Noches
+
+\conc
 
 En 1001 Ghūles hay nuevos poderes disponibles, aparte de los que puedas encontrar en el Manual Básico de SWEA.
 
@@ -246,6 +306,8 @@ El hechizo abre los elementos normales de una puerta, pero no afecta a elementos
 * **Distancia:** —
 * **Duración:** Hasta llegar al objetivo
 
+\sp
+
 Según el ornamento, aparecerá delante de la persona que use el poder una guía que marcará el camino hasta el lugar que se busca.
 
 Debemos conocer el nombre del lugar que buscar y debe haber una forma física de llegar a ella. Si buscamos un sitio en las tierras de Sueños sin saber como llegar a mundo onírico, el hechizo fallará.
@@ -265,6 +327,8 @@ Si nos alejamos demasiado de la guía, esta se disipa (a discreción de Schehera
 **Preciso (+2):** Nos permite establecer un lugar mucho más concreto.
 
 **Oculto (+1):** Solo la persona que lo lanzo ve la guía que marca el camino.
+
+\sp
 
 ### Caminar sobre las aguas
 
@@ -298,6 +362,8 @@ No se puede usar en combate más que como forma de huida. Durante el turno de su
 
 **Mayor carga (+2):** Se dobla la capacidad de carga de la montura. Si de normal sería una mula, en este caso podría ser un camello.
 
+\sp
+
 **Pasajero adicional (+2):** Esta modificación permite llevar a solo un pasajero adicional y como en el modificador anterior pasaríamos de invocar una mula a invocar monturas más grandes como camellos o caballos.
 
 ### Transmutación
@@ -316,7 +382,11 @@ A la hora de calcular la dificultad y los PP que debes gastar para lanzar una tr
 * **Rareza:**Las materias pueden ser más o menos raras, transformar algo común como la madera en algo común como piedra es más sencillo que convertir cantos rodados (comunes) en diamantes (extremadamente raro). Hay 4 niveles de rareza, común, poco común, raro o muy raro. Pasar de un nivel a otro supone un nivel de dificultad. Convertir cantos rodados (común) en esmeraldas (muy raro) serían 3 niveles de dificultad.
 * **Cantidad de materia a transmutar:** Cada metro cúbico de materia a transmutar supone 1 nivel, con un mínimo de 1. Un cuerpo humano sería medio metro cúbico, un gran portón de madera reforzada podría ser 3.
 
-La transmutación es muy complicada y hay muy pocas posibilidades de que salga bien. Hay demasiadas variables en juegos que han de ser modificadas y a la naturaleza no le gustan estos cambios y se resiste. Para que la transmutación se produzca debe pasarse una tirada de Saber de Suleimán contra una dificultad de 4 + nivel de dificultad de la transmutación. En el caso de seres vivos o seres mágicos se hace una tirada enfrentada contra Vigor del objetivo + nivel de dificultad.
+\sp
+
+La transmutación es muy complicada y hay muy pocas posibilidades de que salga bien. Hay demasiadas variables en juegos que han de ser modificadas y a la naturaleza no le gustan estos cambios y se resiste.
+
+Para que la transmutación se produzca debe pasarse una tirada de Saber de Suleimán contra una dificultad de 4 + nivel de dificultad de la transmutación. En el caso de seres vivos o seres mágicos se hace una tirada enfrentada contra Vigor del objetivo + nivel de dificultad.
 
 Según el nivel del lanzador, puede intentar transmutaciones más difíciles.
 
@@ -339,17 +409,21 @@ La transmutación no sirve para crear otra cosa que la propia transformación de
 
 #### Ejemplos de transmutación
 
+**Una jarra de agua en vino (1 nivel, 3 PP, dificultad 5):** Sería 0 niveles por convertir un líquido en un líquido + 0 niveles por el agua + 0 niveles por el vino + 1 por la cantidad + 0 por la rareza (algo común en algo común).
+
+\sp
+
 **Carne en piedra (5 niveles, 15 PP, dificultad Vigor + 5 del objetivo):** Sería 0 niveles por convertir un sólido en un sólido (aunque la sangre sea líquida se considera en conjunto un sólido) + 3 niveles por el cuerpo humano (carne, huesos, piel y sangre) + 0 niveles por la piedra. + 1 por la cantidad + 1 por la rareza, de algo no común a algo común.
 
 **Plomo en oro (3 niveles, 9 PP, dificultad 7):** Sería 0 niveles por convertir un sólido en un sólido + 0 niveles por el plomo + 0 niveles por el oro + 1 por la cantidad + 2 niveles por convertir algo no común en algo muy raro.
-
-**Una jarra de agua en vino (1 nivel, 3 PP, dificultad 5):** Sería 0 niveles por convertir un líquido en un líquido + 0 niveles por el agua + 0 niveles por el vino + 1 por la cantidad + 0 por la rareza (algo común en algo común).
 
 #### Modificadores
 
 **A medías:** Normalmente transformas todo el objeto, si solo quieres transformar una parte el coste de PP se multiplica por 1,5.
 
-### Modificadores de poder
+\sc
+
+### Nuevos modificadores de poder
 
 #### Horror (gasto de poder/2):
 
@@ -357,7 +431,13 @@ Esta modificación es genérica para la mayoría de poderes. Gastando la mitad d
 
 Recuerda que este es más un recurso más para que lo usen tus PNJ, especialmente los malos que realmente para tus schahriars y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
 
+\sp
+
+\sinc
+
 ## Hechizos (Ornamentos)
+
+\conc
 
 En esta sección te ofrecemos una serie de hechizos basados en los poderes anteriores que pueden ayudarte a dar color a tus partidas. Estos hechizos no son más ornamentos explicados, de forma que se adapten a los pilares de esta ambientación, las 1001 Noches y los Mitos de Cthulhu.
 
@@ -378,6 +458,8 @@ _Poder:_ Aura dañina
 > El yinn resoplo enfurecido expulsando vapores sulfurosos por su gran nariz, o lo que un siervo del único creador, diría que era una nariz, ya que aquel genio no se parecía nada a los cuentos que se contaban al anochecer en los fuegos de campamento. Los vapores apestosos fueron cubriéndole hasta que con chasquido de sus deformes dedos creo una chispa como si fueran de acero y pedernal y se prendieron cubriendo su larguirucho cuello de llamas sin humo.
 
 Frotando azufre con firmeza y rapidez en tu tripa se crea un fuego que te cubre todo el cuerpo. Tu respiración sale de tu cuerpo en forma de humos y vapores sulfúricos. Tu cuerpo emite vapores ardientes y llamas infernales.
+
+\sp
 
 ### Aceite de dan dan
 
@@ -695,21 +777,32 @@ _Poder:_ Invisibilidad
 
 La persona que lanza este hechizo debe, por lo menos, parcialmente ocultarse a la vista de sus objetivos, por ejemplo, tapándose con una capa, ocultándose detrás de una columna, etc.
 
+
+\sp
+
+\sinc
+
 [![Sascha Schneider - Der Chodem](./images/maldicion.jpg)](https://es.wikipedia.org/wiki/Sascha_Schneider#/media/Archivo:Sascha_Schneider_-_Der_Chodem.jpg "Sascha Schneider - Der Chodem") 
 
 ## Maldiciones
+
+\conc
 
 Las maldiciones son algo común en los relatos de las 1001 Noches y en los del escritor de Providence. Las hay desde muy clásicas como transformar a la víctima en animal o en piedra como o extrañas y bizarras como lepra, llagas supurantes, ceguera o hambre de carne o sangre humana.
 
 Las maldiciones son hechizos que se lanzan buscando hacer daño físico y emocional al objetivo y sus seres queridos y amistades cercanas. Pero lo que lo convierte en maldición es su carácter permanente y que haya algún tipo de acción, objeto, ritual o contra-hechizo que la rompa.
 
-No cualquier hechizo puede hacerse permanente y convertirse en maldición. Cómo hemos dicho, tiene que tener un componente maligno y dañino. Mejorar un atributo y hacerlo permanente no es una maldición, no tiene una intención maligna. Hacer que te conviertas en asno para que tu pareja te use para arar sus campos y te castigue dando fustazos sin saber que está castigando a su querida pareja.
+No cualquier hechizo puede hacerse permanente y convertirse en maldición. Cómo hemos dicho, tiene que tener un componente maligno y dañino.
+
+\sp
+
+Mejorar un atributo y hacerlo permanente no es una maldición, no tiene una intención maligna. Hacer que te conviertas en asno para que tu pareja te use para arar sus campos y te castigue dando fustazos sin saber que está castigando a su querida pareja.
+
+> Conviene recalcar que las maldiciones deberían ser hechizos que solo deberían tener le gente malvada de tus relatos que usarán para atormentar a tus schahriars. No es un conocimiento que deberían tener los propios schahriars para usarlos indiscriminadamente, como mucho deberían usarlo para quitar esa maldición o en casos de extrema necesidad.
 
 Las maldiciones son hechizos que deben ser aprendidos como el resto de hechizos, pero que tienen la característica que son permanentes hasta que se cumpla una condición o alguna persona que conozca la maldición decida quitarla.
 
 Las maldiciones son terribles hechizos que solo se pueden aprender de grimorios especiales, grimorios que estén malditos. Maldito es una característica que pueden tener algunos grimorios.
-
-> Conviene recalcar que las maldiciones deberían ser hechizos que solo deberían tener le gente malvada de tus relatos que usarán para atormentar a tus schahriars. No es un conocimiento que deberían tener los propios schahriars para usarlos indiscriminadamente, como mucho deberían usarlo para quitar esa maldición o en casos de extrema necesidad.
 
 ### Lanzar maldiciones
 
@@ -717,6 +810,9 @@ El lanzamiento de una maldición empieza con el lanzamiento del hechizo de un no
 
 * Las maldiciones solo pueden usarse contra comodines y no importa su tamaño, pero exige un PP por cada dos niveles superior. Podrías petrificar un Falak (tamaño 30)con un coste de 24 PP (10 + 14 del tamaño).
 * Un practicante de magia solo puede lanzar una vez una maldición a una víctima en concreto y no puede hacerse en un combate o en situaciones no estresantes como escapar de un incendio o escalar un acantilado. Normalmente se debería lanzar a objetivos indefensos derrotados, por ejemplo, meter en una botella a una poderosa hechicera serpigente tras derrotarla y lanzar el recipiente al mar.
+
+\sp
+
 * Para lanzar una maldición es necesario que las personas implicadas, el lanzador de la maldición y el maldecido, estén el mismo espacio, ya que se necesita una interacción física entre ellas. Por ejemplo, es muy normal en las maldiciones de transformaciones en animal que se lance agua al objetivo de la maldición.
 * Lanzar una maldición es una tirada enfrentada entre Saber de Suleimán y el atributo especificado en cada maldición.
 * Lanzar una maldición gasta tantos PP como marca cada maldición. Además, una maldición exitosa consume un PP del lanzador de forma permanente que no recupera hasta que la maldición sea revertida.
@@ -728,6 +824,8 @@ El lanzamiento de una maldición empieza con el lanzamiento del hechizo de un no
 Para deshacer una maldición hay dos opciones, cumplir la condición para romperla o lanzar una contra-maldición.
 
 Para lanzar una contra-maldición hay que lanzar la misma maldición con las mismas condiciones (PP, modificaciones, etc.) e igualar o superar la tirada que saco el maldecidor al lanzarla. Si se consigue la tirada, la maldición se rompe. Hay que tener en cuenta que no hay TPCs ni se consume un PP permanentemente.
+
+\sp
 
 La opción de deshacer una maldición cumpliendo una condición queda a discreción de Scheherazade y normalmente cumplir esa condición es una buena semilla de relato.
 
@@ -744,6 +842,8 @@ En este listado tendrás una mezcla de maldiciones de las 1001 Noches con un toq
 * **Resistencia:** VIG
 * **Puntos de poder:** 6
 
+\sc
+
 > Entonces el derviche se puso muy pálido y su rostro tomó un aire de dureza que no conocía yo en él, y me dijo: "Te vuelves ciego con tus propias manos". Y tomó un poco de pomada y me la aplicó alrededor del ojo derecho y en el párpado derecho. Y ya no vi más que tinieblas con mis dos ojos, y me convertí en el ciego que ves, ¡oh Emir de los Creyentes!
 > 
 > **Referencia:** Historia del ciego que se hacía abofetear en el puente (n. 876)
@@ -755,17 +855,29 @@ La víctima quedará completamente ciega hasta que se retire la maldición. Obte
 * **Resistencia:** ESP
 * **Puntos de poder:** 12
 
-> Al oírle, el efrit intentó salir, pero no pudo, y vio que estaba encarcelado y tenía encima el sello de Suleimán, convenciéndose entonces de que el pescador le había encerrado en un calabozo contra el cual no pueden prevalecer ni los más débiles ni los más fuertes de los efrits. Y comprendiendo que el pescador le llevaría hacia el mar, suplicó: «¡No me lleves! ¡no me lleves!» Y el pescador dijo: «No hay remedio». Entonces, dulcificando su lenguaje, exclamó el efrit: «¡Ah pescador! ¿Qué vas a hacer conmigo?» El otro dijo: «Echarte al mar, que si has estado en él mil ochocientos años, no saldrás esta vez hasta el día del Juicio. ¿No te rogué yo que me dejaras la vida para que Alah la conservase a ti y no me mataras para que Alah no te matase? Obrando infamemente, rechazaste mi plegaria. Por eso Alah te ha puesto en mis manos, y no me remuerde el haberte engañado». Entonces dijo el efrit: «Ábreme el jarrón y te colmaré de beneficios». El pescador respondió: «Mientes, ¡oh maldito! …
+Esta maldición es una forma permanente del hechizo Destierro. 
+
+\sp
+
+\sinc
+
+> Al oírle, el efrit intentó salir, pero no pudo, y vio que estaba encarcelado y tenía encima el sello de Suleimán, convenciéndose entonces de que el pescador le había encerrado en un calabozo contra el cual no pueden prevalecer ni los más débiles ni los más fuertes de los efrits. Y comprendiendo que el pescador le llevaría hacia el mar, suplicó: «¡No me lleves! ¡No me lleves!» Y el pescador dijo: «No hay remedio». Entonces, dulcificando su lenguaje, exclamó el efrit: «¡Ah pescador! ¿Qué vas a hacer conmigo?» El otro dijo: «Echarte al mar, que si has estado en él mil ochocientos años, no saldrás esta vez hasta el día del Juicio. ¿No te rogué yo que me dejaras la vida para que Alah la conservase a ti y no me mataras para que Alah no te matase? Obrando infamemente, rechazaste mi plegaria. Por eso Alah te ha puesto en mis manos, y no me remuerde el haberte engañado». Entonces dijo el efrit: «Ábreme el jarrón y te colmaré de beneficios». El pescador respondió: «Mientes, ¡oh maldito! …
 > 
 > **Referencia:** Historia del pescador y el efrit (n. 4)
 
-Esta maldición es una forma permanente del hechizo Destierro. La víctima se convierte en humo que se mete en la botella y queda encerrado en una especie de dimensión de bolsillo que simula algún tipo de ambiente o sala con cojines, camas, etc.
+&nbsp;
+
+\conc
+
+La víctima se convierte en humo que se mete en la botella y queda encerrado en una especie de dimensión de bolsillo que simula algún tipo de ambiente o sala con cojines, camas, etc.
 
 Mientras la víctima esté encerrada, no necesita, ni comer, ni beber, ni respirar y es inmune a la edad, enfermedades, etc. Pero no puede interactuar con la realidad de ninguna manera es como si no existiera.
 
 La condición normalmente es tan sencilla como quitar el tapón de la botella, lo difícil es encontrar la botella porque está en el fondo del mar o en algún lugar mágico y perdido lleno de trampas.
 
 Algún schahriar inteligente podría meter a una persona con una enfermedad terminal en una botella esperando encontrar un remedio y sacarla cuando pueda curarla. Como Scheherazade está en tu mano permitirlo o no.
+
+\sp
 
 #### Enfermedad
 
@@ -858,6 +970,10 @@ La trasformación sigue las reglas del poder "Cambio de forma" y puede elegir si
 
 Las condiciones pueden ser variadas según el animal, por ejemplo, un animal de granja puede quitarse la maldición si rastrilla las tierras del emir en un día o si consigue que crezca hierba en el desierto y aves podría darles algún fruto mágico o bañarse en aguas de algún lago o cascada mágica.
 
+\sp
+
+\sinc
+
 [![Portal Room by Brandon-Ellis](./images/biblioteca-mago.jpg)](https://www.deviantart.com/brandon-ellis/art/Portal-Room-808922864 "Portal Room by Brandon-Ellis") 
 
 ## Grimorios y libros de hechizos
@@ -866,21 +982,31 @@ Las condiciones pueden ser variadas según el animal, por ejemplo, un animal de 
 > 
 > **Referencia:** Historia maravillosa del espejo de las vírgenes (n. 723)
 
+\conc
+
+\sp
+
 El libro de hechizos o grimorio mágico es un elemento fundamental que necesita toda aquella persona que practique la magia. Su estudio permite aprender nuevos hechizos y mejorar tus capacidades mágicas, aumentando tu control sobre las energías mágicas y el poder de tus hechizos y maldiciones.
 
-[![Un Libro Leer Literatura por garten-gg](./images/grimorio.png)](https://pixabay.com/es/photos/un-libro-leer-literatura-viejo-1740515/ "Un Libro Leer Literatura por garten-gg") 
+[![Silueta Un Libro Leer Literatura por garten-gg](./images/grimorio.png)](https://pixabay.com/es/photos/un-libro-leer-literatura-viejo-1740515/ "Un Libro Leer Literatura por garten-gg") 
 
 El grimorio es algo muy importante para su propietario. Nunca viajas sin él, nunca lo prestas, lo mantienes cuidado y protegido y lo tienes siempre a buen recaudo. Sin tener acceso a un grimorio, la única forma de acceder a poderes mágicos y mejorarlos es a través de una mentora o un mentor, pero será él el que paute qué hechizos aprendes o qué aspectos de tu magia mejoras y no podrá enseñarte algo que no sepas.
 
 Los grimorios normalmente no se venden, no de manos de una persona con poderes mágicos. Son demasiado preciados para ellas. Podrías comprarlo a algún buhonero o a alguien que los ha recibido en una herencia y desconoce su valor real.
 
-Todos los grimorios tiene un nivel de poder que representa el conocimiento que se puede aprender, el número de hechizos que se pueden aprender de él y la cantidad de poder mágico (PP) que se puede conseguir siguiendo sus enseñanzas. Un libro de magia con un nivel de poder 4 permite gastar 4 avances en ventajas mágicas como Puntos de poder o Nuevos poderes. Adquirir otras ventajas de tipo mágico quedan a descripción de Scheherazade si gastan o no niveles de poder. También podemos gastar niveles de poder en subir nuestra habilidad de Saber de Suleimán.
+Todos los grimorios tiene un nivel de poder que representa el conocimiento que se puede aprender, el número de hechizos que se pueden aprender de él y la cantidad de poder mágico (PP) que se puede conseguir siguiendo sus enseñanzas.
+
+Un libro de magia con un nivel de poder 4 permite gastar 4 avances en ventajas mágicas como Puntos de poder o Nuevos poderes. Adquirir otras ventajas de tipo mágico quedan a descripción de Scheherazade si gastan o no niveles de poder. También podemos gastar niveles de poder en subir nuestra habilidad de Saber de Suleimán.
 
 Además de nivel de poder, todos los libros de magia tienen un idioma que se debe dominar mínimamente (d6 o más) para poder leerlo.
 
+\sp
+
 ### Leer un grimorio
 
-Leer un libro de hechizos exige mínimo de una semana ininterrumpida dedicándole por lo menos 8 horas diarias. Es decir, que puedes dormir 8 horas, estudiar 8 horas y dedicarte a tus quehaceres durante 8 horas. Por ejemplo, podrías estudiar mientras viajas de pasajero en un barco, pero no si trabajas de aguador en el zoco. 8 h dormir + 8 h de trabajar + 4 horas de comer, hacer recados, etc. no deja tiempo a estudiar.
+Leer un libro de hechizos exige mínimo de una semana ininterrumpida dedicándole por lo menos 8 horas diarias. Es decir, que puedes dormir 8 horas, estudiar 8 horas y dedicarte a tus quehaceres durante 8 horas.
+
+Por ejemplo, podrías estudiar mientras viajas de pasajero en un barco, pero no si trabajas de aguador en el zoco. 8 h dormir + 8 h de trabajar + 4 horas de comer, hacer recados, etc. no deja tiempo a estudiar.
 
 Se puede dedicar 4 horas diarias, pero entonces tendrá que ser 2 semanas sin interrupción. Si se interrumpe el estudio se exigen el doble de semanas de las normales.
 
@@ -890,7 +1016,11 @@ Leer un manuscrito mágico exige una tirada de TPC igual al NP que le queda para
 
 Aunque no es muy normal, puedes compartir tu grimorio con más practicantes de magia. El trato al que se llegue a la hora de compartir o intercambiar grimorios es cosa tuya. La cuestión es que al compartir solo una persona podrá usarlo para mejorar sus habilidades durante el avance actual.
 
-Los libros, si te dan acceso, pueden copiarse. Su magia no está en el libro en sí, sino en el conocimiento que encierran sus palabras, así que una buena copia es tiene tanto poder como el original. Si la copia es mala o se hace rápidamente, podrías quitarle niveles de poder. Es un proceso tan largo que debería hacerse entre partidas y, como siempre, exige conocer el idioma del libro para poder copiarlo.
+Los libros, si te dan acceso, pueden copiarse. Su magia no está en el libro en sí, sino en el conocimiento que encierran sus palabras, así que una buena copia es tiene tanto poder como el original.
+
+Si la copia es mala o se hace rápidamente, podrías quitarle niveles de poder. Es un proceso tan largo que debería hacerse entre partidas y, como siempre, exige conocer el idioma del libro para poder copiarlo.
+
+\sp
 
 ### Vender y comprar grimorios
 
@@ -912,7 +1042,11 @@ Hay cosas que pueden modificar el nivel de poder del grimorio:
 
 ### Listado de libros y grimorios malditos
 
-Crear un grimorio mágico es bastante fácil, solo necesitas, un título atractivo, una descripción interesante, un nivel de poder y el idioma en que fue escrito. Es interesante que le metas alguna regla que lo haga especial, como que puede encontrarse en varios tomos o que solo puede ofrecer hechizos con ornamentos de fuego.
+Crear un grimorio mágico es bastante fácil, solo necesitas, un título atractivo, una descripción interesante, un nivel de poder y el idioma en que fue escrito.
+
+\sp
+
+Es interesante que le metas alguna regla que lo haga especial, como que puede encontrarse en varios tomos o que solo puede ofrecer hechizos con ornamentos de fuego.
 
 Te ofrecemos un listado con grimorios mágicos reales o inventados tanto de las 1001 Noches como de los Mitos de Cthulhu que cuadren en la época de esta ambientación.
 
@@ -938,7 +1072,11 @@ Es un libro oracular chino cuyos primeros textos se suponen escritos hacia el 12
 
 **Idioma:** Latín
 
-El libro describe la vida de Eibon, un hechicero y nigromante hiperbóreo, así como varios hechizos, conjuros e invocaciones. El libro original está escrito en el lenguaje hiperbóreo pictográfico conocido como tsath-yo. Pero se han hecho traducciones al latín y griego jónico.
+El libro describe la vida de Eibon, un hechicero y nigromante hiperbóreo, así como varios hechizos, conjuros e invocaciones.
+
+\sp
+
+El libro original está escrito en el lenguaje hiperbóreo pictográfico conocido como tsath-yo. Pero se han hecho traducciones al latín y griego jónico.
 
 #### Pnakotica - Manuscritos Pnakóticos (NP 10)
 
@@ -950,11 +1088,11 @@ Contiene mucha información acerca de estos yinns, así como de otras muchas mat
 
 #### Séfer HaRazim - El libro de los secretos (NP 8)
 
-[![Sefer HaRazim (page 3 crop)](./images/sefer-harazim.jpg)](https://es.wikipedia.org/wiki/S%C3%A9fer_HaRazim#/media/Archivo:Sefer_HaRazim_(page_3_crop).jpg "Sefer HaRazim (page 3 crop)") 
-
 **Idioma:** Hebreo
 
 El libro de los secretos es un texto mágico presuntamente entregado a Noé por el ángel Raziel, y transmitido a lo largo de la historia bíblica a al gran Rey Suleimán, para quien fue una gran fuente de su sabiduría, y supuestos poderes mágicos.
+
+[![Sefer HaRazim (page 3 crop)](./images/sefer-harazim.jpg)](https://es.wikipedia.org/wiki/S%C3%A9fer_HaRazim#/media/Archivo:Sefer_HaRazim_(page_3_crop).jpg "Sefer HaRazim (page 3 crop)") 
 
 El libro está dividido en siete secciones más un prefacio. Cada una de las secciones corresponde a un cielo, y contiene una lista de ángeles, e instrucciones para realizar uno o más ritos mágicos.
 
@@ -966,9 +1104,25 @@ Puede encontrarse en un único tomo con NP 8 o en tomos separados con NP 1 por s
 
 Kitab an-nawamis es la traducción al árabe, atribuida a [Hunayn ibn Ishaq](#anchorhunayn-ibn-ishaq) de un texto helenístico que habría escrito Platón, el Liber Aneguemis.
 
+\sp
+
 Este libro se divide en dos partes: el libro mayor y el libro menor. El libro mayor trata de recetas para adquirir poderes (invisibilidad, adivinación, dominio de los fenómenos naturales, transformación, entre otros) y para la creación artificial de entidades vivientes híbridas, todo a partir de sustancias que incluyen preparados minerales, fluidos orgánicos (como el esperma y la sangre) y restos corporales de hombres y animales, empleándose, además, envases de vidrio y de metal dentro de un laboratorio mágico.
 
 El libro menor, por su parte, trata sobre el asunto de las ilusiones ópticas y la creación de artefactos para lograrlo.
+
+#### Séfer Raziel HaMalaj - El Libro del Arcángel Raziel (NP 10)
+
+**Idioma:** Hebreo, árabe
+
+Está escrita por el Patriarca Adán, al dictado del arcángel Raziel, de ahí su nombre. Esto lo haría la obra más antigua de la Humanidad, que no de la Tierra, ya que tenemos libros más antiguos escritos por yinns anteriores a los hombres.
+
+[![Sample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism.](./images/sefer-raziel-segulot.png)](https://es.wikipedia.org/wiki/S%C3%A9fer_Raziel_HaMalaj#/media/Archivo:Sefer_raziel_segulot.png "Sample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism.") 
+
+El libro contiene las enseñanzas del arcángel Raziel a Adán y a Abraham explicando las leyes de la Creación. Se divide en cinco libros que tratan sobre la angelología, los Nombres divinos, la gematría, la astronomía y la construcción.
+
+Puede encontrarse en un único tomo con NP 10 o en tomos separados con NP 2 por cada libro (angelología, nombres, geometría, …).
+
+\sp
 
 #### Historia de las Aventuras de Hassan Al-Bassri (NP 4)
 
@@ -982,18 +1136,6 @@ Hassan Al-Bassri o Hassan de Basora fue un antiguo predicador, asceta, teólogo,
 
 Dentro de los grimorios mágicos puede ser el más popular y fácil de encontrar.
 
-#### Séfer Raziel HaMalaj - El Libro del Arcángel Raziel (NP 10)
-
-[![Sample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism.](./images/sefer-raziel-segulot.png)](https://es.wikipedia.org/wiki/S%C3%A9fer_Raziel_HaMalaj#/media/Archivo:Sefer_raziel_segulot.png "Sample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism.") 
-
-**Idioma:** Hebreo, árabe
-
-Está escrita por el Patriarca Adán, al dictado del arcángel Raziel, de ahí su nombre. Esto lo haría la obra más antigua de la Humanidad, que no de la Tierra, ya que tenemos libros más antiguos escritos por yinns anteriores a los hombres.
-
-El libro contiene las enseñanzas del arcángel Raziel a Adán y a Abraham explicando las leyes de la Creación. Se divide en cinco libros que tratan sobre la angelología, los Nombres divinos, la gematría, la astronomía y la construcción.
-
-Puede encontrarse en un único tomo con NP 10 o en tomos separados con NP 2 por cada libro (angelología, nombres, geometría, …).
-
 #### El Libro de Dzyan (NP 10, Maldito)
 
 **Idioma:** Chino
@@ -1004,10 +1146,18 @@ Este libro, totalmente hereje para casi todas las fes, trata, entre otras cosas,
 
 Solo el visir Giafar posee una copia de este libro en su idioma original, el senzar, una de las lenguas habladas en la Atlántida.
 
+\sp
+
+\sinc
+
 [![John William Waterhouse - Consulting the Oracle](./images/oraculo.jpg)](https://es.wikipedia.org/wiki/Consultando_al_or%C3%A1culo#/media/Archivo:John_William_Waterhouse_-_Consulting_the_Oracle_-_Tate_Britain.jpg "John William Waterhouse - Consulting the Oracle") 
+
+\conc
 
 ### Enseñar magia
 
-Alternativamente a la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan conocimientos mágicos. Pero mientras el conocimiento que aporta un grimorio es muy extenso, el del mentor o mentora está más limitado. Solo podemos aprender los poderes que esa persona sepa y solo podemos comprar las ventajas que conozca. Si tiene cogida la ventaja Puntos de poder 2 veces, solo podremos aprender de esa persona 2 veces Puntos de poder. Tampoco podremos aprender hechizos desconocidos para esa persona.
+Alternativamente a la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan conocimientos mágicos. Pero mientras el conocimiento que aporta un grimorio es muy extenso, el del mentor o mentora está más limitado.
+
+Solo podemos aprender los poderes que esa persona sepa y solo podemos comprar las ventajas que conozca. Si tiene cogida la ventaja Puntos de poder 2 veces, solo podremos aprender de esa persona 2 veces Puntos de poder. Tampoco podremos aprender hechizos desconocidos para esa persona.
 
 Aprender de un maestro exige el mismo tiempo que leer el libro, pero en este caso maestre y aprendiz tendrán que poder destinar ese tiempo a enseñar y aprender secretos mágicos.
