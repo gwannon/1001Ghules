@@ -381,8 +381,8 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
 
   section:nth-of-type(6) .saltopagina:before,
   section:nth-of-type(6) .saltopagina.even:before {
-    height: 42vh;
-    bottom: calc(58vh + 2px);
+    height: 56vh;
+    bottom: calc(44vh + 2px);
     content: "R \A e \A g \A l \A a \A s \A \A d \A e \A \A a \A m \A b \A i \A e \A n \A t \A a \A c \A i \A ó \A n ";
     white-space: pre;
     background-color: var(--color-gold);
@@ -390,35 +390,35 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
 
   section:nth-of-type(7) .saltopagina:before,
   section:nth-of-type(7) .saltopagina.even:before {
-    height: 52vh;
-    bottom: calc(48vh + 2px);
+    height: 30vh;
+    bottom: calc(70vh + 2px);
     content: "M \A a \A g \A i \A a \A \A S \A i \A h \A r ";
     white-space: pre;
-    background-color: var(--color-green-cthulhu);
+    background-color: var(--color-sand);
   }
 
   section:nth-of-type(8) .saltopagina:before,
   section:nth-of-type(8) .saltopagina.even:before {
-    height: 62vh;
-    bottom: calc(38vh + 2px);
-    content: "S \A e \A r \A e \A s \A \A y \A \A m \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A a \A s \A \A t \A e \A n \A e \A b \A r \A o \A s \A a \A s \A \A 1 \A 0 \A 0 \A 1 \A \A N \A o \A c \A h \A e \A s ";
+    height: 94vh;
+    bottom: calc(6vh + 2px);
+    content: "M \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A a \A s \A \A t \A e \A n \A e \A b \A r \A o \A s \A a \A s \A \A 1 \A 0 \A 0 \A 1 \A \A N \A o \A c \A h \A e \A s ";
     white-space: pre;
     background-color: var(--color-green-deepone);
   }
 
   section:nth-of-type(9) .saltopagina:before,
   section:nth-of-type(9) .saltopagina.even:before {
-    height: 75vh;
-    bottom: calc(25vh + 2px);
-    content: "L \A u \A \A g \A a \A r \A e \A s \A \A m \A í \A t \A i \A c \A o \A s ";
+    height: 41vh;
+    bottom: calc(59vh + 2px);
+    content: "L \A u \A g \A a \A r \A e \A s \A \A m \A í \A t \A i \A c \A o \A s ";
     white-space: pre;
-    background-color: var(--color-green-deepone);
+    background-color: var(--color-old-gold);
   }
 
   section:nth-of-type(10) .saltopagina:before,
   section:nth-of-type(10) .saltopagina.even:before {
-    height: 75vh;
-    bottom: calc(25vh + 2px);
+    height: 39vh;
+    bottom: calc(61vh + 2px);
     content: "G \A u \A í \A a \A \A d \A e \A \A v \A i \A a \A j \A e \A s ";
     white-space: pre;
     background-color: var(--color-green-deepone);
@@ -444,8 +444,8 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
 
   section:nth-of-type(13) .saltopagina:before,
   section:nth-of-type(13) .saltopagina.even:before {
-    height: 43vh;
-    bottom: calc(57vh + 2px);
+    height: 23vh;
+    bottom: calc(77vh + 2px);
     content: "T \A e \A s \A o \A r \A o \A s ";
     white-space: pre;
     background-color: var(--color-green-deepone);
@@ -453,8 +453,8 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
 
   section:nth-of-type(14) .saltopagina:before,
   section:nth-of-type(14) .saltopagina.even:before {
-    height: 43vh;
-    bottom: calc(57vh + 2px);
+    height: 65vh;
+    bottom: calc(35vh + 2px);
     content: "G \A e \A n \A t \A e \A s \A \A d \A e \A \A l \A a \A \A A \A r \A a \A b \A i \A a \A \A m \A í \A t \A i \A c \A a ";
     white-space: pre;
     background-color: var(--color-green-deepone);
@@ -471,8 +471,8 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
 
   section:nth-of-type(16) .saltopagina:before,
   section:nth-of-type(16) .saltopagina.even:before {
-    height: 43vh;
-    bottom: calc(57vh + 2px);
+    height: 23vh;
+    bottom: calc(77vh + 2px);
     content: "E \A p \A í \A l \A o \A g \A o ";
     white-space: pre;
     background-color: var(--color-green-deepone);
@@ -548,7 +548,7 @@ section h1 + .saltopagina:after {
 
 .likeH1 span,
 .likeH2 span {
-  display: none;
+  /*display: none;*/
   float: right;
   margin-right: 5px;
 }

@@ -616,7 +616,9 @@ La Mano Dorada de Suc’Naath es un culto muy pequeño, pero muy poderoso, solo 
 
 #### Lugares de culto y refugios
 
-Actualmente, no tiene ningún lugar de culto fijo. Toda la secta está muy activa desde que se predijo la llegada del cometa Aiin y no tienen tiempo para rituales. Todos andan buscado la estatua que guarda la tercera parte de la esencia Suc’Naath. Antes de estos hechos tampoco eran de mucha ceremonia y rito, quedaban en khans perdidos en la nada para hacer sus extraños ritos de baile lejos de miradas indiscretas.
+Actualmente, no tiene ningún lugar de culto fijo. 
+
+Toda la secta está muy activa desde que se predijo la llegada del cometa Aiin y no tienen tiempo para rituales. Todos andan buscado la estatua que guarda la tercera parte de la esencia Suc’Naath. Antes de estos hechos tampoco eran de mucha ceremonia y rito, quedaban en khans perdidos en la nada para hacer sus extraños ritos de baile lejos de miradas indiscretas.
 
 Tampoco han tenido nunca la necesidad de tener refugios, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas.
 

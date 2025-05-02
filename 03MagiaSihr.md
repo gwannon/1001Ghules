@@ -8,11 +8,19 @@ La mezcla de los estilos da un tipo de magia muy curioso y que puede ser muy div
 
 Otra cosa que comparten ambas posturas mágicas es que el estudio de grimorios malditos y libros de hechizos prohibidos es necesario para avanzar en tus poderes mágicos. Un schahriar sin acceso a su biblioteca no puede aumentar y/o mejorar sus capacidades taumatúrgicas.
 
-[![Hambre de John Charles Dollman](./images/mago-desierto.jpg)](https://en.wikipedia.org/wiki/John_Charles_Dollman "Hambre de John Charles Dollman") 
-
 Ambas magias también están basadas en rituales, fórmulas mágicas y componentes extraños y raros. No es algo innato de las personas con dones mágicos, se ha de preparar y a veces con mucho tiempo de dedicación.
 
+\sp
+
+\sinc
+
+[![Hambre de John Charles Dollman](./images/mago-desierto.jpg)](https://en.wikipedia.org/wiki/John_Charles_Dollman "Hambre de John Charles Dollman") 
+
+&nbsp;
+
 ## Los secretos del Sihr
+
+\conc
 
 Ya hemos comentado que la Afinidad mágica, que solo pueden tener los comodines, permite hacer uso de objetos mágicos, pero para poder hacer prodigios mágicos debemos tener la ventaja Trasfondo arcano (Sihr), explicada anteriormente.
 
@@ -20,7 +28,11 @@ El Sihr o magia funciona como se describe en el manual básico, pero con alguna 
 
 ### Recuperación de PP
 
-Todo personaje dispone de tantos puntos de poder diarios como su nivel de Espíritu que recupera tras una noche de descanso (8 horas de descanso sin interrupciones importantes). Descanso no implica estar dormido, puede ser disfrutar de estar a la sombra en un exótico oasis o disfrutando y bebiendo con tus amistades en un khan. En general, acciones que no impliquen avanzar la trama son descanso.
+Todo personaje dispone de tantos puntos de poder diarios como su nivel de Espíritu que recupera tras una noche de descanso (8 horas de descanso sin interrupciones importantes).
+
+Descanso no implica estar dormido, puede ser disfrutar de estar a la sombra en un exótico oasis o disfrutando y bebiendo con tus amistades en un khan. En general, acciones que no impliquen avanzar la trama son descanso.
+
+\sp
 
 Un combate o curar a tus aliados son interrupciones graves, levantarte de tu alcoba para llenar el orinal no.
 
@@ -52,6 +64,8 @@ La ventaja de Nuevos poderes solo podrá adquirirse tras leer un libro de hechiz
 
 Adquirir esta ventaja supone también el estudio de un libro de hechizo.
 
+\sp
+
 ### Recuperación rápida
 
 Recuperación rápida supondrá que necesitará la mitad de tiempo de descanso para recuperar todos sus puntos de poder. Como ejemplo:
@@ -66,7 +80,13 @@ Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, func
 * Los puntos de poder se basan en Espíritu. Si una ventaja da o quita puntos de poder no será un valor fijo, sino basado en el nivel de Espíritu del personaje.
 * La adquisición de ventajas que den (como Nuevos poderes) o mejoren poderes debe estar asociadas al estudio de grimorios malditos y al gasto de su nivel de poder.
 
+\sp
+
+\sinc
+
 ## Poderes
+
+\conc
 
 [![Edmund Dulac](./images/magia.jpg)](https://en.wikisource.org/wiki/Sindbad_the_sailor_and_other_stories_from_the_Arabian_nights/The_Story_of_the_Three_Calenders#/media/File:Sindbad_the_sailor_&_other_stories_from_the_Arabian_nights_-_Dulac_color_plate_facing_page_168.jpg "Edmund Dulac") 
 
@@ -138,6 +158,8 @@ Los aliados que pueden invocarse son monstruos de los Mitos, normalmente razas s
 
 Los monstruos invocados generan una TPC igual a la del monstruo a todos los que lo vean, excepto el invocador que su TPC es menos dos niveles con un mínimo de d4. No se puede usar el modificador de Horror.
 
+\sinc
+
 ##### Tabla de Aliados que pueden ser invocados
 
 |Coste PP|Rango del lanzador|Monstruo|
@@ -149,6 +171,8 @@ Los monstruos invocados generan una TPC igual a la del monstruo a todos los que 
 |15|Legendario|Qatrams, ave de Rokh|
 
 &ast; Recuerda que debes ser experimentado para poder lanzar hechizos, con lo que siendo novato/a no puedes lanzar este hechizo.
+
+\conc
 
 ### Manipulación elemental
 

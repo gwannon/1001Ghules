@@ -75,10 +75,10 @@ foreach(explode("\n", removeHtmlComments($doc->savehtml($body))) as $line) {
 
 $metas .= bookMark("Portada", 1, 1);
 $json[] = ["title" => "Portada","page" => 1];
-$metas .= bookMark("Licencia de uso", 1, 3);
-$json[] = ["title" => "Licencia de uso","page" => 3];
-$metas .= bookMark("Índice", 1, 4);
-$json[] = ["title" => "Índice","page" => 4];
+$metas .= bookMark("Licencia de uso", 1, 4);
+$json[] = ["title" => "Licencia de uso","page" => 4];
+$metas .= bookMark("Índice", 1, 5);
+$json[] = ["title" => "Índice","page" => 5];
 
 $counter = 1;
 foreach($lines as $line) {
