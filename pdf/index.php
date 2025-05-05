@@ -26,7 +26,6 @@ else {
  $ip = $_SERVER['REMOTE_ADDR'];
 }
 
-
 $json = json_decode(file_get_contents("http://ip-api.com/json/".$ip));
 
 //echo date("Y-m-d H:i:s")."|".$ip."|".$_SERVER['HTTP_USER_AGENT'];

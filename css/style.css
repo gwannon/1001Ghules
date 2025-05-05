@@ -75,18 +75,10 @@ section > a {
   margin: 0 var(--padding) ;
 }
 
-
-
-
-
-
-
-
-
 blockquote {
   border : 3px dashed var(--color-gold);
   background: var(--color-old-gold);
-  padding: 15px;
+  padding: 15px !important;
   margin-bottom: calc(var(--padding) / 2);
   margin: 0px;
 }
@@ -106,7 +98,6 @@ blockquote:has(p.semilla) {
   --color-emerald: #bbbbbb;
   padding: 15px;
   background-color:var(--color-emerald);
-
 }
 
 blockquote p {
@@ -197,18 +188,6 @@ ul li:before {
   display: block;
   color: var(--color-red);
 } 
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* --------------- Titles ------------------ */
 
@@ -481,7 +460,6 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
   }
 }
 
-
 /* ------------- Paginación -------------------- */
 @counter-style style {
   system: numeric;
@@ -598,7 +576,6 @@ table tbody tr>* {
 table tbody tr:nth-child(odd) {
   background-color: var(--color-gold);
 }
-
 
 /* Imágenes de títulos */
 
@@ -810,10 +787,10 @@ section:last-of-type > p > img {
   display: none;
 }
 
-
 /* Letras capitulares */
 
-h2 + div.columns > p:first-of-type:first-letter {
+h2 + div.columns > p:first-of-type:first-letter,
+h2 + blockquote + p + div.columns > p:first-of-type:first-letter {
   --pattern-size: 25px;
   --color-gold: #9a8a3a;
   background:var(--color-gold) url(../images/bg-letter.jpg) center center repeat;

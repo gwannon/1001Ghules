@@ -44,7 +44,6 @@ Tras decidir como gastar su botín podrán tirar en la Tabla de Riquezas o en la
 |11|Joyas de oro con piedras preciosas|1d10 x 200|
 |12|Piedras preciosas de gran valor|1d10 x 500|
 
-
 Dentro de los objetos especiales podemos tener armas, cuerpo a cuerpo o a distancia, armaduras, objetos mundanos curiosos y objetos mágicos.
 
 &nbsp;
@@ -512,13 +511,11 @@ El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llev
 
 \conc
 
-
 En el mismo estilo de la estatua del guerrero a caballo que corona la cúpula verde del palacio de las Maravillas de Bagdad, esta monstruosa figura de oro de unos 60 cm de altura hace que las milicias atacantes de la puerta donde se halle, caigan muertas de miedo y huyan despavoridas.
 
 De hecho, ningún miembro del ejército querrá acercarse a la ciudad, ya que de hacerlo empezará a recordar el terrible sonido de su aberrante flauta.
 
 La figura de este flautista amorfo no tiene ningún tipo de bisagra, ni articulación, ni engranaje. Cuando se mueve el metal y las gemas del que está hecho se animan como si fueran carne.
-
 
 Una tirada de Saber de Suleimán, dejará claro que la figura representa a un flautista amorfo, parte de la Corte del Gran Azathoth, que toca su flauta para tranquilizar y apaciguar a su señor.
 

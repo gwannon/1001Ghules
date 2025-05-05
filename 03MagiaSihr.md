@@ -58,7 +58,6 @@ Que para ti tenga NP 0 no quiere decir que otras personas no puedan aprender mag
 
 Veamos como afectan las ventajas mágicas normales a este trasfondo arcano.
 
-
 ### Puntos de poder
 
 La ventaja Puntos de poder otorga tantos puntos de poder nuevos como el Espíritu del personaje. Si aumenta el Espíritu (temporal o permanentemente) aumentan los puntos de poder.
@@ -780,7 +779,6 @@ _Poder:_ Invisibilidad
 > Los extraños que habitan aquellas ruinas reptaban hacia ella, dejando surcos en la arena que el desierto, el viento y el tiempo habían acumulado dentro de la sala. Nahid sacó su capa y la lanzó delante suyo y cuando esta cayó al suelo había desaparecido para asombro de los reptadores.
 
 La persona que lanza este hechizo debe, por lo menos, parcialmente ocultarse a la vista de sus objetivos, por ejemplo, tapándose con una capa, ocultándose detrás de una columna, etc.
-
 
 \sp
 

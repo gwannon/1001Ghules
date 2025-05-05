@@ -88,7 +88,6 @@ $bots['bots'] = [
 $bots['ips'] = [
   "127.0.0.1",
 
-
   "54.39.104.161", //OVH SAS
   "51.222.42.127", //OVH SAS
   "54.39.103.203", //OVH SAS
@@ -151,7 +150,6 @@ $bots['ips'] = [
   "192.210.184.249", //HostPapa
   "198.23.221.50", //HostPapa
 
-  
   "116.202.35.85", //Hetzner Online GmbH
   "116.202.33.240", //Hetzner Online GmbH
   "116.202.33.233", //Hetzner Online GmbH
@@ -186,7 +184,6 @@ $bots['ips'] = [
   "5.161.48.222", //Hetzner Online GmbH
   "5.9.50.77", //Hetzner Online GmbH
 
-
   "52.17.217.34", //Amazon
   "34.254.253.69", //Amazon
   "63.32.55.216", //Amazon
@@ -194,54 +191,51 @@ $bots['ips'] = [
   "34.241.80.146", //Amazon
   "3.254.66.73", //Amazon
   "34.248.143.69", //Amazon
-  "3.234.218.179", //AWS
-  "44.200.47.118", //AWS
-  "35.86.85.67", //AWS
-  "34.220.255.255", //AWS
-  "54.206.127.151", //AWS
-  "15.237.94.92", //AWS
-  "54.156.251.192", //AWS
-  "3.95.179.243", //AWS
-  "18.234.170.112", //AWS
-"54.71.187.124", //Amazon
-"52.34.76.65", //Amazon
-"52.11.171.106", //Amazon
+  "3.234.218.179", //Amazon
+  "44.200.47.118", //Amazon
+  "35.86.85.67", //Amazon
+  "34.220.255.255", //Amazon
+  "54.206.127.151", //Amazon
+  "15.237.94.92", //Amazon
+  "54.156.251.192", //Amazon
+  "3.95.179.243", //Amazon
+  "18.234.170.112", //Amazon
+  "54.71.187.124", //Amazon
+  "52.34.76.65", //Amazon
+  "52.11.171.106", //Amazon
 
-  
-
-
-  "172.253.192.124", //Google LLC
-  "172.253.240.64", //Google LLC
-  "66.102.8.38", //Google LLC
-  "66.102.6.195", //Google LLC
-  "66.102.6.194", //Google LLC
-  "66.102.8.129", //Google LLC
-  "66.102.8.128", //Google LLC
-  "64.233.172.205", //Google LLC
-  "74.125.210.98", //Google LLC
-  "66.102.8.130", //Google LLC
-  "66.102.6.65", //Google LLC
-  "35.203.255.103", //Google LLC
-  "35.203.255.118", //Google LLC
-  "34.82.76.88", //Google LLC
-  "34.83.246.238", //Google LLC
-  "34.127.116.233", //Google LLC
-  "34.127.44.221", //Google LLC
-  "34.168.176.99", //Google LLC
-  "34.145.25.95", //Google LLC
-  "34.82.195.191", //Google LLC
-  "35.197.69.215", //Google LLC
-  "35.230.63.62", //Google LLC
-  "34.82.76.88", //Google LLC
-  "35.197.96.25", //Google LLC
-  "34.168.74.175", //Google LLC
-  "34.82.33.21", //Google LLC
-  "34.82.82.71", //Google LLC
-  "34.83.61.204", //Google LLC
-  "34.82.199.128", //Google LLC
-  "35.233.229.143", //Google LLC
-  "34.83.45.161", //Google LLC
-  "34.168.138.243", //Google LLC
+  "172.253.192.124", //Google
+  "172.253.240.64", //Google
+  "66.102.8.38", //Google
+  "66.102.6.195", //Google
+  "66.102.6.194", //Google
+  "66.102.8.129", //Google
+  "66.102.8.128", //Google
+  "64.233.172.205", //Google
+  "74.125.210.98", //Google
+  "66.102.8.130", //Google
+  "66.102.6.65", //Google
+  "35.203.255.103", //Google
+  "35.203.255.118", //Google
+  "34.82.76.88", //Google
+  "34.83.246.238", //Google
+  "34.127.116.233", //Google
+  "34.127.44.221", //Google
+  "34.168.176.99", //Google
+  "34.145.25.95", //Google
+  "34.82.195.191", //Google
+  "35.197.69.215", //Google
+  "35.230.63.62", //Google
+  "34.82.76.88", //Google
+  "35.197.96.25", //Google
+  "34.168.74.175", //Google
+  "34.82.33.21", //Google
+  "34.82.82.71", //Google
+  "34.83.61.204", //Google
+  "34.82.199.128", //Google
+  "35.233.229.143", //Google
+  "34.83.45.161", //Google
+  "34.168.138.243", //Google
   "34.105.34.194", //Google Other
   "34.82.27.245", //Google Cloud
   "107.178.200.214", //Google Cloud
@@ -378,20 +372,18 @@ $bots['ips'] = [
   "74.125.184.184", //Google
   "173.194.92.192", //Google
 
-
-
-  "128.199.15.211", //Digital Ocean LLC
-  "207.154.243.139", //Digital Ocean LLC
-  "64.226.124.225", //Digital Ocean LLC
-  "64.226.107.90", //Digital Ocean LLC
-  "207.154.251.79", //Digital Ocean LLC
-  "167.99.171.142", //Digital Ocean LLC
-  "64.23.128.141", //Digital Ocean LLC
-  "138.68.22.173", //Digital Ocean LLC
-  "138.197.212.221", //Digital Ocean LLC
-  "165.232.158.68", //Digital Ocean LLC
-  "167.99.174.172", //Digital Ocean LLC
-  "167.99.96.170", //Digital Ocean LLC
+  "128.199.15.211", //Digital Ocean
+  "207.154.243.139", //Digital Ocean
+  "64.226.124.225", //Digital Ocean
+  "64.226.107.90", //Digital Ocean
+  "207.154.251.79", //Digital Ocean
+  "167.99.171.142", //Digital Ocean
+  "64.23.128.141", //Digital Ocean
+  "138.68.22.173", //Digital Ocean
+  "138.197.212.221", //Digital Ocean
+  "165.232.158.68", //Digital Ocean
+  "167.99.174.172", //Digital Ocean
+  "167.99.96.170", //Digital Ocean
   "104.248.85.196", //Digital Ocean
   "167.71.165.183", //Digital Ocean
   "64.23.133.100", //Digital ocean
@@ -405,7 +397,6 @@ $bots['ips'] = [
   "188.166.88.71", //Digital ocean
   "167.99.7.55", //Digital ocean
   "192.241.202.214", //Digital ocean
-
   
   //"129.226.93.214", //Tecent
 
@@ -413,7 +404,6 @@ $bots['ips'] = [
   "99.255.100.228", //projectsdomain.org
   "2a06:98c0:3600::103", //Cloudflare
   "84.201.183.13", //Yandex
-
 
   "62.174.208.61", //My IP
   "47.58.171.195", //My IP

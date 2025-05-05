@@ -343,7 +343,6 @@ De hecho, son famosos los tratados de juristas medievales estableciendo leyes qu
 
 \conc
 
-
 El gran Rey Suleimán, más conocido como el sabio rey Salomón, es una figura mítica dentro de los cuentos de las 1001 Noches.
 
 Las grandes hazañas de la antigüedad siempre son fruto del rey Suleimán desde vencer a ejércitos de yinns a realizar grandes prodigios mágicos.
@@ -783,7 +782,6 @@ Dentro de sus rituales suele haber invocaciones voluntarias o involuntarias de f
 La organización en sí no es ni muy grande, ni muy poderosa, ni tiene grandes recursos, pero el fanatismo de sus miembros y el poder de [Bahram el Gauro](#anchorbahramgauro) compensan todo eso. Bahram se ha convertido en el hombre del saco de toda la zona. Su nombre no se pronuncia sin santiguarse y se usa para asustar a los niños y niñas.
 
 \sp
-
 
 Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conseguido suficiente poder para ser un contrincante muy peligroso. Si objetivo es encontrar la esfera celeste de Al-Schamardal, que cree que contiene parte de la esencia de su reverenciada deidad. Ha puesto al resto de la secta en su búsqueda y están empezando las primeras pistas de su localización.
 
