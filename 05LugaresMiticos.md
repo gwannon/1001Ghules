@@ -165,9 +165,9 @@ Sindbad el marino hablaba de un valle de muy difícil acceso lleno de diamantes 
 
 Los mercaderes tiraban carne untada en miel al fondo del valle, los diamantes se pegaban a la carne y grandes águilas (o inclusos rokhs) cogían la carne y se la llevaban a su nido para sus crías. Los mercaderes espantaban a las aves y recogían los diamantes de los restos de carne.
 
-Todo este relato de Sindbad es una simplificación de una historia mucho más compleja que incluye al mighos, extrañas piedras cristalinas, mutaciones, radiaciones y explosiones nucleares.
-
 \sp
+
+Todo este relato de Sindbad es una simplificación de una historia mucho más compleja que incluye al mighos, extrañas piedras cristalinas, mutaciones, radiaciones y explosiones nucleares.
 
 ### Cómo se formó el Valle de los Diamantes
 
@@ -185,17 +185,19 @@ Los mercaderes locales deben enfrentarse a la escalada y las serpientes mutadas,
 
 Desarrollaron el sistema de tirar carne al fondo del valle porque saben que estar en el valle es una sentencia a muerte. La radiación ambiental que ellos consideran algún tipo de maldición puedes matarte en horas.
 
-No hay ninguna forma de saber que la radiación existe a no ser que algún mercader del valle te lo cuente y son bastante huraños y sin mucha disposición a hablar sobre ellos. La «maldición» del valle les da un método fácil para deshacerse de la competencia.
-
-El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. 
-
 \sp
 
-La radiación es indetectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle. Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
+No hay ninguna forma de saber que la radiación existe a no ser que algún mercader del valle te lo cuente y son bastante huraños y sin mucha disposición a hablar sobre ellos. La «maldición» del valle les da un método fácil para deshacerse de la competencia.
+
+El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. La radiación no es detectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle.
+
+Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
 
 ### Los al mighos y el valle
 
-Los al mighos investigaron lo que le paso a su colonia y abandonaron la cantera porque la radiación hacía imposible durante siglos volver a extraer en el valle. Durante ese tiempo encontraron otros lugares igual de interesantes para sacar sus tierras raras y olvidaron el valle. Lo que no saben, porque no supieron esperar, es que con los milenios terminarán creándose los cuasicristales que para ellos son muy valiosos. Si llegaran a saber lo que se puede extraer del valle, seguramente buscarían la forma de hacerse con el valle y acabar con toda la competencia que extrae los valiosos cristales.
+Los al mighos investigaron lo que le paso a su colonia y abandonaron la cantera porque la radiación hacía imposible durante siglos volver a extraer en el valle. Durante ese tiempo encontraron otros lugares igual de interesantes para sacar sus tierras raras y olvidaron el valle.
+
+Lo que no saben, porque no supieron esperar, es que con los milenios terminarán creándose los cuasicristales que para ellos son muy valiosos. Si llegaran a saber lo que se puede extraer del valle, seguramente buscarían la forma de hacerse con el valle y acabar con toda la competencia que extrae los valiosos cristales.
 
 ### Tesoro y botín
 
@@ -386,7 +388,11 @@ Mientras estés dormido nada físico te puede pasar en el sueño de Yamlika, si 
 
 #### El primer mar
 
-> De ese modo anduvieron por aquel mar durante tres días y tres noches, y a la mañana del cuarto día arribaron a una isla que les pareció el paraíso de tanto como hubo de maravillarles su hermosura una isla que les pareció el paraíso, de tanto como hubo de maravillarles su hermosura. La tierra que hollaban era de azafrán dorado; las piedras eran de jade y de rubíes; extendíanse las praderas en cuadros de flores exquisitas con corolas ondulantes bajo la brisa que embalsamaban, casándose las sonrisas de las rosas con las tiernas miradas de los narcisos, conviviendo los lirios con los claveles, las violetas, la manzanilla y las anémonas, y triscando ligeras entre las líneas blancas de jazmines las gacelas saltarinas; las frondas de los áloes y de otros árboles de grandes flores refulgentes susurraban con todas sus ramas, desde las que arrullaban las tórtolas en respuesta al murmullo de los arroyos, y con voz conmovida cantaban los ruiseñores a las rosas su martirio amoroso, mientras las rosas escuchábanles atentamente; aquí los manantiales melodiosos se ocultaban bajo cañaverales de azúcar, únicas cañas que en el paraje había; allá, la tierra natural mostraba sin esfuerzo sus riquezas jóvenes y respiraba en medio de su primavera.
+> De ese modo anduvieron por aquel mar durante tres días y tres noches, y a la mañana del cuarto día arribaron a una isla que les pareció el paraíso de tanto como hubo de maravillarles su hermosura una isla que les pareció el paraíso, de tanto como hubo de maravillarles su hermosura. La tierra que hollaban era de azafrán dorado; las piedras eran de jade y de rubíes; extendíanse las praderas en cuadros de flores exquisitas con corolas ondulantes bajo la brisa que embalsamaban, casándose las sonrisas de las rosas con las tiernas miradas de los narcisos, conviviendo los lirios con los claveles, las violetas, la manzanilla y las anémonas, y triscando ligeras entre las líneas blancas de jazmines las gacelas saltarinas; las frondas de los áloes y de otros árboles de grandes flores refulgentes susurraban con todas sus ramas, desde las que arrullaban las tórtolas en respuesta al murmullo de los arroyos, y con voz conmovida cantaban los ruiseñores a las rosas su martirio amoroso, mientras las rosas escuchábanles atentamente;
+
+\sc
+
+> aquí los manantiales melodiosos se ocultaban bajo cañaverales de azúcar, únicas cañas que en el paraje había; allá, la tierra natural mostraba sin esfuerzo sus riquezas jóvenes y respiraba en medio de su primavera.
 > 
 > **Referencia:** Historia de Belukia (n. 359)
 
@@ -398,11 +404,11 @@ En esta isla todas las noches, un monstruo indescriptible con una gema luminosa 
 
 Tras varios días de andar por el segundo mar, hay una cadena montañosa hecha de piedras de imán, lo que hace que pierdas todos los objetos metálicos que portes. Solo podrás llevarte contigo un objeto metálico tras pasar una tirada de FUE.
 
+\sp
+
 #### El tercer mar
 
 Tras unas semanas de andar por el tercer mar te encuentras una isla llena de árboles frutales que dan frutas confitadas. Cuidado con comer muchas o podrías enfermar.
-
-\sp
 
 #### El cuarto mar
 
@@ -422,11 +428,13 @@ Atravesar el quinto mar solo lleva 1 día y 1 noche. La isla al otro lado del ma
 > 
 > **Referencia:** Historia de Belukia (n. 359)
 
-El sexto mar tarde varias semanas en cruzarse y acaba En una extraña isla llena de árboles frutales. Las frutas tienen tamaño y forma de cabeza y representan a gente real. Su expresión cambia según les vaya bien las cosas o este sufriendo. Cuando alguien muere, su fruta al suelo y se incendia con un gran fulgor. Encontrar la fruta de un ser querido supone una TPC d6 y TPC d8 de la propia. Buscar activamente la fruta de alguien podría llevar un día completo y exigir una tirada de Notar -4.
-
-Cruzar el último mar puede tardar meses y podría obligar a los viajeros a tener que pescar para sobrevivir.
+El sexto mar tarde varias semanas en cruzarse y acaba En una extraña isla llena de árboles frutales. Las frutas tienen tamaño y forma de cabeza y representan a gente real. Su expresión cambia según les vaya bien las cosas o este sufriendo. Cuando alguien muere, su fruta al suelo y se incendia con un gran fulgor.
 
 \sp
+
+Encontrar la fruta de un ser querido supone una TPC d6 y TPC d8 de la propia. Buscar activamente la fruta de alguien podría llevar un día completo y exigir una tirada de Notar -4.
+
+Cruzar el último mar puede tardar meses y podría obligar a los viajeros a tener que pescar para sobrevivir.
 
 ### La isla de los siete Mares
 
@@ -434,7 +442,11 @@ Tras cruzar el séptimo mar llegaremos a la isla de los Siete Mares, otra isla p
 
 ### La cripta de Suleimán
 
-> … llegaron a una colina cuyas rocas eran de ámbar amarillo y de almizcle, y en cuyas laderas se abría una gruta magnífica con bóveda y paredes de diamantes. Como estaba tan bien alumbrada, cual a pleno sol, se aventuraron bastante en sus profundidades, y a medida que avanzaban, veían aumentar la claridad y ensancharse la bóveda. Así anduvieron maravillándose de aquello, y empezaban a preguntarse si tendría fin la gruta, cuando de repente llegaron a una sala inmensa, tallada de diamante, y que ostentaba en medio un gran lecho de oro macizo, en el cual aparecía tendido Suleimán ben-David, a quien podía reconocerse por su manto verde adornado de perlas y pedrerías, y por el anillo mágico que ceñía un dedo de su mano derecha, lanzando resplandores ante los que palidecía el brillo de la sala de diamantes. La mano que tenía el anillo en el dedo meñique, descansaba sobre su pecho, y la otra mano, extendida, sostenía el cetro áureo de ojos de esmeralda.
+> … llegaron a una colina cuyas rocas eran de ámbar amarillo y de almizcle, y en cuyas laderas se abría una gruta magnífica con bóveda y paredes de diamantes. Como estaba tan bien alumbrada, cual a pleno sol, se aventuraron bastante en sus profundidades, y a medida que avanzaban, veían aumentar la claridad y ensancharse la bóveda. 
+
+\sc
+
+> Así anduvieron maravillándose de aquello, y empezaban a preguntarse si tendría fin la gruta, cuando de repente llegaron a una sala inmensa, tallada de diamante, y que ostentaba en medio un gran lecho de oro macizo, en el cual aparecía tendido Suleimán ben-David, a quien podía reconocerse por su manto verde adornado de perlas y pedrerías, y por el anillo mágico que ceñía un dedo de su mano derecha, lanzando resplandores ante los que palidecía el brillo de la sala de diamantes. La mano que tenía el anillo en el dedo meñique, descansaba sobre su pecho, y la otra mano, extendida, sostenía el cetro áureo de ojos de esmeralda.
 > 
 > **Referencia:** Historia de Belukia (n. 360)
 
@@ -442,9 +454,13 @@ En una colina en el centro de la isla hay una gruta larguísima al final de la c
 
 La gruta está protegida con una serie de protecciones mágicas, si intentas acercarte al lecho donde está el cadáver de Suleimán del techo caen diamantes líquidos tan calientes que si te tocan te abrasan vivo.
 
-Hay que hacer 5 tiradas de Atletismo para esquivar las gotas de diamante y llegar hasta el lecho. Si se falla la tirada de Atletismo se recibe una herida directa por fuego y si se falla una tirada de Vigor una segunda herida. Los hechizos de resistencia al fuego podrían dar un +2 a la tirada de Vigor, pero no protegen de la primera herida.
+Hay que hacer 5 tiradas de Atletismo para esquivar las gotas de diamante y llegar hasta el lecho. Si se falla la tirada de Atletismo se recibe una herida directa por fuego y si se falla una tirada de Vigor una segunda herida. 
 
-El anillo de Suleimán es explicado [más adelante](#anchoranillosoleiman) y el cetro es un objeto mágico de gran poder que maximiza todos los conjuros que se lancen cuando lo portamos. A nivel de juego hace que la persona que lo porte al lanzar un hechizo obtenga un avance extra si consigue lanzarlo.
+\sp
+
+Los hechizos de resistencia al fuego podrían dar un +2 a la tirada de Vigor, pero no protegen de la primera herida.
+
+El anillo de Suleimán es explicado más adelante y el cetro es un objeto mágico de gran poder que maximiza todos los conjuros que se lancen cuando lo portamos. A nivel de juego hace que la persona que lo porte al lanzar un hechizo obtenga un avance extra si consigue lanzarlo.
 
 \sp
 
