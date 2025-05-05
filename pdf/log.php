@@ -178,6 +178,7 @@ $bots['ips'] = [
   "5.161.204.59", //Hetzner Online GmbH
   "178.156.144.152", //Hetzner Online GmbH
   "5.161.48.222", //Hetzner Online GmbH
+  "5.9.50.77", //Hetzner Online GmbH
 
 
   "52.17.217.34", //Amazon
