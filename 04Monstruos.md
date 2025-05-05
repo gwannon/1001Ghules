@@ -4,7 +4,11 @@ En este bestiario encontrarás todas las criaturas que Abdul Alhazred describió
 
 Recuerda que los seres con el símbolo ☾ son considerados comodines.
 
+\sinc
+
 ## Yinns
+
+\conc
 
 > Mientras andaba de este modo vio una gran polvareda de la que salía un estrépito que se hizo ensordecedor como el trueno, y oyó chocar lanzas y espadas detrás de ella, y un tumulto producido por galopes y gritos que nada tenían de humano; y de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghuls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.
 > 
@@ -17,6 +21,8 @@ Pero como ya hemos visto, según Abdul Alhazred los cuentos y leyendas se equivo
 Como ya hemos dicho, tienen libre albedrío, con lo que pueden ser buenos y malos, pero normalmente cada tipo suele tener un carácter ya marcado que hace que sean buenos o malos. Al tener libre albedrío, los teólogos consideran que puede ser o no creyentes. Los Yinns no creyentes son llamados cheitans, que podríamos traducir por demonios.
 
 La verdad es que, quitando a los ghūles que están muy cerca de la humanidad, el resto de Yinns poco o nada se interesan por las religiones de los humanos. Casi todos ellos rezan a sus propios dioses degenerados y corruptos de más allá de las estrellas.
+
+\sp
 
 ### Ghūl (Gul)
 
@@ -36,13 +42,19 @@ Se organizan en pequeños grupos familiares y son muy territoriales. Pueden infe
 * **Capacidades especiales:**
     * **Armadura +1:** Piel dura.
     * **Garras/Mordisco:** Fue+d6
-    * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación está completa en ghūl (y el personaje se vuelve injugable). Quizás puedas encontrar a alguien con los suficientes conocimientos en Mitos que sepa como curarla, pero seguramente le deberás un gran favor. Los propios ghūles podrían darte esa información. Si se supera la infección o se pasa la tirada de Vigor la víctima se vuelve inmune a la infección y la próxima vez ni tendrá el nivel de fatiga.
+    * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación está completa en ghūl (y el personaje se vuelve injugable).
     * **Excavar 4:** Los ghūles pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
+
+\sp
+
+* **Capacidades especiales:**
     * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
     * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
     * **Hechizos:** Puedes ponerles hechizos
 * **Equipo:** Pueden llevar herramientas toscas y armas simples y ropajes sucios y andrajosos que les cubran del sol.
 * **TPC:** 1d4 (manada).
+
+Sobre la infección que producen, quizás puedas encontrar a alguien con los suficientes conocimientos en Mitos que sepa como curarla, pero seguramente le deberás un gran favor. Los propios ghūles podrían darte esa información. Si se supera la infección o se pasa la tirada de Vigor la víctima se vuelve inmune a la infección y la próxima vez ni tendrá el nivel de fatiga.
 
 ### Al mighos (Hongos de Yuggoth)
 
@@ -51,6 +63,8 @@ Se organizan en pequeños grupos familiares y son muy territoriales. Pueden infe
 [![Mi-Go by Khannea](./images/migo.jpg)](https://en.wikipedia.org/wiki/Mi-Go#/media/File:Migo.jpg "Mi-Go by Khannea") 
 
 Los al mighos tienes aspecto de crustáceos, aunque en realidad son parte animal, parte hongo. Tienen varios pares de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas o telepatía.
+
+\sp
 
 Los al mighos son una tribu de yinns que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan sus recursos minerales. Su asentamiento más cercano a la Tierra se encuentra ahora mismo en Plutón (que no será descubierto hasta 1930). Suelen buscarse aliados indígenas en los planetas que quieren conquistar para que les ayuden en sus planes. Adoran a varios dioses primigenios como difundiendo Nyarlathotep y Shub-Niggurath y en sus planes de colonización siempre está difundir el culto a estos primigenios.
 
@@ -70,6 +84,10 @@ Los obreros son la mano de obra y la fuerza de combate de los al mighos. Trabaja
     * **Armadura +2:** Caparazón de crustáceo
     * **Pinzas:** FUE+d4
     * **Volar:** Paso volando 12. Los al mighos tienen unas alas con las que vuelan.
+
+\sp
+
+* **Capacidades especiales:**
     * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
     * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
 * **TPC:** 1d6 (manada)
@@ -92,19 +110,27 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
 
 ### Abu-qith (Gran raza de Yith)
 
-> … llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo. Aquella concha cónica con pseudópodos que surgía de la tierra, diríase un engendro monstruoso arrojado allí por la fuerza de las potencias infernales. Era negro y grande como el tronco de una palmera vieja, seca y desprovista de sus palmas. Tenía cuatro enormes tentáculos, dos de las cuales semejaban pinzas de cangrejos. Al final del tercero de forma espantosa se agitaba una especie de cabeza con ojos sin pupilas lanzando iguales resplandores verdes que la mirada de tigres y panteras. En el último tentáculo tenía una caja de hueso con varios tubo a modo de trompa que usaba para hablar.
+> … llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo. 
+
+\sp
+
+> Aquella concha cónica con pseudópodos que surgía de la tierra, diríase un engendro monstruoso arrojado allí por la fuerza de las potencias infernales. Era negro y grande como el tronco de una palmera vieja, seca y desprovista de sus palmas. Tenía cuatro enormes tentáculos, dos de las cuales semejaban pinzas de cangrejos. Al final del tercero de forma espantosa se agitaba una especie de cabeza con ojos sin pupilas lanzando iguales resplandores verdes que la mirada de tigres y panteras. En el último tentáculo tenía una caja de hueso con varios tubos a modo de trompa que usaba para hablar.
 > 
 > **Referencia:** Historia de la ciudad de bronce (n. 341)
 
 Los abu-qiths es una tribu de yinns que no tiene forma corpórea. Vinieron a la Tierra para escapar de la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y otro en una especie de boca.
 
+[![Grate race of YITH by Nottsuo](./images/yith.webp)](https://www.deviantart.com/nottsuo/art/Grate-race-of-YITH-retouch2-875186832 "Grate race of YITH by Nottsuo") 
+
 Se caracterizan por su control del viaje a través del tiempo. De hecho, se les conoce como Gran raza, ya que han sido capaces de controlar los viajes temporales. Cuando te encuentres con un abu-qith debe tener en cuenta que igual estás hablando con alguien de tu pasado o de tu futuro, con todas las implicaciones que tiene eso.
 
-Pueden mandar su mente a través del tiempo y ocupar los cuerpos de seres inteligentes de diferentes épocas. Las mentes de los cuerpos ocupados pasan al cuerpo del abu-qith y este puede usarlo para interactuar con otros abu-qiths. Cuando la mente del abu-qith vuelve a su cuerpo, la mente del huésped vuelve a su cuerpo tras ser borrada su memoria.
+Pueden mandar su mente a través del tiempo y ocupar los cuerpos de seres inteligentes de diferentes épocas. Las mentes de los cuerpos ocupados pasan al cuerpo del abu-qith y este puede usarlo para interactuar con otros abu-qiths. 
+
+\sp
+
+Cuando la mente del abu-qith vuelve a su cuerpo, la mente del huésped vuelve a su cuerpo tras ser borrada su memoria.
 
 #### Erudito abu-qith ☾
-
-[![Grate race of YITH by Nottsuo](./images/yith.webp)](https://www.deviantart.com/nottsuo/art/Grate-race-of-YITH-retouch2-875186832 "Grate race of YITH by Nottsuo") 
 
 Los abu-qiths son grandes científicos, como demuestra su capacidad de viajar en el tiempo o sus armas de rayos. El más simple de los abu-qiths está al nivel de grandes nombres de la ciencia como Abulcasis o Mariam Al-Ijliya al-Asturlabi.
 
@@ -124,7 +150,10 @@ Los abu-qiths son grandes científicos, como demuestra su capacidad de viajar en
 Los abu-qiths combatieron y derrotaron a un gran enemigo, los warams, y es por ello que puede ser formidables combatientes, sobre todo si disponen de sus temibles armas lanzarrayos.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d12+2, Vigor d12+2
-* **Habilidades:** Ciencias d60, Disparar d10, Mitos de Cthulhu d6, Notar d8, Pelear d8, Notar
+* **Habilidades:** Ciencias d6, Disparar d10, Mitos de Cthulhu d6, Notar d8, Pelear d8, Notar
+
+\sp
+
 * **Paso:** 6; **Parada:** 5; **Dureza:** 18 (4)
 * **Capacidades especiales:**
     * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
@@ -142,41 +171,17 @@ Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gr
 
 Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público no es algo que se pueda esconder. Es el terrible ruido que produce esta arma y los rayos que lanza, lo que da fama a los abu-qith de seres terribles y malignos relacionados con el fuego.
 
-Arma lanzarrayos abu-qith
+|Distancia|Daño|PA|CDF|
+|---|---|---|---|---|---|---|---|
+|50/100/150|2d8|2|1|
 
-Distancia
-
-Daño
-
-PA
-
-CDF
-
-Munición
-
-FUE Min.
-
-Peso
-
-Coste
-
-50/100/150
-
-2d8
-
-2
-
-1
-
-35
-
-\--
-
-2
-
-\--
+|Munición|FUE Min.|Peso|Coste|
+|---|---|---|---|
+|35| -- |2| -- |
 
 **Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de forma que en 35 minutos tendrías el arma plenamente cargada.
+
+\sp
 
 ### Warams (Pólipos volantes) ☾
 
@@ -193,6 +198,8 @@ Pueden volar, generando vientos debajo suyo que hacen un ruido característico, 
 Durante milenios dominaron la Tierra antes de la aparición de los humanos, pero con los siglos han ido decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos.
 
 Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido.
+
+\sp
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d12+6, Vigor d12+2
 * **Habilidades:** Mitos d8, Notar d8, Pelear d12
@@ -211,15 +218,19 @@ Los warams ya son de por sí enemigos temibles, pero pueden ponerles hechizos si
 
 ### Janns (Antiguos) ☾
 
-> … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. \[…\] Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
+> … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. \[…\] 
+
+\sp
+
+> Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
 
 Según Alhazred, los janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
 A pesar de que son morfológicamente los yinns más extraños, ya que no se parecen a ningún ser de la naturaleza, eran muy parecidos a los humanos. Ambos tienen una sociedad compleja, con clases sociales, formas de producción avanzadas, donde se cultivaba el arte y la ciencia y en la que sus individuos no solo vivían para sobrevivir, sino que tenían vidas plenas, llenas de todo tipo de relaciones sociales.
 
-[![An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.](./images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.") 
-
 Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los janns no son usables de forma normal por humanos y habría que adaptarlos.
+
+[![An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.](./images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.") 
 
 El cinco es un número importante entre los janns debido a que su torso de tonel tiene 5 lados, tiene 5 tentáculos, etc. La estrella de 5 puntas es también un símbolo importante para los janns.
 
@@ -228,8 +239,12 @@ El cinco es un número importante entre los janns debido a que su torso de tonel
 * **Paso:** 6; **Parada:** 5; **Dureza:** 12(2)
 * **Capacidades especiales:**
     * **Vuelo:** Paso volando 10
-    * **Tentáculos (2):** FUE+d4. Los tentáculos tienen un alcance de 2 y no sufren penalización por múltiples acciones, ni penalización por mano torpe. Por turno 2 de los 5 tentáculos pueden tomar acciones independientes y sostenidas.
     * **Armadura +2:** Su dura piel de aspecto gomoso le protege de los ataques.
+
+\sp
+
+* **Capacidades especiales:**
+    * **Tentáculos (2):** FUE+d4. Los tentáculos tienen un alcance de 2 y no sufren penalización por múltiples acciones, ni penalización por mano torpe. Por turno 2 de los 5 tentáculos pueden tomar acciones independientes y sostenidas.
     * **Tamaño +2:** Un ejemplar adulto puede llegar a los 350 kg (+2 a dureza).
     * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
     * **Tecnología Jann:** Puedes asignarle a un jann hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 6 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los janns pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
@@ -245,6 +260,8 @@ Los yanns con conocimientos mágicos podrían lanzar hechizos, pero mejor resér
 Los qareens son yinns hechos de energía e invisibles para los humanos provenientes de Alpheratz (Andrómeda). Tienen una mente malvada y pesimista, carecen de sentimientos y jamás olvidan. Su mente es tan poderosa que afecta a los humanos cercanos, llevándoles a la depresión y atener ideas suicidas.
 
 Según la tradición, los qareen son gemelos espirituales de cada ser humano. Tratan de corromperlos y llevarlos al mal y al pecado. De normal, no pueden interactuar en el mundo físico, pero cuando han corrompido a su humano pueden poseerlo.
+
+\sp
 
 Sin embargo, las teorías que Alhazred expone en su Necronomicón difieren mucho del relato tradicional. Llevan miles de años en la Tierra y vinieron con su caudillo Ghatanothoa, el primogénito de Bahamūt, al que ellos llaman Cthulhu, estableciéndose en un continente ya perdido. Cuando Ghatanothoa fue encerrado en un volcán, entraron en decadencia y ahora solo quedan unos pocos qareens en la Tierra.
 
@@ -264,11 +281,14 @@ Los qareens son seres de energía invisibles en forma de vórtice. En este estad
     * **Incorpóreo:** En su forma incorpórea son totalmente invulnerables contra armas físicas y mágicas. Solo los ataques mentales podrían hacerles daño. También los hace casi invisibles dándoles un -4 a los que quieran detectarlos.
     * **Telepatía:** Se comunica con cualquier criatura de forma telepática
     * **Depresión:** Un aura depresiva rodea siempre a un qareen, todos los héroes que pasen una hora en una localización donde hay un qareen y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor).
+
+\sp
+
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 
 #### Qareen corpóreo
 
-> Aquel extraño ser que había aparecido de la nada tenía la forma de un dragón como los que aparecían en el libro del creador. Grande, reptilesco, partilargo y con solo mirarte sentías que pudiera atravesar tu alma como un alfanje atraviesa el pecho de un enemigo de la verdadera fe. Sus grandes garras habían destrozado al protector del califa y ahora reptaba hacia el propio califa.
+> Aquel extraño ser que había aparecido de la nada tenía la forma de un dragón como los que aparecían en el libro del creador. Grande, reptilesco, patilargo y con solo mirarte sentías que pudiera atravesar tu alma como un alfanje atraviesa el pecho de un enemigo de la verdadera fe. Sus grandes garras habían destrozado al protector del califa y ahora reptaba hacia el propio califa.
 
 Aunque los textos sagrados y la tradición dice que los qareen solo son seres espirituales, un qareen puede hacerse corpóreo adoptando la forma de un dragón.
 
@@ -287,7 +307,11 @@ Aunque los textos sagrados y la tradición dice que los qareen solo son seres es
 
 #### Poseído por un qareen
 
-> Parecía ido. Ni los más delicados manjares, ni las más perfumadas esencias, ni los más sensuales bailes parecían despertar su interés. Como mucho podías sacarle una bobalicona risa, mientras murmuraba cosas sin sentido. Y de repente se levantaba y desaparecía en las montañas durante de días, volviendo sucio y flaco y más perdido que antes. A veces había sangre en sus andrajos y no siempre era suya.
+> Parecía ido. Ni los más delicados manjares, ni las más perfumadas esencias, ni los más sensuales bailes parecían despertar su interés. Como mucho podías sacarle una bobalicona risa, mientras murmuraba cosas sin sentido. 
+
+\sp
+
+> Y de repente se levantaba y desaparecía en las montañas durante de días, volviendo sucio y flaco y más perdido que antes. A veces había sangre en sus andrajos y no siempre era suya.
 
 Un humano poseído por un qareen tiene sus atributos y habilidades normales y una serie de ventajas y desventajas. Aplica la siguiente plantilla al humano que ha caído bajo el influjo de un qareen.
 
@@ -296,13 +320,19 @@ Un humano poseído por un qareen tiene sus atributos y habilidades normales y un
     * **Inmune a control mental:** La poderosa mente del qareen ha invadido la mente del poseído y hace nadie más pueda intentar usar poderes mentales sobre el poseído o la poseída.
     * **Foco:** El qareen puede hacer que se enfoque en una tarea olvidando todo lo demás. De esa forma, tiene un +2 a las tiradas de habilidad relacionadas con su foco (lo que el qareen le ha ordenado) y -2 al resto de tiradas.
 
+\sinc
+
 ## Otros seres de las 1001 Noches
+
+\conc
 
 ### Abibil (Byakhee)
 
 > …Una horda de mansos, híbridos seres alados que ningún ojo, ningún cerebro en su sano juicio, ha podido contemplar jamás. No eran águilas, ni hienas, ni búhos, ni hormigas, ni murciélagos, sino una mezcla impía de todos y de ninguno; eran algo que no consigo -a nuestro señor se lo agradezco- recordar. Daban saltos blandos y torpes, impulsándose a medias con sus pies palmeados y a medias con sus alas membranosas. Y cuando llegaron hasta los cuarenta celebrantes, cada uno de los 40 se agarró a ellos, montó a horcajadas, y se alejó volando…
 
 Si bien la tradición oral dice que los abibil son grandes aves rapaces que ayudan a los creyentes a defenderse de los herejes, Alhazred no los consideró unos seres buenos y bondadosos, sino simplemente una raza servidora que sirven a un gran poder.
+
+\sp
 
 Son seres voladores, pero no tienen nada que ver con aves. Son de apariencia insectoide con grandes alas membranosas y pies palmeados. Según Alhazred viven en el espacio interestelar donde sobreviven sin problemas. Se pueden mover entre estrellas de forma muy rápida y suelen bajar a diferentes planetas a alimentarse.
 
@@ -328,7 +358,11 @@ Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del
 > 
 > **Referencia:** La segunda historia de las historias de Sindbad el marino, que trata del segundo viaje (n. 295)
 
-Estas gigantescas aves son uno de los seres que con más frecuencia salen en las 1001 Noches. A pesar de que la mayoría de la gente los asocia con águilas de tamaño gigantesco, los rokhs se parecen más dinosaurios volares como los pterodáctilos, con la peculiaridad de tener una cabeza que recuerda a las de un caballo.
+Estas gigantescas aves son uno de los seres que con más frecuencia salen en las 1001 Noches. 
+
+\sp
+
+A pesar de que la mayoría de la gente los asocia con águilas de tamaño gigantesco, los rokhs se parecen más dinosaurios volares como los pterodáctilos, con la peculiaridad de tener una cabeza que recuerda a las de un caballo.
 
 Como comenta Alhazred, los rokhs son fieles a la entidad Azathoth y pueden viajar por el espacio con un jinete hasta el centro del universo, donde vive esa todopoderosa entidad a la que adoran. Los rokhs provienen de las Tierras del sueño y sus antepasados llegaron a nuestro mundo hace milenios y se establecieron aquí debido a que existían su enemigo principal, los sirvientes alados.
 
@@ -351,6 +385,8 @@ Su zona principal de nidación es en los picos más altos de la cordillera del C
 
 > La duna estaba cubierta de aquel extraño color, mezcla del rojo del coral, del amarillo del oro y el púrpura del sol cuando se pone en el Wadi Rum. Y se estaba moviendo y extendiendo gracias al siroco que llevaba soplando desde hace semanas, acercándolo al oasis que infectaría y devoraría y convertiría en parte de él.  
 > Algo tenía que hacer para evitarlo, pero no sabía qué y lo peor es que no podía dejar mirar el color. Ese color era magnífico, como no había visto nunca, ni en los más ricos ropajes de los más ricos emires.
+
+\sp
 
 El color es un extraño ser que se cree que no es de la Tierra, sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, desde magia viva hasta fuego sin humo del que se hizo a los yinns. Pero lo describen como un color que se van extendiendo y que impregna todo, rocas, plantas y hasta animales.
 

@@ -2,7 +2,6 @@
 
 Las 1001 Noches están llenas de lugares mágicos donde los schahriars pueden correr grandes aventuras. Son muchas veces sitios increíbles llenos de tesoros, pero otros muchas veces son también trampas mortales de las que solo los schahriars más avispados y valientes pueden escapar.
 
-* La Ciudad de Bronce
 * Aram-de-las-columnas
 * El valle de los diamantes
 * La ciudad sin nombre
@@ -11,14 +10,9 @@ Las 1001 Noches están llenas de lugares mágicos donde los schahriars pueden co
 * La cueva de las maravillas
 * La Montaña del Imán
 * La ciudad de G’harne
+* La Ciudad de Bronce
 
-## La Ciudad de Bronce
-
-La magnifica y maldita Ciudad de Bronce es descrita más ampliamente en el cuento salvaje "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce". En él se describe y se explica cómo encontrarla y cómo eliminar la maldición que se ciñe sobre ella y sus habitantes.
-
-[![Géza Maróti’s plan of Atlantis mock-up](./images/aram.jpg)](https://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3ti#/media/File:Mar%C3%B3ti-Atlantisz_1.jpg "Géza Maróti’s plan of Atlantis mock-up")
-
-Aram-de-las-columnas antes de su colapso
+\sinc
 
 ## Aram-de-las-columnas
 
@@ -27,13 +21,31 @@ Aram-de-las-columnas antes de su colapso
 > 
 > **Referencia:** Las llaves del destino (n. 792)
 
-[Aram-de-las-columnas](#anchoraram) es una de las ciudades míticas de las leyendas de oriente medio. Es un lugar del que corren montones de historias y siempre cuentan historias de grandes tesoros, pero también muchos horrores y peligros.
+&nbsp;
+
+\conc
+
+Aram-de-las-columnas es una de las ciudades míticas de las leyendas de oriente medio. Es un lugar del que corren montones de historias y siempre cuentan historias de grandes tesoros, pero también muchos horrores y peligros.
 
 ### Cómo llegar
 
 Aram es una ciudad perdida en el sur de la península arábiga, cuya ubicación se perdió en los anales del tiempo. La ubicación de la ciudad se halla marcada en un manuscrito de piel de gacela púrpura (Grimorio NP 4 escrito en griego jónico) que aparece y desaparece según lo roban o se pierde o su propietario muere buscando la ciudad y otra encuentra su tumba.
 
 La ciudad está protegida por una serie de obstáculos y trampas. El primer obstáculo es el desierto de Rub al-Jali. Rub al-Jali, es un erg un desierto clásico de arena y dunas donde si no estás preparado el calor y la sed te matarán seguro.
+
+&nbsp;
+
+\sp
+
+\sinc
+
+[![Géza Maróti’s plan of Atlantis mock-up](./images/aram.jpg)](https://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3ti#/media/File:Mar%C3%B3ti-Atlantisz_1.jpg "Géza Maróti’s plan of Atlantis mock-up")
+
+_Aram-de-las-columnas antes de su colapso_
+
+\conc
+
+\sp
 
 > Y aun viajamos durante tres días y tres noches. Y al cuarto día por la mañana divisamos ante nosotros, en el horizonte, como un anchuroso espejo que reflejase el sol. Y al aproximarnos a ello, vimos que era un río de mercurio que nos cortaba el camino. Y estaba surcado por un puente de cristal sin balaustrada, tan estrecho, tan pendiente y tan escurridizo, que ningún hombre dotado de razón intentaría pasar por él.
 > 
@@ -55,6 +67,8 @@ De las fuentes mana miel, leche, vino, agua de rosas, etc. Las calles están lle
 > 
 > **Referencia:** Las llaves del destino (n. 792)
 
+\sp
+
 En el centro de la ciudad está el palacio del rey Scheddad. Es el palacio más grande y extraordinario de toda la ciudad. En el centro de palacio, en un jardín, bajo un pabellón hecho de una única esmeralda, hay un trono de oro y encima una caja de oro lleno de azufre rojo, el componente alquímico más poderoso que existe.
 
 Se dice que la ciudad está maldita y si te llevas alguna de las joyas y metales preciosos de la ciudad fuera del valle morirás inmediatamente. La poca gente que ha visitado la ciudad no se ha atrevido a incumplir esa ley. La civilización que puede hacer palacios de oro seguro que sabe proteger sus tesoros.
@@ -73,21 +87,25 @@ El río de mercurio que rodea Aram también es gracias al azufre rojo y las serp
 
 El rey de estos yinns era el poderoso Scheddad ben-Aad, uno de los yinns más poderosos de la historia.
 
+\sp
+
 ### La caída de Aram
 
 Aram-de-las-columnas es un ejemplo de ciudad maldita destruida por la ira de Alah ante la soberbia de sus habitantes, como pudieran ser Sodoma y Gomorra. Tras la ira divina solo quedaron en pie algunas de sus famosas columnas, el resto de la ciudad fue tragada por la tierra.
 
 Lo que realmente paso fue que la ciudad se autodestruyo debido a su gran desarrollo. Estaba construida sobre un lago subterráneo que daba agua a la ciudad. La ciudad creció tanto que el acuífero se vació y terminó colapsando, tragándose la ciudad. Scheddad ben-Aad y los supervivientes decidieron abandonar la ciudad para desaparecer para siempre. Pero antes de partir, él y su gente recogieron todo el oro y las piedras preciosas que pudieron rescatar y los escondieron en algún lugar de Egipto.
 
-Dejaron pistas de la ubicación del tesoro en la lápida que hay sobre la fosa común donde enterraron a todos los Aads muertos en la destrucción de Aram.
-
 > Al otro lado del mar de los corales, regido por los adoradores de Cthulhu, antes de cruzar el río de la vida y la muerte, existe una montaña de fuego. En su falda, sellado con una losa de mármol, está nuestro tesoro, que nos costó nuestras vidas.
+
+Dejaron pistas de la ubicación del tesoro en la lápida que hay sobre la fosa común donde enterraron a todos los Aads muertos en la destrucción de Aram.
 
 ### Cómo meter Aram en tus relatos
 
 Si vas a incluir Aram-de-las-columnas en tus relatos, puedes hacerlo de varias formas. Puede ser una ciudad maldita y abandonada por la que parece que no pasa el tiempo con sus trampas y obstáculos. Esta opción se ajustaría más a la visión de las 1001 Noches. En este caso, incluso podrías enclavar Aram dentro de la Tierra de los Sueños como parte de la imaginería onírica que tanto pega con las 1001 Noches.
 
 Otra opción puede ser como las ruinas de una gran civilización extraterrestre que desapareció por una catástrofe digna de Lemuria o la Atlántida. Esta opción se acerca más al toque pulp de Lovecraft. En esta variante podrías llevar a tus schahriars a la búsqueda del tesoro de Scheddad el constructor de la ciudad y su rey que escondió todos sus tesoros en una cueva secreta. Tendrían en las ruinas de Aram pistas suficientes para lanzarse a la búsqueda de un fabuloso tesoro.
+
+\sp
 
 ### Tesoro de Scheddad
 
@@ -99,32 +117,59 @@ El poderoso y sabio rey Scheddad ben-Aad guardo un inmenso tesoro en un sitio se
 
 Encontrar el tesoro de Scheddad es pura suerte, no hay mapas, ni registros de su ubicación, solo si consigues llegar a Aram-de-las-columnas podrías encontrar pistas sobre la ubicación de su increíble tesoro.
 
-> Y después de algunos esfuerzos, acabó por conseguir desencajarla y correrla. Y debajo vio una escalera con peldaños de mármol que conducía a una cueva de forma cuadrada que tenía la amplitud de un hammam. Y Maruf, pronunciando la fórmula del "bismilah", bajó a la cueva y vio que la componían cuatro salas consecutivas. Y la primera de aquellas salas estaba llena de monedas de oro desde el suelo hasta el techo; y la segunda estaba llena de perlas, de esmeraldas y de coral, también desde el suelo hasta el techo; y la tercera, de jacintos; de rubíes, de turquesas, de diamantes y de pedrerías de todos colores; pero la cuarta, que era la más espaciosa y la mejor acondicionada, no contenía nada más que un pedestal de madera de ébano, sobre el cual estaba colocado un pequeñísimo cofrecillo de cristal no mayor que un limón. Y Maruf se asombró prodigiosamente de su descubrimiento y se entusiasmó con aquel tesoro. Pero lo que más le intrigaba era aquel minúsculo cofrecillo de cristal, único objeto de manifiesto en la inmensa sala cuarta del subterráneo. \[…\]
+Este fabuloso tesoro escondido en unas cámaras secretas subterráneas, ocupa 3 instancias hasta el techo de oro y joyas. Es tan grande que se necesitan 600 mulas y 600 camellos para transportarlo. En una cuarta estancia hay un cofre de cristal que contiene el anillo mágico del Padre de la Dicha, un genio servidor encerrado en el anillo por Scheddad ben-Aad.
 
+\sinc
+
+> Y después de algunos esfuerzos, acabó por conseguir desencajarla y correrla. Y debajo vio una escalera con peldaños de mármol que conducía a una cueva de forma cuadrada que tenía la amplitud de un hammam. Y Maruf, pronunciando la fórmula del "bismilah", bajó a la cueva y vio que la componían cuatro salas consecutivas. Y la primera de aquellas salas estaba llena de monedas de oro desde el suelo hasta el techo; y la segunda estaba llena de perlas, de esmeraldas y de coral, también desde el suelo hasta el techo; y la tercera, de jacintos; de rubíes, de turquesas, de diamantes y de pedrerías de todos colores; pero la cuarta, que era la más espaciosa y la mejor acondicionada, no contenía nada más que un pedestal de madera de ébano, sobre el cual estaba colocado un pequeñísimo cofrecillo de cristal no mayor que un limón. Y Maruf se asombró prodigiosamente de su descubrimiento y se entusiasmó con aquel tesoro. Pero lo que más le intrigaba era aquel minúsculo cofrecillo de cristal, único objeto de manifiesto en la inmensa sala cuarta del subterráneo. \[…\]
 > Y dentro halló un anillo de oro con un sello de cornalina, en que estaban grabadas, con caracteres extremadamente finos y semejantes a patas de moscas, escrituras talismánicas. Y con un movimiento instintivo, Maruf se puso el anillo en su dedo y se lo ajustó apretándolo.  
 > Y al punto salió del sello del anillo una voz fuerte, que dijo: "¡A tus órdenes! ¡a tus órdenes!
 > 
 > **Referencia:** Historia del pastel hilado con miel de abejas y de la esposa calamitosa del zapatero remendón (n. 966)
 
-Este fabuloso tesoro escondido en unas cámaras secretas subterráneas, ocupa 3 instancias hasta el techo de oro y joyas. Es tan grande que se necesitan 600 mulas y 600 camellos para transportarlo. En una cuarta estancia hay un cofre de cristal que contiene el anillo mágico del Padre de la Dicha, un genio servidor encerrado en el anillo por Scheddad ben-Aad.
+\conc
 
-Si tus schahriars consigue encontrar el tesoro y llevarlo a una ciudad, otorgarles la ventaja "Rico como un sultán" directamente sin necesidad de requisitos. Solo la cuarta estancia y el anillo mágico del Padre de la Dicha es cosa tuya dárselo o no.
+\sp
+
+Si tus schahriars consiguen encontrar el tesoro y llevarlo a una ciudad, otorgarles la ventaja "Rico como un sultán" directamente sin necesidad de requisitos. Solo la cuarta estancia y el anillo mágico del Padre de la Dicha es cosa tuya dárselo o no.
 
 > /s/ **Semilla de aventura:** La búsqueda del tesoro de Scheddad puede ser una aventura por todo Oriente Medio buscando primero como encontrar la misteriosa Aram-de-las-columnas y luego buscando el tesoro siguiendo las pistas que hay en Aram-de-las-columnas sobre el tesoro.
+
+\sp
+
+\sinc
+
+[![Géza Maróti’s plan of Atlantis mock-up](./images/aram.jpg)](https://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3ti#/media/File:Mar%C3%B3ti-Atlantisz_1.jpg "Géza Maróti’s plan of Atlantis mock-up")
+
+_Aram-de-las-columnas antes de su colapso_
+
+\conc
+
+\sp
+
+\sinc
 
 [![Sinbad in the Valley of Diamonds - Albert Goodwin](./images/valle-diamantes.jpg)](https://commons.wikimedia.org/wiki/Category:Albert_Goodwin "Sinbad in the Valley of Diamonds - Albert Goodwin") 
 
 ## El Valle de los Diamantes
 
-> Enseguida me levanté del sitio en que me encontraba y recorrí aquel horripilante valle buscando una salida, observando que estaba enteramente creado con rocas de diamante. Por todas partes a mi alrededor aparecía sembrado el suelo de diamantitos desprendidos de la montaña y que en ciertos sitios formaban montones de la altura de un hombre. Comenzaba yo a mirarlos ya con algún interés, cuando me inmovilizó de terror un espectáculo más espantoso que todos los horrores experimentados hasta entonces.
+> Enseguida me levanté del sitio en que me encontraba y recorrí aquel horripilante valle buscando una salida, observando que estaba enteramente creado con rocas de diamante. Por todas partes a mi alrededor aparecía sembrado el suelo de pequeños diamantes desprendidos de la montaña y que en ciertos sitios formaban montones de la altura de un hombre. Comenzaba yo a mirarlos ya con algún interés, cuando me inmovilizó de terror un espectáculo más espantoso que todos los horrores experimentados hasta entonces.
 > 
 > **Referencia:** La segunda historia de las historias de Sindbad el marino, que trata del segundo viaje (n. 296)
 
-Sindbad el marino hablaba de un valle de muy difícil acceso lleno de diamantes y protegido por serpientes gigantes. Los mercaderes tiraban carne untada en miel al fondo del valle, los diamantes se pegaban a la carne y grandes águilas (o inclusos rokhs) cogían la carne y se la llevaban a su nido para sus crías. Los mercaderes espantaban a las aves y recogían los diamantes de los restos de carne.
+&nbsp;
+
+\conc
+
+Sindbad el marino hablaba de un valle de muy difícil acceso lleno de diamantes y protegido por serpientes gigantes. 
+
+Los mercaderes tiraban carne untada en miel al fondo del valle, los diamantes se pegaban a la carne y grandes águilas (o inclusos rokhs) cogían la carne y se la llevaban a su nido para sus crías. Los mercaderes espantaban a las aves y recogían los diamantes de los restos de carne.
 
 Todo este relato de Sindbad es una simplificación de una historia mucho más compleja que incluye al mighos, extrañas piedras cristalinas, mutaciones, radiaciones y explosiones nucleares.
 
-### Cómo se formo el Valle de los Diamantes
+\sp
+
+### Cómo se formó el Valle de los Diamantes
 
 El inaccesible Valle de los Diamantes surgió hace miles de años de la explosión nuclear involuntaria de un asentamiento minero de al mighos. Los minerales de las tierras raras de la zona fueron afectados por la presión, el calor y la radiación de la explosión, transformándose y cristalizándose en lo que los mercaderes que los recogen creen que son diamantes, pero en realidad son cuasicristales.
 
@@ -132,15 +177,21 @@ Estos causicristales no se consiguen en la naturaleza, solo se pueden crear alqu
 
 ### Peligros del valle
 
-La radiación de la explosión tuvo un efecto secundario en la fauna local, mutando a los animales de la zona, de los cuales solo han sobrevivido las [gigantescas serpientes negras](#anchorserpientegigante) que vigilan el valle.
+La radiación de la explosión tuvo un efecto secundario en la fauna local, mutando a los animales de la zona, de los cuales solo han sobrevivido las gigantescas serpientes negras que vigilan el valle.
 
 La explosión creó un gran cráter que no permite descender al valle fácilmente. Las paredes son muy lisas debido a que están casi cristalizadas y las pocas rocas salientes están afiladísimas llegando a veces a cortar las cuerdas de escalada o producir heridas en las manos y pies del escalador.
 
-Los mercaderes locales deben enfrentarse a la escalada y las serpientes mutadas, pero siendo la recompensa diamantes como manzanas, bien merecería la pena. Desarrollaron el sistema de tirar carne al fondo del valle porque saben que estar en el valle es una sentencia a muerte. La radiación ambiental que ellos consideran algún tipo de maldición puedes matarte en horas.
+Los mercaderes locales deben enfrentarse a la escalada y las serpientes mutadas, pero siendo la recompensa diamantes como manzanas, bien merecería la pena.
+
+Desarrollaron el sistema de tirar carne al fondo del valle porque saben que estar en el valle es una sentencia a muerte. La radiación ambiental que ellos consideran algún tipo de maldición puedes matarte en horas.
 
 No hay ninguna forma de saber que la radiación existe a no ser que algún mercader del valle te lo cuente y son bastante huraños y sin mucha disposición a hablar sobre ellos. La «maldición» del valle les da un método fácil para deshacerse de la competencia.
 
-El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. La radiación es indetectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle. Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
+El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. 
+
+\sp
+
+La radiación es indetectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle. Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
 
 ### Los al mighos y el valle
 
@@ -152,13 +203,25 @@ Usando el método de la carne solo se pueden extraer diamantes. Por cada pieza d
 
 > /s/ **Semilla de aventura:** Si tus schahriars consiguen extraer diamantes del valle y venderlos, puede que lleguen a manos de agentes de los al mighos como la progenie de la Luna Creciente. Los al mighos mandarán a sus agentes humanos a averiguar de donde vienen los diamantes y estos harán lo que sea para saber de donde sacaron los cuasicristales. En resumen, tus schahriars deberán enfrentarse a un culto de psicópatas y a una tribu de Yinns por sus vidas.
 
+\sp
+
+\sinc
+
 [![La ciudad sin nombre, ilustración de leothefox](./images/ciudad-sin-nombre.jpg)](https://es.wikipedia.org/wiki/La_ciudad_sin_nombre#/media/Archivo:The_Nameless_City_by_leothefox.jpg "La ciudad sin nombre, ilustración de leothefox") 
 
 ## La ciudad sin nombre
 
 > Perdida en el desierto de Rub al-Jali se halla la Ciudad sin nombre, ruinosa y desmembrada, con sus bajos muros semienterrados en las arenas de incontables años. Así debía de encontrarse ya, antes de que pusieran las primeras piedras de Ur, y cuando aún no se habían cocido los ladrillos de Babilonia. No hay leyendas tan antiguas que recojan su nombre o la recuerden con vida; pero se habla de ella temerosamente alrededor de las fogatas, y jeiques susurran sobre ella también en sus haimas, de forma que todas las tribus de humanos y de yinns la evitan sin saber muy bien la razón.
 
-La Ciudad Sin Nombre es una metrópoli muy antigua, siendo esta demasiado arcaica para ser obra de humanos. Al adentrarse en las profundidades descubrimos que los verdaderos constructores y dirigentes de esa ciudad fueron en realidad seres alienígenas ancestrales, con aspecto reptiliano, baja estatura, cuadrúpedos y una fealdad grotesca. Con los milenios la ciudad cayó en decadencia, para ser abandonada y acabar medio enterrada en las arenas de Rub al-Jali.
+&nbsp;
+
+\conc
+
+La Ciudad Sin Nombre es una metrópoli muy antigua, siendo esta demasiado arcaica para ser obra de humanos. Al adentrarse en las profundidades descubrimos que los verdaderos constructores y dirigentes de esa ciudad fueron en realidad seres alienígenas ancestrales, con aspecto reptiliano, baja estatura, cuadrúpedos y una fealdad grotesca. 
+
+\sp
+
+Con los milenios la ciudad cayó en decadencia, para ser abandonada y acabar medio enterrada en las arenas de Rub al-Jali.
 
 La ciudad no se muestra a todo el mundo, solo los que saben que buscan pueden encontrar esta ciudad. Solo los afines a la magia podrán encontrar la ciudad si tienen las indicaciones de adecuadas. Las caravanas que pasan cerca de sus ruinas no la perciben, quizás vean algún tipo de espejismo, y son repelidas por algún tipo de hechizo. La gente de la caravana no se siente tranquila hasta no estar lejos de la ciudad.
 
@@ -172,32 +235,50 @@ Se dice que Abdul Alhazred soñó con esta ciudad la noche antes de pronunciar s
 
 La ciudad no se rige por la geometría euclidiana y es por ello que explorándola puede ocurrir algunos de estos sucesos por hora de exploración.
 
-Tabla de Geometría no-euclidiana
+### Tabla de Geometría no-euclidiana
+
+Todos estos sucesos extraños tienen un TPC d4, no quiebran tu mente mucho, pero como se suele decir, muchos pocos hacen un mucho.
+
+\sp
+
+\sinc
 
 |d6|Suceso extraño|
 |---|---|
 |1|**Esquinas rectas:** Cada vez que doblas la esquina parece que vuelves a estar en el mismo lado de la esquina. Solo doblando la esquina de espaldas podrán avanzar.|
 |2|**Callejones estrechos:** El callejón se hace cada vez más estrecho hasta no poder avanzar. Si una persona entra en el callejón y otro desde fuera se aleja para que el primero se haga más pequeño por su perspectiva, podrá pasar por el callejón. La pregunta es cómo pasará el último.|
 |3|**Escaleras:** Al subir o bajar una escalera no se moverán ellos, se moverá el resto del edificio.|
-|4|**Espejismos:** En las largas avenidas verán varias personas delante suyo, que en realidad son ellos mismos, de hecho, harán los mismos gestos y movimientos. Si salen corriendo, los espejismos saldrán corriendo y será imposible alcanzarlos.|
+|4|**Espejismos:** En las largas avenidas verán varias personas delante, que en realidad son ellos mismos, de hecho, harán los mismos gestos y movimientos. Si salen corriendo, los espejismos saldrán corriendo y será imposible alcanzarlos.|
 |5|**Miradores:** Si suben a un edificio o algún mirador para orientarse, si giran 360º aún les quedará otros 90º para volver a donde estaban al principio.|
 |6|**Demasiadas o demasiadas pocas esquinas:** Las habitaciones y estancias, incluso las plazas y los patios, no se corresponden igual dentro que fuera. Si entran en una estancia cuadrada o rectangular puede que una vez dentro tenga 5 o 3 esquinas.|
 
-Todos estos sucesos extraños tienen un TPC d4, no quiebran tu mente mucho, pero como se suele decir, muchos pocos hacen un mucho.
+\conc
 
 Por otro lado, cada hora de exploración supone una tirada de botín de d4. La exploración puede hacer de hora en hora o dar un número de horas directamente, esto permite hacer 4 tiradas de botín de d4 o acumularlas haciendo una o varias tiradas de botín acumuladas. Por ejemplo, con 4 horas directas de exploración se pueden hacer 2 tiradas de d8 (d4 + 2 niveles/hora) o una sola de d12 (d4 + 4 niveles/hora).
 
 ### La tumba de Alhazred
 
-Se cuenta que una de las miles de salas de la ciudad se halla la tumba de Abdul Alhazred, lo cual choca con la versión «oficial» de que murió en Damasco devorado por un monstruo invisible.
+Se cuenta que en una de los miles de salas de la ciudad se halla la tumba de Abdul Alhazred, lo cual choca con la versión «oficial» de que murió en Damasco devorado por un monstruo invisible.
+
+\sp
 
 Puede que en realidad la escena del monstruo no fuera más que una ilusión para secuestrarlo y traerlo aquí. Se cree que fue castigado por alguna oscura entidad por revelar secretos con su Necronomicón así que fue torturado, cegado, cortada su lengua y finalmente ejecutado y los pocos restos que quedaron metidos en un sarcófago sin nombre en una estancia perdida junto a una copia de su ominoso libro.
 
 Teniendo en cuenta que Alhazred es uno de los mayores conocedores de los mitos de Cthulhu, podría usarse algún tipo de hechizo de necromancia que permita hablar con los muertos (Adivinación) y obtener información sobre los mitos de Cthulhu.
 
+\sp
+
+\sinc
+
 [![Pool in a Harem by Jean-Léon Gérôme](./images/hammam.jpg)](https://es.wikipedia.org/wiki/Archivo:HaremPool.jpg "Pool in a Harem by Jean-Léon Gérôme") 
 
-El hammam de las delicias
+_El hammam de las delicias_
+
+\conc
+
+\sp
+
+\sinc
 
 ## El hammam de las delicias
 
@@ -205,11 +286,21 @@ El hammam de las delicias
 > 
 > **Referencia:** Historia de Aladino y la lámpara mágica (n. 757)
 
-El Hammam de las delicias es una especie de prisión donde encerrar a una persona sin que realmente sepas que estás encerrado. El Hammam es una especie de reino mágico (en realidad tecnología abu-qith) en la que se encierra la mente de prisionero y se le hace creer que está en un hammam increíblemente lujoso, con todo tipo de delicias, bellos y bellas masajistas, ricos manjares, aceites perfumados, piscinas de agua caliente, etc. Mientras, tu cuerpo puede estar en cualquier parte en estado casi comatoso, sin necesitar casi agua y comida.
+&nbsp;
+
+\conc
+
+El Hammam de las delicias es una especie de prisión donde encerrar a una persona sin que realmente sepas que estás encerrado. 
+
+El Hammam es una especie de reino mágico (en realidad tecnología abu-qith) en la que se encierra la mente de prisionero y se le hace creer que está en un hammam increíblemente lujoso, con todo tipo de delicias, bellos y bellas masajistas, ricos manjares, aceites perfumados, piscinas de agua caliente, etc. Mientras, tu cuerpo puede estar en cualquier parte en estado casi comatoso, sin necesitar casi agua y comida.
 
 Los abu-qith con sus posesiones a través del tiempo tienen que dejar la mente del poseído en su cuerpo mientras ellos poseen el cuerpo del humano. Por ello, intentaron crear estos lugares tecno-mágicos para que los humanos no tuvieran que meterse en los cuerpos de los abu-qith y se quedarán en estos limbos.
 
-La idea era colocar una diadema mágica al cuerpo del abu-qith con la mente humana y mientras el cuerpo apenas sufría deterioro, la mete vivía en ese hammam de las delicias. El problema es que las mentes se deterioraban bastante rápidamente y al final no llegaron a usarlos. Era mucho más práctico y efectivo dejarles vivir dentro de un cuerpo del abu-qith y borrarles la memoria antes de devolver su mente a su cuerpo.
+La idea era colocar una diadema mágica al cuerpo del abu-qith con la mente humana y mientras el cuerpo apenas sufría deterioro, la mete vivía en ese hammam de las delicias. El problema es que las mentes se deterioraban bastante rápidamente y al final no llegaron a usarlos.
+
+\sp
+
+Al final se dieron cuenta de que era mucho más práctico y efectivo dejarles vivir dentro de un cuerpo del abu-qith y borrarles la memoria antes de devolver su mente a su cuerpo.
 
 Las diademas funcionan con cualquier entidad o cosa que tenga dentro una mente humana, incluso aquellos malditos en cuerpos de animal o en tubos cerebrales al mighos y crean una fantasía idílica, normalmente el hammam, pero podría hacer otras fantasías para otras culturas.
 
@@ -223,6 +314,9 @@ La única forma de despertar por ti mismo es darse cuenta de que estás realidad
 * Todas las personas con las que interactuar en el Hammam tienen un limitado número de interacciones preparadas. Llegará un momento en que puedes darte cuenta de que repiten siempre el mismo gesto o cuentan el mismo chiste, etc. Si se pasa más de una semana en el hammam será evidente este punto, lo que supone un TPC d6.
 * Nada en el Hammam puede salirse de su programación. La gente no se enfada por mucho que intentes, los objetos no se rompen (no están pensados para romperse), los frascos no se vacían por más que viertas su contenido, etc. Las habitaciones se regeneran al salir de ellas. Genera un TPC d4.
 * La magia no funciona. Por más que lo intentes no funciona. Los objetos mágicos tampoco lo hacen, pero no hay gasto de PP.
+
+\sp
+
 * Hay bugs, como puertas que no tienen picaporte, jarrones sin agujero, personas con demasiados dedos o demasiados pocos, manjares que solo saben a pollo, objetos de tamaño no adecuado, etc.
 * No hay forma de hacerse daño, puedes hacerte dolor, pero no hay manera de generarte daño a ti mismo o a los demás, en caso de que estéis varios dentro del hammam.
 * La diadema no puede procesar bien relaciones sexuales, es capaz de procesar sin problemas masajes sensuales, caricias, lametones, pero a partir de ese punto no sabe como funcionar y se empieza todo a desmoronar.
@@ -233,6 +327,10 @@ Si alguna persona vuelve al hammam podrá identificarlo fácilmente, pero la tir
 
 Si te quitan la diadema saldrás directamente del hammam, pero es bastante traumático y supone un TPC d8 por el shock mental.
 
+\sp
+
+\sinc
+
 ## La Isla de los Siete Mares
 
 > Abrió el cofrecillo de oro, y vio un rollo de pergamino, que desplegó al punto.  
@@ -241,33 +339,46 @@ Si te quitan la diadema saldrás directamente del hammam, pero es bastante traum
 > 
 > **Referencia:** Historia de Belukia (n. 357)
 
+&nbsp;
+
+\conc
+
 La Isla de los Siete Mares en el lugar donde se supone que está la Tumba del gran rey y poderoso mago Suleimán. Es una tierra mágica llena de magia y prodigios, desde ejércitos de amazonas a gigantes.
 
-Es llamada así porque para llegar a dicha isla hay que cruzar 7 mares. Son mares tan peligrosos que ningún barco puede atravesarlos. Todas las naves que lo intentan acaban naufragando. La única forma conocida es frotando el [jugo de unas plantas mágicas](#anchorjugoagua) en los pies. Este jugo te permite caminar sobre las aguas y así recorrer los 7 mares. Estas plantas solo las conoce y son cultivadas por la reina Yamlika que vive en una especie de reino subterráneo.
+Es llamada así porque para llegar a dicha isla hay que cruzar 7 mares. Son mares tan peligrosos que ningún barco puede atravesarlos. Todas las naves que lo intentan acaban naufragando. La única forma conocida es frotando el jugo de unas plantas mágicas en los pies. Este jugo te permite caminar sobre las aguas y así recorrer los 7 mares. Estas plantas solo las conoce y son cultivadas por la reina Yamlika que vive en una especie de reino subterráneo.
 
 ### La reina Yamlika
-
-> Durante una hora estuvo recorriendo la tal galería, y llegó ante una puerta considerable de acero negro, con cerradura de plata y llave de oro. Abrió aquella puerta, y de repente hallóse al aire libre, en la orilla de un lago, al pie de una colina de esmeralda. En el borde del lago vio un trono de oro resplandeciente de pedrerías, y a su alrededor, reflejándose en el agua, sillones de oro, de plata, de esmeralda, de cristal, de acero, de madera de ébano y de sándalo blanco. Contó estos sillones, y supo que su número era de doce mil, ni más ni menos. \[…\]  
-> cuando oyó un son de címbalos y de gongs, y de pronto vio avanzar por la falda de la colina de esmeralda una fila de personas que se desplegaba hacia el lago, deslizándose más que caminando; y no pudo distinguirlas a causa de la distancia.
-
-> Cuando estuvieron más cerca, vio que eran mujeres de belleza admirable, pero cuya extremidad inferior terminaba como el cuerpo alargado y reptador de las serpientes. Su voz era muy agradable, y cantaban en griego loas a una reina que él no veía. Pero enseguida apareció detrás de la colina un cuadro formado por cuatro mujeres serpentinas, que llevaban en sus brazos, alzados por encima de su cabeza, un gran azafate lleno de oro, en el que se mostraba la reina sonriente y llena de gracia. Avanzaron las cuatro mujeres hasta el trono de oro, del que Hassib se apresuró a alejarse, y colocaron allí a su reina, arreglándola los pliegues de sus velos, y se mantuvieron detrás de ella, en tanto que cada una de las demás mujeres serpentinas habíase deslizado hacia uno de los sillones preciosos dispuestos alrededor del lago. Entonces con una voz de timbre encantador, dijo la reina algunas palabras en griego a las que la rodeaban …
-> 
-> **Referencia:** Historia de Belukia (n. 357)
 
 La reina Yamlika es una poderosa reina maga soñadora de la raza de la serpigente. Yamlika se ha creado con los milenios un mundo onírico que es casi real, por así decirlo, una mini-dimensión propia hecha de sueños. Los 12.000 mil sillones que hay en su sueño son el reflejo de los vasallos que perdió con la desaparición de Mu.
 
 Yamlika es omnipotente en su reino de sueños y nadie puede hacerle nada en ella. Además, ha seguidos sus experimentos mágico-científicos como es el jugo de las plantas para andar por el agua.
 
+\sp
+
+\sinc
+
+> Durante una hora estuvo recorriendo la tal galería, y llegó ante una puerta considerable de acero negro, con cerradura de plata y llave de oro. Abrió aquella puerta, y de repente hallóse al aire libre, en la orilla de un lago, al pie de una colina de esmeralda. En el borde del lago vio un trono de oro resplandeciente de pedrerías, y a su alrededor, reflejándose en el agua, sillones de oro, de plata, de esmeralda, de cristal, de acero, de madera de ébano y de sándalo blanco. Contó estos sillones, y supo que su número era de doce mil, ni más ni menos. \[…\]  
+> cuando oyó un son de címbalos y de gongs, y de pronto vio avanzar por la falda de la colina de esmeralda una fila de personas que se desplegaba hacia el lago, deslizándose más que caminando; y no pudo distinguirlas a causa de la distancia.
+> Cuando estuvieron más cerca, vio que eran mujeres de belleza admirable, pero cuya extremidad inferior terminaba como el cuerpo alargado y reptador de las serpientes. Su voz era muy agradable, y cantaban en griego loas a una reina que él no veía. Pero enseguida apareció detrás de la colina un cuadro formado por cuatro mujeres serpentinas, que llevaban en sus brazos, alzados por encima de su cabeza, un gran azafate lleno de oro, en el que se mostraba la reina sonriente y llena de gracia. Avanzaron las cuatro mujeres hasta el trono de oro, del que Hassib se apresuró a alejarse, y colocaron allí a su reina, arreglándola los pliegues de sus velos, y se mantuvieron detrás de ella, en tanto que cada una de las demás mujeres serpentinas habíase deslizado hacia uno de los sillones preciosos dispuestos alrededor del lago. Entonces con una voz de timbre encantador, dijo la reina algunas palabras en griego a las que la rodeaban …
+> 
+> **Referencia:** Historia de Belukia (n. 357)
+
+&nbsp;
+
+\conc
+
 A diferencia de otros miembros de su raza, Yamlika acepta a los humanos y no los ve como una plaga a exterminar o posibles seres para esclavizar. De hecho, de buen grado responde a preguntas con un Saber de Suleimán d12+2 e incluso podría enseñar magia a schahriars que le caigan excepcionalmente bien.
 
 Puede incluso querer tener un encuentro sexual o una relación romántica con alguno de los o las schahriars si los encuentra atractivos o intelectualmente atrayentes. Los suele marcar convirtiendo partes de su piel es escamas de serpiente que ella disfruta acariciando como si fueran de su misma especie.
 
+Para entrar en el reino de Yamlika, debes buscar un lugar deshabitado y ejecutar dos hechizos, uno de Sueño para dormir y otro de Interpretar los sueños para meterse dentro del sueño de Yamlika.
+
 > Tras de lo cual, seguido por el sabio Offán, salió de su palacio y de su ciudad y se adentró en el desierto.  
-> Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargo al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
+> Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargó al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
 > 
 > **Referencia:** Historia de Belukia (n. 357)
 
-Para entrar en el reino de Yamlika, debes buscar un lugar deshabitado y ejecutar dos hechizos, uno de Sueño para dormir y otro de Interpretar los sueños para meterse dentro del sueño de Yamlika.
+\sp
 
 Mientras estés dormido nada físico te puede pasar en el sueño de Yamlika, si puedes perder cordura ante lo que pudiera enseñarte Yamlika. Eso sí, tu cuerpo físico estará desprotegido en el mundo real. Es importante destacar que todo lo que te ofrezca Yamlika se convertirá en real al despertar. Por el contrario, si, por ejemplo, robas oro sin su permiso se quedará en su dimensión onírica.
 
@@ -291,6 +402,8 @@ Tras varios días de andar por el segundo mar, hay una cadena montañosa hecha d
 
 Tras unas semanas de andar por el tercer mar te encuentras una isla llena de árboles frutales que dan frutas confitadas. Cuidado con comer muchas o podrías enfermar.
 
+\sp
+
 #### El cuarto mar
 
 Tras andar 4 días y 4 noches llegan a isla que no es más que un banco de arena lleno de reptiles al sol. Si fuera necesario puedes comerte los huevos a riesgo de atraer la ira de los reptiles.
@@ -313,6 +426,8 @@ El sexto mar tarde varias semanas en cruzarse y acaba En una extraña isla llena
 
 Cruzar el último mar puede tardar meses y podría obligar a los viajeros a tener que pescar para sobrevivir.
 
+\sp
+
 ### La isla de los siete Mares
 
 Tras cruzar el séptimo mar llegaremos a la isla de los Siete Mares, otra isla paradisíaca con ríos de agua fresca, árboles frutales, aves de vivos colores, etc. Pero la isla está habitada y protegida por una tribu de gugos que cuidan de que nadie salga vivos. Los gugos están repartidos por toda isla vigilando que haya extraños, dándoles caza y devorando sus cuerpos.
@@ -331,12 +446,21 @@ Hay que hacer 5 tiradas de Atletismo para esquivar las gotas de diamante y llega
 
 El anillo de Suleimán es explicado [más adelante](#anchoranillosoleiman) y el cetro es un objeto mágico de gran poder que maximiza todos los conjuros que se lancen cuando lo portamos. A nivel de juego hace que la persona que lo porte al lanzar un hechizo obtenga un avance extra si consigue lanzarlo.
 
+\sp
+
+\sinc
+
 ## La cueva de las maravillas
 
-> Entonces el magrebí sacó del cinturón un eslabón, con el que hizo lumbre, y prendió fuego al montón de ramas y hierbas secas, que llamearon crepitando. Y al punto sacó del bolsillo una caja de concha, la abrió y tomó un poco de incienso, que arrojó en medio de la hoguera. Y levantóse una humareda muy espesa que apartó él con sus manos a un lado y a otro, murmurando fórmulas en una lengua incomprensible en absoluto para Aladino. Y en aquel mismo momento tembló la tierra y se conmovieron sobre su base las rocas y se entreabrió el suelo en un espacio de unos treinta codos de anchura que desprendía un terrible hedor. Y del fondo de aquel agujero emergieron los restos podridos de un inmenso falak muerto. \[…\]  
+> Entonces el magrebí sacó del cinturón un eslabón, con el que hizo lumbre, y prendió fuego al montón de ramas y hierbas secas, que llamearon crepitando. Y al punto sacó del bolsillo una caja de concha, la abrió y tomó un poco de incienso, que arrojó en medio de la hoguera. Y levantóse una humareda muy espesa que apartó él con sus manos a un lado y a otro, murmurando fórmulas en una lengua incomprensible en absoluto para Aladino. Y en aquel mismo momento tembló la tierra y se conmovieron sobre su base las rocas y se entreabrió el suelo en un espacio de unos treinta codos de anchura que desprendía un terrible hedor. Y del fondo de aquel agujero emergieron los restos podridos de un inmenso falak muerto. \[…\]
+>
 > Y el magrebí le dijo: "Hijo mío Aladino, tápate la nariz y la boca con mi pañuelo y adéntrate ahora en ese ser mientras declamas tu linaje. Y te hallarás debajo de una bóveda grande dividida en tres buches que se comunican unas con otras. En cada estómago encontrarás objetos singulares y valiosos entre los pliegues de la carne de las paredes. Pero pasa sin detenerte y recógete bien el traje, sujetándotelo a la cintura para que no toques nada; porque debido si tuvieras la desgracia de tocar con los dedos o rozar siquiera con tus ropas las paredes su ponzoñosa sangre y su ácida bilis, al instante morirás envenenado entre terribles dolores. Entrarás, pues, en el primer estómago, y muy de prisa pasarás al segundo, desde la cual, sin detenerte un instante, penetrarás en el tercero, donde verás una pequeña cavidad. Y te adentrarás en ella, y te encontrarás una especie de hornacina de carne y sangre; y en esta hornacina, sobre un pedestal de hueso, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! ¡Y volverás a mí por el mismo camino que hayas seguido! Y una vez que te hayas reunido conmigo, me entregarás la lámpara, fin y motivo de nuestro viaje y origen de nuestra riqueza y de nuestra gloria en el porvenir, ¡oh hijo mío!"
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 738)
+
+&nbsp;
+
+\conc
 
 La cueva de las Maravillas es el lugar mítico donde Aladino consiguió la lámpara mágica. A pesar de lo que pueda parecer, la cueva de las maravillas es uno de los lugares más horribles donde entrar, ya que, en realidad, es el cadáver descompuesto de un gigantesco falak.
 
@@ -344,9 +468,23 @@ No hay una única cueva, sino que hay un mínimo de tres conocidas, una en Kasga
 
 Las razones de la muerte de los falak es desconocida, pero la tradición dice que es tan poderoso que solo su miedo al mayor poder de Dios le impide tragarse toda la creación.
 
+\sp
+
+\sinc
+
+[![Tentacles por AngelaMaps](./images/interior-falak.jpg)](https://angelamaps.com/2024/03/12/tentacles/ "Tentacles por AngelaMaps") 
+
+_La Cueva de las Maravillas - Interior de un falak_
+
+\conc
+
+\sp
+
 ### Abriendo la cueva
 
-El mago que desee abrir la cueva debe saber la ubicación donde está enterrado el falak y debe realizar un hechizo de Animar cuerpo sobre el cadáver del falak para hacer que salga de la arena y la boca se abra. Presenciar como el cadáver descompuesto de un falak muerto se levanta de entre las arenas del desierto es un TPC d8, adentrarse en su interior supone una segunda TPC d12.
+El mago que desee abrir la cueva debe saber la ubicación donde está enterrado el falak y debe realizar un hechizo de Animar cuerpo sobre el cadáver del falak para hacer que salga de la arena y la boca se abra.
+
+Presenciar como el cadáver descompuesto de un falak muerto se levanta de entre las arenas del desierto es un TPC d8, adentrarse en su interior supone una segunda TPC d12.
 
 Recuerda que el poder Zombi solo dura una hora y animar un falak muerto supone un gasto de un montón de puntos de poder debido a su tamaño.
 
@@ -362,15 +500,17 @@ El metano acumulado del cadáver puede prender con cualquier chispa, haciendo de
 
 El falak tiene un tamaño terrible, por lo que puede haber caídas grandísimas de hasta 100 metros en muchos casos. Como siempre, el material de escalada ayudará a moverse por su interior.
 
+\sp
+
 A lo Jonás y la ballena, podría haber seres de los Mitos que sobrevivan en el interior del falak, como ghūles que se dedican a comer la carne del falak.
 
 ### Buscando tesoros
 
 Durante miles de años los falaks han devorado dimensiones extraplanares y planos multidimensionales y restos de esas realidades pueden encontrarse todavía en su podrido sistema digestivo. Buscar una hora dentro de un falak permite una tirada de botín de d12.
 
-[![Tentacles por AngelaMaps](./images/interior-falak.jpg)](https://angelamaps.com/2024/03/12/tentacles/ "Tentacles por AngelaMaps") 
+\sp
 
-La Cueva de las Maravillas - Interior de un falak
+\sinc
 
 ## La Montaña del Imán
 
@@ -380,15 +520,26 @@ La Cueva de las Maravillas - Interior de un falak
 > 
 > **Referencia:** Historia del tercer saaluk (n. 14)
 
-En mitad del mar hay una isla llamada la isla de la Montaña del Imán. La isla es una gigantesca montaña salida del ma, sin sitios para fondear o sitios en los que desembarcar. Toda la costa son grandes acantilados con peligrosos arrecifes que imposibilitan bajar a tierra.
+&nbsp;
+
+\conc
+
+En mitad del mar hay una isla llamada la isla de la Montaña del Imán. La isla es una gigantesca montaña salida del mar, sin sitios para fondear o sitios en los que desembarcar. Toda la costa son grandes acantilados con peligrosos arrecifes que imposibilitan bajar a tierra.
 
 En lo alto de la montaña hay una especie de cúpula de cobre soportada por 10 columnas y debajo de ella una estatua ecuestre hecha de un metal desconocido muy parecido al cobre.
 
-La sola presencia de la montaña congela los corazones de los marinos que saben que su fin está cerca. Enseguida su barco se ve atraído hacia la isla y cuando está cerca, los clavos anclajes y demás elementos metálicos salen volando hacia la montaña. Si todavía sigue a flote después de esto acaba estrellándose contra los arrecifes y acantilados y los marinos mueren ahogados al no poder subir a tierra firme.
+La sola presencia de la montaña congela los corazones de los marinos que saben que su fin está cerca.
+
+Enseguida su barco se ve atraído hacia la isla y cuando está cerca, los clavos anclajes y demás elementos metálicos salen volando hacia la montaña. 
+
+Si todavía sigue a flote después de esto acaba estrellándose contra los arrecifes y acantilados y los marinos mueren ahogados al no poder subir a tierra firme.
+
+\sp
 
 La montaña de piedra ferrosa, gracias a la estatua ecuestre, es un gigantesco y superpoderoso imán que atrae a todos los barcos que se le acercan. Las laderas de la montaña están cubiertas de objetos metálicos que el imán ha arrancado de los barcos y sus tripulantes. Algunos llevan siglos allí rotos y oxidados. Además, es casi imposible despegarlos del suelo al que están pegados.
 
-Todo barco con componentes metálicos que entre en el radio de 5 km. de las montañas del imán entra en su zona de atracción y no puede escapar de su zona magnetizar a no ser que se pase una tirada de Pilotar -4. Si se falla, se acerca un kilómetro a la isla y para escapar hay que superar una tirada de pilotar -5 (4 + 1 por cada kilómetro). Si falla se acerca otro km hasta llegar a distancia de recibir daño. Si se pasa la tirada recupera un kilómetro.  
+Todo barco con componentes metálicos que entre en el radio de 5 km. de las montañas del imán entra en su zona de atracción y no puede escapar de su zona magnetizar a no ser que se pase una tirada de Pilotar -4. Si se falla, se acerca un kilómetro a la isla y para escapar hay que superar una tirada de pilotar -5 (4 + 1 por cada kilómetro). Si falla se acerca otro km hasta llegar a distancia de recibir daño. Si se pasa la tirada recupera un kilómetro.
+
 La montaña produce 3d6 de daño a todos los barcos que se acerquen a rango de 0.5 km. El daño es producido por todos las piezas de metal arrancadas y los arrecifes contra los que es atraído. El daño se repite cada 5 minutos hasta que lo destruye contra los arrecifes.
 
 Dentro de este rango de 0.5 km, cada schahriar puede tratar de evitar que dos de sus objetos metálicos se vayan volando haciendo una tirada de FUE enfrentada contra d10. Si se pasa, durante 5 minutos se puede usar en objeto sin problema. Si falla el objeto sale volando de sus manos. Si los objetos son soltados, salen volando y se pierden.
@@ -398,6 +549,8 @@ Toda la montaña se considera terreno difícil debido a la pendiente de la monta
 ### La estatua ecuestre en la cima
 
 La estatua ecuestre de las montañas de Imán es una de las tres estatuas ecuestres con poderes mágicos que aparecen en las 1001 Noches. Es lo que le da su tremendo poder magnético a las montañas de Imán. Sin esa estatua, las montañas solo sería unos grandes bloques de piedra tierra ricos en elementos férricos.
+
+\sp
 
 Hay varias teorías sobre el origen de la estatua, siendo todas posibles en mayor o meno medida.
 
@@ -411,9 +564,13 @@ La estatua es inmune a todo ataque que no sea mágico y, además, no puede usars
 
 Una opción podría ser encender un fuego en su base y cuando el metal esté al rojo vivo, lanzar agua fría para que el brusco cambio de temperatura la haga estallar. Habría que separarla rápidamente porque si no volvería a reconstruirse por acción del propio magnetismo.
 
-La estatua pesa casi 3 toneladas, así que otra opción sería tratar de moverla y lanzarla al mar lejos de las ferrosas montañas. Un rokh podría cargar con ella y lanzarla lejos a alguna sima oceánica donde no podría molestar a nadie.
+La estatua pesa casi 3 toneladas, así que otra opción sería tratar de moverla y lanzarla al mar lejos de las ferrosas montañas. 
 
-**Recompensa de cordura (+1):** Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
+\sp
+
+Un rokh podría cargar con ella y lanzarla lejos a alguna sima oceánica donde no podría molestar a nadie.
+
+> /s/ **Recompensa de cordura (+1):** Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
 
 ### Saqueo de la isla
 
@@ -423,15 +580,29 @@ Si se está una hora buscando activamente entre los restos de naufragios y los o
 
 > /s/ **Semilla de aventura:** Si la teoría del arma anti naves espaciales es cierta, la montaña podría tener unas instalaciones militares de los creadores de la estatua y a las que esta protegía de ataques. Puede haber de todo en esas instalaciones.
 
+\sp
+
+\sinc
+
 [![Rūdolfs Pērle - Saule (1916) Tempera](./images/gharne.jpg)](https://en.wikipedia.org/wiki/R%C5%ABdolfs_P%C4%93rle#/media/File:R%C5%ABdolfs_P%C4%93rle_-_Saule_(1916).jpg "Rūdolfs Pērle - Saule (1916) Tempera") 
+
+&nbsp;
 
 ## La ciudad de G’harne
 
 > y con un suave temblor la duna se empezó a desmoronar ante sí, apareciendo en una ciudad en ruinas. Cuando aquella ciudad supo, como contaban los jeiques de su tribu, que se encontraba frente a la ciudad de G’harne y que su destino estaba sellado, moriría devorado por los falaks que viven en esas arenas, o peor, acabaría convertido en uno de sus esclavos.
 
-G’harne es una misteriosa ciudad sita en algún lugar de los desiertos páramos del norte de África. Las tribus bereberes hablan de esta ciudad como un lugar maldito y encontrársela, las raras veces que eso sucede, es un mal augurio. Nada bueno presagia ver la silueta de G’harne contra el sol del ocaso o del alba.
+&nbsp;
 
-De la ciudad de G’harne solo quedan en pie los muros de algún gigantesco templo o palacio. Todas las superficies de las ruinas están llenos de extraños glifos punteados que nadie que los haya visto ha podido descifrar.
+\conc
+
+G’harne es una misteriosa ciudad sita en algún lugar de los desiertos páramos del norte de África. Las tribus bereberes hablan de esta ciudad como un lugar maldito y encontrársela, las raras veces que eso sucede, es un mal augurio.
+
+Nada bueno presagia ver la silueta de G’harne contra el sol del ocaso o del alba.
+
+\sp
+
+De la ciudad de G’harne solo quedan en pie los muros de algún gigantesco templo o palacio y todas las superficies medianamente lisas de las ruinas están llenos de extraños glifos punteados que nadie que los haya visto ha podido descifrar.
 
 ### G’harne y los janns
 
@@ -449,6 +620,8 @@ Si no se tiene ninguna referencia, ni nada con que compararlo, traducir esos gli
 
 La traducción de los glifos puede ordenarse y estudiarse adecuadamente y crear un grimorio/libro de historia bastante interesante para cualquier practicante de las artes mágicas.
 
+\sp
+
 El libro que se consiga de las traducciones nos da un interesante grimorio de NP 5. No es tanto un grimorio como un libro de historia, de ahí su bajo nivel, pero como libro de historia otorga un +2 a las tiradas de Saber de Suleimán relacionado con janns y las guerras que mantuvieron con otros tipos de yinns antes de la aparición del hombre.
 
 ### G’harne y los falaks menores
@@ -460,3 +633,13 @@ Otra opción que explicaría que los falak menores tengan tanto interés en G’
 La historias que cuentan que G’harne es que solo se aparece a quien la ciudad quiere. Esto puede explicarse en la medida que los falaks menores pueden mover las dunas a su voluntad y tapar o destapar las ruinas.
 
 Los falaks con sus poderes de dominación mental han ido atrayendo a personas de mente débil que pasaban cerca de las ruinas y les han hecho abandonar sus caravanas o sus tribus nómadas. Estas personas sobreviven como pueden en los oasis cercanos y sirven a sus amos espiando para ellos o cumpliendo sus órdenes que van desde espantar a los intrusos a asesinarlos por la noche.
+
+\sp
+
+\sinc
+
+## La Ciudad de Bronce
+
+\conc
+
+La magnifica y maldita Ciudad de Bronce es descrita más ampliamente en el cuento salvaje "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce". En él se describe y se explica cómo encontrarla y cómo eliminar la maldición que se ciñe sobre ella y sus habitantes.

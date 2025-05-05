@@ -112,6 +112,7 @@ blockquote:has(p.semilla) {
 blockquote p {
   padding: 0px;
   margin: 0px;
+  font-size: 0.7em;
 }
 
 blockquote > p + p {
@@ -123,6 +124,7 @@ pre code {
   font-family: 'Open Sans', sans-serif;
   display: block;
   padding: 10px;
+  font-size: 0.7em;
 }
 
 pre {
@@ -190,7 +192,7 @@ ul li:before {
   content: "\26E7";
   position: absolute;
   font-size: 22px;
-  top: 0px;
+  top: -10px;
   left: -23px;
   display: block;
   color: var(--color-red);

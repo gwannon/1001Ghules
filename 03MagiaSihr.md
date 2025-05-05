@@ -208,6 +208,8 @@ Según el rango del lanzador, podrá invocar los aliados de rango igual o inferi
 
 \conc
 
+\sp
+
 Los monstruos invocados generan una TPC igual a la del monstruo a todos los que lo vean, excepto el invocador que su TPC es menos dos niveles con un mínimo de d4. No se puede usar el modificador de Horror.
 
 ### Manipulación elemental
@@ -232,9 +234,9 @@ Este poder es típicamente de los Mitos, junto a Manipulación de recuerdos qued
 
 Caminar sobre fuego, andar por el fondo marino o simplemente sobrevivir a los rigores del desierto son algo normal en los cuentos, pero los mitos son mucho más modernos y en ellos se hablan de conceptos más modernos como radiaciones, presión, vacío, etc.
 
-Considera que la protección medioambiental cubre todos los aspectos de un tipo de acción sin importar todos los riesgos. Por ejemplo, respirar debajo del agua te da agallas para respirar y resistencia contra la presión.
-
 \sp
+
+Considera que la protección medioambiental cubre todos los aspectos de un tipo de acción sin importar todos los riesgos. Por ejemplo, respirar debajo del agua te da agallas para respirar y resistencia contra la presión.
 
 ### Proyectil
 
@@ -260,9 +262,11 @@ Todo esto coincide con las historias del autor de Providence, donde los sueños 
 
 ### Vuelo
 
-Volar es un poder muy habitual en las historias de las 1001 Noches, tanto con objetos mágicos como con monturas aladas o pócimas místicas.Aunque la mayoría de las veces volar supone una forma de viajar muy rápido por todo el mundo, también hay veces en que los seres vuelan y combaten en el aire.
+Volar es un poder muy habitual en las historias de las 1001 Noches, tanto con objetos mágicos como con monturas aladas o pócimas místicas.
 
 \sp
+
+Aunque la mayoría de las veces volar supone una forma de viajar muy rápido por todo el mundo, también hay veces en que los seres vuelan y combaten en el aire.
 
 ### Zombi
 

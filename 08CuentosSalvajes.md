@@ -809,9 +809,9 @@ Si acaban con el cuerpo, pero lo dejan sin exorcizar, Adif volverá a regenerars
 
 Si no hacen el trabajo y le mienten a Fátima, Fátima acabará muerta, ya que irá a la casa para habilitarla para los niños, pensando que la casa está libre de cheitans y la daga mágica la cortará el cuello.
 
-**Recompensa de cordura (+1):** Si tus schahriars recogen todos los archivos de la Capilla, los estudia, los clasifica y los lleva a las autoridades, estos informarán a los familiares de las víctimas de los sacrificios humanos. En muchos casos se podrán recuperar los cadáveres de las víctimas y darles un entierro digno. Esto dará por fin un respiro a las familias y debes considerar que esto debería ayudar a la cordura de tu mesa.
+> /s/ **Recompensa de cordura (+1):** Si tus schahriars recogen todos los archivos de la Capilla, los estudia, los clasifica y los lleva a las autoridades, estos informarán a los familiares de las víctimas de los sacrificios humanos. En muchos casos se podrán recuperar los cadáveres de las víctimas y darles un entierro digno. Esto dará por fin un respiro a las familias y debes considerar que esto debería ayudar a la cordura de tu mesa.
 
-**Recompensa de cordura (+1):**Fátima ha conseguido para el pequeño Consejo donde meter a los más pequeños y a los enfermos. A pesar del gasto, esto va a suponer una mejora increíble para los niños y niñas de las calles de Bagdad.
+> /s/ **Recompensa de cordura (+1):**Fátima ha conseguido para el pequeño Consejo donde meter a los más pequeños y a los enfermos. A pesar del gasto, esto va a suponer una mejora increíble para los niños y niñas de las calles de Bagdad.
 
 ### Historia del asesino de Suc’Naath
 
@@ -1277,7 +1277,7 @@ A nivel de juego, los rebeldes exigen unas 3 semanas de víveres, pero también 
 
 Si luchan, cada turno la expedición perderá a una persona, la ventaja será que cada 5 personas muertas recuperan media semana de víveres. Los muertos ni comen ni beben.
 
-**Recompensa de cordura (1):** Ayudar a los rebeldes no es fácil, pero es lo decente. Dales también una recompensa si después de la expedición vuelven a ayudar a los rebeldes.
+> /s/ **Recompensa de cordura (1):** Ayudar a los rebeldes no es fácil, pero es lo decente. Dales también una recompensa si después de la expedición vuelven a ayudar a los rebeldes.
 
 #### Misterio: Asalto a medianoche
 
@@ -1725,7 +1725,7 @@ Los pocos supervivientes del Gremio darán su eterna gratitud a tus schahriars s
 
 Las aventuras y desventuras de la expedición correrán como la pólvora por todo Oriente Medio y Norte de África, contado por músicos y cantantes en khans y tabernas. Podrán conseguir bebida y comida gratis si cuentan su historia y tendrán +1 cuando tengan que negociar su sueldo en otras misiones locas como esta aventura. Tener a unos supervivientes de la Ciudad de Bronce
 
-**Recompensa de cordura (2):** Librar a toda una ciudad de una maldición tras cruzar alguno de los lugares más peligrosos de la tierra permite ver las cosas con perspectiva y aclarar tus ideas sobre tu vida y el mundo. Todos tus schahriars recuperan dos puntos de cordura.
+> /s/ **Recompensa de cordura (2):** Librar a toda una ciudad de una maldición tras cruzar alguno de los lugares más peligrosos de la tierra permite ver las cosas con perspectiva y aclarar tus ideas sobre tu vida y el mundo. Todos tus schahriars recuperan dos puntos de cordura.
 
 ### Otras aventuras
 
@@ -2081,7 +2081,7 @@ La estatua debería hacerla desaparecer en mitad del mar o en alguno de los mist
 
 Si registran los objetos de Ziba y del resto de la secta tendrán un botín de 1d2+2 además de los objetos que porten Alura y Ziba.
 
-**Recompensa de cordura (+2):** Evitar que un culto de brujos, locos y asesinos traigan a nuestro mundo un dios extraterrestre con dudosas intenciones tiene su recompensa. Todos tus schahriars recuperan dos puntos de cordura.
+> /s/ **Recompensa de cordura (+2):** Evitar que un culto de brujos, locos y asesinos traigan a nuestro mundo un dios extraterrestre con dudosas intenciones tiene su recompensa. Todos tus schahriars recuperan dos puntos de cordura.
 
 [![El joven rey de las Islas Negras por Maxfield Parrish](./images/trono.jpg)](https://en.wikipedia.org/wiki/Maxfield_Parrish "El joven rey de las Islas Negras por Maxfield Parrish") 
 
@@ -2622,7 +2622,7 @@ Puedes también usar la quimera genérica conocida como [langosta](#anchorlangos
 
 Ponles el rasgo de bestia Duro para que aguanten más y trata de que sean diferentes y que exploten los defectos de tus schahriars, por ejemplo, voladoras si son de cuerpo a cuerpo. Si ves que las primeras quimeras caen fácilmente puedes hacerlas comodines para subir las apuestas o ponerles arma de aliento.
 
-**Recompensa de cordura (+1):** Las quimeras no son seres malvados de por sí, solo son extraños animales salvajes que tratan de sobrevivir. Si en vez de matarlos buscan la forma de capturarlos y buscarles un nuevo hábitat donde vivir sin generar problemas, podrías recompensarles recuperando un punto de cordura. La zona del Atlas podría ser una zona interesante.
+> /s/ **Recompensa de cordura (+1):** Las quimeras no son seres malvados de por sí, solo son extraños animales salvajes que tratan de sobrevivir. Si en vez de matarlos buscan la forma de capturarlos y buscarles un nuevo hábitat donde vivir sin generar problemas, podrías recompensarles recuperando un punto de cordura. La zona del Atlas podría ser una zona interesante.
 
 ### El alcázar en las nubes
 
@@ -2856,7 +2856,7 @@ Si paran la operación y acaban con los al mighos, la psique de Mariam se romper
 
 Los al mighos derrotados dejarán de botín los artilugios que había en la caa de Bassir que no se han podido llevar. Además, podrán coger los enseres personales de Mariam y quedárselos (botín d8 con solo riquezas, objetos mundanos y grimorios, además de todo tipo de artilugios astronómicos). Puede que quieran devolvérselos a su familia, se los queden o traten de venderlos.
 
-**Recompensa de cordura (+1):** Si aceptan las decisiones personales de Mariam y no tratan de contrariarlas, otórgales un punto de cordura.
+> /s/ **Recompensa de cordura (+1):** Si aceptan las decisiones personales de Mariam y no tratan de contrariarlas, otórgales un punto de cordura.
 
 ### Sepultureros
 
@@ -2951,4 +2951,4 @@ Si limpian el cráter, el color y su cría serán destruidos y poco a poco los r
 
 Si se van sin resolver el problem del color, el pueblo será arrasado por la gente del mar infectada. El color original una vez su cría sea adulta volverá a las estrellas mientras las crías infectarán nuevas zonas del mar.
 
-**Recompensa de cordura (+1):** Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, gente del mar y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura. .
+> /s/ **Recompensa de cordura (+1):** Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, gente del mar y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura. .

@@ -481,7 +481,7 @@ Pasando una semana en Wadi us-Salaam, haciendo una tirada de TPC d4 y gastando 5
 
 Se dice que el cuerpo del profeta Saleh y sus reliquias, como su arco mágico, están enterrados en alguno de los mausoleos de esta necrópolis. Muchos saqueadores de tumbas han tratado de encontrar su tumba, pero parece que nadie ha tenido éxito.
 
-**Recompensa de cordura (+1):** Dentro de algunas sectas musulmanas es muy importante ser enterrado en Wadi us-Salaam. Recompensa con un punto de cordura a los schahriars que se encarguen personalmente de que se entierre a PNJ u otros schahriars en Wadi us-Salaam y velen su cadáver contra ladrones de cadáveres y ghūles.
+> /s/ **Recompensa de cordura (+1):** Dentro de algunas sectas musulmanas es muy importante ser enterrado en Wadi us-Salaam. Recompensa con un punto de cordura a los schahriars que se encarguen personalmente de que se entierre a PNJ u otros schahriars en Wadi us-Salaam y velen su cadáver contra ladrones de cadáveres y ghūles.
 
 [![Babilonia - František Kupka](./images/babilonia-2.jpg)](https://es.wikipedia.org/wiki/Franti%C5%A1ek_Kupka "Babilonia - František Kupka") 
 

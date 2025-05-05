@@ -32,7 +32,7 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-|03MagiaSihr.md|
+03MagiaSihr.md|
 
 ***
 
@@ -40,7 +40,7 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-05LugaresMiticos.md|
+|05LugaresMiticos.md|
 
 ***
 
