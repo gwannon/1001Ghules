@@ -376,7 +376,9 @@ Giafar y la califesa querrán agradecer por salvar la ciudad y el califato a los
 
 Adicionalmente, el fondo de resistencia recibirá 5.000 dinares y Fátima entregará 200 a cada schahriar.
 
-**Recompensa de cordura:** Si consiguen detener el plan de la Progenie y los al mighos y asistes a la feria del califa, recuperarán algo de su infancia perdida, esa que las calles de Bagdad les arrebataron. Devuelves todos los puntos de cordura perdida en la aventura y si no han perdido nada podrán quitarse un trastorno que hayan adquirido.
+```
+Recompensa de cordura: Si consiguen detener el plan de la Progenie y los al mighos y asistes a la feria del califa, recuperarán algo de su infancia perdida, esa que las calles de Bagdad les arrebataron. Devuelves todos los puntos de cordura perdida en la aventura y si no han perdido nada podrán quitarse un trastorno que hayan adquirido.
+```
 
 > /s/ **Semilla de aventura:** El plan de la Progenie de la Luna ha sido frustrado, pero todavía queda acabar son sus miembros en Balaz Rud y los yinns malvados que los dirigen. Son muy peligrosos como para dejarlos escapar y que puedan volver a conspirar contra el Califa y la ciudad. Pero primero habrá que encontrar su guarida en la región de Balad Ruz.
 
@@ -598,7 +600,9 @@ Necesitarán coger dos cubos de hielo y cada schahriar puede llevar un cubo. Una
 
 Si consiguen llegar con el hielo, Fátima habrá preparado una bañera de agua donde está metida la enferma, verterá todo el hielo y rezará por que funcione.
 
-**Recompensa de cordura:** Si consiguen salvar a la enferma pueden quitarse cualquier perdida de cordura o trastorno que hayan adquirido en la aventura. Además, han conseguido una aliada, Almirah, que trabaja como ayudante de un pastelero. Puede conseguirles dulces y dejarles usar el horno y los utensilios de su jefe.
+```
+Recompensa de cordura: Si consiguen salvar a la enferma pueden quitarse cualquier perdida de cordura o trastorno que hayan adquirido en la aventura. Además, han conseguido una aliada, Almirah, que trabaja como ayudante de un pastelero. Puede conseguirles dulces y dejarles usar el horno y los utensilios de su jefe.
+```
 
 ### Historia de la locura del almotacén
 
@@ -809,9 +813,11 @@ Si acaban con el cuerpo, pero lo dejan sin exorcizar, Adif volverá a regenerars
 
 Si no hacen el trabajo y le mienten a Fátima, Fátima acabará muerta, ya que irá a la casa para habilitarla para los niños, pensando que la casa está libre de cheitans y la daga mágica la cortará el cuello.
 
-> /s/ **Recompensa de cordura (+1):** Si tus schahriars recogen todos los archivos de la Capilla, los estudia, los clasifica y los lleva a las autoridades, estos informarán a los familiares de las víctimas de los sacrificios humanos. En muchos casos se podrán recuperar los cadáveres de las víctimas y darles un entierro digno. Esto dará por fin un respiro a las familias y debes considerar que esto debería ayudar a la cordura de tu mesa.
+```
+Recompensa de cordura (+1): Si tus schahriars recogen todos los archivos de la Capilla, los estudia, los clasifica y los lleva a las autoridades, estos informarán a los familiares de las víctimas de los sacrificios humanos. En muchos casos se podrán recuperar los cadáveres de las víctimas y darles un entierro digno. Esto dará por fin un respiro a las familias y debes considerar que esto debería ayudar a la cordura de tu mesa.
 
-> /s/ **Recompensa de cordura (+1):**Fátima ha conseguido para el pequeño Consejo donde meter a los más pequeños y a los enfermos. A pesar del gasto, esto va a suponer una mejora increíble para los niños y niñas de las calles de Bagdad.
+Recompensa de cordura (+1): Fátima ha conseguido para el pequeño Consejo donde meter a los más pequeños y a los enfermos. A pesar del gasto, esto va a suponer una mejora increíble para los niños y niñas de las calles de Bagdad.
+```
 
 ### Historia del asesino de Suc’Naath
 
@@ -884,7 +890,9 @@ Si lo derrotan tendrá un botín de d6. Entre sus pertenencias y los objetos rob
 
 **Poción borra recuerdos:** La poción de borrar recuerdos permite, si se falla una tirada de Espíritu contra d10 de la poción, en remodelar los recuerdos a voluntad. Podrá borrar o editar todos los recuerdos que se quieran. El problema es que contra más recuerdos se modifiquen, más posibilidades hay de que noten las modificaciones y el efecto de la poción desaparezca.
 
-**Recompensa de deseos:** Sé generoso en deseos con aquellos que hagan heroicidades o tengan ideas ingeniosas que les ayuden a escapar.
+```
+Recompensa de deseos:** Sé generoso en deseos con aquellos que hagan heroicidades o tengan ideas ingeniosas que les ayuden a escapar.
+```
 
 > Una forma interesante de jugar este cuento es que haya dos grupos, uno que trate de sobrevivir a las pruebas y otro que investigue el secuestro y trate de encontrar a sus compañeros. En este caso lo mejor sería que los mayores sean los secuestrados y los pequeños los que tengan que encontrarlos.
 
@@ -1277,7 +1285,9 @@ A nivel de juego, los rebeldes exigen unas 3 semanas de víveres, pero también 
 
 Si luchan, cada turno la expedición perderá a una persona, la ventaja será que cada 5 personas muertas recuperan media semana de víveres. Los muertos ni comen ni beben.
 
-> /s/ **Recompensa de cordura (1):** Ayudar a los rebeldes no es fácil, pero es lo decente. Dales también una recompensa si después de la expedición vuelven a ayudar a los rebeldes.
+```
+Recompensa de cordura (1): Ayudar a los rebeldes no es fácil, pero es lo decente. Dales también una recompensa si después de la expedición vuelven a ayudar a los rebeldes.
+```
 
 #### Misterio: Asalto a medianoche
 
@@ -1725,7 +1735,9 @@ Los pocos supervivientes del Gremio darán su eterna gratitud a tus schahriars s
 
 Las aventuras y desventuras de la expedición correrán como la pólvora por todo Oriente Medio y Norte de África, contado por músicos y cantantes en khans y tabernas. Podrán conseguir bebida y comida gratis si cuentan su historia y tendrán +1 cuando tengan que negociar su sueldo en otras misiones locas como esta aventura. Tener a unos supervivientes de la Ciudad de Bronce
 
-> /s/ **Recompensa de cordura (2):** Librar a toda una ciudad de una maldición tras cruzar alguno de los lugares más peligrosos de la tierra permite ver las cosas con perspectiva y aclarar tus ideas sobre tu vida y el mundo. Todos tus schahriars recuperan dos puntos de cordura.
+```
+Recompensa de cordura (2): Librar a toda una ciudad de una maldición tras cruzar alguno de los lugares más peligrosos de la tierra permite ver las cosas con perspectiva y aclarar tus ideas sobre tu vida y el mundo. Todos tus schahriars recuperan dos puntos de cordura.
+```
 
 ### Otras aventuras
 
@@ -2081,7 +2093,9 @@ La estatua debería hacerla desaparecer en mitad del mar o en alguno de los mist
 
 Si registran los objetos de Ziba y del resto de la secta tendrán un botín de 1d2+2 además de los objetos que porten Alura y Ziba.
 
-> /s/ **Recompensa de cordura (+2):** Evitar que un culto de brujos, locos y asesinos traigan a nuestro mundo un dios extraterrestre con dudosas intenciones tiene su recompensa. Todos tus schahriars recuperan dos puntos de cordura.
+```
+Recompensa de cordura (+2): Evitar que un culto de brujos, locos y asesinos traigan a nuestro mundo un dios extraterrestre con dudosas intenciones tiene su recompensa. Todos tus schahriars recuperan dos puntos de cordura.
+```
 
 [![El joven rey de las Islas Negras por Maxfield Parrish](./images/trono.jpg)](https://en.wikipedia.org/wiki/Maxfield_Parrish "El joven rey de las Islas Negras por Maxfield Parrish") 
 
@@ -2258,7 +2272,9 @@ Moverse entre la gente se considera terrero difícil y estarán como unas 15 cas
 
 Toda la escena de la caída de Giafar llevará 1 marcador a no ser que se líen a hacer alguna cosa adicional como ayudar a la familia del visir a salir segura de la ciudad.
 
-**Recompensa de deseos:** Si se juegan el tipo por salvar a Giafar o por proteger su cabeza para que no la pateen y no se lo coman los perros, recompénsales con deseos. Si devuelven el cadáver a su familia que ha sido desterrada, recompénsales también.
+```
+Recompensa de deseos: Si se juegan el tipo por salvar a Giafar o por proteger su cabeza para que no la pateen y no se lo coman los perros, recompénsales con deseos. Si devuelven el cadáver a su familia que ha sido desterrada, recompénsales también.
+```
 
 ### Volando solos
 
@@ -2622,7 +2638,9 @@ Puedes también usar la quimera genérica conocida como [langosta](#anchorlangos
 
 Ponles el rasgo de bestia Duro para que aguanten más y trata de que sean diferentes y que exploten los defectos de tus schahriars, por ejemplo, voladoras si son de cuerpo a cuerpo. Si ves que las primeras quimeras caen fácilmente puedes hacerlas comodines para subir las apuestas o ponerles arma de aliento.
 
-> /s/ **Recompensa de cordura (+1):** Las quimeras no son seres malvados de por sí, solo son extraños animales salvajes que tratan de sobrevivir. Si en vez de matarlos buscan la forma de capturarlos y buscarles un nuevo hábitat donde vivir sin generar problemas, podrías recompensarles recuperando un punto de cordura. La zona del Atlas podría ser una zona interesante.
+```
+Recompensa de cordura (+1): Las quimeras no son seres malvados de por sí, solo son extraños animales salvajes que tratan de sobrevivir. Si en vez de matarlos buscan la forma de capturarlos y buscarles un nuevo hábitat donde vivir sin generar problemas, podrías recompensarles recuperando un punto de cordura. La zona del Atlas podría ser una zona interesante.
+```
 
 ### El alcázar en las nubes
 
@@ -2728,7 +2746,9 @@ La destrucción del alcázar implicará en varios aspectos a futuras aventuras:
 * También puede ser que el visir, que los tiene en su radar, les encargue alguna tarea.
 * Puedes hacer que la recepción con el Califa acabe en una de sus juergas nocturnas disfrazados de mercaderes.
 
+```
 **Recompensa de deseos (+3):** Este cuento es perfecto para realizar actos heroicos como quedarse en el alcázar para que no cause víctimas mortales. Recompensa esas heroicas acciones con deseos suficientes para que puedan librarse de la muerte que seguro que suponen sus actos de valentía.
+```
 
 ### El festival del Chaharshanbe Surí
 
@@ -2794,7 +2814,9 @@ Estas son las posibles opciones que puedes ofrecerles.
 * Una opción basada en la anterior para schahriars maquiavélicos sería meter un mensaje falso y soltar a la paloma. Puede ser que por alguna razón esto les dé alguna ventaja en el futuro. Esto es muy difícil porque exige descifrar el mensaje original y cifrar su mensaje, es decir, doble trabajo.
 * Cuidar a la paloma y dejarla seguir su camino sin tocar el mensaje es otra opción, no creo que sea muy popular, pero ahí la dejo.
 
+```
 **Recompensa de deseos (+1):** Otórgale un deseo al schahriar que decida cuidar a la paloma y devolverla a su palomar por amor a los animales y no por la recompensa.
+```
 
 > /s/ **Semilla de aventura:** Si deciden abrir y descifrar el mensaje puedes usarlo para meterles en otros cuentos salvajes.
 
@@ -2856,7 +2878,9 @@ Si paran la operación y acaban con los al mighos, la psique de Mariam se romper
 
 Los al mighos derrotados dejarán de botín los artilugios que había en la caa de Bassir que no se han podido llevar. Además, podrán coger los enseres personales de Mariam y quedárselos (botín d8 con solo riquezas, objetos mundanos y grimorios, además de todo tipo de artilugios astronómicos). Puede que quieran devolvérselos a su familia, se los queden o traten de venderlos.
 
-> /s/ **Recompensa de cordura (+1):** Si aceptan las decisiones personales de Mariam y no tratan de contrariarlas, otórgales un punto de cordura.
+```
+Recompensa de cordura (+1): Si aceptan las decisiones personales de Mariam y no tratan de contrariarlas, otórgales un punto de cordura.
+```
 
 ### Sepultureros
 
@@ -2951,4 +2975,6 @@ Si limpian el cráter, el color y su cría serán destruidos y poco a poco los r
 
 Si se van sin resolver el problem del color, el pueblo será arrasado por la gente del mar infectada. El color original una vez su cría sea adulta volverá a las estrellas mientras las crías infectarán nuevas zonas del mar.
 
-> /s/ **Recompensa de cordura (+1):** Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, gente del mar y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura. .
+```
+Recompensa de cordura (+1): Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, gente del mar y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura. .
+```

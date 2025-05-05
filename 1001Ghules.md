@@ -40,15 +40,15 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-|05LugaresMiticos.md|
+05LugaresMiticos.md OK
 
 ***
 
-06GuiaViajes.md|
+|06GuiaViajes.md|
 
 ***
 
-07Bagdad.md|
+07Bagdad.md OK
 
 ***
 

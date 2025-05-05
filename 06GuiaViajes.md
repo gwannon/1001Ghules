@@ -2,7 +2,11 @@
 
 Aunque pueda parecer que todos los cuentos de las 1001 Noches suceden en una especie de Arabia mítica, en realidad ocurren en muchos países y lugares de toda Asia y África, desde Egipto o Marruecos hasta China o India.
 
+\sinc
+
 ## Arabia y Persia
+
+\conc
 
 Arabia y Persia son los escenarios principales, pero no los únicos, de los cuentos de las 1001 Noches. Bagdad, Damasco, Basora son nombradas entre sus páginas, pero también Alepo, Mosul, Acre y otros puntos interesantes donde ambientar tus relatos.
 
@@ -22,6 +26,8 @@ En estas historias los protagonistas se relacionan y muchas veces se enfrentan c
 > 
 > **Referencia:** El Felah de Egipto y sus hijos blancos (n. 551)
 
+\sp
+
 Acre tiene una de las fortalezas templarias más famosas de la historia y fue la última ciudad que mantuvieron los cruzados cristianos antes de ser expulsados de Oriente Medio.
 
 > /s/ **Semilla de aventura:** Puedes montarte una trama rollo Assassin’s Creed, donde los templarios forman un culto de adoradores de algún tipo de dios exterior o primigenio. Puede que tus schahriars deban entrar en la fortaleza de la Ciudadela de Acre en busca de pruebas para que el califa decida tomar la ciudad y acabar con la amenaza de los templarios.
@@ -40,7 +46,11 @@ Toda observación astronómica hecha en este observatorio obtiene un +2 a las ti
 
 #### Jabón de Alepo
 
-Alepo es conocida por su jabón. Es un jabón sólido y verde esmeralda y está hecho de aceite de oliva y de laurel. Se lleva haciendo en la zona desde hace siglos. El jabón de Alepo se puede utilizar a diario como jabón para asearse y bañarse, como mascarilla, como crema de afeitar y para bañar a niños y bebés. El aceite de laurel es un limpiador eficaz, con propiedades antimicrobianas, antifúngicas y sirve para calmar el prurito.
+Alepo es conocida por su jabón. Es un jabón sólido y verde esmeralda y está hecho de aceite de oliva y de laurel. Se lleva haciendo en la zona desde hace siglos. 
+
+\sp
+
+El jabón de Alepo se puede utilizar a diario como jabón para asearse y bañarse, como mascarilla, como crema de afeitar y para bañar a niños y bebés. El aceite de laurel es un limpiador eficaz, con propiedades antimicrobianas, antifúngicas y sirve para calmar el prurito.
 
 El jabón es muy apreciado y es un regalo sencillo, pero tremendamente útil. Cuanto más aceite de laurel mejor es y más caro.
 
@@ -62,6 +72,8 @@ En la desembocadura del río Tigris, tenemos Basora, el puerto más importante d
 
 Alrededor del año 638 d.C. Basora se convirtió en el centro intelectual de gramáticos, lingüistas, poetas, filólogos, genealogistas, tradicionalistas y, sobre todo, estudiosos del Corán. A este grupo de personas se le conocía como la Escuela de Gramática de Basora.
 
+\sp
+
 Todo esto ha llevado a que en la actualidad la vida cultural de Basora sea tan interesante o más que la del mismo Bagdad, con tertulias hasta altas horas de la noche sobre filología, representaciones callejeras de obras teatrales populares, duelos de poesía, etc. Sus calles hierven de actividad cultural y solo con estar allí y poner atención puedes aprender muchas cosas.
 
 Pasando dos semanas en Basora y gastando unos 1200 dinares entre invitaciones, regalos y donaciones a poetas y poetisas, compra de libros y demás, se puede mejorar conseguir un +2 a todas las tiradas de Humanidades, intérprete y Conocimientos generales relacionados con uno de estos campos:  
@@ -77,9 +89,15 @@ Pasando dos semanas en Basora y gastando unos 1200 dinares entre invitaciones, r
 
 Mando el padre Al-Raschid construir en Basora un gigantesco jardín botánico donde hay plantados árboles, arbustos y plantas de todas partes del mundo. Los jardineros responsables del jardín son expertos en plantas exóticas y pueden cumplir cualquier capricho del califa. Pueden ofrecerle naranjas en agosto y uvas en abril.
 
-Pero el jardín no solo sirve para satisfacer los caprichos del califa, también sirve como suministrador de ingredientes para el visir Giafar. La califesa pide todo tipo de caprichos frutales o tienta al califa con ese tipo caprichos y este puede satisfacerlos en el huerto de Basora. Es por ello que dedica muchos dinares a mantener el jardín perfectamente surtido y cuidado. Giafar se aprovecha ese dinero para pedir cultivos especiales que usa en sus investigaciones mágicas.
+Pero el jardín no solo sirve para satisfacer los caprichos del califa, también sirve como suministrador de ingredientes para el visir Giafar. La califesa pide todo tipo de caprichos frutales o tienta al califa con ese tipo caprichos y este puede satisfacerlos en el huerto de Basora.
 
-> Por unos 300 dinares (como soborno) puedes conseguir que alguien del personal del jardín te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de Scheherazade). También puede por 100 dinares conseguirse frutas u hortalizas por raras que sean y estén o no de temporada.
+Es por ello que dedica muchos dinares a mantener el jardín perfectamente surtido y cuidado. Giafar se aprovecha ese dinero para pedir cultivos especiales que usa en sus investigaciones mágicas.
+
+\sp
+
+```
+Por unos 300 dinares (como soborno) puedes conseguir que alguien del personal del jardín te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de Scheherazade). También puede por 100 dinares conseguirse frutas u hortalizas por raras que sean y estén o no de temporada.
+```
 
 ### Damasco
 
@@ -96,7 +114,11 @@ Los antiguos gobernantes de Damasco, los omeyas, tenían un excepcional gusto po
 > 
 > **Referencia:** Historia del visir Nureddin, de su hermano el visir Chamseddin y de Hassan Badreddin (n. 24)
 
-En la plaza de Kânun tiene Hassan Badreddin su pastelería, la mejor pastelería de Damasco y quizás del califato. Hassan sigue las recetas familiares y solo usa los mejores productos del zoco para preparar sus dulces y pasteles. Pese a su fama y a la cola que hay todos los días frente a su puerta son muy asequibles y hasta los más pobres pueden disfrutar de su arte.
+En la plaza de Kânun tiene Hassan Badreddin su pastelería, la mejor pastelería de Damasco y quizás del califato. Hassan sigue las recetas familiares y solo usa los mejores productos del zoco para preparar sus dulces y pasteles.
+
+\sp
+
+Pese a su fama y a la cola que hay todos los días frente a su puerta son muy asequibles y hasta los más pobres pueden disfrutar de su arte.
 
 Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con los padres de tu futura pareja o para conseguir el favor de un emir o jeique. Quizás no tan mala idea usar tu alfombra mágica para comprar unos pasteles a Hassan y regalárselos a tu amor.
 
@@ -118,6 +140,8 @@ En la ciudad puede encontrarse la tumba del profeta Jonás. Según el antiguo te
 
 Recientemente, las murallas de la ciudad han sido derribadas por orden del califa. La ciudad es un foco de problemas por las rebeliones de las tribus nómadas cercanas. Por dos veces tropas rebeldes al califato han tomado la ciudad y se han atrincherado en ella creando grandes problemas para recuperar la ciudad por parte del ejército del Califa.
 
+\sp
+
 Por todo esto y para evitar problemas, se ordenó destruir las murallas de la ciudad que datan gran parte de ellas de tiempos de los romanos e incluso más antiguas. Al derribar la muralla han salido a la luz ruinas de la antigua ciudad de Ninive. Los historiadores de la ciudad hablan de que se han desenterrado varios templos de deidades pre-islámicas y algunos palacios reales.
 
 Desde su destrucción han empezado a suceder cosas extrañas, la alegre ciudad ha cambiado de humor y un sentimiento de tristeza y depresión inunda la ciudad. Incluso ha habido varios casos de suicidios muy sonados y comentados.
@@ -130,6 +154,8 @@ Los sastres, tintoreros y tejedores de Mosul tiene mucha en todo el califato. A 
 
 Con entre unos 1.000 y 5.000 dinares, un sastre del zoco de Mosul puede hacerte un traje a medida que te quedará como un guante, resaltando las virtudes de tu físico y ocultando tus defectos. Estos trajes en perfectas condiciones de limpieza y conservación pueden darte un +2 a las tiradas de Persuadir a la hora de hacer negocios, en juicios y similares o para seducir. Cada traje solo puede tener el bono de una de esas opciones.  
 También pueden comprarse al mismo precio trajes que otorguen un +2 a las tiradas de Interpretar a la hora de realizar bailes.
+
+\sp
 
 ### Otros lugares de Arabia y Persia
 
@@ -149,17 +175,27 @@ Puedes añadir misterios a muchas de las cosas que rodean Masada; por qué la co
 
 De camino a Basora desde Bagdad se pueden encontrar las ruinas semienterradas de la ciudad sumeria de Ur. Entre las ruinas de casa y palacios destaca la del Zigurat dedicado al dios Nanna («luna», en sumerio). El templo, construido en el 2000 a. C., era conocido como é-temen-ní-gùr-ru en sumerio, que significa casa de cimientos revestidos de terror.
 
-Dentro de los antiguos sumerios había adoradores de diferentes primigenios y dioses exteriores. Entre los restos de sus bajorrelieves y estatuas pueden encontrarse imágenes terroríficas de estas deidades y quizás haya todavía salas secretas con terribles secretos en su interior.
+Dentro de los antiguos sumerios había adoradores de diferentes primigenios y dioses exteriores. 
+
+\sp
+
+Entre los restos de sus bajorrelieves y estatuas pueden encontrarse imágenes terroríficas de estas deidades y quizás haya todavía salas secretas con terribles secretos en su interior.
 
 > /s/ **Semilla de aventura:** La astrónoma Mariam Al-Ijliya al-Asturlabi necesita un grupo que le ayude en una expedición a la ciudad de Ur. Está convencida de que su templo a la luna era además un observatorio astronómico y cree que puede encontrar conocimientos perdidos entre sus restos. Puedes montar una historia de exploración en las ruinas en la que despiertan algún antiguo mal.
 
-#### Petra
+\sinc
 
 [![El «Deir» en un dibujo de 1839 por David Roberts.](./images/petra.jpg)](https://es.wikipedia.org/wiki/Petra#/media/Archivo:El_deir_petra_2_1839.jpg "El «Deir» en un dibujo de 1839 por David Roberts.") 
+
+\conc
+
+#### Petra
 
 Petra es una antigua ciudad nabatea que se encuentra totalmente deshabitada. Es famosísima por su hemispeos, impresionantes construcciones excavadas en la roca. Hacia el siglo VI d. C., el cambio de las rutas comerciales y los terremotos sufridos condujeron al abandono de la ciudad por sus habitantes.
 
 Todo lo que rodea a Petra es un misterio, desde sus miles de inscripciones en las paredes hasta los laberínticos pasillos y estancias excavadas en la roca. Todo esto hace de Petra un lugar perfecto para enclavar una aventura de exploración.
+
+\sp
 
 Actualmente, una célula de los 40 se ha asentado en Petra y están explorando sus ruinas en busca de conocimientos prohibidos y poderosos objetos mágicos que les ayude en sus apocalípticos objetivos. La célula está haciendo correr rumores de maldiciones y monstruos para que nadie se acerque. Pero si alguien entra en Petra, no tienen problemas en asesinarlos y hacer desaparecer sus cuerpos.
 
@@ -173,25 +209,42 @@ A lo largo de la costa del golfo pérsico hay infinidad de pequeños asentamient
 
 Los pescadores van en sus barcas hasta las zonas que conocen y se tiran al fondo con pesas de plomos atadas con cuerda a la barca. Se mueven por el fondo recolectando ostras y cuando se les acaba el aire sueltan las pesas y suben a la superficie y recuperan las pesas.
 
-**Entrenamiento para pescar perlas:** Las gentes que se dedican a la pesca de perlas nadan casi como peces y pueden aguantar la respiración mucho más que una persona normal. Las técnicas que te pueden enseñar los pescadores de perlas hacen que nades mejor y que aguantes la respiración mucho más.  
+```
+Entrenamiento para pescar perlas: Las gentes que se dedican a la pesca de perlas nadan casi como peces y pueden aguantar la respiración mucho más que una persona normal. Las técnicas que te pueden enseñar los pescadores de perlas hacen que nades mejor y que aguantes la respiración mucho más.
+```
+
 Por 300 dinares y una semana de entrenamiento pueden entrenarte para mejorar tus dotes de nadador o para practicar tu apnea. A nivel de juego, puedes conseguir un +2 a Atletismo a la hora de nadar o que las rondas que puedes aguantar bajo el agua sean 2 + (2 veces dado de Vigor). Alguien con vigor 8 podría aguantar 18 rondas en vez de 10. Con dos semanas y 500 dinares puedes conseguir las dos ventajas.  
 Si tienes la desventaja Mal Nadador y pagas 400 dinares y entrenas 1 semana podrás quitarte la desventaja.
 
 ##### Siniyah, la isla maldita
 
-Siniyah es la mayor y más importante de las ciudades de perlas. La cantidad de perlas que salen de sus aguas es superior a la producción conjunta del resto de enclaves de pescadores de perlas. Esto se debe a que Siniyah tiene un secreto que es a la vez su bendición y su maldición; sus habitantes se han hibridado con las gentes del mar.
+Siniyah es la mayor y más importante de las ciudades de perlas. La cantidad de perlas que salen de sus aguas es superior a la producción conjunta del resto de enclaves de pescadores de perlas.
 
-Hace muchos años las gentes del mar empezaron a ofrecer perlas a las gentes de Siniyah, les dejaban cestas de algas llenas de perlas en la playa y poco a poco fueron acercándole a estos seres marinos atraídos por las riquezas que les ofrecían. Los dirigentes del poblado entablaron relaciones con la gente del mar y estos enseñaron a pescar más y mejores perlas y a nadar mejor y aguantar más debajo del agua. El dinero fue corrompiendo sus almas hasta que aceptaron mezclar su sangre terrestre con la sangre marina bajo la promesa de ser más poderosos, más fuertes, poder nadar y bucear como ellos y ser casi inmortales.
+\sp
 
-En unas pocas décadas, toda la población eran híbridos capaces de conseguir fortunas en perlas. Lo que no les contaron fuera la degradación que sufrió la población. Los híbridos tienen rasgos de entre peces y batracios, son huraños, maliciosos y corruptos. Han abandonado la verdadera fe y rezan a las infieles deidades de las gentes del mar, Baba Daryä y Bu Diryan y sobre todo un dios acuático al que nosotros conocemos como Bahamūt y ellos Cthulhu.
+Esto se debe a que Siniyah tiene un secreto que es a la vez su bendición y su maldición; sus habitantes se han hibridado con las gentes del mar.
+
+Hace muchos años las gentes del mar empezaron a ofrecer perlas a las gentes de Siniyah, les dejaban cestas de algas llenas de perlas en la playa y poco a poco fueron acercándole a estos seres marinos atraídos por las riquezas que les ofrecían. Los dirigentes del poblado entablaron relaciones con la gente del mar y estos enseñaron a pescar más y mejores perlas y a nadar mejor y aguantar más debajo del agua. 
+
+El dinero fue corrompiendo sus almas hasta que aceptaron mezclar su sangre terrestre con la sangre marina bajo la promesa de ser más poderosos, más fuertes, poder nadar y bucear como ellos y ser casi inmortales.
+
+En unas pocas décadas, toda la población eran híbridos capaces de conseguir fortunas en perlas. Lo que no les contaron fuera la degradación que sufrió la población. 
+
+Los híbridos tienen rasgos de entre peces y batracios, son huraños, maliciosos y corruptos. Han abandonado la verdadera fe y rezan a las infieles deidades de las gentes del mar, Baba Daryä y Bu Diryan y sobre todo un dios acuático al que nosotros conocemos como Bahamūt y ellos Cthulhu.
 
 Hace años que nadie de fuera pasa una noche en el asentamiento, solo algunos cobradores de impuestos y buhoneros pasan por la ciudad y no suelen contar cosas buenas de sus gentes. Cuentan que las antiguas casas de los ricos pescadores, que durante años eran la envidia de todo el golfo Pérsico, ahora se caen a cachos. La mezquita está abandonada y en la playa se han levantado altares con materiales de deriva con extraños y profanos símbolos, donde hacen cánticos extraños: ¡Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn!
 
 > /s/ **Semilla de aventura:** Las ciudades de las perlas son comunidades pequeñas, aisladas y costeras y son perfectas para montar historias tipo La sombra sobre Innsmouth. Tus schahriars llegan a una población de pescadores de perlas ariscos, huraños y algo deformes que miran mal a extraños. Quizás no sea buena idea pasar la noche en el khan local, pero, ¿qué podría pasar?
 
+\sp
+
+\sinc
+
 [![Roberts&Haghe Thebes](./images/tebas.jpg)](https://en.m.wikipedia.org/wiki/David_Roberts_(painter) "Roberts&Haghe Thebes") 
 
 ## Egipto
+
+\conc
 
 La tierra de los faraones es un lugar perfecto para ambientar cuentos salvajes donde se mezcle las 1001 Noches y los mitos de Cthulhu. Entidades como el Faraón Negro o la diosa Bast son perfectas para estas historias.
 
@@ -203,7 +256,11 @@ El Egipto faraónico no es mencionado en las 1001 Noches. Las pirámides, los te
 > 
 > **Referencia:** Historia complicada del adulterino simpático (n. 831)
 
-El Cairo puede ser la ciudad más importante del Norte de África y la capital de la provincia de Egipto. Todo comercio terrestre que va a pasar de África a Asia y viceversa pasa por los khans de El Cairo, lo que le proporciona grandes riquezas a la ciudad.
+El Cairo puede ser la ciudad más importante del Norte de África y la capital de la provincia de Egipto.
+
+\sp
+
+Todo comercio terrestre que va a pasar de África a Asia y viceversa pasa por los khans de El Cairo, lo que le proporciona grandes riquezas a la ciudad.
 
 [![Leander Russ: Bei den Pyramiden](./images/piramides.jpg)](https://commons.wikimedia.org/wiki/File:Leander_Russ_-_Bei_den_Pyramiden_-_1842.jpeg "Leander Russ: Bei den Pyramiden") 
 
@@ -221,7 +278,11 @@ Khan Al-Gaonalí es el khan más importante de la ciudad. Los más importantes n
 
 Además de para hacer negocios, Al-Gaonalí es un lugar perfecto también para encontrar trabajo. Los y las mercaderes necesitan gente que haga recados para ellos, les ayude en sus ventas o les sirva de guardas.
 
-El precio de todo lo que pidas (bebida, comida, cama, …) es un 50% más caro del precio normal, pero la calidad es muy superior y eso se paga. A cambio puedes darles bonos a las tiradas a la hora de hacer negocios y buscar trabajo. Las noticias de fuera y de dentro de la ciudad son siempre muy frescas y deberías dar también bonos a escuchar rumores.
+El precio de todo lo que pidas (bebida, comida, cama, …) es un 50% más caro del precio normal, pero la calidad es muy superior y eso se paga.
+
+\sp
+
+A cambio puedes darles bonos a las tiradas a la hora de hacer negocios y buscar trabajo. Las noticias de fuera y de dentro de la ciudad son siempre muy frescas y deberías dar también bonos a escuchar rumores.
 
 #### Lago Karún
 
@@ -241,6 +302,8 @@ Si bien el lago no es mágico, sí esconde un secreto. Fue creado hace siglos po
 
 La radiación de la Tierra de los Sueños se filtra por la losa y suele dar terribles pesadillas a los que se bañan en sus aguas, de ahí su mala fama. A su vez también se filtra agua del lago a la Tierra de los Sueños.
 
+\sp
+
 El agua salada que se cuela por los resquicios de losa crea un pequeño arroyo de agua salada en las montañas cercanas a Ulthar que llega hasta la ciudad. Mucha gente de Ulthar se pregunta de donde vendrá ese riachuelo de agua salobre, pero solo llegan hasta una pequeña cascada que brota de una gigantesca mole de arenisca con inscripciones desconocidas (jeroglíficos egipcios). Aparte de los símbolos, sienten curiosidad por la piedra que no se parece a ninguna que haya por esa zona.
 
 Bastante seguidores menores del Fuego y de la Luz están establecidos en las inmediaciones del lago. El objetivo es vigilar el lugar y la gente extraña que se acerque a él. La secta del Fuego y de la Luz trata de encontrar a todo costa el tesoro de Al-Schamardal y, aunque ninguno ha conseguido sacar nada del lago, lo vigilan por si alguien consiguiera alguna pista en el lago que les acerque al tesoro.
@@ -257,6 +320,8 @@ Lo que ninguno de los oráculos sabía era que el hombre mayor de pelos canosos,
 
 Quizás la vista más impresionante de El-Iskandaria es su famoso faro de unos 100 m de altitud, el edificio más alto de la ciudad a pesar de su mil años de antigüedad.
 
+\sp
+
 #### Cúpula del libro
 
 > … tomó el camino del zoco de los libreros. Y congregó a todos los mercaderes de libros, algunos de los cuales tenían libros procedentes del palacio de los libros que los rums cristianos habían quemado cuando entró Amrú ben El-Ass en El-Iskandaria. Y les mandó que transportaran a su casa cuantos libros de valor poseyeran. Y los retribuyó con más esplendidez de lo que ellos mismos pretendían, sin regateos ni vacilaciones. Pero no se limitó a estas compras. Envió emisarios a El Cairo, a Damasco, a Bagdad, a Persia, al Magreb, a la India, e incluso a los países de los rums, para que compraran los libros más reputados en estas diversas comarcas, con encargo de no escatimar el precio de compra. Y al cabo de cierto tiempo, volvieron unos tras de otros los emisarios, con fardos cargados de manuscritos preciosos. Y el joven hizo ponerlo todo por orden en los armarios de una magnífica cúpula que había mandado construir con esta intención, y que, en el frontis de su entrada principal, tenía escritas en grandes letras de oro y azul estas sencillas palabras: «Cúpula del Libro».
@@ -267,19 +332,24 @@ A la muerte de su creador, la «Cúpula del libro» se ha convertido en una bibl
 
 Puedes consultar cualquier libro de su colección, pero si dañas o robas cualquiera de los libros no te dejarán entrar nunca más. Otra opción es hablar con el bibliotecario e intentar un intercambio, no siempre funciona, pero es la única forma de llevarte un libro que te interese.
 
-Esta biblioteca compra cualquier libro que le ofrezcan y pagan muy bien (a discreción de Scheherazade) pero no vende ninguno. Pero sí puedes consultar cualquier libro que tengan en sus fondos. Hay un 5% de que cada vez que pases por Alejandría tenga una copia del grimorio que necesitas o un 20% de cualquier otro libro. También puede elegir no tirar y gastar un deseo para conseguir un libro normal o dos deseos para un grimorio mágico. Las condiciones de la copia del grimorio que tengan deberás tirarla en la Tabla de Modificaciones de Grimorios.
+Esta biblioteca compra cualquier libro que le ofrezcan y pagan muy bien (a discreción de Scheherazade) pero no vende ninguno. Pero sí puedes consultar cualquier libro que tengan en sus fondos. Hay un 5% de que cada vez que pases por Alejandría tenga una copia del grimorio que necesitas o un 20% de cualquier otro libro.
+
+También puede elegir no tirar y gastar un deseo para conseguir un libro normal o dos deseos para un grimorio mágico. Las condiciones de la copia del grimorio que tengan deberás tirarla en la Tabla de Modificaciones de Grimorios.
 
 #### La vieja tienda de cosas del mar
+
+Esta vieja tienda, que hace décadas que perdió su nombre, ha pasado de vender productos navales a vender antigüedades, sobre todo a capitanes extranjeros que quieren llevar exóticas antigüedades árabes y egipcias a sus familias y amistades.
+
+\sp
 
 > Era una tienda cuyo amo acababa de morirse de repente. Estaba amueblada con divanes, cual es costumbre, y sus mercancías consistían en objetos para la gente de mar, como velas, cuerdas, cordeles, arcas sólidas, sacas para pacotillas, armas de todas formas y precios, y sobre todo una cantidad enorme de hierro y antigüedades muy estimables por los capitanes de marina, que las compraban allí para venderlas a la gente de Occidente, pues los de este país estiman en mucho las cosas antiguas, y cambian sus mujeres e hijas por un pedazo de madera podrida, por ejemplo, o por una piedra talismánica, o por un sable viejo y enmohecido.
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 269)
 
-Esta vieja tienda, que hace décadas que perdió su nombre, ha pasado de vender productos navales a vender antigüedades, sobre todo a capitanes extranjeros que quieren llevar exóticas antigüedades árabes y egipcias a sus familias y amistades.
-
 Vende oxidados alfanjes mamelucos, descoloridas vasijas y platos del antiguo Egipto, tablillas sumerias con escritos cuneiformes, etc. sin descartar todo tipo de reliquias saqueadas de templos y tumbas de Egipto.
 
 La tienda tiene cierta maldición que hace que sus dueños no duren mucho y cada vez que vas lo lleva alguien distinto. Lo curioso es que siempre hay alguien que la hereda, la compra o la arrienda para seguir vendiendo sus antigüedades. Cada nuevo propietario la remodela y eso hace cada vez que pasas por El-Iskandaria y visitas la tienda hay nuevos productos.
+
 
 También puedes encontrar trabajos, no es raro que alguien busque un objeto en concreto y haya dejado aviso en la tienda de que compraría tal o cual objeto por una buena suma de dinero si lo alguien lo conseguía.
 
@@ -292,6 +362,8 @@ Cualquier templo, pirámide o construcción del antiguo Egipto queda perfecta de
 #### Pirámide acodada de Dashur
 
 Al sur de El Cairo, a dos días de camino, se encuentra la pirámide acodada de Dashur. Se la llama acodada porque colapso sobre sí misma. Fue uno de los primeros intentos de hacer pirámides y desgraciadamente fue un intento fallido.
+
+\sp
 
 ##### La cripta del Faraón Nefrén-Ka
 
@@ -313,6 +385,8 @@ La ciudad de Khaitán es capital del reino de Sohatán, un pequeño reino en el 
 
 Otro detalle importante es que Khaitán está en la falda del volcán en activo de Erta Ale. Y, en parte, los prósperos cultivos agrícolas de Khaitán se deben a la ceniza del volcán.
 
+\sp
+
 Asi como nada nuevo llega a Khaitán, nada sale de Khaitán. Sus gentes ven el exterior como un lugar horrible, lleno de peligros y amenazas. Muy pocas personas salen de Khaitán y normalmente para temas gubernamentales como entregar los impuestos al califa.
 
 La mayoría de la población gentes profesan la religión islámica, pero en una forma pagana, mezclándola con las antiguas leyes, leyes preislámicas que incluyen la adoración de dioses ancestrales de Egipto. Por ejemplo, los rituales mortuorios siguen las leyes de la antigua religión como la momificación y adoran a dioses paganos como Ra, Anubis, Set, etc.
@@ -329,15 +403,30 @@ Además, el propio río puede ser una «deidad» al que una secta peligrosa le r
 
 Egipto es un sitio perfecto donde montar aventuras que tengan que ver con la serpigente. El Egipto faraónico con su dios Set y sus diferentes cultos a la serpiente. Dejan la puerta abierta a que haya ruinas serpigente bajo las arenas del desierto o debajo de las pirámides, incluso serpigentes que hayan sobrevivido hasta el día de hoy mezclándose con los humanos.
 
-La estética faraónica es perfecta para dotar a la serpigente de una lógica dentro de los relatos que puedas crear en Egipto. Estamos hablando de poderosos magos que quieren acabar con los humanos lanzando terribles plagas o de objetos de gran poder enterrados en ruinas de antiguas instalaciones de la serpigente.
+La estética faraónica es perfecta para dotar a la serpigente de una lógica dentro de los relatos que puedas crear en Egipto. 
+
+\sp
+
+\sinc
+
+[![Cave nagas by ThemeFinland](./images/serpigente-guerrero.jpg)](https://www.deviantart.com/themefinland/art/Cave-nagas-790015712 "Cave nagas by ThemeFinland") 
+
+\conc
+
+Estamos hablando de poderosos magos que quieren acabar con los humanos lanzando terribles plagas o de objetos de gran poder enterrados en ruinas de antiguas instalaciones de la serpigente.
 
 Tampoco sería de extrañar algún culto de adoradores de Set (un avatar de Yig), cuyo líder sea una serpigente con apariencia humana. Incluso puede que alguna de las islas perdidas que visiten tus schahriars pudieran ser los últimos vestigios a flote de la antigua Valusia.
 
 Los objetos de origen valusiano como la alfombra de piel de serpiente también pueden ser interesantes semillas de aventuras, tanto para buscarlos, como destruirlos debido a su terrible poder.
 
-[![Cave nagas by ThemeFinland](./images/serpigente-guerrero.jpg)](https://www.deviantart.com/themefinland/art/Cave-nagas-790015712 "Cave nagas by ThemeFinland") 
+
+\sp
+
+\sinc
 
 ## Magreb
+
+\conc
 
 El Magreb que significa «lugar por donde se pone el sol», el Poniente, es la parte más occidental del mundo árabe. El Magreb incluye las actuales Argelia, Libia, Mauritania (parte de África occidental), Marruecos y Túnez
 
@@ -355,7 +444,9 @@ El gran interés de Miknas es que está fuera del control de Califato de Bagdad 
 
 El comercio con la península Ibérica es importante, bastantes caravanas hacia o desde Oriente Medio pasan por la ciudad de Miknas, así que se podría montar algún relato que desde Miknas los lleve al emirato independiente de Córdoba y que se movieran por toda la península Ibérica.
 
-Cerca de la ciudad corre un río y bajo sus aguas hay una puerta de oro que lleva a la cueva donde está la [tumba del gran mago Al-Schamardal](#anchortesoroalschamardal).
+\sp
+
+Cerca de la ciudad corre un río y bajo sus aguas hay una puerta de oro que lleva a la cueva donde está la tumba del gran mago Al-Schamardal.
 
 #### Volubilis
 
@@ -367,13 +458,21 @@ Entre los valles y las cimas del Atlas hay una comunidad de estas bestias legend
 
 > /s/ **Semilla de aventura:** El Califa de Bagdad ofrece buenas sumas de dinares para aquellos que cacen extraños criaturas y animales fantásticos para su zoo. Quizás pasarse por Volubilis y hacer una expedición de caza por el Atlas sea una forma de conseguir dinero rápido o el favor del Califa de Bagdad.
 
-## China e India
+\sp
+
+\sinc
 
 [![El templo de los diablos - Arnoldus Montanus](./images/china-india.jpg)](https://es.wikipedia.org/wiki/Arnoldus_Montanus "El templo de los diablos - Arnoldus Montanus") 
+
+## China e India
+
+\conc
 
 China es el lugar donde tiene lugar una de las historias más famosas de las 1001 Noches, la historia de Aladino y de la lámpara mágica. Esta historia transcurre en la ciudad de Kolo-ka-tsé. Por otro lado, India ese lugar exótico del que provienen los personajes extraños, las especies raras y los objetos mágicos.
 
 Puedes tomar ambas localizaciones como sitios exóticos de los que vienen productos de gran valor como el acero, la seda, las especies. Siempre que quieras hacer que algo parezca de gran valor, el vendedor puede darle un origen chino o indio para destacar su excepcional calidad y su altísimo precio.
+
+\sp
 
 También puedes usarlos como sitios de los que han venido personajes desconocidos con extraños poderos. Piensa que el creador del caballo de ébano es un genio artesano de la India. Recuerda que, por ejemplo, los budistas son tomados por magos. De hecho, los barmáquidas, la familia de la que desciende Giafar, el visir del emir de Bagdad, son de origen budista.
 

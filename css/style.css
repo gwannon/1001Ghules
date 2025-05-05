@@ -110,6 +110,10 @@ blockquote > p + p {
   padding-top: 10px !important;
 }
 
+*:is(h3, h4) + blockquote {
+  margin-top: 10px;
+}
+
 pre code {
   color: var(--color-black);
   font-family: 'Open Sans', sans-serif;
@@ -183,7 +187,7 @@ ul li:before {
   content: "\26E7";
   position: absolute;
   font-size: 22px;
-  top: -10px;
+  top: 0px;
   left: -23px;
   display: block;
   color: var(--color-red);

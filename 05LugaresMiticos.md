@@ -131,19 +131,11 @@ Este fabuloso tesoro escondido en unas cámaras secretas subterráneas, ocupa 3 
 
 \sp
 
+```
 Si tus schahriars consiguen encontrar el tesoro y llevarlo a una ciudad, otorgarles la ventaja "Rico como un sultán" directamente sin necesidad de requisitos. Solo la cuarta estancia y el anillo mágico del Padre de la Dicha es cosa tuya dárselo o no.
+```
 
 > /s/ **Semilla de aventura:** La búsqueda del tesoro de Scheddad puede ser una aventura por todo Oriente Medio buscando primero como encontrar la misteriosa Aram-de-las-columnas y luego buscando el tesoro siguiendo las pistas que hay en Aram-de-las-columnas sobre el tesoro.
-
-\sp
-
-\sinc
-
-[![Géza Maróti’s plan of Atlantis mock-up](./images/aram.jpg)](https://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3ti#/media/File:Mar%C3%B3ti-Atlantisz_1.jpg "Géza Maróti’s plan of Atlantis mock-up")
-
-_Aram-de-las-columnas antes de su colapso_
-
-\conc
 
 \sp
 
@@ -153,7 +145,7 @@ _Aram-de-las-columnas antes de su colapso_
 
 ## El Valle de los Diamantes
 
-> Enseguida me levanté del sitio en que me encontraba y recorrí aquel horripilante valle buscando una salida, observando que estaba enteramente creado con rocas de diamante. Por todas partes a mi alrededor aparecía sembrado el suelo de pequeños diamantes desprendidos de la montaña y que en ciertos sitios formaban montones de la altura de un hombre. Comenzaba yo a mirarlos ya con algún interés, cuando me inmovilizó de terror un espectáculo más espantoso que todos los horrores experimentados hasta entonces.
+> /p/ Enseguida me levanté del sitio en que me encontraba y recorrí aquel horripilante valle buscando una salida, observando que estaba enteramente creado con rocas de diamante. Por todas partes a mi alrededor aparecía sembrado el suelo de pequeños diamantes desprendidos de la montaña y que en ciertos sitios formaban montones de la altura de un hombre. Comenzaba yo a mirarlos ya con algún interés, cuando me inmovilizó de terror un espectáculo más espantoso que todos los horrores experimentados hasta entonces.
 > 
 > **Referencia:** La segunda historia de las historias de Sindbad el marino, que trata del segundo viaje (n. 296)
 
@@ -189,9 +181,9 @@ Desarrollaron el sistema de tirar carne al fondo del valle porque saben que esta
 
 No hay ninguna forma de saber que la radiación existe a no ser que algún mercader del valle te lo cuente y son bastante huraños y sin mucha disposición a hablar sobre ellos. La «maldición» del valle les da un método fácil para deshacerse de la competencia.
 
-El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. La radiación no es detectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle.
-
-Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
+```
+El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. La radiación no es detectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle. Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
+```
 
 ### Los al mighos y el valle
 
@@ -213,7 +205,7 @@ Usando el método de la carne solo se pueden extraer diamantes. Por cada pieza d
 
 ## La ciudad sin nombre
 
-> Perdida en el desierto de Rub al-Jali se halla la Ciudad sin nombre, ruinosa y desmembrada, con sus bajos muros semienterrados en las arenas de incontables años. Así debía de encontrarse ya, antes de que pusieran las primeras piedras de Ur, y cuando aún no se habían cocido los ladrillos de Babilonia. No hay leyendas tan antiguas que recojan su nombre o la recuerden con vida; pero se habla de ella temerosamente alrededor de las fogatas, y jeiques susurran sobre ella también en sus haimas, de forma que todas las tribus de humanos y de yinns la evitan sin saber muy bien la razón.
+> /p/ Perdida en el desierto de Rub al-Jali se halla la Ciudad sin nombre, ruinosa y desmembrada, con sus bajos muros semienterrados en las arenas de incontables años. Así debía de encontrarse ya, antes de que pusieran las primeras piedras de Ur, y cuando aún no se habían cocido los ladrillos de Babilonia. No hay leyendas tan antiguas que recojan su nombre o la recuerden con vida; pero se habla de ella temerosamente alrededor de las fogatas, y jeiques susurran sobre ella también en sus haimas, de forma que todas las tribus de humanos y de yinns la evitan sin saber muy bien la razón.
 
 &nbsp;
 
@@ -266,17 +258,9 @@ Se cuenta que en una de los miles de salas de la ciudad se halla la tumba de Abd
 
 Puede que en realidad la escena del monstruo no fuera más que una ilusión para secuestrarlo y traerlo aquí. Se cree que fue castigado por alguna oscura entidad por revelar secretos con su Necronomicón así que fue torturado, cegado, cortada su lengua y finalmente ejecutado y los pocos restos que quedaron metidos en un sarcófago sin nombre en una estancia perdida junto a una copia de su ominoso libro.
 
+```
 Teniendo en cuenta que Alhazred es uno de los mayores conocedores de los mitos de Cthulhu, podría usarse algún tipo de hechizo de necromancia que permita hablar con los muertos (Adivinación) y obtener información sobre los mitos de Cthulhu.
-
-\sp
-
-\sinc
-
-[![Pool in a Harem by Jean-Léon Gérôme](./images/hammam.jpg)](https://es.wikipedia.org/wiki/Archivo:HaremPool.jpg "Pool in a Harem by Jean-Léon Gérôme") 
-
-_El hammam de las delicias_
-
-\conc
+```
 
 \sp
 
@@ -299,6 +283,17 @@ El Hammam es una especie de reino mágico (en realidad tecnología abu-qith) en 
 Los abu-qith con sus posesiones a través del tiempo tienen que dejar la mente del poseído en su cuerpo mientras ellos poseen el cuerpo del humano. Por ello, intentaron crear estos lugares tecno-mágicos para que los humanos no tuvieran que meterse en los cuerpos de los abu-qith y se quedarán en estos limbos.
 
 La idea era colocar una diadema mágica al cuerpo del abu-qith con la mente humana y mientras el cuerpo apenas sufría deterioro, la mete vivía en ese hammam de las delicias. El problema es que las mentes se deterioraban bastante rápidamente y al final no llegaron a usarlos.
+
+
+\sp
+
+\sinc
+
+[![Pool in a Harem by Jean-Léon Gérôme](./images/hammam.jpg)](https://es.wikipedia.org/wiki/Archivo:HaremPool.jpg "Pool in a Harem by Jean-Léon Gérôme") 
+
+_El hammam de las delicias_
+
+\conc
 
 \sp
 
@@ -375,10 +370,10 @@ Puede incluso querer tener un encuentro sexual o una relación romántica con al
 
 Para entrar en el reino de Yamlika, debes buscar un lugar deshabitado y ejecutar dos hechizos, uno de Sueño para dormir y otro de Interpretar los sueños para meterse dentro del sueño de Yamlika.
 
-> Tras de lo cual, seguido por el sabio Offán, salió de su palacio y de su ciudad y se adentró en el desierto.  
-> Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargó al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
-> 
-> **Referencia:** Historia de Belukia (n. 357)
+> /p/ Tras de lo cual, seguido por el sabio Offán, salió de su palacio y de su ciudad y se adentró en el desierto.  
+> /p/ Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargó al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
+> /p/ 
+> /p/ **Referencia:** Historia de Belukia (n. 357)
 
 \sp
 
@@ -454,7 +449,9 @@ En una colina en el centro de la isla hay una gruta larguísima al final de la c
 
 La gruta está protegida con una serie de protecciones mágicas, si intentas acercarte al lecho donde está el cadáver de Suleimán del techo caen diamantes líquidos tan calientes que si te tocan te abrasan vivo.
 
+```
 Hay que hacer 5 tiradas de Atletismo para esquivar las gotas de diamante y llegar hasta el lecho. Si se falla la tirada de Atletismo se recibe una herida directa por fuego y si se falla una tirada de Vigor una segunda herida. 
+```
 
 \sp
 
@@ -468,11 +465,11 @@ El anillo de Suleimán es explicado más adelante y el cetro es un objeto mágic
 
 ## La cueva de las maravillas
 
-> Entonces el magrebí sacó del cinturón un eslabón, con el que hizo lumbre, y prendió fuego al montón de ramas y hierbas secas, que llamearon crepitando. Y al punto sacó del bolsillo una caja de concha, la abrió y tomó un poco de incienso, que arrojó en medio de la hoguera. Y levantóse una humareda muy espesa que apartó él con sus manos a un lado y a otro, murmurando fórmulas en una lengua incomprensible en absoluto para Aladino. Y en aquel mismo momento tembló la tierra y se conmovieron sobre su base las rocas y se entreabrió el suelo en un espacio de unos treinta codos de anchura que desprendía un terrible hedor. Y del fondo de aquel agujero emergieron los restos podridos de un inmenso falak muerto. \[…\]
->
-> Y el magrebí le dijo: "Hijo mío Aladino, tápate la nariz y la boca con mi pañuelo y adéntrate ahora en ese ser mientras declamas tu linaje. Y te hallarás debajo de una bóveda grande dividida en tres buches que se comunican unas con otras. En cada estómago encontrarás objetos singulares y valiosos entre los pliegues de la carne de las paredes. Pero pasa sin detenerte y recógete bien el traje, sujetándotelo a la cintura para que no toques nada; porque debido si tuvieras la desgracia de tocar con los dedos o rozar siquiera con tus ropas las paredes su ponzoñosa sangre y su ácida bilis, al instante morirás envenenado entre terribles dolores. Entrarás, pues, en el primer estómago, y muy de prisa pasarás al segundo, desde la cual, sin detenerte un instante, penetrarás en el tercero, donde verás una pequeña cavidad. Y te adentrarás en ella, y te encontrarás una especie de hornacina de carne y sangre; y en esta hornacina, sobre un pedestal de hueso, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! ¡Y volverás a mí por el mismo camino que hayas seguido! Y una vez que te hayas reunido conmigo, me entregarás la lámpara, fin y motivo de nuestro viaje y origen de nuestra riqueza y de nuestra gloria en el porvenir, ¡oh hijo mío!"
-> 
-> **Referencia:** Historia de Aladino y de la lámpara mágica (n. 738)
+> /p/ Entonces el magrebí sacó del cinturón un eslabón, con el que hizo lumbre, y prendió fuego al montón de ramas y hierbas secas, que llamearon crepitando. Y al punto sacó del bolsillo una caja de concha, la abrió y tomó un poco de incienso, que arrojó en medio de la hoguera. Y levantóse una humareda muy espesa que apartó él con sus manos a un lado y a otro, murmurando fórmulas en una lengua incomprensible en absoluto para Aladino. Y en aquel mismo momento tembló la tierra y se conmovieron sobre su base las rocas y se entreabrió el suelo en un espacio de unos treinta codos de anchura que desprendía un terrible hedor. Y del fondo de aquel agujero emergieron los restos podridos de un inmenso falak muerto. \[…\]
+> /p/
+> /p/ Y el magrebí le dijo: "Hijo mío Aladino, tápate la nariz y la boca con mi pañuelo y adéntrate ahora en ese ser mientras declamas tu linaje. Y te hallarás debajo de una bóveda grande dividida en tres buches que se comunican unas con otras. En cada estómago encontrarás objetos singulares y valiosos entre los pliegues de la carne de las paredes. Pero pasa sin detenerte y recógete bien el traje, sujetándotelo a la cintura para que no toques nada; porque debido si tuvieras la desgracia de tocar con los dedos o rozar siquiera con tus ropas las paredes su ponzoñosa sangre y su ácida bilis, al instante morirás envenenado entre terribles dolores. Entrarás, pues, en el primer estómago, y muy de prisa pasarás al segundo, desde la cual, sin detenerte un instante, penetrarás en el tercero, donde verás una pequeña cavidad. Y te adentrarás en ella, y te encontrarás una especie de hornacina de carne y sangre; y en esta hornacina, sobre un pedestal de hueso, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! ¡Y volverás a mí por el mismo camino que hayas seguido! Y una vez que te hayas reunido conmigo, me entregarás la lámpara, fin y motivo de nuestro viaje y origen de nuestra riqueza y de nuestra gloria en el porvenir, ¡oh hijo mío!"
+> /p/ 
+> /p/ **Referencia:** Historia de Aladino y de la lámpara mágica (n. 738)
 
 &nbsp;
 
@@ -520,6 +517,8 @@ El falak tiene un tamaño terrible, por lo que puede haber caídas grandísimas 
 
 A lo Jonás y la ballena, podría haber seres de los Mitos que sobrevivan en el interior del falak, como ghūles que se dedican a comer la carne del falak.
 
+\sc
+
 ### Buscando tesoros
 
 Durante miles de años los falaks han devorado dimensiones extraplanares y planos multidimensionales y restos de esas realidades pueden encontrarse todavía en su podrido sistema digestivo. Buscar una hora dentro de un falak permite una tirada de botín de d12.
@@ -530,11 +529,11 @@ Durante miles de años los falaks han devorado dimensiones extraplanares y plano
 
 ## La Montaña del Imán
 
-> … mañana llegaremos a una montaña de rocas negras que se llama la Montaña del Imán, y hacia ella han de llevarnos a la fuerza las aguas. Y nuestra nave se despedazará, porque volarán todos sus clavos, atraídos por la montaña y adhiriéndose a sus laderas, pues Alah el Altísimo dotó a la Montaña del Imán de una secreta virtud que le permite atraer todos los objetos de hierro. Y no puedes imaginarte la enorme cantidad de cosas de hierro que se ha acumulado y colgado de dicha montaña desde que atrae a los navíos. ¡Solo Alah sabe su número! Desde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas. Sabe, ¡oh rey! que mientras el jinete permanezca sobre su caballo, quedarán destrozados todos los barcos que naveguen en torno suyo, y todos los pasajeros se perderán sin remedio, y todos los hierros de las naves se irán a pegar a la montaña. ¡No habrá salvación posible mientras no se precipite el jinete al mar!”  
-> »Dicho esto, ¡oh señora mía! el capitán continuó derramando abundantes lágrimas, y juzgamos segura e irremediable nuestra pérdida, despidiéndose cada cual de sus amigos.  
-> »Y así fue; porque apenas amaneció, nos vimos próximos a la montaña de rocas negras imantadas, y las aguas nos empujaban violentamente hacia ella. Y cuando las diez naves llegaron al pie de la montaña, los clavos se desprendieron de pronto y comenzaron a volar por millares, lo mismo que todos los hierros, y todos fueron a adherirse a la montaña. Y nuestros barcos se abrieron, siendo precipitados al mar todos nosotros.
-> 
-> **Referencia:** Historia del tercer saaluk (n. 14)
+> /p/ … mañana llegaremos a una montaña de rocas negras que se llama la Montaña del Imán, y hacia ella han de llevarnos a la fuerza las aguas. Y nuestra nave se despedazará, porque volarán todos sus clavos, atraídos por la montaña y adhiriéndose a sus laderas, pues Alah el Altísimo dotó a la Montaña del Imán de una secreta virtud que le permite atraer todos los objetos de hierro. Y no puedes imaginarte la enorme cantidad de cosas de hierro que se ha acumulado y colgado de dicha montaña desde que atrae a los navíos. ¡Solo Alah sabe su número! Desde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas. Sabe, ¡oh rey! que mientras el jinete permanezca sobre su caballo, quedarán destrozados todos los barcos que naveguen en torno suyo, y todos los pasajeros se perderán sin remedio, y todos los hierros de las naves se irán a pegar a la montaña. ¡No habrá salvación posible mientras no se precipite el jinete al mar!”  
+> /p/ »Dicho esto, ¡oh señora mía! el capitán continuó derramando abundantes lágrimas, y juzgamos segura e irremediable nuestra pérdida, despidiéndose cada cual de sus amigos.  
+> /p/ »Y así fue; porque apenas amaneció, nos vimos próximos a la montaña de rocas negras imantadas, y las aguas nos empujaban violentamente hacia ella. Y cuando las diez naves llegaron al pie de la montaña, los clavos se desprendieron de pronto y comenzaron a volar por millares, lo mismo que todos los hierros, y todos fueron a adherirse a la montaña. Y nuestros barcos se abrieron, siendo precipitados al mar todos nosotros.
+> /p/ 
+> /p/ **Referencia:** Historia del tercer saaluk (n. 14)
 
 &nbsp;
 
@@ -558,9 +557,11 @@ Todo barco con componentes metálicos que entre en el radio de 5 km. de las mont
 
 La montaña produce 3d6 de daño a todos los barcos que se acerquen a rango de 0.5 km. El daño es producido por todos las piezas de metal arrancadas y los arrecifes contra los que es atraído. El daño se repite cada 5 minutos hasta que lo destruye contra los arrecifes.
 
+```
 Dentro de este rango de 0.5 km, cada schahriar puede tratar de evitar que dos de sus objetos metálicos se vayan volando haciendo una tirada de FUE enfrentada contra d10. Si se pasa, durante 5 minutos se puede usar en objeto sin problema. Si falla el objeto sale volando de sus manos. Si los objetos son soltados, salen volando y se pierden.
 
 Toda la montaña se considera terreno difícil debido a la pendiente de la montaña y a la gran cantidad de objetos metálicos oxidados que hay en su suelo. Muchos son, además, punzantes y cortantes y moverse entre ellos sin hacerse daño es bastante complicado.
+```
 
 ### La estatua ecuestre en la cima
 
@@ -586,7 +587,9 @@ La estatua pesa casi 3 toneladas, así que otra opción sería tratar de moverla
 
 Un rokh podría cargar con ella y lanzarla lejos a alguna sima oceánica donde no podría molestar a nadie.
 
-> /s/ **Recompensa de cordura (+1):** Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
+```
+Recompensa de cordura (+1): Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
+```
 
 ### Saqueo de la isla
 
@@ -606,7 +609,7 @@ Si se está una hora buscando activamente entre los restos de naufragios y los o
 
 ## La ciudad de G’harne
 
-> y con un suave temblor la duna se empezó a desmoronar ante sí, apareciendo en una ciudad en ruinas. Cuando aquella ciudad supo, como contaban los jeiques de su tribu, que se encontraba frente a la ciudad de G’harne y que su destino estaba sellado, moriría devorado por los falaks que viven en esas arenas, o peor, acabaría convertido en uno de sus esclavos.
+> /p/ y con un suave temblor la duna se empezó a desmoronar ante sí, apareciendo en una ciudad en ruinas. Cuando aquella ciudad supo, como contaban los jeiques de su tribu, que se encontraba frente a la ciudad de G’harne y que su destino estaba sellado, moriría devorado por los falaks que viven en esas arenas, o peor, acabaría convertido en uno de sus esclavos.
 
 &nbsp;
 
@@ -632,13 +635,17 @@ Es posible que en alguna de las galerías que hay debajo de las ruinas se puedan
 
 Descifrar los glifos punteados no es tarea fácil, no solo porque no hay referencia en otros idiomas sobre la que basarse y, además, los glifos están muy dañados por los milenios de exposición a la arena y el viento del desierto.
 
+```
 Si no se tiene ninguna referencia, ni nada con que compararlo, traducir esos glifos tiene un -6 a las tiradas de Humanidades para traducirlos. La traducción de los glifos punteados de los muros de la ciudad pueden tardarse unas 4 semanas en traducirse una vez se consiga hacer una primera traducción básica. Cada semana exige una TPC d8, de forma que con un poco de mala suerte un traductor podría caer en la locura.
+```
 
 La traducción de los glifos puede ordenarse y estudiarse adecuadamente y crear un grimorio/libro de historia bastante interesante para cualquier practicante de las artes mágicas.
 
 \sp
 
+```
 El libro que se consiga de las traducciones nos da un interesante grimorio de NP 5. No es tanto un grimorio como un libro de historia, de ahí su bajo nivel, pero como libro de historia otorga un +2 a las tiradas de Saber de Suleimán relacionado con janns y las guerras que mantuvieron con otros tipos de yinns antes de la aparición del hombre.
+```
 
 ### G’harne y los falaks menores
 
