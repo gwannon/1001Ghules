@@ -153,26 +153,6 @@ _Calles de un bazar_
 
 &nbsp;
 
-> **Secretos oscuros del shatranj**
-> 
-> **Nivel de poder:** 3  
-> **Idioma:** Árabe  
-> **Condición:** Traducción del hindú
-> 
-> Secretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
-> 
-> Este juego de shatranj, creado por el poderoso soberano Suleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
-> 
-> Los peones son infantería, los caballos caballería ligera, los elefantes caballería pesada y carros de guerra y las torres fortalezas y maquinaria de asedio.
-> 
-> Suleimán creo este artefacto con el objetivo de practicar y aprender tácticas de guerra. El tablero simula movimientos enemigos, ataques sorpresa, huidas, reagrupaciones, etc. y el jugador humano mueve sus fichas y sus ejércitos respondiendo o adelantándose a los movimientos del enemigo. Cuando el mared del tablero lo considera oportuno, otorga la victoria al jugador ébano o marfil.
-> 
-> Las ilusiones pueden ser a veces muy realistas y podrían suplantar incluso a mensajeros y oficiales que darían órdenes de atacar objetivos reales.
-> 
-> **Referencia:** El shatranj de Suleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
-
-&nbsp;
-
 > **Extraño laylay (rayuela):**  
 >   
 > Cada letra en árabe representa un 8, 6, 4, 2. Es un cuadro mágico en la que cada columna y fila no se repiten ninguno de los números.
@@ -189,7 +169,11 @@ _Calles de un bazar_
 > 
 > **Referencia:** Aram-de-las-columnas
 
-&nbsp;
+\conc
+
+\sp
+
+\sinc
 
 > Saludos mi muy querido amigo Giafar,  
 >   
@@ -202,12 +186,6 @@ _Calles de un bazar_
 > Desde más allá de las estrellas,  
 >   
 > **Firmado: Mariam Al-Ijliya al-Asturlabi**
-
-&nbsp;
-
-> ¡Soy la virgen Tadnaar, hija del rey de los amalecitas, y esta ciudad es mi ciudad! ¡Puedes llevarte cuanto te plazca a tu deseo, viajero que lograste penetrar hasta aquí! ¡Pero ten cuidado con poner sobre mí una mano violadora, atraído por mis encantos y por la voluptuosidad!
-> 
-> **Referencia:** Inscripción junto a la princesa dormida de la ciudad de Bronce
 
 &nbsp;
 
@@ -233,23 +211,15 @@ _Calles de un bazar_
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 340)
 
-&nbsp;
+\conc
 
-> **Carta de Giafar después de su ejecución**  
->   
-> ¡Bhadraṃ te!  
->   
-> Si estáis leyendo esta misiva es porque antes habéis leído mi epitafio. El califa ha hecho cortar mi cabeza por ayudar a escapar a un posible heredero legítimo del califato y que podría tratar de reclamar el trono. Mis creencias no me permitían tomar la vida de un niño inocente y mis actos fueron usados por los conspiradores que envenenan el oído del califa para convencerle de que era un traidor y debía ejecutarme.  
->   
-> Mi marcha a otro plano de existencia ha supuesto que mi último deber con mi querida Bagdad haya quedado incompleto y es por ello que necesito que vosotros la terminéis por mí, cerrando así el ciclo infinito del Karma.  
->   
-> Lo que os pido, no como visir, sino como persona preocupada por el bienestar de sus congéneres, es que frustréis los planes los Seguidores de Fuego y de la Luz. Para ello dejé preparado un minucioso plan que necesito que vosotros completéis.  
->   
-> Nota: La persona que porta esta misiva es una de las mejores personas que he tenido el gusto de conocer y es de mi total confianza. Desearía que tomarais sus resoluciones como si fueran mías y os ayudará en todo lo que pueda, que afortunadamente es mucho.  
->   
-> Namaste  
->   
-> **Firmado: Giafar al-Barmak**
+\sp
+
+\sinc
+
+> ¡Soy la virgen Tadnaar, hija del rey de los amalecitas, y esta ciudad es mi ciudad! ¡Puedes llevarte cuanto te plazca a tu deseo, viajero que lograste penetrar hasta aquí! ¡Pero ten cuidado con poner sobre mí una mano violadora, atraído por mis encantos y por la voluptuosidad!
+> 
+> **Referencia:** Inscripción junto a la princesa dormida de la ciudad de Bronce
 
 &nbsp;
 
@@ -278,3 +248,45 @@ _Calles de un bazar_
 &nbsp;
 
 > **Quinta inscripción:**¡Que no está muerto lo que puede yacer eternamente! Y con los evos extraños la muerte puede morir.
+
+\conc
+
+\sp
+
+\sinc
+
+> **Carta de Giafar después de su ejecución**  
+>   
+> ¡Bhadraṃ te!  
+>   
+> Si estáis leyendo esta misiva es porque antes habéis leído mi epitafio. El califa ha hecho cortar mi cabeza por ayudar a escapar a un posible heredero legítimo del califato y que podría tratar de reclamar el trono. Mis creencias no me permitían tomar la vida de un niño inocente y mis actos fueron usados por los conspiradores que envenenan el oído del califa para convencerle de que era un traidor y debía ejecutarme.  
+>   
+> Mi marcha a otro plano de existencia ha supuesto que mi último deber con mi querida Bagdad haya quedado incompleto y es por ello que necesito que vosotros la terminéis por mí, cerrando así el ciclo infinito del Karma.  
+>   
+> Lo que os pido, no como visir, sino como persona preocupada por el bienestar de sus congéneres, es que frustréis los planes los Seguidores de Fuego y de la Luz. Para ello dejé preparado un minucioso plan que necesito que vosotros completéis.  
+>   
+> Nota: La persona que porta esta misiva es una de las mejores personas que he tenido el gusto de conocer y es de mi total confianza. Desearía que tomarais sus resoluciones como si fueran mías y os ayudará en todo lo que pueda, que afortunadamente es mucho.  
+>   
+> Namaste  
+>   
+> **Firmado: Giafar al-Barmak**
+
+&nbsp;
+
+> **Secretos oscuros del shatranj**
+> 
+> **Nivel de poder:** 3  
+> **Idioma:** Árabe  
+> **Condición:** Traducción del hindú
+> 
+> Secretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
+> 
+> Este juego de shatranj, creado por el poderoso soberano Suleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
+> 
+> Los peones son infantería, los caballos caballería ligera, los elefantes caballería pesada y carros de guerra y las torres fortalezas y maquinaria de asedio.
+> 
+> Suleimán creo este artefacto con el objetivo de practicar y aprender tácticas de guerra. El tablero simula movimientos enemigos, ataques sorpresa, huidas, reagrupaciones, etc. y el jugador humano mueve sus fichas y sus ejércitos respondiendo o adelantándose a los movimientos del enemigo. Cuando el mared del tablero lo considera oportuno, otorga la victoria al jugador ébano o marfil.
+> 
+> Las ilusiones pueden ser a veces muy realistas y podrían suplantar incluso a mensajeros y oficiales que darían órdenes de atacar objetivos reales.
+> 
+> **Referencia:** El shatranj de Suleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)

@@ -4,8 +4,6 @@
 
 En esta sección vamos a ver de una forma muy general el mundo de las historias de horror cósmico de las 1001 Noches. Explicaremos como son las 1001 Noches escritas por el árabe loco de Abdul Alhazred y como se integran los Mitos de Cthulhu en la cosmología de todos estos cuentos populares.
 
-&nbsp;
-
 ## ¿Cómo usar este libro?
 
 \conc
@@ -30,11 +28,11 @@ El resto de elementos que se quieren destacar como reglas opcionales, semillas d
 
 > /s/ Aquí encontrarás semillas de aventuras, recompensas de deseos y de cordura.
 
-\sp
-
 Los nombres de personas, objetos o lugares a veces tienen paréntesis. Dentro de los paréntesis está su referencia a los Mitos.
 
 Por ejemplo, si vemos «Gente del mar (Profundo)» sabemos que la Gente del mar, una especie de sirenas, hace referencia a los Profundos de los Mitos de Cthulhu.
+
+\sp
 
 \sinc
 
@@ -114,11 +112,7 @@ Estos relatos fueron descubiertos por el erudito cairota Ibn Khallikan hacia el 
 
 Galland ocultó y limpió de todos sus elementos cósmicos y extradimensionales la obra de Alhazred y devolvió a las historias sus elementos originales, pero no consiguió ocultarlas del todo, quedando rastros sutiles entre sus páginas.
 
-\sinc
-
 > /s/ El mundo de las 1001 Noches de Alhazred no es el mundo de las 1001 Noches tradicional de los libros, ni el mundo de los Mitos de Cthulhu en Oriente Medio hacia el año 800. Es una mezcla bastarda que aúna ambos mundos y que espero que se quede con lo mejor y lo fusione en algo divertido que capture vuestro interés y os permita jugar muchas horas.
-
-\conc
 
 \sp
 
@@ -236,13 +230,15 @@ Construyeron la fabulosa ciudad de Aram-de-las-Columnas gracias a uno de sus gra
 > 
 > **Referencia:** Historia del jinete detrás del cual tocaban salto indios y chinos (n. 867)
 
-\conc
+&nbsp;
 
-\sp
+\conc
 
 Un aspecto muy importante de los yinns, que Alhazred debió sufrir en sus carnes, son su capacidad de poseer a las personas. Hablamos tanto de poseer los cuerpos directamente como de controlar sus mentes para que obedezcan sus órdenes.
 
 En bastantes partes de sus 1001 Noches muestra posesiones y según sus biógrafos, parte de su transformación en adorador de los primigenios se debió a la influencia de diferentes posesiones.
+
+\sp
 
 Dentro de los Yinns de los que nos habla Alhazred en sus 1001 Noches, hay dos tribus con capacidad de poseer a seres humanos, los abu-qith y los qareens. También habla en sus cuentos de otras criaturas que no considera yinns con capacidad de poseer humanos como los falaks menores.
 
@@ -254,6 +250,10 @@ Los abu-qith, como ya hemos dicho, son yinns espirituales que pueden poseer los 
 
 Como no tienen un carácter maligno, y, por tanto, no son considerados cheitans, tratan de interferir lo mínimo en sus víctimas, de forma que no alteran las vidas de sus poseídos durante el tiempo de posesión. Le borran la memoria antes de abandonar el cuerpo poseído y devolvérselo a su legítimo dueño.
 
+#### Los qareens y su aura depresiva
+
+Los qareens de normal no pueden poseer directamente a un humano, pero pueden corromper su alma, de forma que pueden inducirlos a actos ominosos como el asesinato o el suicidio. Lo que pierden en control lo ganan en cantidad pudiendo inducir a la depresión y la maldad a miles personas con su sola presencia. Su aura espiritual es tan poderosa que incluso años después de abandonar las cuevas subterráneas que suelen habitar estos lugares suelen afectar a sus visitantes.
+
 \sp
 
 \sinc
@@ -264,21 +264,17 @@ Como no tienen un carácter maligno, y, por tanto, no son considerados cheitans,
 
 \conc
 
-#### Los qareens y su aura depresiva
-
-Los qareens de normal no pueden poseer directamente a un humano, pero pueden corromper su alma, de forma que pueden inducirlos a actos ominosos como el asesinato o el suicidio. Lo que pierden en control lo ganan en cantidad pudiendo inducir a la depresión y la maldad a miles personas con su sola presencia. Su aura espiritual es tan poderosa que incluso años después de abandonar las cuevas subterráneas que suelen habitar estos lugares suelen afectar a sus visitantes.
-
 En mentes extremadamente débiles o rotas pueden llegar a conseguir un control total, de forma que obedezcan ciegamente sus órdenes. El control que ejerce sobre estas víctimas es tan poderoso que nadie más puede influir en ellos. Además, solo les importa cumplir las órdenes dadas que nada puede inmiscuirse, ni el hambre o la sed les importará, aunque sí hará estragos en su cuerpo.
 
 ### El país de Gennistán
 
 Según las creencias populares y la teología islámica, los yinns viven a caballo entre nuestra realidad y una especie de mundo espiritual como puede ser el cielo o el infierno llamado en Gennistán o país de los yinns.
 
-\sp
-
 Alhazred interpretó el Gennistán de otra manera muy distinta. Para él, el Gennistán no era una dimensión espiritual, sino que serían las estrellas, el espacio exterior.
 
 Mediante sus estudios y sus visiones elaboró la teoría de que los yinns venía de los cielos y que la mayoría de seres extraños también venían del espacio exterior o incluso de realidades diferentes a las nuestras.
+
+\sp
 
 Sus ideas, aunque extrañas en su época, son totalmente correctas y seguramente muy influenciada por a astronomía/astrología tan popular en su época.
 
@@ -296,38 +292,34 @@ Los cheitans son lo que en la tradición judeocristiana llamaríamos demonios. S
 
 Para Alhazred no existe esa diferenciación entre buenos y malos, ya que no los considera parte de nuestro mundo y, por lo tanto, quedan fuera de las leyes divinas y humanas que rigen el mundo de los hombres.
 
-\sp
-
 ### Relaciones sociales y relaciones con los humanos
 
 Cada tribu de yinns tiene su propia estructura social. Estas pueden ser más cerradas o más abiertas. Por ejemplo, los al mighos tienen un estricto sistema de castas donde el libre albedrío es casi inexistente. Por otro lado, los abu-qith y los janns que tienen una sociedad más abierta y libre, donde cada ente puede hacer lo que quiera, cuando quiera, siempre que sus actos no entren en conflicto con otros entes de su sociedad.
 
-Normalmente, no se ha tratado las relaciones sociales, familiares y sentimentales de los seres de los Mitos, pero puedes tener su importancia. Mientras que los al mighos no tienen lazos sentimentales, los janns y los abu-qith son más complejos.
+Normalmente, no se ha tratado las relaciones sociales, familiares y sentimentales de los seres de los Mitos, pero puedes tener su importancia. 
+
+\sp
+
+Mientras que los al mighos no tienen lazos sentimentales, los janns y los abu-qith son más complejos.
 
 Un jann despertado después de miles de años, puede que esté asustado y trate de defenderse o que se desespere cuando vea que es el último de su tribu.
 
 Un abu-qith puede que trabe amistad con humanos, incluso se interese por su cultura y aprenda a disfrutarla mientras posee a un humano, quizás busque pareja y tenga amigos, tenga un jefe y disfrute de la maternidad/paternidad.
 
-[![Scheherazade. Illustration, 1922, by George Barbier](./images/scheherazade.webp)](https://es.wikipedia.org/wiki/George_Barbier "Scheherazade. Illustration, 1922, by George Barbier") 
-
 Lo mismo que tienen relaciones positivas, pueden ser negativas. Los supervivientes de una tribu/colmena de al mighos pueden jurar vengarse del que los destruyo o un jann despertado decida destruir a aquellos que exterminaron a su tribu hace milenios.
 
 Recordemos que los qareens no piensan como nosotros y tienen una mentalidad malvada, altamente vengativa y maligna.
-
-\sp
 
 \sinc
 
 #### Relaciones sexuales
 
+\conc
+
 > y me dijo: “¿No reconoces a tu esposa? Te he salvado de la muerte con ayuda del Altísimo. Porque has de saber que soy una efrita. Y desde el instante en que te vi, te amó mi corazón, simplemente porque Alah lo ha querido, y yo soy una creyente en Alah y en su Profeta, al cual Alah bendiga y preserve.
 >  Cuando yo me he acercado a ti en la pobre condición en que me hallaba, tú te aviniste de todos modos a casarte conmigo. Y yo, en justa gratitud, he impedido que perezcas ahogado. En cuanto a tus hermanos, siento el mayor furor contra ellos y es preciso que los mate”.
 > 
 > **Referencia:** Cuento del segundo jeque (n. 2)
-
-&nbsp;
-
-\conc
 
 Los yinns, dentro de su libre albedrío, pueden tener las relaciones sexo-afectivos que quieran con quien quieran. También pueden definirse o no en el género que quieran en el caso de tener el concepto de género.
 
@@ -482,7 +474,7 @@ Se sabe de ciertos elementos que podrían contener parte de su esencia y podría
 
 \conc
 
-Bahamūt es un ser mitológico de inmenso poder y de tamaño gigantesco, que según diferentes versiones tiene forma de pez, de ballena, de hipopótamo o incluso las más locas y desquiciadas como la Alhazred que lo describe como un humanoide con cabeza de pulpo y alas membranosas y al que denomina Cthulhu.
+Bahamūt es un ser mitológico de inmenso poder y de tamaño gigantesco, que según diferentes versiones tiene forma de pez, de ballena, de hipopótamo. etc. Incluso las más locas y desquiciadas como la Alhazred que lo describe como un humanoide con cabeza de pulpo y alas membranosas y al que denomina Cthulhu.
 
 Bahamūt flota inconsciente sobre el mar de la Eternidad y sobre él reposa todo nuestro mundo. Si algún día despierta, el mundo será destruido. 
 
@@ -492,21 +484,24 @@ Según estos escritos, Bahamūt llego a nuestro mundo de las estrellas y alguna 
 
 R’lyeh, como parte de la maldición, se hundió en el mar y ascenderá de los abismos oceánicos cuando las estrellas se alineen adecuadamente y el gran Bahamūt despierte de su sueño.
 
+Es adorado por varias sectas por todo oriente próximo y es la deidad principal de las gentes del mar. Todos estos grupos trabajan para despertarlo de su profundo sueño.
+
 \sp
 
 [![Silueta Cthulhu Statuette I by Samize](./images/bahamut.png)](https://www.deviantart.com/samize/art/Cthulhu-Statuette-I-669368333 "Cthulhu Statuette I by Samize") 
 
-Es adorado por varias sectas por todo oriente próximo y es la deidad principal de las gentes del mar. Todos estos grupos trabajan para despertarlo de su profundo sueño.
-
 #### El sueño de Bahamūt
 
-La mente durmiente de Bahamūt es tan poderosa que puede afectar al mundo de los sueños y es por ello que se cree que ha creado una versión de R’lyeh en la Tierra de los Sueños conocida como la Ciudad de Bronce. La Ciudad de Bronce es una versión de R’lyeh adaptada a los sueños de los humanos (la especie dominante en este momento en la tierra), pero igual de maldita, donde todos sus habitantes están en una mezcla de sueño eterno y éxtasis temporal.
+La mente durmiente de Bahamūt es tan poderosa que puede afectar al mundo de los sueños y es por ello que se cree que ha creado una versión de R’lyeh en la Tierra de los Sueños conocida como la Ciudad de Bronce. 
+
+
+La Ciudad de Bronce es una versión de R’lyeh adaptada a los sueños de los humanos (la especie dominante en este momento en la tierra), pero igual de maldita, donde todos sus habitantes están en una mezcla de sueño eterno y éxtasis temporal.
 
 La princesa Tadnaar, dormida sobre un diván en el palacio más grande de la ciudad y vigilada por dos portaalfanjes, es una representación onírica del propio Bahamūt.
 
 Si alguien consigue despertarla, el gran Bahamūt podría subir niveles en su profundo sueño y estar más cerca de despertar. Además, podría afectar al mundo real y no solo las tierras oníricas.
 
-Para evitar esto, tanto en el mundo de la vigilia como en el mundo de los sueños hay una organización llamada el Gremio de Bronce que vigila y sabotea todo intento de descubrir la ciudad y despertar a la princesa. Toda esta trama se desarrolla en la aventura [Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce](#anchorexpedicionciudadbronce).
+Para evitar esto, tanto en el mundo de la vigilia como en el mundo de los sueños hay una organización llamada el Gremio de Bronce que vigila y sabotea todo intento de descubrir la ciudad y despertar a la princesa. Toda esta trama se desarrolla en la aventura Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce.
 
 \sp
 

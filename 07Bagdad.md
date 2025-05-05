@@ -492,9 +492,8 @@ Una costumbre curiosa es predecir tu buena fortuna pidiendo a un pescador que la
 Si la red sale vacía te espera alguna desgracia. Los comerciantes antes de partir con las caravanas o de hacer grandes negocios suelen cumplir este ritual.
 
 
-```
-Recompensa de deseos: Por unas pocas monedas un pescador tirará la red en tu nombre. Tira unos dados detrás de la pantalla y si quieres dales unos deseos a tus schahriars.
-```
+
+> /s/ **Recompensa de deseos:** Por unas pocas monedas un pescador tirará la red en tu nombre. Tira unos dados detrás de la pantalla y si quieres dales unos deseos a tus schahriars.
 
 \sc
 
@@ -620,9 +619,7 @@ Pasando una semana en Wadi us-Salaam, haciendo una tirada de TPC d4 y gastando 5
 
 Se dice que el cuerpo del profeta Saleh y sus reliquias, como su arco mágico, están enterrados en alguno de los mausoleos de esta necrópolis. Muchos saqueadores de tumbas han tratado de encontrar su tumba, pero parece que nadie ha tenido éxito.
 
-```
-Recompensa de cordura (+1): Dentro de algunas sectas musulmanas es muy importante ser enterrado en Wadi us-Salaam. Recompensa con un punto de cordura a los schahriars que se encarguen personalmente de que se entierre a PNJ u otros schahriars en Wadi us-Salaam y velen su cadáver contra ladrones de cadáveres y ghūles.
-```
+> /s/ **Recompensa de cordura (+1):** Dentro de algunas sectas musulmanas es muy importante ser enterrado en Wadi us-Salaam. Recompensa con un punto de cordura a los schahriars que se encarguen personalmente de que se entierre a PNJ u otros schahriars en Wadi us-Salaam y velen su cadáver contra ladrones de cadáveres y ghūles.
 
 \sp
 

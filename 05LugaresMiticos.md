@@ -587,9 +587,7 @@ La estatua pesa casi 3 toneladas, así que otra opción sería tratar de moverla
 
 Un rokh podría cargar con ella y lanzarla lejos a alguna sima oceánica donde no podría molestar a nadie.
 
-```
-Recompensa de cordura (+1): Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
-```
+> /s/ **Recompensa de cordura (+1):** Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
 
 ### Saqueo de la isla
 

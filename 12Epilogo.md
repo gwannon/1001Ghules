@@ -103,7 +103,9 @@ Originalmente, Jerusalen iba a forma parte de esta ambientación, pero he decidi
 ### Define los velos y herramientas de seguridad
 
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.  
->   
+
+\sp
+
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 > 
 > **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
@@ -123,15 +125,18 @@ Las vidas sentimentales y sexuales de la mayoría de los personajes de esta ambi
 
 Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
+> ¡Ojalá vivas mucho tiempo! ¡Escucha! Has de saber ¡oh capitán Moin! que soy una mujer que está prendada de una jovenzuela. Y su amor chisporrotea como fuego en mis entrañas. Y aunque tuviera yo mil lenguas y mil corazones, no sería más viva esta pasión que tanto me penetra. Y la adorada no es otra que la hija del kadí de la ciudad. Y entre ella y yo ha ocurrido lo que ha ocurrido. 
+> Y eso es un misterio de amor. Y entre ella y yo existe un apasionado pacto acordado con promesas y con juramentos. Porque ella arde por mí con un ardor igual. Y jamás se casará ella, y jamás me tocará a mí un hombre.
+> 
+> **Referencia:** Historia contada por el primer capitán de policía (n. 937)
+
 Las 1001 Noches tiene muchas cosas criticables, pero también hay que decir que representa muchas formas de amor y sexo, seguramente muchos siglos antes que otras obras literarias que creemos más avanzadas. Aquí tienes algunos ejemplos:
+
+\sp
 
 > "Me parece ¡oh jeique! que eres de los que prefieren los jovenzuelos a las mujeres". Mi amigo sonrió, y dijo: "¡Así es!" Ella preguntó: "¿Y por qué? ¡oh jeique!" El dijo: "¡Porque Alah ha modelado el cuerpo de los jovenzuelos con una perfección admirable, en detrimento de las mujeres, y mis gustos me impulsan a preferir en toda cosa lo perfecto a lo imperfecto!" Ella se rió detrás de la cortina, y dijo: "¡Pues bien; si quieres defender tu opinión, estoy dispuesta a responderte!" El dijo: "¡Con mucho gusto!"
 > 
 > **Referencia:** ¿Mujeres o jovenzuelos? (n. 391)
-
-> ¡Ojalá vivas mucho tiempo! ¡Escucha! Has de saber ¡oh capitán Moin! que soy una mujer que está prendada de una jovenzuela. Y su amor chisporrotea como fuego en mis entrañas. Y aunque tuviera yo mil lenguas y mil corazones, no sería más viva esta pasión que tanto me penetra. Y la adorada no es otra que la hija del kadí de la ciudad. Y entre ella y yo ha ocurrido lo que ha ocurrido. Y eso es un misterio de amor. Y entre ella y yo existe un apasionado pacto acordado con promesas y con juramentos. Porque ella arde por mí con un ardor igual. Y jamás se casará ella, y jamás me tocará a mí un hombre.
-> 
-> **Referencia:** Historia contada por el primer capitán de policía (n. 937)
 
 ### Participar en el proyecto
 
@@ -165,6 +170,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 ### Recursos HTML + CSS
 
 * [Fondo contraportada](https://codepen.io/alittleredpanda/pen/KJYRLR) por [Viki Johnson](https://codepen.io/alittleredpanda)
+
+\sp
 
 ### Fuentes tipográficas
 
@@ -221,5 +228,13 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [![OPERACIÓN: Tras El Mundo Perdido ](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
 
 **[OPERACIÓN: Tras El Mundo Perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
+
+\conc
+
+\sp
+
+\sinc
+
+|tablasRecursos.html|
 
 \conc

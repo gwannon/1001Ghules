@@ -639,6 +639,11 @@ section:nth-of-type(15) > h1:not(section:last-of-type h1):not(section:first-of-t
   background-position: center center;
 }
 
+section:nth-of-type(16) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/tanger.jpg);
+  background-position: center center;
+}
+
 /* ----------------- Portada --------------- */
 
 section:first-of-type {
@@ -710,7 +715,7 @@ section:last-of-type {
   --barheight: 560px;
   height: 100vh;
   display: flex;
-  background: var(--color-black) url(../images/tanger.jpg) top center no-repeat;
+  background: var(--color-black) url(../images/sol-desierto.jpg) top center no-repeat;
   background-size: auto calc(100% - var(--barheight));
   position: relative;
   color: var(--color-white);

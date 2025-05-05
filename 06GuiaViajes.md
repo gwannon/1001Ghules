@@ -42,7 +42,9 @@ Debido al cruce de rutas en Alepo se puede encontrar materias y productos de tod
 
 El emiresa de Alepo es una fan de la astrología/astronomía y disfruta con la observación de las estrellas y otros astros. Es por ello que mando construir en los jardines de su palacio un observatorio con la última tecnología en astronomía. El observatorio fue diseñado y su construcción llevada a cabo por la creadora de astrolabios Mariam Al-Ijliya al-Asturlabi, una eminencia en astronomía.
 
+```
 Toda observación astronómica hecha en este observatorio obtiene un +2 a las tiradas de Ciencias.
+```
 
 #### Jabón de Alepo
 
@@ -56,7 +58,9 @@ El jabón es muy apreciado y es un regalo sencillo, pero tremendamente útil. Cu
 
 Como se puede tallar de muchas formas, es normal que las personas ricas presuman de su jabón de Alepo con forma de faisán, elefante o tigre en los hammames públicos. También se puede pagar un extra que usen jabón de Alepo al bañarte en las piscinas del hammam.
 
+```
 Añadir unos trozos de jabón de Alepo (200 dinares 4 usos) a tu botiquín para lavarte las manos o para limpiar las heridas abiertas e infectadas hace que tus tiradas de Medicina tengan un +1 extra a la hora de tratar ese tipo de lesiones.
+```
 
 ### Bagdad
 
@@ -83,11 +87,13 @@ Pasando dos semanas en Basora y gastando unos 1200 dinares entre invitaciones, r
 
 #### El huerto del Comendador de los Creyentes
 
+Mando el padre Al-Raschid construir en Basora un gigantesco jardín botánico donde hay plantados árboles, arbustos y plantas de todas partes del mundo. 
+
+Los jardineros responsables del jardín son expertos en plantas exóticas y pueden cumplir cualquier capricho del califa. Pueden ofrecerle naranjas en agosto y uvas en abril.
+
 > «Y he aquí que en el camino me encontré con un jardinero, hombre de edad, al que le consulté sobre lo de las manzanas. Y me dijo: “¡Oh hijo mío! Es una cosa difícil de encontrar, porque ahora no las hay en ninguna parte como no sea en Basrah, en el huerto del Comendador de los Creyentes. Y aun allí no te será fácil conseguirlas, pues el jardinero las reserva cuidadosamente para uso del califa”.
 > 
 > **Referencia:** Historia de la mujer despedazada, de las tres manzanas y del negro rihan (n. 18)
-
-Mando el padre Al-Raschid construir en Basora un gigantesco jardín botánico donde hay plantados árboles, arbustos y plantas de todas partes del mundo. Los jardineros responsables del jardín son expertos en plantas exóticas y pueden cumplir cualquier capricho del califa. Pueden ofrecerle naranjas en agosto y uvas en abril.
 
 Pero el jardín no solo sirve para satisfacer los caprichos del califa, también sirve como suministrador de ingredientes para el visir Giafar. La califesa pide todo tipo de caprichos frutales o tienta al califa con ese tipo caprichos y este puede satisfacerlos en el huerto de Basora.
 
@@ -122,7 +128,9 @@ Pese a su fama y a la cola que hay todos los días frente a su puerta son muy as
 
 Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con los padres de tu futura pareja o para conseguir el favor de un emir o jeique. Quizás no tan mala idea usar tu alfombra mágica para comprar unos pasteles a Hassan y regalárselos a tu amor.
 
+```
 Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
+```
 
 ### Mosul
 
@@ -152,8 +160,12 @@ Desde su destrucción han empezado a suceder cosas extrañas, la alegre ciudad h
 
 Los sastres, tintoreros y tejedores de Mosul tiene mucha en todo el califato. A sus talleres llegan las mejores telas, sedas de China, lino y algodón de Egipto y lana del Magreb. Los tejedores y tintoreros crean las mejores telas de los más vivos y bonitos colores. Con estos magníficos tejidos y otros materiales como gasas de Turquía, hilo de oro y plata, cristales de roca y nácar, los sastres de Mosul crean, quizás, los más suntuosos y magníficos trajes de todo el mundo.
 
-Con entre unos 1.000 y 5.000 dinares, un sastre del zoco de Mosul puede hacerte un traje a medida que te quedará como un guante, resaltando las virtudes de tu físico y ocultando tus defectos. Estos trajes en perfectas condiciones de limpieza y conservación pueden darte un +2 a las tiradas de Persuadir a la hora de hacer negocios, en juicios y similares o para seducir. Cada traje solo puede tener el bono de una de esas opciones.  
+```
+Con entre unos 1.000 y 5.000 dinares, un sastre del zoco de Mosul puede hacerte un traje a medida que te quedará como un guante, resaltando las virtudes de tu físico y ocultando tus defectos. Estos trajes en perfectas condiciones de limpieza y conservación pueden darte un +2 a las tiradas de Persuadir a la hora de hacer negocios, en juicios y similares o para seducir.
+
+Cada traje solo puede tener el bono de una de esas opciones.  
 También pueden comprarse al mismo precio trajes que otorguen un +2 a las tiradas de Interpretar a la hora de realizar bailes.
+```
 
 \sp
 
@@ -211,10 +223,10 @@ Los pescadores van en sus barcas hasta las zonas que conocen y se tiran al fondo
 
 ```
 Entrenamiento para pescar perlas: Las gentes que se dedican a la pesca de perlas nadan casi como peces y pueden aguantar la respiración mucho más que una persona normal. Las técnicas que te pueden enseñar los pescadores de perlas hacen que nades mejor y que aguantes la respiración mucho más.
-```
 
 Por 300 dinares y una semana de entrenamiento pueden entrenarte para mejorar tus dotes de nadador o para practicar tu apnea. A nivel de juego, puedes conseguir un +2 a Atletismo a la hora de nadar o que las rondas que puedes aguantar bajo el agua sean 2 + (2 veces dado de Vigor). Alguien con vigor 8 podría aguantar 18 rondas en vez de 10. Con dos semanas y 500 dinares puedes conseguir las dos ventajas.  
 Si tienes la desventaja Mal Nadador y pagas 400 dinares y entrenas 1 semana podrás quitarte la desventaja.
+```
 
 ##### Siniyah, la isla maldita
 
@@ -332,9 +344,11 @@ A la muerte de su creador, la «Cúpula del libro» se ha convertido en una bibl
 
 Puedes consultar cualquier libro de su colección, pero si dañas o robas cualquiera de los libros no te dejarán entrar nunca más. Otra opción es hablar con el bibliotecario e intentar un intercambio, no siempre funciona, pero es la única forma de llevarte un libro que te interese.
 
+```
 Esta biblioteca compra cualquier libro que le ofrezcan y pagan muy bien (a discreción de Scheherazade) pero no vende ninguno. Pero sí puedes consultar cualquier libro que tengan en sus fondos. Hay un 5% de que cada vez que pases por Alejandría tenga una copia del grimorio que necesitas o un 20% de cualquier otro libro.
 
 También puede elegir no tirar y gastar un deseo para conseguir un libro normal o dos deseos para un grimorio mágico. Las condiciones de la copia del grimorio que tengan deberás tirarla en la Tabla de Modificaciones de Grimorios.
+```
 
 #### La vieja tienda de cosas del mar
 
@@ -353,7 +367,9 @@ La tienda tiene cierta maldición que hace que sus dueños no duren mucho y cada
 
 También puedes encontrar trabajos, no es raro que alguien busque un objeto en concreto y haya dejado aviso en la tienda de que compraría tal o cual objeto por una buena suma de dinero si lo alguien lo conseguía.
 
+```
 Una vez por visita a El-Iskandaria tus schahriars pueden generar un tesoro de 1d6 pudiendo tirar solo en la tabla de Objetos Especiales, es decir, que necesitan sacar un avance. El precio base, que luego se podrá regatear, se hará tirando otro d6 y solo gastando los éxitos y avances solo en la tabla de Riquezas.
+```
 
 ### Otros lugares de Egipto
 
@@ -371,7 +387,9 @@ El faraón Nefrén-Ka, conocido como el «Faraón negro», fue un poderoso mago 
 
 Se cree que su aún no descubierta cripta se encuentran dentro de la pirámide acodada de Dashur. En sus paredes el faraón escribió una serie de profecías de lo que le depara al mundo para los valientes o locos que se atrevan a abrir la cripta.
 
+```
 La lectura y traducción del egipcio antiguo de las inscripciones de la tumba tiene un TPC de d8 y si se recoge en un tomo tenemos un grimorio de nivel de poder 8.
+```
 
 En la cripta, además, hay un sarcófago vacío con joyas por valor de 20.000 dinares. No hay momia, ya que, al fallecer, Nefrén-Ka se fundió con Nyarlathotep y pasó a ser uno de sus avatares.
 

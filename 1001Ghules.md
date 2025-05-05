@@ -24,7 +24,7 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-01ElMundo.md|
+|01ElMundo.md|
 
 ***
 
@@ -40,15 +40,15 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-05LugaresMiticos.md OK
+05LugaresMiticos.md ----OK
 
 ***
 
-|06GuiaViajes.md|
+06GuiaViajes.md ----OK
 
 ***
 
-07Bagdad.md OK
+07Bagdad.md ----OK
 
 ***
 
@@ -56,19 +56,19 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-09Tesoros.md|
+09Tesoros.md| ----ERROR
 
 ***
 
-10Gentes.md|
+10Gentes.md ---OK
 
 ***
 
-11Recursos.md|
+11Recursos.md ----OK
 
 ***
 
-12Epilogo.md|
+12Epilogo.md ----OK
 
 ***
 

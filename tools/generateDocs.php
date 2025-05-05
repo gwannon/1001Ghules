@@ -25,11 +25,6 @@ foreach ($tags as $tag => $value) {
 /*$html = str_replace("<p>|tabla01.html|</p>", file_get_contents(__DIR__ . "/../tabla01.html"), $html);
 $html = str_replace("<p>|tabla02.html|</p>", file_get_contents(__DIR__ . "/../tabla02.html"), $html);*/
 
-$html = preg_replace_callback("/<p>\|([a-zA-Z0-9]*)\.html\|<\/p>/", function($matches) {
-  $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".html"); 
-  return $matches[0];
-}, $html);
-
 $html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class=\"columns\">", $html);
 $html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
@@ -115,6 +110,12 @@ foreach ($json as $item) {
   if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
 }
 $html = str_replace("|INDICE|", $indice, $html);
+
+
+$html = preg_replace_callback("/<p>\|([a-zA-Z0-9]*)\.html\|<\/p>/", function($matches) {
+  $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".html"); 
+  return $matches[0];
+}, $html);
 
 $counter = 2;
 $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
