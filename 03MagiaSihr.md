@@ -143,7 +143,7 @@ La curación mágica es principalmente a través de pócimas y emplastos. Aunque
 
 ### Destierro
 
-El destierro es algo muy común usado por practicantes de magia para deshacerse de yinns, cheitans y entidades más poderosas como avatares de dioses exteriores.
+El destierro es algo muy común usado por practicantes de magia para deshacerse de yinns, cheitáns y entidades más poderosas como avatares de dioses exteriores.
 
 \sp
 
@@ -572,7 +572,7 @@ Invocas una gota de diamante líquido que incinera el objetivo que toca.
 
 _Poder:_ Manipulación elemental
 
-> y de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghuls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.
+> y de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghūls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.
 > 
 > **Referencia:** Historia de Belukia (n. 361)
 

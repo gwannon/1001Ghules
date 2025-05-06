@@ -154,7 +154,7 @@ Los al mighos son los yinns más alejados de los humanos, no solo físicamente, 
 
 Según sus estudios y sus escritos, Alhazred consideraba que los al mighos son el origen de todos los mitos de lugares malditos, desapariciones misteriosas y gentes que vuelven completamente cambiados.
 
-Los al mighos no pueden mezclarse fácilmente con los humanos y suelen ser vistos como cheitans o demonios, es por ello que necesitan que sus minas y canteras donde extraen extraños metales estén lejos de miradas indiscretas. Tantos sus agentes humanos como ellos mismos con su avanzadísima tecnología usan todo tipo de estrategias para alejar a los intrusos o neutralizarlos mediante técnicas de control mental.
+Los al mighos no pueden mezclarse fácilmente con los humanos y suelen ser vistos como cheitáns o demonios, es por ello que necesitan que sus minas y canteras donde extraen extraños metales estén lejos de miradas indiscretas. Tantos sus agentes humanos como ellos mismos con su avanzadísima tecnología usan todo tipo de estrategias para alejar a los intrusos o neutralizarlos mediante técnicas de control mental.
 
 \sp
 
@@ -248,7 +248,7 @@ Hay que hacer hincapié, que si bien no son posesiones como tal, los al mighos y
 
 Los abu-qith, como ya hemos dicho, son yinns espirituales que pueden poseer los cuerpos de todo tipo de criaturas. La posesión es algo innato a su naturaleza y lo han perfeccionado tanto que incluso pueden poseer a través del tiempo, de forma que puede tomar el cuerpo de personas de los tiempos del Gran Suleimán y conocerle en persona. Las esencias de los poseídos son trasladados al cuerpo actual abu-qith y es tratado con amabilidad allí donde viva.
 
-Como no tienen un carácter maligno, y, por tanto, no son considerados cheitans, tratan de interferir lo mínimo en sus víctimas, de forma que no alteran las vidas de sus poseídos durante el tiempo de posesión. Le borran la memoria antes de abandonar el cuerpo poseído y devolvérselo a su legítimo dueño.
+Como no tienen un carácter maligno, y, por tanto, no son considerados cheitáns, tratan de interferir lo mínimo en sus víctimas, de forma que no alteran las vidas de sus poseídos durante el tiempo de posesión. Le borran la memoria antes de abandonar el cuerpo poseído y devolvérselo a su legítimo dueño.
 
 #### Los qareens y su aura depresiva
 
@@ -284,11 +284,11 @@ De hecho, hemos de considerar que Alhazred no era musulmán, adoraba a unos dios
 
 Como ya hemos visto, las motivaciones de los distintos yinns son muy diferentes, con lo que sus formas de actuar respecto de los humanos son muy diferentes. 
 
-Tenemos, pues, dos opciones, los que son neutrales con los humanos y los que buscan esclavizar o erradicar a la raza humana, que la tradición los llama cheitans o diablos.
+Tenemos, pues, dos opciones, los que son neutrales con los humanos y los que buscan esclavizar o erradicar a la raza humana, que la tradición los llama cheitáns o diablos.
 
-Los yinns tienen libre albedrío, por lo que pueden ser buenos o malos y ser o no ser creyentes. Es por ello que la tradición distingue entre yinns y cheitans (o shaitans).
+Los yinns tienen libre albedrío, por lo que pueden ser buenos o malos y ser o no ser creyentes. Es por ello que la tradición distingue entre yinns y cheitáns (o shaitáns).
 
-Los cheitans son lo que en la tradición judeocristiana llamaríamos demonios. Son yinns que no profesan la fe musulmana y, por tanto, se les considera malvados, siendo el más poderoso de ellos Iblis que sería versión islámica de Satanás.
+Los cheitáns son lo que en la tradición judeocristiana llamaríamos demonios. Son yinns que no profesan la fe musulmana y, por tanto, se les considera malvados, siendo el más poderoso de ellos Iblis que sería versión islámica de Satanás.
 
 Para Alhazred no existe esa diferenciación entre buenos y malos, ya que no los considera parte de nuestro mundo y, por lo tanto, quedan fuera de las leyes divinas y humanas que rigen el mundo de los hombres.
 
@@ -372,7 +372,7 @@ Veamos algunas de sus hazañas narradas en las 1001 noches.
 * Se dice que su alfanje, el Escorpión de Suleimán, podía partir una montaña como si fuera de jabón.
 * Era servido por los yinns, los cuales no osaban a rebelarse a sus órdenes. De hecho, creó varias joyas que tenían vinculados a poderosos caudillos yinn.
 * Hay historias que aseguran que estaba en dos sitios a la vez haciendo importantes prodigios. Quizás podía estar en dos sitios a la vez o quizás podía moverse muy rápidamente con objetos como alfombras voladoras.
-* Una de sus hazañas más poderosas es crear el sello de Suleimán (Símbolo arcano) que te permite protegerte del poder de los yinns y otros seres malvados o que sirve para encerrar a cheitans y desterrarlos de esta realidad.
+* Una de sus hazañas más poderosas es crear el sello de Suleimán (Símbolo arcano) que te permite protegerte del poder de los yinns y otros seres malvados o que sirve para encerrar a cheitáns y desterrarlos de esta realidad.
 
 \sp
 
@@ -716,7 +716,7 @@ Estas noticias no agradan a los amos al mighos y esto ha hecho que los adeptos d
 
 ### Seguidores del Fuego y de la Luz
 
-> /p/ “Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre. Y la habitaban todos sus parientes y súbditos. Mi padre es el rey que habrás visto en su trono, transformado en estatua de piedra. Y la reina, que también habrás visto, es mi madre. Ambos profesaban la religión de los magos adoradores del terrible Nardún. Juraban por el fuego y la luz, por la sombra y el calor, y por los astros que giran.
+> /p/ «Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre. Y la habitaban todos sus parientes y súbditos. Mi padre es el rey que habrás visto en su trono, transformado en estatua de piedra. Y la reina, que también habrás visto, es mi madre. Ambos profesaban la religión de los magos adoradores del terrible Nardún. Juraban por el fuego y la luz, por la sombra y el calor, y por los astros que giran.»
 > /p/ 
 > /p/ **Referencia:** Historia de Zobeida, la mayor de las jóvenes (n. 16)
 
@@ -1051,7 +1051,7 @@ Si alguno tiene una pifia en disparar hiere a su objetivo (tirada de daño real)
 
 #### Lucha libre
 
-> Inmediatamente extendieron una alfombra en el patio interior, y la joven y el muchacho llegaron al terreno, y se cogieron uno a otro por en medio del cuerpo, y juntaron sus axilas. Y lucharon enlazados maravillosamente. Y pronto la cogía el muchacho y la derribaba en tierra, como se erguía ella, cual una serpiente, y le derribaba a su vez. Y continuó él derivándola y ella derribándole durante dos horas de lucha, sin que ninguno de los dos pudiera hacer que el adversario tocase con los hombros en el suelo.
+> Inmediatamente, extendieron una alfombra en el patio interior, y la joven y el muchacho llegaron al terreno, y se cogieron uno a otro por en medio del cuerpo, y juntaron sus axilas. Y lucharon enlazados maravillosamente. Y pronto la cogía el muchacho y la derribaba en tierra, como se erguía ella, cual una serpiente, y le derribaba a su vez. Y continuó él derivándola y ella derribándole durante dos horas de lucha, sin que ninguno de los dos pudiera hacer que el adversario tocase con los hombros en el suelo.
 > 
 > **Referencia:** Historia contada por el octavo capitán de policía (n. 949)
 
@@ -1061,7 +1061,7 @@ Dos personas se enzarzan en un combate de presas y llaves dentro de un círculo.
 
 ### El shatranj
 
-> Le hizo, pues, sentarse al lado suyo, y le dijo: "¡Ya Anís! ¡tengo ganas de distraerme un poco! ¡Sabes jugar al shatranj?" Dijo él: "¡Sí, por cierto!" Y ella hizo señas a una de las jóvenes, quien al punto les llevó un tablero de ébano y marfil con cantoneras de oro, y los peones del shatranj eran rojos y blancos y estaban tallados en rubíes los peones rojos y tallados en cristal de roca los peones blancos. Y le preguntó ella: "¿Quieres los rojos o los blancos?"\[…\]  
+> Le hizo, pues, sentarse al lado suyo, y le dijo: "¡Ya Anís! ¡Tengo ganas de distraerme un poco! ¿Sabes jugar al shatranj?" Dijo él: "¡Sí, por cierto!" Y ella hizo señas a una de las jóvenes, quien al punto les llevó un tablero de ébano y marfil con cantoneras de oro, y los peones del shatranj eran rojos y blancos y estaban tallados en rubíes los peones rojos y tallados en cristal de roca los peones blancos. Y le preguntó ella: "¿Quieres los rojos o los blancos?"\[…\]  
 > Entonces le dijo ella: "¡Juguemos todo tu oro contra todo el mío!" Aceptó él, y perdió. Entonces se jugó sus tiendas, sus casas, sus jardines y sus esclavos, y los perdió unos tras de otros. Y ya no le quedó nada entre las manos.
 > 
 > **Referencia:** Los amores de Zein Al-Mawassif (n. 655)
@@ -1074,8 +1074,8 @@ Muchos personajes importantes son grandes aficionados a este juego y los grandes
 
 Hay 5 clases de jugadores según su maestría:
 
-* Aliyat (o aliya), grandes
-* Mutaqaribat, siguientes
+* Aliyat (o aliya), grandes.
+* Mutaqaribat, siguientes.
 * Tercera, cuarta y quinta clase
 
 Para determinar su clase, un jugador disputaría una serie de encuentros frente a un rival cuya categoría fuera conocida. Si ganaba 7 o más partidas de 10, pertenecía a una clase superior.
@@ -1092,7 +1092,7 @@ Las relaciones sexo-afectivas en las 1001 Noches son el tema principal de muchos
 
 En las tramas de las 1001 Noches se ven representadas muchos tipos de relaciones sexo-afectivas. Tenemos personas expresamente aquileas y sáficas. Así que si de normal deberías tener total libertad de dar a tu schahriar la orientación sexual que te parezca adecuada, has de saber que las propias 1001 Noches recogen este tipo de relaciones.
 
-También hay que tener en cuenta que algunas de las historias tienen un marcado carácter erótico y y es por ello que todos estos temas sexuales sean mostrados tan ampliamente. 
+También hay que tener en cuenta que algunas de las historias tienen un marcado carácter erótico y es por ello que todos estos temas sexuales sean mostrados tan ampliamente. 
 
 Aun así, las relaciones heterosexuales son lo predominante en la gran mayoría de los relatos.
 
@@ -1118,7 +1118,7 @@ De todas formas puedes montar las estructuras familiares que mejor se ajusten a 
 
 El divorcio es algo que aparece en varias de las historias, nombrado o como parte importante de la historia.
 
-> Por eso no conviene dejar tras de mí ataderos, deudas ni obligaciones, ni nada que pueda proporcionarme preocupaciones, pues ningún hombre sabe si será amigo de su destino al día siguiente. ¡Y por eso ¡oh tío! te llamo para entregarte el acta de divorcio de tu hija, esposa mía!"  
+> «Por eso no conviene dejar tras de mí ataderos, deudas ni obligaciones, ni nada que pueda proporcionarme preocupaciones, pues ningún hombre sabe si será amigo de su destino al día siguiente. ¡Y por eso, oh tío, te llamo para entregarte el acta de divorcio de tu hija, esposa mía!»  
 > Cuando el tío del generoso Ataf, padre de su esposa, hubo oído estas palabras y comprendido que Ataf quería divorciarse, quedó extremadamente conmovido,
 > 
 > **Referencia:** Historia del libro mágico (n. 899)
@@ -1129,7 +1129,7 @@ Pero seamos sinceros, que exista el divorcio no quiere decir que todo el mundo p
 
 ### Gastronomía
 
-> Y todos empezaron a comer toda clase de cosas excelentes, como carneros asados, arroz con manteca, y sobre todo el excelente manjar llamado "kisek", preparado con trigo pulverizado y leche fermentada.
+> Y todos empezaron a comer toda clase de cosas excelentes, como carneros asados, arroz con manteca, y sobre todo el excelente manjar llamado «kisek», preparado con trigo pulverizado y leche fermentada.
 > 
 > **Referencia:** Historia de la bella Zumurrud y Alischar, hijo de Gloria (n. 324)
 
@@ -1139,13 +1139,13 @@ Tratar de abarcar toda la gastronomía de las diferentes culturas de Oriente Med
 
 #### Kebab
 
-> Y he aquí que la esposa se aprovechó de la ausencia de Goha para asar a toda prisa el solomillo de carnero y comérselo con su hermano, sin dejar nada. Y cuando volvió Goha, sintió el apetitoso tufillo de los filetes asados, y se le dilataron las narices, y se le conmovió el estómago. Pero, cuando estuvo sentado ante la bandeja, su mujer le llevó por toda comida un pedazo de queso griego y un pan duro. En cuanto al kabab, ni rastro de él había. Y Goha, que no había hecho más que pensar en aquel kabab, dijo a su mujer: "¡Oh hija del tío! ¿y el kabab? ¿Cuándo vas a servírmelo?".
+> Y he aquí que la esposa se aprovechó de la ausencia de Goha para asar a toda prisa el solomillo de carnero y comérselo con su hermano, sin dejar nada. Y cuando volvió Goha, sintió el apetitoso tufillo de los filetes asados, y se le dilataron las narices, y se le conmovió el estómago. Pero, cuando estuvo sentado ante la bandeja, su mujer le llevó por toda comida un pedazo de queso griego y un pan duro. En cuanto al kabab, ni rastro de él había. Y Goha, que no había hecho más que pensar en aquel kabab, dijo a su mujer: «¡Oh hija del tío! ¿y el kabab? ¿Cuándo vas a servírmelo?».
 > 
 > **Referencia:** Algunas tonterías y teorías del maestro de las divisas y de las risas (n. 922)
 
 No creo necesario explicarlo, pero el kebab hace referencia a carne que es asada o cocida en rollos de carne prensada en un hornillo vertical. Quizás el plato más famoso de la rica gastronomía de Oriente medio.
 
-Originariamente es cordero, una de las carnes fundamentales, pero según restricciones religiosas y los gustos locales, tenemos kebabs de diferentes aves, ternera o pescado.
+Originariamente, es cordero, una de las carnes fundamentales, pero según restricciones religiosas y los gustos locales, tenemos kebabs de diferentes aves, ternera o pescado.
 
 #### Seksu
 
@@ -1231,7 +1231,7 @@ Estos barrios tienen algún tipo de gobernante menor que toma las decisiones pri
 
 #### Bazares y zocos
 
-Los zocos y bazares son las zonas comerciales de las ciudades. Normalmente, los más importantes están localizados en la medina, pero cada barrio tiene como mínimo sus propios zocos de alimentación y enseres del día a día. Cosas más especializadas y caras como los orfebres igual solo están en el bazar principal.
+Los zocos y bazares son las zonas comerciales de las ciudades. Normalmente, los más importantes están localizados en la medina, pero cada barrio tiene como mínimo sus propios zocos de alimentación y enseres del día a día. Cosas más especializadas y caras, como los orfebres, igual solo están en el bazar principal.
 
 \sp
 
@@ -1243,12 +1243,12 @@ Es normal encontrar mendigos en las entradas a estas zonas buscando limosna, ya 
 
 Los zocos y bazares tienen dos figuras interesantes:
 
-* Zabazoque: Es un funcionario o funcionaria del Califa que rige los zocos y bazares. Da licencias de venta, cobra tasas, revisa la calidad de las mercancías y resuelve disputas entre comerciantes.
-* Almotacén: El almotacén se encargaba de revisar que las herramientas de pesaje de los mercaderes estaban en condiciones y no habían sido trucadas. Vigilaban desde pesas, metros, sacos de grano y todo tipo de unidades de medida. También se encargaban de comprobar la pureza de los metales preciosos y detectar falsificaciones de monedas.
+* **Zabazoque:** Es un funcionario o funcionaria del Califa que rige los zocos y bazares. Da licencias de venta, cobra tasas, revisa la calidad de las mercancías y resuelve disputas entre comerciantes.
+* **Almotacén:** El almotacén se encargaba de revisar que las herramientas de pesaje de los mercaderes estaban en condiciones y no habían sido trucadas. Vigilaban desde pesas, metros, sacos de grano y todo tipo de unidades de medida. También se encargaban de comprobar la pureza de los metales preciosos y detectar falsificaciones de monedas.
 
 #### Maidán
 
-Maidán hace referencia a una plaza normalmente la más importante de la ciudad. Son amplios espacios y a veces ajardinados donde se desarrolla la vida social. La gente pasea y descansa a la sombra de árboles y toldos, come y toma te, etc.
+Maidán hace referencia a una plaza normalmente la más importante de la ciudad. Son amplios espacios y a veces ajardinados donde se desarrolla la vida social. La gente pasea y descansa a la sombra de árboles y toldos, come y toma té, etc.
 
 Normalmente la medina se estructura en función del maidán principal y los edificios oficiales suelen estar a su alrededor.
 
@@ -1348,11 +1348,8 @@ Los productos con que se comerciaba en estas rutas eran muy variados. Seda de la
 
 Desde Oriente Medio partes rutas comerciales a todo el mundo conocido trayendo mercancías increíbles y valiosas.
 
-* **Ruta de la Seda:** La famosa ruta de la Seda conecta Oriente medio con China, trayendo no solo seda, sino todos los desarrollos tecnológicos de China como el papel o la pólvora. La ruta no era única, sino que había varios caminos posibles según donde quisieras empezar y acabar.  
-    Una caravana podía tardar entre año y medio y dos años en ir y volver, pero los beneficios eran enormes. Debe su nombre a la mercancía más prestigiosa que circulaba por ella, la seda, cuya elaboración era un secreto que solo los chinos conocían. Muchos productos transitaban estas rutas:  
-    piedras y metales preciosos (diamantes de Golconda, rubíes de Birmania, jade de China, perlas del golfo Pérsico), telas de lana o de lino, ámbar, marfil, laca, especias, porcelana, vidrio, materiales manufacturados, coral, etc.
-* **Ruta de las especies:** Durante cientos de años se han traído por tierra y barco especies desde la India y luego eran distribuidas por todo el Mediterráneo en barco. También se van más lejos en barco a las diferentes islas de las especies donde comerciaban con extrañas gentes que se ven reflejadas (y exageradas) en las historias de Sindbad el marino.  
-    Por especies entendemos no solo pimienta o comino, también plantas medicinales, diferentes inciensos y aceites que se quemaban para dar olor.
+* **Ruta de la Seda:** La famosa ruta de la Seda conecta Oriente medio con China, trayendo no solo seda, sino todos los desarrollos tecnológicos de China como el papel o la pólvora. La ruta no era única, sino que había varios caminos posibles según donde quisieras empezar y acabar.     Una caravana podía tardar entre año y medio y dos años en ir y volver, pero los beneficios eran enormes. Debe su nombre a la mercancía más prestigiosa que circulaba por ella, la seda, cuya elaboración era un secreto que solo los chinos conocían. Muchos productos transitaban estas rutas: piedras y metales preciosos (diamantes de Golconda, rubíes de Birmania, jade de China, perlas del golfo Pérsico), telas de lana o de lino, ámbar, marfil, laca, especias, porcelana, vidrio, materiales manufacturados, coral, etc.
+* **Ruta de las especies:** Durante cientos de años se han traído por tierra y barco especies desde la India y luego eran distribuidas por todo el Mediterráneo en barco. También se van más lejos en barco a las diferentes islas de las especies donde comerciaban con extrañas gentes que se ven reflejadas (y exageradas) en las historias de Sindbad el marino. Por especies entendemos no solo pimienta o comino, también plantas medicinales, diferentes inciensos y aceites que se quemaban para dar olor.
 
 \sp
 
@@ -1392,7 +1389,7 @@ Los khans proporcionaban agua para el consumo de gente y animales, así como par
 
 Aunque a priori lo pueda parecer, el desierto y todos sus peligros no son un elemento muy importante en las 1001 Noches. No es común que un personaje se quede abandonado en el desierto y sufra todo tipo de desventuras. Lo normal es que los desiertos se crucen sin problemas, quizás haya ataques de bandidos o algún tipo de monstruo de las arenas, pero siempre se tienen agua y provisiones y no hay terribles tormentas de arena.
 
-* Sahara, en todo el norte de África. Debido a su gran tamaño podemos tener desde desierto de arena y dunas que llegan a la costa, hasta zonas de desierto de piedra. Al ser tan grande y tan variado da juego a todo tipo de situaciones, puedes meter oasis, dunas, kashbahs abandonadas, tribus monadas, etc. Mientras que el resto de desiertos son un obstáculo, el Sahara es un viaje en sí.
+* Sahara, en todo el norte de África. Debido a su gran tamaño podemos tener desde desierto de arena y dunas que llegan a la costa, hasta zonas de desierto de piedra. Al ser tan grande y tan variado da juego a todo tipo de situaciones, puedes meter oasis, dunas, kasbahs abandonadas, tribus monadas, etc. Mientras que el resto de desiertos son un obstáculo, el Sahara es un viaje en sí.
 * Rub al-Jali, en la península arábiga. Es un erg, el clásico desierto de arena y dunas, con temperaturas terribles de día y de noche. Es una de las regiones más inhóspitas de la Tierra y está totalmente deshabitada.
 * Wadi Rum, en Aqaba. El «Valle de la luna» es un desierto en una meseta de arenisca y granito que tiene unas formaciones rocosas con túneles y cuevas bastante curiosas por no decir extraterrestres. Es famosa la montaña conocida como Los siete pilares de la sabiduría.
 

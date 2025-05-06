@@ -12,7 +12,7 @@ Recuerda que los seres con el símbolo ☾ son considerados comodines.
 
 \conc
 
-> Mientras andaba de este modo vio una gran polvareda de la que salía un estrépito que se hizo ensordecedor como el trueno, y oyó chocar lanzas y espadas detrás de ella, y un tumulto producido por galopes y gritos que nada tenían de humano; y de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghuls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.
+> Mientras andaba de este modo vio una gran polvareda de la que salía un estrépito que se hizo ensordecedor como el trueno, y oyó chocar lanzas y espadas detrás de ella, y un tumulto producido por galopes y gritos que nada tenían de humano; y de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghūls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.
 > 
 > **Referencia:** Historia de Belukia (n. 361)
 
@@ -20,7 +20,7 @@ Los Yinns, según la tradición islámica, es la tercera raza de seres que creo 
 
 Pero como ya hemos visto, según Abdul Alhazred los cuentos y leyendas se equivocan, los Yinns provienen de más allá de las estrellas y luchan entre ellos y conspiran contra la humanidad por el control de la Tierra.
 
-Como ya hemos dicho, tienen libre albedrío, con lo que pueden ser buenos y malos, pero normalmente cada tipo suele tener un carácter ya marcado que hace que sean buenos o malos. Al tener libre albedrío, los teólogos consideran que puede ser o no creyentes. Los Yinns no creyentes son llamados cheitans, que podríamos traducir por demonios.
+Como ya hemos dicho, tienen libre albedrío, con lo que pueden ser buenos y malos, pero normalmente cada tipo suele tener un carácter ya marcado que hace que sean buenos o malos. Al tener libre albedrío, los teólogos consideran que puede ser o no creyentes. Los Yinns no creyentes son llamados cheitáns, que podríamos traducir por demonios.
 
 La verdad es que, quitando a los ghūles que están muy cerca de la humanidad, el resto de Yinns poco o nada se interesan por las religiones de los humanos. Casi todos ellos rezan a sus propios dioses degenerados y corruptos de más allá de las estrellas.
 
@@ -28,7 +28,7 @@ La verdad es que, quitando a los ghūles que están muy cerca de la humanidad, e
 
 ### Ghūl (Gul)
 
-> Y he aquí que surgió de entre las tumbas una forma cuya especie no podía yo adivinar aún y que salió al encuentro de mi esposa. Y por el horror de su fisonomía y por su cabeza de hiena carnicera, reconocí una ghula en aquella forma sepulcral.
+> Y he aquí que surgió de entre las tumbas una forma cuya especie no podía yo adivinar aún y que salió al encuentro de mi esposa. Y por el horror de su fisonomía y por su cabeza de hiena carnicera, reconocí una ghūla en aquella forma sepulcral.
 > 
 > **Referencia:** Historia del joven dueño de la yegua blanca (n. 861-865)
 
@@ -43,7 +43,7 @@ Se organizan en pequeños grupos familiares y son muy territoriales. Pueden infe
 * **Paso:** 6; **Parada:** 5; **Dureza:** 7 (1)
 * **Capacidades especiales:**
     * **Armadura +1:** Piel dura.
-    * **Garras/Mordisco:** Fue+d6
+    * **Garras/Mordisco:** FUE+d6
     * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación está completa en ghūl (y el personaje se vuelve injugable).
     * **Excavar 4:** Los ghūles pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
     * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
@@ -237,7 +237,7 @@ El cinco es un número importante entre los janns debido a que su torso de tonel
 * **Equipo:** Herramientas y utensilios que use en su trabajo
 * **TPC:** d8
 
-Los janns son una sociedad compleja, tan compleja como la humana, con todo tipo de profesiones y dedicaciones así pues puede haber janns que se dedican a la medicina o que son artistas o soldados. Es por ello que puedes personalizar las habilidades del jann según su profesión, intereses y estudios. Un jann explorador podría tener Supervivencia, un militar más Pelear y si trabaja en algún taller puede tener Reparar.
+Los janns son una sociedad compleja, tan compleja como la humana, con todo tipo de profesiones y dedicaciones, así pues puede haber janns que se dedican a la medicina o que son artistas o soldados. Es por ello que puedes personalizar las habilidades del jann según su profesión, intereses y estudios. Un jann explorador podría tener Supervivencia, un militar más Pelear y si trabaja en algún taller puede tener Reparar.
 
 Los yanns con conocimientos mágicos podrían lanzar hechizos, pero mejor resérvalo para invocaciones o rituales para emular poderes tienen su tecnología que a ojos de los mortales, puede parecer magia.
 
@@ -249,7 +249,7 @@ Según la tradición, los qareen son gemelos espirituales de cada ser humano. Tr
 
 Sin embargo, las teorías que Alhazred expone en su Necronomicón difieren mucho del relato tradicional. Llevan miles de años en la Tierra y vinieron con su caudillo Ghatanothoa, el primogénito de Bahamūt, al que ellos llaman Cthulhu, estableciéndose en un continente ya perdido. Cuando Ghatanothoa fue encerrado en un volcán, entraron en decadencia y ahora solo quedan unos pocos qareens en la Tierra.
 
-Son considerados cheitans, yinns malvados. Además, son tremendamente poderosos y sus mentes llevan poco a poco a la locura a los humanos. Un solo qareen podría llevar al mal y la decadencia a toda una ciudad como Bagdad.
+Son considerados cheitáns, yinns malvados. Además, son tremendamente poderosos y sus mentes llevan poco a poco a la locura a los humanos. Un solo qareen podría llevar al mal y la decadencia a toda una ciudad como Bagdad.
 
 #### Qareen forma inmaterial
 
@@ -294,7 +294,7 @@ Aunque los textos sagrados y la tradición dice que los qareen solo son seres es
 Un humano poseído por un qareen tiene sus atributos y habilidades normales y una serie de ventajas y desventajas. Aplica la siguiente plantilla al humano que ha caído bajo el influjo de un qareen.
 
 * **Características especiales:**
-    * **Cheitán:** Al estar poseído por un shaitán se convierte en un ser malvado y pierde todas las ventajas y desventajas de carácter bondadoso. Dejaría, por ejemplo, de tener las desventajas Heroico o Leal. Les afectarían todos los objetos que afecten a los shaitans.
+    * **Cheitán:** Al estar poseído por un cheitán se convierte en un ser malvado y pierde todas las ventajas y desventajas de carácter bondadoso. Dejaría, por ejemplo, de tener las desventajas Heroico o Leal. Les afectarían todos los objetos que afecten a los cheitáns.
     * **Inmune a control mental:** La poderosa mente del qareen ha invadido la mente del poseído y hace nadie más pueda intentar usar poderes mentales sobre el poseído o la poseída.
     * **Foco:** El qareen puede hacer que se enfoque en una tarea olvidando todo lo demás. De esa forma, tiene un +2 a las tiradas de habilidad relacionadas con su foco (lo que el qareen le ha ordenado) y -2 al resto de tiradas.
 
@@ -308,7 +308,7 @@ Un humano poseído por un qareen tiene sus atributos y habilidades normales y un
 
 ### Abibil (Byakhee)
 
-> …Una horda de mansos, híbridos seres alados que ningún ojo, ningún cerebro en su sano juicio, ha podido contemplar jamás. No eran águilas, ni hienas, ni búhos, ni hormigas, ni murciélagos, sino una mezcla impía de todos y de ninguno; eran algo que no consigo -a nuestro señor se lo agradezco- recordar. Daban saltos blandos y torpes, impulsándose a medias con sus pies palmeados y a medias con sus alas membranosas. Y cuando llegaron hasta los cuarenta celebrantes, cada uno de los 40 se agarró a ellos, montó a horcajadas, y se alejó volando…
+> … Una horda de mansos, híbridos seres alados que ningún ojo, ningún cerebro en su sano juicio, ha podido contemplar jamás. No eran águilas, ni hienas, ni búhos, ni hormigas, ni murciélagos, sino una mezcla impía de todos y de ninguno; eran algo que no consigo -a nuestro señor se lo agradezco- recordar. Daban saltos blandos y torpes, impulsándose a medias con sus pies palmeados y a medias con sus alas membranosas. Y cuando llegaron hasta los cuarenta celebrantes, cada uno de los 40 se agarró a ellos, montó a horcajadas, y se alejó volando…
 
 Si bien la tradición oral dice que los abibil son grandes aves rapaces que ayudan a los creyentes a defenderse de los herejes, Alhazred no los consideró unos seres buenos y bondadosos, sino simplemente una raza servidora que sirven a un gran poder.
 
@@ -323,8 +323,8 @@ Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del
 * **Paso:** 6; **Parada:** 6; **Dureza:** 8(2)
 * **Ventajas:** Frenesí Mejorado, Temple
 * **Capacidades especiales:**
-    * **Garras:** FUE + d4
-    * **Mordisco:** FUE + d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño hará un nivel de fatiga.
+    * **Garras:** FUE+d4
+    * **Mordisco:** FUE+d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño, hará un nivel de fatiga.
     * **Armadura quitinosa:** +2
     * **Tamaño +1:** Hasta 3 metros de tamaño.
     * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
@@ -366,7 +366,7 @@ El color es un extraño ser que se cree que no es de la Tierra, sino que viene d
 
 Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se "planta" cerca de donde cae en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital, va creciendo en tamaño.
 
-Cuando tiene suficiente tamaño, ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear.Y asi el ciclo se repite ampliando el radio de acción de los colores.
+Cuando tiene suficiente tamaño, ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear. Y así el ciclo se repite ampliando el radio de acción de los colores.
 
 Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcantarillas, cuevas, etc. No son agresivos directamente, los humanos que caen en su influencia se vuelven irracionales y violentos. Para poder combatir al color hay que enfrentarse a los humanos y animales a los que han corrompido.
 
@@ -376,7 +376,7 @@ Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcant
 * **Capacidades especiales:**
     * **Morfología alíen:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
     * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores, ni penalizadores por tamaño.
-    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. es inmune a todo ataque físico. Puede solidificar partes de si mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
+    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
     * **Volar:** Paso volando 12.
     * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
     * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno, serán problemas mentales que le mantengan encerrado en el lugar donde esté el color, como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
@@ -388,7 +388,7 @@ Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcant
 > "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo. También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un pez enorme, y el pez nada en la superficie del Mar de la Eternidad. \[…\]  
 > "El Mar de la Eternidad tiene por lecho el piso superior del infierno, el cual, con sus siete regiones, está cogido entre las fauces de una serpiente monstruosa que permanecerá quieta hasta el día del Juicio.
 > 
-> **Referencia:** Historia de Belukia (n. 362-363 )
+> **Referencia:** Historia de Belukia (n. 362-363)
 
 Los falak son inmensas serpientes/gusanos. Según la mitología árabe/islámica, un inmenso falak sostienen el mundo entero. De los que hablamos aquí son versiones más pequeñas, aunque no dejan de rondar los 400 metros de largo. No se sabe su forma exacta, ya que no salen a la luz del día y pocos sobreviven a su presencia.
 
@@ -403,12 +403,12 @@ Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astro
     * **Armadura +12:** La piel de falak es increíblemente fuerte y resistente.
     * **Gargantuesco:** Puede aplastar casi cualquier objeto de tamaño 15 o menos con un ataque de pisotón que causa d12+22 de daño, menos el propio Tamaño de la víctima.  
         Se considera un arma pesada y para dañar a un falak hacen falta armas pesadas como catapultas o balistas.
-    * **Tamaño +30:** Este monstruoso gusano mide más de cuatrocientos metros de longitud. Es tán grande que otorga +6 a todos los ataques que se le haga y tiene 3 heridas extras.
+    * **Tamaño +30:** Este monstruoso gusano mide más de cuatrocientos metros de longitud. Es tan grande que otorga +6 a todos los ataques que se le haga y tiene 3 heridas extras.
     * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
     * **Mente alien:** Su cerebro es tan diferente que no se le puede engañar o intimidar, tampoco puede leerse y es imposible atacarle mentalmente.
     * **Baba ácida:** El falak puede escupir baba ácida a distancia (100/200/300). Hacen 5d6 de daño de ácida y puedes usar la plantilla de área grande (PAG).
     * **Excavar:** Paso 10
-    * **Engullir:** El falak puede escoger una zona del tamaño de plantilla de área grande (PAG) y engullir todo lo que haya en esa ella. Excepto los comodines, todo lo que haya dentro del área será devorado. Los comodines podrán hacer una tirada de Atletismo para escapar de la zona. En caso de fallar podrán gastar 1 deseo para esquivar el ataque. En caso de no tener deseos, será engullido, pero sin estar muerto. Se quedará agarrado a los dientes o en la garganta del falak y podrá ser salvado por otros comodines. El falak debe hacer una acción completa para matar al comodín que esté en su boca y si consigue huir también matará al comodín. Si derrotan al falak, el comodín podrá salir del cadáver. El falak solo puede usar esta acción si está sin deseos y no puede repetirla hasta no haber gastado todos los deseos conseguidos al esquivarle.
+    * **Engullir:** El falak puede escoger una zona del tamaño de plantilla de área grande y engullir todo lo que haya en esa ella. Excepto los comodines, todo lo que haya dentro del área será devorado. Los comodines podrán hacer una tirada de Atletismo para escapar de la zona. En caso de fallar podrán gastar 1 deseo para esquivar el ataque. En caso de no tener deseos, será engullido, pero sin estar muerto. Se quedará agarrado a los dientes o en la garganta del falak y podrá ser salvado por otros comodines. El falak debe hacer una acción completa para matar al comodín que esté en su boca y si consigue huir también matará al comodín. Si derrotan al falak, el comodín podrá salir del cadáver. El falak solo puede usar esta acción si está sin deseos y no puede repetirla hasta no haber gastado todos los deseos conseguidos al esquivarle.
     * **Devorar realidad:** El falak puede devorar cualquier cosa, incluso la propia realidad. Se sabe de dimensiones devoradas hasta no quedar nada de ella más que puro vacío.
 * **TPC:** d12+2
 
@@ -436,7 +436,7 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades y 
     * **Armadura +2:** Estos gusanos están cubiertos por una gruesa piel y un limo pegajoso.
     * **Excavar 12:** Los chthonianos pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 12 pasos.
     * **Telepatía:** Pueden comunicarse telepáticamente con otros de su especie, incluso a miles de kilómetros. También puede detectar mentes de otros seres pensantes y controlar las mentes de los humanos (Marioneta usando Espíritu como habilidad).
-    * **Tentáculos:** Fue+d10
+    * **Tentáculos:** FUE+d10
     * **Terremoto:** Levantando la cola o la cabeza y dejándola caer pueden crear un terremoto. El terremoto es un ataque de Chorro que usa su habilidad de Pelear.
     * **Tamaño enorme (8):** Los chthonianos adultos miden entre 9 y 12 metros y un par de metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 heridas).
     * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
@@ -485,9 +485,9 @@ Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los
     * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
     * **Armadura +2:** Escamas y piel rugosa.
     * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
-    * **Garras:** Fue+d4
+    * **Garras:** FUE+d4
     * **Rituales:** Atraer a los peces
-* **Equipo:** Tridente (Fue+d6, +1 Parada, a dos manos), Zurrón de algas trenzada, red de pesca.
+* **Equipo:** Tridente (FUE+d6, +1 Parada, a dos manos), Zurrón de algas trenzada, red de pesca.
 * **TPC:** 1d4 (manada).
 
 #### Híbridos de la gente del mar y de la gente de la tierra
@@ -531,12 +531,12 @@ Es una raza inteligente con una cultura simple y se comunican mediante gestos de
 
 ### Habitantes de la Ciudad Sin Nombre
 
-> Eran una especie de reptiles, las líneas de su cuerpo sugerían una veces la forma de un cocodrilo, otras las nutrias chinas, pero la mayoría de las veces recordaban a algo del que ni sabios ni gurús hubieran oído hablar. En tamaño se aproximaban a un humano pequeño, y sus patas delanteras tenían zarpas delicadas y hábiles que curiosamente se parecían a manos y dedos humanos. Pero lo más extraño de todo eran sus cabezas, que presentaban una forma que violaba todos los saberes en conjunto de todos los maestros y maestras de la Casa de la Sabiduría del Califa de Bagdad.  
-> Con nada se pueden comparar cosas así; de un instante pensé en comparaciones tan variadas como el gato, la rana del desierto, el sátiro mítico y el ser humano. Ni el propio Ebliss, padre de los cheitan, había tenido una frente tan colosal y protuberante; sin embargo, los cuernos, la falta de nariz y la mandíbula parecida a la de un cocodrilo del Nilo situaban las cosas fuera de todas las categorías establecidas.
+> Eran una especie de reptiles, las líneas de su cuerpo sugerían unas veces la forma de un cocodrilo, otras las nutrias chinas, pero la mayoría de las veces recordaban a algo del que ni sabios ni gurús hubieran oído hablar. En tamaño se aproximaban a un humano pequeño, y sus patas delanteras tenían zarpas delicadas y hábiles que curiosamente se parecían a manos y dedos humanos. Pero lo más extraño de todo eran sus cabezas, que presentaban una forma que violaba todos los saberes en conjunto de todos los maestros y maestras de la Casa de la Sabiduría del Califa de Bagdad.  
+> Con nada se pueden comparar cosas así; de un instante pensé en comparaciones tan variadas como el gato, la rana del desierto, el sátiro mítico y el ser humano. Ni el propio Ebliss, padre de los cheitán, había tenido una frente tan colosal y protuberante; sin embargo, los cuernos, la falta de nariz y la mandíbula parecida a la de un cocodrilo del Nilo situaban las cosas fuera de todas las categorías establecidas.
 
 [![The Nameless City by MFPrietoCane](./images/habitantes.jpg)](https://www.deviantart.com/mfprietocane/art/The-Nameless-City-845527255 "The Nameless City by MFPrietoCane") 
 
-Esto reptiles cuadrúpedos inteligentes, como bien dice su nombre, habitan la perdida Ciudad sin Nombre. se les representa con una gran chepa y cabezas de tamaño algo desproporcionadas.
+Esto reptiles cuadrúpedos inteligentes, como bien dice su nombre, habitan la perdida Ciudad sin Nombre. Se les representa con una gran chepa y cabezas de tamaño algo desproporcionadas.
 
 Sobreviven en los oscuros pasillos subterráneos atrapando a los intrusos y sacrificándolos a sus dioses reptiles.
 
@@ -589,7 +589,7 @@ Aunque la creencia popular dice que los Nasnas son la descendencia de un tipo de
 * **Habilidades:** Atletismo d4, Disparar d6, Intimidar d6, Notar d4, Pelear d6
 * **Paso:** 4; **Parada:** 5; **Dureza:** 7
 * **Capacidades especiales:**
-    * **Garras/Mordisco:** FUE de daño.
+    * **Garras/Mordisco:** FUE+d4 de daño.
     * **Muerto viviente:** +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.
     * **Saltador:** Como acción de movimiento puede elegir saltar una distancia en línea recta de hasta 6 pasos. Además, añade +4 al daño cuando se abalanza como parte de un ataque salvaje en lugar del +2 habitual siempre que pueda hacer el salto completo de 6 pasos.
 * **TPC:** d4 (manada)
@@ -673,8 +673,8 @@ Puedes encontrarlos en sus guaridas subterráneas rodeadas de todo tipo de herra
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Nuevos poderes x2
 * **Capacidades especiales:**
     * **Armadura +1:** Piel escamosa.
-    * **Garras:** Fue+d6
-    * **Mordisco venenoso:** Fue+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+    * **Garras:** FUE+d6
+    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Hechizos:** 12 PP, Conoce 3 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
@@ -688,14 +688,14 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Nuevos poderes
 * **Capacidades especiales:**
     * **Armadura +1:** Piel escamosa.
-    * **Garras:** Fue+d6
-    * **Mordisco venenoso:** Fue+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+    * **Garras:** FUE+d6
+    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
 ### Sirrush (Sabueso de Tíndalos) ☾
 
-> …En sus cuerpos flacos y famélicos se concentra tanto mal como el propio Iblis. En realidad no estoy seguro de que tuvieran cuerpo: solo los vi un instante. Pero de tenerlo se parecían a los perros guardianes con un solo cuerno que había en los bajorrelieves de la antigua puerta de Ishtar en las ruinas de Babilonia.
+> … En sus cuerpos flacos y famélicos se concentra tanto mal como el propio Iblis. En realidad no estoy seguro de que tuvieran cuerpo: solo los vi un instante. Pero de tenerlo se parecían a los perros guardianes con un solo cuerno que había en los bajorrelieves de la antigua puerta de Ishtar en las ruinas de Babilonia.
 
 Según Alhazred, los sirrush, los sirvientes de Marduk, son unos seres inmortales que habitan la Tierra antes de los humanos, los ángeles y los yinns. Se dice que viven entre los ángulos del tiempo, mientras que el resto de seres vivimos en las curvas del tiempo. No se sabe muy bien su forma exacta, ya que nadie ha sobrevivido a su ataque. Aun así, según la creencia mesopotámica, podrían ser reptiles alargados que se mueven sobre 4 patas con garras de león.
 
@@ -703,7 +703,7 @@ Según Alhazred, los sirrush, los sirvientes de Marduk, son unos seres inmortale
 
 Cuando alguien viaja a través del tiempo y se acerca a su época, ellos lo notan y van avanzando a través de los ángulos tiempo hasta que lo encuentran y lo destruyen. Fueron creados a partir de restos ADN de dioses y es por ello que tienen formidables poderes.
 
-Los sirrushes representan todo lo que es impuro y odian todo lo que es puro. Desean corromperlo o destruirlo. Esta naturaleza impura vincula a los perros con las formas angulares, pues estas carecen de la pureza que poseen las formas curvas.
+Los sirrushs representan todo lo que es impuro y odian todo lo que es puro. Desean corromperlo o destruirlo. Esta naturaleza impura vincula a los perros con las formas angulares, pues estas carecen de la pureza que poseen las formas curvas.
 
 Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y la forma más segura de protegerse sería en una habitación sin ángulos, por ejemplo, una habitación donde las juntas entre paredes, techo y suelo hayan sido rellenadas de cemento, de forma que haya ángulos rectos.
 
@@ -726,7 +726,7 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
 
 ### Sirviente alado (Noctívago demacrado)
 
-> Habiendo dicho estas palabras, el persa sacó de entre su traje un tamboril de cobre en el cual había extendida una piel de gallo y aparecían grabados caracteres talismánicos. Y se puso a tocar con sus dedos en el tamboril. Y al punto se alzó una polvareda, desde el seno de la cual se hizo oír un relincho prolongado; y súbitamente, surgió ante ellos un gran ser negro con alas de murciélago, que empezó a golpear el suelo los tentáculos que tenía por extremidades, echando llamas por las narices. Y el persa y Hassán fueron rodeados por los pseudópodos del cheitan. Y al instante el sirviente batió las alas y remontó el vuelo; y en menos tiempo del que se necesita para abrir un párpado y cerrar el otro, les dejó en la cumbre de la Montaña de las Nubes. Luego desapareció.
+> Habiendo dicho estas palabras, el persa sacó de entre su traje un tamboril de cobre en el cual había extendida una piel de gallo y aparecían grabados caracteres talismánicos. Y se puso a tocar con sus dedos en el tamboril. Y al punto se alzó una polvareda, desde el seno de la cual se hizo oír un relincho prolongado; y súbitamente, surgió ante ellos un gran ser negro con alas de murciélago, que empezó a golpear el suelo los tentáculos que tenía por extremidades, echando llamas por las narices. Y el persa y Hassán fueron rodeados por los pseudópodos del cheitán. Y al instante el sirviente batió las alas y remontó el vuelo; y en menos tiempo del que se necesita para abrir un párpado y cerrar el otro, les dejó en la cumbre de la Montaña de las Nubes. Luego desapareció.
 > 
 > **Referencia:** Las aventuras de Hassan Al-Bassri (n. 582)
 
@@ -748,9 +748,9 @@ Los sirvientes alados son unos seres con unas grandes alas de murciélago y cola
 
 Dentro de las leyendas árabes hay varios seres que viven en cuevas en el desierto, pero la mayoría los llama Sukaan. Son humanoides de grandes ojos y orejas. Su piel parece hecha de arena y es por ello que puede camuflarse fácilmente en el desierto. Son nocturnos, aunque pueden salir a la luz del sol sin problemas.
 
-Los suukan son realmente algún tipo de cheitan sin cuerpo que desde el infierno puede poseer a un ser humano. Cuando un humano es poseído, su mente progresivamente se va volviendo más similar a la de un sukaan, más primitiva y cruel, hasta comportarse como un asesino psicópata.
+Los suukans son realmente algún tipo de cheitán sin cuerpo que desde el infierno puede poseer a un ser humano. Cuando un humano es poseído, su mente progresivamente se va volviendo más similar a la de un sukaan, más primitiva y cruel, hasta comportarse como un asesino psicópata.
 
-El cheitan también transforma el cuerpo de la víctima con pústulas y llagas y las orejas y los ojos se hacen más grandes. Cuando la posesión mental y corporal se ha completado la piel, se cae y deja paso a la piel arenosa que caracteriza al sukaan. En ese momento la persona deja de existir para dar vida al suukan.
+El cheitán también transforma el cuerpo de la víctima con pústulas y llagas y las orejas y los ojos se hacen más grandes. Cuando la posesión mental y corporal se ha completado la piel, se cae y deja paso a la piel arenosa que caracteriza al sukaan. En ese momento la persona deja de existir para dar vida al suukan.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d6, Notar d6, Saber de Suleimán d4, Pelear d6, Sigilo d8, Supervivencia d6
@@ -765,7 +765,7 @@ El cheitan también transforma el cuerpo de la víctima con pústulas y llagas y
 * **Equipo:** Herramientas de piedra
 * **TPC:** d6 (manada)
 
-El proceso de posesión no tiene mecánica propia, simplemente es algo que puede pasar a cualquiera no comodín. Poco a poco la posesión se va produciendo hasta convertirse en un Suukan. Observar el paso final de la posesión del sukaan tiene una TPC 1d8.
+El proceso de posesión no tiene mecánica propia, simplemente es algo que puede pasar a cualquiera no comodín. Poco a poco la posesión se va produciendo hasta convertirse en un suukan. Observar el paso final de la posesión del sukaan tiene una TPC 1d8.
 
 ### Vástagos de Astarte (Retoño oscuro) ☾
 
@@ -779,7 +779,7 @@ Los vástagos de Astarte son unas masas informes de tentáculos con varias bocas
 * **Capacidades especiales:**
     * **Masa informe:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen ningún extra. Por ejemplo, disparar a una boca no sirve de nada, ya que hay muchas más.
     * **Inmunidad:** A explosivos y armas de fuego
-    * **Tentáculos:** Fue+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.
+    * **Tentáculos:** FUE+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.
     * **Tamaño grande (4/6):** Los vástagos miden entre 4 y 6 metros y un par de metros de diámetro (+4/6 dureza, +2 bonificación al atacarla, +1 herida).
     * **Apariencia de árbol:** Pueden usar su sigilo solo para parecer ser árboles en la lejanía. En cuando te acercas o se mueven, la ilusión se rompe.
 * **TPC:** 1d8
@@ -791,11 +791,11 @@ Los vástagos de Astarte son unas masas informes de tentáculos con varias bocas
 > 
 > **Referencia:** La quinta historia de las historias de Sindbad el marino, que trata del quinto viaje (n. 307)
 
-Este extraño ser, algunos lo clasifican como yinn o cheitan, tiene la forma de un hombre mayor sin extremidades inferiores. En su lugar posee dos especies de pseudópodos de hasta unos 3 metros de largo.
+Este extraño ser, algunos lo clasifican como yinn o cheitán, tiene la forma de un hombre mayor sin extremidades inferiores. En su lugar posee dos especies de pseudópodos de hasta unos 3 metros de largo.
 
 Suele aparecer en islas perdidas y tiene apariencia de náufrago que te pide ayuda para que lo lleves en tus hombros un rato o le cruces un río. En cuanto lo pones a tus hombros, los pseudópodos te apresan y no puedes librarte de él. Desde ese momento te usa como montura y como esclavo para que recojas comida y le hagas trabajos de toda índole. Si intentas soltarte te golpea la cabeza con su bastón y te intenta asfixiar.
 
-Su objetivo como cheitan es hacer que no ayudemos a la gente mayor e incluso desconfiemos de sus súplicas.
+Su objetivo como cheitán es hacer que no ayudemos a la gente mayor e incluso desconfiemos de sus súplicas.
 
 Como enemigo es complicado meterlo en una aventura, ya que es más una trampa que un monstruo y quedaría raro que un grupo de davalpas engañaran a un grupo de schahriars. Puede ser un contrincante interesante para el grupo de niños de la aventura de "El Pequeño Consejo" o para aventuras en solitario.
 
@@ -988,7 +988,7 @@ Aquí tenéis una lista de animales domésticos y salvajes del manual de SWEA qu
 * **Caimán/cocodrilo:** en el Nilo podrás encontrar cocodrilos en sus orillas.
 * **Caballo de monta/guerra**
 * **Gato doméstico**
-* **León:** también puedes usar estás estadísticas para otros grandes felinos como tigres o panteras.
+* **León:** también puedes usar estas estadísticas para otros grandes felinos como tigres o panteras.
 * **Lobo/Perro:** puedes encontrar perros en el campo y la ciudad y muchas clases de cánidos salvajes.
 * **Mula**
 * **Serpiente constrictora/venenosa**

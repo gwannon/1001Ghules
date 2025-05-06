@@ -989,7 +989,7 @@ El Azufre Rojo o Kimia es una sustancia alquímica muy buscada que permite grand
 
 ### Batería de Bagdad
 
-> Y vertió toda una tinaja de agua regia que el mismo había filtrado en el alambique de su taller en un recipiente de barro, donde introdujo un cilindro del más puro cobre y una barra de hierro frío. El agua regia empezó a generar un humo rojizo que invadió toda la estancia. En unos segundos, yinns que deberían estar ahí se hicieron visibles para el sabio alquimista y pudo percatarse como le percibían ahora y le atravesaban con suss miradas \[…\] los cheitans no dejaron de acosarlo con sus miradas, sus ensalmos y sus gritos, hasta que consumido por la locura salió corriendo de su casa para morir atropellado por un carro.
+> Y vertió toda una tinaja de agua regia que el mismo había filtrado en el alambique de su taller en un recipiente de barro, donde introdujo un cilindro del más puro cobre y una barra de hierro frío. El agua regia empezó a generar un humo rojizo que invadió toda la estancia. En unos segundos, yinns que deberían estar ahí se hicieron visibles para el sabio alquimista y pudo percatarse como le percibían ahora y le atravesaban con suss miradas \[…\] los cheitáns no dejaron de acosarlo con sus miradas, sus ensalmos y sus gritos, hasta que consumido por la locura salió corriendo de su casa para morir atropellado por un carro.
 
 La [batería de Bagdad](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_Bagdad) es un recipiente de barro de unos 14 centímetros. Tiene dentro un cilindro de cobre y dentro de una barra de cobre. Si se llena de agua, la batería produce unas pequeñas descargas eléctricas que podrían hacer chispear una pequeña bombilla o dar algún chispazo a un humano. Es capaz de producir esas descargas gracias a la capa de azufre rojo que cubre su interior.
 
@@ -1239,7 +1239,7 @@ Las alas son de gran tamaño y llegan hasta el suelo. Otorgan la capacidad espec
 
 Las alas pueden tener diferente forma según el carácter y karma del schahriars. Desde brillantes alas blancas para la gente de buena fe, de águila para personas valientes y heroicas, de murciélago para gente malvada y de mariposa para niños y niñas (aunque no es de buena gente hacer que niños pasen ese terrible trago). Sean como sean las alas, dan Paso volando 12.
 
-La gente tiende a ver a las personas aladas como yinns o cheitan yinns renegados o demonios y pueden querer acabar con tu vida.
+La gente tiende a ver a las personas aladas como yinns o cheitán yinns renegados o demonios y pueden querer acabar con tu vida.
 
 Como consigas los restos humanos es cosa tuya, pero el crecimiento y la posterior amputación de las alas exige unas TPC de 8 para el que la sufre y un TPC d4 para e que la contempla. Los testigos pueden acostumbrarse normalmente a ambos procesos, pero el sujeto que lo sufre siempre debe tirar el TPC. El dolor sigue siendo terrible por más que lo repitas.
 

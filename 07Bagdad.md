@@ -26,7 +26,7 @@ Como ya hemos dicho, la ciudad es bastante moderna y no se fundó sobre las ruin
 
 \conc
 
-Bagdad es la ciudad más importante de Oriente Medio, es la capital de Califato Abbasí, que tiene como califa a Harún al-Raschid. El califato abarca tierras que van desde Libia hasta Afganistán. Las actuales Irak, Irán, Arabia Saudí, Yemen, Israel, Palestina, Líbano, etc. están bajo el dominio del Califa de Bagdad.
+Bagdad es la ciudad más importante de Oriente Medio, es la capital de califato abasí, que tiene como califa a Harún al-Raschid. El califato abarca tierras que van desde Libia hasta Afganistán. Las actuales Irak, Irán, Arabia Saudí, Yemen, Israel, Palestina, Líbano, etc. están bajo el dominio del Califa de Bagdad.
 
 Productos de todo el mundo inundan sus zocos y gentes de todas partes recorren sus calles. Los dinares corren de mano en mano y el lujo y la pompa de la ciudad y sus palacios no tienen igual en el resto del mundo.
 
@@ -142,7 +142,7 @@ Los propios comerciantes tienen seguridad privada en esta zona día y noche para
 
 Cuando su amo trato de vender a la inteligentísima Simpatía al Califa para pagar sus deudas, esta le demostró al Califa toda su sabiduría, superando todas las preguntas de los estudiosos y estudiosas de la Casa de la Sabiduría. El Califa Harún Al-Raschid asombrado, la dejó volver con su amo del que ella estaba enamorada y les dio 10.000 dinares. Su ahora marido sabiendo que ella administraría mejor el dinero, la puso al control de las finanzas.
 
-Simpatía montó una academia donde enseña historia, arte, matemáticas, etc. al que le paga, aunque también recuerda sus orígenes y coge a niños y niñas de la calle con aptitudes y les da una educación y un futuro. De hecho, Fátima del Pequeño Consejo selecciona a quién se beca.
+Simpatía montó una academia donde enseña historia, arte, matemáticas, etc. al que le paga, aunque también recuerda sus orígenes y coge a niños y niñas de la calle con aptitudes y les da una educación y un futuro. De hecho, Fátimah del Pequeño Consejo selecciona a quién se beca.
 
 La academia es una gran sala llena de cojines y sillones donde los alumnos y alumnas reciben clases de Simpatía. Hay tapices y grabados en las paredes con dibujos de constelaciones, mapas, el sistema solar, etc. Hay astrolabios, compases y reglas, instrumentos musicales y lienzos y pinturas.
 
@@ -898,17 +898,17 @@ El consejo ha creado un código secreto de señales y claves que usa para comuni
 
 \sp
 
-### Fátima
+### Fátimah
 
-Fátima es la líder por derecho propio del Pequeño Consejo. Es la más sabia y justa de todos los pillastres callejeros que forman el consejo. Se está haciendo mayor y tendrá que abandonar el consejo, por eso busca desesperadamente alguien que ocupe su lugar.
+Fátimah es la líder por derecho propio del Pequeño Consejo. Es la más sabia y justa de todos los pillastres callejeros que forman el consejo. Se está haciendo mayor y tendrá que abandonar el consejo, por eso busca desesperadamente alguien que ocupe su lugar.
 
-Fátima hace trabajos para el visir Giafar, pero desconoce el alcance de la organización. Giafar piensa que son 4 niños y niñas de las calles que han formado una banda.
+Fátimah hace trabajos para el visir Giafar, pero desconoce el alcance de la organización. Giafar piensa que son 4 niños y niñas de las calles que han formado una banda.
 
 ### La caja de resistencia
 
-El Pequeño Consejo tiene una caja de resistencia que los mayores pueden usar para pagar curanderos cuando alguien cae enfermo o para comprar comida a quien no ha podido conseguir dinero. En cada reunión mensual todo el mundo pone 5 dinares. La caja tiene de media unos 2.000 dinares y Fátima no duda en hacer uso de ello cuando es necesario.
+El Pequeño Consejo tiene una caja de resistencia que los mayores pueden usar para pagar curanderos cuando alguien cae enfermo o para comprar comida a quien no ha podido conseguir dinero. En cada reunión mensual todo el mundo pone 5 dinares. La caja tiene de media unos 2.000 dinares y Fátimah no duda en hacer uso de ello cuando es necesario.
 
-> /s/ **Semilla de aventura:** Fátima tiene malas noticias, la caja de resistencia ha sido robada. Si alguien no la recupera bastantes niños y niñas de la calle van a pasarlo muy mal en las semanas venideras.
+> /s/ **Semilla de aventura:** Fátimah tiene malas noticias, la caja de resistencia ha sido robada. Si alguien no la recupera bastantes niños y niñas de la calle van a pasarlo muy mal en las semanas venideras.
 
 \sp
 
@@ -930,7 +930,7 @@ Bagdad es una ciudad de secretos y por suerte o por desgracia muchos de ellos ti
 
 ### Giafar y los barmáquidas
 
-Giafar es un barmáquidas (por eso se le llama Giafar al-Barmak). Los barmáquidas son una familia persa con una larga tradición de ministros, secretarios y visires al servicio de los primeros califas abbasies. La familia es originaria de Afganistán, exactamente son descendientes del gran sacerdote budista Barmak del monasterio de Nawbahar.
+Giafar es un barmáquidas (por eso se le llama Giafar al-Barmak). Los barmáquidas son una familia persa con una larga tradición de ministros, secretarios y visires al servicio de los primeros califas abasíes. La familia es originaria de Afganistán, exactamente son descendientes del gran sacerdote budista Barmak del monasterio de Nawbahar.
 
 Es por ello que Giafar profesa, como sus antepasados, la fe budista en secreto. De cara al público da a entender que sigue la fe de su señor, pero en realidad es, como su familia, un budista practicante. Aunque el Califa es tolerante con otras religiones, no permitirá que sus asesores más cercanos no sean musulmanes, tanto por propias creencias, como de cara a la opinión pública que vería muy mal que el visir no fuera musulmán.
 
@@ -952,7 +952,7 @@ También sabe que un terrible destino acecha a la ciudad de Bagdad, pero ahí, e
 
 \sp
 
-> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel Alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abbasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fue la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: "¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!" Y Al-Raschid, muy pálido, dijo: "¡Has hecho bien!" Pero se le oyó que murmuraba: "¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!"
+> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel Alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fue la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: "¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!" Y Al-Raschid, muy pálido, dijo: "¡Has hecho bien!" Pero se le oyó que murmuraba: "¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!"
 > 
 > **Referencia:** El fin de Giafar y de los barmáquidas (n. 995)
 
@@ -985,9 +985,9 @@ Es por ello que su entrada es secreta y solo conocida por su padre, su hermano y
 
 ### El Pequeño Consejo
 
-El visir sabe de la existencia del Pequeño Consejo, de hecho se reúne, disfrazado de mercader, con Fátima para proporcionarles recursos económicos y pedirles favores. Los ha usado para vigilar a enemigos, infiltrarse en sitios donde no podría entrar de normal o para que realicen pequeños delitos y robos útiles para sus intereses.
+El visir sabe de la existencia del Pequeño Consejo, de hecho se reúne, disfrazado de mercader, con Fátimah para proporcionarles recursos económicos y pedirles favores. Los ha usado para vigilar a enemigos, infiltrarse en sitios donde no podría entrar de normal o para que realicen pequeños delitos y robos útiles para sus intereses.
 
-Aun así, no es consciente de lo grande y bien organizado que está el Pequeño Consejo. Solo cree que es un pequeño grupo liderado por Fátima, no se imagina lo grande y organizado que está.
+Aun así, no es consciente de lo grande y bien organizado que está el Pequeño Consejo. Solo cree que es un pequeño grupo liderado por Fátimah, no se imagina lo grande y organizado que está.
 
 ### Los planes para Bagdad
 

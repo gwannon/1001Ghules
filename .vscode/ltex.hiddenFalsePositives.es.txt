@@ -46,3 +46,28 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Quna bandeja con cuarenta pasteles …\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy tras alabar el innombrable nombre de su dios, Suc’Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\Q\"Llegarás entonces a una tercera puerta, por la que saldrá a tu encuentro un arquero que te amenazará con su arco armado de flecha; pero preséntale resueltamente tu pecho como blanco, ¡y caerá a tus pies convertido en un cuerpo sin alma!\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QEl objetivo de este degenerado culto es crear un gran cataclismo, como un diluvio, que limpie la Tierra para su amo y señor Yog-Sothoth en su forma de ’Umr-At-Tawil y que este pueda traer de vuelta al resto de primigenios.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl objetivo de este degenerado culto es crear un gran cataclismo, como un diluvio, que limpie la Tierra para su amo y señor Yog-Sothoth en su forma de ’Umr-At-Tawil y que este pueda traer de vuelta al resto de primigenios.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QCuando una célula es descubierta o destruida o incluso sus proyectos apocalípticos acaban mortalmente, los supervivientes se separan a la espera de una señal de ’Umr-At-Tawil.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCuando una célula es descubierta o destruida o incluso sus proyectos apocalípticos acaban mortalmente, los supervivientes se separan a la espera de una señal de ’Umr-At-Tawil.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QGritan, chillan, gimen e incluso pierden la razón. Cuando todo vuelve a la normalidad se hace lo que había votado el grupo tocado por ’Umr-At-Tawil.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGritan, chillan, gimen e incluso pierden la razón. Cuando todo vuelve a la normalidad se hace lo que había votado el grupo tocado por ’Umr-At-Tawil.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QLa mayoría del tiempo trabajan en sus planes apocalípticos con mucha dedicación. Solo algo rompe la rutina laboral, la comunión con ’Umr-At-Tawil.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa mayoría del tiempo trabajan en sus planes apocalípticos con mucha dedicación. Solo algo rompe la rutina laboral, la comunión con ’Umr-At-Tawil.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QEste resultado considera que la decisión debe hacerla ’Umr-At-Tawil y por eso se le invoca.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEste resultado considera que la decisión debe hacerla ’Umr-At-Tawil y por eso se le invoca.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy le dijo:\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLa berenjena y el calabacín también aparecen en muchos platos, así que el baba ganoush es una pasta de berenjena similar al hummus.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QHas de saber ¡oh mi señor! que la ciudad de Bagdad está dividida en barrios y que cada barrio tiene al frente un jeique al que llaman al-balad.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QR’lyeh, como parte de la maldición, se hundió en el mar y ascenderá de los abismos oceánicos cuando las estrellas se alineen adecuadamente y el gran Bahamūt despierte de su sueño.\\E$"}
+{"rule":"DE_TILDE","sentence":"^\\QPodían acabar en orgías en las que zánganos de al mighos podrían tomar parte de una forma más o menos activa.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q/p/ «Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh hija del tío! ¿y el kabab?\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«Has de saber, ¡ya sidi! que el lugar en que nos hallamos es el antiguo tesoro de Scheddad, hijo de Aad, el constructor de la famosa ciudad, ahora en ruinas, de Aram-de-las-Columnas.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa búsqueda del tesoro de Scheddad puede ser una aventura por todo Oriente Medio buscando primero como encontrar la misteriosa Aram-de-las-columnas y luego buscando el tesoro siguiendo las pistas que hay en Aram-de-las-columnas sobre el tesoro.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOtra opción que explicaría que los falak menores tengan tanto interés en G’harne es que su rey Shudde M’ell está encerrado en algún lugar bajo la ciudad.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nVolar:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTelepatía:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nMordisco:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8\nVolar:\\E$"}

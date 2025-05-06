@@ -14,7 +14,7 @@ Arabia y Persia son los escenarios principales, pero no los únicos, de los cuen
 
 Acre es el puerto más importante de Palestina. Por ella pasan gran cantidad de mercancías y personas del Mediterráneo a Persia y Arabia. Ha sido tomada y retomada por infinidad de pueblos y todas han dejado huella en ella.
 
-Acre es una ciudad muy interesante, ya que es la ciudad perfecta para ambientar una aventura en tiempos de las Cruzadas. De normal todas las historias de las 1001 Noches son atemporales o están ambientas durante el califato abbasí (750-1259) y más concretamente durante el califa Harún al-Raschid (766-809). Pero hay algunas historias posteriores que se encuentran en tiempo de las Cruzadas.
+Acre es una ciudad muy interesante, ya que es la ciudad perfecta para ambientar una aventura en tiempos de las Cruzadas. De normal todas las historias de las 1001 Noches son atemporales o están ambientas durante el califato abasí (750-1259) y más concretamente durante el califa Harún al-Raschid (766-809). Pero hay algunas historias posteriores que se encuentran en tiempo de las Cruzadas.
 
 En estas historias los protagonistas se relacionan y muchas veces se enfrentan con los llamados caballeros francos, es decir, con los cruzados, con caballeros Templarios y Hospitalarios. Veamos algunos ejemplos:
 
@@ -70,7 +70,7 @@ Si deseas crear tu propia ciudad de las 1001 Noches, puedes usar Bagdad como eje
 
 ### Basora
 
-En la desembocadura del río Tigris, tenemos Basora, el puerto más importante del califato Abbasí por el que llegan todos los días producto de toda Asía, especies indias, seda y jade de China, oro, plata, etc. De su puerto partió 7 veces Sindbad el marino rumbo a lo desconocido y 7 veces ha vuelto a su puerto más rico que antes.
+En la desembocadura del río Tigris, tenemos Basora, el puerto más importante del califato abasí por el que llegan todos los días producto de toda Asía, especies indias, seda y jade de China, oro, plata, etc. De su puerto partió 7 veces Sindbad el marino rumbo a lo desconocido y 7 veces ha vuelto a su puerto más rico que antes.
 
 #### Escuela de Gramática de Basora
 
@@ -134,7 +134,7 @@ Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe ha
 
 ### Mosul
 
-Mosul es otra de las grandes ciudades del califato abbasí. Está en las orillas del Tigris, pero rio arriba desde Bagdad. De hecho, el tramo de río entre Bagdad y Mosul es navegable, pero con pequeñas barcazas.
+Mosul es otra de las grandes ciudades del califato abasí. Está en las orillas del Tigris, pero rio arriba desde Bagdad. De hecho, el tramo de río entre Bagdad y Mosul es navegable, pero con pequeñas barcazas.
 
 Tres cosas caracterizan y dan fama a Mosul, sus sastres y tejedores, las tribus rebeldes cercanas y por ser la ciudad donde nació, vivió y murió el profeta Jonás.
 
@@ -302,7 +302,7 @@ A cambio puedes darles bonos a las tiradas a la hora de hacer negocios y buscar 
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 470)
 
-El lago Karún es un lago salino situado al oeste del río Nilo, a dos días al suroeste de El Cairo. Mide unos 220 km2, está por debajo del nivel del mar y obtiene sus aguas de un canal creado por los antiguos egipcios en 2300 A.C.
+El lago Karún es un lago salino situado al oeste del río Nilo, a dos días al suroeste de El Cairo. Mide unos 220 km², está por debajo del nivel del mar y obtiene sus aguas de un canal creado por los antiguos egipcios en 2300 A.C.
 
 Se dice que sus aguas son mágicas y solo los pescadores más desesperados tratan de pescar tilapias en ellas. Se cree que lo que saques con tus redes solo te traerá desgracias y si te zambulles en sus aguas seguramente acabes ahogado.
 
@@ -456,7 +456,7 @@ Por último el Sahara y sus misterios son una fuente muy interesante de aventura
 
 Miknas o Mequinez es una ciudad del Magreb, en el actual Marruecos, al pie de las montañas del Atlas. Esta ciudad ha ido creciendo alrededor de una kasbah creada en el siglo VIII. Es una ciudad nueva, aunque pueden encontrarse en las cercanas ruinas romanas, huellas de asentamientos bereberes e incluso extrañas construcciones mucho más antiguas que romanos y bereberes.
 
-El gran interés de Miknas es que está fuera del control de Califato de Bagdad de los Abbasí, está bajo el control de los Idrisidas. Si tus schahriars tienen que desaparecer por problemas con el califa o con la ley, Miknas es un sitio perfecto para esconderse, no demasiado grande, pero moderno y rico y fuera de los territorios abbasies.
+El gran interés de Miknas es que está fuera del control de Califato de Bagdad de los abasí, está bajo el control de los Idrisidas. Si tus schahriars tienen que desaparecer por problemas con el califa o con la ley, Miknas es un sitio perfecto para esconderse, no demasiado grande, pero moderno y rico y fuera de los territorios abasíes.
 
 El comercio con la península Ibérica es importante, bastantes caravanas hacia o desde Oriente Medio pasan por la ciudad de Miknas, así que se podría montar algún relato que desde Miknas los lleve al emirato independiente de Córdoba y que se movieran por toda la península Ibérica.
 

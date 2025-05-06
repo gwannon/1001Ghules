@@ -2,7 +2,7 @@
 
 En estas páginas encontrarás a las personas más importantes de los cuentos salvajes de 1001 Ghūles. Todos estos PNJ habitan este Oriente Medio de los Mitos y son fuerzas capaces de cambiar la historia. Eres libre de hacer con ellos lo que quieras y cambiar los detalles que no te gusten.
 
-Aquí podrás encontrar intrépidas exploradoras como la Princesa Alya o villanos que supuran maldad como Bahram el Gauro o Ibrahim Ibn Jibril. Pero también encontrarás gente normal como el poeta y vividor Abu-Nowas que solo quiere divertirse y escribir poesía o Fátima que trata de ayudar a pillastres como ella que sobreviven como pueden en las calles de Bagdad.
+Aquí podrás encontrar intrépidas exploradoras como la Princesa Alya o villanos que supuran maldad como Bahram el Gauro o Ibrahim Ibn Jibril. Pero también encontrarás gente normal como el poeta y vividor Abu-Nowas que solo quiere divertirse y escribir poesía o Fátimah que trata de ayudar a pillastres como ella que sobreviven como pueden en las calles de Bagdad.
 
 Las sugerencias de interpretación están pensadas para ayudarte a darles carácter, pero recuerda que solo son sugerencias. Y recuerda que se usa este símbolo ☾ para marcar a los comodines.
 
@@ -11,7 +11,7 @@ Las sugerencias de interpretación están pensadas para ayudarte a darles carác
 * Harún Al-Raschid, Califa de Bagdad
 * Sett Zobeida, Califesa de Bagdad
 * Giafar al-Barmak, gran visir del califa de Bagdad
-* Fátima, líder del Pequeño Consejo
+* Fátimah, líder del Pequeño Consejo
 * Hunayn ibn Ishaq, director de la Casa de la Sabiduría
 * Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente
 * Bahlul el Cuerdo, bufón de la corte
@@ -66,19 +66,19 @@ Las sugerencias de interpretación están pensadas para ayudarte a darles carác
 > 
 > **Referencia:** Historia de la jovenzuela obra maestra de los corazones, lugartenienta de los pájaros (n. 929)
 
-Harún Al-Raschid es el peor califa de la dinastía abbasí. Harún era el segundo al trono y realmente no quería el puesto.
+Harún Al-Raschid es el peor califa de la dinastía abasí. Harún era el segundo al trono y realmente no quería el puesto.
 
 Prefería pasarse el día vagueando y disfrutando de todo lo que su posición y sus riquezas le daban, manjares, libaciones, baños y masajes, sexo ocasional, etc. 
 
 Pero tras la muerte en combate de su hermano mayor, se convirtió sin quererlo en el máximo dirigente de un bastísimo imperio.
 
-[![Harún Al-Rashid en su tienda con los sabios de oriente por Gaspare Landi](./images/harun.jpg)](https://www.ecured.cu/Archivo:Harun_al-Rashid_(763-809).jpg "Harún Al-Rashid en su tienda con los sabios de oriente por Gaspare Landi") 
+[![Harún Al-Raschid en su tienda con los sabios de oriente por Gaspare Landi](./images/harun.jpg)](https://www.ecured.cu/Archivo:Harun_al-Rashid_(763-809).jpg "Harún Al-Raschid en su tienda con los sabios de oriente por Gaspare Landi") 
 
 Muchos esperarían que la responsabilidad le hubiera hecho mejor persona, pero, sin embargo, solo amplifico todos sus malos hábitos y sus vicios, es infantil, vago, inculto, soberbio, iracundo, engreído, etc.
 
 \sp
 
-Sin embargo, ha hecho dos cosas muy bien durante su califato, casarse con su prima Sett Zobeida (aunque casi fue obligado) y tener a Giafar como su visir (aunque la tradición familiar abbasí ya era tener a un barmáquida de consejero).
+Sin embargo, ha hecho dos cosas muy bien durante su califato, casarse con su prima Sett Zobeida (aunque casi fue obligado) y tener a Giafar como su visir (aunque la tradición familiar abasí ya era tener a un barmáquida de consejero).
 
 El Califa tiene la costumbre del segundo día del mes disfrazarse de mercader extranjero y pasearse de noche por Bagdad. Suele ir acompañado por Mansurr y Giafar y por sus algunos de sus «amigotes» como Abu Nowas. Su excusa para las escapadas es conocer a sus súbditos y ver qué cosas necesitan y qué puede hacer por ellos. No obstante, la mayoría de las veces son juergas locas.
 
@@ -146,7 +146,7 @@ Giafar es el principal personaje de esta ambientación. Es el personaje alrededo
 
 Giafar es un barmáquidas (por eso se le llama Giafar al-Barmak). Esta familia persa es originaria de Afganistán, exactamente son descendientes del gran sacerdote budista Barmak del monasterio de Nawbahar.
 
-Los barmáquidas tiene una larga tradición de ministros, secretarios y visires al servicio de los primeros califas abbasies. De hecho el padre de Giafar, Yahía al-Barmak, sirvió al padre de Harún, Mansur al-Mahdi. Es por ello que desde muy pequeño fue preparado para que él y su hermano mayor, El-Fadl, fueran su sustituto cuando su padre se retirara.
+Los barmáquidas tiene una larga tradición de ministros, secretarios y visires al servicio de los primeros califas abasíes. De hecho el padre de Giafar, Yahía al-Barmak, sirvió al padre de Harún, Mansur al-Mahdi. Es por ello que desde muy pequeño fue preparado para que él y su hermano mayor, El-Fadl, fueran su sustituto cuando su padre se retirara.
 
 Giafar lleva toda su vida estudiando ciencias y humanidades como parte de su preparación para ser visir. Rápidamente descubrió el mundo del ocultismo y descubría que la magia se le daba muy bien, convirtiéndose con los años en un fabuloso mago. Dispone de una increíble biblioteca mágica con varios incunables de grandísimo valor.
 
@@ -177,20 +177,20 @@ Giafar está felizmente casado y con hijos, pero tiene ciertos sentimientos por 
 
 \sinc
 
-## Fátima, líder del Pequeño Consejo ☾
+## Fátimah, líder del Pequeño Consejo ☾
 
 \conc
 
-> /p/ Así es que, en cuanto bajo ella, empezó por besar la mano de su amo y le deseó la bienvenida, como tenía costumbre de hacer cada vez que entraba él en la casa. Su amo le dijo: "¡Oh Fátima! ¡hoy es el día en que me vas a dar prueba de tu listeza, de tu abnegación y de tu discreción!" Y le contó el fin funesto de Kassim, y añadió: "Y ahora ahí le tienes, hecho seis pedazos, en el tercer asno. ¡Y es preciso que, mientras yo subo a anunciar la fúnebre noticia a su pobre viuda, pienses en el medio de que nos valdremos para hacerle enterrar como si hubiera muerto de muerte natural, sin que nadie pueda sospechar la verdad!"  
+> /p/ Así es que, en cuanto bajo ella, empezó por besar la mano de su amo y le deseó la bienvenida, como tenía costumbre de hacer cada vez que entraba él en la casa. Su amo le dijo: "¡Oh Fátimah! ¡hoy es el día en que me vas a dar prueba de tu listeza, de tu abnegación y de tu discreción!" Y le contó el fin funesto de Kassim, y añadió: "Y ahora ahí le tienes, hecho seis pedazos, en el tercer asno. ¡Y es preciso que, mientras yo subo a anunciar la fúnebre noticia a su pobre viuda, pienses en el medio de que nos valdremos para hacerle enterrar como si hubiera muerto de muerte natural, sin que nadie pueda sospechar la verdad!"  
 > /p/ Y ella contestó: "¡Escucho y obedezco!" Y su amo, dejándola reflexionar acerca de la situación, subió a ver a la viuda de Kassim.
 > /p/ 
 > /p/ **Referencia:** Historia de Alí Babá y los cuarenta ladrones (n. 855)
 
-Fátima es la líder por derecho propio del Pequeño Consejo. Es la más sabia y justa de todos los pillastres callejeros que forman el consejo.
+Fátimah es la líder por derecho propio del Pequeño Consejo. Es la más sabia y justa de todos los pillastres callejeros que forman el consejo.
 
 Se está haciendo mayor y tendrá que abandonar el consejo, por eso busca desesperadamente alguien que ocupe su lugar.
 
-Fátima es una esclava huida, es hija de una esclava que su amo tenía como concubina. En cuanto pudo huyó para vivir en las calles de Bagdad y sabe que pueden ser muy duras para los huérfanos y huérfanas de la ciudad. Es por ello que cuando le dieron la oportunidad de unirse al Pequeño Consejo no desaprovechó la oportunidad.
+Fátimah es una esclava huida, es hija de una esclava que su amo tenía como concubina. En cuanto pudo huyó para vivir en las calles de Bagdad y sabe que pueden ser muy duras para los huérfanos y huérfanas de la ciudad. Es por ello que cuando le dieron la oportunidad de unirse al Pequeño Consejo no desaprovechó la oportunidad.
 
 Cuando creció y fue elegida como jefa por su predecesora juro hacer lo que fuera por el Consejo y su gente. Hará lo que sea por sus compañeros y seguramente daría su vida por los y las pillastres de Bagdad.
 
@@ -198,7 +198,7 @@ Cuando creció y fue elegida como jefa por su predecesora juro hacer lo que fuer
 
 [![indi girl por tsynali](./images/fatima.png)](https://www.deviantart.com/tsynali/art/indi-girl-530934040 "indi girl por tsynali") 
 
-Se hace mayor y tiene que buscar alguien que la sustituya, quizás alguno de tus schahriars atraiga el interés de Fátima y herede el cargo.
+Se hace mayor y tiene que buscar alguien que la sustituya, quizás alguno de tus schahriars atraiga el interés de Fátimah y herede el cargo.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** Atletismo d6, Cabalgar d6, Conocimientos Generales d4, Idioma Materno d10, Medicina d6, Notar d4, Pelear d4, Persuadir d10, Reparar d6, Saber de Suleimán d6, Sigilo d6
@@ -220,7 +220,7 @@ Se hace mayor y tiene que buscar alguien que la sustituya, quizás alguno de tus
 > /p/ Había momentos en que la princesa Alya, como los derviches que bailan, se alejaba del mundo y su mente entraba en otro mundo del que no sabíamos nada. Pero según la expedición se acercaba a su destino, la Ciudad de Bronce, esos momentos eran más frecuentes y largos. Cuando volvía estaba unos minutos silenciosa como digiriendo lo que acababa de ver.  
 > /p/ Ninguno de nosotros podía imaginar lo que pasada esos momentos, pero ni por asomo pudimos pensar que esos lapsus terminarían como terminaron.
 
-Alya es la nieta del antiguo califa de Damasco, Abdalmalek, de la dinastía omeya que hace décadas fue sustituida por la dinastía abbasí. A pesar de todo, su familia siguió siendo muy poderosa y rica en Damasco.
+Alya es la nieta del antiguo califa de Damasco, Abdalmalek, de la dinastía omeya que hace décadas fue sustituida por la dinastía abasí. A pesar de todo, su familia siguió siendo muy poderosa y rica en Damasco.
 
 Alya ha crecido entre lujo y riquezas, pero siempre se ha sentido extraña, sabiendo que no estaba en el lugar que debía.
 
@@ -248,7 +248,7 @@ Alya desconoce todo esto, pero su tutor y consejero personal Mahmoud Assy está 
     * **Longevidad:** Puede llegar a vivir hasta los 150 años y no necesita dormir.
     * **Resistencia primigenia:** Alya no se cansa por mucho esfuerzo que haga en las condiciones que sean, sin casi agua, bajo un sol de justicia, etc. Repite todas las tiradas de Vigor para evitar puntos de fatiga que falle.
     * **Resistencia al veneno y las enfermedades:** +4 a las tiradas para resistir venenos y enfermedades.
-    * **Cerca de su dios:** Alya se vuelve más poderosa cuanto más cerca está de la Ciudad de Bronce y de su gran señor Cthulhu. De forma que por cada parte del camino recibe al principio de cada sesión un beni extra por cada etapa después de "Adentrándose en lo desconocido". De esa forma cuando este en la Ciudad de Bronce en la parte de "Rompiendo la maldición" tendrá 3+7 benis.
+    * **Cerca de su dios:** Alya se vuelve más poderosa cuanto más cerca está de la Ciudad de Bronce y de su gran señor Cthulhu. De forma que por cada parte del camino recibe al principio de cada sesión un beni extra por cada etapa después de "Adentrándose en lo desconocido". De esa forma cuando esté en la Ciudad de Bronce en la parte de "Rompiendo la maldición" tendrá 3+7 benis.
 * **Equipo:** Astrolabio, Ropas de viaje de calidad preparadas para el desierto, alfanje de calidad (FUE+d6), Jambia(FUE+d4), equipo de supervivencia
 
 \sp
@@ -370,7 +370,7 @@ Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutació
 
 \sp
 
-**Sugerencia de interpretación:** Como Ziba debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de tí. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
+**Sugerencia de interpretación:** Como Ziba debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
 
 \sinc
 
@@ -574,7 +574,7 @@ A pesar de estar enamorado de su mujer, Giafar siente una atracción por ’Inā
 * **Ventajas:** Acróbata, Afinidad mágica, Cuentacuentos, Maquillaje
 * **Equipo:** Equipamiento de escribano, maquillajes y colonias, ropajes caros y vistosos
 
-**Sugerencia de interpretación:** Eres una especie de Cyrano de Bergerac. Lo tuyo son respuestas rápidas, contundentes y muy afiladas y antes de que se den cuenta todo el público se está riendo de tus contrincantes. Pero también sabes ser seductora y coqueta y puedes atraer a las personas con tus cantos y bailes como las lamparas de aceite a las polillas.
+**Sugerencia de interpretación:** Eres una especie de Cyrano de Bergerac. Lo tuyo son respuestas rápidas, contundentes y muy afiladas y antes de que se den cuenta todo el público se está riendo de tus contrincantes. Pero también sabes ser seductora y coqueta y puedes atraer a las personas con tus cantos y bailes como las lámparas de aceite a las polillas.
 
 \sp
 
@@ -756,7 +756,7 @@ Si no está recorriendo la ciudad en busca de criminales, puedes encontrarle en 
 
 Este antiguo criminal, de los más peligrosos de la ciudad, fue convertido en jefe de policía por el Califa. En realidad fue idea de la Califesa Sett Zobeida y del visir Giafar coger a los mayores criminales de la ciudad y convertirlos en jefes de policía. De esta forma quitaban de las calles un peligroso criminal y le tenían contento y motivado para atrapar a otros criminales gracias a los honores concedidos como ir en los desfiles a la izquierda del Califa y un espléndido sueldo.
 
-Hassan-la-Peste (la Mano Izquierda del Califa) se encarga de vigilar las dos riberas del rio y Al-Rusafa y tiene unos 40 hombres con sus 40 caballos a su cargo.
+Hassan-la-Peste (la Mano Izquierda del Califa) se encarga de vigilar las dos riberas del río y Al-Rusafa y tiene unos 40 hombres con sus 40 caballos a su cargo.
 
 \sp
 
@@ -812,7 +812,7 @@ Es bastante decente, aunque no es un santo y alguna vez ha aceptado soborno de c
 
 \conc
 
-> Y en verdad que la tal Dalila era una vieja experta en astucias, artificios, latrocinios, trapisondas y recursos de toda especie, una bruja capaz de engañar a la serpiente, atraiéndola fuera de su guarida, y de dar al mismo Eblis lecciones de astucia y de embaucamientos.
+> Y en verdad que la tal Dalila era una vieja experta en astucias, artificios, latrocinios, trapisondas y recursos de toda especie, una bruja capaz de engañar a la serpiente, atrayéndola fuera de su guarida, y de dar al mismo Eblis lecciones de astucia y de embaucamientos.
 > 
 > **Referencia:** Historia de los artificios de Dalila la taimada y de su hija Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 432)
 
@@ -961,7 +961,7 @@ La función de Sett en esta ambientación es de servir de voz de Scheherazade. C
 
 \conc
 
-> /p/ Y merced a aquella circunstancia, a pesar de la sorpresa espantosa que me embargaba, pude ver a la ghula, que no me veía, aproximarse a la joven y cogerla de la mano para llevarla al borde de una fosa. Y se sentaron ambas, una frente a otra, al borde de aquella fosa. Y la ghula se inclinó hasta el suelo y se incorporó sosteniendo en sus manos un objeto redondo, que entregó en silencio a la muchacha. Y en aquel objeto reconocí un cráneo humano recientemente separado de un cuerpo sin vida. Y la chica, lanzando un grito de bestia feroz, clavó con fruición sus dientes en aquella carne muerta y se puso a roerla de un modo horroroso.
+> /p/ Y merced a aquella circunstancia, a pesar de la sorpresa espantosa que me embargaba, pude ver a la ghūla, que no me veía, aproximarse a la joven y cogerla de la mano para llevarla al borde de una fosa. Y se sentaron ambas, una frente a otra, al borde de aquella fosa. Y la ghūla se inclinó hasta el suelo y se incorporó sosteniendo en sus manos un objeto redondo, que entregó en silencio a la muchacha. Y en aquel objeto reconocí un cráneo humano recientemente separado de un cuerpo sin vida. Y la chica, lanzando un grito de bestia feroz, clavó con fruición sus dientes en aquella carne muerta y se puso a roerla de un modo horroroso.
 > /p/ 
 > /p/ **Referencia:** Historia del joven dueño de la yegua blanca (n. 863)
 
@@ -989,7 +989,7 @@ También es una experta albañil y cantera y cuando tiene tiempo se dedica a res
     * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
     * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
     * **Forense:** Su habilidad de Medicina sube dos niveles (d6) cuando trata con cadáveres y hace análisis forenses, 3 niveles (d8) si le permiten devorar partes del cadáver. Puede averiguar cosas que la ciencia actual no puede como causa y hora de la muerte.
-    * **Garras/Mordisco:** Fue+d6
+    * **Garras/Mordisco:** FUE+d6
 
 \sp
 

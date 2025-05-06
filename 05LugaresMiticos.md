@@ -47,7 +47,7 @@ _Aram-de-las-columnas antes de su colapso_
 
 \sp
 
-> Y aun viajamos durante tres días y tres noches. Y al cuarto día por la mañana divisamos ante nosotros, en el horizonte, como un anchuroso espejo que reflejase el sol. Y al aproximarnos a ello, vimos que era un río de mercurio que nos cortaba el camino. Y estaba surcado por un puente de cristal sin balaustrada, tan estrecho, tan pendiente y tan escurridizo, que ningún hombre dotado de razón intentaría pasar por él.
+> Y aún viajamos durante tres días y tres noches. Y al cuarto día por la mañana divisamos ante nosotros, en el horizonte, como un anchuroso espejo que reflejase el sol. Y al aproximarnos a ello, vimos que era un río de mercurio que nos cortaba el camino. Y estaba surcado por un puente de cristal sin balaustrada, tan estrecho, tan pendiente y tan escurridizo, que ningún hombre dotado de razón intentaría pasar por él.
 > 
 > **Referencia:** Las llaves del destino (n. 791)
 
@@ -103,13 +103,13 @@ Dejaron pistas de la ubicación del tesoro en la lápida que hay sobre la fosa c
 
 Si vas a incluir Aram-de-las-columnas en tus relatos, puedes hacerlo de varias formas. Puede ser una ciudad maldita y abandonada por la que parece que no pasa el tiempo con sus trampas y obstáculos. Esta opción se ajustaría más a la visión de las 1001 Noches. En este caso, incluso podrías enclavar Aram dentro de la Tierra de los Sueños como parte de la imaginería onírica que tanto pega con las 1001 Noches.
 
-Otra opción puede ser como las ruinas de una gran civilización extraterrestre que desapareció por una catástrofe digna de Lemuria o la Atlántida. Esta opción se acerca más al toque pulp de Lovecraft. En esta variante podrías llevar a tus schahriars a la búsqueda del tesoro de Scheddad el constructor de la ciudad y su rey que escondió todos sus tesoros en una cueva secreta. Tendrían en las ruinas de Aram pistas suficientes para lanzarse a la búsqueda de un fabuloso tesoro.
+Otra opción puede ser como las ruinas de una gran civilización extraterrestre que desapareció por una catástrofe digna de Lemuria o la Atlántida. Esta opción se acerca más al toque «pulp» de Lovecraft. En esta variante podrías llevar a tus schahriars a la búsqueda del tesoro de Scheddad el constructor de la ciudad y su rey que escondió todos sus tesoros en una cueva secreta. Tendrían en las ruinas de Aram pistas suficientes para lanzarse a la búsqueda de un fabuloso tesoro.
 
 \sp
 
 ### Tesoro de Scheddad
 
-> Y el genni contestó desde el interior del sello: "Has de saber, ¡ya sidi! que el lugar en que nos hallamos es el antiguo tesoro de Scheddad, hijo de Aad, el constructor de la famosa ciudad, ahora en ruinas, de Aram-de-las-Columnas. En vida de él, fui yo esclavo del rey Scheddad. ¡Y precisamente el que posees es su anillo, que lo has encontrado en el cristal donde estaba guardado desde tiempos remotos!"
+> Y el genni contestó desde el interior del sello: «Has de saber, ¡ya sidi! que el lugar en que nos hallamos es el antiguo tesoro de Scheddad, hijo de Aad, el constructor de la famosa ciudad, ahora en ruinas, de Aram-de-las-Columnas. En vida de él, fui yo esclavo del rey Scheddad. ¡Y precisamente el que posees es su anillo, que lo has encontrado en el cristal donde estaba guardado desde tiempos remotos!»
 > 
 > **Referencia:** Historia del pastel hilado con miel de abejas y de la esposa calamitosa del zapatero remendón (n. 967)
 
@@ -121,9 +121,9 @@ Este fabuloso tesoro escondido en unas cámaras secretas subterráneas, ocupa 3 
 
 \sinc
 
-> Y después de algunos esfuerzos, acabó por conseguir desencajarla y correrla. Y debajo vio una escalera con peldaños de mármol que conducía a una cueva de forma cuadrada que tenía la amplitud de un hammam. Y Maruf, pronunciando la fórmula del "bismilah", bajó a la cueva y vio que la componían cuatro salas consecutivas. Y la primera de aquellas salas estaba llena de monedas de oro desde el suelo hasta el techo; y la segunda estaba llena de perlas, de esmeraldas y de coral, también desde el suelo hasta el techo; y la tercera, de jacintos; de rubíes, de turquesas, de diamantes y de pedrerías de todos colores; pero la cuarta, que era la más espaciosa y la mejor acondicionada, no contenía nada más que un pedestal de madera de ébano, sobre el cual estaba colocado un pequeñísimo cofrecillo de cristal no mayor que un limón. Y Maruf se asombró prodigiosamente de su descubrimiento y se entusiasmó con aquel tesoro. Pero lo que más le intrigaba era aquel minúsculo cofrecillo de cristal, único objeto de manifiesto en la inmensa sala cuarta del subterráneo. \[…\]
+> Y después de algunos esfuerzos, acabó por conseguir desencajarla y correrla. Y debajo vio una escalera con peldaños de mármol que conducía a una cueva de forma cuadrada que tenía la amplitud de un hammam. Y Maruf, pronunciando la fórmula del «bismilah», bajó a la cueva y vio que la componían cuatro salas consecutivas. Y la primera de aquellas salas estaba llena de monedas de oro desde el suelo hasta el techo; y la segunda estaba llena de perlas, de esmeraldas y de coral, también desde el suelo hasta el techo; y la tercera, de jacintos; de rubíes, de turquesas, de diamantes y de pedrerías de todos colores; pero la cuarta, que era la más espaciosa y la mejor acondicionada, no contenía nada más que un pedestal de madera de ébano, sobre el cual estaba colocado un pequeñísimo cofrecillo de cristal no mayor que un limón. Y Maruf se asombró prodigiosamente de su descubrimiento y se entusiasmó con aquel tesoro. Pero lo que más le intrigaba era aquel minúsculo cofrecillo de cristal, único objeto de manifiesto en la inmensa sala cuarta del subterráneo. \[…\]
 > Y dentro halló un anillo de oro con un sello de cornalina, en que estaban grabadas, con caracteres extremadamente finos y semejantes a patas de moscas, escrituras talismánicas. Y con un movimiento instintivo, Maruf se puso el anillo en su dedo y se lo ajustó apretándolo.  
-> Y al punto salió del sello del anillo una voz fuerte, que dijo: "¡A tus órdenes! ¡a tus órdenes!
+> Y al punto salió del sello del anillo una voz fuerte, que dijo: "¡A tus órdenes! ¡A tus órdenes!
 > 
 > **Referencia:** Historia del pastel hilado con miel de abejas y de la esposa calamitosa del zapatero remendón (n. 966)
 

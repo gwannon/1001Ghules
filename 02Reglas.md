@@ -621,7 +621,7 @@ El tabar es una arma doble, una hacha combate por un extremo y una maza por la o
 
 |Daño|FUE Min.|Peso|Coste|
 |---|---|---|---|
-|Fue+d8 (hacha) / FUE+d6 (maza)|d10|3|300|
+|FUE+d8 (hacha) / FUE+d6 (maza)|d10|3|300|
 
 **Notas:** Cambiar de la maza al hacha y viceversa es una acción gratuita.
 
