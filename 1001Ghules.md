@@ -24,11 +24,11 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-|01ElMundo.md|
+01ElMundo.md ----OK
 
 ***
 
-02Reglas.md|
+02Reglas.md ----FALTA REVISIÓN
 
 ***
 

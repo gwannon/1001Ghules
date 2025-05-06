@@ -28,8 +28,6 @@ Deberías acabar cada sesión con:
 
 > En este momento de su narración, Scheherazade vio aparecer la mañana, y se calló discreta.
 
-\sp
-
 Los cuentos deberían acabar con frases tales como:
 
 > Y Scheherazade dijo: ¡Oh rey! veo que este cuento os ha satisfecho gratamente, pero nada es comparable con el que quiero contarte la próxima noche.
@@ -92,9 +90,9 @@ Debería ser inmediato, ya que si es inesperado será más impactante. Es import
 
 Pero aquí también jugamos con los Mitos de Cthulhu y lo normal es que todo el mundo acabe muerto o acabe en el maristán. Así que para representar todo esto, Scheherazade deberá elegir un destino aciago asociado al destino que eligió el schahriar.
 
-\sp
-
 Por ejemplo, «Encontrar la tumba perdida de Suleimán» puede suponer que encuentres la tumba, pero no que sobrevivas y salgas con los tesoros de Suleimán. «Visitar las estrellas» puede convertirse en una pesadilla y que termines en el centro del universo bailando para Azathoth.
+
+\sp
 
 Para elaborar el destino aciago debes pensar esos genios malvados de cuentos y películas que tergiversan los deseos de los humanos para buscarles la desgracia, la perdición e incluso la muerte.
 
@@ -544,9 +542,11 @@ Dentro del combate a distancia puedes hacer uso de las armas a distancias primit
 
 &ast; Esta columna marca las estadísticas de qué arma del Manual Básico de SWEA debes usar para cada arma de la tabla.
 
-\conc
+&nbsp;
 
 ### Armas especiales
+
+\conc
 
 #### Shotel etíope
 
@@ -673,8 +673,6 @@ Puedes usar cualquiera de las armaduras medievales del Manual Básico de SWEA, p
 
 Lo normal para el pueblo llano y para la gente de las caravanas era, como mucho, llevar las ropas gruesas o de cuero ligero.
 
-\sinc
-
 ### Drogas y venenos
 
 Los venenos y las drogas son algo muy común y tenemos muchas opciones.
@@ -685,17 +683,9 @@ Los venenos y las drogas son algo muy común y tenemos muchas opciones.
 > 
 > **Referencia:** Aventuras del joven Kanmakán, hijo de Daul’Makan (n. 142)
 
-&nbsp;
-
-\conc
-
 El haschisch es una droga recreativa, que produce hilaridad, alucinaciones y/o profunda relajación. En las historias de las 1001 Noches se mastica y traga y son bastantes los personajes que son adictos a esta sustancia. Puedes, como Scheherazade, imponer la desventaja Hábito a tus schahriars si consume mucho haschisch. El coste de la dosis diaria puede ser unos 30 dinares y su consumo no estaba ni prohibido ni ilegalizado, con lo que su compra es bastante fácil.
 
 A discreción de Scheherazade, puede usarse en rituales para conectar con entidades divinas y extradimensionales. Podrías dar hasta un +2 a las tiradas mentales del ritual y hasta un -2 a las físicas.
-
-\sp
-
-\sinc
 
 #### Bang cretense
 
@@ -703,13 +693,9 @@ A discreción de Scheherazade, puede usarse en rituales para conectar con entida
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 769)
 
-&nbsp;
-
-\conc
-
 El bang es un poderoso veneno **incapacitante muy poderoso (-4 Vigor)**, de hecho, es tan potente que puede dejar KO a un elefante. Se puede tomar en la comida o en la bebida y deja **inconsciente a la víctima durante 2d6 horas**. Se puede usar otra sustancia llamada anti-bang que despierta (tirada de Vigor +4) al momento a la persona envenenada.
 
-\sinc
+\sp
 
 #### Afrodisíaco
 
@@ -717,12 +703,6 @@ El bang es un poderoso veneno **incapacitante muy poderoso (-4 Vigor)**, de hech
 > Y si con todo eso no llegas hasta atravesar las paredes y fecundar un peñasco pelado, consiento en afeitarme la barba y los bigotes y te permito que me escupas en la cara".
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 251-252)
-
-\conc
-
-\sp
-
-[![He Paid for His Purchase - Rhead, Louis](./images/comercio.jpg)](https://www.oldbookillustrations.com/illustrations/paid-purchase/ "He Paid for His Purchase - Rhead, Louis") 
 
 En bastantes historias de las 1001 Noches se practica sexo y en mucha de ellas, los participantes, casi siempre hombres, toman sustancias afrodisíacas para aumentar la virilidad.
 
@@ -744,21 +724,17 @@ El agua de rosas es un destilado mediante un alambique de pétalos de rosas. Se 
 
 #### Agua regía
 
-El agua regia es una disolución altamente corrosiva y fumante, de color amarillo, formada por la mezcla de ácido nítrico y ácido clorhídrico.
+El agua regia es una disolución altamente corrosiva y fumante, de color amarillo, formada por la mezcla de ácido nítrico y ácido clorhídrico.Es una de las pocas mezclas capaces de disolver el oro, el platino y el resto de los metales.
 
 \sp
 
-Es una de las pocas mezclas capaces de disolver el oro, el platino y el resto de los metales. Fue llamada de esa forma porque puede disolver aquellos llamados metales regios, reales, o metales nobles.
+[![He Paid for His Purchase - Rhead, Louis](./images/comercio.jpg)](https://www.oldbookillustrations.com/illustrations/paid-purchase/ "He Paid for His Purchase - Rhead, Louis")
+
+Fue llamada de esa forma porque puede disolver aquellos llamados metales regios, reales, o metales nobles.
 
 Fue descubierto alrededor del año 800 por el alquimista persa Jabir ibn Hayyan. La invención de Jabir, que logró disolver el oro en agua regia, contribuyó al esfuerzo de los primeros alquimistas en su búsqueda de la piedra filosofal.
 
 #### Kohl
-
-> Con lo cual la buena dama vistió a Feliz-Bello con ropas de mujer que había llevado, y le alargó los ojos con kohl, y agrandó y ennegreció el lunar de la mejilla, y después le puso brazaletes en las muñecas, y le colocó alhajas en la cabellera cubierta con un velo de Mosul, y hecho aquello echó la última ojeada a su tocado, y le pareció que estaba encantador así y mucho más hermoso que todas las mujeres juntas del palacio del sultán.
-> 
-> **Referencia:** Historia de Feliz-Bello y Feliz-Bella (n. 245)
-
-\sc
 
 El kohl es un cosmético a base de galena (sulfuro de plomo) molida y otros ingredientes, usado por mujeres y hombres, para oscurecer los párpados y como máscara de ojos.
 
@@ -766,7 +742,11 @@ Pero su uso no era solo estético, ya que se usaba como forma de protección de 
 
 En bastantes culturas de la zona de Oriente Próximo, también era una forma de protección con el mal de ojos. No pocas veces es usado por personajes de las 1001 Noches como objeto mágico que da habilidades mágicas a la persona que lo usa mientras lo tiene aplicado y que desaparecen al quitarse.
 
-Como ejemplo, podemos ver el [kohl de invisibilidad](#anchorkohlinvisibilidad) que permite ser invisible (lógico) y el [kohl de búsqueda de tesoros](#anchorkohltesoros) que modifica la forma en que ves el mundo.
+Como ejemplo, podemos ver el kohl de invisibilidad que permite ser invisible (lógico) y el kohl de búsqueda de tesoros que modifica la forma en que ves el mundo.
+
+> Con lo cual la buena dama vistió a Feliz-Bello con ropas de mujer que había llevado, y le alargó los ojos con kohl, y agrandó y ennegreció el lunar de la mejilla, y después le puso brazaletes en las muñecas, y le colocó alhajas en la cabellera cubierta con un velo de Mosul, y hecho aquello echó la última ojeada a su tocado, y le pareció que estaba encantador así y mucho más hermoso que todas las mujeres juntas del palacio del sultán.
+> 
+> **Referencia:** Historia de Feliz-Bello y Feliz-Bella (n. 245)
 
 \sp
 

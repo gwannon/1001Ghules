@@ -426,7 +426,7 @@ El culto del cuarenta no adora a este avatar de la deidad exterior Yog-Sothoth, 
 
 ### Astarte (Shub-Niggurath)
 
-> ¡Iah! ¡Iah! ¡Astarte! Gran Madre de los mil y un retoños, ¡Yo te invoco! ¡Contesta la llamada de tu siervo que conoce las palabras de poder! Yo te digo: ¡Levántate de tu sueño y acude con un millar más uno! Hago los signos y las libaciones, pronuncio las palabras que abren la puerta. Te digo: ¡Acude! Golpeo la aldaba. ¡Ahora! ¡Anda por la Tierra una vez más!
+> /p/ ¡Iah! ¡Iah! ¡Astarte! Gran Madre de los mil y un retoños, ¡Yo te invoco! ¡Contesta la llamada de tu siervo que conoce las palabras de poder! Yo te digo: ¡Levántate de tu sueño y acude con un millar más uno! Hago los signos y las libaciones, pronuncio las palabras que abren la puerta. Te digo: ¡Acude! Golpeo la aldaba. ¡Ahora! ¡Anda por la Tierra una vez más!
 
 &nbsp;
 
@@ -464,11 +464,11 @@ Se sabe de ciertos elementos que podrían contener parte de su esencia y podría
 
 ### Bahamūt (Cthulhu)
 
-> "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo.
-> 
-> También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un inmenso monstruo acuático llamado Bahamūt que flota en la superficie del Mar de la Eternidad sumido en un profundo sueño.
-> 
-> **Referencia:** Historia de Belukia (n. 362)
+> /p/ "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo.
+> /p/ 
+> /p/ También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un inmenso monstruo acuático llamado Bahamūt que flota en la superficie del Mar de la Eternidad sumido en un profundo sueño.
+> /p/ 
+> /p/ **Referencia:** Historia de Belukia (n. 362)
 
 &nbsp;
 
@@ -505,7 +505,11 @@ Para evitar esto, tanto en el mundo de la vigilia como en el mundo de los sueño
 
 \sp
 
+\sinc
+
 ### Suc’Naath
+
+\conc
 
 Suc’Naath es uno de los dioses malditos y descerebrado que bailan desenfrenadamente al son de flautas y tambores para su señor Azathoth. Tiene forma de huracán con trazas color violeta y dorado.
 
@@ -583,21 +587,17 @@ Una célula de los 40 encontró un antiguo asentamiento acuático de los janns e
 
 ### La Mano Dorada de Suc’Naath
 
-> … y tras alabar el innombrable nombre de su dios, Suc’Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas. Pero de entre sus ropajes, sus giros y sus contorsiones empezaron a formarse figuras extrañas y sombras deformes que fueron tomando cada vez una forma más clara para mí, hasta poder ver la cara de mi jeiquesa Mariam llena de dolor y terror. Y sin previo aviso, uno a uno, los danzantes fue cayendo dejando grabado en mi alma la cara abotargada de la luz de mis mañanas y mis ocasos.
+> /p/ … y tras alabar el innombrable nombre de su dios, Suc’Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas. Pero de entre sus ropajes, sus giros y sus contorsiones empezaron a formarse figuras extrañas y sombras deformes que fueron tomando cada vez una forma más clara para mí, hasta poder ver la cara de mi jeiquesa Mariam llena de dolor y terror. Y sin previo aviso, uno a uno, los danzantes fue cayendo dejando grabado en mi alma la cara abotargada de la luz de mis mañanas y mis ocasos.
 
 &nbsp;
 
 \conc
-
-[![Silueta Mano Izquierda No A La Guerra by OpenClipart-Vectors](./images/mano-dorada.png)](https://pixabay.com/es/illustrations/elixir-poci%C3%B3n-m%C3%A1gica-7425632/ "Mano Izquierda No A La Guerra by OpenClipart-Vectors")
 
 La Mano Dorada de Suc’Naath reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos fanáticos bien entrenados. Su misión es adorar y liberar a Suc’Naath de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderosos y la vida eterna.
 
 La secta es pequeña, pero muy poderosa, sus agentes mágicos tiene grandes poderes, sus artistas tienen mucha fama y dinero y sus asesinos son mortales. Cada miembro del culto, tras una concienzuda selección y con el beneplácito de la suma sacerdotisa Ziba, puede elegir un discípulo al que enseña todos sus secretos y todo el credo de la secta.
 
 Los y las artistas suelen escoger a la gente más fanática de su arte. Si manejan las energías de la magia, buscan a las personas que portan la esencia de Suc’Naath, ya que su magia es poderosa y son proclives a la locura y el caos.
-
-\sp
 
 Por último, los asesinos y asesinas de la secta suelen buscar pillastres que viven en la calle sin familia a los que infundir sus macabras creencias.
 
@@ -606,6 +606,11 @@ Por último, los asesinos y asesinas de la secta suelen buscar pillastres que vi
 La Mano Dorada de Suc’Naath es un culto muy pequeño, pero muy poderoso, solo los mejores entran en ella y después de haber demostrado con creces su fidelidad y fanatismo hacia la Mano Dorada y a Suc’Naath.
 
 * Ziba, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc’Naath. Como única portadora de la esencia de Suc’Naath es la más adecuada para liderar el culto. Además, esa esencia hace que sus poderes mágicos sean muy superiores a otros magos de la secta.
+
+\sp
+
+[![Silueta Mano Izquierda No A La Guerra by OpenClipart-Vectors](./images/mano-dorada.png)](https://pixabay.com/es/illustrations/elixir-poci%C3%B3n-m%C3%A1gica-7425632/ "Mano Izquierda No A La Guerra by OpenClipart-Vectors")
+
 * Alura, amazona, guardaespaldas de Ziba y asesina principal de la Mano Dorada de Suc’Naath. Es la mano ejecutora de Ziba, fanática de la Mano Dorada y adicta a Ziba.
 
 #### Lugares de culto y refugios
@@ -622,9 +627,9 @@ Siguiendo el destino de su amo y compartiendo su maldición, el principal ritual
 
 Bailan hasta la extenuación y caen inconscientes al suelo. Los danzantes puede tener una catarsis y Suc’Naath puede entregarles una visión de su futuro o de su pasado.
 
-\sp
-
 Fuera de los bailes que les ponen en comunión con su dios, son más de reuniones donde compartir secretos mágicos, hablar del arte profano que tanto les gusta y comentar sus trucos de asesino.
+
+\sp
 
 Los adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc’Naath.
 
@@ -636,9 +641,11 @@ Esto hace que la Mano Dorada es moviéndose frenéticamente para encontrar la es
 
 \sinc
 
+&nbsp;
+
 ### La progenie de la Luna Creciente
 
-> Sobre la losa de piedra que usaban de altar el sacerdote tenía una figura de una antigua diosa de la fertilidad, si lo que recordaba de los libros del pasillo prohibido de la Casa de Sabiduría era correcto. Pero la estatuilla tenía algo extraño, antinatural. El grano de la piedra parecía como si tuviera miles de ojos y las vetas dotaban a la efigie de un volumen que parecía que cientos de tentáculos cada centímetro de su superficie.
+> /p/ Sobre la losa de piedra que usaban de altar el sacerdote tenía una figura de una antigua diosa de la fertilidad, si lo que recordaba de los libros del pasillo prohibido de la Casa de Sabiduría era correcto. Pero la estatuilla tenía algo extraño, antinatural. El grano de la piedra parecía como si tuviera miles de ojos y las vetas dotaban a la efigie de un volumen que parecía que cientos de tentáculos cada centímetro de su superficie.
 
 &nbsp;
 
@@ -650,13 +657,15 @@ Desde hace siglos hay una colonia de al mighos en las desérticas planicies de B
 
 Siguiendo el _modus operandi_ de los al mighos, fueron buscando gente débil de mente a la que embaucaron y convirtieron en adeptos primero y siervos fanáticos después.
 
-\sp
-
 Estos siervos con el paso de los años y las décadas asumieron las ideas religiosas de sus amos al mighos y empezaron a adorar a los mismos dioses que ellos.
 
-[![Aladdin and the Magician - Houghton, Arthur Boyd](./images/magician-aladdin.jpg)](https://www.oldbookillustrations.com/illustrations/magician-aladdin/ "Aladdin and the Magician - Houghton, Arthur Boyd") 
+Era inevitable que con todo esto su adoración se convirtiera en un culto de seguidores de Shub-Niggurath que se autodenominó la Progenie de la Luna Creciente. 
 
-Era inevitable que con todo esto su adoración se convirtiera en un culto de seguidores de Shub-Niggurath que se autodenominó la Progenie de la Luna Creciente. No adoran directamente a Shub-Niggurath, sino que le adoran a través de una versión primigenia y depravada de Astarte, la antigua deidad cananea del amor, el sexo y la fertilidad, pero también de la guerra.
+\sp
+
+[![Un martyr volontaire au caucase - Élisée Reclus](./images/sectario.jpg)](https://commons.wikimedia.org/wiki/File:P405_-_un_martyr_volontaire_au_caucase_-_Liv4-Ch10.png?uselang=fr "Un martyr volontaire au caucase - Élisée Reclus") 
+
+No adoran directamente a Shub-Niggurath, sino que le adoran a través de una versión primigenia y depravada de Astarte, la antigua deidad cananea del amor, el sexo y la fertilidad, pero también de la guerra.
 
 Los primeros cultistas eran incapaces de asumir todas las implicaciones que suponía Shub-Niggurath y le crearon un avatar más asumible a sus mentes con la figura de una diosa Astarte caótica que exigía ritos sanguinarios y sexuales.
 
@@ -670,15 +679,16 @@ La secta está también muy militarizada y ha conseguido meter agentes en el ej�
 
 La mayoría de los miembros de la secta son gente de campo de Balad Ruz y forajidos y monadas que viven fuera de la sociedad es sus duras llanuras.
 
+* Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie
+
 \sp
 
-* Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie
+[![Aladdin and the Magician - Houghton, Arthur Boyd](./images/magician-aladdin.jpg)](https://www.oldbookillustrations.com/illustrations/magician-aladdin/ "Aladdin and the Magician - Houghton, Arthur Boyd") 
 
 #### Lugares de culto y refugios
 
 A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normalmente cuevas secretas donde reunirse lejos de miradas indiscretas con sus señores al mighos y donde invocar a su diosa Astarte. Además, esas cuevas secretas son perfectas para entrar en contacto con los Vástagos de Astarte.
 
-[![Un martyr volontaire au caucase - Élisée Reclus](./images/sectario.jpg)](https://commons.wikimedia.org/wiki/File:P405_-_un_martyr_volontaire_au_caucase_-_Liv4-Ch10.png?uselang=fr "Un martyr volontaire au caucase - Élisée Reclus") 
 
 * Carnicería del zoco de alimentación del arrabal de Karkh (Bagdad). Los rituales y sacrificios se realizan en su sótano. La carnicería es una tapadera para sus sangrientas actividades.
 
@@ -690,9 +700,9 @@ Los rituales empiezan con libaciones y lustraciones con vino y agua, y continúa
 
 También es frecuente el uso de opio, extraído de la adormidera, a fin de excitar el deseo sexual. Podían acabar en orgías en las que zánganos de al mighos podrían tomar parte de una forma más o menos activa.
 
-\sp
-
 No son raras las apariciones de los vástagos de Astarte al invocar a su madre en sus rituales. Normalmente, estas criaturas se descontrolan, con lo que los rituales suelen hacerse en lugares desérticos (como las llanuras de Balad Ruz) donde no pueden ser descubiertos y causar daños y perdidas humanas.
+
+\sp
 
 Con la política del Califa de Bagdad de poblar estas llanuras, se está planteando usar estas criaturas para hacer huir a los nuevos colonos. Pero esto es una medida temporal, ya que solo terminará atrayendo el interés del Califa y su visir, que terminarán mandando a sus tropas, lo cual podría poner en peligro a la secta y al asentamiento al migho.
 
@@ -704,11 +714,13 @@ Estas noticias no agradan a los amos al mighos y esto ha hecho que los adeptos d
 
 \sinc
 
+&nbsp;
+
 ### Seguidores del Fuego y de la Luz
 
-> “Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre. Y la habitaban todos sus parientes y súbditos. Mi padre es el rey que habrás visto en su trono, transformado en estatua de piedra. Y la reina, que también habrás visto, es mi madre. Ambos profesaban la religión de los magos adoradores del terrible Nardún. Juraban por el fuego y la luz, por la sombra y el calor, y por los astros que giran.
-> 
-> **Referencia:** Historia de Zobeida, la mayor de las jóvenes (n. 16)
+> /p/ “Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre. Y la habitaban todos sus parientes y súbditos. Mi padre es el rey que habrás visto en su trono, transformado en estatua de piedra. Y la reina, que también habrás visto, es mi madre. Ambos profesaban la religión de los magos adoradores del terrible Nardún. Juraban por el fuego y la luz, por la sombra y el calor, y por los astros que giran.
+> /p/ 
+> /p/ **Referencia:** Historia de Zobeida, la mayor de las jóvenes (n. 16)
 
 &nbsp;
 
@@ -716,11 +728,11 @@ Estas noticias no agradan a los amos al mighos y esto ha hecho que los adeptos d
 
 Los seguidores del Fuego y la Luz son una secta depravada del zoroastrismo, que adoran a una versión de Ahura (la principal divinidad del zoroastrismo) a la que denominan Nardún. Nardún es en realidad el primigenio Cthugha, la llama viva.
 
+El fuego, como símbolo de Nardún, es el centro de este culto y está presente en todos sus aspectos, desde rituales a hechizos o simbología. Todo esto atrae a gran cantidad de pirómanos y personas desequilibradas con tendencias destructivas.
+
 \sp
 
 ![Silueta](./images/llama-alada.png)
-
-El fuego, como símbolo de Nardún, es el centro de este culto y está presente en todos sus aspectos, desde rituales a hechizos o simbología. Todo esto atrae a gran cantidad de pirómanos y personas desequilibradas con tendencias destructivas.
 
 Los miembros de esta secta son bastante anárquicos y solitarios y solo les une una serie de creencias, algunos rituales y ciertas celebraciones, pero por lo demás son bastante independientes. De normal, cada uno sigue su camino, pero cuando alguno consigue algo importante para el culto suele montar una celebración donde toman decisiones sobre que nuevos pasos deben dar como grupo.
 
@@ -739,6 +751,7 @@ No suelen tener sitios fijos de culto, pero cuando se reúnen suelen hacerlo en 
 
 * Damavand (5.610 m). Montes Elburz, cordillera del Cáucaso. Es una zona conocida por ser zona de anidación de Rokhs.
 * Kuh-i-Taftán (3.941 m). Es un volcán solitario y casi apagado al sureste del actual Irán.
+* Erta Ale (613 m). Se encuentra al noroeste de la actual Etiopía, cerca del Mar rojo. Es una montaña solitaria en mitad de un erial al que los locales no se acercan por temer a los espíritus que lo habitan. Tiene dos lagos de lava que a veces desbordan por la ladera.
 
 \sp
 
@@ -748,19 +761,20 @@ No suelen tener sitios fijos de culto, pero cuando se reúnen suelen hacerlo en 
 
 \conc
 
-* Erta Ale (613 m). Se encuentra al noroeste de la actual Etiopía, cerca del Mar rojo. Es una montaña solitaria en mitad de un erial al que los locales no se acercan por temer a los espíritus que lo habitan. Tiene dos lagos de lava que a veces desbordan por la ladera.
-
 Aparte de los volcanes al sur de Bagdad, a un día de camino, Bahram el Gauro tiene una guarida secreta. Tiene una llama eterna sobre un altar de sacrificios parecido a una parrilla donde asa a sus víctimas en sacrificios a Nardún. 
 
 Además, está equipada con todo tipo de objetos y componentes mágicos y provisiones para varios días.
 
 Por último, un gran número de seguidores y seguidoras del Fuego y de la Luz se han establecido en el lago Karún, cerca del El Cario. Allí vigilan si alguien, siguiendo las leyendas, consigue las carpas mágicas que te dirán donde está el tesoro de Al-Schamardal, donde la secta cree que se guarda un objeto mágico de gran poder que contiene parte de la esencia de su divino Nardún.
 
-\sp
 
 #### Rituales
 
-Como no podía ser de otra manera, todos los ritos de este culto sectario están relacionados con el fuego. Los principales rituales se dan en los solsticios y equinoccios en los que cuando el sol está en lo más alto se hacen todo tipo de ceremonias, pero principalmente sacrificios animales y humanos. Semanalmente, cada célula de esta secta lleva a cabo rituales menores. Diariamente, se hacen sacrificios al fuego como quemar comida o incienso.
+Como no podía ser de otra manera, todos los ritos de este culto sectario están relacionados con el fuego. Los principales rituales se dan en los solsticios y equinoccios en los que cuando el sol está en lo más alto se hacen todo tipo de ceremonias, pero principalmente sacrificios animales y humanos. 
+
+\sp
+
+Semanalmente, cada célula de esta secta lleva a cabo rituales menores. Diariamente, se hacen sacrificios al fuego como quemar comida o incienso.
 
 Sus miembros se automutilan quemándose partes de cuerpo para obtener cicatrices o se marcan a fuego símbolos de su deidad en el cuerpo con hierros de marcar.
 
@@ -775,8 +789,6 @@ Dentro de sus rituales suele haber invocaciones voluntarias o involuntarias de f
 #### Situación actual
 
 La organización en sí no es ni muy grande, ni muy poderosa, ni tiene grandes recursos, pero el fanatismo de sus miembros y el poder de [Bahram el Gauro](#anchorbahramgauro) compensan todo eso. Bahram se ha convertido en el hombre del saco de toda la zona. Su nombre no se pronuncia sin santiguarse y se usa para asustar a los niños y niñas.
-
-\sp
 
 Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conseguido suficiente poder para ser un contrincante muy peligroso. Si objetivo es encontrar la esfera celeste de Al-Schamardal, que cree que contiene parte de la esencia de su reverenciada deidad. Ha puesto al resto de la secta en su búsqueda y están empezando las primeras pistas de su localización.
 
@@ -992,15 +1004,21 @@ Las carreras suelen tener una fecha fija en el año y se rodean de grandes festi
 > 
 > **Referencia:** Historia del Gano-del-Belleza (n. 269)
 
+&nbsp;
+
 \conc
+
+Este deporte, que es el germen del actual polo, está solo al alcance de los ricos y poderosos, ya que muy pocas personas pueden mantener un caballo solo por ocio. 
+
+Normalmente, los jugadores de polo tienen mecenas que pagan su manutención y la del caballo y por los que compiten en los eventos que emires y califas organizan.
+
+El juego es sencillo. Dos equipos de jinetes deben meter una pelota en la portería contraría usando sus mazos para golpear la pelota. 
 
 \sp
 
-Este deporte, que es el germen del actual polo, está solo al alcance de los ricos y poderosos, ya que muy pocas personas pueden mantener un caballo solo por ocio. Normalmente, los jugadores de polo tienen mecenas que pagan su manutención y la del caballo y por los que compiten en los eventos que emires y califas organizan.
+Se supone un deporte de gente civilizada con que los golpes, empujones y las peleas están prohibidas, aunque pueden ocurrir "accidentes graves".
 
-El juego es sencillo. Dos equipos de jinetes deben meter una pelota en la portería contraría usando sus mazos para golpear la pelota. Se supone un deporte de gente civilizada con que los golpes, empujones y las peleas están prohibidas, aunque pueden ocurrir "accidentes graves".
-
-Alrededor de los partidos de pelota a caballo se mueven negocios, pactos comerciales, se conciertan matrimonios, etc. Mas que un deporte es un evento social para la gente pudiente de la ciudad.
+Alrededor de los partidos de pelota a caballo se mueven negocios, pactos comerciales, se conciertan matrimonios, etc. Más que un deporte es un evento social para la gente pudiente de la ciudad.
 
 #### Cetrería
 
@@ -1016,19 +1034,23 @@ Todo es legal para evitar que te marquen o para marcar y los heridos son frecuen
 
 Siendo el arco un arma de caza y de guerra muy usado en estas tierras, los concursos para probar la habilidad con el arco son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos vivos como aves o jabalíes. 
 
-\sp
-
 Quizás la más arriesgada sea disparar a los pies del contrincante desde largas distancias y si le das pierdes y si se mueve pierde él.
 
 Esta última modalidad de tiro con arco se juega de la siguiente manera. Primero se decide la distancia entre los arqueros o arqueras (corta, media y larga) y se decide al azar quién empieza a disparar las flechas.  
-  
-El atacante hace una tirada de disparar para lanzar la flecha entre los pies de su contrincante (-2 por disparar a un objetivo pequeño). Si acierta el defensor deberá pasar una tirada de Espíritu para mantenerse quieto en su sitio. Si la distancia es corta no tiene negativo, si es media tiene -2 y si es larga un -4. La cuestión es que cuando más lejos, más fácilmente se falla hiriendo al defensor y este tiene más tiempo para ver venir la flecha, arrepentirse y moverse. Cuando termina el atacante dispara el defensor y así sucesivamente.  
+
+\sp
+
+```
+El atacante hace una tirada de disparar para lanzar la flecha entre los pies de su contrincante (-2 por disparar a un objetivo pequeño). Si acierta el defensor deberá pasar una tirada de Espíritu para mantenerse quieto en su sitio.
+
+Si la distancia es corta no tiene negativo, si es media tiene -2 y si es larga un -4. La cuestión es que cuando más lejos, más fácilmente se falla hiriendo al defensor y este tiene más tiempo para ver venir la flecha, arrepentirse y moverse. 
+
+Cuando termina el atacante dispara el defensor y así sucesivamente.  
   
 Si fallas el ataque el contrincante gana 1 punto, si te mueves pierdes el otro competidor gana 1 punto. Cuando alguno de los dos consigue sacar una ventaja de 3 puntos, gana el concurso.  
   
 Si alguno tiene una pifia en disparar hiere a su objetivo (tirada de daño real) y es descalificado. Si pifias la tirada de Espíritu no pasa nada, pero Scheherazade puede describir algo vergonzoso que haces presa del miedo.
-
-\sinc
+```
 
 #### Lucha libre
 
@@ -1036,15 +1058,9 @@ Si alguno tiene una pifia en disparar hiere a su objetivo (tirada de daño real)
 > 
 > **Referencia:** Historia contada por el octavo capitán de policía (n. 949)
 
-&nbsp;
+La lucha libre es una mezcla de deporte y arte marcial de origen turco y tiene mucha aceptación entre las clases más bajas y son frecuentes las apuestas. 
 
-\conc
-
-\sp
-
-La lucha libre es una mezcla de deporte y arte marcial de origen turco y tiene mucha aceptación entre las clases más bajas y son frecuentes las apuestas. Dos personas se enzarzan en un combate de presas y llaves dentro de un círculo. Él o la que consiga derribar e inmovilizar al otro u otra gana el combate.
-
-\sinc
+Dos personas se enzarzan en un combate de presas y llaves dentro de un círculo. Él o la que consiga derribar e inmovilizar al otro u otra gana el combate.
 
 ### El shatranj
 
@@ -1053,11 +1069,9 @@ La lucha libre es una mezcla de deporte y arte marcial de origen turco y tiene m
 > 
 > **Referencia:** Los amores de Zein Al-Mawassif (n. 655)
 
-&nbsp;
-
-\conc
-
 El shatranj es una forma previa del ajedrez de origen persa. Este juego es el preferido de las clases pudientes, que les permite distinguirse de la calaña que juega a los dados.
+
+\sp
 
 Muchos personajes importantes son grandes aficionados a este juego y los grandes concursos patrocinados por los ricos están a la orden del día.
 
@@ -1069,23 +1083,21 @@ Hay 5 clases de jugadores según su maestría:
 
 Para determinar su clase, un jugador disputaría una serie de encuentros frente a un rival cuya categoría fuera conocida. Si ganaba 7 o más partidas de 10, pertenecía a una clase superior.
 
-\sp
-
+```
 A diferencia de otros juegos, en el shatranj no hay suerte, es todo estrategia, con lo que se hace uso de Tácticas en vez de Apostar. De hecho, las ventajas, objetos, hechizos que dan pluses a Tácticas también se usan para jugar al shatranj.
+```
 
 ### Sexualidad, poligamia y divorcio
 
 Las relaciones sexo-afectivas en las 1001 Noches son el tema principal de muchos cuentos. Desde personas que corren grandes riesgos y asombrosas aventuras para conseguir el amor de su vida, hasta relatos eróticos o erótico-humorísticos.
 
-\sc
-
 #### Sexualidad
 
 En las tramas de las 1001 Noches se ven representadas muchos tipos de relaciones sexo-afectivas. Tenemos personas expresamente aquileas y sáficas. Así que si de normal deberías tener total libertad de dar a tu schahriar la orientación sexual que te parezca adecuada, has de saber que las propias 1001 Noches recogen este tipo de relaciones.
 
-También hay que tener en cuenta que algunas de las historias tienen un marcado carácter erótico y y es por ello que todos estos temas sexuales sean mostrados tan ampliamente. Aun así, las relaciones heterosexuales son lo predominante en la gran mayoría de los relatos.
+También hay que tener en cuenta que algunas de las historias tienen un marcado carácter erótico y y es por ello que todos estos temas sexuales sean mostrados tan ampliamente. 
 
-\sinc
+Aun así, las relaciones heterosexuales son lo predominante en la gran mayoría de los relatos.
 
 #### Poligamia
 
@@ -1093,40 +1105,30 @@ También hay que tener en cuenta que algunas de las historias tienen un marcado 
 > 
 > **Referencia:** Historia de la pierna de carnero (n. 787)
 
-&nbsp;
-
-\conc
+\sp
 
 La poligamia es algo bastante normal, sobre todo entre los ricos y poderosos que tenían una pareja principal, una esposa, y luego una serie de concubinas, algunas libres y otras esclavas.
-
-\sp
 
 Los hijos de la esposa principal son los hijos que heredarán casi todos los bienes, pero eso no quiere decir que se pueda dejar parte de la herencia a un los hijos o hijas que se tienen con las concubinas.
 
 Si la esposa principal moría, una concubina podía pasar a ser la esposa principal, pero los hijos de la difunta seguían siendo herederos legítimos.
 
-La poligamia no es solo cosa de hombres también, puede darse el caso de que una mujer tenga varios hombres, aunque eso no es tan normal. De todas formas puedes montar las estructuras familiares que mejor se ajusten a los gustos y situaciones de tu mesa, incluso obviar todos estos elementos y centrarte en tus maravillosas e increíbles historias de horror cósmico.
+La poligamia no es solo cosa de hombres también, puede darse el caso de que una mujer tenga varios hombres, aunque eso no es tan normal.
 
-\sinc
+De todas formas puedes montar las estructuras familiares que mejor se ajusten a los gustos y situaciones de tu mesa, incluso obviar todos estos elementos y centrarte en tus maravillosas e increíbles historias de horror cósmico.
 
 #### Divorcio
+
+El divorcio es algo que aparece en varias de las historias, nombrado o como parte importante de la historia.
 
 > Por eso no conviene dejar tras de mí ataderos, deudas ni obligaciones, ni nada que pueda proporcionarme preocupaciones, pues ningún hombre sabe si será amigo de su destino al día siguiente. ¡Y por eso ¡oh tío! te llamo para entregarte el acta de divorcio de tu hija, esposa mía!"  
 > Cuando el tío del generoso Ataf, padre de su esposa, hubo oído estas palabras y comprendido que Ataf quería divorciarse, quedó extremadamente conmovido,
 > 
 > **Referencia:** Historia del libro mágico (n. 899)
 
-&nbsp;
-
-\conc
-
-El divorcio es algo que aparece en varias de las historias, nombrado o como parte importante de la historia. Es normal que en una cultura con poligamia haya formas de romper esas relaciones. Normalmente, hay que hablar con un kadí para que registre el divorcio y establezca la repartición de bienes.
+Es normal que en una cultura con poligamia haya formas de romper esas relaciones. Normalmente, hay que hablar con un kadí para que registre el divorcio y establezca la repartición de bienes.
 
 Pero seamos sinceros, que exista el divorcio no quiere decir que todo el mundo pueda ser libre de divorciarse, en especial las mujeres.
-
-\sp
-
-\sinc
 
 ### Gastronomía
 
@@ -1134,13 +1136,9 @@ Pero seamos sinceros, que exista el divorcio no quiere decir que todo el mundo p
 > 
 > **Referencia:** Historia de la bella Zumurrud y Alischar, hijo de Gloria (n. 324)
 
-&nbsp;
-
-\conc
+\sp
 
 Tratar de abarcar toda la gastronomía de las diferentes culturas de Oriente Medio y Magreb es mucho trabajo, pero por lo menos te vamos a dar un listado de platos y bebidas para que cuando tu mesa pida comida y bebida en una khan no les saques las típicas bebidas y los típicos platos de juegos medievales fantásticos. Olvídate de los asados y los estofados, aquí somos de cordero.
-
-\sinc
 
 #### Kebab
 
@@ -1148,13 +1146,7 @@ Tratar de abarcar toda la gastronomía de las diferentes culturas de Oriente Med
 > 
 > **Referencia:** Algunas tonterías y teorías del maestro de las divisas y de las risas (n. 922)
 
-&nbsp;
-
-\conc
-
 No creo necesario explicarlo, pero el kebab hace referencia a carne que es asada o cocida en rollos de carne prensada en un hornillo vertical. Quizás el plato más famoso de la rica gastronomía de Oriente medio.
-
-\sp
 
 Originariamente es cordero, una de las carnes fundamentales, pero según restricciones religiosas y los gustos locales, tenemos kebabs de diferentes aves, ternera o pescado.
 
@@ -1164,11 +1156,17 @@ Más conocido en todo el mundo como cuscús, es sémola de trigo molida sin lleg
 
 #### Hummus y baba ganoush
 
-El garbanzo aparece en muchos platos y aunque no se nombre en las 1001 Noches es un plato conocido internacionalmente y una opción para tus schahriars veganos. La berenjena y el calabacín también aparecen en muchos platos, así que el baba ganoush es una pasta de berenjena similar al hummus.
+El garbanzo aparece en muchos platos y aunque no se nombre en las 1001 Noches es un plato conocido internacionalmente y una opción para tus schahriars veganos.
+
+La berenjena y el calabacín también aparecen en muchos platos, así que el baba ganoush es una pasta de berenjena similar al hummus.
+
+\sp
 
 #### Baklava y otros postres
 
-El baklava es un pastel de origen turco, pero hecho en todo el mundo árabe. Está elaborado con una pasta de pistachos o nueces trituradas, distribuida en una masa filo y bañado en almíbar o jarabe de miel. Existen diversas variedades que incorporan avellanas y almendras, entre otros frutos secos.
+El baklava es un pastel de origen turco, pero hecho en todo el mundo árabe. Está elaborado con una pasta de pistachos o nueces trituradas, distribuida en una masa filo y bañado en almíbar o jarabe de miel.
+
+Existen diversas variedades que incorporan avellanas y almendras, entre otros frutos secos.
 
 Otros postres que puedes ponerles.
 
@@ -1234,11 +1232,11 @@ Estos barrios tienen un carácter más residencial donde la gente vive y se rela
 
 Estos barrios tienen algún tipo de gobernante menor que toma las decisiones principales sobre el arrabal, normalmente un o una jeique que son llamados al-balad.
 
-\sp
-
 #### Bazares y zocos
 
-Los zocos y [bazares](#anchorgranbazar) son las zonas comerciales de las ciudades. Normalmente, los más importantes están localizados en la medina, pero cada barrio tiene como mínimo sus propios zocos de alimentación y enseres del día a día. Cosas más especializadas y caros como los orfebres igual solo están en el bazar principal.
+Los zocos y [bazares](#anchorgranbazar) son las zonas comerciales de las ciudades. Normalmente, los más importantes están localizados en la medina, pero cada barrio tiene como mínimo sus propios zocos de alimentación y enseres del día a día. Cosas más especializadas y caras como los orfebres igual solo están en el bazar principal.
+
+\sp
 
 La principal diferencia entre el zoco y el bazar es que el zoco está formado por un conjunto de calles abiertas que a veces están cubiertas, mientras que el bazar es un lugar cerrado, la mayoría de espacios está cubierto y las puertas de acceso se cierran cuando termina la actividad del día.
 
@@ -1255,13 +1253,11 @@ Los zocos y bazares tienen dos figuras interesantes:
 
 Maidán hace referencia a una plaza normalmente la más importante de la ciudad. Son amplios espacios y a veces ajardinados donde se desarrolla la vida social. La gente pasea y descansa a la sombra de árboles y toldos, come y toma te, etc.
 
-\sp
-
 Normalmente la medina se estructura en función del maidán principal y los edificios oficiales suelen estar a su alrededor.
 
 Como en los zocos podemos encontrar aguadores, vendedores ambulantes, incluso sacamuelas, encantadores de serpientes o músicos y actores ambulantes.
 
-\sinc
+\sp
 
 #### Maristán
 
@@ -1269,15 +1265,9 @@ Como en los zocos podemos encontrar aguadores, vendedores ambulantes, incluso sa
 > 
 > **Referencia:** Historia del segundo loco (n. 837)
 
-&nbsp;
-
-\conc
-
 El maristán o bimaristán (casa de enfermos en persa) es un hospital o sanatorio que disponía también de una biblioteca médica y funcionaba como centro de formación médica. Era de carácter benéfico, y los enfermos recibían gratuitamente tratamientos que incluían desde drogas y remedios a base de hierbas, hasta masajes, rehabilitación física, música o simplemente reposo.
 
 Son considerados lugares modernos y bastante abiertos de ideas, sin embargo, muchas veces en las 1001 Noches son representados de una forma muy parecida a lo que haría el propio Lovecraft.
-
-\sp
 
 Los maristán también eran usados como manicomios en el sentido más clásico de maltrato y sufrimiento (similar a lo que vemos en «Alguien voló sobre el nido del cuco»). Son varias las veces en que se hace referencia de maltratos a los locos encerrados en sus celdas, de atarlos con cadenas o de azotarlos.
 
@@ -1289,6 +1279,8 @@ Un tropo argumental usado varias veces es que las personas peligrosas para los d
 
 > /s/ **Semilla de aventura:** Si tus schahriars no han cometido delitos, pero deseas una buena historia carcelaria y de fugas, meterlos en el maristán es una buena idea.
 
+\sp
+
 #### Alcazaba
 
 La alcazaba es un recinto fortificado que había en las ciudades. Servía de residencia a un emir/a u otros tipos de gobernantes. Tenía una guarnición que vivía con sus familias en la alcazaba. Solía denominarse alcázar a la zona donde vivía el gobernante.
@@ -1299,15 +1291,11 @@ La mezquita es el centro de la vida religiosa de la ciudad. Son, además, un sit
 
 Las mezquitas solo son referencian de pasada en muchas de las historias. Los personajes van o vienen de la mezquita y de los ritos religiosos, pero normalmente no son lugares en los que trascurran las historias de las 1001 Noches. Las sinagogas y las iglesias son frecuentemente mencionadas en los relatos, pero sin gran importancia en la historia.
 
-\sp
-
 #### Diwán
 
 El diwán es una mezcla de palacio de justicia y registro civil. Aquí es donde se juzgan diferentes delitos y donde se pueden hacer diferentes gestiones burocráticas como pagar impuestos, pedir permisos varios, solicitar audiencias con el califa, etc. Tienen un carácter religioso, ya que los jueces o kadís también pueden juzgar temas religiosos como delitos contra los preceptos religiosos.
 
 Cargos mayores como sultán/a o emir/esa pueden tener estancias especiales en el diwán donde recibir audiencia en vez de hacerlo en sus palacios.
-
-\sinc
 
 #### Maqbaras y rawdas
 
@@ -1315,17 +1303,13 @@ Cargos mayores como sultán/a o emir/esa pueden tener estancias especiales en el
 > 
 > **Referencia:** Historia del visir Nureddin, de su hermano el visir Chamseddin y de Hassan Badreddin (n. 20)
 
-&nbsp;
-
-\conc
-
 En toda población de gran tamaño hay uno o más cementerios. Están fuera de las murallas, a las afueras de la población y próximos a los caminos de acceso a alguna de las puertas de la ciudad.
+
+\sp
 
 El privilegio de ser enterrados dentro de la ciudad era únicamente para personas de alta alcurnia de la ciudad, que eran enterradas en pequeños cementerios conocidos como rawdas.
 
 Los mausoleos son llamados turbeh (que significa en turco tumba-torre) y solían ser hexagonales u octogonales y solo tenían una puerta de entrada y una única estancia donde se dejaban los cuerpos en ataúdes o sarcófagos.
-
-\sp
 
 #### Hammam
 
@@ -1395,9 +1379,9 @@ Las caravanas estaban sometidas a una rígida organización y reglamentación, q
 
 La persona que dirige la caravana es llamado mokaddem. De normal, dirige la caravana tomando decisiones de rutas, reparto de provisiones y demás. Cuando la caravana está en tierra de nadie se convierte, además, en una especie de kadí y su palabra es ley. 
 
-\sp
-
 Puede juzgar crímenes como robos menores o estafas, dirimir discusiones y problemas entres caravaneros y caravaneras. En situaciones graves puede expulsar de la caravana a personas peligrosas y violentas y abandonarlas a su suerte en el desierto.
+
+\sp
 
 ### Los khans
 
@@ -1412,14 +1396,12 @@ Los khans proporcionaban agua para el consumo de gente y animales, así como par
 Aunque a priori lo pueda parecer, el desierto y todos sus peligros no son un elemento muy importante en las 1001 Noches. No es común que un personaje se quede abandonado en el desierto y sufra todo tipo de desventuras. Lo normal es que los desiertos se crucen sin problemas, quizás haya ataques de bandidos o algún tipo de monstruo de las arenas, pero siempre se tienen agua y provisiones y no hay terribles tormentas de arena.
 
 * Sahara, en todo el norte de África. Debido a su gran tamaño podemos tener desde desierto de arena y dunas que llegan a la costa, hasta zonas de desierto de piedra. Al ser tan grande y tan variado da juego a todo tipo de situaciones, puedes meter oasis, dunas, kashbahs abandonadas, tribus monadas, etc. Mientras que el resto de desiertos son un obstáculo, el Sahara es un viaje en sí.
+* Rub al-Jali, en la península arábiga. Es un erg, el clásico desierto de arena y dunas, con temperaturas terribles de día y de noche. Es una de las regiones más inhóspitas de la Tierra y está totalmente deshabitada.
+* Wadi Rum, en Aqaba. El «Valle de la luna» es un desierto en una meseta de arenisca y granito que tiene unas formaciones rocosas con túneles y cuevas bastante curiosas por no decir extraterrestres. Es famosa la montaña conocida como Los siete pilares de la sabiduría.
 
 \sp
 
-* Rub al-Jali, en la península arábiga. Es un erg, el clásico desierto de arena y dunas, con temperaturas terribles de día y de noche. Es una de las regiones más inhóspitas de la Tierra y está totalmente deshabitada.
-* Wadi Rum, en Aqaba. El «Valle de la luna» es un desierto en una meseta de arenisca y granito que tiene unas formaciones rocosas con túneles y cuevas bastante curiosas por no decir extraterrestres. Es famosa la montaña conocida como Los siete pilares de la sabiduría.
 * El desierto de Nefud, en la península arábiga. Es un erg, es un desierto de arena y dunas, famoso por sus violentos e inesperadas tormentas de arena. Es el desierto que cruzo Lawrence de Arabia, aunque curiosamente esas escenas debieron rodarse en el Wadi Rum.
-
-\sinc
 
 ### Los peligros del mar
 
@@ -1427,12 +1409,6 @@ Aunque a priori lo pueda parecer, el desierto y todos sus peligros no son un ele
 > Y todos estaban armados y forrados de hierro. Y solo aguardaban una ocasión como aquélla para lograr botín, pues desde hacía tiempo que andaban por el mar. De modo que en cuanto vieron el navío en que estaba Safía, lo abordaron, le echaron los garfios y se apoderaron de él. Después se dieron de nuevo a la vela llevándolo a remolque. Pero levantó una furiosa tempestad que los arrojó a nuestras costas, desamparados. Entonces se arrojaron sobre ellos nuestros hombres, mataron a los piratas, y se apoderaron a su vez de las sesenta jóvenes entre las cuales se encontraba Safía.
 > 
 > **Referencia:** Historia del rey Omar Al-Neman y de sus dos hijos Scharkan y Daul’Makan (n. 50)
-
-&nbsp;
-
-\conc
-
-\sp
 
 Los viajes en barco tampoco son fáciles como demuestran los cuentos de Sindbad el marino. Desde monstruos marinos capaces de tragarse un barco en dos bocados a cíclopes, pasando por aves de Rokhs, remolinos. Sin olvidarse que tras una terrible tormenta puedes en cualquier isla desierta donde se dan extraños sucesos.
 
@@ -1444,7 +1420,7 @@ Los viajes en barco tampoco son fáciles como demuestran los cuentos de Sindbad 
 
 Si no tienes mucha idea, piensa que los viajes de Ulises y las aventuras de Sindbad tienen muchas similitudes, lo que le pase a Ulises es perfecto para estas aventuras.
 
-\sinc
+\sp
 
 ### Palomas mensajeras
 
@@ -1452,13 +1428,7 @@ Si no tienes mucha idea, piensa que los viajes de Ulises y las aventuras de Sind
 > 
 > **Referencia:** Historia de los artificios de Dalila la taimada y de su hija Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 432)
 
-&nbsp;
-
-\conc
-
 Los grandes regentes de oriente Medio tenían que regir grandes territorios y proteger muchos kilómetros de fronteras y para tomar decisiones adecuadas necesitaban estar informados.
-
-\sp
 
 Es por ello que las palomas mensajeras eran un elemento importante en las comunicaciones. Cada expedición diplomática o militar iba siempre con un menestral de palomar que enviaba mensajes con palomas mensajeras.
 
