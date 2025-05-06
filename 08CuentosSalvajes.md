@@ -17,9 +17,15 @@ Podríais enfocarlo a que los schahriars que están jugando "Más allá de la Ci
 
 Tendrían su personaje versión joven que sería de nivel novato y su personaje versión adulta y de nivel experimentado e irían saltando de una aventura a otra y las decisiones tomadas en una podrían tener repercusiones en la otra. Es mucho esfuerzo para Scheherazade, pero si se lo prepara puede quedar muy divertido.
 
+\sp
+
+\sinc
+
 [![Ruin - Market by Brandon-Ellis](./images/bazar.jpg)](https://www.deviantart.com/brandon-ellis/art/Ruin-Market-874688696 "Ruin - Market by Brandon-Ellis") 
 
 ## Historias del Pequeño Consejo
+
+\conc
 
 Esta historia está pensada para ser jugada con niños y niñas de entre 8 y 15 años. Es un acercamiento diferente (que no original) a las partidas normales y es po ello que tiene algunas reglas especiales. Para empezar, todos tus schahriars tendrían que tener la desventaja Joven (menor o mayor).
 
@@ -377,6 +383,8 @@ Giafar y la califesa querrán agradecer por salvar la ciudad y el califato a los
 Adicionalmente, el fondo de resistencia recibirá 5.000 dinares y Fátima entregará 200 a cada schahriar.
 
 > /s/ **Recompensa de cordura:** Si consiguen detener el plan de la Progenie y los al mighos y asistes a la feria del califa, recuperarán algo de su infancia perdida, esa que las calles de Bagdad les arrebataron. Devuelves todos los puntos de cordura perdida en la aventura y si no han perdido nada podrán quitarse un trastorno que hayan adquirido.
+
+&nbsp;
 
 > /s/ **Semilla de aventura:** El plan de la Progenie de la Luna ha sido frustrado, pero todavía queda acabar son sus miembros en Balaz Rud y los yinns malvados que los dirigen. Son muy peligrosos como para dejarlos escapar y que puedan volver a conspirar contra el Califa y la ciudad. Pero primero habrá que encontrar su guarida en la región de Balad Ruz.
 
@@ -902,9 +910,15 @@ Hay una serie de cuentos salvajes que podrían ser protagonizados por tus pillas
 * [El alcázar en las nubes](#anchoralcazarnubes)
 * [Sepultureros](#anchorsepultureros)
 
+\sp
+
+\sinc
+
 [![1001: The City of Brass by ArtDoge](./images/expedicion-ciudad-bronce.jpg)](https://www.deviantart.com/artdoge/art/1001-The-City-of-Brass-192983404 "1001: The City of Brass by ArtDoge") 
 
 ## Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce
+
+\conc
 
 Esta campaña es la continuación de la expedición a la Ciudad de Bronce que se narra en "Historia prodigiosa de la Ciudad de Bronce". Al final de esa historia, Abdalmalek, califa de Damasco, promete volver a la Ciudad de Bronce y liberar a la ciudad de la maldición que se cierne sobre ella.
 
@@ -1741,9 +1755,15 @@ Mientras viajan con la princesa Alya por todo Oriente Próximo y Norte de Áfric
 
 Debes recordar que Alya no espera a nadie así que estas historias deberían hacerse en muy poco tiempo, un día y una noche como mucho en tiempo de partida. Si no son capaces de resolverlo en ese tiempo, deberán abandonar la mini aventura para no perder la expedición.
 
+\sp
+
+\sinc
+
 [![Momentum by MagnumMaster](./images/espacio.jpg)](https://www.deviantart.com/magnummaster/art/Momentum-620728088 "Momentum by MagnumMaster") 
 
 ## La llegada del cometa
+
+\conc
 
 _Como los astrónomos habían predicho, el cometa Aiin se acerca a la Tierra, cosa que hace cada 320 años. Se dice que en su interior reside parte de la esencia fragmentada de la deidad conocida como Suc’Naath. Dentro de unos meses pasará muy cerca de nuestro planeta y será el momento perfecto para intentar liberar a este dios exterior de su maldición._
 
@@ -2089,7 +2109,13 @@ Si registran los objetos de Ziba y del resto de la secta tendrán un botín de 1
 
 [![El joven rey de las Islas Negras por Maxfield Parrish](./images/trono.jpg)](https://en.wikipedia.org/wiki/Maxfield_Parrish "El joven rey de las Islas Negras por Maxfield Parrish") 
 
+\sp
+
+\sinc
+
 ## La caída de Giafar
+
+\conc
 
 _El terrible destino del visir Giafar se acerca. No quedan más de 15 días hasta que el visir sea ejecutado tal como descubrió durante su fantástica estancia extratemporal en Pnakotus y es por ello que tiene dejar cerrados todos sus asuntos. Giafar necesitará de tus schahriars para poder dejar todo como él desea antes de su terrible final._
 
@@ -2399,7 +2425,13 @@ Si la aventura empezó con que Fátima se iba a retirar de su puesto en el Peque
 
 [![Shangri-La 4 Water Pass by ArtDoge](./images/otros-cuentos.jpg)](https://www.deviantart.com/artdoge/art/Shangri-La-4-Water-Pass-192464787 "Shangri-La 4 Water Pass by ArtDoge") 
 
+\sp
+
+\sinc
+
 ## Otros cuentos salvajes
+
+\conc
 
 En sus andanzas por las tierras de las 1001 Noches, tus schahriars pueden encontrarse con otras aventuras. Aquí tienes algunas de ellas donde podrás explorar lugares míticos, combatir a todo tipo de seres malvados, engañar a yinns o ser engañado por ellos y conseguir prodigiosos objetos de gran poder mágico.
 
@@ -2804,7 +2836,7 @@ Estas son las posibles opciones que puedes ofrecerles.
 
 ### Buscando la inmortalidad
 
-[![Imagen de Gordon Johnson en Pixabay](./images/esfera-armillar.png)](https://pixabay.com/es/vectors/esfera-armilar-orbe-l%C3%ADnea-arte-5405533/ "Imagen de Gordon Johnson en Pixabay") 
+[![Silueta Imagen de Gordon Johnson en Pixabay](./images/esfera-armillar.png)](https://pixabay.com/es/vectors/esfera-armilar-orbe-l%C3%ADnea-arte-5405533/ "Imagen de Gordon Johnson en Pixabay") 
 
 **Comienzo:** Bagdad o cualquiera otra gran ciudad
 
@@ -2898,7 +2930,7 @@ Recuerda que cada invocación obliga a una tirada de TPC por ver un ghūl a todo
 
 **Comienzo:** Costa del Mar Rojo
 
-[![Imagen de Holger Grybsch en Pixabay](./images/coral.png)](https://pixabay.com/es/photos/aislado-el-coral-rojo-mar-submarino-2440368/ "Imagen de Holger Grybsch en Pixabay") 
+[![Silueta Imagen de Holger Grybsch en Pixabay](./images/coral.png)](https://pixabay.com/es/photos/aislado-el-coral-rojo-mar-submarino-2440368/ "Imagen de Holger Grybsch en Pixabay") 
 
 _Los pescadores de coral de un pequeño pueblo pesquero del Mar Rojo han encontrado un coral de un nuevo color indefinible y fascinante. La gente está obsesionada por los objetos creados con este coral y una joya hecha de este material ha llegado a manos del Califa. Suerte que su visir lo ha interceptado y ha encontrado algo raro en la joya. Ahora necesita a investigadores capaces de que descubran que está pasando._
 
