@@ -38,3 +38,11 @@
 {"rule":"ESTA_TILDE","sentence":"^\\QLa Ciudad Sin Nombre es una metrópoli muy antigua, siendo esta demasiado arcaica para ser obra de humanos.\\E$"}
 {"rule":"SI_AFIRMACION2","sentence":"^\\QPor el contrario, si, por ejemplo, robas oro sin su permiso se quedará en su dimensión onírica.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QViajaron por el Sexto Mar el tiempo suficiente para experimentar un placer grande al llegar a una isla cubierta de hermosísima vegetación, en la cual pudieron disfrutar de algún reposo sentados en la playa.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpermaneció allí cuarenta días y cuarenta noches …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta cubas de grandes dimensiones y otras cuarenta de dimensiones más pequeñas …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta colores de diferentes las telas …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta gruesas piedras preciosas …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta días, transcurridos entre fiestas y regocijos …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Quna bandeja con cuarenta pasteles …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy tras alabar el innombrable nombre de su dios, Suc’Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\Q\"Llegarás entonces a una tercera puerta, por la que saldrá a tu encuentro un arquero que te amenazará con su arco armado de flecha; pero preséntale resueltamente tu pecho como blanco, ¡y caerá a tus pies convertido en un cuerpo sin alma!\\E$"}

@@ -506,7 +506,7 @@ section h1 + .saltopagina:after {
 .saltopagina.even:after {
   left: auto;
   right: 10px;
-  clip-path: polygon(33% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 33%);
+  /*clip-path: polygon(33% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 33%);*/
 }
 
 /* ----------- Indice -------------------- */

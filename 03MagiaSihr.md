@@ -40,7 +40,7 @@ Un combate o curar a tus aliados son interrupciones graves, levantarte de tu alc
 
 Toda mejora de poderes mágicos implica gastar avances y la lectura de un grimorio al que le queden Niveles de Poder (NP).
 
-Cada vez que lees un grimorio y usas [esa lectura](#anchorleergrimorios) para subir tu habilidad Saber de Suleimán o para aprender alguna ventaja mágica, el grimorio pierde un NP para ti, hasta que llega a cero y ya no puedes aprender más cosas de él.
+Cada vez que lees un grimorio y usas esa lectura para subir tu habilidad Saber de Suleimán o para aprender alguna ventaja mágica, el grimorio pierde un NP para ti, hasta que llega a cero y ya no puedes aprender más cosas de él.
 
 Que para ti tenga NP 0 no quiere decir que otras personas no puedan aprender magia de él, ya que para esa persona el NP estará al máximo. Puedes:
 
@@ -494,6 +494,8 @@ _Poder:_ Castigo
 
 El o la conjuradora afila su arma contra un objeto duro y adquiere un filo brillante y capaz de hacer mucho más daño del normal. En armas contundentes, estas crecen de tamaño o adquieren pinchos o puntas.
 
+\sp
+
 ### Babuchas de agua
 
 _Poder:_ Caminar sobre las aguas
@@ -530,6 +532,8 @@ _Poder:_ Abrir puertas
 > 
 > **Referencia:** Historia del joven encantado y de los peces (n. 7)
 
+\sp
+
 Sabiendo el auténtico nombre de los umbrales, ninguna puerta se te resiste.
 
 ### Círculo de detección
@@ -562,7 +566,9 @@ _Poder:_ Proyectil
 
 Invocas una gota de diamante líquido que incinera el objetivo que toca.
 
-### Dominio del agua/fuego/tierra/viento
+\sp
+
+### Dominio del agua, fuego,tierra, viento
 
 _Poder:_ Manipulación elemental
 
@@ -590,7 +596,11 @@ _Poder:_ Destierro
 > 
 > **Referencia:** Historia del pescador y el efrit (n. 4)
 
-Abriendo una botella, tinaja o cualquier otro tipo de recipiente con tapa y apuntándola al objetivo, podemos ordenarle que entre dentro. El objetivo se convierte en humo que entra en el recipiente. El hechizo se termina al cerrar la botella con su tapón o tapa. El ser desterrado volverá a discreción de Scheherazade o si se abre la botella.
+Abriendo una botella, tinaja o cualquier otro tipo de recipiente con tapa y apuntándola al objetivo, podemos ordenarle que entre dentro. El objetivo se convierte en humo que entra en el recipiente. 
+
+\sp
+
+El hechizo se termina al cerrar la botella con su tapón o tapa. El ser desterrado volverá a discreción de Scheherazade o si se abre la botella.
 
 ### Geomancia
 
@@ -611,6 +621,8 @@ _Poder:_ Adivinación
 > **Referencia:** Fábulas del asno, el buey y el labrador (n. 764)
 
 Mirando fijamente a los ojos del animal o ave con la que se quiere hablar se crea un vínculo mental y puedes empezar a rugir, piar, mugir, etc. como forma de comunicarte con ese ser.
+
+\sp
 
 ### Hincharse
 
@@ -638,6 +650,8 @@ _Poder:_ Manipulación de recuerdos
 
 > Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: "Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infringiré mañana".
 
+\sp
+
 Imponiendo tus manos, que toman un brillo verdusco, sobre la cabeza (o donde este su cerebro o similar) puedes crear, modificar o borrar recuerdos de tu víctima.
 
 ### Interpretar sueños
@@ -662,13 +676,17 @@ La ventaja del nasnas es que es más poderoso y obtenemos 2 nasnas por cadáver,
 
 ### Luces deslumbrantes
 
-[![Will-o’-the-Wisp (detail), 1888 - Lev Lerch](./images/luz.jpg)](https://en.wikipedia.org/wiki/Leo_Lerch "Will-o’-the-Wisp (detail), 1888 - Lev Lerch") 
-
 _Poder:_ Ceguera
 
 > Cuando intento acercarse dispuesto a acabar con la existencia de la yinn, esta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.
 
-La persona que lanza el hechizo empieza a emitir una luz muy potente durante unos instantes que deslumbra al objetivo. No se puede usar para iluminar una zona, ya que los destellos no duran ni segundos, pero un schahriar avispado puede usarlo para hacer señales.
+La persona que lanza el hechizo empieza a emitir una luz muy potente durante unos instantes que deslumbra al objetivo. 
+
+\sp
+
+[![Will-o’-the-Wisp (detail), 1888 - Lev Lerch](./images/luz.jpg)](https://en.wikipedia.org/wiki/Leo_Lerch "Will-o’-the-Wisp (detail), 1888 - Lev Lerch") 
+
+No se puede usar para iluminar una zona, ya que los destellos no duran ni segundos, pero un schahriar avispado puede usarlo para hacer señales.
 
 ### Montura yinn
 
@@ -692,6 +710,8 @@ _Poder:_ Captura
 > **Referencia:** Historia de los artificios de Dalila la taimada y de su hija Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 462)
 
 Lanzando una piedra u otro material de construcción a tu objetivo, se crea alrededor de él un muro que lo inmoviliza. Este muro no da ningún tipo de protección o cobertura al que se encuentra dentro de la estructura.
+
+\sp
 
 ### Pedorrera
 
@@ -721,14 +741,16 @@ _Poder:_ Curación
 
 Con una serie de extractos de plantas se pueden obrar milagros médicos que van desde sanar simples rasguños a regenerar miembros perdidos. Las cantidades y proporciones de las plantas deben ser muy precisas o podrían tener el efecto contrario.
 
-[![Summoning is Complete by MuratCALIS](./images/invocacion.jpg)](https://www.deviantart.com/muratcalis/art/Summoning-is-Complete-601771717 "Summoning is Complete by MuratCALIS") 
-
 ### Pelo de gigante
 
 _Poder:_ Gigantismo
 
 > Aquello, sabe el creador, era una tarea que solo un gigante entre gigantes sería capaz de hacer. Así que desató su atillo de cuero de camello y cogió uno de los pelos de gigante y se ató a su barba. Inmediatamente empezó a crecer y crecer y crecer hasta golpear con el techo de la sala.  
 > Ahora podría retirar la pesada losa que cerraba la salida con la facilidad que un adamita retira una cortina.
+
+\sp
+
+[![Summoning is Complete by MuratCALIS](./images/invocacion.jpg)](https://www.deviantart.com/muratcalis/art/Summoning-is-Complete-601771717 "Summoning is Complete by MuratCALIS") 
 
 Los pelos de gigante tienen muchos usos como cuerdas o componentes mágicos, pero colocándolo como si fuera una barba o un bigote te permite convertirte en uno de ellos.
 
@@ -749,6 +771,8 @@ _Poder:_ Sueño
 > Y Sett Budur le puso la cabeza en la curva de sus brazos, se la apoyó contra el pecho, y a media voz le cantó versos de un ritmo tan propio para mecer, que la joven durmióse a poco con una sonrisa de dicha en los labios.
 > 
 > **Referencia:** Historia de Kamaralzaman y la princesa Budur, la luna más bella entre todas las lunas (n. 210)
+
+\sp
 
 Cantando una sencilla canción de tono relajante, la víctima del hechizo cae dormida.
 
@@ -812,10 +836,10 @@ El lanzamiento de una maldición empieza con el lanzamiento del hechizo de un no
 
 * Las maldiciones solo pueden usarse contra comodines y no importa su tamaño, pero exige un PP por cada dos niveles superior. Podrías petrificar un Falak (tamaño 30)con un coste de 24 PP (10 + 14 del tamaño).
 * Un practicante de magia solo puede lanzar una vez una maldición a una víctima en concreto y no puede hacerse en un combate o en situaciones no estresantes como escapar de un incendio o escalar un acantilado. Normalmente se debería lanzar a objetivos indefensos derrotados, por ejemplo, meter en una botella a una poderosa hechicera serpigente tras derrotarla y lanzar el recipiente al mar.
+* Para lanzar una maldición es necesario que las personas implicadas, el lanzador de la maldición y el maldecido, estén el mismo espacio, ya que se necesita una interacción física entre ellas. Por ejemplo, es muy normal en las maldiciones de transformaciones en animal que se lance agua al objetivo de la maldición.
 
 \sp
 
-* Para lanzar una maldición es necesario que las personas implicadas, el lanzador de la maldición y el maldecido, estén el mismo espacio, ya que se necesita una interacción física entre ellas. Por ejemplo, es muy normal en las maldiciones de transformaciones en animal que se lance agua al objetivo de la maldición.
 * Lanzar una maldición es una tirada enfrentada entre Saber de Suleimán y el atributo especificado en cada maldición.
 * Lanzar una maldición gasta tantos PP como marca cada maldición. Además, una maldición exitosa consume un PP del lanzador de forma permanente que no recupera hasta que la maldición sea revertida.
 * Si el hechizo sale correctamente, tanto la persona que lanza el hechizo como la que lo recibe tendrán que pasar una TPC igual a la tirada de Saber de Suleimán que se hizo al lanzar la maldición. Una maldición afecta tanto a la cordura del mago o maga como de la víctima. Y cuanto mayor sea el efecto, más difícil será evitar sus efectos en la cordura.
@@ -827,13 +851,15 @@ Para deshacer una maldición hay dos opciones, cumplir la condición para romper
 
 Para lanzar una contra-maldición hay que lanzar la misma maldición con las mismas condiciones (PP, modificaciones, etc.) e igualar o superar la tirada que saco el maldecidor al lanzarla. Si se consigue la tirada, la maldición se rompe. Hay que tener en cuenta que no hay TPCs ni se consume un PP permanentemente.
 
-\sp
-
 La opción de deshacer una maldición cumpliendo una condición queda a discreción de Scheherazade y normalmente cumplir esa condición es una buena semilla de relato.
 
 #### Modificadores
 
-**Seguidores y súbditos (+2):** Las maldiciones pueden afectar a los seguidores y súbditos de la víctima no comodines. Es decir, que una maldición de sueño puede afectar al Califa y a todos sus súbditos, sumiendo a Bagdad en un sueño eterno. Los seguidores y súbditos caen víctimas de la maldición automáticamente, a no ser que estén en situaciones estresantes como combates en cuyo caso tienen derecho a tirada opuesta.
+**Seguidores y súbditos (+2):** Las maldiciones pueden afectar a los seguidores y súbditos de la víctima no comodines. Es decir, que una maldición de sueño puede afectar al Califa y a todos sus súbditos, sumiendo a Bagdad en un sueño eterno. 
+
+\sp
+
+Los seguidores y súbditos caen víctimas de la maldición automáticamente, a no ser que estén en situaciones estresantes como combates en cuyo caso tienen derecho a tirada opuesta.
 
 ### Maldiciones más conocidas
 
@@ -843,8 +869,6 @@ En este listado tendrás una mezcla de maldiciones de las 1001 Noches con un toq
 
 * **Resistencia:** VIG
 * **Puntos de poder:** 6
-
-\sc
 
 > Entonces el derviche se puso muy pálido y su rostro tomó un aire de dureza que no conocía yo en él, y me dijo: "Te vuelves ciego con tus propias manos". Y tomó un poco de pomada y me la aplicó alrededor del ojo derecho y en el párpado derecho. Y ya no vi más que tinieblas con mis dos ojos, y me convertí en el ciego que ves, ¡oh Emir de los Creyentes!
 > 
@@ -859,27 +883,19 @@ La víctima quedará completamente ciega hasta que se retire la maldición. Obte
 
 Esta maldición es una forma permanente del hechizo Destierro. 
 
-\sp
-
-\sinc
-
 > Al oírle, el efrit intentó salir, pero no pudo, y vio que estaba encarcelado y tenía encima el sello de Suleimán, convenciéndose entonces de que el pescador le había encerrado en un calabozo contra el cual no pueden prevalecer ni los más débiles ni los más fuertes de los efrits. Y comprendiendo que el pescador le llevaría hacia el mar, suplicó: «¡No me lleves! ¡No me lleves!» Y el pescador dijo: «No hay remedio». Entonces, dulcificando su lenguaje, exclamó el efrit: «¡Ah pescador! ¿Qué vas a hacer conmigo?» El otro dijo: «Echarte al mar, que si has estado en él mil ochocientos años, no saldrás esta vez hasta el día del Juicio. ¿No te rogué yo que me dejaras la vida para que Alah la conservase a ti y no me mataras para que Alah no te matase? Obrando infamemente, rechazaste mi plegaria. Por eso Alah te ha puesto en mis manos, y no me remuerde el haberte engañado». Entonces dijo el efrit: «Ábreme el jarrón y te colmaré de beneficios». El pescador respondió: «Mientes, ¡oh maldito! …
 > 
 > **Referencia:** Historia del pescador y el efrit (n. 4)
 
-&nbsp;
-
-\conc
-
 La víctima se convierte en humo que se mete en la botella y queda encerrado en una especie de dimensión de bolsillo que simula algún tipo de ambiente o sala con cojines, camas, etc.
+
+\sp
 
 Mientras la víctima esté encerrada, no necesita, ni comer, ni beber, ni respirar y es inmune a la edad, enfermedades, etc. Pero no puede interactuar con la realidad de ninguna manera es como si no existiera.
 
 La condición normalmente es tan sencilla como quitar el tapón de la botella, lo difícil es encontrar la botella porque está en el fondo del mar o en algún lugar mágico y perdido lleno de trampas.
 
 Algún schahriar inteligente podría meter a una persona con una enfermedad terminal en una botella esperando encontrar un remedio y sacarla cuando pueda curarla. Como Scheherazade está en tu mano permitirlo o no.
-
-\sp
 
 #### Enfermedad
 
@@ -902,6 +918,8 @@ Normalmente la condición para retirar la maldición debería ser algún tipo de
 * **Resistencia:** ESP
 * **Puntos de poder:** 6
 
+\sp
+
 > En tanto que caían en aquel estado mis amigos, los hombres desnudos llevaron un tazón lleno de cierta pomada con la que untaron todo el cuerpo a mis compañeros, resultando asombroso el efecto que hubo de producirles en el vientre. Porque vi que se les dilataba poco a poco en todos sentidos hasta quedar más gordos que un pellejo inflado. Y su apetito aumentó proporcionalmente, y continuaron comiendo sin tregua, mientras yo les miraba asustado al ver que no se llenaba su vientre nunca.  
 > Por lo que a mí respecta, persistí en no tocar aquellos manjares, y me negué a que me untaran con la pomada al ver el efecto que produjo en mis compañeros. Y en verdad que mi sobriedad fue provechosa, porque averigüé que aquellos hombres desnudos comían carne humana, y empleaban diversos medios para cebar a los hombres que caían entre sus manos y hacer de tal suerte más tierna y más jugosa su carne. En cuanto al rey de estos antropófagos, descubrí que era ogro. Todos los días le servían asado un hombre cebado por aquel método; a los demás no les gustaba el asado y comían la carne humana al natural, sin ningún aderezo.
 > 
@@ -922,7 +940,11 @@ Esta maldición se refleja en un Hábito (Mayor) que obliga al schahriar a consu
 > 
 > **Referencia:** Historia del joven encantado y de los peces (n. 8)
 
-La víctima de la maldición es convertido en piedra total o parcialmente, de forma que está inmovilizada e indefensa. A discreción del lanzador puede estar consciente de todo lo que pasa y puede comunicarse con el exterior de alguna forma, por ejemplo, pudiendo mover la boca y hablar, mover los ojos, etc. La otra opción es que sean cachos de piedra inertes que ni sienten ni padecen.
+La víctima de la maldición es convertido en piedra total o parcialmente, de forma que está inmovilizada e indefensa. A discreción del lanzador puede estar consciente de todo lo que pasa y puede comunicarse con el exterior de alguna forma, por ejemplo, pudiendo mover la boca y hablar, mover los ojos, etc. 
+
+\sp
+
+La otra opción es que sean cachos de piedra inertes que ni sienten ni padecen.
 
 Mientras la víctima esté petrificada no necesita, ni comer, ni beber, ni respirar y es inmune a la edad, enfermedades, etc. La piedra tiene la dureza del material que el lanzador eligió desde cristal a mármol o granito.
 
@@ -946,6 +968,8 @@ La petrificación puede tener otras versiones, más bíblicas, como estatuas de 
 Una variación de la petrificación es el sueño eterno. En el relato que habla de la Ciudad de Bronce, todos los habitantes de la ciudad están congelados en el tiempo y la hija del rey está dormida en sus aposentos como la bella durmiente.
 
 La víctima de la maldición se sume en un profundo sueño que está inmovilizada e indefensa. Una persona que sepa el hechizo Interpretar sueños podría intentar comunicarse con la víctima y hacerle preguntas.
+
+\sp
 
 Mientras la víctima esté dormida, no necesita, ni comer, ni beber, ni respirar y es inmune a la edad, enfermedades, etc.
 
@@ -1104,7 +1128,7 @@ Puede encontrarse en un único tomo con NP 8 o en tomos separados con NP 1 por s
 
 **Idioma:** Árabe, griego clásico
 
-Kitab an-nawamis es la traducción al árabe, atribuida a [Hunayn ibn Ishaq](#anchorhunayn-ibn-ishaq) de un texto helenístico que habría escrito Platón, el Liber Aneguemis.
+Kitab an-nawamis es la traducción al árabe, atribuida a Hunayn ibn Ishaq de un texto helenístico que habría escrito Platón, el Liber Aneguemis.
 
 \sp
 

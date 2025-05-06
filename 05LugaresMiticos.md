@@ -284,7 +284,6 @@ Los abu-qith con sus posesiones a través del tiempo tienen que dejar la mente d
 
 La idea era colocar una diadema mágica al cuerpo del abu-qith con la mente humana y mientras el cuerpo apenas sufría deterioro, la mete vivía en ese hammam de las delicias. El problema es que las mentes se deterioraban bastante rápidamente y al final no llegaron a usarlos.
 
-
 \sp
 
 \sinc
@@ -503,7 +502,7 @@ Recuerda que el poder Zombi solo dura una hora y animar un falak muerto supone u
 
 ### Peligros de su interior
 
-Al entrar en la ["cueva"](#anchorcuevamaravillas) nos vamos a enfrentar a tres peligros principales, los jugos gástricos del falak, las explosiones de metano que genera el cadáver y la estructura de la propia cueva (el estómago del falak) que tiene simas y precipicios insondables.
+Al entrar en la «cueva» nos vamos a enfrentar a tres peligros principales, los jugos gástricos del falak, las explosiones de metano que genera el cadáver y la estructura de la propia cueva (el estómago del falak) que tiene simas y precipicios insondables.
 
 El interior apesta terriblemente, lo que exige una tirada de Vigor para aguantar la horrible peste a muerte. Si se falla, se obtiene un nivel de fatiga que dura hasta salir de la "cueva". Usar pañuelos empanados con perfumes y aceites olorosos puede ayudar, ofreciendo un +2 a la tirada de Vigor.
 

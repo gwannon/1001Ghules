@@ -86,7 +86,7 @@ La mayoría de sus escapadas suelen empezar con tremendas borracheras y suelen a
 
 Si hay algo destacable en su persona es su increíble suerte. Tal es su suerte que ha evitado varios intentos de asesinato y que, a pesar de sus imprudencias, haberse librado de terribles accidentes.
 
-Harún siempre va acompañado de su portaalfanje o guardaespaldas personal, Massrur ([Guardia de palacio](#anchorsoldado) comodín con ventaja Grande). Massrur también hace las veces de verdugo del Califa y la verdad que tiene bastante trabajo.
+Harún siempre va acompañado de su portaalfanje o guardaespaldas personal, Massrur (Guardia de palacio comodín con ventaja Grande). Massrur también hace las veces de verdugo del Califa y la verdad que tiene bastante trabajo.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d4, Vigor d6
 * **Habilidades:** Atletismo d6, Cabalgar d8, Ciencias d4, Conocimientos Generales d4, Idioma materno d6, Humanidades d6, Interpretar d4, Notar d4, Pelear d6, Persuadir d4, Saber de Suleimán d4, Sigilo d4
@@ -142,7 +142,7 @@ Sett, a diferencia de lo que pudiera pensarse, se lleva muy bien con las concubi
 > /p/ Miro sus manos y solo encontró unas pinzas de cangrejo del Mar Rojo y mirando su cuerpo solo vio una especie de caracola gigantesca como las que los pescadores de Basora recogen en las playas. Su fe budista ya le había preparado para el ciclo eterno del karma y la reencarnación, pero aquello superaba lo que su cordura podía resistir. Su mirada se nubló y luego nada …  
 > /p/ Cuando el sentido volvió a su cuerpo, a su lado estaban dos seres como él que según Alhazred eran yinns de la tribu de abu-qiths. Y ahora era parte de la tribu y o mejor todos sus conocimientos eran también suyos.
 
-Giafar es el principal personaje de esta ambientación. Es el personaje alrededor del que gira gran parte de las tramas y aventuras ambientadas que suceden Bagdad. Está lleno de [secretos](#anchorsecretosgiafar) y es un excepcional mago con poderes sin parangón. Pocas personas pueden compararse con él y, aun así, será incapaz de escapar al terrible destino que se cierne sobre él.
+Giafar es el principal personaje de esta ambientación. Es el personaje alrededor del que gira gran parte de las tramas y aventuras ambientadas que suceden Bagdad. Está lleno de secretos y es un excepcional mago con poderes sin parangón. Pocas personas pueden compararse con él y, aun así, será incapaz de escapar al terrible destino que se cierne sobre él.
 
 Giafar es un barmáquidas (por eso se le llama Giafar al-Barmak). Esta familia persa es originaria de Afganistán, exactamente son descendientes del gran sacerdote budista Barmak del monasterio de Nawbahar.
 
@@ -484,7 +484,6 @@ No es un gran conocedor de lo extraño, pero ha oído cosas y ha visto cosas bas
 \sinc
 
 ## Abu-Nowas, poeta del califa y el mayor juerguista de Bagdad ☾
-
 
 > El eunuco se personó en la casa de Abu-Nowas, y como no le encontró allí, salió en su busca por todos los lugares públicos de Bagdad, y le encontró al fin en cierta mal afamada taberna, a lo último del barrio de la Puerta Verde. Se acercó a él y le dijo: "¡Oh Abu-Nowas, por ti pregunta nuestro amo el califa!"  
 > Abu-Nowas se echó a reír, y contestó: "¿Cómo quieres, ¡oh padre de blancuras! que me mueva de aquí, si me retiene como rehén un jovencito amigo mío?" El eunuco preguntó: "¿Dónde está y quién es?" Y le contestó el otro: "Es menudo, imberbe y lindo. ¡Le prometí un regalo de mil dracmas, pero como no tengo encima esa cantidad, no me parece decente irme antes de satisfacer mi deuda!"

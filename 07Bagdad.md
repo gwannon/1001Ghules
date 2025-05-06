@@ -12,7 +12,6 @@ Bagdad es una ciudad relativamente joven, fue fundada en el 762 por Al-Mansur, e
 
 En el año 758, Mansur reunió ingenieros, agrimensores y artistas de todo el mundo para elaborar planes para la ciudad. Más de 100.000 trabajadores participaron en la construcción, que comenzó el 23 de julio del año 762 d.C. Siguiendo esos planes, se creó en la orilla oeste del Tigris lo que ahora se conoce como la Ciudad Circular, una ciudad circular completamente amurallada.
 
-
 [![Map of the Abbasid Caliphate at its greatest extent, c. 850. (Partially based on Atlas of World History (2007)](./images/abasi.png)](https://commons.wikimedia.org/wiki/File:Abbasids850.png "Map of the Abbasid Caliphate at its greatest extent, c. 850. (Partially based on Atlas of World History (2007)") 
 
 La ciudad fue creciendo, debido a su capitalidad, su importancia en las rutas comerciales del Tigris y a que tenía agua y tierras fértiles alrededor. Se extendió primero alrededor de la Ciudad Circular, formando la zona que conocemos con Karkh y, más tarde, en la orilla este, formando Al Rusafa.
@@ -52,7 +51,6 @@ Bagdad posee un clima subtropical muy caluroso y árido, de hecho, es una de las
 Durante el día pueden alcanzarse hasta los 50 °C a la sombra y por la noche bajar hasta los 20 °C. La humedad es muy baja y frecuentemente sufren tormentas de polvo veraniegas venidas del desierto.
 
 Durante el invierno las temperaturas se suavizan notablemente, con máximas de 25 ºC, pero las mínimas pueden caer hasta los -5 °C. Es durante el invierno cuando se dan la mayoría de las precipitaciones anuales.
-
 
 \sp
 
@@ -491,11 +489,7 @@ Una costumbre curiosa es predecir tu buena fortuna pidiendo a un pescador que la
 
 Si la red sale vacía te espera alguna desgracia. Los comerciantes antes de partir con las caravanas o de hacer grandes negocios suelen cumplir este ritual.
 
-
-
 > /s/ **Recompensa de deseos:** Por unas pocas monedas un pescador tirará la red en tu nombre. Tira unos dados detrás de la pantalla y si quieres dales unos deseos a tus schahriars.
-
-\sc
 
 \sp
 
@@ -1005,6 +999,5 @@ Giafar lleva años realizando diferentes proyectos urbanísticos con la ayuda de
 
 * Los monstruos que el visir trae a la casa de fieras son una forma de que la gente conozca y sepa como enfrentarse a los yinns y otros monstruos que acechan Bagdad. Es una forma de dar a conocer, su forma, sus poderes y sus debilidades.
 * Todo el asfaltado de la ciudad es una forma de crear un gran símbolo de protección de Suleimán para proteger toda la ciudad. Además de las ventajas en movilidad urbana que supone asfaltar las calles el visir, está creando un símbolo arcano asfaltando unas u otras calles y mezclando polvo de plata con el asfalto. En caso de necesidad podría lanzarse algún tipo de hechizo protección en toda la ciudad, canalizando el poder a través del símbolo de asfalto y plata.
-
 
 La califesa, no conoce exactamente que hay detrás de estas mejoras, pero sabe a ciencia cierta que Giafar es de fiar y son algo bueno para la ciudad. Así que simplemente da su apoyo a Giafar cuando el califa no quiere llevarlas a cabo.

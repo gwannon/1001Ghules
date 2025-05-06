@@ -111,7 +111,6 @@ foreach ($json as $item) {
 }
 $html = str_replace("|INDICE|", $indice, $html);
 
-
 $html = preg_replace_callback("/<p>\|([a-zA-Z0-9]*)\.html\|<\/p>/", function($matches) {
   $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".html"); 
   return $matches[0];

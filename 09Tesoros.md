@@ -340,7 +340,7 @@ Estos 3 anillos seguirían las mismas reglas generales que la Lámpara Mágica (
 
 Otro anillo terriblemente poderoso es el anillo mágico de Suleimán, que dicen portaba Adam en jardín del Edén. Este anillo terminó heredándolo el poderoso rey-mago Suleimán con el que fue enterrado en una cripta de la isla de los Siete Mares.
 
-La cripta de Suleimán, donde está el cuerpo preservado del Suleimán con el anillo en el índice de una mano y un cetro de oro y rubíes en la otra, está protegida por poderosas trampas mágicas que exigen una serie de ensalmos para desactivarlas. En la sección de la [isla de los Siete Mares](#anchorisla7mares) tienes una explicación de como es la cripta y las trampas que hay en ella.
+La cripta de Suleimán, donde está el cuerpo preservado del Suleimán con el anillo en el índice de una mano y un cetro de oro y rubíes en la otra, está protegida por poderosas trampas mágicas que exigen una serie de ensalmos para desactivarlas. En la sección de la isla de los Siete Mares tienes una explicación de como es la cripta y las trampas que hay en ella.
 
 En la Historia de Belukia, que es el cuento donde sale este anillo, no se especifica sus poderes, pero teniendo en cuenta que el anillo viene del mismo Adam y lo tuvo el poderoso rey Suleimán, podría hacer cualquier cosa.
 
@@ -447,12 +447,12 @@ Las estatuas ecuestres son objetos de gran poder en las 1001 Noches. Sus orígen
 
 Las 3 estatuas son:
 
-* La [estatua ecuestre](#anchorecuestreiman) de la montaña del Imán. Este jinete tiene un gran poder electromagnético que convierte la montaña donde está en un gigantesco imán que atrae todo elemento metálico de los barcos que se le acercan y hace que se hundan. No se sabe muy bien su función, ya que puede ser usado ofensivamente destruyendo a los enemigos o como una herramienta de extracción de metales, incluso una cárcel para algún primigenio magnético.
+* **La estatua ecuestre de la montaña del Imán.** Este jinete tiene un gran poder electromagnético que convierte la montaña donde está en un gigantesco imán que atrae todo elemento metálico de los barcos que se le acercan y hace que se hundan. No se sabe muy bien su función, ya que puede ser usado ofensivamente destruyendo a los enemigos o como una herramienta de extracción de metales, incluso una cárcel para algún primigenio magnético.
 
 \sp
 
-* La [estatua ecuestre](#anchorecuestrebagdad) de la cúpula verde del palacio de las maravillas de Bagdad. Este jinete avisa de los ejércitos enemigos que quieren atacar la ciudad. Fue creado por el propio Eibon de Mhu Thulan para proteger su torre de mago.
-* La [estatua ecuestre](#anchorecuestreciudadbronce) de la Ciudad de Bronce abre una especie de portal que permite llegar a la mítica Ciudad de Bronce. Esta estatua juega con la geometría euclidiana haciendo que para encontrar la ciudad de Bronce tengas que volver por el camino que has venido tras rodearla. Cuando parece que has dado un giro de 360º y estás volviendo por donde has venido, en realidad solo has girado 180º y continuas por la dirección por la que ibas. Cualquier otra combinación hará que te pierdas irremediablemente.
+* **La estatua ecuestre de la cúpula verde del palacio de las maravillas de Bagdad.** Este jinete avisa de los ejércitos enemigos que quieren atacar la ciudad. Fue creado por el propio Eibon de Mhu Thulan para proteger su torre de mago.
+* **La estatua ecuestre de la Ciudad de Bronce** abre una especie de portal que permite llegar a la mítica Ciudad de Bronce. Esta estatua juega con la geometría euclidiana haciendo que para encontrar la ciudad de Bronce tengas que volver por el camino que has venido tras rodearla. Cuando parece que has dado un giro de 360º y estás volviendo por donde has venido, en realidad solo has girado 180º y continuas por la dirección por la que ibas. Cualquier otra combinación hará que te pierdas irremediablemente.
 
 \sinc
 
@@ -737,7 +737,7 @@ Dalila y Adil, si consigues una forma de que puedan comunicarse (oír y hablar) 
 
 ##### Miknas
 
-Hace miles de años las tierras que ocupa [Miknas](#anchormiknas) fueron un asentamiento científico avanzado de la serpigente. En la zona había laboratorios de genética, de teletransporte y una nueva tecnología holográfica. Cuando la serpigente perdió Mu y entro en decadencia, estas instalaciones se abandonaron y se perdieron en el tiempo.
+Hace miles de años las tierras que ocupa Miknas fueron un asentamiento científico avanzado de la serpigente. En la zona había laboratorios de genética, de teletransporte y una nueva tecnología holográfica. Cuando la serpigente perdió Mu y entro en decadencia, estas instalaciones se abandonaron y se perdieron en el tiempo.
 
 Por suerte, Al-Schamardal conocía estas instalaciones gracias a sus miles de años de vida y decidió aprovecharlos en su beneficio para construir su futura morada tras su muerte.
 
@@ -759,7 +759,7 @@ Más allá de la última estancia hay una sala de control que Al-Schamardal ocul
 
 ##### La puerta de oro bajo el río
 
-> …Sabe ¡oh Juder! que en cuanto yo me ponga a recitar las fórmulas mágicas sobre el incienso humeante, el agua del río empezará a disminuir poco a poco, y el río acabará por secarse completamente y dejar su lecho al descubierto. Entonces verás que en la pendiente del cauce seco se te aparece una gran puerta de oro, tan alta como la puerta de la ciudad, con dos aldabas del mismo metal. Dirígete a esa puerta y golpéala muy ligeramente con una de las aldabas que tiene en cada hoja, y espera un instante. Llama luego con un segundo aldabonazo más fuerte que el primero, ¡y espera todavía! Después llamarás con un tercer aldabonazo más fuerte que los otros dos, y no te muevas ya. Y cuando hayas llamado así con tres aldabonazos consecutivos, oirás gritar a alguien desde dentro: «¿Quién llama a la puerta de los Tesoros sin saber romper los encantos?» Tú contestarás: «¡Soy Juder el pescador, hijo de Omar, de El Cairo! Y se abrirá la puerta …
+> … Sabe ¡oh Juder! que en cuanto yo me ponga a recitar las fórmulas mágicas sobre el incienso humeante, el agua del río empezará a disminuir poco a poco, y el río acabará por secarse completamente y dejar su lecho al descubierto. Entonces verás que en la pendiente del cauce seco se te aparece una gran puerta de oro, tan alta como la puerta de la ciudad, con dos aldabas del mismo metal. Dirígete a esa puerta y golpéala muy ligeramente con una de las aldabas que tiene en cada hoja, y espera un instante. Llama luego con un segundo aldabonazo más fuerte que el primero, ¡y espera todavía! Después llamarás con un tercer aldabonazo más fuerte que los otros dos, y no te muevas ya. Y cuando hayas llamado así con tres aldabonazos consecutivos, oirás gritar a alguien desde dentro: «¿Quién llama a la puerta de los Tesoros sin saber romper los encantos?» Tú contestarás: «¡Soy Juder el pescador, hijo de Omar, de El Cairo! Y se abrirá la puerta …»
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -838,7 +838,7 @@ Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra In
 ##### 7ª puerta
 
 > "Llegarás a la séptima puerta, por último, y llamarás en ella. ¡Y la persona que ha de abrirte y aparecerte en el umbral, será tu madre! Y te dirá: «¡Bienvenido seas, hijo mío! ¡Acércate a mí para que te desee la paz!» Pero le contestarás: «¡Sigue donde estabas! ¡Y desnúdate!»  
-> Ella te dirá: «¡Oh hijo mío, soy tu madre! ¡Y me debes alguna gratitud y respeto, en gracia a que te amamanté y a la educación que te di ¿Cómo quieres obligarme a que me ponga desnuda?» Tú le contestarás, gritando: «¡Si no te quitas la ropa, te mato!» Y cogerás un alfanje que hallarás colgado en la pared, a la derecha, y le dirás: «¡Empieza pronto!» Y ella procurará conmoverte y hará para engañarte, para que te apiades de ella. Pero guárdate de dejarte persuadir por sus ruegos, y cada vez que se quite una prenda de vestir, has de gritarle: «¡Quítate lo demás!» Y continuarás amenazándola con la muerte hasta que esté completamente desnuda. ¡Pero entonces verás que se desvanece y desaparece!
+> Ella te dirá: «¡Oh hijo mío, soy tu madre! ¡Y me debes alguna gratitud y respeto, en gracia a que te amamanté y a la educación que te di ¿Cómo quieres obligarme a que me ponga desnuda?»! Tú le contestarás, gritando: «¡Si no te quitas la ropa, te mato!» Y cogerás un alfanje que hallarás colgado en la pared, a la derecha, y le dirás: «¡Empieza pronto!» Y ella procurará conmoverte y hará para engañarte, para que te apiades de ella. Pero guárdate de dejarte persuadir por sus ruegos, y cada vez que se quite una prenda de vestir, has de gritarle: «¡Quítate lo demás!» Y continuarás amenazándola con la muerte hasta que esté completamente desnuda. ¡Pero entonces verás que se desvanece y desaparece!
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -930,7 +930,7 @@ Mientras que los tesoros míticos suponen campañas conseguirlos, todos estos te
 
 ### Agujas mágicas
 
-> Y he aquí que, apenas quedó clavado el último alfiler, la joven desposada se metamorfoseó repentinamente en tórtola con un pequeño moño en la cabeza. Y salió volando muy de prisa por la ventana del palacio. Porque los alfileres que sus hermanas le habían clavado en los cabellos eran alfileres mágicos,\[…\]  
+> Y he aquí que, apenas quedó clavado el último alfiler, la joven desposada se metamorfoseó repentinamente en tórtola con un pequeño moño en la cabeza. Y salió volando muy de prisa por la ventana del palacio. Porque los alfileres que sus hermanas le habían clavado en los cabellos eran alfileres mágicos, \[…\]  
 > Y la tórtola se echó a temblar entre sus manos y empezó a dar sacudidas, sin dejar de arrullar tristemente. Y él se puso a acariciarla con delicadeza, alisándole las plumas y rascándole la cabeza. Y he aquí que, al rascarle la cabeza, sintió bajo sus dedos unos pequeños objetos duros como cabezas de alfiler. Y los extrajo del moño delicadamente, uno tras otro. Y cuando él le hubo sacado el último alfiler, la tórtola dio una sacudida y de nuevo se tornó en joven.
 > 
 > **Referencia:** La pulsera de tobillo (n. 883)
@@ -1021,12 +1021,12 @@ Al romper el sello y abrirla, normalmente saldrá un humo negro del que se mater
 |4|**Cajita de azufre rojo:** Dentro de una cajita de madera bastante usada hay 1d6 dosis de azufre rojo.|
 |5|**Arma digna de un sultán:** Genera un arma cuerpo a cuerpo o a distancia al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.|
 |6|**Armadura digna de un sultán:** Genera una armadura al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.|
-|7|**Talega llena de dátiles amarillos y rojos:** Al disiparse el humo aparece un saquito de tela lleno de [dátiles rojos y amarillos](#anchordatiles).|
+|7|**Talega llena de dátiles amarillos y rojos:** Al disiparse el humo aparece un saquito de tela lleno de dátiles rojos y amarillos con propiedades mágicas.|
 |8|**Kohl de invisibilidad:** El humo toma forma de una cajita lapislázuli con kohl de invisibilidad en su interior.|
-|9|**Una mujer con vestiduras antiguas:** Empieza el cuento salvaje [La viajera del tiempo](#anchorviajeratiempo).|
+|9|**Una mujer con vestiduras antiguas:** Empieza el cuento salvaje La viajera del tiempo.|
 |10|**Cilindro cerebral de los al mighos:** Estos cilindros de metal verdusco con extrañas luces y una especie de tubo por donde salen sonidos tiene algo en su interior flotando en líquido.|
-|11|**Grimorio:** Al disiparse el humo aparece un grimorio de magia. Coge al azar uno de los que se presentan en la sección de [Grimorios y libros de hechizos](#anchorgrimorios) o puedes crear uno como Scheherazade.|
-|12|**Una docena de huevos:** Aparecen una docena de huevos y parecen de gallina. En realidad son huevos puestos por un gallo y si se encuban adecuadamente y eclosionan se convertirán en pollos cuya [curcusilla](#anchorcurcusilla) tiene propiedades mágicas.|
+|11|**Grimorio:** Al disiparse el humo aparece un grimorio de magia. Coge al azar uno de los que se presentan en la sección de Grimorios y libros de hechizos o puedes crear uno como Scheherazade.|
+|12|**Una docena de huevos:** Aparecen una docena de huevos y parecen de gallina. En realidad son huevos puestos por un gallo y si se encuban adecuadamente y eclosionan se convertirán en pollos cuya curcusilla tiene propiedades mágicas.|
 
 [![Silueta Decantador Vidrio Estaño por 27707](./images/botella-sellada.png)](https://pixabay.com/es/photos/decantador-vidrio-esta%C3%B1o-azul-942521/ "Decantador Vidrio Estaño por 27707") 
 

@@ -306,7 +306,7 @@ El lago Karún es un lago salino situado al oeste del río Nilo, a dos días al 
 
 Se dice que sus aguas son mágicas y solo los pescadores más desesperados tratan de pescar tilapias en ellas. Se cree que lo que saques con tus redes solo te traerá desgracias y si te zambulles en sus aguas seguramente acabes ahogado.
 
-Las leyendas cuenta, si no mienten, que en el fondo del lago hay dos carpas de colores que son dos príncipes efrits, hijos del rey rojo. Se dice que, si consigues atraparlos con tus propias manos, podrán encaminarte hacia el gran [tesoro de Al-Schamardal](#anchortesoroalschamardal).
+Las leyendas cuenta, si no mienten, que en el fondo del lago hay dos carpas de colores que son dos príncipes efrits, hijos del rey rojo. Se dice que, si consigues atraparlos con tus propias manos, podrán encaminarte hacia el gran tesoro de Al-Schamardal.
 
 ##### El secreto del lago Karún
 
@@ -364,7 +364,6 @@ Vende oxidados alfanjes mamelucos, descoloridas vasijas y platos del antiguo Egi
 
 La tienda tiene cierta maldición que hace que sus dueños no duren mucho y cada vez que vas lo lleva alguien distinto. Lo curioso es que siempre hay alguien que la hereda, la compra o la arrienda para seguir vendiendo sus antigüedades. Cada nuevo propietario la remodela y eso hace cada vez que pasas por El-Iskandaria y visitas la tienda hay nuevos productos.
 
-
 También puedes encontrar trabajos, no es raro que alguien busque un objeto en concreto y haya dejado aviso en la tienda de que compraría tal o cual objeto por una buena suma de dinero si lo alguien lo conseguía.
 
 ```
@@ -409,7 +408,7 @@ Asi como nada nuevo llega a Khaitán, nada sale de Khaitán. Sus gentes ven el e
 
 La mayoría de la población gentes profesan la religión islámica, pero en una forma pagana, mezclándola con las antiguas leyes, leyes preislámicas que incluyen la adoración de dioses ancestrales de Egipto. Por ejemplo, los rituales mortuorios siguen las leyes de la antigua religión como la momificación y adoran a dioses paganos como Ra, Anubis, Set, etc.
 
-El gran secreto que esconde Khaitán es que en uno de los campos que están a las afueras hay una losa de mármol enterrada que da acceso a unas criptas donde el poderoso y sabio rey Scheddad ben-Aad, dirigente de Aram-de-las-columnas, escondió un [fabuloso tesoro](#anchortesoroscheddad).
+El gran secreto que esconde Khaitán es que en uno de los campos que están a las afueras hay una losa de mármol enterrada que da acceso a unas criptas donde el poderoso y sabio rey Scheddad ben-Aad, dirigente de Aram-de-las-columnas, escondió un fabuloso tesoro.
 
 #### El río Nilo
 
@@ -436,7 +435,6 @@ Estamos hablando de poderosos magos que quieren acabar con los humanos lanzando 
 Tampoco sería de extrañar algún culto de adoradores de Set (un avatar de Yig), cuyo líder sea una serpigente con apariencia humana. Incluso puede que alguna de las islas perdidas que visiten tus schahriars pudieran ser los últimos vestigios a flote de la antigua Valusia.
 
 Los objetos de origen valusiano como la alfombra de piel de serpiente también pueden ser interesantes semillas de aventuras, tanto para buscarlos, como destruirlos debido a su terrible poder.
-
 
 \sp
 

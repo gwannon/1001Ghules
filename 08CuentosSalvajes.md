@@ -376,7 +376,6 @@ Giafar y la califesa querrán agradecer por salvar la ciudad y el califato a los
 
 Adicionalmente, el fondo de resistencia recibirá 5.000 dinares y Fátima entregará 200 a cada schahriar.
 
-
 > /s/ **Recompensa de cordura:** Si consiguen detener el plan de la Progenie y los al mighos y asistes a la feria del califa, recuperarán algo de su infancia perdida, esa que las calles de Bagdad les arrebataron. Devuelves todos los puntos de cordura perdida en la aventura y si no han perdido nada podrán quitarse un trastorno que hayan adquirido.
 
 > /s/ **Semilla de aventura:** El plan de la Progenie de la Luna ha sido frustrado, pero todavía queda acabar son sus miembros en Balaz Rud y los yinns malvados que los dirigen. Son muy peligrosos como para dejarlos escapar y que puedan volver a conspirar contra el Califa y la ciudad. Pero primero habrá que encontrar su guarida en la región de Balad Ruz.
@@ -809,7 +808,6 @@ Si consiguen exorcizar a Adif la casa volverá a la normalidad. Amila les espera
 Si acaban con el cuerpo, pero lo dejan sin exorcizar, Adif volverá a regenerarse en un par de semanas. Seguramente matará a los niños que ha metido Fátima en la casa.
 
 Si no hacen el trabajo y le mienten a Fátima, Fátima acabará muerta, ya que irá a la casa para habilitarla para los niños, pensando que la casa está libre de cheitans y la daga mágica la cortará el cuello.
-
 
 > /s/ **Recompensa de cordura (+1):** Si tus schahriars recogen todos los archivos de la Capilla, los estudia, los clasifica y los lleva a las autoridades, estos informarán a los familiares de las víctimas de los sacrificios humanos. En muchos casos se podrán recuperar los cadáveres de las víctimas y darles un entierro digno. Esto dará por fin un respiro a las familias y debes considerar que esto debería ayudar a la cordura de tu mesa.
 
@@ -2956,6 +2954,5 @@ Tendrán que buscar alguna forma de poder respirar bajo el agua mágica o cient�
 Si limpian el cráter, el color y su cría serán destruidos y poco a poco los restos desaparecerán. Pero las mutaciones que han provocado en la flora y fauna permanecerán. El coral de color especial seguirá creciendo y dando dinero al pueblo. Poco a poco la gente del pueblo recuperarán su cordura y estas últimas semanas serán como una extraña pesadilla.
 
 Si se van sin resolver el problem del color, el pueblo será arrasado por la gente del mar infectada. El color original una vez su cría sea adulta volverá a las estrellas mientras las crías infectarán nuevas zonas del mar.
-
 
 > /s/ **Recompensa de cordura (+1):** Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, gente del mar y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura.

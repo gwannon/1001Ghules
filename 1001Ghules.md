@@ -24,7 +24,7 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-01ElMundo.md ----OK
+01ElMundo.md|
 
 ***
 
@@ -32,43 +32,43 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-03MagiaSihr.md|
+03MagiaSihr.md ----FALTA REVISIÓN
 
 ***
 
-04Monstruos.md|
+04Monstruos.md ----DA ERROR
 
 ***
 
-05LugaresMiticos.md ----OK
+05LugaresMiticos.md|
 
 ***
 
-06GuiaViajes.md ----OK
+06GuiaViajes.md|
 
 ***
 
-07Bagdad.md ----OK
+07Bagdad.md|
 
 ***
 
-08CuentosSalvajes.md|
+|08CuentosSalvajes.md|
 
 ***
 
-09Tesoros.md| ----ERROR
+09Tesoros.md ----DA ERROR
 
 ***
 
-10Gentes.md ---OK
+10Gentes.md|
 
 ***
 
-11Recursos.md ----OK
+11Recursos.md|
 
 ***
 
-12Epilogo.md ----OK
+12Epilogo.md|
 
 ***
 

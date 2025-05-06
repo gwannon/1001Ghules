@@ -228,7 +228,7 @@ Construyeron la fabulosa ciudad de Aram-de-las-Columnas gracias a uno de sus gra
 > 
 > ¡Y voy a indicarte los medios para ello!" Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: "Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino.
 > 
-> **Referencia:** Historia del jinete detrás del cual tocaban salto indios y chinos (n. 867)
+> **Referencia:** Historia del jinete detrás del cual tocaban saltos indios y chinos (n. 867)
 
 &nbsp;
 
@@ -474,7 +474,7 @@ Se sabe de ciertos elementos que podrían contener parte de su esencia y podría
 
 \conc
 
-Bahamūt es un ser mitológico de inmenso poder y de tamaño gigantesco, que según diferentes versiones tiene forma de pez, de ballena, de hipopótamo. etc. Incluso las más locas y desquiciadas como la Alhazred que lo describe como un humanoide con cabeza de pulpo y alas membranosas y al que denomina Cthulhu.
+Bahamūt es un ser mitológico de inmenso poder y de tamaño gigantesco, que según diferentes versiones tiene forma de pez, de ballena, de hipopótamo, etc. Incluso las más locas y desquiciadas como la Alhazred que lo describe como un humanoide con cabeza de pulpo y alas membranosas y al que denomina Cthulhu.
 
 Bahamūt flota inconsciente sobre el mar de la Eternidad y sobre él reposa todo nuestro mundo. Si algún día despierta, el mundo será destruido. 
 
@@ -493,7 +493,6 @@ Es adorado por varias sectas por todo oriente próximo y es la deidad principal 
 #### El sueño de Bahamūt
 
 La mente durmiente de Bahamūt es tan poderosa que puede afectar al mundo de los sueños y es por ello que se cree que ha creado una versión de R’lyeh en la Tierra de los Sueños conocida como la Ciudad de Bronce. 
-
 
 La Ciudad de Bronce es una versión de R’lyeh adaptada a los sueños de los humanos (la especie dominante en este momento en la tierra), pero igual de maldita, donde todos sus habitantes están en una mezcla de sueño eterno y éxtasis temporal.
 
@@ -689,7 +688,6 @@ La mayoría de los miembros de la secta son gente de campo de Balad Ruz y foraji
 
 A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normalmente cuevas secretas donde reunirse lejos de miradas indiscretas con sus señores al mighos y donde invocar a su diosa Astarte. Además, esas cuevas secretas son perfectas para entrar en contacto con los Vástagos de Astarte.
 
-
 * Carnicería del zoco de alimentación del arrabal de Karkh (Bagdad). Los rituales y sacrificios se realizan en su sótano. La carnicería es una tapadera para sus sangrientas actividades.
 
 #### Rituales
@@ -734,7 +732,7 @@ El fuego, como símbolo de Nardún, es el centro de este culto y está presente 
 
 ![Silueta](./images/llama-alada.png)
 
-Los miembros de esta secta son bastante anárquicos y solitarios y solo les une una serie de creencias, algunos rituales y ciertas celebraciones, pero por lo demás son bastante independientes. De normal, cada uno sigue su camino, pero cuando alguno consigue algo importante para el culto suele montar una celebración donde toman decisiones sobre que nuevos pasos deben dar como grupo.
+Los miembros de esta secta son bastante anárquicos y solitarios y solo les une una serie de creencias, algunos rituales y ciertas celebraciones, pero por lo demás son bastante independientes. De normal, cada uno sigue su camino, pero cuando alguno consigue algo importante para el culto suele montar una celebración donde toman decisiones sobre qué nuevos pasos deben dar como grupo.
 
 Aun así, pasan meses incluso años sin reunirse y tomar decisiones sobre los caminos que debe tomar el culto. Todo esto lo convierte en un culto en general poco peligroso, pero como consigan dar con objetos como la esfera celeste de Al-Schamardal, su capacidad de sembrar el caos y la destrucción en nombre de Nardún podría no tener límite.
 
@@ -767,7 +765,6 @@ Además, está equipada con todo tipo de objetos y componentes mágicos y provis
 
 Por último, un gran número de seguidores y seguidoras del Fuego y de la Luz se han establecido en el lago Karún, cerca del El Cario. Allí vigilan si alguien, siguiendo las leyendas, consigue las carpas mágicas que te dirán donde está el tesoro de Al-Schamardal, donde la secta cree que se guarda un objeto mágico de gran poder que contiene parte de la esencia de su divino Nardún.
 
-
 #### Rituales
 
 Como no podía ser de otra manera, todos los ritos de este culto sectario están relacionados con el fuego. Los principales rituales se dan en los solsticios y equinoccios en los que cuando el sol está en lo más alto se hacen todo tipo de ceremonias, pero principalmente sacrificios animales y humanos. 
@@ -788,7 +785,7 @@ Dentro de sus rituales suele haber invocaciones voluntarias o involuntarias de f
 
 #### Situación actual
 
-La organización en sí no es ni muy grande, ni muy poderosa, ni tiene grandes recursos, pero el fanatismo de sus miembros y el poder de [Bahram el Gauro](#anchorbahramgauro) compensan todo eso. Bahram se ha convertido en el hombre del saco de toda la zona. Su nombre no se pronuncia sin santiguarse y se usa para asustar a los niños y niñas.
+La organización en sí no es ni muy grande, ni muy poderosa, ni tiene grandes recursos, pero el fanatismo de sus miembros y el poder de Bahram el Gauro compensan todo eso. Bahram se ha convertido en el hombre del saco de toda la zona. Su nombre no se pronuncia sin santiguarse y se usa para asustar a los niños y niñas.
 
 Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conseguido suficiente poder para ser un contrincante muy peligroso. Si objetivo es encontrar la esfera celeste de Al-Schamardal, que cree que contiene parte de la esencia de su reverenciada deidad. Ha puesto al resto de la secta en su búsqueda y están empezando las primeras pistas de su localización.
 
@@ -1234,7 +1231,7 @@ Estos barrios tienen algún tipo de gobernante menor que toma las decisiones pri
 
 #### Bazares y zocos
 
-Los zocos y [bazares](#anchorgranbazar) son las zonas comerciales de las ciudades. Normalmente, los más importantes están localizados en la medina, pero cada barrio tiene como mínimo sus propios zocos de alimentación y enseres del día a día. Cosas más especializadas y caras como los orfebres igual solo están en el bazar principal.
+Los zocos y bazares son las zonas comerciales de las ciudades. Normalmente, los más importantes están localizados en la medina, pero cada barrio tiene como mínimo sus propios zocos de alimentación y enseres del día a día. Cosas más especializadas y caras como los orfebres igual solo están en el bazar principal.
 
 \sp
 
@@ -1299,7 +1296,7 @@ Cargos mayores como sultán/a o emir/esa pueden tener estancias especiales en el
 
 #### Maqbaras y rawdas
 
-> Entonces entró en el cementerio, y caminando por entre las tumbas llegó a la turbeh de su padre. Y se quitó la ropa que le cubría la cabeza, entró bajo la cúpula de la turbeh, y resolvió pasar allí la noche. \[…\] y le contestó: «Esta tarde, mientras estaba durmiendo, se me presentó mi difunto padre, y me ha reconvenido porque no visitaba su turbeh. De pronto me desperté, lleno de terror y remordimiento, y me vine aquí en seguida.
+> Entonces entró en el cementerio, y caminando por entre las tumbas llegó a la turbeh de su padre. Y se quitó la ropa que le cubría la cabeza, entró bajo la cúpula de la turbeh, y resolvió pasar allí la noche. \[…\] y le contestó: «Esta tarde, mientras estaba durmiendo, se me presentó mi difunto padre, y me ha reconvenido porque no visitaba su turbeh. De pronto me desperté, lleno de terror y remordimiento, y me vine aquí en seguida».
 > 
 > **Referencia:** Historia del visir Nureddin, de su hermano el visir Chamseddin y de Hassan Badreddin (n. 20)
 
@@ -1387,7 +1384,7 @@ Puede juzgar crímenes como robos menores o estafas, dirimir discusiones y probl
 
 Khan o caravasar es el nombre genérico para las posadas de los caminos. Están diseñados para albergar y dar reposo y alimento a los viajeros y a sus animales, y custodiar sus mercancías.
 
-Son [edificios rectangulares](#anchorkhan) con un patio vallado y una entrada única por la que podían entrar animales grandes y bastante cargados, como camellos. Alrededor del patio se encontraban establos, almacenes y cámaras para los huéspedes, sus sirvientes, sus animales y sus mercancías.
+Son edificios rectangulares con un patio vallado y una entrada única por la que podían entrar animales grandes y bastante cargados, como camellos. Alrededor del patio se encontraban establos, almacenes y cámaras para los huéspedes, sus sirvientes, sus animales y sus mercancías.
 
 Los khans proporcionaban agua para el consumo de gente y animales, así como para el aseo y las abluciones rituales. Algunas veces, tenían elaborados baños. Almacenaban forraje para los animales y a veces contaban con tiendas donde los huéspedes podían abastecerse, o incluso vender sus mercancías.
 
@@ -1406,7 +1403,7 @@ Aunque a priori lo pueda parecer, el desierto y todos sus peligros no son un ele
 ### Los peligros del mar
 
 > Pero apenas se había alejado el navío, se levantó viento contrario, que hizo desviarse a la nave de su ruta. Y la Providencia quiso que hubiera precisamente en tales parajes un gran navío lleno de guerreros cristianos de la isla de Kafur, en número de quinientos afrangí.  
-> Y todos estaban armados y forrados de hierro. Y solo aguardaban una ocasión como aquélla para lograr botín, pues desde hacía tiempo que andaban por el mar. De modo que en cuanto vieron el navío en que estaba Safía, lo abordaron, le echaron los garfios y se apoderaron de él. Después se dieron de nuevo a la vela llevándolo a remolque. Pero levantó una furiosa tempestad que los arrojó a nuestras costas, desamparados. Entonces se arrojaron sobre ellos nuestros hombres, mataron a los piratas, y se apoderaron a su vez de las sesenta jóvenes entre las cuales se encontraba Safía.
+> Y todos estaban armados y forrados de hierro. Y solo aguardaban una ocasión como aquella para lograr botín, pues desde hacía tiempo que andaban por el mar. De modo que en cuanto vieron el navío en que estaba Safía, lo abordaron, le echaron los garfios y se apoderaron de él. Después se dieron de nuevo a la vela llevándolo a remolque. Pero levantó una furiosa tempestad que los arrojó a nuestras costas, desamparados. Entonces se arrojaron sobre ellos nuestros hombres, mataron a los piratas, y se apoderaron a su vez de las sesenta jóvenes entre las cuales se encontraba Safía.
 > 
 > **Referencia:** Historia del rey Omar Al-Neman y de sus dos hijos Scharkan y Daul’Makan (n. 50)
 
