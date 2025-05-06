@@ -28,15 +28,15 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-02Reglas.md ----FALTA REVISIÓN
+02Reglas.md|
 
 ***
 
-03MagiaSihr.md ----FALTA REVISIÓN
+03MagiaSihr.md|
 
 ***
 
-04Monstruos.md ----DA ERROR
+04Monstruos.md - REVISAR
 
 ***
 
@@ -56,7 +56,7 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-09Tesoros.md ----DA ERROR
+09Tesoros.md|
 
 ***
 

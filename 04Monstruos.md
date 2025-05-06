@@ -136,13 +136,16 @@ Los abu-qiths son grandes científicos, como demuestra su capacidad de viajar en
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d12, Vigor d12
 * **Habilidades:** Ciencias d10, Disparar d6, Investigar d10, Mitos de Cthulhu d8, Notar d8, Pelear d6
+
+\sp
+
 * **Paso:** 6; **Parada:** 5; **Dureza:** 17 (4)
 * **Capacidades especiales:**
     * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
-    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
     * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
     * **Pinzas:** FUE+d6
     * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
+    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
 * **TPC:** 1d8
 
 #### Soldado abu-qith ☾
@@ -154,10 +157,14 @@ Los abu-qiths combatieron y derrotaron a un gran enemigo, los warams, y es por e
 * **Paso:** 6; **Parada:** 5; **Dureza:** 18 (4)
 * **Capacidades especiales:**
     * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
-    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
     * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
     * **Pinzas:** FUE+d6
     * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
+
+\sp
+
+* **Capacidades especiales:**
+    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
 * **TPC:** 1d8
 
 Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego.
@@ -168,15 +175,19 @@ Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gr
 
 Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público no es algo que se pueda esconder. Es el terrible ruido que produce esta arma y los rayos que lanza, lo que da fama a los abu-qith de seres terribles y malignos relacionados con el fuego.
 
-|Distancia|Daño|PA|CDF|
-|---|---|---|---|---|---|---|---|
-|50/100/150|2d8|2|1|
-
-|Munición|FUE Min.|Peso|Coste|
-|---|---|---|---|
-|35| -- |2| -- |
+|Distancia|Daño|
+|---|---|
+|50/100/150|2d8|
+|PA|2|
+|CDF|1|
+|Munición|35|
+|FUE Min.| -- |
+|Peso|2|
+|Coste| -- |
 
 **Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de forma que en 35 minutos tendrías el arma plenamente cargada.
+
+\sp
 
 ### Warams (Pólipos volantes) ☾
 
@@ -193,6 +204,8 @@ Pueden volar, generando vientos debajo suyo que hacen un ruido característico, 
 Durante milenios dominaron la Tierra antes de la aparición de los humanos, pero con los siglos han ido decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos.
 
 Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido.
+
+\sp
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d12+6, Vigor d12+2
 * **Habilidades:** Mitos d8, Notar d8, Pelear d12
@@ -211,8 +224,11 @@ Los warams ya son de por sí enemigos temibles, pero pueden ponerles hechizos si
 
 ### Janns (Antiguos) ☾
 
-> … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. \[…\] 
-> Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
+> … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. 
+
+\sp
+
+> \[…\] Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
 
 Según Alhazred, los janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
@@ -228,12 +244,16 @@ El cinco es un número importante entre los janns debido a que su torso de tonel
 * **Habilidades:** Atletismo d10, Ciencias d6, Humanidades d6, Pelear d6, Notar d6, Pelear d6, Saber de Suleimán d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 12(2)
 * **Capacidades especiales:**
-    * **Vuelo:** Paso volando 10
-    * **Armadura +2:** Su dura piel de aspecto gomoso le protege de los ataques.
-    * **Tentáculos (2):** FUE+d4. Los tentáculos tienen un alcance de 2 y no sufren penalización por múltiples acciones, ni penalización por mano torpe. Por turno 2 de los 5 tentáculos pueden tomar acciones independientes y sostenidas.
-    * **Tamaño +2:** Un ejemplar adulto puede llegar a los 350 kg (+2 a dureza).
-    * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
-    * **Tecnología Jann:** Puedes asignarle a un jann hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 6 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los janns pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+  * **Vuelo:** Paso volando 10
+  * **Armadura +2:** Su dura piel de aspecto gomoso le protege de los ataques.
+
+\sp
+
+* **Capacidades especiales:**
+  * **Tentáculos (2):** FUE+d4. Los tentáculos tienen un alcance de 2 y no sufren penalización por múltiples acciones, ni penalización por mano torpe. Por turno 2 de los 5 tentáculos pueden tomar acciones independientes y sostenidas.
+  * **Tamaño +2:** Un ejemplar adulto puede llegar a los 350 kg (+2 a dureza).
+  * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
+  * **Tecnología Jann:** Puedes asignarle a un jann hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 6 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los janns pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
 * **Equipo:** Herramientas y utensilios que use en su trabajo
 * **TPC:** d8
 
@@ -245,11 +265,21 @@ Los yanns con conocimientos mágicos podrían lanzar hechizos, pero mejor resér
 
 Los qareens son yinns hechos de energía e invisibles para los humanos provenientes de Alpheratz (Andrómeda). Tienen una mente malvada y pesimista, carecen de sentimientos y jamás olvidan. Su mente es tan poderosa que afecta a los humanos cercanos, llevándoles a la depresión y atener ideas suicidas.
 
-Según la tradición, los qareen son gemelos espirituales de cada ser humano. Tratan de corromperlos y llevarlos al mal y al pecado. De normal, no pueden interactuar en el mundo físico, pero cuando han corrompido a su humano pueden poseerlo.
+\sp
 
-Sin embargo, las teorías que Alhazred expone en su Necronomicón difieren mucho del relato tradicional. Llevan miles de años en la Tierra y vinieron con su caudillo Ghatanothoa, el primogénito de Bahamūt, al que ellos llaman Cthulhu, estableciéndose en un continente ya perdido. Cuando Ghatanothoa fue encerrado en un volcán, entraron en decadencia y ahora solo quedan unos pocos qareens en la Tierra.
+Según la tradición, los qareen son gemelos espirituales de cada ser humano. Tratan de corromperlos y llevarlos al mal y al pecado.
+
+De normal, no pueden interactuar en el mundo físico, pero cuando han corrompido a su humano pueden poseerlo.
+
+Sin embargo, las teorías que Alhazred expone en su Necronomicón difieren mucho del relato tradicional. 
+
+Llevan miles de años en la Tierra y vinieron con su caudillo Ghatanothoa, el primogénito de Bahamūt, al que ellos llaman Cthulhu, estableciéndose en un continente ya perdido. 
+
+Cuando Ghatanothoa fue encerrado en un volcán, entraron en decadencia y ahora solo quedan unos pocos qareens en la Tierra.
 
 Son considerados cheitáns, yinns malvados. Además, son tremendamente poderosos y sus mentes llevan poco a poco a la locura a los humanos. Un solo qareen podría llevar al mal y la decadencia a toda una ciudad como Bagdad.
+
+\sc
 
 #### Qareen forma inmaterial
 
@@ -263,6 +293,10 @@ Los qareens son seres de energía invisibles en forma de vórtice. En este estad
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
     * **Incorpóreo:** En su forma incorpórea son totalmente invulnerables contra armas físicas y mágicas. Solo los ataques mentales podrían hacerles daño. También los hace casi invisibles dándoles un -4 a los que quieran detectarlos.
+
+\sp
+
+* **Capacidades especiales:**
     * **Telepatía:** Se comunica con cualquier criatura de forma telepática
     * **Depresión:** Un aura depresiva rodea siempre a un qareen, todos los héroes que pasen una hora en una localización donde hay un qareen y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor).
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
@@ -285,6 +319,8 @@ Aunque los textos sagrados y la tradición dice que los qareen solo son seres es
     * **Depresión:** Un aura depresiva rodea siempre a un qareen, todo ser que pase una hora en una localización donde haya un qareen y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor). Si fallan la TPC, también tendrán que coger la Depresión como trastorno mental.
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 * **TPC:** 1d12
+
+\sp
 
 #### Poseído por un qareen
 
@@ -324,9 +360,13 @@ Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del
 * **Ventajas:** Frenesí Mejorado, Temple
 * **Capacidades especiales:**
     * **Garras:** FUE+d4
-    * **Mordisco:** FUE+d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño, hará un nivel de fatiga.
     * **Armadura quitinosa:** +2
     * **Tamaño +1:** Hasta 3 metros de tamaño.
+
+\sp
+
+* **Capacidades especiales:**
+    * **Mordisco:** FUE+d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño, hará un nivel de fatiga.
     * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
 * **TPC:** 1d6 (manada)
 
@@ -351,6 +391,10 @@ Su zona principal de nidación es en los picos más altos de la cordillera del C
     * **Armadura +3:** Su piel escamosa y emplumada le confiere una buena protección.
     * **Garras/Mordisco:** FUE+d8
     * **Volar:** Paso volando 16
+
+\sp
+
+* **Capacidades especiales:**
     * **Tamaño +6:** Tiene el tamaño de un elefante africano (+6 dureza, +2 bonificación al atacarle, +1 herida).
     * **Capacidad de carga:** Pueden volar cargando con sus garras pesos de hasta unas 10 toneladas sin sufrir penalización.
     * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
@@ -370,6 +414,8 @@ Cuando tiene suficiente tamaño, ponen huevos y los protegen hasta que eclosiona
 
 Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcantarillas, cuevas, etc. No son agresivos directamente, los humanos que caen en su influencia se vuelven irracionales y violentos. Para poder combatir al color hay que enfrentarse a los humanos y animales a los que han corrompido.
 
+\sp
+
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Pelear d6 (solo esquivar), Sigilo d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
@@ -382,6 +428,8 @@ Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcant
     * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno, serán problemas mentales que le mantengan encerrado en el lugar donde esté el color, como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
     * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, yinns, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y su pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
 * **TPC:** d8
+
+\sp
 
 ### Falak (Dhol) ☾
 
@@ -404,6 +452,10 @@ Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astro
     * **Gargantuesco:** Puede aplastar casi cualquier objeto de tamaño 15 o menos con un ataque de pisotón que causa d12+22 de daño, menos el propio Tamaño de la víctima.  
         Se considera un arma pesada y para dañar a un falak hacen falta armas pesadas como catapultas o balistas.
     * **Tamaño +30:** Este monstruoso gusano mide más de cuatrocientos metros de longitud. Es tan grande que otorga +6 a todos los ataques que se le haga y tiene 3 heridas extras.
+
+\sp
+
+* **Capacidades especiales:**
     * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
     * **Mente alien:** Su cerebro es tan diferente que no se le puede engañar o intimidar, tampoco puede leerse y es imposible atacarle mentalmente.
     * **Baba ácida:** El falak puede escupir baba ácida a distancia (100/200/300). Hacen 5d6 de daño de ácida y puedes usar la plantilla de área grande (PAG).
@@ -417,6 +469,8 @@ Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astro
 > El visir, que había aprendido en los libros la ciencia de los conjuros, se puso a quemar allá perfumes y a pronunciar las fórmulas mágicas que abren las puertas, mientras Hassib, por su parte, siguiendo órdenes del visir, emplazaba a la reina para que se mostrase a él. Y de pronto se produjo un temblor de tierra que tiró al suelo a la mayoría de los circunstantes, y se abrió un agujero por el que surgió, sentada en un azafate de oro transportado por cuatro gusanos colosales de cabezas tentaculadas, la reina Yamlika, cuyo rostro tenía áureos resplandores.
 > 
 > **Referencia:** Historia de la reina Yamlika, princesa subterránea (n. 372)
+
+\sp
 
 A pesar de lo que cree la gente, lo que se conoce como crías de falaks o los falak menores no son crías o versiones de menor tamaño de los falaks. En realidad son una especie completamente diferente. Aunque son muy grandes, no son gigantescos como los falaks y tienen tentáculos en el extremo que sería su cabeza. Sus cuerpos de gusano están cubiertos de una especie de limo que les protege de los ataques y parece que también de las altas temperaturas.
 
@@ -438,6 +492,10 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades y 
     * **Telepatía:** Pueden comunicarse telepáticamente con otros de su especie, incluso a miles de kilómetros. También puede detectar mentes de otros seres pensantes y controlar las mentes de los humanos (Marioneta usando Espíritu como habilidad).
     * **Tentáculos:** FUE+d10
     * **Terremoto:** Levantando la cola o la cabeza y dejándola caer pueden crear un terremoto. El terremoto es un ataque de Chorro que usa su habilidad de Pelear.
+
+\sp
+
+* **Capacidades especiales:**
     * **Tamaño enorme (8):** Los chthonianos adultos miden entre 9 y 12 metros y un par de metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 heridas).
     * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
 * **TPC:** 1d8
@@ -458,9 +516,13 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
 * **Capacidades especiales:**
     * **Invulnerables:** Son gaseosos y solo pueden ser atacados con agua o con magia (que no tenga ornamentos de fuego).
     * **Lenguas de fuego:** Pueden hacer ataques cuerpo a cuerpo (tirada Pelear) con sus lenguas de fuego de 2d6 de daño.
+    * **Tamaño -2:** Tiene un tamaño pequeño. Todo ataque dirigido a ellos tiene un -2.
+
+\sp
+
+* **Capacidades especiales:**
     * **Proyectiles de fuego:** Tratar como un hechizo de Proyectil con ornamento de fuego. Tiene 6 PP.
     * **Toque vampírico:** Si el fuego de la Yahannam consigue hacerte daño por fuego (cuerpo a cuerpo o a distancia), hay que hacer una tirada enfrentada de Espíritu contra Espíritu y obtendrá un ítem de información (más o menos útil) o 2 PP.
-    * **Tamaño -2:** Tiene un tamaño pequeño. Todo ataque dirigido a ellos tiene un -2.
     * **Debilidad Agua:** El agua (y otras materiales que extingan el fuego como la arena) les hace daño, por cada 5 litros de agua que se le lance se puede hacerle d4 de daño. Si se le consigue meter debajo, por ejemplo, de una cascada o dentro del agua, muere directamente.
 * **TPC:** 1d4 (manada)
 
@@ -475,6 +537,8 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
 La gente del mar son unas criaturas humanoides acuáticas mezcla de pez y rana. Tienen cabezas de pez con unos grandes ojos sin párpados y agallas en el cuello. Pies y manos palmeadas que acaban en zarpas. Su piel resbaladiza de sapo, que se llena de escamas en la zona de la espina dorsal, es de color gris verdoso, aunque su vientre es blanquecino.
 
 Solo mueren de forma violenta. Según las leyendas, viven eternamente en el fondo del mar, en asentamientos submarinos, sirviendo a Baba Daryä y Bu Diryan, adorando a Bahamūt y esperando el momento adecuado para alzarse de las profundidades y acabar con la raza humana.
+
+\sp
 
 Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los individuos más ancianos son los más grandes y poderosos. Cuando esto ocurre es más raro aún que salgan a la superficie. De hecho, se considera que Baba Daryä y Bu Diryan son gente del mar muy muy antiguos y, por tanto, muy poderosos. Hay teorías que creen que todas las gentes del mar son primigenios en potencia si se le dan eones de tiempo.
 
@@ -496,6 +560,8 @@ Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los
 
 Las gentes del mar pueden hibridarse con los humanos. Estos híbridos parecen humanos, pero según van creciendo empiezan a tomar rasgos de pez: piel pálida y escamosa, ojos saltones, agallas, andares patosos y cuando llegan a la madurez suelen sentir la llamada del mar donde se adentran para desaparecer tras transformarse plenamente en gente del mar. Suelen ser seres ariscos y antisociales con tendencias violentas y no suelen destacar por su intelecto, pero son capaces de infiltrarse entre humanos.
 
+\sp
+
 Para hacer un híbrido añádele estas características a un PNJ.
 
 * **Habilidades:** Idioma de la gente del mar d6
@@ -514,7 +580,11 @@ Para hacer un híbrido añádele estas características a un PNJ.
 
 Los gugs son una especie de simios gigantescos (entre 7-8 metros de altura) que habitan en las Tierras del Sueño. Sus brazos se dividen en dos a la altura del codo, con lo que poseen 4 manos con grandes garras. La boca les cruza la cara de arriba a abajo, de forma que cada ojo queda a un lado de la boca.
 
-Es una raza inteligente con una cultura simple y se comunican mediante gestos de la cara. Son altamente agresivos, carnívoros, antropófagos y necrófagos y adoran a diferentes primigenios. No sueles salir de sus cuevas, ya que la luz del sol les hace daño. Si bien es no normal encontrárselos, pueden ser invocados por primigenios a los que adoran o por magos que siguen a esos primigenios para que les hagan diferentes tareas.
+Es una raza inteligente con una cultura simple y se comunican mediante gestos de la cara. Son altamente agresivos, carnívoros, antropófagos y necrófagos y adoran a diferentes primigenios. 
+
+\sp
+
+No sueles salir de sus cuevas, ya que la luz del sol les hace daño. Si bien es no normal encontrárselos, pueden ser invocados por primigenios a los que adoran o por magos que siguen a esos primigenios para que les hagan diferentes tareas.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d12+5, Vigor d12+2
 * **Habilidades:** Disparar d6, Notar d6, Pelea d6
@@ -534,9 +604,18 @@ Es una raza inteligente con una cultura simple y se comunican mediante gestos de
 > Eran una especie de reptiles, las líneas de su cuerpo sugerían unas veces la forma de un cocodrilo, otras las nutrias chinas, pero la mayoría de las veces recordaban a algo del que ni sabios ni gurús hubieran oído hablar. En tamaño se aproximaban a un humano pequeño, y sus patas delanteras tenían zarpas delicadas y hábiles que curiosamente se parecían a manos y dedos humanos. Pero lo más extraño de todo eran sus cabezas, que presentaban una forma que violaba todos los saberes en conjunto de todos los maestros y maestras de la Casa de la Sabiduría del Califa de Bagdad.  
 > Con nada se pueden comparar cosas así; de un instante pensé en comparaciones tan variadas como el gato, la rana del desierto, el sátiro mítico y el ser humano. Ni el propio Ebliss, padre de los cheitán, había tenido una frente tan colosal y protuberante; sin embargo, los cuernos, la falta de nariz y la mandíbula parecida a la de un cocodrilo del Nilo situaban las cosas fuera de todas las categorías establecidas.
 
-[![The Nameless City by MFPrietoCane](./images/habitantes.jpg)](https://www.deviantart.com/mfprietocane/art/The-Nameless-City-845527255 "The Nameless City by MFPrietoCane") 
 
 Esto reptiles cuadrúpedos inteligentes, como bien dice su nombre, habitan la perdida Ciudad sin Nombre. Se les representa con una gran chepa y cabezas de tamaño algo desproporcionadas.
+
+\sp
+
+\sinc
+
+[![The Nameless City by MFPrietoCane](./images/habitantes.jpg)](https://www.deviantart.com/mfprietocane/art/The-Nameless-City-845527255 "The Nameless City by MFPrietoCane") 
+
+&nbsp;
+
+\conc
 
 Sobreviven en los oscuros pasillos subterráneos atrapando a los intrusos y sacrificándolos a sus dioses reptiles.
 
@@ -552,6 +631,8 @@ Parece ser que su evolución y decadencia fue paralela con los de la serpigente 
     * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
 * **Equipo:** Porra pesada (FUE+d6), cuchillo (FUE+d4) o machete (FUE+d6).
 * **TPC:** d4 (manada)
+
+\sp
 
 ### Lengnita
 
@@ -573,21 +654,26 @@ En su mundo son esclavos que extraen de la tierra rubís para sus amos, las best
     * **Cuernos:** FUE+d4
 * **Equipo:** Alfanje (FUE+d8) y ropajes amplios y turbantes u otros tocados para ocultar sus rasgos de sátiro.
 
+\sp
+
 ### Nasnas
 
 > … y en el mismo instante desapareció parte de mi cuerpo y no quedó visible de mi persona más que la mitad de un hombre, un tronco dotado de movimiento. Y mi maestro me dijo: "Transpórtate ahora a la ciudad. Y allá esperarás así lo que ansías". Y contesté con el oído y la obediencia, y me transporté en un abrir y cerrar de ojos a la plaza pública, donde, en cuanto llegué, me vi rodeado de una muchedumbre innumerable. Y todos me miraban con asombro. Y de todos lados acudían para contemplar a un ser tan singular que solo tenía de hombre la mitad y que se movía con tanta rapidez. Y en seguida cundió por la ciudad el rumor de tan extraño fenómeno, y llegó hasta el palacio en que vivía la hija del sultán con su madre. Y ambas desearon satisfacer su curiosidad para conmigo, y enviaron a los eunucos para que me cogieran y me llevaran a presencia suya.
 > 
 > **Referencia:** Historia del tercer loco (n. 843)
 
-[![A Camel and Three Strange Single-handed and Single-legged Creatures (Nasnas) - Zakariya al-Qazwini ](./images/nasnas.jpg)](https://en.wikipedia.org/wiki/Nasnas#/media/File:Muhammad_ibn_Muhammad_Shakir_Ruzmah-’i_Nathani_-_A_Camel_and_Three_Strange_Single-handed_and_Single-legged_Creatures_-_Walters_W659143A_-_Full_Page.jpg "A Camel and Three Strange Single-handed and Single-legged Creatures (Nasnas) - Zakariya al-Qazwini ") 
-
 El nasnas es un monstruo clásico de la cultura árabe y es literalmente media persona, media cabeza, medio torso, un brazo y una pierna. De normal, se mueve a saltitos, pero puede hacer largos saltos para atacar.
 
 Aunque la creencia popular dice que los Nasnas son la descendencia de un tipo de yinn llamado Shiqq y un humano, la gente que practica la magia sabe que los Nasnas se consiguen de cortando por la mitad cadáveres de humanos y realizando determinados rituales. Eso supone que el nasnas deja ver medio cerebro y sus entrañas cuelgan de su torso.
 
+[![A Camel and Three Strange Single-handed and Single-legged Creatures (Nasnas) - Zakariya al-Qazwini ](./images/nasnas.jpg)](https://en.wikipedia.org/wiki/Nasnas#/media/File:Muhammad_ibn_Muhammad_Shakir_Ruzmah-’i_Nathani_-_A_Camel_and_Three_Strange_Single-handed_and_Single-legged_Creatures_-_Walters_W659143A_-_Full_Page.jpg "A Camel and Three Strange Single-handed and Single-legged Creatures (Nasnas) - Zakariya al-Qazwini ") 
+
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Disparar d6, Intimidar d6, Notar d4, Pelear d6
 * **Paso:** 4; **Parada:** 5; **Dureza:** 7
+
+\sp
+
 * **Capacidades especiales:**
     * **Garras/Mordisco:** FUE+d4 de daño.
     * **Muerto viviente:** +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.
@@ -604,7 +690,11 @@ Los qatrams (literalmente brea o alquitrán) son masas informes y burbujeantes d
 
 Fueron creados por janns como mulas de carga en la construcción de sus ciudades acuáticas. No quedan muchos, pero aún se pueden encontrar en oscuras fosas marinas sirviendo a las gentes del mar.
 
-A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumentando su inteligencia hasta tener una inteligencia humana, aunque tampoco es que sean muy inteligentes. Se conocen casos en los que han desarrollado la capacidad de habla.
+A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumentando su inteligencia hasta tener una inteligencia humana, aunque tampoco es que sean muy inteligentes. 
+
+\sp
+
+Se conocen casos en los que han desarrollado la capacidad de habla.
 
 * **Atributos:** Agilidad d4, Astucia d4, Espíritu d6, Fuerza d12+6, Vigor d12
 * **Habilidades:** Pelear d4, Notar d6
@@ -626,7 +716,10 @@ A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumenta
 
 > Un día en que navegábamos sin ver tierra desde hacía varios días, vimos surgir del mar una isla que por su vegetación nos pareció algún jardín maravilloso entre los jardines del Edén. \[…\]  
 > Al encender un fuego para cocinar los frutos recogidos de los árboles de la isla, sentimos de repente que temblaba la isla toda con tan ruda sacudida que fuimos despedidos a algunos pies de altura sobre el suelo. Del suelo emergieron infinitos ojos y pequeños zarcillos oscuros. \[…\]  
-> Y en aquel momento vimos aparecer en la proa del navío al capitán, que nos gritaba con una voz terrible y gestos alarmantes: "¡Salvaos pronto!, ¡oh pasajeros! ¡Subid enseguida a bordo! ¡Dejadlo todo! ¡Abandonad en tierra vuestros efectos y salvad vuestras almas! ¡Huid del abismo que os espera! ¡Porque la isla donde os encontráis no es una isla, sino una monstruosidad informe y gigantesca que eligió en medio de este mar su domicilio desde antiguos tiempos, y merced a la arena marina crecieron árboles en su lomo! ¡La despertasteis ahora de su sueño con vuestra lumbre, y hela aquí que se despierta! ¡Salvaos, o si no, nos atrapará con sus tentáculos y nos sumergirá en el mar, que ha de tragaros sin remedio! ¡Salvaos! ¡Dejadlo todo, que he de partir!"  
+> Y en aquel momento vimos aparecer en la proa del navío al capitán, que nos gritaba con una voz terrible y gestos alarmantes: "¡Salvaos pronto!, ¡oh pasajeros! ¡Subid enseguida a bordo! ¡Dejadlo todo! ¡Abandonad en tierra vuestros efectos y salvad vuestras almas! ¡Huid del abismo que os espera! ¡Porque la isla donde os encontráis no es una isla, sino una monstruosidad informe y gigantesca que eligió en medio de este mar su domicilio desde antiguos tiempos, y merced a la arena marina crecieron árboles en su lomo! ¡La despertasteis ahora de su sueño con vuestra lumbre, y hela aquí que se despierta! ¡Salvaos, o si no, nos atrapará con sus tentáculos y nos sumergirá en el mar, que ha de tragaros sin remedio! ¡Salvaos! ¡Dejadlo todo, que he de partir!" 
+
+\sp
+
 > Al oír estas palabras del capitán, los pasajeros, aterrados, dejaron todos sus efectos, vestidos, utensilios y hornillas, y echaron a correr hacia el navío, que a la sazón levaba ancla. Pudieron alcanzarlo a tiempo algunos; otros no pudieron. Porque la descomunal masa viscosa los había atrapado y aplastado con sus terribles pseudópodos gelatinosos.
 > 
 > **Referencia:** La primera historia de las historias de Sindbad el marino, que trata del primer viaje (n. 292)
@@ -649,6 +742,8 @@ Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isl
     * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o quemando la vegetación que tiene.
 * **TPC:** 1d12
 
+\sp
+
 ### Serpigente
 
 > Shirin siguió las instrucciones del jeique y entró en el templo de la extraña divinidad ofidea; Oh, solo nuestro señor es verdadero, y moviéndose por las esquinas menos iluminadas por las lámparas de aceite, se fue adentrando en las ruinas. El pasadizo que había tomado terminaba en una balconada y según se acercaba un siseo pronunciado por cientos de lenguas se iba haciendo más audible. Al asomarse vio algo que le heló la sangre; cientos de aquellas criaturas serpentiles rezaban a un ídolo gigante de una mujer con cabeza de cobra.
@@ -666,6 +761,8 @@ Como curiosidad diremos que la serpigente no es una creación de Lovecraft, sino
 [![Into the tombs [commission] by ThemeFinland](./images/serpigente.jpg)](https://www.deviantart.com/themefinland/art/Into-the-tombs-commission-961675294 "Into the tombs [commission] by ThemeFinland") 
 
 Puedes encontrarlos en sus guaridas subterráneas rodeadas de todo tipo de herramientas científicas, buscando la forma de erradicar o esclavizar a la raza humana con su magia y su ciencia.
+
+\sp
 
 * **Atributos:** Agilidad d8, Astucia d12, Espíritu d12, Fuerza d6, Vigor d6
 * **Habilidades:** Ciencias d12, Idioma Naacal d8, Investigar d8, Mitos de Cthulhu d8, Notar d8, Pelear d6
@@ -697,6 +794,8 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 
 > … En sus cuerpos flacos y famélicos se concentra tanto mal como el propio Iblis. En realidad no estoy seguro de que tuvieran cuerpo: solo los vi un instante. Pero de tenerlo se parecían a los perros guardianes con un solo cuerno que había en los bajorrelieves de la antigua puerta de Ishtar en las ruinas de Babilonia.
 
+\sp
+
 Según Alhazred, los sirrush, los sirvientes de Marduk, son unos seres inmortales que habitan la Tierra antes de los humanos, los ángeles y los yinns. Se dice que viven entre los ángulos del tiempo, mientras que el resto de seres vivimos en las curvas del tiempo. No se sabe muy bien su forma exacta, ya que nadie ha sobrevivido a su ataque. Aun así, según la creencia mesopotámica, podrían ser reptiles alargados que se mueven sobre 4 patas con garras de león.
 
 [![Mušḫuššu. Bajorrelieve en el Museo de Pérgamo.](./images/sirrush.jpg)](https://es.wikipedia.org/wiki/Mu%C5%A1%E1%B8%ABu%C5%A1%C5%A1u#/media/Archivo:Pergamonmuseum_Ishtartor_02.jpg "Mušḫuššu. Bajorrelieve en el Museo de Pérgamo.") 
@@ -715,6 +814,10 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
     * **Garras:** FUE+d6
     * **Mordisco:** FUE+d6
     * **En fase:** El sabueso vibra temporalmente con lo que está y no está. Esto le otorga -2 a todos los intentos de impactarle.
+
+\sp
+
+* **Capacidades especiales:**
     * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida. Si pierde todas sus heridas no podrá regenerarlas y volver a la vida.
     * **Inmunidad:** Ataques físicos como armas de corte o contundentes, arcos, fuego, electricidad, …
     * **Debilidad:** Magia y alta tecnología. Las armas encantadas y las pistolas lanzarrayos pueden dañarlos normalmente.
@@ -730,7 +833,11 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
 > 
 > **Referencia:** Las aventuras de Hassan Al-Bassri (n. 582)
 
-Los sirvientes alados son unos seres con unas grandes alas de murciélago y colas con pinchos afilados. Tiene tentáculos en vez de extremidades y cuernos en lo que sería su cabeza. Su piel es oscura y de una textura entre gomosa y aceitosa. Recuerdan a demonios o gárgolas. Son bastante apacibles y nada agresivos, pero es difícil negociar con ellos, si han recibido una orden la cumplen sin preguntarse por qué. Sirven principalmente al dios Nodens y tienen buenas relaciones con los gules. Proceden de las Tierras de los Sueños y se sabe, aunque no muy bien, que pueden moverse entre la Tierra de los Sueños y nuestro mundo. Aunque tienen poderosos tentáculos y una cola afilada, normalmente reducen a sus enemigos con cosquillas. Puede que parte de los antiguos mitos de demonios alados y de gárgolas sean fruto de estos seres.
+Los sirvientes alados son unos seres con unas grandes alas de murciélago y colas con pinchos afilados. Tiene tentáculos en vez de extremidades y cuernos en lo que sería su cabeza. Su piel es oscura y de una textura entre gomosa y aceitosa. Recuerdan a demonios o gárgolas. Son bastante apacibles y nada agresivos, pero es difícil negociar con ellos, si han recibido una orden la cumplen sin preguntarse por qué. 
+
+\sp
+
+Sirven principalmente al dios Nodens y tienen buenas relaciones con los gules. Proceden de las Tierras de los Sueños y se sabe, aunque no muy bien, que pueden moverse entre la Tierra de los Sueños y nuestro mundo. Aunque tienen poderosos tentáculos y una cola afilada, normalmente reducen a sus enemigos con cosquillas. Puede que parte de los antiguos mitos de demonios alados y de gárgolas sean fruto de estos seres.
 
 * **Atributos:** Agilidad d8, Astucia d4, Espíritu d6, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d10, Notar d6, Pelear d8, Sigilo d8
@@ -749,6 +856,8 @@ Los sirvientes alados son unos seres con unas grandes alas de murciélago y cola
 Dentro de las leyendas árabes hay varios seres que viven en cuevas en el desierto, pero la mayoría los llama Sukaan. Son humanoides de grandes ojos y orejas. Su piel parece hecha de arena y es por ello que puede camuflarse fácilmente en el desierto. Son nocturnos, aunque pueden salir a la luz del sol sin problemas.
 
 Los suukans son realmente algún tipo de cheitán sin cuerpo que desde el infierno puede poseer a un ser humano. Cuando un humano es poseído, su mente progresivamente se va volviendo más similar a la de un sukaan, más primitiva y cruel, hasta comportarse como un asesino psicópata.
+
+\sp
 
 El cheitán también transforma el cuerpo de la víctima con pústulas y llagas y las orejas y los ojos se hacen más grandes. Cuando la posesión mental y corporal se ha completado la piel, se cae y deja paso a la piel arenosa que caracteriza al sukaan. En ese momento la persona deja de existir para dar vida al suukan.
 
@@ -771,7 +880,11 @@ El proceso de posesión no tiene mecánica propia, simplemente es algo que puede
 
 > En mitad de la duna había algo negro, algo que se asemejaba, pero no era una palmera. ¡Ay mi señor! Algo grande, y negro, y viscoso, allí en cuclillas sin más, esperando con sus brazos viscosos, retorciéndose y alargándose \[…\] Aquello subió, arrastrándose y fluyendo sobre sus pezuñas y sus bocas y sus brazos serpentinos.
 
-Los vástagos de Astarte son unas masas informes de tentáculos con varias bocas. Para desplazarse usan tres patas acabadas en pezuñas. Miden de 4 a 6 metros de altura. Son retoños de la diosa Astarte (una máscara de Shub-Niggurath) y normalmente aparecen en las invocaciones en vez de su madre, la diosa de la fertilidad.
+Los vástagos de Astarte son unas masas informes de tentáculos con varias bocas. Para desplazarse usan tres patas acabadas en pezuñas. Miden de 4 a 6 metros de altura. 
+
+\sp
+
+Son retoños de la diosa Astarte (una máscara de Shub-Niggurath) y normalmente aparecen en las invocaciones en vez de su madre, la diosa de la fertilidad.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d8, Fuerza d12+2, Vigor d10
 * **Habilidades:** Notar d8, Pelea d10, Sigilo 1d12
@@ -793,19 +906,25 @@ Los vástagos de Astarte son unas masas informes de tentáculos con varias bocas
 
 Este extraño ser, algunos lo clasifican como yinn o cheitán, tiene la forma de un hombre mayor sin extremidades inferiores. En su lugar posee dos especies de pseudópodos de hasta unos 3 metros de largo.
 
+\sp
+
+[![After being shipwrecked Sinbad the Sailor is enslaved by the Old Man of the Sea. Frances Brundage](./images/davalpa.jpg)](https://en.wikipedia.org/wiki/Frances_Brundage "After being shipwrecked Sinbad the Sailor is enslaved by the Old Man of the Sea. Frances Brundage") 
+
 Suele aparecer en islas perdidas y tiene apariencia de náufrago que te pide ayuda para que lo lleves en tus hombros un rato o le cruces un río. En cuanto lo pones a tus hombros, los pseudópodos te apresan y no puedes librarte de él. Desde ese momento te usa como montura y como esclavo para que recojas comida y le hagas trabajos de toda índole. Si intentas soltarte te golpea la cabeza con su bastón y te intenta asfixiar.
 
 Su objetivo como cheitán es hacer que no ayudemos a la gente mayor e incluso desconfiemos de sus súplicas.
 
 Como enemigo es complicado meterlo en una aventura, ya que es más una trampa que un monstruo y quedaría raro que un grupo de davalpas engañaran a un grupo de schahriars. Puede ser un contrincante interesante para el grupo de niños de la aventura de "El Pequeño Consejo" o para aventuras en solitario.
 
-[![After being shipwrecked Sinbad the Sailor is enslaved by the Old Man of the Sea. Frances Brundage](./images/davalpa.jpg)](https://en.wikipedia.org/wiki/Frances_Brundage "After being shipwrecked Sinbad the Sailor is enslaved by the Old Man of the Sea. Frances Brundage") 
-
 * **Atributos:** Agilidad d4, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Idioma materno d6, Notar d8, Pelear d8, Persuadir d6
 * **Paso:** 1; **Parada:** 6; **Dureza:** 5
 * **Capacidades especiales:**
     * **Pseudópodos:** Si le dejas subirte a tus hombros, extiende sus tentáculos y te agarra automáticamente sin tira de Atletismo. Si intentas librarte de él, sus tentáculos tiene una habilidad de Atletismo de d12+2 para evitar que te sueltes. Ni tú ni el davalpa estáis ni inmovilizado, ni aferrado, ni en desventaja. Los pseudópodos tienen una fuerza de d12+2 a la hora de hacer daño por constricción. Además, podrás atacarte normalmente cabeza con su bastón mientras te constriñe.
+
+\sp
+
+* **Capacidades especiales:**
     * **Debilidad Alcohol:** Si se la da de beber alcohol en un par de tragos se emborracha y tiene un -4 a todas las tiradas, si le consigue que tome otros dos tragos más caerá inconsciente.
     * **Sueño ligero:** No sufre penalizadores a Notar por estar dormido si su víctima intenta librarse de él mientras duerme.
 * **Equipo:** Ropas andrajosas y un bastón (FUE+d4)
@@ -855,12 +974,13 @@ Vamos desde dependientes del bazar hasta taberneros y toda la estructura de gent
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Ciencias d4, Idioma materno d6, Idioma extra d6, Notar d8, Pelear d4, Persuadir d6
+
+\sp
+
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Hábito (Mayor, Alcoholismo)
 * **Ventajas:** Elige 1 o más: Intimidador, Callejear, Alcurnia, Rico
 * **Equipo:** Jambia (FUE+d4) y/o machete (FUE+d6)
-
-\sp
 
 ### Burócrata
 
@@ -887,13 +1007,13 @@ Los oscuros callejones de las grandes ciudades están llenas de este tipo de per
 
 Allá donde no llega la ley y la civilización es el lugar donde habitan estos personajes esperando a las grandes caravanas para atacarlas y quedarse con sus valiosas mercancías.
 
+\sp
+
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d6, Cabalgar d6, Disparar d6, Idioma materno d6, Intimidar d6, Latrocinio d6, Notar d6, Pelear d8, Sigilo d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6(1)
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Hábito (Mayor, Haschisch), Manco (Mayor), Mudo (Mayor)
 * **Equipo:** Jambia (FUE+d4), Alfanje (FUE+d8), Galabiya (Túnica de tela gruesa +1)
-
-\sp
 
 ### Jefe/a de bandidos
 
@@ -913,6 +1033,9 @@ Puedes usar este secuaz desde guardias de la ciudad a soldados de elite, mercena
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d10, Vigor d8
 * **Habilidades:** Atletismo d6, Disparar d6, Idioma materno d6, Intimidar d6, Notar d6, Pelear d8, Persuadir d6, Sigilo d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 10/9(+4/+3)
+
+\sp
+
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Hábito (Mayor, Haschisch), Manco (Mayor), Mudo (Mayor)
 * **Ventajas:** Soldado
 * **Equipo:** Jambia (FUE+d4), Alfanje (FUE+d8), Jawshan (Coraza para el peto +4 y cota de malla para brazos y piernas +3)
@@ -923,9 +1046,6 @@ Estamos hablando de cultistas de nivel bajo que se dedican a hacer el trabajo su
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Idioma materno d6, Saber de Suleimán d4, Notar d6, Pelear d6, Reparar d6
-
-\sp
-
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Elige 1 o más: Alerta, Callejear, Responsable, Ritualista
@@ -941,6 +1061,9 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Nuevos Poderes x2, Puntos de poder, Trasfondo arcano (Sihr). Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista
 * **Hechizos:** 16 PP. Dominio de fuego/aire/agua/tierra, Bola de fuego, Luces deslumbrantes, Plantas sanadoras
+
+\sp
+
 * **Equipo:** Cuchillo (FUE+d4), Alfanje (FUE+d8), Galabiya (Túnica de tela gruesa +1)
 
 [![Le Tapis persan - Georges Barbier](./images/baile.jpg)](https://es.wikipedia.org/wiki/George_Barbier "Le Tapis persan - Georges Barbier") 
@@ -951,9 +1074,6 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales, marionetist
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Interpretación d8, Notar d6, Persuadir d6, Sigilo d4
-
-\sp
-
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** Elegir 1: Hábito (menor alcohol, haschisch, etc.), Curioso, Cojo, Manco
 * **Ventajas:** Elegir 1: Carismático, Famoso, Maquillaje
@@ -1009,11 +1129,12 @@ Los camellos y dromedarios son animales perfectamente adaptados al desierto y es
     * **Mordisco/Coz:** FUE+d4
     * **Joroba:** El agua acumulada en la joroba les da +2 a todas las tiradas contra la deshidratación.
 
+\sp
+
 #### Elefantes
 
-El rey indiscutible de la sabana ha sido domesticado y es usado tanto para trabajar en el campo, como máquina de guerra brutal en la batalla. [Fuente](https://www.reddit.com/r/savageworlds/comments/l8149z/stats_for_an_elephant/)
-
-\sp
+El rey indiscutible de la sabana ha sido domesticado y es usado tanto para trabajar en el campo, como máquina de guerra brutal en la batalla. 
+[Fuente](https://www.reddit.com/r/savageworlds/comments/l8149z/stats_for_an_elephant/)
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d6, Fuerza d12+4, Vigor d12
 * **Habilidades:** Atletismo d8, Notar d6, Pelea d6, Supervivencia d6
@@ -1038,14 +1159,16 @@ La hiena es un carnívoro similar a los cánidos. Es carroñera y muy inteligent
 * **Capacidades especiales:**
     * **Tácticas en manada:** En caso de múltiples oponentes obtiene un +2 por cada compañero en vez del +1 normal, pero el máximo de +4 se mantiene.
     * **Mordisco:** FUE+d4
+
+\sp
+
+* **Capacidades especiales:**
     * **Olfato:** Tienen un fantástico olfato para detectar carroña y enemigos. +2 a Notar para buscar animales muertos y detectar enemigos ocultos.
     * **Veloz:** Tira d10 como dado de carrera
 
 ### Animales mitológicos
 
 A pesar de lo que pudiera parecer, los animales misteriosos y mágicos no son muy frecuentes. Hay muchos animales, pero muy pocos tienen capacidades mágicas o destacan por ser extrañas combinaciones de muchos animales.
-
-\sp
 
 #### Cerdo-gamo
 
@@ -1065,6 +1188,16 @@ Seguramente podría enfrentarse a un tigre o león en igualdad de condiciones. D
 
 Usar pelo de cerdo-gamo en cualquier armadura de tela le da un punto más de la protección adicional.
 
+\sp
+
+\sinc
+
+[![Imugi by arvalis](./images/serpiente-gigante-cornuda.jpg)](https://www.deviantart.com/dottorfile/art/Zain-358503252 "Imugi by arvalis") 
+
+&nbsp;
+
+\conc
+
 #### Langosta
 
 > ¡En cuanto al animal que vive en los lugares desiertos y detesta al hombre, es la langosta, que reúne la naturaleza de otros siete animales: tiene, efectivamente, cabeza de caballo, cuello de toro, alas de águila, pies de camello, cola de serpiente, vientre de escorpión y cuernos de gacela!
@@ -1077,9 +1210,6 @@ Con langosta no nos referimos a los saltamontes gigantes de las plagas bíblicas
 * **Habilidades:** Atletismo d10, Notar d8, Pelea d10
 * **Paso:** 8; **Parada:** 7; **Dureza:** 9(2)
 * **Ventajas:** Pies ligeros (Pies de camello)
-
-\sp
-
 * **Capacidades especiales:**
     * **Exoesqueleto de escorpión:** +2 armadura
     * **Cuernos gacela y cuello de toro:** FUE+d6 grandes cuernos de gacela y el cuello de toro hacen que sus cornadas sean terribles.
@@ -1087,14 +1217,13 @@ Con langosta no nos referimos a los saltamontes gigantes de las plagas bíblicas
     * **Cola de serpiente:** FUE+d4. El mordisco de la serpiente que es su cola es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
 * **TPC:** d4
 
+\sp
 
 #### Serpiente gigante cornuda
 
 > Entre las rocas de diamantes vi circular a sus guardianes, que eran innumerables serpientes negras, más gruesas y mayores que palmeras, y cada una de las cuales muy bien podía devorar a un elefante grande.
 > 
 > **Referencia:** La segunda historia de las historias de Sindbad el marino, que trata del segundo viaje (n. 296)
-
-[![Imugi by arvalis](./images/serpiente-gigante-cornuda.jpg)](https://www.deviantart.com/dottorfile/art/Zain-358503252 "Imugi by arvalis") 
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d12+2, Vigor d10
 * **Habilidades:** Atletismo d8, Notar d10, Pelear d10, Sigilo d10

@@ -18,6 +18,8 @@ Tenemos extractos de las 1001 Noches originales y extractos de la versión que h
 
 > /p/ Aquí encontrarás extractos de los cuentos de las Mil y Una Noches escritos de Abdul Alhazred.
 
+\scss
+
 Además, todos los textos que supongan reglas y sistemas de juego estarán dentro de cajas como esta.
 
 ```

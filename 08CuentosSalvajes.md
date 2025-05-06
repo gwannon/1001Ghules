@@ -455,9 +455,13 @@ Si te parece que Ibrahim es un contendiente duro, puede tener algunas heridas de
 
 #### Agradecimientos del visir
 
-Tras la redada, el general Ibrahim será juzgado y ejecutado junto a sus seguidores. Los rumores de guerra desaparecerán en cuanto el shatranj sea desactivado y en unas pocas semanas todo volverá a la normalidad. El califa colmará de honores a la guardia de la ciudad, sobre todo a Ahmad-la-Tiña y a Hassan-la-Peste.
+Tras la redada, el general Ibrahim será juzgado y ejecutado junto a sus seguidores. Los rumores de guerra desaparecerán en cuanto el shatranj sea desactivado y en unas pocas semanas todo volverá a la normalidad. 
 
-Giafar y la califesa querrán agradecer por salvar la ciudad y el califato a los verdaderos héroes y heroínas, a tus schahriars. Es por ello que durante 3 días y como "acto benéfico patrocinado por el califa" los jardines del Palacio de la Eternidad se monta una feria para todos los niños de la ciudad. Habrá comida rica y dulces para todos, música, bailes, bufones, títeres y juegos.
+El califa colmará de honores a la guardia de la ciudad, sobre todo a Ahmad-la-Tiña y a Hassan-la-Peste.
+
+Giafar y la califesa querrán agradecer por salvar la ciudad y el califato a los verdaderos héroes y heroínas, a tus schahriars.
+
+Es por ello que durante 3 días y como «acto benéfico patrocinado por el califa» los jardines del Palacio de la Eternidad se monta una feria para todos los niños de la ciudad. Habrá comida rica y dulces para todos, música, bailes, bufones, títeres y juegos.
 
 Adicionalmente, el fondo de resistencia recibirá 5.000 dinares y Fátimah entregará 200 a cada schahriar.
 
@@ -466,6 +470,8 @@ Adicionalmente, el fondo de resistencia recibirá 5.000 dinares y Fátimah entre
 &nbsp;
 
 > /s/ **Semilla de aventura:** El plan de la Progenie de la Luna ha sido frustrado, pero todavía queda acabar son sus miembros en Balaz Rud y los yinns malvados que los dirigen. Son muy peligrosos como para dejarlos escapar y que puedan volver a conspirar contra el Califa y la ciudad. Pero primero habrá que encontrar su guarida en la región de Balad Ruz.
+
+\sp
 
 ### Historia de la botella encontrada en el fondo del río Tigris
 
@@ -485,9 +491,9 @@ Si siguen sin tenerle mucho miedo a lo que pueda contener la botella, diles que 
 
 Cuando tengan un plan más o menos viable de que cómo van a abrir la botella, permíteles que lo lleven a cabo y simplemente tira en la Tabla de Objetos en botellas selladas y que salga lo que salga.
 
-> /s/ **Semilla de aventura:** Otras opciones al abrir la botella pueden ser que los engulla y los encierre en algún tipo dimensión mazmorra, los mande a las Tierras del Sueño, viajen al futuro o acaben en el Japón feudal o el México precolombino. La botella es una forma sencilla de iniciar una campaña diferente a las líneas generales de esta ambientación.
-
 \sp
+
+> /s/ **Semilla de aventura:** Otras opciones al abrir la botella pueden ser que los engulla y los encierre en algún tipo dimensión mazmorra, los mande a las Tierras del Sueño, viajen al futuro o acaben en el Japón feudal o el México precolombino. La botella es una forma sencilla de iniciar una campaña diferente a las líneas generales de esta ambientación.
 
 ### Historia del dibujante de Laylays
 
@@ -503,9 +509,11 @@ Fátimah busca a sus mejores agentes para solucionar este problema con los comer
 
 Tras un par de horas recorriendo las calles de Bagdad darán con un laylay que no ha sido limpiado todavía y bastante reciente. Como dijo Fátimah, no es el juego infantil, es otra cosa. Está claro que no es cosa de los pillastres de la calle. Es un cuadrado de 4x4 casillas. En cada casilla hay una letra (a, b, d, u) que representa los números (2,4,6,8). Con una tirada de Ciencias verán que es un cuadrado mágico, en el que en cada columna y fila no se repiten los números.
 
-La persona que más sabe de matemáticas en la ciudad es Abū Yūsuf al-Kindī. Él podría investigar los cuadrados mágicos y ver que son. Al-Kindī es fácil de encontrar, pero difícil de acercarse, ya que es vigilado las 24 horas por agentes del visir. Si se acercan a él en la mezquita o la Casa de la Sabiduría, estará encantado de enfrentarse al misterio matemático que le propongan, pero sus "cuidadores" enseguida se desharán de ellos. Tendrán que hacer algún tipo de plan para despistar a sus vigilantes.
+La persona que más sabe de matemáticas en la ciudad es Abū Yūsuf al-Kindī. Él podría investigar los cuadrados mágicos y ver que son. Al-Kindī es fácil de encontrar, pero difícil de acercarse, ya que es vigilado las 24 horas por agentes del visir.
 
 \sp
+
+Si se acercan a él en la mezquita o la Casa de la Sabiduría, estará encantado de enfrentarse al misterio matemático que le propongan, pero sus "cuidadores" enseguida se desharán de ellos. Tendrán que hacer algún tipo de plan para despistar a sus vigilantes.
 
 Al enseñarles el cuadro mágico, este les dirá que necesita por lo menos 3 cuadros más para tratar de descifrar el código o el significado. Con uno solo, podría darles algún dato, peros serían mínimas especulaciones. Si vuelven con otros 3 ejemplos podrá decirlo que no son matemáticas, sino magia y bastante poderosa. Con ellas se invoca una entidad llamada Baduh que se cuenta que trata problemas de dinero y amor.
 
@@ -517,9 +525,11 @@ La cordura de Kala está en mínimos y está obsesionada con el divorcio de sus 
 
 #### Baduh, dios arquetípico tramposo
 
-Aunque se aparece como un efrit clásico, pero de tamaño humano, Baduh es un avatar de algún dios arquetípico de carácter tramposo, como podría ser Loki en la mitología nórdica o Anansi la araña de las fábulas de África Occidental. Es por ello que ayuda a la gente con problemas económicos o de amores, le dan juego para gastar bromas y jugarles malas pasadas.
+Aunque se aparece como un efrit clásico, pero de tamaño humano, Baduh es un avatar de algún dios arquetípico de carácter tramposo, como podría ser Loki en la mitología nórdica o Anansi la araña de las fábulas de África Occidental. 
 
 \sp
+
+Es por ello que ayuda a la gente con problemas económicos o de amores, le dan juego para gastar bromas y jugarles malas pasadas.
 
 Baduh tiene los poderes clásicos de un efrit, vuela, es superfuerte, superresistente y muy rápido, y puede conseguir todo tipo de objeto como trajes, joyas, manjares, etc. También controla el fuego y puede invocarlo a placer. No tiene ficha, lo que quiere hacer lo hace.
 
@@ -535,9 +545,9 @@ _Los niños y niñas que han asistido a las últimas representaciones de marione
 
 Morshed es como se llama a la persona que maneja los títeres en una representación de marionetas y parece que el nuevo morshed tiene algo que ocultar.
 
-Fátimah necesita a su equipo de schahriars preferido para que investigue que pasa exactamente con todos hurtos. 
-
 \sp
+
+Fátimah necesita a su equipo de schahriars preferido para que investigue que pasa exactamente con todos hurtos. 
 
 Si no paran, muchos niños y niñas del Pequeño Consejo tendrán problemas para ganarse la vida y serán el objetivo de la ira de los mercaderes que los acusarán de ladrones y vándalos.
 
@@ -644,7 +654,9 @@ Fátimah quiere que roben la cuchara de la tetería. El problema es que la teter
 
 De noche hay también seguridad privada y todo el zoco es cerrado y se ponen grandes candados en las puertas.
 
-La tetería es pequeña, tiene una barra y un par de mesas y detrás una cocina donde preparan el té y algunos aperitivos. Fuera de la tetería tiene otras 4 mesas debajo de un gran toldo. La cuchara está detrás de la barra colgada de la pared a unos dos metros de altura. Siempre hay gente detrás de la barra y el propietario no deja que ningún pillastre entre en la tetería, no quiere que le roben su cubertería de plata.
+La tetería es pequeña, tiene una barra y un par de mesas y detrás una cocina donde preparan el té y algunos aperitivos. Fuera de la tetería tiene otras 4 mesas debajo de un gran toldo.
+
+La cuchara está detrás de la barra colgada de la pared a unos dos metros de altura. Siempre hay gente detrás de la barra y el propietario no deja que ningún pillastre entre en la tetería, no quiere que le roben su cubertería de plata.
 
 De normal está el propietario haciendo té, unos 4 clientes y un par de siervos sirviendo mesas, fregando suelos, lavando platos, etc.
 
@@ -658,9 +670,14 @@ Si les atrapan recibirán, 30 latigazos y seguramente el dueño de la tetería p
 
 #### La cuchara mágica
 
-La cuchara mágica es un ingenio de supervivencia de los janns para sus exploradores. Este invento permite al explorador jann transmutar comida terrestre líquida o semisólida como purés, cremas, sopas, caldos o gachas en un producto digerible por el sistema digestivo de estos yinns y puede sobrevivir alimentándose con algo que sabe horrible para ellos, pero es alimenticio y digerible.
+La cuchara mágica es un ingenio de supervivencia de los janns para sus exploradores.
 
-No hace falta tener Afinidad mágica para usarlo, simplemente girando en el sentido de las agujas del reloj, permite transmutar el contenido de una olla (1 m³ de capacidad máxima) en una sustancia parecida en color, textura y sabor a la miel que los janns pueden consumir aunque no les sea muy agradables y que curiosamente es deliciosa para los humanos.  
+Este invento permite al explorador jann transmutar comida terrestre líquida o semisólida como purés, cremas, sopas, caldos o gachas en un producto digerible por el sistema digestivo de estos yinns y puede sobrevivir alimentándose con algo que sabe horrible para ellos, pero es alimenticio y digerible.
+
+\sp
+
+No hace falta tener Afinidad mágica para usarlo, simplemente girando en el sentido de las agujas del reloj, permite transmutar el contenido de una olla (1 m³ de capacidad máxima) en una sustancia parecida en color, textura y sabor a la miel que los janns pueden consumir. No les es muy agradables, pero curiosamente es deliciosa para los humanos. 
+
 Removiéndolo en el sentido contrario debería revertir el proceso de transmutación y dejar la comida en su estado original, pero falla y hace la comida incomestible para humanos y janns. Solo se necesitan unos cinco minutos de remover las viandas para transmutarla.
 
 ### Historia del gran robo del hielo del Califa
@@ -673,9 +690,13 @@ Los guardas no se alejan mucho del yakhchāl así que si hacen ruido llegarán e
 
 Al entrar en la estancia del hielo encontrarán dos sarcófagos ricamente decorados donde el visir Giafar mantiene congelados los cuerpos de diferentes seres mientras los estudia. Será decisión de tus schahriars abrirlos o no. Puedes elegir que hay dentro, siempre que no sean entidades muy grandes, pueden ser dos seres de la misma especie (una sola TPC) o de diferente especie (dos TPC separadas).
 
-Necesitarán coger dos cubos de hielo y cada schahriar puede llevar un cubo. Una vez cojan el hielo, si no tiene un recipiente adecuado como un cubo lleno de paja que sirva de aislante, deberán correr para llevar el hielo antes de que se derrita. Tendrán que conseguir 5 avances en 5 turnos por cada portador de hielo, los fallos quitan un avance. Si falla algunos de los porteadores, no tendrán suficiente hielo y tendrán que intentarlo de nuevo.
+Necesitarán coger dos cubos de hielo y cada schahriar puede llevar un cubo. 
 
-Si consiguen llegar con el hielo, Fátimah habrá preparado una bañera de agua donde está metida la enferma, verterá todo el hielo y rezará por que funcione.
+\sp
+
+Una vez cojan el hielo, si no tiene un recipiente adecuado como un cubo lleno de paja que sirva de aislante, deberán correr para llevar el hielo antes de que se derrita. Tendrán que conseguir 5 avances en 5 turnos por cada portador de hielo, los fallos quitan un avance.
+
+Si falla algunos de los porteadores, no tendrán suficiente hielo y tendrán que intentarlo de nuevo. Si consiguen llegar con el hielo, Fátimah habrá preparado una bañera de agua donde está metida la enferma, verterá todo el hielo y rezará por que funcione.
 
 > /s/ **Recompensa de cordura:** Si consiguen salvar a la enferma pueden quitarse cualquier perdida de cordura o trastorno que hayan adquirido en la aventura. Además, han conseguido una aliada, Almirah, que trabaja como ayudante de un pastelero. Puede conseguirles dulces y dejarles usar el horno y los utensilios de su jefe.
 
@@ -689,7 +710,13 @@ Shaikh Ansari, el almotacén de Bagdad, se encarga de revisar que las herramient
 
 Desde hace un par de semanas piensa que su equipo está menguando unos pocos gramos al día. De forma que sus pesas precisión cada día pierden unos gramos. Al principio pensaba que alguien le estaba haciendo una broma y le cambiaba las pesas y ahora no se separa de ellas y siguen mermando.
 
-Por eso, esta mañana ha ido al zoco, al puesto de un vendedor muy respetado y que sabe que no truca sus balanzas y le ha pedido sus pesas y ha detectado que las suyas pesan 900 gramos y deberían pesar 1.000 gramos. Ha cogido el anillo de su familia que sabe exactamente lo que pesa y se ha dado cuenta de que pesa también unos gramos menos. Entonces ha sacado su cinta de medir y ha visto que mide 5 cm menos de lo normal. Ha salido corriendo al carnicero y se ha pesado en su peso para carne y pesaba 10 kilos menos. Pero su ropa le seguía quedando perfecta.
+Por eso, esta mañana ha ido al zoco, al puesto de un vendedor muy respetado y que sabe que no truca sus balanzas y le ha pedido sus pesas y ha detectado que las suyas pesan 900 gramos y deberían pesar 1.000 gramos.
+
+\sp
+
+Ha cogido el anillo de su familia que sabe exactamente lo que pesa y se ha dado cuenta de que pesa también unos gramos menos. Entonces ha sacado su cinta de medir y ha visto que mide 5 cm menos de lo normal. 
+
+Ha salido corriendo al carnicero y se ha pesado en su peso para carne y pesaba 10 kilos menos. Pero su ropa le seguía quedando perfecta.
 
 La historia de almotacén ha corrido por las calles como la pólvora y ha llegado a oídos de Bahlul el Cuerdo. A Bahlul le interesan mucho estos sucesos extraños y busca testigos. Tus schahriars que presenciaron la crisis psicótica de Ansari pueden intentar sacarle unas monedas a Bahlul.
 
@@ -705,9 +732,13 @@ Lo curioso es que si preguntas al personal les dirán que han tenido que reajust
 
 Pueden intentar varias líneas de investigación.
 
+
+* **Conocimientos mágicos:** Una tirada de Saber de Suleimán de tus schahriars o sus aliados dejará que están ante una vieja maldición que hace siglos que no se usa. Se hace un montón de arena con un objeto personal del maldito dentro. Según el viento se lleva arena, el objetivo se hace más pequeño hasta que no queda arena y desaparece. La única forma de parar la maldición es echar más arena y se cancela cogiendo el montón y dejándolo en el desierto, de forma que el viento nunca acabe la arena.
+
+\sp
+
 * **Colarse en casa de almotacén:** la casa (Latrocinio para abrir la cerradura de casa) solo dirá que es muy riguroso y estricto en su forma de ser. Todo está inmaculado y nada fuera de lugar.
 * **Visitar su oficina en el zoco:** su oficina como su casa está muy ordenada, todo el papeleo hecho y clasificado. Una tirada de Notar les mostrará unos pliegos con comerciantes denunciados por hacer trampas en los pesos. 3 de ellos parece que están prohibidos en el zoco.
-* **Conocimientos mágicos:** Una tirada de Saber de Suleimán de tus schahriars o sus aliados dejará que están ante una vieja maldición que hace siglos que no se usa. Se hace un montón de arena con un objeto personal del maldito dentro. Según el viento se lleva arena, el objetivo se hace más pequeño hasta que no queda arena y desaparece. La única forma de parar la maldición es echar más arena y se cancela cogiendo el montón y dejándolo en el desierto, de forma que el viento nunca acabe la arena.
 * **Hablar con sus amistades:** si hablan con son sus amigos, vecinos y demás, le dirán que estaba soltero y era muy estricto en costumbres, tanto como sus pesos y medidas. En el hammam se baña siempre en la misma bañera con la misma temperatura. Lleva cortándose el pelo igual desde hace años y siempre come lo mismo, siguiendo una dieta pesada y medida. Una tirada de persuadir con una invitación a comida o bebida hará que la gente del zoco les diga que tenía 3 enemigos, tres tramposos dependientes que hacían trampas con el peso.
 
 #### Sospechosos habituales
@@ -717,6 +748,8 @@ Shaikh tiene bastantes "enemigos", gente a la que ha expulsado de zocos y bazare
 Dalila suele estar en su casa en Karkh y su dirección es conocida en los bajos fondos. Dalila estará encantada de atender a los schahriars, incluso les pondrá algo de comer mientras hablan. La reina del crimen conoce el Pequeño Consejo y que le deban un favor le interesa bastante. Son niños y niñas, pero pueden conseguir cosas que el personal normal no puede.
 
 Dalila tiene muy vigilado al almotacén, no puede hacer bien sus actividades en el zoco con Shaikh cerca. Sabe, por su hija Zeinab, que ha estado hablando con un mendigo con grandes quemaduras en brazos y piernas en el Bab ash-Sharqi, el bab del río. Parece que el mendigo aparece y desaparece frecuentemente.
+
+\sp
 
 El mendigo no es otro que Bahram el Gauro, que está atrayendo al almotacén a su culto. El almotacén ha estado estudiando los manuscritos que le ha pasado Bahram y se ha auto-maldecido y cada día que le toca la luz de sol se reduce un 1% de su masa corporal.
 
@@ -734,7 +767,11 @@ Si aceptan el trato, les dirá que solo necesitan hacer una figura de plata del 
 
 El objetivo de Bahram se convertirá en una obsesión para él, le perseguirá, le vigilará y tratará de seducirle para atraerlo a su secta. Si tiene capacidades mágicas, incluso le ofrecerá ser su maestro y le tentará con saberes oscuros.
 
-Alimenta la paranoia del objetivo con que igual ahora con la cicatriz por fuego puede localizarle cuando quiera, igual meterse en sus sueños o poseer su cuerpo, etc. Hazle creer que la cicatriz cambiar de forma o que duele, si está cerca Bahram.
+Alimenta la paranoia del objetivo con que igual ahora con la cicatriz por fuego puede localizarle cuando quiera, igual meterse en sus sueños o poseer su cuerpo, etc.
+
+\sp
+
+Hazle creer que la cicatriz cambiar de forma o que duele, si está cerca Bahram.
 
 Es importante que si quieren acabar con Bahram, este debe escapar. Bahram el guaro es un personaje recurrente que se dedica a sembrar el caos, haya a donde va. Además, es parte fundamental de la aventura "La caída de Giafar".
 
@@ -748,7 +785,11 @@ Amila no puede volver a su tranquila Basora hasta que no se deshaga de la casa v
 
 Amila está alojada en una modesta posada de Al-Rusafa, ya que ella tampoco se atreve a ocupar la casa familiar. La historias de fantasmas y apariciones han rondado la casa desde su construcción. Ella ha visto cosas en esa casa que con los años ha ido olvidando, pero que su subconsciente de vez en cuando le recuerda en forma de pesadillas nocturnas.
 
-La casa es la típica casa de dos pisos del zoco de tejedores. Las calles aledañas están llenas de lanas teñidas y de talleres de hilado y telares. Hay olores raros y las telas secándose en colgadores en la calle no deja que en sol entre en el primer piso.
+La casa es la típica casa de dos pisos del zoco de tejedores. Las calles aledañas están llenas de lanas teñidas y de talleres de hilado y telares.
+
+\sp
+
+Hay olores raros y las telas secándose en colgadores en la calle no deja que en sol entre en el primer piso.
 
 #### Historia de la casa
 
@@ -766,17 +807,31 @@ Fátimah ha sabido del problema de Amila y ha hablado con ella y ha llegado a un
 
 La casa pasó de generación en generación hasta Adif ben-Amid que murió hace unos años sin descendencia. La hacienda la heredó su sobrino, el padre de Amila, y tras morir acabó en manos de Amila.
 
-Adif, a diferencia de su familia y vecinos, profesaba una extraña forma del zoroastrismo. Lo más curioso es que el albacea de las últimas voluntades de Adif ben-Amid es el sacerdote zoroastrista Ouadi del cercano templo de la Contemplación.
+Adif, a diferencia de su familia y vecinos, profesaba una extraña forma del zoroastrismo. 
 
-**Preguntando a los tejedores y vecinos:** Los rumores que corren entre los vecinos son que la presencia maligna que deambula por la casa es el fantasma de Adif. Su alma no ha podido trascender por sus impías creencias religiosas que Adif practicaba. Atestiguan que cuando la casa está vacía se ven luces y se oyen ruidos. Los vecinos más viejos recordarán las peleas con el huraño de Adif ben-Amid y que solía frecuentar el infame templo de la Contemplación.
+\sp
 
-**Preguntando a las autoridades:** La guardia de la ciudad conoce de sobra las historias de la casa y ha llegado a obviar las denuncias de sus inquilinos. Si se dedican a repartir propinas, bebida y comida gratis para soltar la lengua a los guardas, un viejo guarda borrachín les contará la historia de la masacre del templo de la Contemplación.
+Lo más curioso es que el albacea de las últimas voluntades de Adif ben-Amid es el sacerdote zoroastrista Ouadi del cercano templo de la Contemplación.
+
+**Preguntando a los tejedores y vecinos:** Los rumores que corren entre los vecinos son que la presencia maligna que deambula por la casa es el fantasma de Adif. Su alma no ha podido trascender por sus impías creencias religiosas que Adif practicaba. Atestiguan que cuando la casa está vacía se ven luces y se oyen ruidos. 
+
+Los vecinos más viejos recordarán las peleas con el huraño de Adif ben-Amid y que solía frecuentar el infame templo de la Contemplación.
+
+**Preguntando a las autoridades:** La guardia de la ciudad conoce de sobra las historias de la casa y ha llegado a obviar las denuncias de sus inquilinos.
+
+Si se dedican a repartir propinas, bebida y comida gratis para soltar la lengua a los guardas, un viejo guarda borrachín les contará la historia de la masacre del templo de la Contemplación.
 
 #### La masacre del templo de la Contemplación
 
-Todo indica que la siguiente pista lleva al Templo de la Contemplación. Hace unos años ocurrió un suceso conocido como la Masacre del templo de la Contemplación. Un grupo de asesinos (contratados por Giafar) encerró en el Templo a un grupo de personas que había secuestrado por toda la ciudad y los quemo vivos. A priori ninguna de las víctimas tenía relación directa, pero algunos habían sido acusados de brujería o habían estado investigados por unos escabrosos casos de secuestro y asesinato de niños y niñas.
+Todo indica que la siguiente pista lleva al Templo de la Contemplación. Hace unos años ocurrió un suceso conocido como la Masacre del templo de la Contemplación. Un grupo de asesinos (contratados por Giafar) encerró en el Templo a un grupo de personas que había secuestrado por toda la ciudad y los quemo vivos. 
 
-Al final de la calle de los teñidores, a unas manzanas de la casa encantada, hay un viejo templo arrasado por el fuego. Una tirada de Notar permitirá encontrar una entrada secreta en el suelo del templo que lleva a una especie sótano. Necesitarán despejar la entrada, ya que está lleno de cascotes y restos quemados del techo. La trampilla del sótano está cerrada por dentro, así que alguien debió intentar resguardarse allí.
+A priori ninguna de las víctimas tenía relación directa, pero algunos habían sido acusados de brujería o habían estado investigados por unos escabrosos casos de secuestro y asesinato de niños y niñas.
+
+Al final de la calle de los teñidores, a unas manzanas de la casa encantada, hay un viejo templo arrasado por el fuego. Una tirada de Notar permitirá encontrar una entrada secreta en el suelo del templo que lleva a una especie sótano.
+
+Necesitarán despejar la entrada, ya que está lleno de cascotes y restos quemados del techo. La trampilla del sótano está cerrada por dentro, así que alguien debió intentar resguardarse allí.
+
+\sp
 
 En el sótano encontrarán dos esqueletos con túnicas religiosas que debieron morir por falta de oxígeno durante el incendio, pues no hay daños por fuego. Tirada de Humanidades para detectar los símbolos de llamas típicos del zoroastrismo. Como el fuego no entro en la estancia, la mayoría de los objetos están intactos.
 
@@ -800,21 +855,35 @@ El libro sagrado del Templo de la Contemplación debe ser considerado un grimori
 **Idioma:** Griego jónico  
 **Condición:** Usado y leído
 
+\sp
+
 #### Los feligreses de la capilla
 
-Si confeccionan la lista de parroquianos, avísales que sin buenos archivos oficiales puede llevarles media semana revisar la lista de feligreses. Los archivos oficiales que hay en el Diwán solo son accesibles con el permiso de algún kadí u otras personas importantes como el visir. Si quieren investigar la lista verán que todos murieron en la masacre, menos Sami Aldeeb que estaba fuera de Bagdad. Aldeeb es un mendigo borracho que deambula por el puerto fluvial gritando incoherencias y profecías del fin del mundo.
+Si confeccionan la lista de parroquianos, avísales que sin buenos archivos oficiales puede llevarles media semana revisar la lista de feligreses.
+
+Los archivos oficiales que hay en el Diwán solo son accesibles con el permiso de algún kadí u otras personas importantes como el visir.
+
+Si quieren investigar la lista verán que todos murieron en la masacre, menos Sami Aldeeb que estaba fuera de Bagdad.
+
+Aldeeb es un mendigo borracho que deambula por el puerto fluvial gritando incoherencias y profecías del fin del mundo.
 
 Es imposible dialogar con Aldeeb, no hila 2 palabras coherentes seguidas. Si le ofrecen algo de alcohol, tendrá un momento de claridad entre el síndrome de abstinencia y los delirios del alcohol en que podrán hacer dos preguntas y las contestará con la verdad ("in vino, veritas") sobre el templo de la Contemplación. Sé un poco críptico y vago en sus respuestas.
 
 #### Explorando la casa encantada del zoco de tejedores
 
-La casa tiene 2 plantas y un sótano. La primera planta tiene un patio principal que da paso a una cocina, un comedor, una sala de estar y las dependencias del servicio. A la segunda planta se accede por una escalera desde el patio central. Tiene un gran corredor siguiendo el patio principal que da a 4 dormitorios y un baño. Dos de los dormitorios tienen su propio baño.
+La casa tiene 2 plantas y un sótano. La primera planta tiene un patio principal que da paso a una cocina, un comedor, una sala de estar y las dependencias del servicio. 
+
+A la segunda planta se accede por una escalera desde el patio central. Tiene un gran corredor siguiendo el patio principal que da a 4 dormitorios y un baño. Dos de los dormitorios tienen su propio baño.
 
 El sacerdote Ouadi enterró a Adif en un habitáculo secreto en el sótano, siguiendo una serie de instrucciones muy concretas. Adif ha trascendido a un plano superior inmortal, convirtiéndose parte de su esencia en parte de la casa.
 
 Adif puede ejercer cierto control de la casa en forma de poltergeist en las diferentes habitaciones de la casa. Normalmente, es muy sutil con los inquilinos, pero se está cansando de eso y si detecta gente problemática les lanzará todo su arsenal, sobre todo si emplean hechizos mágicos o si bajan al sótano donde reside su cuerpo.
 
-Puede provocar ruidos y golpes en cualquier parte de la casa para atraer a la gente a diferentes partes de la casa. También puede hacer que las ratas de la casa se muevan a donde él quiera. Como toque dramático puede hacer que las paredes exuden sangre formando símbolos y palabras. Todo ello le consume 1 PP.
+\sp
+
+Puede provocar ruidos y golpes en cualquier parte de la casa para atraer a la gente a diferentes partes de la casa.
+
+También puede hacer que las ratas de la casa se muevan a donde él quiera. Como toque dramático puede hacer que las paredes exuden sangre formando símbolos y palabras. Todo ello le consume 1 PP.
 
 ##### Primera planta
 
@@ -834,9 +903,13 @@ Puede provocar ruidos y golpes en cualquier parte de la casa para atraer a la ge
 
 **Cuarto 1:** Esta habitación puede ser que era para los adultos, una gran cama con doseles con muchos cojines, un tocador, mesitas, un gran armario y un diván.
 
+\sp
+
 **Cuarto 2:** Este segundo dormitorio está medio vacío. Solo hay una cama sin colchón y un armario desvencijado. Era la habitación de Adif y su esencia maligna se nota allí mucho más que en el resto de la casa. Es por ello que nadie quiere dormir aquí.
 
-**Cuarto 3:** En este pequeño dormitorio solo hay un escritorio, una cama y un armario. Por los juguetes que hay, parece que aquí dormía uno de los hijos de los últimos inquilinos. Cuando entre alguien y empiece a registrar la habitación, la cama se elevará y se lanzará con mucha fuerza. Si gana la iniciativa podrá ponerse a la defensiva. Atacar a la cama a no ser que sea con algún hechizo de Destierro o así no servirá de nada, ya que no es posible destruirla en un solo turno. La cama es muy grande y tapa todas las salidas, así que es imposible tratar de salir de la habitación hasta que ataque, tiene Pelear d10 y hace un d12+2 de daño. Si la tirada de Pelear consigue un avance, Además de hacer un d6 de daño extra, el objetivo deberá hacer una tirada enfrentada de Fuerza o será lanzado por la ventana haciéndose un daño de 2d6+2 (caída desde 8 metros de altura).
+**Cuarto 3:** En este pequeño dormitorio solo hay un escritorio, una cama y un armario. Por los juguetes que hay, parece que aquí dormía uno de los hijos de los últimos inquilinos. Cuando entre alguien y empiece a registrar la habitación, la cama se elevará y se lanzará con mucha fuerza. Si gana la iniciativa podrá ponerse a la defensiva.
+
+Atacar a la cama a no ser que sea con algún hechizo de Destierro o así no servirá de nada, ya que no es posible destruirla en un solo turno. La cama es muy grande y tapa todas las salidas, así que es imposible tratar de salir de la habitación hasta que ataque, tiene Pelear d10 y hace un d12+2 de daño. Si la tirada de Pelear consigue un avance, Además de hacer un d6 de daño extra, el objetivo deberá hacer una tirada enfrentada de Fuerza o será lanzado por la ventana haciéndose un daño de 2d6+2 (caída desde 8 metros de altura).
 
 **Cuarto 4:** Este cuarto es parecido al anterior, pero aquí no pasará nada especial. Puedes jugar con su paranoia haciéndoles tirar Notar sobre la cama a ver si se mueve. Si entran antes en esta habitación que en el cuarto 3, puedes cambiarlo y que aquí se lance la cama.
 
@@ -844,10 +917,15 @@ Puede provocar ruidos y golpes en cualquier parte de la casa para atraer a la ge
 
 ##### Sótano
 
-**Despensa:** Esta estancia está llena de baldas, estanterías y cajas. Puedes encontrar en ellos comida caducada, herramientas, vajillas viejas, telas para trapos y algunos productos de limpieza. Hay también una pequeña bodega casi vacía y un gran cajón lleno de sal para conservar comida. En una de baldas hay una daga oxidada (no es óxido, en realidad es sangre seca). La daga está encantada, Adif puede moverla a voluntad para atacar, gastando 1 PP para hacerla actuar por 1 turno. Es muy difícil destruirla a golpe de machete, ya que es muy difícil de impactar, y es de metal. Sería más fácil quemarla o algo similar. Podrían intentar atraparla con las manos e inmovilizarla dentro de una caja o hacer que se clave contra algo de madera.
+**Despensa:** Esta estancia está llena de baldas, estanterías y cajas. Puedes encontrar en ellos comida caducada, herramientas, vajillas viejas, telas para trapos y algunos productos de limpieza. Hay también una pequeña bodega casi vacía y un gran cajón lleno de sal para conservar comida.
 
-Jambia mágica
+En una de baldas hay una daga oxidada (no es óxido, en realidad es sangre seca). La daga está encantada, Adif puede moverla a voluntad para atacar, gastando 1 PP para hacerla actuar por 1 turno. 
 
+\sp
+
+Es muy difícil destruirla a golpe de machete, ya que es muy difícil de impactar, y es de metal. Sería más fácil quemarla o algo similar. Podrían intentar atraparla con las manos e inmovilizarla dentro de una caja o hacer que se clave contra algo de madera.
+
+* **Jambia mágica**
 * **Pelear:** d10 (1d8 + 1d4)
 * **Paso:** 8
 * **Parada:** 7
@@ -869,6 +947,9 @@ Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer l
 * **Habilidades:** Atletismo d6, Conocimientos Generales d10, Humanidades d10, Idioma Materno d10, Intimidar d8, Notar d8, Persuadir d4, Pelear d6, Saber de Suleimán d8, Sigilo d6
 * **Paso:** 4; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Nuevos poderes, Puntos de poder
+
+\sp
+
 * **Capacidades especiales:**
     * **Hechizos:** PP 20, Ojos de serpiente, Círculo de invocación, Diamante líquido, Luces deslumbrantes, Mecer
 * **TPC:** 1d4 (si se mueve)
@@ -891,11 +972,17 @@ Si no hacen el trabajo y le mienten a Fátimah, Fátimah acabará muerta, ya que
 
 _Una asesina de Suc’Naath está buscando un nuevo discípulo. Ha secuestrado a varios niños y niñas de la calle y quiere hacerles pasar por unas sangrientas, crueles y, sobre todo, mortales pruebas para encontrar a su aprendiz._
 
-Tus schahriars han tenido la "suerte" de ser elegidos para participar en el mortal proceso de selección de la asesina Marhud. Los ha secuestrado uno a uno y los ha llevado a su guarida en un palacio abandonado de Ctesifonte. Allí tiene todo montado una especie de ginkana de pruebas, quien gane será su discípulo, el resto morirá.
+Tus schahriars han tenido la "suerte" de ser elegidos para participar en el mortal proceso de selección de la asesina Marhud.
 
-El secuestro lo puede hacerlo de varias formas.
+\sp
 
 [![Holar Peek by Brandon-Ellis](./images/mercado-asesino.jpg)](https://www.deviantart.com/brandon-ellis/art/Holar-Peek-936454439 "Holar Peek by Brandon-Ellis") 
+
+Los ha secuestrado uno a uno y los ha llevado a su guarida en un palacio abandonado de Ctesifonte. 
+
+Allí tiene todo montado una especie de ginkana de pruebas, quien gane será su discípulo, el resto morirá.
+
+El secuestro lo puede hacerlo de varias formas.
 
 * **A la fuerza.** Podría derrotarles en combate cuando los encuentre solos. Los dejaría inconscientes y los llevaría a su guarida en Ctesifonte.
 * **Con drogas.** Quizás pueda drogar su agua o comida o les ofrezca deliciosa comida drogada. Quizás después de una pelea se ofrezca a curarles y en realidad les dé drogas en vez de medicinas.
@@ -905,11 +992,19 @@ Sea como sea el asesino los meterá en un carro y saldrá de Bagdad para encamin
 
 El asesino tiene una poción para borrar y manipular recuerdos. Le obligará a tomarla y modificará sus recuerdos para que crea que es su aprendiz y que sus compañeros han muerto por su mano. Todas estas atrocidades deberían quebrar su cordura y lo dejaría preparado para convertirse en un asesino de la Mano Dorada de Suc’Naath.
 
-Para controlar lo que pasa en todo momento hay una serie de mirillas en las paredes y los techos de las salas. Una tirada de Notar normal detectará las mirillas, pero solo una tirada de Notar contra el Sigilo del asesino podrá decirles si está o no cerca el asesino y si vigila lo que hacen. Si van a tratar de escapar o quieren tenderle una trampa, es importante que sepan si están siendo o no vigilados para hacer y decir unas cosas u otras.
+Para controlar lo que pasa en todo momento hay una serie de mirillas en las paredes y los techos de las salas. 
+
+\sp
+
+Una tirada de Notar normal detectará las mirillas, pero solo una tirada de Notar contra el Sigilo del asesino podrá decirles si está o no cerca el asesino y si vigila lo que hacen.
+
+Si van a tratar de escapar o quieren tenderle una trampa, es importante que sepan si están siendo o no vigilados para hacer y decir unas cosas u otras.
 
 #### Primera sala
 
-En esta sala se despertarán tus schahriars. Estarán atados de pies y manos y en la pared estará escrito en grandes letras "Solo uno sobrevivirá para servir a la Mano Dorada". Una tirada de Saber de Suleimán les dirá que la Mano Dorada es una secta de adoradores de un dios pagano llamado Suc’Naath. Con avances dales más datos de la descripción de la secta.
+En esta sala se despertarán tus schahriars. Estarán atados de pies y manos y en la pared estará escrito en grandes letras "Solo uno sobrevivirá para servir a la Mano Dorada".
+
+Una tirada de Saber de Suleimán les dirá que la Mano Dorada es una secta de adoradores de un dios pagano llamado Suc’Naath. Con avances dales más datos de la descripción de la secta.
 
 Les han quitado las armas, las herramientas y en general cualquier objeto grande que portaran, solo tienen sus ropas y cosas pequeñas como anillos o amuletos. Objetos mágicos como un kohl de invisibilidad o sangre de fénix hay un 50% de posibilidades de que los detecte y se los quite.
 
@@ -919,7 +1014,11 @@ En una esquina hay una caja de madera de gran tamaño que al abrirla apestará a
 
 El asesino vigilará la reacción de sus víctimas al ver el contenido del cajón de madera. Necesita un aprendiz con sangre fría e impasible a las atrocidades que tenga que hacer.
 
-La puerta está reforzada (Consistencia 9) y la cerradura es de calidad (-2 Latrocinio) pero se puede forzar si encuentran algo que sirva de ganzúa. Entre los restos de cadáveres hay unas ganzúas (o un llavero con un montón de llaves si ninguno tiene Latrocinio), pero exige meterse dentro del cajón y revolver entre las partes cuerpos podridos (TPC d8).
+La puerta está reforzada (Consistencia 9) y la cerradura es de calidad (-2 Latrocinio) pero se puede forzar si encuentran algo que sirva de ganzúa.
+
+\sp
+
+Entre los restos de cadáveres hay unas ganzúas (o un llavero con un montón de llaves si ninguno tiene Latrocinio), pero exige meterse dentro del cajón y revolver entre las partes cuerpos podridos (TPC d8).
 
 La cerradura de la puerta y el resto de cerraduras están envenenadas. El que manipule la cerradura irá absorbiendo parte del veneno. Si absorbe 3 partes, se envenenará con una variante cutánea del bang cretense (Incapacitante -4).
 
@@ -929,13 +1028,17 @@ En la segunda sala solo hay la puerta a la tercera sala y una gran fuente de pie
 
 En esta sala el asesino busca descubrir la capacidad de aguantar el dolor y los redaños para hacer lo que haya que hacer para sobrevivir.
 
+[![We’re Martyrs For Seyduna! by MuratCALIS](./images/asesino-suc-naath.jpg)](https://www.deviantart.com/muratcalis/art/We-re-Martyrs-For-Seyduna-291246437 "We’re Martyrs For Seyduna! by MuratCALIS") 
+
 Si puede conseguir almacenar un vaso de agua regia de alguna manera, pueden usarlo como arma arrojadiza haciendo 2d6 de daño si se pasa una tirada de Disparar (2 casillas de alcance). Si se apunta a los ojos se deja ciego al objetivo.
 
 #### Tercera sala
 
-En esta sala hay 3 ghūles hambrientos. Llevan varios días sin comer y están realmente hambrientos. Nada más se abre la puerta se lanzarán al ataque en busca de carne humana sin mediar palabra. Si tus schahriars no han hecho nada para tratar de averiguar que hay al otro lado, estarán sorprendidos.
+En esta sala hay 3 ghūles hambrientos. Llevan varios días sin comer y están realmente hambrientos. 
 
-[![We’re Martyrs For Seyduna! by MuratCALIS](./images/asesino-suc-naath.jpg)](https://www.deviantart.com/muratcalis/art/We-re-Martyrs-For-Seyduna-291246437 "We’re Martyrs For Seyduna! by MuratCALIS") 
+\sp
+
+Nada más se abre la puerta se lanzarán al ataque en busca de carne humana sin mediar palabra. Si tus schahriars no han hecho nada para tratar de averiguar que hay al otro lado, estarán sorprendidos.
 
 #### Cuarta sala
 
@@ -956,6 +1059,8 @@ Si consiguen pasar la trampilla les esperará el asesino entrenado de la secta d
 
 Si lo derrotan tendrá un botín de d6. Entre sus pertenencias y los objetos robados en sus trabajos. Llevará tatuada la marca de la Mano Dorada. Puede que no la vean en años, pero seguramente tendrán un nuevo encuentro con los cultistas de Suc’Naath.
 
+\sp
+
 **Poción borra recuerdos:** La poción de borrar recuerdos permite, si se falla una tirada de Espíritu contra d10 de la poción, en remodelar los recuerdos a voluntad. Podrá borrar o editar todos los recuerdos que se quieran. El problema es que cuanto más recuerdos se modifiquen, más posibilidades hay de que noten las modificaciones y el efecto de la poción desaparezca.
 
 > /s/ **Recompensa de deseos:** Sé generoso en deseos con aquellos que hagan heroicidades o tengan ideas ingeniosas que les ayuden a escapar.
@@ -963,6 +1068,8 @@ Si lo derrotan tendrá un botín de d6. Entre sus pertenencias y los objetos rob
 &nbsp;
 
 > Una forma interesante de jugar este cuento es que haya dos grupos, uno que trate de sobrevivir a las pruebas y otro que investigue el secuestro y trate de encontrar a sus compañeros. En este caso lo mejor sería que los mayores sean los secuestrados y los pequeños los que tengan que encontrarlos.
+
+\sc
 
 ### Cuentos salvajes que puedes meter dentro de esta campaña
 

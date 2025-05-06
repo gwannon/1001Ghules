@@ -755,7 +755,7 @@ Al-Schamardal, junto a su gente, vació de objetos como herramientas, mesas, est
 
 Más allá de la última estancia hay una sala de control que Al-Schamardal oculto con una pared falsa (-4 a Notar para encontrarla). En ella estaban los controles de los drones, los proyectores holográficos y un sistema de autodestrucción que ya no funciona en caso de fugas biológicas.
 
-\conc
+\sinc
 
 ##### La puerta de oro bajo el río
 

@@ -458,17 +458,20 @@ Con esta sencilla fórmula, cualquier puerta por grande y pesada que sea se abre
 
 _Poder:_ Aura dañina
 
-> El yinn resoplo enfurecido expulsando vapores sulfurosos por su gran nariz, o lo que un siervo del único creador, diría que era una nariz, ya que aquel genio no se parecía nada a los cuentos que se contaban al anochecer en los fuegos de campamento. Los vapores apestosos fueron cubriéndole hasta que con chasquido de sus deformes dedos creo una chispa como si fueran de acero y pedernal y se prendieron cubriendo su larguirucho cuello de llamas sin humo.
+> /p/ El yinn resoplo enfurecido expulsando vapores sulfurosos por su gran nariz, o lo que un siervo del único creador, diría que era una nariz, ya que aquel genio no se parecía nada a los cuentos que se contaban al anochecer en los fuegos de campamento. Los vapores apestosos fueron cubriéndole hasta que con chasquido de sus deformes dedos creo una chispa como si fueran de acero y pedernal y se prendieron cubriendo su larguirucho cuello de llamas sin humo.
 
 Frotando azufre con firmeza y rapidez en tu tripa se crea un fuego que te cubre todo el cuerpo. Tu respiración sale de tu cuerpo en forma de humos y vapores sulfúricos. Tu cuerpo emite vapores ardientes y llamas infernales.
 
-\sp
 
 ### Aceite de dan dan
 
 _Poder:_ Protección medioambiental (agua y presión)
 
-> Al oír estas palabras, el terrestre dijo al marítimo: "En ese caso, no tengo inconveniente en sumergirme contigo. ¡Tráeme, pues, el ungüento consabido para que lo ensaye!" El marítimo contestó: "¡Eso es lo que voy a hacer!" Y se llevó el cesto de frutas y se metió en el mar para volver al cabo de unos instantes llevando en las manos una vasija llena de un ungüento parecido a la grasa de las vacas y de un color amarillo como el oro, y de un olor absolutamente delicioso. Y preguntó Abdalah de la Tierra: "¿Con qué se compone este ungüento?" El otro contestó: "Se compone con grasa del hígado de una especie entre las especies de peces que se llama dan dan. ¡Y este pez dan dan es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!"
+> Al oír estas palabras, el terrestre dijo al marítimo: "En ese caso, no tengo inconveniente en sumergirme contigo. ¡Tráeme, pues, el ungüento consabido para que lo ensaye!" El marítimo contestó: "¡Eso es lo que voy a hacer!" Y se llevó el cesto de frutas y se metió en el mar para volver al cabo de unos instantes llevando en las manos una vasija llena de un ungüento parecido a la grasa de las vacas y de un color amarillo como el oro, y de un olor absolutamente delicioso. 
+
+\sp
+
+> Y preguntó Abdalah de la Tierra: "¿Con qué se compone este ungüento?" El otro contestó: "Se compone con grasa del hígado de una especie entre las especies de peces que se llama dan dan. ¡Y este pez dan dan es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!"
 > 
 > **Referencia:** Historia de Abdalah de la tierra y de Abdalah del mar (n. 512)
 
@@ -500,7 +503,7 @@ El o la conjuradora afila su arma contra un objeto duro y adquiere un filo brill
 
 _Poder:_ Caminar sobre las aguas
 
-> Haciendo lo que su maestro le había dicho, se quitó rápidamente las babuchas y las sumergió en el agua mientras rezaba las salmodias que le hizo memorizar su amo. Los zumbidos de esos seres se oían cerca y con el miedo recorriendo su espinazo, se puso de nuevo las babuchas que ahora estaban hinchadas y eran casi transparente como medusas del Mar Rojo. Esos seres no podían tocar el agua y cuando empezó a andar sobre la superficie del mar fue poco a poco recuperando la tranquilidad de su espíritu.
+> /p/ Haciendo lo que su maestro le había dicho, se quitó rápidamente las babuchas y las sumergió en el agua mientras rezaba las salmodias que le hizo memorizar su amo. Los zumbidos de esos seres se oían cerca y con el miedo recorriendo su espinazo, se puso de nuevo las babuchas que ahora estaban hinchadas y eran casi transparente como medusas del Mar Rojo. Esos seres no podían tocar el agua y cuando empezó a andar sobre la superficie del mar fue poco a poco recuperando la tranquilidad de su espíritu.
 
 Al mojar tus babuchas, estás se vuelven transparentes, como de agua pura, y aumentan de tamaño. Ahora flotan sobre el agua y puedes caminar sobre ella.
 
@@ -550,7 +553,11 @@ Al crear un círculo místico en la tierra o la arena alrededor tuyo, aparecerá
 
 _Poder:_ Invocación de aliados
 
-> Al oír la princesa el ruego de su padre, cogió un cuchillo que tenía unas inscripciones en lengua hebrea, trazó con él un círculo en el suelo, escribió allí varios renglones talismánicos, y después se colocó en medio del círculo, murmuró algunas palabras mágicas, leyó en un libro antiquísimo unas cosas que nadie entendía, y así permaneció breves instantes. Y he aquí que de pronto nos cubrieron unas tinieblas tan espesas, que nos creíamos enterrados bajo las ruinas del mundo. Y súbitamente apareció el efrit Georgirus bajo el aspecto más horrible, las manos como rastrillos, las piernas como mástiles y los ojos como tizones encendidos.
+> Al oír la princesa el ruego de su padre, cogió un cuchillo que tenía unas inscripciones en lengua hebrea, trazó con él un círculo en el suelo, escribió allí varios renglones talismánicos, y después se colocó en medio del círculo, murmuró algunas palabras mágicas, leyó en un libro antiquísimo unas cosas que nadie entendía, y así permaneció breves instantes. 
+
+\sc
+
+> Y he aquí que de pronto nos cubrieron unas tinieblas tan espesas, que nos creíamos enterrados bajo las ruinas del mundo. Y súbitamente apareció el efrit Georgirus bajo el aspecto más horrible, las manos como rastrillos, las piernas como mástiles y los ojos como tizones encendidos.
 > 
 > **Referencia:** Historia del segundo saaluk (n. 14)
 
@@ -638,9 +645,9 @@ Aspiras fuerte y tu tripa se lleva de aire que te permite elevarte y volar. Cont
 
 _Poder:_ Transmutación
 
-> Apenas escuchó ella mis palabras, cogió una cacerola de cobre, llenándola de agua y pronunciando sus conjuros mágicos. Después roció con el líquido a la estatua, y le dijo: “Si te crearon estatua, sigue estatua, sin cambiar de forma; pero si estás encantado, recobra tu figura primera con el permiso de Suc’Naath”
-> 
-> **Referencia:** Cuento del primer Jeque (n. 2)
+> /p/ Apenas escuchó ella mis palabras, cogió una cacerola de cobre, llenándola de agua y pronunciando sus conjuros mágicos. Después roció con el líquido a la estatua, y le dijo: “Si te crearon estatua, sigue estatua, sin cambiar de forma; pero si estás encantado, recobra tu figura primera con el permiso de Suc’Naath”
+> /p/ 
+> /p/ **Referencia:** Cuento del primer Jeque (n. 2)
 
 Usando algún tipo de recipiente lleno de agua para salpicar al objetivo y haciendo las plegarias adecuadas puedes conseguir la transmutación de un objeto o persona. Lo mejor sería algún tipo de hisopo que es un objeto con mango de madera o metal que lleva en su extremo un manojo de cerdas o una bola metálica hueca y agujereada. Las cerdas o la bola se introducen en agua y al agotarlo salpican agua normalmente para bendecir personas, cosas o lugares.
 
@@ -648,7 +655,7 @@ Usando algún tipo de recipiente lleno de agua para salpicar al objetivo y hacie
 
 _Poder:_ Manipulación de recuerdos
 
-> Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: "Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infringiré mañana".
+> /p/ Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: "Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infringiré mañana".
 
 \sp
 
@@ -668,7 +675,7 @@ El mago a maga puede acostarse cerca del lugar, objeto o persona dormida a la qu
 
 _Poder:_ Zombis
 
-> Yendo en contra de todos los mandatos del Libro, Huseeim, como un hábil carnicero del zoco despiezando carneros, corto por la mitad los cadáveres que sus acólitos habían desenterrado y robado. Con sus ropajes ceremoniales llenos de sangre y vísceras, empezó a recitar en lengua judaica los mantras talismánicos hasta que una de las mitades en un estertor movió su pierna.
+> /p/ Yendo en contra de todos los mandatos del Libro, Huseeim, como un hábil carnicero del zoco despiezando carneros, corto por la mitad los cadáveres que sus acólitos habían desenterrado y robado. Con sus ropajes ceremoniales llenos de sangre y vísceras, empezó a recitar en lengua judaica los mantras talismánicos hasta que una de las mitades en un estertor movió su pierna.
 
 Necesitarás cadáveres completos y relativamente reciente y cortarlos por la mitad de arriba abajo. De esa forma, cuando el cadáver se levante, será un nasnas. Si no se cortan los cadáveres, se obtendrán zombis normales.
 
@@ -678,7 +685,7 @@ La ventaja del nasnas es que es más poderoso y obtenemos 2 nasnas por cadáver,
 
 _Poder:_ Ceguera
 
-> Cuando intento acercarse dispuesto a acabar con la existencia de la yinn, esta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.
+> /p/ Cuando intento acercarse dispuesto a acabar con la existencia de la yinn, esta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.
 
 La persona que lanza el hechizo empieza a emitir una luz muy potente durante unos instantes que deslumbra al objetivo. 
 
@@ -727,7 +734,7 @@ Apuntas con tu culo a tus objetivos y puedes lanzar un poderoso ventosidad hacia
 
 _Poder:_ Marioneta
 
-> Badrú’l-Budur estaba embaucada por los ojos de la vieja santa, unos ojos profundos y de color cambiante que le hacían obedecer las órdenes de la jeiquesa por perversos y antinaturales que pudieran parecer a una persona auténticamente creyente.
+> /p/ Badrú’l-Budur estaba embaucada por los ojos de la vieja santa, unos ojos profundos y de color cambiante que le hacían obedecer las órdenes de la jeiquesa por perversos y antinaturales que pudieran parecer a una persona auténticamente creyente.
 
 Los ojos del brujo o bruja toman la forma de los de una serpiente y sus víctimas no puede dejar de mirarlos.
 
@@ -758,7 +765,11 @@ Los pelos de gigante tienen muchos usos como cuerdas o componentes mágicos, per
 
 _Poder:_ Disfraz
 
-> "¡Oh amos míos! ¡Loores a Alah, que ha armado el brazo de una débil muchacha para vengaros del jefe de vuestros enemigos! ¡Ved si este muerto no es el mercader de aceite, el propio capitán de los ladrones con sus mismos ojos, el hombre que no quería probar la sal sagrada de la hospitalidad!" Y así diciendo, despojó de su manto el cuerpo yacente, e hizo ver bajo su larga barba y el disfraz con que se había embozado para la circunstancia al enemigo que juró destruirles.
+> "¡Oh amos míos! ¡Loores a Alah, que ha armado el brazo de una débil muchacha para vengaros del jefe de vuestros enemigos!
+
+\sc
+
+> ¡Ved si este muerto no es el mercader de aceite, el propio capitán de los ladrones con sus mismos ojos, el hombre que no quería probar la sal sagrada de la hospitalidad!" Y así diciendo, despojó de su manto el cuerpo yacente, e hizo ver bajo su larga barba y el disfraz con que se había embozado para la circunstancia al enemigo que juró destruirles.
 > 
 > **Referencia:** Historia de Alí Babá y los cuarenta ladrones (n. 859)
 
@@ -768,9 +779,9 @@ Cambiando de alguna forma tu pelo o vello, cortando tu barba o recortando el fle
 
 _Poder:_ Sueño
 
-> Y Sett Budur le puso la cabeza en la curva de sus brazos, se la apoyó contra el pecho, y a media voz le cantó versos de un ritmo tan propio para mecer, que la joven durmióse a poco con una sonrisa de dicha en los labios.
-> 
-> **Referencia:** Historia de Kamaralzaman y la princesa Budur, la luna más bella entre todas las lunas (n. 210)
+> /p/ Y Sett Budur le puso la cabeza en la curva de sus brazos, se la apoyó contra el pecho, y a media voz le cantó versos de un ritmo tan propio para mecer, que la joven durmióse a poco con una sonrisa de dicha en los labios.
+> /p/ 
+> /p/ **Referencia:** Historia de Kamaralzaman y la princesa Budur, la luna más bella entre todas las lunas (n. 210)
 
 \sp
 
@@ -800,7 +811,7 @@ Consumiendo una pequeña parte del animal en el que se desea convertirse, puedes
 
 _Poder:_ Invisibilidad
 
-> Los extraños que habitan aquellas ruinas reptaban hacia ella, dejando surcos en la arena que el desierto, el viento y el tiempo habían acumulado dentro de la sala. Nahid sacó su capa y la lanzó delante suyo y cuando esta cayó al suelo había desaparecido para asombro de los reptadores.
+> /p/ Los extraños que habitan aquellas ruinas reptaban hacia ella, dejando surcos en la arena que el desierto, el viento y el tiempo habían acumulado dentro de la sala. Nahid sacó su capa y la lanzó delante suyo y cuando esta cayó al suelo había desaparecido para asombro de los reptadores.
 
 La persona que lanza este hechizo debe, por lo menos, parcialmente ocultarse a la vista de sus objetivos, por ejemplo, tapándose con una capa, ocultándose detrás de una columna, etc.
 
@@ -824,7 +835,7 @@ No cualquier hechizo puede hacerse permanente y convertirse en maldición. Cómo
 
 Mejorar un atributo y hacerlo permanente no es una maldición, no tiene una intención maligna. Hacer que te conviertas en asno para que tu pareja te use para arar sus campos y te castigue dando fustazos sin saber que está castigando a su querida pareja.
 
-> Conviene recalcar que las maldiciones deberían ser hechizos que solo deberían tener le gente malvada de tus relatos que usarán para atormentar a tus schahriars. No es un conocimiento que deberían tener los propios schahriars para usarlos indiscriminadamente, como mucho deberían usarlo para quitar esa maldición o en casos de extrema necesidad.
+> /p/ Conviene recalcar que las maldiciones deberían ser hechizos que solo deberían tener la gente malvada de tus relatos que usarán para atormentar a tus schahriars. No es un conocimiento que deberían tener los propios schahriars para usarlos indiscriminadamente, como mucho deberían usarlo para quitar esa maldición o en casos de extrema necesidad.
 
 Las maldiciones son hechizos que deben ser aprendidos como el resto de hechizos, pero que tienen la característica que son permanentes hasta que se cumpla una condición o alguna persona que conozca la maldición decida quitarla.
 
@@ -902,7 +913,11 @@ Algún schahriar inteligente podría meter a una persona con una enfermedad term
 * **Resistencia:** VIG
 * **Puntos de poder:** 6
 
-> «Sabrás, ¡oh, efrit! que, en la antigüedad del tiempo y en lo pasado de la edad, hubo en la ciudad de Fars, en el país de los rumán, un rey llamado Yunán. Era rico y poderoso, señor de ejércitos, dueño de fuerzas considerables y de aliados de todas las especies de hombres. Pero su cuerpo padecía una lepra que desesperaba a los médicos y a los sabios. Ni drogas, ni píldoras, ni pomadas le hacían efecto alguno, y ningún sabio pudo encontrar un eficaz remedio para la espantosa dolencia. Pero cierto día llegó a la capital del rey Yunán un médico anciano, de renombre, llamado Ruyán.
+> «Sabrás, ¡oh, efrit! que, en la antigüedad del tiempo y en lo pasado de la edad, hubo en la ciudad de Fars, en el país de los rumán, un rey llamado Yunán. Era rico y poderoso, señor de ejércitos, dueño de fuerzas considerables y de aliados de todas las especies de hombres. Pero su cuerpo padecía una lepra que desesperaba a los médicos y a los sabios.
+
+\sc
+
+> Ni drogas, ni píldoras, ni pomadas le hacían efecto alguno, y ningún sabio pudo encontrar un eficaz remedio para la espantosa dolencia. Pero cierto día llegó a la capital del rey Yunán un médico anciano, de renombre, llamado Ruyán.
 > 
 > **Referencia:** Historia del visir del rey Yunán y el médico Ruyán (n. 4)
 
@@ -982,7 +997,11 @@ _Olvídate de la chorrada del beso de amor verdadero, la gente dormida no da su 
 * **Resistencia:** VIG
 * **Puntos de poder:** 8
 
-> Pero mi naturaleza real es la de un ser humano, kadí de profesión. Y me transformaron en pollino los enemigos que tengo, que están versados en la hechicería y en los encantamientos. Y como no conozco las ciencias ocultas, me veo privado de recursos y armas contra ellos. Sin embargo, como, a pesar de todo, son creyentes, permiten que de vez en cuando, en los días de sesiones de justicia, recobre mi forma humana, dejando de ser pollino, para ir a dar audiencia en el diwán. ¡Y de tal suerte tengo que vivir, siendo pollino unas veces y kadí otras, hasta que Alah el Altísimo quiera librarme de los encantos de mis enemigos y romper el hechizo que me escribieron!
+> Pero mi naturaleza real es la de un ser humano, kadí de profesión. Y me transformaron en pollino los enemigos que tengo, que están versados en la hechicería y en los encantamientos. Y como no conozco las ciencias ocultas, me veo privado de recursos y armas contra ellos. Sin embargo, como, a pesar de todo, son creyentes, permiten que de vez en cuando, en los días de sesiones de justicia, recobre mi forma humana, dejando de ser pollino, para ir a dar audiencia en el diwán.
+
+\sc
+
+> ¡Y de tal suerte tengo que vivir, siendo pollino unas veces y kadí otras, hasta que Alah el Altísimo quiera librarme de los encantos de mis enemigos y romper el hechizo que me escribieron!
 > 
 > **Referencia:** El pollino kadí (n. 801)
 
@@ -994,7 +1013,11 @@ La trasformación sigue las reglas del poder "Cambio de forma" y puede elegir si
 > 
 > **Referencia:** Cuento del primer Jeque (n. 1)
 
-Las condiciones pueden ser variadas según el animal, por ejemplo, un animal de granja puede quitarse la maldición si rastrilla las tierras del emir en un día o si consigue que crezca hierba en el desierto y aves podría darles algún fruto mágico o bañarse en aguas de algún lago o cascada mágica.
+Las condiciones pueden ser variadas según el animal. 
+
+\sp
+
+Por ejemplo, un animal de granja puede quitarse la maldición si rastrilla las tierras del emir en un día o si consigue que crezca hierba en el desierto y aves podría darles algún fruto mágico o bañarse en aguas de algún lago o cascada mágica.
 
 \sp
 
@@ -1008,35 +1031,47 @@ Las condiciones pueden ser variadas según el animal, por ejemplo, un animal de 
 > 
 > **Referencia:** Historia maravillosa del espejo de las vírgenes (n. 723)
 
-\conc
+&nbsp;
 
-\sp
+\conc
 
 El libro de hechizos o grimorio mágico es un elemento fundamental que necesita toda aquella persona que practique la magia. Su estudio permite aprender nuevos hechizos y mejorar tus capacidades mágicas, aumentando tu control sobre las energías mágicas y el poder de tus hechizos y maldiciones.
 
+\sp
+
 [![Silueta Un Libro Leer Literatura por garten-gg](./images/grimorio.png)](https://pixabay.com/es/photos/un-libro-leer-literatura-viejo-1740515/ "Un Libro Leer Literatura por garten-gg") 
 
-El grimorio es algo muy importante para su propietario. Nunca viajas sin él, nunca lo prestas, lo mantienes cuidado y protegido y lo tienes siempre a buen recaudo. Sin tener acceso a un grimorio, la única forma de acceder a poderes mágicos y mejorarlos es a través de una mentora o un mentor, pero será él el que paute qué hechizos aprendes o qué aspectos de tu magia mejoras y no podrá enseñarte algo que no sepas.
+El grimorio es algo muy importante para su propietario. Nunca viajas sin él, nunca lo prestas, lo mantienes cuidado y protegido y lo tienes siempre a buen recaudo. 
+
+Sin tener acceso a un grimorio, la única forma de acceder a poderes mágicos y mejorarlos es a través de una mentora o un mentor, pero será él el que paute qué hechizos aprendes o qué aspectos de tu magia mejoras y no podrá enseñarte algo que no sepas.
 
 Los grimorios normalmente no se venden, no de manos de una persona con poderes mágicos. Son demasiado preciados para ellas. Podrías comprarlo a algún buhonero o a alguien que los ha recibido en una herencia y desconoce su valor real.
 
+&nbsp;
+
+```
 Todos los grimorios tiene un nivel de poder que representa el conocimiento que se puede aprender, el número de hechizos que se pueden aprender de él y la cantidad de poder mágico (PP) que se puede conseguir siguiendo sus enseñanzas.
 
-Un libro de magia con un nivel de poder 4 permite gastar 4 avances en ventajas mágicas como Puntos de poder o Nuevos poderes. Adquirir otras ventajas de tipo mágico quedan a descripción de Scheherazade si gastan o no niveles de poder. También podemos gastar niveles de poder en subir nuestra habilidad de Saber de Suleimán.
+Un libro de magia con un nivel de poder 4 permite gastar 4 avances en ventajas mágicas como Puntos de poder o Nuevos poderes. Adquirir otras ventajas de tipo mágico quedan a descripción de Scheherazade si gastan o no niveles de poder. 
+
+También podemos gastar niveles de poder en subir nuestra habilidad de Saber de Suleimán.
+```
 
 Además de nivel de poder, todos los libros de magia tienen un idioma que se debe dominar mínimamente (d6 o más) para poder leerlo.
-
-\sp
 
 ### Leer un grimorio
 
 Leer un libro de hechizos exige mínimo de una semana ininterrumpida dedicándole por lo menos 8 horas diarias. Es decir, que puedes dormir 8 horas, estudiar 8 horas y dedicarte a tus quehaceres durante 8 horas.
 
+\sp
+
 Por ejemplo, podrías estudiar mientras viajas de pasajero en un barco, pero no si trabajas de aguador en el zoco. 8 h dormir + 8 h de trabajar + 4 horas de comer, hacer recados, etc. no deja tiempo a estudiar.
 
 Se puede dedicar 4 horas diarias, pero entonces tendrá que ser 2 semanas sin interrupción. Si se interrumpe el estudio se exigen el doble de semanas de las normales.
 
+```
 Leer un manuscrito mágico exige una tirada de TPC igual al NP que le queda para el lector, redondeando hacia abajo. La primera vez que se lee un grimorio de NP 8, la TPC será d8, la siguiente vez el nivel de poder es 7 y la TPC será de d6, la siguiente NP 6 y TPC d6, etc. Así hasta un mínimo de TPC d4.
+```
 
 ### Compartir o intercambiar grimorios
 
@@ -1046,13 +1081,16 @@ Los libros, si te dan acceso, pueden copiarse. Su magia no está en el libro en 
 
 Si la copia es mala o se hace rápidamente, podrías quitarle niveles de poder. Es un proceso tan largo que debería hacerse entre partidas y, como siempre, exige conocer el idioma del libro para poder copiarlo.
 
-\sp
 
 ### Vender y comprar grimorios
 
 Los libros son artículos de lujo, solo al alcance de la gente más rica y de las personas de más alto rango social. Y los grimorios mágicos son todavía más exclusivos. Es por ello que comprar y vender un manuscrito mágico debería ser casi el tema principal de un cuento salvaje.
 
-Para poderse hacer una idea, el precio de un grimorio rondaría los 10.000 dinares por nivel de poder. Pero este es un valor orientativo, y puedes subirlo o bajarlo según te interese. En una subasta el precio podría ascender a 20.000 por NP y seguramente que un avaro prestamista lo tasaría en como mucho 5.000 dinares el NP.
+Para poderse hacer una idea, el precio de un grimorio rondaría los 10.000 dinares por nivel de poder.
+
+\sp
+
+Pero este es un valor orientativo, y puedes subirlo o bajarlo según te interese. En una subasta el precio podría ascender a 20.000 por NP y seguramente que un avaro prestamista lo tasaría en como mucho 5.000 dinares el NP.
 
 ### Modificaciones de los grimorios
 
@@ -1070,11 +1108,11 @@ Hay cosas que pueden modificar el nivel de poder del grimorio:
 
 Crear un grimorio mágico es bastante fácil, solo necesitas, un título atractivo, una descripción interesante, un nivel de poder y el idioma en que fue escrito.
 
-\sp
-
 Es interesante que le metas alguna regla que lo haga especial, como que puede encontrarse en varios tomos o que solo puede ofrecer hechizos con ornamentos de fuego.
 
 Te ofrecemos un listado con grimorios mágicos reales o inventados tanto de las 1001 Noches como de los Mitos de Cthulhu que cuadren en la época de esta ambientación.
+
+\sp
 
 #### Anales de los Antiguos (NP 8, Maldito)
 
@@ -1100,7 +1138,6 @@ Es un libro oracular chino cuyos primeros textos se suponen escritos hacia el 12
 
 El libro describe la vida de Eibon, un hechicero y nigromante hiperbóreo, así como varios hechizos, conjuros e invocaciones.
 
-\sp
 
 El libro original está escrito en el lenguaje hiperbóreo pictográfico conocido como tsath-yo. Pero se han hecho traducciones al latín y griego jónico.
 
@@ -1111,6 +1148,8 @@ El libro original está escrito en el lenguaje hiperbóreo pictográfico conocid
 Pnakotica es la traducción al griego de los Manuscritos Pnakóticos, un grimorio escrito por la gran raza de los abu-qith antes de la aparición del hombre.
 
 Contiene mucha información acerca de estos yinns, así como de otras muchas materias taumatúrgicas, incluyendo descripciones de dioses exteriores, primigenios y lugares míticos y como llegar a ellos.
+
+\sp
 
 #### Séfer HaRazim - El libro de los secretos (NP 8)
 
@@ -1130,11 +1169,11 @@ Puede encontrarse en un único tomo con NP 8 o en tomos separados con NP 1 por s
 
 Kitab an-nawamis es la traducción al árabe, atribuida a Hunayn ibn Ishaq de un texto helenístico que habría escrito Platón, el Liber Aneguemis.
 
-\sp
-
 Este libro se divide en dos partes: el libro mayor y el libro menor. El libro mayor trata de recetas para adquirir poderes (invisibilidad, adivinación, dominio de los fenómenos naturales, transformación, entre otros) y para la creación artificial de entidades vivientes híbridas, todo a partir de sustancias que incluyen preparados minerales, fluidos orgánicos (como el esperma y la sangre) y restos corporales de hombres y animales, empleándose, además, envases de vidrio y de metal dentro de un laboratorio mágico.
 
 El libro menor, por su parte, trata sobre el asunto de las ilusiones ópticas y la creación de artefactos para lograrlo.
+
+\sp
 
 #### Séfer Raziel HaMalaj - El Libro del Arcángel Raziel (NP 10)
 
@@ -1148,8 +1187,6 @@ El libro contiene las enseñanzas del arcángel Raziel a Adán y a Abraham expli
 
 Puede encontrarse en un único tomo con NP 10 o en tomos separados con NP 2 por cada libro (angelología, nombres, geometría, …).
 
-\sp
-
 #### Historia de las Aventuras de Hassan Al-Bassri (NP 4)
 
 **Idioma:** Árabe
@@ -1162,6 +1199,8 @@ Hassan Al-Bassri o Hassan de Basora fue un antiguo predicador, asceta, teólogo,
 
 Dentro de los grimorios mágicos puede ser el más popular y fácil de encontrar.
 
+\sp
+
 #### El Libro de Dzyan (NP 10, Maldito)
 
 **Idioma:** Chino
@@ -1172,8 +1211,6 @@ Este libro, totalmente hereje para casi todas las fes, trata, entre otras cosas,
 
 Solo el visir Giafar posee una copia de este libro en su idioma original, el senzar, una de las lenguas habladas en la Atlántida.
 
-\sp
-
 \sinc
 
 [![John William Waterhouse - Consulting the Oracle](./images/oraculo.jpg)](https://es.wikipedia.org/wiki/Consultando_al_or%C3%A1culo#/media/Archivo:John_William_Waterhouse_-_Consulting_the_Oracle_-_Tate_Britain.jpg "John William Waterhouse - Consulting the Oracle") 
@@ -1182,8 +1219,14 @@ Solo el visir Giafar posee una copia de este libro en su idioma original, el sen
 
 ### Enseñar magia
 
-Alternativamente a la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan conocimientos mágicos. Pero mientras el conocimiento que aporta un grimorio es muy extenso, el del mentor o mentora está más limitado.
+Alternativamente a la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan conocimientos mágicos. 
 
-Solo podemos aprender los poderes que esa persona sepa y solo podemos comprar las ventajas que conozca. Si tiene cogida la ventaja Puntos de poder 2 veces, solo podremos aprender de esa persona 2 veces Puntos de poder. Tampoco podremos aprender hechizos desconocidos para esa persona.
+Pero mientras el conocimiento que aporta un grimorio es muy extenso, el del mentor o mentora está más limitado.
+
+Solo podemos aprender los poderes que esa persona sepa y solo podemos comprar las ventajas que conozca. 
+
+\sp
+
+Si tiene cogida la ventaja Puntos de poder 2 veces, solo podremos aprender de esa persona 2 veces Puntos de poder. Tampoco podremos aprender hechizos desconocidos para esa persona.
 
 Aprender de un maestro exige el mismo tiempo que leer el libro, pero en este caso maestre y aprendiz tendrán que poder destinar ese tiempo a enseñar y aprender secretos mágicos.

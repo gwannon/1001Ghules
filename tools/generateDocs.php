@@ -1,13 +1,13 @@
 <?php
 
 require __DIR__ . '/../vendor/autoload.php';
-include(__DIR__ ."/config.php");
+include(__DIR__ ."/config".$argv[1].".php");
 
 use FastVolt\Helper\Markdown;
 
 /* Generamos el HTML */
 /* -------------------------------------------------------------- */
-$md = file_get_contents(__DIR__ . "/../1001Ghules.md");
+$md = file_get_contents(__DIR__ . "/../".$argv[1].".md");
 
 $md = preg_replace_callback("/\|([a-zA-Z0-9]*)\.md\|/", function($matches) {
   $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".md"); 
@@ -17,6 +17,7 @@ $md = preg_replace_callback("/\|([a-zA-Z0-9]*)\.md\|/", function($matches) {
 $mkd = Markdown::new();
 $mkd->setContent($md);
 $tags['HTML'] = $mkd->toHtml();
+$tags['MAINID'] = $argv[1];
 $html = file_get_contents(__DIR__ . "/template.html");
 foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
@@ -125,8 +126,8 @@ $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   return $matches[0];
 }, $html);
 
-file_put_contents(__DIR__ . "/../index.html", $html);
-file_put_contents(__DIR__ . "/../metas.txt", $metas);
+file_put_contents(__DIR__ . "/../index".$argv[1].".html", $html);
+file_put_contents(__DIR__ . "/../metas".$argv[1].".txt", $metas);
 
 /* LIBs */
 /* -------------------------------------------------------------- */

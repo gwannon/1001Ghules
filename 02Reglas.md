@@ -118,7 +118,9 @@ Como se explicará más adelante, desaparecen una serie de desventajas, bien por
 
 Hay personas que no están preparadas para enfrentarse al horror y esta desventaja lo refleja. No están preparadas para todas las terribles visiones que van a presenciar y las horribles situaciones que van a experimentar. Por todo eso, enfrentarse al horror como van a hacerlo es una señal de su valor.
 
+```
 Todas las TPC tiene un nivel más. Es decir, una TPC de d8 será de d10 para el schahriar débil de mente. Este nivel extra se aplica al final, después de hacer todas las cuentas y si sale que no hay tirar TPC en realidad tira una TPC de d4. Si hay un mínimo de d4, para esta persona sería de d6.
+```
 
 ### Más cerca de la locura (mayor)
 
@@ -126,7 +128,9 @@ Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio ment
 
 \sp
 
+```
 Empiezas con 3 puntos de cordura en vez de los 4 normales. Nunca podrás tener más de 3 puntos de cordura, aunque termines una campaña con éxito y Scheherazade diga que recuperáis todos los puntos de cordura.
+```
 
 ### Hija de un zapatero remendón (mayor)
 
@@ -134,9 +138,15 @@ Esta desventaja sustituye a Pobreza. En las historias de las 1001 Noches, si ere
 
 Aladino es el hijo de un pobre zapatero remendón y su madre y él malviven hilando lana. Alí Babá es un pobre leñador que solo posee 3 mulas.
 
+&nbsp;
+
+```
 Esta desventaja implica las desventajas que da Pobreza, pero también supone que recibes un -2 a las tiradas de Persuadir con gente rica y noble (que tengan ventajas como Rico o Alcurnia).
 
 Adicionalmente, no sabes identificar cosas valiosas, ya que nunca las has conocido o usado. Puede que sepas que algo vale mucho dinero, pero no podrás tasarlo y pueden engañarte al venderlo.
+```
+
+&nbsp;
 
 ### Trastornos mentales
 
@@ -156,19 +166,31 @@ No quiere decir que no recuerde ese hecho concreto, pero solo generalmente.
 
 Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles. Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, …
 
+&nbsp;
+
+```
 En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks fallando la tirada que vaya a hacer sin posibilidad de gastar un deseo para repetirla. Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir con un oponente político o tratar de entrar sigilosamente en la casa del gobernador. Si se coge como mayor, Scheherazade podrá hacerle fallar cualquier tirada de combate y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.
+```
 
 #### Depresión (mayor/menor)
 
 Tu PJ sufre depresión y todo se le hace cuesta arriba, tiene siempre un bajo estado de ánimo y sentimientos de tristeza.
 
+&nbsp;
+
+&nbsp;
+
+```
 Si es menor al principio de cada sesión deberá tirar un d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla, pierde uno de sus deseos hasta la próxima sesión. Cuando la desventaja es mayor, directamente, cuenta con un deseo menos.
+```
 
 #### Trastorno de ansiedad generalizada (mayor/menor)
 
 Este complejo trastorno mental consiste en una ansiedad general y continua por todos los aspectos de la vida. Se siente una ansiedad tremenda por asuntos que no son tan importantes, se siente ansiedad por tomar decisiones y elegir la peor, se sienten situaciones normales como más amenazantes de lo que son e incluso se siente ansiedad por tener ansiedad.
 
+```
 En juego, el personaje con este trastorno recibe un -2 a todas las tiradas que necesite para tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir que puerta es mejor para atacar la cárcel local y liberar a tus compañeros.  
+```
 
 \sp
 
@@ -178,9 +200,13 @@ Como mayor directamente no podrá hacer la tirada, la ansiedad le atenazará dej
 
 Están muy asociados con el trastorno anterior. Tu personaje sufre un miedo terrible de repente y sin sentido ante una situación o evento normal (normal para el personaje).
 
+&nbsp;
+
+```
 Como desventaja menor, una vez por sesión, Scheherazade podrá obligar a tu schahriar a hacer una tirada de Espíritu o sufrirá un terrible ataque de pánico que le imposibilitará llevar a cabo la acción que quería hacer.  
 
 En caso de que sea mayor, no hará falta tirada, Scheherazade podrá hacer que el miedo atenace al personaje directamente imposibilitándole seguir con la acción que deseaba hacer.
+```
 
 Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Puede ser muy frustrante para cualquier persona no tener control de su personaje. Mi consejo es que lo uses como una forma de encauzar a quien se salgan de madre.
 
@@ -190,7 +216,9 @@ Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Pu
 
 El trastorno obsesivo-compulsivo (TOC) se caracteriza por un miedo no deseado (obsesiones) que provocan comportamientos repetitivos (compulsiones). Por ejemplo, un miedo a las enfermedades puede llevar a un paciente de TOC a lavarse compulsivamente las manos.
 
+```
 Deberás elegir una fobia menor y un hábito menor relacionado para formar el TOC de tu personaje.
+```
 
 #### Paranoia (mayor/menor)
 
@@ -198,23 +226,37 @@ Tu personaje está convencido de que los enemigos están en todas partes, y cree
 
 Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran a sus espaldas.
 
+```
 Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.  
+```
 
 \sp
 
+```
 Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
+```
 
 #### Megalomanía (mayor/menor)
 
 La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de manera que puede mentir, manipular o exagerar algunas situaciones o a las personas, a fin de conseguir sus objetivos.
 
+```
 A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, etc.), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
+```
+
+&nbsp;
+
+&nbsp;
+
+\sc
 
 ### La llamada de Bahamūt (menor)
 
 Tu mente artística e imaginativa es muy susceptible a las ondas mentales de Bahamūt (Cthulhu), teniendo terribles pesadillas sobre este poderoso ser y su tumba acuática.
 
+```
 Siempre que te duermas sin tener deseos, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un deseo y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Saber de Suleimán para tratar de sacar información sobre Bahamūt.
+```
 
 \sp
 
@@ -237,7 +279,17 @@ _Prerrequisitos: Especial_
 
 A base de enfrentarte a un horror específico te has acostumbrado y tu cordura no sufre al estar en su presencia. No pueden gastarse avances para conseguir esta ventaja, solo se puede conseguir a base de superar el horror.
 
-A efectos de juego baja 4 niveles el TPC de un monstruo. Si el TPC modificado baja por debajo de d4 no necesitas hacer tirada de TPC. Por ejemplo, si estás "acostumbrado a los profundos" al ver un profundo (TPC d4) no tendrás que tirar, pero si ves una horda de 1000 profundos (TCP d12+1) solo tendrás que enfrentarse a un TPC (d6, 4 niveles menos).
+```
+A efectos de juego baja 4 niveles el TPC de un monstruo. Si el TPC modificado baja por debajo de d4 no necesitas hacer tirada de TPC. 
+```
+
+&nbsp;
+
+&nbsp;
+
+```
+Por ejemplo, si estás "acostumbrado a los profundos" al ver un profundo (TPC d4) no tendrás que tirar, pero si ves una horda de 1000 profundos (TCP d12+1) solo tendrás que enfrentarse a un TPC (d6, 4 niveles menos).
+```
 
 ### Afinidad mágica
 
@@ -245,7 +297,9 @@ _Prerrequisitos: Novato, Comodín._
 
 Todos los comodines tienen esta ventaja gratuitamente. Representa su capacidad de usar objetos mágicos. Los comodines son persona con un destino más grande que ellos y eso supone que pueden hacer cosas especiales. Solo Alí Babá podía decir "Ábrete, sésamo" y que se abriera la cueva de los 40 ladrones, o solo Aladino estaba destinado a entrar en la cueva de las maravillas y conseguir la lámpara mágica.
 
+```
 Activar cualquier objeto mágico y usar sus poderes, exige el gasto de un PP. Este gasto solo se puede hacer estando consciente a no ser que el objeto diga lo contrario. Empiezas también con tanto puntos de poder como nivel de Espíritu. Si tu Espíritu sube también tu PP.
+```
 
 \sp
 
@@ -255,9 +309,11 @@ _Prerrequisitos: Novato._
 
 En las Mil y Una Noches las personas bellas son rematadamente bellas. Tal es su atractivo que ni humanos, ni bestias, ni monstruos pueden evitar su hechizo. Es por ello que no existen las ventajas Atractivo y Muy atractivo, o eres tienen una belleza legendaria o eres del montón, solo existe Belleza sin parangón.
 
+```
 Esta ventaja te da un bonus de +2 a Interpretar y Persuadir frente a humanos, bestias y monstruos inteligentes. Pero, debe cogerse una desventaja mayor asociada a su fabulosa hermosura.
 
 Por ejemplo, ser tan Pobre que tus padres han concertado un matrimonio de conveniencia con alguien de tu desagrado. O puede que tener tanta belleza te haya hecho Arrogante o Cobarde.
+```
 
 ### Cuentacuentos
 
@@ -267,7 +323,9 @@ Eres un excepcional contador de cuentos, las palabras fluyen de tu boca y evocan
 
 Algo muy común con los contadores de cuentos en las 1001 Noches es que suelen usar los cuentos como forma de convencer a la audiencia. No es raro que el visir cuente una parábola o un cuento al califa para convencerle de hacer o no hacer algo.
 
+```
 El schahriar con esta ventaja obtiene un +2 a las tiradas de Interpretar y Persuadir cuando se narra una historia real o inventada. Esto puede suponer desde contar cuentos a la forma tradicional para conseguir dinero a declarar ante un juez lo que ocurrió durante un juicio.
+```
 
 ### Imán de lo extraño
 
@@ -277,7 +335,9 @@ Todo lo extraño se siente atraído hacia ti para bien y para mal. Abres y lees 
 
 \sp
 
+```
 Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un deseo y la mesa podrá quedarse con el mejor resultado. En caso de que haya varias personas con esta ventaja, cada uno tendrá que gastarse un deseo y añadirá una tirada extra.
+```
 
 ### Maquillaje
 
@@ -289,7 +349,9 @@ Es por ello que es muy normal que tanto mujeres, como hombres o efrits se bañen
 
 Los bailarines se maquillan para atraer las miradas de sus espectadores, los jóvenes se ponen kohl (sombra de ojos) para hacer sus miradas más intensas para sus amantes y los adultos tapan el paso del tiempo de sus cuerpos.
 
+```
 Esta ventaja le proporciona al schahriar una bonificación de +1 a sus tiradas de Interpretar y Persuadir cuando se ha podido preparar (baño, maquillaje, peluquería, ropa adecuada, etc.) independientemente de si el objetivo se pueda sentir atraído por el schahriar.
+```
 
 ### Rico como un sultán
 
@@ -313,9 +375,11 @@ Exige tener Afinidad Mágica, ser Experimentado y haber conseguido un grimorio m
 
 Como no exige el gasto de un avance, puede cogerse cuando se quiera cumpliendo los requisitos, pero debe cogerse entre aventuras o cuando pasen grandes lapsos de tiempo durante los que se ha podido estudiar o practicar las enseñanzas del libro de hechizos.
 
-**Habilidad arcana:** Saber de Suleimán  
-**Poderes iniciales:** 3  
-**Puntos de poder (PP):** 0 (Tiene para empezar los que otorga Afinidad mágica).
+```
+Habilidad arcana: Saber de Suleimán  
+Poderes iniciales: 3  
+Puntos de poder (PP): 0 (Tiene para empezar los que otorga Afinidad mágica).
+```
 
 Todo personaje dispone de tantos puntos de poder diarios como su nivel de Espíritu que recupera tras una noche de descanso (8 horas de descanso sin interrupciones). Si gasta avances para subir su Espíritu, suben sus PP.
 
