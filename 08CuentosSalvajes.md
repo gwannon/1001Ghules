@@ -2626,6 +2626,8 @@ Cosas raras que suceden en el islote:
 * Si se paran a escuchar podrán (un avance en Notar) escuchar un susurro que dice Tekeli-li, algún tipo de amenaza o aviso en el idioma de los janns, los creadores de los qatrams.
 * Si bucean, verán que la isla no emerge del fondo, sino que flota sobre el agua. Se podría bucear al otro lado de la isla por debajo de ella.
 
+\sp
+
 Cuando tengan suficientes sospechas, permíteles hacer una tirada de Mitos para saber que están sobre un qatram de dimensiones gigantescas.
 
 #### Escapando del qatram
@@ -2648,6 +2650,8 @@ _El califa de Bagdad tiene la costumbre de pasear disfrazado de mercader junto a
 > 
 > **Referencia:** Los encuentros de Al-Raschid en el puente de Bagdad (n. 860)
 
+\sp
+
 Este cuento salvaje puede ser muy interesante para momentos en que como Scheherazade veas que es demasiado sería y demasiado intensa y te permitirá meter un poco de humor para liberar tensión.
 
 En este cuento salvaje vas a encontrar varias situaciones jocosas en que el Califa de Bagdad ha salido con su séquito disfrazados de comerciantes extranjeros por las calles de Bagdad. Pueden que solo sean testigos o que se vean involucrados, eso queda a tu elección.
@@ -2668,7 +2672,11 @@ Si aguantan el jaleo, seguramente terminarán teniéndose que enfrentar a los me
 
 Al doblar una esquina y atraídos por la música y el jolgorio, los schahriars se encuentran con un grupo de mercaderes de Damasco que están dando una serenata. Como puedes imaginarte el cantante es el califa y el resto de músicos o el coro su séquito. Seguramente se hayan equivocado de lugar y le estén dando la serenata a quien no deban, pero trata de que sea divertido.
 
-Seguramente les lanzarán cubos de agua u orín, les gritarán y les llamarán de todo y terminarán llamado a la guardia. Lo normal es que salgan corriendo con los instrumentos y tratando de evitar a la guardia.
+Seguramente les lanzarán cubos de agua u orín, les gritarán y les llamarán de todo y terminarán llamado a la guardia.
+
+\sp
+
+Lo normal es que salgan corriendo con los instrumentos y tratando de evitar a la guardia.
 
 #### Los que acaban de llevarse del zoco algo que los schahriars necesitaban
 
@@ -2687,22 +2695,31 @@ Mientas tus schahriars recorren las calles de Bagdad, un gran escándalo se oye 
 En este punto tus schahriars pueden tomar varias acciones:
 
 * Parar la loca carrera. La gente y los propios participantes podrían resultar herida por las tonterías de los jinetes. Si conocen a los mercaderes, quizás puedan convencerles de que hagan otras cosas "más divertidas" o ganarse su confianza salvándoles de alguna situación comprometida o peligrosa.
+
+\sp
+
 * Apuntarse. Si ya conocen a los mercaderes de otras veces o saben que son el Califa y su séquito, saben que pueden conseguir regalos y mucho dinero si ganan la carrera (o mejor quedan segundos y dejan ganar al Califa).
 * Dar media vuelta y volver por donde han venido. Otro día, quizás, hoy tienen mucha prisa.
+
+#### Los generosos que van tirando dinares y oro por la calle
+
+De repente una marea de gente, se cruza por delante de tus schahriars y no pueden moverse adelante o atrás por la calle. Un grupo de mercaderes están dando dinares de oros a la gente y esta se agolpa a su alrededor buscando ganarse algunos de esos dinares de oro.
+
+Durante unos minutos será imposible moverse de donde están, pero tampoco si alguien les perseguía. Además, podrán mezclarse entre el gentío y desvanecerse entre la multitud. En condiciones normales, será imposible acercarse a los mercaderes debido a la gran cantidad de gente que los rodea.
 
 #### Los arrestados por la guardia de la ciudad por desorden público
 
 Si tus schahriars son detenidos por la guardia, acabarán en una celda y al lado suyo un grupo de mercaderes borrachos no dejará de gritar y decir sandeces, incluso uno de ellos dice que es el Califa y que les ordene que se le saquen de allí.
 
-Están muy borrachos, así que si tus schahriars tienen sospechas de quién son en realidad y que quieren interrogarles serán presas fáciles. No lo confesarán abiertamente, pero serán incapaces de ocultarlo.
+Están muy borrachos, así que si tus schahriars tienen sospechas de quién son en realidad y que quieren interrogarles serán presas fáciles.
 
-#### Los generosos que van tirando dinares y oro por la calle
-
-De repente una marea de gente, se cruza por delante de tus schahriars y no pueden moverse adelante o atrás por la calle. Un grupo de mercaderes están dando dinares de oros a la gente y esta se agolpa a su alrededor buscando ganarse algunos de esos dinares de oro. Durante unos minutos será imposible moverse de donde están, pero tampoco si alguien les perseguía. Además, podrán mezclarse entre el gentío y desvanecerse entre la multitud. En condiciones normales, será imposible acercarse a los mercaderes debido a la gran cantidad de gente que los rodea.
+No lo confesarán abiertamente, pero serán incapaces de ocultarlo.
 
 #### Los alborotadores de la otra sala del hammam
 
 Los hammames son, por lo normal, sitios tranquilos donde relajarse, pero hoy será imposible. Un grupo de mercaderes, seguramente bebidos, están dando una fiesta en uno de los baños privados del hammam. Gritos, risas, canciones desafinadas y muchos improperios no os dejarán relajaros y disfrutar de los tratamientos y los masajes.
+
+\sp
 
 En algún momento tus schahriars se encontrarán con los mercaderes y puede pasar de todo, desde pelearse a juntarse a su fiesta y aprovecharse de carísimos tratamientos de belleza a cargo de los mercaderes.
 
@@ -2724,9 +2741,11 @@ _Las obras del nuevo palacio del califa han encontrado una singular vasija con u
 
 En realidad, dentro de la botella hay una viajera en el tiempo que dice que se metió dentro para conocer las maravillas del futuro. Puede ser eso, pero, tal vez escapaba de algo de su pasado o fue condenada a esa prisión extradimensional por sus terribles crímenes. La tarea de tus schahriars será averiguarlo.
 
-[![The fisher and the genie por Edmund Dulac](./images/botella-genio.jpg)](https://www.gutenberg.org/ebooks/51432 "The fisher and the genie por Edmund Dulac") 
-
 La viajera dice llamarse Heráclita y que viene de Grecia. Una tirada de Humanidades dirá que habla griego, pero una versión muy antigua y no usa palabras en turco, como el griego actual. Sus ropajes no se parecen en nada a la de los griegos o los francos, como se conoce a los europeos actuales.
+
+\sp
+
+[![The fisher and the genie por Edmund Dulac](./images/botella-genio.jpg)](https://www.gutenberg.org/ebooks/51432 "The fisher and the genie por Edmund Dulac") 
 
 Pueden dejarla suelta, con lo que Heráclita se moverá por toda la ciudad maravillándose de los avances de la ciencia. Si la siguen podrán ver que paga con antiquísimas monedas de oro y plata de tiempos de griegos y romanos. Por lo demás parece totalmente inofensiva, aunque empezarán a pasar cosas según pasen los días.
 
@@ -2743,7 +2762,11 @@ Tarde o temprano Heráclita desaparecerá y a partir de ese momento podrá apare
 
 Heráclita es un avatar de Nyarlathotep que fue encerrada por el Rey Suleimán hace muchos siglos. Suleimán encerró a la Bestia Negra, pero con los siglos de soledad desterrada en la botella cambio de forma a algo menos peligroso.
 
-Heráclita es una especie de turista en nuestro mundo. Todo lo atrae y todo le parece maravilloso, pero según pase el tiempo la esencia de la Bestia Negra irá emergiendo. Los cambios serán cada vez menos sutiles. Al principio serán cambios de humor o diferentes tonos de voz, pero luego serán más evidentes como mayor tamaño, más bello, ojos de gato, dientes afilados, etc. Si nadie la para, la Bestia Negra volverá a aparecer con terribles consecuencias.
+\sp
+
+Heráclita es una especie de turista en nuestro mundo. Todo lo atrae y todo le parece maravilloso, pero según pase el tiempo la esencia de la Bestia Negra irá emergiendo. Los cambios serán cada vez menos sutiles.
+
+Al principio serán cambios de humor o diferentes tonos de voz, pero luego serán más evidentes como mayor tamaño, más bello, ojos de gato, dientes afilados, etc. Si nadie la para, la Bestia Negra volverá a aparecer con terribles consecuencias.
 
 La Bestia Negra es un ser descomunal similar en forma y tamaño a la esfinge de Giza, aunque con bocas llenas de dientes afilados distribuidas asimétricamente por los dedos de su mano y con un rostro indescriptible. Las leyendas cuentan que la Esfinge de Giza tuvo el rostro de esta criatura, pero fue re-esculpido por Kefrén.
 
@@ -2765,11 +2788,13 @@ Si hay que hacer algún tipo de tirada, considera que la Bestia siempre tira d12
 
 _Desde hace semana ha habido avistamientos de extraños animales fantásticos por toda la ciudad, desde leones alados con cola de escorpión hasta caballos con cabeza de reptil y alas de murciélago._
 
+\sp
+
 La gente de la ciudad está aterrada porque han debido matar y devorar a un par de personas y herir a bastantes más. El pueblo está descontento con el emir y su guardia, ya que no están consiguiendo matar a ninguno de estos seres. Corre el rumor de que el emir y su visir hicieron un pacto con un poderoso yinn y lo incumplieron. El yinn se está enfadado y ha soltado esta plaga de monstruos sobre la ciudad.
 
 La realidad dista mucho de los rumores. Todas estas quimeras son fruto de experimentos genéticos de la científica serpigente Al-Sasla que han escapado de su laboratorio tras matar a su creadora.
 
-Si van a ponerse a cazar quimeras hay total de 5 quimeras sueltas en la ciudad, el emir pagará 3.000 dinares por cada una viva o muerta que le traigan y que pueda mostrar a sus súbditos. Continúa en el apartado "La caza".
+Si van a ponerse a cazar quimeras hay total de 5 quimeras sueltas en la ciudad, el emir pagará 3.000 dinares por cada una viva o muerta que le traigan y que pueda mostrar a sus súbditos. Continúa en el apartado «La caza».
 
 Si se ponen a investigar que está pasando, tienen varias vías de investigación.
 
@@ -2782,6 +2807,8 @@ Lo único que destaca en la zona que han encontrado es un pequeño templo ruinos
 #### El laboratorio
 
 El templo es un sencillo, una gran estancia con una gran figura del dios serpiente y espacio para rituales y una estancia que se accede por detrás de la estatua. En ese habitáculo el sacerdote de la serpiente guardaba las reliquias religiosas.
+
+\sp
 
 En una de las paredes hay una puerta oculta (Notar -2) que accede a un sótano, donde se hacían los rituales prohibidos con orgías y sacrificios humanos.
 
@@ -2799,6 +2826,14 @@ Si revisan el arma verán que tiene un mango transparente lleno de un líquido v
 
 El líquido verde es un retrovirus genéticamente modificado para matar instantáneamente a las quimeras si llega a la corriente sanguínea. Es decir, si la quimera recibe una herida directa (no vale por acumulación de aturdidos) con ese alfanje. Parece ser una medida de seguridad en caso de alguna quimera se soltara o escapara.
 
+\sp
+
+\sinc
+
+[![Chimera sketch by DaveyBaker](./images/quimera.jpg)](https://www.deviantart.com/daveybaker/art/Chimera-sketch-887824588 "Chimera sketch by DaveyBaker") 
+
+\conc
+
 Pulsar el botón es gratis, pero hay que esperar un turno a que empape la hoja. Una vez hecha la herida en la quimera, sus propiedades desaparecen y sería necesario volver a darle al botón. El retrovirus en la hoja muere al de una hora y la carga se pierde.
 
 El mango tiene 3 dosis y no hay más retrovirus en el laboratorio, pero podría sustituirse el líquido verde por venenos.
@@ -2811,7 +2846,7 @@ Caerán sin problemas en trampas muy simples como carne debajo de una red o atra
 
 Presentando la quimera viva o su cabeza a la guardia del emir, les pagarán 3.000 dinares por quimera. Si acaban con todas las quimeras, serán nombradas como héroes y heroínas de la ciudad y tendrán un +1 en todas las tiradas con gente de la ciudad.
 
-[![Chimera sketch by DaveyBaker](./images/quimera.jpg)](https://www.deviantart.com/daveybaker/art/Chimera-sketch-887824588 "Chimera sketch by DaveyBaker") 
+\sp
 
 #### Las quimeras
 
@@ -2839,7 +2874,11 @@ Ponles el rasgo de bestia Duro para que aguanten más y trata de que sean difere
 
 _Desde hace días una extraña nube sobrevuela la ciudad y hay rumores que cuentan que hay gente a la que le han caído objetos del cielo, desde desperdicios hasta piedras o sandalias malolientes. No hace falta ser muy listo para ver que ambos eventos pueden estar relacionados. La pregunta es qué hay en esa nube y si es una amenaza._
 
-Un grupo de la secta apocalíptica de los 40 está "arreglando" un antiquísimo ingenio de los janns que debía servir como motor de algún tipo de plataforma voladora. Su principal problema es que necesita grandes cantidades de agua para funcionar. Por eso no quieren alejarse mucho de la ciudad, por sus pozos y ríos y porque pueden conseguir materiales especializados para arreglar y modificar el motor.
+Un grupo de la secta apocalíptica de los 40 está "arreglando" un antiquísimo ingenio de los janns que debía servir como motor de algún tipo de plataforma voladora. Su principal problema es que necesita grandes cantidades de agua para funcionar.
+
+\sp
+
+Por eso no quieren alejarse mucho de la ciudad, por sus pozos y ríos y porque pueden conseguir materiales especializados para arreglar y modificar el motor.
 
 Si alguno de tus schahriars es imán de lo extraño, directamente haz que le caiga encima alguna cosa desagradable desde las nubes. No hará falta que escuchen los rumores.
 
@@ -2847,15 +2886,21 @@ Si alguno de tus schahriars es imán de lo extraño, directamente haz que le cai
 
 La célula que actúa en la ciudad ha recibido un ingenio de los janns rescatado del fondo del mar. Llevan varios años probando cosas y parece algún tipo de artilugio volador. La primera vez que lo consiguieron encender arranco de la tierra el alcázar abandonado que usaban de guarida y lo hizo volar durante unos minutos.
 
-Han aprendido a dirigirlo cambiando grandes pesos de una a otra zona del alcázar con un sistema de ganchos y poleas, lo que hace que se incline hacia un lado u otro y cambie de dirección. Viendo que cogía temperaturas extremas, montaron un sistema básico de refrigeración que hace que no alcance la masa crítica.
+Han aprendido a dirigirlo cambiando grandes pesos de una a otra zona del alcázar con un sistema de ganchos y poleas, lo que hace que se incline hacia un lado u otro y cambie de dirección.
 
-El motor volador genera gran cantidad de vapor que oculta el alcázar como si fuera una nube. El vapor es consecuencia del sistema de refrigeración por agua de núcleo de fusión radioactivo que da energía al ingenio. Consume tal cantidad de agua que solo pueden hacerlo volar día y medio / dos días antes de que se les acabe las reservas de agua. Es por ello que deben aterrizar cada cierto tiempo y rellenar los depósitos de agua.
+Viendo que cogía temperaturas extremas, montaron un sistema básico de refrigeración que hace que no alcance la masa crítica.
+
+El motor volador genera gran cantidad de vapor que oculta el alcázar como si fuera una nube. El vapor es consecuencia del sistema de refrigeración por agua de núcleo de fusión radioactivo que da energía al ingenio.
+
+Consume tal cantidad de agua que solo pueden hacerlo volar día y medio / dos días antes de que se les acabe las reservas de agua. Es por ello que deben aterrizar cada cierto tiempo y rellenar los depósitos de agua.
 
 El alcázar es una torre fortificada de 3 pisos de unos 50x50 metros. Tiene una única entrada, una gran puerta de madera remachada de metal. La torre tiene un sótano donde está el motor.
 
 El motor eleva también unos 3 metros de tierra alrededor de la torre y partir de ahí empiezan las nubes y por supuesto una caída de unos 200 metros.
 
 La idea de la secta es usar esto como el arca de Noe, un artilugio que sobreviva al apocalipsis sobrevolando diluvios, terremotos, ríos de lava, etc. lo que su deidad haya pensado para el fin de la Tierra.
+
+\sp
 
 Cada célula tiene 40 miembros, pero solo la mitad está en el alcázar, la otra mitad está consiguiendo agua y provisiones, investigando en las bibliotecas de la ciudad, consultando con artesanos, etc. Su líder siempre está en el alcázar experimentando con el motor y probando cosas.
 
@@ -2875,7 +2920,11 @@ Si se infiltran en la torre, recuérdales que la torre está en el aire y que no
 
 ##### Primera planta (0-2 adeptos cultistas)
 
-En este piso hay un sistema de poleas y cuerdas que permiten mover de posición pesadas cajas llenas de piedras. Según se mueven las cajas de un sitio u otro, el alcázar se inclina en una dirección y gira en esa dirección. En el centro hay una escalera de caracol que baja hacia el sótano y sube al segundo piso. Normalmente no hay nadie en este piso hasta que necesitan girar o visitan el sótano. Es fácil esconderse entre las cajas.
+En este piso hay un sistema de poleas y cuerdas que permiten mover de posición pesadas cajas llenas de piedras. Según se mueven las cajas de un sitio u otro, el alcázar se inclina en una dirección y gira en esa dirección.
+
+En el centro hay una escalera de caracol que baja hacia el sótano y sube al segundo piso. Normalmente no hay nadie en este piso hasta que necesitan girar o visitan el sótano. Es fácil esconderse entre las cajas.
+
+\sp
 
 ##### Segunda planta
 
@@ -2887,7 +2936,9 @@ La primera planta es donde hacen vida los tripulantes del alcázar, hay camastro
 
 _6 adeptos cultistas trabajando y el adepto superior_
 
-Es el laboratorio del líder de la célula y taller para hacer reparaciones a motor. Hay herramientas de herrero, de carpintero, alquimista y gran cantidad de barriles de productos químicos. Hay una biblioteca con varios tomos, pero solo uno es mágico (créalo con las tablas de tesoro). El resto de libros podrían venderse por 2d10 x 100 dinares.
+Es el laboratorio del líder de la célula y taller para hacer reparaciones a motor. Hay herramientas de herrero, de carpintero, alquimista y gran cantidad de barriles de productos químicos.
+
+Hay una biblioteca con varios tomos, pero solo uno es mágico (créalo con las tablas de tesoro). El resto de libros podrían venderse por 2d10 x 100 dinares.
 
 También se usa como puente de mando y han agrandado una de las ventanas para ver por donde van.
 
@@ -2900,6 +2951,8 @@ _4 [adeptos cultistas](#anchorcultista) vigilando y trabajando en el motor_
 El sótano era una antigua mazmorra con varias celdas y en la central está el motor. Está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
 
 Los respiraderos del sótano dejan que se escape un extraño vapor rosado y pastoso que se genera en el motor al contactar con el agua y que crea la nube que oculta el castillo.
+
+\sp
 
 #### Alarma
 
@@ -2920,6 +2973,8 @@ Si prefieren escapar del alcázar directamente, el edificio volador caerá sobre
 #### Caída libre
 
 Cuando la torre entre en caída libre por el fallo del motor, tendrán que salir volando, bien con hechizos u objetos mágicos, bien usando una gran lona de seda con cuerdas (que parece una especie de paracaídas) que los 40 estaban diseñando en caso de problemas.
+
+\sp
 
 Cuando se lancen, tendrán que pasar todos los sujetos a la lona una tirada de Espíritu para lanzarse al vacío. Luego, antes de aterrizar, una tirada de Agilidad para aterrizar bien sin daño. En caso de fallo recibirá 3d6 de daño.
 
@@ -2943,11 +2998,17 @@ La destrucción del alcázar implicará en varios aspectos a futuras aventuras:
 
 **Comienzo:** Cualquier pequeño pueblo de Persia
 
-_Durante las festividades del Miércoles de fiesta ("chaharshanbe" significa miércoles y "surí" fiesta) se celebran varios rituales. El más importante y popular consiste en encender fuegos en las calles mientras los participantes los saltan gritando "zardí-e man az to, sorjí-e to az man" (que significa «mi color amarillo (pálido, enfermizo) es tuyo, tu color rojo es mío»). Así se celebra la llegada de la primavera que trae días más largos. Pero este año el festival se va a descontrolar por culpa de un hechizo descontrolado._
+_Durante las festividades del Miércoles de fiesta ("chaharshanbe" significa miércoles y "surí" fiesta) se celebran varios rituales._
+
+\sp
+
+_El más importante y popular consiste en encender fuegos en las calles mientras los participantes los saltan gritando "zardí-e man az to, sorjí-e to az man" (que significa «mi color amarillo (pálido, enfermizo) es tuyo, tu color rojo es mío»). Así se celebra la llegada de la primavera que trae días más largos. Pero este año el festival se va a descontrolar por culpa de un hechizo descontrolado._
 
 #### Disfrutando del festival
 
-Durante las celebraciones del Chaharshanbe Surí, las gentes del pueblo han preparado hogueras en las calles. También hay bebida, comida, música y baile y todo el mundo se olvida de sus problemas para celebrar la llegada de la primavera.
+Durante las celebraciones del Chaharshanbe Surí, las gentes del pueblo han preparado hogueras en las calles.
+
+También hay bebida, comida, música y baile y todo el mundo se olvida de sus problemas para celebrar la llegada de la primavera.
 
 Un pequeño grupo de adolescentes con ínfulas de poderosos magos intentará un ritual que saldrá mal e invocarán a unas peligrosas criaturas, los fuegos de la Yahannam, que causarán estragos entre la gente si los schahriars no lo remedian.
 
@@ -2957,7 +3018,11 @@ Deja que tus schahriars disfruten de la fiesta bebiendo y comiendo. Si te apetec
 
 Durante el crepúsculo, en el momento álgido de las festividades, con toda la gente alrededor de las fogatas de la plaza principal del pueblo, con unas grandes llamaradas, saldrán de las fogatas tantos fuegos de la Yahannam como schahriars que empezarán a sembrar el pánico y quemarlo todo. Pueden combatirlos, lo cual es muy complicado sin la preparación oportuna, ya que son inmunes a todos los ataques físicos excepto al agua. Pueden intentar sacar agua del pozo público, pero es un proceso muy lento.
 
-Con una tirada de Saber de Suleimán podrán saber lo que son y con un avance sabrán que es una raza servidora que normalmente aparecen solo si los invocan. Lo más efectivo y rápido es localizar a la persona que los haya invocado e incapacitarlo. Pueden hacer tiradas de Notar para buscar entre la gente que huye despavorida para intentar localizarlo. Pueden hacer más tiradas de Saber de Suleimán para tratar de saber como invocarlos y buscar cosas como círculos de invocación, ofrendas, símbolos arcanos, etc.
+Con una tirada de Saber de Suleimán podrán saber lo que son y con un avance sabrán que es una raza servidora que normalmente aparecen solo si los invocan. Lo más efectivo y rápido es localizar a la persona que los haya invocado e incapacitarlo.
+
+\sp
+
+Pueden hacer tiradas de Notar para buscar entre la gente que huye despavorida para intentar localizarlo. Pueden hacer más tiradas de Saber de Suleimán para tratar de saber como invocarlos y buscar cosas como círculos de invocación, ofrendas, símbolos arcanos, etc.
 
 Lo más óptimo sería que mientras una parte del grupo entretiene a los fuegos de la Yahannam (para evitar que se produzcan bajas mortales), otra busque al invocador (para poder detenerlos definitivamente).
 
@@ -2969,7 +3034,9 @@ Entre los trastos de un mercader ambulante de cuestionable reputación había un
 
 Si revisan el hechizo del libro rápidamente (Saber de Suleimán) verán que los fuegos de la Yahannam están ligados a la fogata y cada cubo de agua que lancen a la fogata provoca una herida al azar en uno de los fuegos. Según vayan muriendo los fuegos, la fogata se irá haciendo más pequeña hasta que mueran todos. La fogata está a unas casillas del pozo público (la fuente de agua más cercana) así que tendrán que darse unas buenas carreras con cubos para poder apagar el fuego. Tirar arena o poner mantas para sofocar el fuego, provoca que un fuego al azar quede aturdido, pero no apaga la fogata.
 
-En cuando lancen el primer balde de agua a la fogata, los fuegos irán directos a ella para defenderla. Atacando a todo el que se acerque.
+\sp
+
+En cuanto lancen el primer balde de agua a la fogata, los fuegos irán directos a ella para defenderla. Atacando a todo el que se acerque.
 
 Si tardan más de 10 turnos en localizar a los adolescentes, estos se habrán ido junto con el resto de la gente que estaba en la plaza y solo quedará los fuegos de la Yahannam para enfrentarse directamente contra ellos. Una tirada extraordinariamente buena de Notar les podría ayudar a detectar la fogata de los adolescentes y percatarse de que si la apagan los fuegos de la Yahannam desaparecen.
 
@@ -2977,7 +3044,9 @@ Si tardan más de 10 turnos en localizar a los adolescentes, estos se habrán id
 
 Si no consiguen parar a los fuegos, estos quemarán el pueblo entero para después desaparecer en el desierto.
 
-Si consiguen parar a los fuegos y librar al pueblo de su destrucción, tendrán que ver que hacen con los aprendices de brujo. Has de tener en cuenta que han salvado al pueblo de un desastre y su palabra será tenida en cuenta. Pueden denunciarlos, pueden callarse, pueden hablar con el kadí sobre lo que hace su hijo, etc. las opciones son variadas y todas tienen consecuencias. Recuérdales que los jóvenes hechiceros pueden ser condenados por brujería y podrían ser azotados y expulsados del pueblo.
+Si consiguen parar a los fuegos y librar al pueblo de su destrucción, tendrán que ver que hacen con los aprendices de brujo. Has de tener en cuenta que han salvado al pueblo de un desastre y su palabra será tenida en cuenta.
+
+Pueden denunciarlos, pueden callarse, pueden hablar con el kadí sobre lo que hace su hijo, etc. las opciones son variadas y todas tienen consecuencias. Recuérdales que los jóvenes hechiceros pueden ser condenados por brujería y podrían ser azotados y expulsados del pueblo.
 
 #### Fuego purificador
 
@@ -2993,7 +3062,9 @@ El libro que les vendió el mercader (en realidad Bahram el Gauro disfrazado) al
 
 _Una paloma con un extraño canutillo atado a la pata ha caído en la trampa o bajo las flechas de uno de tus schahriars. Parece ser una paloma mensajera, ¿qué puede pasar por leer el mensaje que lleva?_
 
-Uno de tus schahriars atrapa una paloma con un canutillo de madera atada a la pata. Si quitan el sello de cera del canutillo, dentro hay un mensaje. El menestral del palomar de algún emir, malik o del propio califa que ha perdido esta paloma podría pagar una buena recompensa por esta paloma y el mensaje. O igual pueden descifrar el mensaje y sacarle provecho a la información privilegiada del mensaje. Hay varias opciones
+\sp
+
+Uno de tus schahriars atrapa una paloma con un canutillo de madera atada a la pata. Si quitan el sello de cera del canutillo, dentro hay un mensaje. El menestral del palomar de algún emir, malik o del propio califa que ha perdido esta paloma podría pagar una buena recompensa por esta paloma y el mensaje. O igual pueden descifrar el mensaje y sacarle provecho a la información privilegiada del mensaje.
 
 Estas son las posibles opciones que puedes ofrecerles.
 
@@ -3004,6 +3075,8 @@ Estas son las posibles opciones que puedes ofrecerles.
 * Cuidar a la paloma y dejarla seguir su camino sin tocar el mensaje es otra opción, no creo que sea muy popular, pero ahí la dejo.
 
 > /s/ **Recompensa de deseos (+1):** Otórgale un deseo al schahriar que decida cuidar a la paloma y devolverla a su palomar por amor a los animales y no por la recompensa.
+
+\sp
 
 > /s/ **Semilla de aventura:** Si deciden abrir y descifrar el mensaje puedes usarlo para meterles en otros cuentos salvajes.
 
@@ -3023,6 +3096,8 @@ Mariam ofrece 500 dinares por protegerla durante su viaje de una semana a Balad 
 
 Junto a Mariam viaja un siniestro personaje llamado Bassir (usa las estadísticas de un adepto cultista), nativo de Balaz Rud, con quien se acaba de casar Mariam. Parece que van a hacer un viaje para que ella conozca a sus suegros. La verdad que es que toda la historia apesta y si se ponen a investigar verán cosas muy raras.
 
+\sp
+
 * Mariam está débil para montar por lo que va en un carromato bien protegido de los rigores del desierto. Una tirada de Medicina dejará claro que Mariam está muy enferma y no debería hacer este viaje. Parece algo respiratorio, pero sin una exploración profunda es imposible saber que tiene y su gravedad. Si le preguntan directamente, les confesará que se muere y que este viaje es su último intento de sobrevivir, pero no le sacarán mucho más.
 * Bassir y Mariam no pueden ser más diferentes y no parecen para nada una pareja. No hay ninguno de interacción amorosa. No pueden ser más distintos, ella es una culta mujer de ciencias y Bassir es un paleto de campo con modales un poco finos.
 * Una tirada de Humanidades deja claro que esto es algún tipo de arreglo legal. Ella consigue algo y él heredera sus bienes cuando muera.
@@ -3035,6 +3110,8 @@ Junto a Mariam viaja un siniestro personaje llamado Bassir (usa las estadística
 Todo se volverá más raro cuando lleguen a Balad Ruz, rápidamente dejarán las rutas principales y empezarán a adentrarse en terreno salvaje. Llegarán a un perdido pueblo que parece ser donde nació Bassir.
 
 Allí conocerán a sus padres, pero todo será como muy falso. Habrá una especie de festejos matrimoniales a los que invitarán, pero sin ningún tipo de alegría. Una vez terminado Bassir les pagará y les dirá que pueden irse, dejándoles bastante claro que no son bienvenidos.
+
+\sp
 
 En ese momento pueden irse definitivamente o hacer como que se van y ocultarse en las colinas cercanas a vigilar. Cosas que pueden descubrir:
 
@@ -3051,6 +3128,8 @@ Si quieren entrar en la casa deberán enfrentarse a un grupo de aldeanos que la 
 
 Se encontrarán con 5 al mighos, 4 obreros y un sabio. Mariam está sobre un quirófano y el al migho sabio se prepara para extraer el cerebro a Mariam y meterlo en un cilindro cerebral.
 
+\sp
+
 En este momento tus schahriars pueden lanzarse al combate contra los al mighos o intentar negociar con ellos, ya que podrían usar a Mariam de rehén. Si se lanzan al ataque solo los obreros se enfrentarán a ellos, el sabio se quedará mirando al lado de Mariam.
 
 Si Mariam los ve en problema, derrotan a todos los obreros u optan por negociar desde el principio, Mariam intervendrá. Les contará que se muere y que los al mighos con su magia pueden salvar su mente y preservarla en los cilindros que se ven en una de las mesas. Seguirá viva a pesar de que su decrépito cuerpo muera, seguirá viva cuando todos ellos hayan muerto y sus aventuras hayan sido olvidadas.
@@ -3066,6 +3145,8 @@ Si paran la operación y acaban con los al mighos, la psique de Mariam se romper
 Los al mighos derrotados dejarán de botín los artilugios que había en la casa de Bassir que no se han podido llevar. Además, podrán coger los enseres personales de Mariam y quedárselos (botín d8 con solo riquezas, objetos mundanos y grimorios, además de todo tipo de artilugios astronómicos). Puede que quieran devolvérselos a su familia, se los queden o traten de venderlos.
 
 > /s/ **Recompensa de cordura (+1):** Si aceptan las decisiones personales de Mariam y no tratan de contrariarlas, otórgales un punto de cordura.
+
+\sp
 
 ### Sepultureros
 
@@ -3087,7 +3168,11 @@ Otra opción es reparar la piedra suelta. Esa opción hará que esta vez no entr
 
 El rawda es un edificio circular de 6 casillas de radio. En el centro, ocupando 4 casillas, está el ataúd de madera con el cuerpo de la matriarca. Los restos de los anteriores enterramientos están acumulados junto a la pared (las casillas pegadas a la pared son terreno difícil).
 
-Si pierden el combate, los ghūles robarán el cadáver y les dejarán inconscientes en el suelo del rawda. Claramente no cobrarán por el trabajo y la familia hablará mal de ellos, obteniendo un -1 en las interacciones con la gente de la ubicación donde ocurra este relato.
+Si pierden el combate, los ghūles robarán el cadáver y les dejarán inconscientes en el suelo del rawda.
+
+\sp
+
+Claramente no cobrarán por el trabajo y la familia hablará mal de ellos, obteniendo un -1 en las interacciones con la gente de la ubicación donde ocurra este relato.
 
 #### Farum, el ghūl
 
@@ -3107,6 +3192,8 @@ Recuerda que cada invocación obliga a una tirada de TPC por ver un ghūl a todo
 
 _Los pescadores de coral de un pequeño pueblo pesquero del Mar Rojo han encontrado un coral de un nuevo color indefinible y fascinante. La gente está obsesionada por los objetos creados con este coral y una joya hecha de este material ha llegado a manos del Califa. Suerte que su visir lo ha interceptado y ha encontrado algo raro en la joya. Ahora necesita a investigadores capaces de que descubran que está pasando._
 
+\sp
+
 Hace unos meses en el Mar Rojo, cerca de la costa, cayó un meteorito que portaba un color surgido del espacio. El color ha infectado los arrecifes cercanos. Los pescadores de coral de la zona están extrayendo cachos de este coral infectado del color y haciendo y vendiendo joyas y abalorios con ellos.
 
 El color está enloqueciendo a todo el pueblo y se está extendiendo a los vendedores y compradores de objetos hechos con coral. Pero el color también está haciendo perder su cordura a las gentes de mar que viven cerca del arrecife. Si nadie lo evita, esto puede terminar en una auténtica matanza.
@@ -3116,6 +3203,18 @@ Para introducirlos en esta aventura tienes varias formas.
 * Giafar manda a tus schahriars a investigar este extraño coral. Podría compensar el trabajo con unos 1.000 dinares más gastos y dietas.
 * Si pasan por la zona habrán oído del color de extraño color. Quizás puedan ir al pueblo a comprar ese coral tan especial para revenderlo en una gran ciudad al doble o triple de precio.
 * Quizás naveguen por el mar Rojo y atraquen en puerto de la villa de recolectores de coral o busque cruzar el mar Rojo y quieran que algún pescador les pase al otro lado del mar.
+
+#### El pueblo de Khamas
+
+El pueblo a simple vista parece un pueblo pesquero como tantos en la zona, chozas pequeñas, barcas en la playa, pescado secándose, redes por todas partes y olor a salitre y pescado en el aire. A medida que te acercas e interactúas con la gente, te das cuenta de que algo pasa.
+
+La gente es hosca y gruñona, a penas hablar y solo farfulla respuestas cortas. A pesar de la nueva riqueza que está entrando al pueblo, la gente va sucia y desaliñada, más cerca de parecer derviches mendicantes que nuevos ricos.
+
+Una tirada de Notar para detectar que bastantes personas tienen ronchas y eccemas de una extraña tonalidad fucsia.
+
+Saber de Suleimán les dirá que la enfermedad no es algo de la Tierra, con avances puedes darles más datos:
+
+* Puede ser una especie de plaga que enloquece a la gente.
 
 \sp
 
@@ -3129,23 +3228,31 @@ _El pueblo pesquero de Khamas en el Mar Rojo_
 
 \sp
 
-#### El pueblo de Khamas
+* Todas estas cosas las produce una entidad al expandirse y contaminar personas, animales y plantas.
 
-El pueblo a simple vista parece un pueblo pesquero como tantos en la zona, chozas pequeñas, barcas en la playa, pescado secándose, redes por todas partes y olor a salitre y pescado en el aire. A medida que te acercas e interactúas con la gente, te das cuenta de que algo pasa.
+Si se ponen a Investigar por el pueblo encontrarán más objetos como barcas o redes con restos del color fucsia. Si recorren la playa, verán restos de peces muertos y trozos de algas infectadas del color. 
 
-La gente es hosca y gruñona, a penas hablar y solo farfulla respuestas cortas. A pesar de la nueva riqueza que está entrando al pueblo, la gente va sucia y desaliñada, más cerca de parecer derviches mendicantes que nuevos ricos. Una tirada de Notar para detectar que bastantes personas tienen ronchas y eccemas de una extraña tonalidad fucsia. Saber de Suleimán les dirá que la enfermedad no es algo de la Tierra, con avances puedes darles más datos como que debe pudiera ser una especie de plaga que enloquece a la gente o que todas estas cosas las produce una entidad al expandirse y contaminar personas, animales y plantas.
+Si comparan todos estos objetos infectados con el preciado coral, todo indica que el valioso coral que tan bien se vende está infectado y mutado por esa extraña plaga color morado.
 
-Si se ponen a Investigar por el pueblo encontrarán más objetos como barcas o redes con restos del color fucsia. Si recorren la playa, verán restos de peces muertos y trozos de algas infectadas del color. Si comparan todos estos objetos infectados con el preciado coral, todo indica que el valioso coral que tan bien se vende está infectado y mutado por esa extraña plaga color morado.
+Todo indica que la fuente de la plaga está bajo el mar, así que tendrán de conseguir, una barca y equipo de buceo para poder investigar.
 
-Todo indica que la fuente de la plaga está bajo el mar, así que tendrán de conseguir, una barca y equipo de buceo para poder investigar. En cuanto la gente del pueblo empiece a darse cuenta de sus intenciones, el color empezará a defenderse y mandará a algunos pescadores (4 por cada schahriar) infectados a expulsar a tus schahriars. Puede haber una pequeña escaramuza en la playa de la que huirán los pueblerinos si van perdiendo.
+En cuanto la gente del pueblo empiece a darse cuenta de sus intenciones, el color empezará a defenderse y mandará a algunos pescadores (4 por cada schahriar) infectados a expulsar a tus schahriars.
+
+Puede haber una pequeña escaramuza en la playa de la que huirán los pueblerinos si van perdiendo.
 
 A partir de este momento la gente del pueblo se encerrará en sus casas y no tendrá relación con tus schahriars. Si fuerzan la situación, la gente del pueblo responderá violentamente.
 
 #### Bajo el mar
 
-Si consiguen una barca podrán adentrarse en el mar. Las aguas son cristalinas y poco profundas y rápidamente verán el problema, todo el fondo está infectado del color, coral, algas, peces y su peor pesadilla, gentes del mar. Cerca de la costa encontrarán de un cráter submarino completamente cubierto del color fucsia. Mide unos 20 metros de diámetro. Parece de reciente creación porque no está invadido de algas y coral. Hay 3 gentes del mar, están parados, apáticos y se mueven muy lentamente. Sus escamas están llenas del color que tiene un brillo especial en su cabeza.
+Si consiguen una barca podrán adentrarse en el mar. Las aguas son cristalinas y poco profundas y rápidamente verán el problema, todo el fondo está infectado del color, coral, algas, peces y su peor pesadilla, gentes del mar.
+
+Cerca de la costa encontrarán de un cráter submarino completamente cubierto del color fucsia. Mide unos 20 metros de diámetro.
+
+Parece de reciente creación porque no está invadido de algas y coral. Hay 3 gentes del mar, están parados, apáticos y se mueven muy lentamente. Sus escamas están llenas del color que tiene un brillo especial en su cabeza.
 
 Hasta que de repente los 3 miran hacia arriba y se lanzan gritando a por la barca. Están locos de rabia y atacarán sin contemplación. Tratarán de tirar a algún schahriar de la barca y ahogarlo. Si derrotan a las gentes del mar podrán investigar que ha pasado.
+
+\sp
 
 * **Ciencias:** Los cráteres son creados por piedras llamadas meteoritos que vienen de las estrellas.
 * **Ciencias:** Será muy difícil acabar con la plaga. De normal el fuego podría funcionar, pero debajo del agua es imposible.
@@ -3154,7 +3261,9 @@ Hasta que de repente los 3 miran hacia arriba y se lanzan gritando a por la barc
 
 #### El color y la gente del mar
 
-La locura que propaga el color no solo ha afectado a los humanos, también a la gente del mar del Mar Rojo. Están enloquecidos y rabiosos, así que añádeles el rasgo de bestia Duro que les permite aguantar una herida extra. Si tus schahriars se adentran en el mar, serán atacadas por estos profundos intoxicados. Si tus schahriars no paran al color, todo esto puede acabar con una invasión de gentes del mar contra los humanos de superficie.
+La locura que propaga el color no solo ha afectado a los humanos, también a la gente del mar del Mar Rojo. Están enloquecidos y rabiosos, así que añádeles el rasgo de bestia Duro que les permite aguantar una herida extra.
+
+Si tus schahriars se adentran en el mar, serán atacadas por estos profundos intoxicados. Si tus schahriars no paran al color, todo esto puede acabar con una invasión de gentes del mar contra los humanos de superficie.
 
 #### Eliminando el color
 
@@ -3164,7 +3273,11 @@ Tendrán que buscar alguna forma de poder respirar bajo el agua mágica o cient�
 
 #### Después del color
 
-Si limpian el cráter, el color y su cría serán destruidos y poco a poco los restos desaparecerán. Pero las mutaciones que han provocado en la flora y fauna permanecerán. El coral de color especial seguirá creciendo y dando dinero al pueblo. Poco a poco la gente del pueblo recuperarán su cordura y estas últimas semanas serán como una extraña pesadilla.
+Si limpian el cráter, el color y su cría serán destruidos y poco a poco los restos desaparecerán. Pero las mutaciones que han provocado en la flora y fauna permanecerán. El coral de color especial seguirá creciendo y dando dinero al pueblo.
+
+Poco a poco la gente del pueblo recuperarán su cordura y estas últimas semanas serán como una extraña pesadilla.
+
+\sp
 
 Si se van sin resolver el problema del color, el pueblo será arrasado por la gente del mar infectada. El color original una vez su cría sea adulta volverá a las estrellas mientras las crías infectarán nuevas zonas del mar.
 
