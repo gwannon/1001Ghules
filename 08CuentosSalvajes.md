@@ -1075,11 +1075,11 @@ Si lo derrotan tendrá un botín de d6. Entre sus pertenencias y los objetos rob
 
 Hay una serie de cuentos salvajes que podrían ser protagonizados por tus pillastres e intercalarlos dentro de la trama principal de esta campaña.
 
-* [Los encuentros de Al-Raschid en el puente de Bagdad](#anchorencuenstroscalifa)
-* [La viajera del tiempo](#anchorviajeratiempo)
-* [La paloma mensajera](#anchorpalomamensajera)
-* [El alcázar en las nubes](#anchoralcazarnubes)
-* [Sepultureros](#anchorsepultureros)
+* Los encuentros de Al-Raschid en el puente de Bagdad
+* La viajera del tiempo
+* La paloma mensajera
+* El alcázar en las nubes
+* Sepultureros
 
 \sp
 
@@ -1111,7 +1111,11 @@ Por la noche, mientras la expedición descansa, a la luz de las hogueras se desa
 
 #### Antecedentes: la primera expedición a la Ciudad de Bronce
 
-> Un día en que el califa, oyendo hablar de ciertos vasos de cobre antiguo, cuyo contenido era una extraña humareda negra de formas diabólicas, asombrose en extremo y parecía poner en duda la realidad de hechos tan verídicos, hubo de levantarse entre los circunstantes el famoso viajero Taleb ben-Sehl, quien confirmó el relato que acababan de escuchar, y añadió: "En efecto, ¡oh Emir de los Creyentes! esos vasos de cobre no son otros que aquellos donde se encerraron, en tiempos antiguos, a los genios que se rebelaron ante las órdenes de Suleimán, vasos arrojados al fondo del mar mugiente, en los confines del Magreb, en el África occidental, tras de sellarlos con el sello temible. Y el humo que se escapa de ellos es simplemente el alma condensada de los efrits, los cuales no por eso dejan de tomar su aspecto formidable si llegan a salir al aire libre".
+> Un día en que el califa, oyendo hablar de ciertos vasos de cobre antiguo, cuyo contenido era una extraña humareda negra de formas diabólicas, asombrose en extremo y parecía poner en duda la realidad de hechos tan verídicos, hubo de levantarse entre los circunstantes el famoso viajero Taleb ben-Sehl, quien confirmó el relato que acababan de escuchar, y añadió: 
+
+\sc
+
+> "En efecto, ¡oh Emir de los Creyentes! esos vasos de cobre no son otros que aquellos donde se encerraron, en tiempos antiguos, a los genios que se rebelaron ante las órdenes de Suleimán, vasos arrojados al fondo del mar mugiente, en los confines del Magreb, en el África occidental, tras de sellarlos con el sello temible. Y el humo que se escapa de ellos es simplemente el alma condensada de los efrits, los cuales no por eso dejan de tomar su aspecto formidable si llegan a salir al aire libre".
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 338)
 
@@ -1119,7 +1123,11 @@ Hace 60 años, el califa de Damasco, Abdalmalek ben-Merwán oyó hablar de una l
 
 Deseoso el califa de ver tal prodigio, montó una expedición de más de 2.000 camellos con agua y comida y unas 300 personas entre guardas, montaraces, intendentes y peones. Estaba dirigida por su amigo y siervo del califa, el emir Muza ben-Nossair, gobernador del Magreb. Este enroló a su amigo y famoso explorador, el jeique Abdossamad.
 
-Durante dos años vagaron por el desierto y tras varias peripecias encontraron la ciudad de Bronce. La ciudad estaba bajo una maldición y todos los seres vivos y objetos de la ciudad estaban congelados en el tiempo. Encontraron en el palacio del regente de la ciudad el cuerpo dormido de una muchacha de singular belleza con una advertencia de no tocarla bajo pena de muerte. El emir y el jeique jamás lograron saber qué había pasado a la ciudad.
+\sp
+
+Durante dos años vagaron por el desierto y tras varias peripecias encontraron la ciudad de Bronce. La ciudad estaba bajo una maldición y todos los seres vivos y objetos de la ciudad estaban congelados en el tiempo.
+
+Encontraron en el palacio del regente de la ciudad el cuerpo dormido de una muchacha de singular belleza con una advertencia de no tocarla bajo pena de muerte. El emir y el jeique jamás lograron saber qué había pasado a la ciudad.
 
 Abandonaron la ciudad y en los acantilados de la montaña conocieron a los miembros de una tribu de gentes del mar. Amablemente, recuperaron para ellos unos cuantos vasos de cobre del fondo del mar y les ofrecieron dos de sus hijas como presentes para el califa.
 
@@ -1129,11 +1137,17 @@ Lo que nadie sabe es que la estirpe del califa se hibridó con las gentes del ma
 
 #### La ruta hacia la Ciudad de Bronce
 
-La ruta que debe seguir la expedición empieza en Damasco y bajará hasta Egipto, pasando por Gaza y atravesando el desierto del Sinaí. En Egipto pasarán por El Cairo y, tras abandonar el delta del Nilo, se adentrarán en la región del Magreb (actuales, Marruecos, Argelia, Túnez y Libia). Una vez en el Magreb deberán adentrarse en el Sahara hacia lo desconocido y buscar la ruta de la mítica Ciudad de Bronce.
+La ruta que debe seguir la expedición empieza en Damasco y bajará hasta Egipto, pasando por Gaza y atravesando el desierto del Sinaí.
+
+En Egipto pasarán por El Cairo y, tras abandonar el delta del Nilo, se adentrarán en la región del Magreb (actuales, Marruecos, Argelia, Túnez y Libia).
+
+Una vez en el Magreb deberán adentrarse en el Sahara hacia lo desconocido y buscar la ruta de la mítica Ciudad de Bronce.
 
 #### Sueldos y recompensas
 
 Lo que está dispuesta a pagar Alya a los schahriars puede variar según su valía:
+
+\sp
 
 * Puedes contratarlos como simples peones, quizás tengan que cuidar de unos camellos, ayudar en la cocina, montar y desmontar tiendas. Ofréceles 5 dinares al día, 500 si son heridos y 1.000 a sus seres queridos si mueren.
 * Pueden participar como profesionales si tienen una habilidad d8 o superior de las siguientes: Cabalgar (Jefe/a de camellos), Medicina (Doctor/a), Supervivencia (Explorador/a), Reparar (Artesanos/as varios/as). Podrán cobrar unos 10 dinares al día, más 2.000 por herida incapacitante y 10.000 por muerte.
@@ -1149,21 +1163,32 @@ Las personas principales de esta expedición son:
 * **Muhammad al-Lawati:** Es el explorador principal de la segunda expedición a la Ciudad de Bronce
 * **Mahmoud Assy:** Es el viejo consejero personal del califa de Damasco y no pudo ir en la primera expedición y desea ir en esta y quitarse la espinita clavada que tenía.
 * **Kusch ben-Scheddad ben-Aad:** Es el hijo del mítico rey Scheddad ben-Add. Aunque lleva siglos muertos, pero hay que recordar que "igual no está muerto lo que yace eternamente".
+
+\sp
+
 * **Princesa Tadnaar:** Tadnaar es la hija del rey de los amalecitas y lleva siglos dormida en la Ciudad de Bronce.
 * **Alischar:** Cocinero e intendente de la caravana. Usa un secuaz mercader.
 * **Adira ben-Hamed:** Una de las doctoras de la expedición. Usa una secuaz mercader con Medicina d8.
 
 #### Recursos de la expedición
 
-El viaje tiene un mini-juego de recursos que puede darle vidilla al viaje. No solo tendrán que enfrentarse a los peligros y misterios de la expedición, además tendrán que hacerlo controlando que tienen provisiones y recursos. Deberán comprar provisiones según vayan gastándolas y consiguiendo agua según la vayan consumiendo. Quizás la expedición fracase, no por los sabotajes del gremio de bronce, sino porque tus schahriars se queden sin agua en mitad del desierto o se les acaben las provisiones antes de poder atravesar los altos muros de la Ciudad de Bronce.
+El viaje tiene un mini-juego de recursos que puede darle vidilla al viaje. No solo tendrán que enfrentarse a los peligros y misterios de la expedición, además tendrán que hacerlo controlando que tienen provisiones y recursos. Deberán comprar provisiones según vayan gastándolas y consiguiendo agua según la vayan consumiendo.
+
+Quizás la expedición fracase, no por los sabotajes del gremio de bronce, sino porque tus schahriars se queden sin agua en mitad del desierto o se les acaben las provisiones antes de poder atravesar los altos muros de la Ciudad de Bronce.
 
 Eres totalmente libre de obviar esta parte de la aventura y que las provisiones no sean importantes en el viaje. Quizás puedas usar la falta comida y agua como un obstáculo en el camino y que tus schahriars deban forrajear y buscar un aljibe perdido con el que llenar los odres de la caravana.
 
-Cada fase de la campaña tiene un gasto de provisiones en semanas y luego hay eventos que van a quitar o sumar semanas. La caravana puede salir con las provisiones justas para llegar a la ciudad de Bronce (22 semanas), puede llevar menos o puede llevar más según veas a tus schahriars. Según pasen las diferentes partes de la aventura, deberán ir gastando las semanas de provisiones que marque cada fase y en el momento que queden a 0 semanas las provisiones se habrán acabado.
+Cada fase de la campaña tiene un gasto de provisiones en semanas y luego hay eventos que van a quitar o sumar semanas. La caravana puede salir con las provisiones justas para llegar a la ciudad de Bronce (22 semanas), puede llevar menos o puede llevar más según veas a tus schahriars.
+
+Según pasen las diferentes partes de la aventura, deberán ir gastando las semanas de provisiones que marque cada fase y en el momento que queden a 0 semanas las provisiones se habrán acabado.
 
 Con 0 provisiones, la gente de la caravana podría amotinarse, lo cual necesitará de un líder carismático (tirada de Espíritu cada media semana sin provisiones, la primera 0, la segunda -1, etc.) que los convenza de seguir o que les prometa grandes riquezas (+1 por cada mejora del sueldo). Recuerda que deberán pagar lo que prometan.
 
-Además, cada media semana sin provisiones supone un punto de fatiga por sed y hambre para todos las personas que vayan con la caravana. Cuando la fatiga llegue a 3 la expedición fracasará, los que no caigan muertos de sed e inanición, desertarán robando lo que puedan y huyendo a la noche. En este momento, si están en la fase 8º podrán seguir ellos solos (tus schahriars con Alya, al-Lawati, Assy y un grupo de unas 15 personas fieles a la princesa) hasta el final, pero sabiendo que igual encuentran la muerte en el desierto.
+\sp
+
+Además, cada media semana sin provisiones supone un punto de fatiga por sed y hambre para todos las personas que vayan con la caravana. Cuando la fatiga llegue a 3 la expedición fracasará, los que no caigan muertos de sed e inanición, desertarán robando lo que puedan y huyendo a la noche.
+
+En este momento, si están en la fase 8º podrán seguir ellos solos (tus schahriars con Alya, al-Lawati, Assy y un grupo de unas 15 personas fieles a la princesa) hasta el final, pero sabiendo que igual encuentran la muerte en el desierto.
 
 Aparte de eventos especiales que ocurren en la aventura, pueden hacer diferentes acciones para recuperar semanas de provisiones.
 
@@ -1173,6 +1198,8 @@ Aparte de eventos especiales que ocurren en la aventura, pueden hacer diferentes
 * En cada etapa podrán forrajear con una tirada de Supervivencia y conseguirán media semana de provisiones o una semana con un avance. Si se dedica a forrajear, no podrá hacer otras actividades como leer grimorios, traducir libros, etc.
 
 Hay zonas en las que es imposible conseguir víveres y agua, como cuando entre en el desierto desconocido. En estas partes solo deberías permitir soluciones muy ingeniosas y seguramente mágicas.
+
+\sp
 
 [![Good to be Bad by Brandon-Ellis](./images/asesino-espalda.jpg)](https://www.deviantart.com/brandon-ellis/art/Good-to-be-Bad-787484373 "Good to be Bad by Brandon-Ellis") 
 
@@ -1186,11 +1213,21 @@ Los agentes del gremio pueden ser cualquiera, no hay perfil concreto y puede lle
 
 #### El diario del Muza ben-Nossair
 
-La nieta de Califa de Damasco, la princesa Alya, cuenta con un diario escrito por el emir Muza durante la primera expedición a la Ciudad de Bronce. En él se relatan las aventuras y desventuras que vieron durante esa expedición, con notas sobre cómo resolvieron los problemas y enigmas que les acaecieron.
+La nieta de Califa de Damasco, la princesa Alya, cuenta con un diario escrito por el emir Muza durante la primera expedición a la Ciudad de Bronce. 
 
-Para Alya este diario es de una inestimable ayuda y su perdida o robo podría suponer el fracaso de la expedición o incluso la muerte de todos sus miembros. Es por ello que nunca se separa de él. Lo que no sabe es que hay gente del Gremio que conoce su existencia y quiere que la expedición fracase, así que intentarán lo que sea para arrebatarle tan importante manuscrito. Lo que el Gremio no sabe es que Alya se sabe el diario de memoria como un creyente se sabe las líneas de su libro sagrado.
+\sp
 
-El diario es un simple diario, sin ninguna capacidad mágica, pero la información que aporta si se usa adecuadamente puede ser muy útil e incluso salvar vidas. A lo largo de la aventura encontrarás referencias a textos del diario que podrás encontrar al final de este libro y que podrás imprimir, recortar y entregar en mano a tus schahriars.
+En él se relatan las aventuras y desventuras que vieron durante esa expedición, con notas sobre cómo resolvieron los problemas y enigmas que les acaecieron.
+
+Para Alya este diario es de una inestimable ayuda y su perdida o robo podría suponer el fracaso de la expedición o incluso la muerte de todos sus miembros.
+
+Es por ello que nunca se separa de él. Lo que no sabe es que hay gente del Gremio que conoce su existencia y quiere que la expedición fracase, así que intentarán lo que sea para arrebatarle tan importante manuscrito.
+
+Lo que el Gremio no sabe es que Alya se sabe el diario de memoria como un creyente se sabe las líneas de su libro sagrado.
+
+El diario es un simple diario, sin ninguna capacidad mágica, pero la información que aporta si se usa adecuadamente puede ser muy útil e incluso salvar vidas.
+
+A lo largo de la aventura encontrarás referencias a textos del diario que podrás encontrar al final de este libro y que podrás imprimir, recortar y entregar en mano a tus schahriars.
 
 ### Se buscan valientes
 
@@ -1200,25 +1237,40 @@ Desde hace semanas corren rumores de que una gran caravana va a salir rumbo al M
 
 Están contratando gente en una taberna, te hacen unas preguntas sobre tus habilidades y experiencia y te dan un adelanto si firmas con ellos.
 
-Si tus schahriars están interesados y pasan por Damasco, encontrarán a Muhammad al-Lawati, explorador jefe, y a Mahmoud Assy, consejero de la princesa Alya, en un reservado. Les recibirán con zalemas y elogios y Muhammad les hará una serie de preguntas sobre su historia y sus habilidades. Mahmoud no habla mucho, solo para hacerles preguntas capciosas y difíciles de contestar sin quedar como tontos o cobardes.
+Si tus schahriars están interesados y pasan por Damasco, encontrarán a Muhammad al-Lawati, explorador jefe, y a Mahmoud Assy, consejero de la princesa Alya, en un reservado.
 
-Si pasan las pruebas, detrás de unas celosías aparecerá la princesa Alya que firmará un contrato con tus schahriars y les dará un adelanto de 2 semanas de sueldo. Dentro de tres días partirán de Damasco. Será mejor que aprovechen a disfrutar de bebida, comida y buena compañía porque van a pasar muchos meses sin volver a probarlos.
+Les recibirán con zalemas y elogios y Muhammad les hará una serie de preguntas sobre su historia y sus habilidades. Mahmoud no habla mucho, solo para hacerles preguntas capciosas y difíciles de contestar sin quedar como tontos o cobardes.
 
-Déjales dos días, uno para conseguir equipo especial y otro de juerga salvaje hasta que se queden sin dinero. Puede que, incluso, Alya tenga que ir a buscarles a la celda de los borrachos y pagar por su liberación con el consiguiente descuento en su sueldo.
+\sp
+
+\sinc
 
 [![Zaharia - Concept by DottorFile](./images/tienda-desierto.jpg)](https://www.deviantart.com/dottorfile/art/Zaharia-Concept-389376366 "Zaharia - Concept by DottorFile") 
 
+&nbsp;
+
+\conc
+
+Si pasan las pruebas, detrás de unas celosías aparecerá la princesa Alya que firmará un contrato con tus schahriars y les dará un adelanto de 2 semanas de sueldo. Dentro de tres días partirán de Damasco. 
+
+Será mejor que aprovechen a disfrutar de bebida, comida y buena compañía porque van a pasar muchos meses sin volver a probarlos.
+
+Déjales dos días, uno para conseguir equipo especial y otro de juerga salvaje hasta que se queden sin dinero. Puede que, incluso, Alya tenga que ir a buscarles a la celda de los borrachos y pagar por su liberación con el consiguiente descuento en su sueldo.
+
+
 ### Empieza el viaje
 
-_Una caravana de unos mil camellos y unas 200 personas (5 camellos por persona, lo normal son 4) con provisiones para varios meses, se prepara para salir por el bab sur de la ciudad de Damasco. A su cabeza, la princesa Alya, con el objetivo de cumplir el juramento de su padre y liberar a la Ciudad de Bronce de su maldición._
+_Una caravana de unos mil camellos y unas 200 personas (5 camellos por persona, lo normal son 4) con provisiones para varios meses, se prepara para salir por el bab sur de la ciudad de Damasco.-
 
-Una de las caravanas más grandes en muchos años se está formando en el bab del sur de la ciudad. 1.000 camellos y unas 200 personas irán a lo desconocido a cumplir una promesa. Seguramente trovadores y poetas y poetisas hablarán de esta travesía.
+_A su cabeza, la princesa Alya, con el objetivo de cumplir el juramento de su padre y liberar a la Ciudad de Bronce de su maldición._
+
+\sp
+
+Una de las caravanas más grandes en muchos años se está formando en el bab del sur de la ciudad. 1.000 camellos y unas 200 personas irán a lo desconocido a cumplir una promesa. 
+
+Seguramente trovadores y poetas y poetisas hablarán de esta travesía.
 
 Se ha reunido miles de personas, nadie quiere perderse a los y las valientes que formarán parte de la expedición. Hay padres y madres despidiéndose de sus hijos e hijas y a esposas y esposas, novias y novias diciendo dulces palabras antes de partir. Pero también hay desaprensivos apostando cuantos volverán si es que llega alguno y otros con ojos envidiosos calculando las riquezas que conseguirán en el viaje.
-
-[![The Canyon por AngelaMaps](./images/garganta.jpg)](https://angelamaps.com/2020/12/05/the-canyon/ "The Canyon por AngelaMaps") 
-
-La garganta
 
 Al paso de la princesa, las gentes de Damasco lanzan pétalos y gritan vítores en su nombre. De entre el gentío sale una mujer mayor que cogerá la mano de la princesa y le leerá la buenaventura en las rayas de su mano. "Ohh princesa de Damasco, si bien debes liberar de su maldición a la broncínea ciudad, mantente alejada de tus iguales, pues solo te traerán desgracias y dolor.
 
@@ -1232,7 +1284,23 @@ La primera etapa empieza y debiera ser la más tranquila, pero va a empezar muy 
 
 _La caravana debe pasar por una estrecha garganta. El problema es que es un lugar perfecto para una emboscada. Y un derrumbe podría sepultar la caravana._
 
-Los exploradores vienen con malas noticias, el paso principal está cortado por derrumbamientos y la caravana debe pasar por una estrecha garganta. Es perfecto para una emboscada de ladrones o puede haber derrumbes. Alya mandará a tus schahriars junto a su explorador jefe Muhammad al-Lawati a que investiguen en profundidad la garganta para ver si es seguro. Según lo que averigüen, decidirán pasar por la angosta garganta o ponerse a limpiar el paso que les retrasaría una semana.
+Los exploradores vienen con malas noticias, el paso principal está cortado por derrumbamientos y la caravana debe pasar por una estrecha garganta. Es perfecto para una emboscada de ladrones o puede haber derrumbes.
+
+Alya mandará a tus schahriars junto a su explorador jefe Muhammad al-Lawati a que investiguen en profundidad la garganta para ver si es seguro. 
+
+\sp
+
+\sinc
+
+[![The Canyon por AngelaMaps](./images/garganta.jpg)](https://angelamaps.com/2020/12/05/the-canyon/ "The Canyon por AngelaMaps") 
+
+_La garganta_
+
+\sinc
+
+\sp
+
+Según lo que averigüen, decidirán pasar por la angosta garganta o ponerse a limpiar el paso que les retrasaría una semana.
 
 Mientras exploran el estrecho desfiladero pueden pasar estas cosas.
 
@@ -1250,7 +1318,11 @@ _El cocinero de la caravana está enfadado; alguien ha tocado sus tarros de espe
 
 Mientras disfrutan de su cena a la luz de la hoguera, el cocinero de la expedición se acerca a la tienda de la princesa. Después de varios gritos, salen de la tienda y la princesa ordena a tus schahriars que acompañen al cocinero.
 
-Alischar, el cocinero e intendente de la caravana, les explicará que alguien roba comida (Quita media semana de provisiones). Ha revisado las raciones desde que salió de Damasco y están desapareciendo más comida de la normal en estos casos. Ahora no es problema porque puede reponer lo robado comprando en los pueblos por los que pasan, pero será un problema cuando se adentren en el desierto.
+Alischar, el cocinero e intendente de la caravana, les explicará que alguien roba comida (Quita media semana de provisiones).
+
+\sp
+
+Ha revisado las raciones desde que salió de Damasco y están desapareciendo más comida de la normal en estos casos. Ahora no es problema porque puede reponer lo robado comprando en los pueblos por los que pasan, pero será un problema cuando se adentren en el desierto.
 
 Pueden revisar los camellos con las provisiones y encontrarán (Investigar) señales de robo; sacos rajados para sacar cosas por debajo, cajas abiertas y vueltas a cerrar mal, etc. Los robos, por la cantidad de comida robada, dicen que o son varios ladrones o alguien simplemente tira la comida.
 
@@ -1266,7 +1338,11 @@ La expedición abandona Gaza hacia la península de Sinaí, que no es una penín
 
 #### Obstáculo: Habitantes de la arena
 
-_Al amanecer el mokaddem avisa de que faltan camellos. No es normal que se hayan ido, así que alguien o algo se los ha llevado. Estamos fuera de las rutas comerciales y no hay pueblos cercanos, así que deben de ser asaltadores de caminos. Los ladrones son un grupo de habitantes de las arenas que buscaban carne fresca y de paso atraer a nuevas víctimas que poseer._
+_Al amanecer el mokaddem avisa de que faltan camellos. No es normal que se hayan ido, así que alguien o algo se los ha llevado. Estamos fuera de las rutas comerciales y no hay pueblos cercanos, así que deben de ser asaltadores de caminos._
+
+\sp
+
+_Los ladrones son un grupo de habitantes de las arenas que buscaban carne fresca y de paso atraer a nuevas víctimas que poseer._
 
 Al-Lawati cogerá a tus schahriars y provisiones para unos días. Tratará de buscar las monturas perdidas y volver a la caravana. Al-Lawati es un explorador muy bueno, pero puede que necesite ayuda para buscar los camellos.
 
@@ -1285,6 +1361,8 @@ Además de las tiradas de botín de los sukaans, hay una tirada extra de d8 de l
 _En una de las fogatas cercanas ha empezado una gran pelea. Si alguien no la para, puede ser un desastre._
 
 Unas 15 personas han empezado a pelear en una de las fogatas hechas para cenar y pasar la noche. Empieza a haber heridas graves entre las partes de la pelea. Pueden pararla entrando a la pelea y dejando inconscientes a la mitad de la turba.
+
+\sp
 
 Otra opción es pararla con Intimidación ayudados por alguna demostración de poder (+2 a Intimidación) como lanzando un hechizo de bola de fuego al aire, un grito potente o mucho ruido tirando la gran olla de la cena. Si en 4 turnos no acaban con la pelea, Alya aparecerá para pararla ella.
 
@@ -1306,15 +1384,25 @@ Tus schahriars y la caravana se adentran en Egipto, tierra de faraones y pirámi
 
 _Atravesando la tierra de los faraones, la expedición se encuentra una pirámide que parece haber desenterrado el viento y las dunas. ¿Qué podría pasar por entrar en ella y buscar los tesoros que los reyes de Egipto enterraban con ellos?_
 
-Es imposible recorrer las tierras de los faraones sin ver sus construcciones más emblemáticas, las pirámides. Al anochecer ante la caravana ha aparecido una pirámide semi-enterrada que parece que el viento ha sacado a la luz.
+Es imposible recorrer las tierras de los faraones sin ver sus construcciones más emblemáticas, las pirámides.
+
+\sp
+
+\sinc
+
+[![Giant limestone statues of Rameses II, Temple of Rameses, Abu Simbel, Egypt, 1836 - David Roberts](./images/templo-egipcio.jpg)](https://es.wikipedia.org/wiki/David_Roberts "Giant limestone statues of Rameses II, Temple of Rameses, Abu Simbel, Egypt, 1836 - David Roberts") 
+
+\conc
+
+Al anochecer ante la caravana ha aparecido una pirámide semi-enterrada que parece que el viento ha sacado a la luz.
 
 Mientras montan las tiendas pueden escuchar (tirada de Notar) una historia sobre tesoros en el interior de las pirámides. Lo cuenta un camellero tuerto, llamado Asshur, a sus compañeros de montaje con todo lujo de detalles. Continuará con las maldiciones que caen sobre lo que roban los tesoros, pero seguramente serán cuentos.
 
 Si la historia de Asshur les tienta, tiene hasta mañana al amanecer para adentrarse en la pirámide y buscar sus tesoros. Deberán intentar acercarse sigilosamente, si lo hacen a la vista de todos, querrá unirse más gente y tendrán que repartir el tesoro con más personas.
 
-[![Giant limestone statues of Rameses II, Temple of Rameses, Abu Simbel, Egypt, 1836 - David Roberts](./images/templo-egipcio.jpg)](https://es.wikipedia.org/wiki/David_Roberts "Giant limestone statues of Rameses II, Temple of Rameses, Abu Simbel, Egypt, 1836 - David Roberts") 
-
 La pirámide tiene una única entrada con cuatro grandes estatuas y en el fondo una puerta de piedra muy sólida (consistencia 15). Deberán romperla para poder entrar, ya que con su peso (6 tn) y sus recursos no es posible levantarla. Si hacen mucho ruido al romperla, atraerán nuevos buscadores. Si tratan de buscar otra entrada o algún botón que la abra, no hay.
+
+\sp
 
 Según crucen el umbral de la puerta, una figura encapuchada detrás suyo gritará «Por el Gremio de Bronce». Oirán un gran estallido encima de ellos y el dintel de la puerta y toneladas de piedra del techo caerán cegando la salida. La puerta es imposible ahora de abrir. Hay demasiadas toneladas de arena y piedra y seguro que si retiran parte, caerá más.
 
@@ -1332,7 +1420,11 @@ Hay un botín de d12+4 en objetos de oro o plata, carros, armas, objetos persona
 
 El techo, a unos 10 metros, es una estructura de metal y cuarzo transparente. Se supone que forma el pico de la pirámide y funciona como una claraboya.
 
-En cuanto la luz de la luna entre en la claraboya e ilumine la estancia, gracias a su magia, la momia (comodín) empezará a levantarse. Lo hará tranquilamente, como hace cada noche desde hace semanas cuando la pirámide fue desenterrada, hasta que detecte a los intrusos que cogerá su khopesh y se lanzará a matar a los intrusos. No pueden intentar negociar con él, no está muy bien de la escasa sesera que le queda y además no hablan el mismo idioma.
+En cuanto la luz de la luna entre en la claraboya e ilumine la estancia, gracias a su magia, la momia (comodín) empezará a levantarse.
+
+\sp
+
+Lo hará tranquilamente, como hace cada noche desde hace semanas cuando la pirámide fue desenterrada, hasta que detecte a los intrusos que cogerá su khopesh y se lanzará a matar a los intrusos. No pueden intentar negociar con él, no está muy bien de la escasa sesera que le queda y además no hablan el mismo idioma.
 
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d12+2, Vigor d12
 * **Habilidades:** Atletismo d6, Notar d8, Pelear d10
@@ -1352,6 +1444,8 @@ Una tirada de Saber de Suleimán les dirá que seguramente la pirámide fue ente
 
 Si no traen fuentes de luz, en toda la pirámide habrá oscuridad completa (-6), solo habrá algo de iluminación (Oscuridad -4) en la tercera sala, cuando entre la luna en la tercera estancia y cuando entre la luz de luna habrá penumbra (-2).
 
+\sp
+
 Debajo del sarcófago hay un cajón secreto (tirada de Notar) con 2 vasos canopos. Si puede traducir las inscripciones, uno de ellos de granito blanco tiene los restos del faraón momificado y otro de piedra basáltica negra es un vaso canope del Faraón negro.
 
 ##### Saliendo de la pirámide
@@ -1368,6 +1462,9 @@ Que había gente saboteando la expedición era ya sabido, pero tras los sucesos 
 
 * **Hablar con Alya:** Si hablan con la princesa de los sucesos de la pirámide, les hablará del diario del emir Muza ben-Nossair. En él se menciona, al final, una sociedad que trata de evitar que se encuentre la ciudad y teóricamente no rompan su maldición. Según creen ellos, romper la maldición es liberar un mal terrible sobre el mundo.
 * **Hablar con Mahmoud Assy:** Seguramente, cuando hablen con Alya, Mahmoud Assy este con ellos. Como barmáquida, sabe de la existencia del gremio, pero pensaba que habían desaparecido. No tuvieron casi influencia en la primera expedición y esperaba que no actuarán en la segunda. Si hablan en privado, Assy expresará su inquietud por la princesa, está cada vez más rara y más obsesionada por la ciudad. Empieza a no ser racional y el nuevo enemigo no va a ayudarla en nada.
+
+\sp
+
 * **Hablar con Muhammad al-Lawati:** Estaba seguro de que algo pasaba en la expedición y esto lo confirma. Estará atento y propone una serie de cambios como no dejar nunca a la princesa e ir siempre en pareja. Como parecen que hay personas con capacidades mágicas, propondrá palabras de seguridad en caso de doppelgangers, posesiones y demás.
 * El resto de personajes también son seguros, pero no pueden aportar nada interesante sobre el enemigo interior.
 
@@ -1385,11 +1482,21 @@ _Las lluvias otoñales han sido abundantes los últimos días y el río Nilo, qu
 
 Todo el delta del Nilo que cubre el trayecto entre el Cairo y Alejandría está inundado por las recientes lluvias. El terreno es casi impracticable, pero Alya no quiere parar, así que va a mandar a un grupo de exploración a buscar la ruta más seca. Junto a Muhammad al-Lawati, su jefe de exploradores, mandará a tus schahriars para que busquen una ruta segura.
 
-[![Eastern landscape with ruins. Johann Jakob Frey](./images/templo-crecidas.jpg)](https://en.wikipedia.org/wiki/Johann_Jakob_Frey "Eastern landscape with ruins. Johann Jakob Frey") 
-
 Deberán hacer cada día, durante 5 días, una tirada de Supervivencia para buscar una ruta seca. Si fallan, no encontrarán la ruta, lo que hará que la expedición tarde más en cruzar el delta. Esto afectará a las provisiones, cada tirada fallada supondrá media semana menos de provisiones.
 
-Mientras se muevan en los terrenos inundados del delta del Nilo, puedes montar encuentros normales con cocodrilos del Nilo o con hipopótamos comunes, que todavía abundan en la zona. Ten en cuenta que el hipopótamo es el animal más peligroso de toda África y tus schahriars se van a mover dentro de su terreno predilecto, el agua.
+Mientras se muevan en los terrenos inundados del delta del Nilo, puedes montar encuentros normales con cocodrilos del Nilo o con hipopótamos comunes, que todavía abundan en la zona.
+
+\sp
+
+\sinc
+
+[![Eastern landscape with ruins. Johann Jakob Frey](./images/templo-crecidas.jpg)](https://en.wikipedia.org/wiki/Johann_Jakob_Frey "Eastern landscape with ruins. Johann Jakob Frey") 
+
+&nbsp;
+
+\conc
+
+Ten en cuenta que el hipopótamo es el animal más peligroso de toda África y tus schahriars se van a mover dentro de su terreno predilecto, el agua.
 
 ##### Hipopótamo
 
@@ -1397,13 +1504,17 @@ Mientras se muevan en los terrenos inundados del delta del Nilo, puedes montar e
 * **Habilidades:** Atletismo d8, Notar d6, Pelea d8, Supervivencia d6
 * **Paso:** 8; **Parada:** 6; **Dureza:** 16 (2)
 * **Capacidades especiales:**
+    * **Colmillos:** FUE+d8
     * **Semiacuáticos:** No pueden respirar bajo el agua, pero pueden aguantar la respiración sin problemas hasta 5 minutos. Son excelentes nadadores y nadan a un paso de 8.
     * **Armadura +2:** Su piel dura les protege contra flechas y espadas.
     * **Tamaño +6:** Alcanzan normalmente de 6 a 7,5 m de longitud y de 3,2 a 4 m de altura (+6 dureza, +2 bonificación al atacarle, +1 herida).
+
+\sp
+
+* **Capacidades especiales:**
     * **Resistente:** No recibe heridas al ser aturdido dos veces seguidas.
     * **Duro:** Puede aguantar una herida antes de quedar incapacitado.
     * **Carga:** Si se mueve todo su movimiento en línea recta puede hacer una tirada única de Pelea contra todos los enemigos que encuentre en su camino con un daño FUE y deberán tirar AGI para no quedar caídos en el suelo.
-    * **Colmillos:** FUE+d8
 
 ##### El templo hundido
 
@@ -1421,12 +1532,14 @@ Alya les va a dar 1 día para buscar el libro, eso supone que podrán gastar la 
 
 Si pasan las tiradas de Investigar, podrán encontrar dos tomos interesantes.
 
+\sp
+
 * **Genealogías de las tierras ignotas (NP 6, árabe)** Este libro son páginas y páginas de genealogías y árboles genealógicos de nobles, reyes y príncipes de tierra desconocidas o muy lejanas. Se pueden encontrar varias referencias a la princesa Tadnaar, aunque ninguna específica de la princesa. Estudiándolo podría hacerse una genealogía de la princesa Tadnaar a partir de las referencias en otras genealogías. Eso exigiría una semana de lectura del libro y otra de estudio y trabajo hilvanando las ramas de los árboles genealógicos.
 * **De antiguas maldiciones (NP 4, griego jónico)** Este tratado griego explica diferentes maldiciones y los lugares sobre las que cayeron. Si bien no habla de la maldición que cae sobre la Ciudad de Bronce, da muchas ideas sobre las causas de las maldiciones y cómo revertirlas. Otorga, si se puede consultar por 1 hora o más, +1 a las tiradas de Saber de Suleimán en tema de maldiciones.
 
 ##### Intercambio de libros
 
-El [bibliotecario de la Cúpula](#anchorcultistasuperior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios. El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Suleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
+El bibliotecario de la Cúpula (Cultista superior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios. El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Suleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
 
 Las tiradas serán secretas y solo las sabrá cada parte de la negociación. Si acierta sabe el nivel del libro que tiene entre manos y si falla deberá tirar un dado igual al poder del libro hacia abajo (NP 9 será un d8 que puede explotar). Esa será el NP del libro para cada parte.
 
@@ -1436,7 +1549,11 @@ Si tienen que entregar sus libros, no habrá ningún problema en que Alya les re
 
 ##### Robando libros
 
-La otra opción es robar el libro por la noche. La cúpula tiene una única puerta (Latrocinio -1) custodiada por 2 vigilantes (Soldado) y varias ventanas enrejadas (Consistencia 8). Hay un 50% de posibilidades que el bibliotecario esté dentro pasando la noche. Ni los guardas ni las rejas son un problema para un ladrón medio, pero la cúpula está en la zona comercial y hay mucho movimiento todo el día y toda la noche. En seguida se llenaría la zona de guardias de la ciudad.
+La otra opción es robar el libro por la noche. La cúpula tiene una única puerta (Latrocinio -1) custodiada por 2 vigilantes (Soldado) y varias ventanas enrejadas (Consistencia 8).
+
+\sp
+
+Hay un 50% de posibilidades que el bibliotecario esté dentro pasando la noche. Ni los guardas ni las rejas son un problema para un ladrón medio, pero la cúpula está en la zona comercial y hay mucho movimiento todo el día y toda la noche. En seguida se llenaría la zona de guardias de la ciudad.
 
 Si son detenidos perderán los libros y Alya tendrá que sacarlos de la cárcel gastando bastante dinero en sobornos.
 
@@ -1458,7 +1575,11 @@ Karim da hasta que el sol esté en lo alto para que entreguen lo que piden. Si h
 
 Unas tiradas de Notar les dirán que están nerviosos. Por alguna razón se juegan mucho en todo esto y parecen desesperados. Parece que no suelen hacer estas cosas. Mientras negocian puede que algún schahriar le dé por investigar.
 
-Si se mueven con Sigilo o mágicamente al otro lado de la duna, verán al resto de la tribu nómada. La situación es complicada para ellos, están desnutridos, sus ropas están rotas en el mejor de los casos y sus animales están flacos y enfermos.
+Si se mueven con Sigilo o mágicamente al otro lado de la duna, verán al resto de la tribu nómada.
+
+\sp
+
+La situación es complicada para ellos, están desnutridos, sus ropas están rotas en el mejor de los casos y sus animales están flacos y enfermos.
 
 Si hablan más con Karim podrán sacarle más información con Persuadir. Se han adentrado en el desierto porque el emir local les ha declarado enemigos del califato. La persecución de las tropas del Emir les han hecho perder muchos de sus recursos y si esto les ha puesto entre la espada y la pared. De normal, no haría esto, pero no quiere ver morir a su gente.
 
@@ -1476,7 +1597,11 @@ _Alguien ha entrado en la tienda de la princesa mientras duerme, busca el diario
 
 Un ruido de la vecina tienda de la princesa Alya despierta a tus schahriars, parece una pelea. Si entran verán a tres figuras encapuchadas (Asesino entrenados), dos enfrentándose a Alya alfanje en mano, mientras una tercera rebusca entre sus cosas.
 
-En cuanto entren tus schahriars, empezará el combate. En el turno de la figura que rebusca, rasgará la tienda de campaña y saldrá corriendo. Alya gritará: "¡Qué no escape! Tienen el diario del emir Muza". Mientras las otras figuras encapuchadas en su turno se pondrán en medio y tratarán de evitar que lo persigan. Cada turno que tus schahriars se entretengan con ellos dará una carta de ventaja si tratan de perseguirlo.
+\sp
+
+En cuanto entren tus schahriars, empezará el combate. En el turno de la figura que rebusca, rasgará la tienda de campaña y saldrá corriendo.
+
+Alya gritará: "¡Qué no escape! Tienen el diario del emir Muza". Mientras las otras figuras encapuchadas en su turno se pondrán en medio y tratarán de evitar que lo persigan. Cada turno que tus schahriars se entretengan con ellos dará una carta de ventaja si tratan de perseguirlo.
 
 Como buenos fanáticos, ni pedirán ni darán cuartel e irán a muerte. Si tratan de no matarlos para interrogarlos, como Scheherazade puedes gastar un deseo para que suiciden antes de caer inconsciente bebiendo unos viales que llevan (es agua regia que les disolverá las entrañas).
 
@@ -1492,9 +1617,23 @@ Si el encapuchado se escapa o se quema el diario, es una perdida, pero no es tan
 
 ##### Herencia profunda
 
-Si son un poco avispados, se darán cuenta de que es raro que la princesa estuviera totalmente vestida a esas horas de la noche cuando debería estar durmiendo. La razón es que como descendiente de profundo no duerme casi nunca, pero tus schahriars pueden interpretarlo de muchas formas.
+Si son un poco avispados, se darán cuenta de que es raro que la princesa estuviera totalmente vestida a esas horas de la noche cuando debería estar durmiendo.
 
-Si la vigilan las siguientes noches, verán que casi no duerme. Se va la última a dormir y está despierta demasiado pronto. Tras averiguar esto, pueden hacer una tirada de Saber de Suleimán para descubrir que igual no es totalmente humana.
+La razón es que, como descendiente de profundo, no duerme casi nunca, pero tus schahriars pueden interpretarlo de muchas formas.
+
+\sp
+
+\sinc
+
+[![Kom Ombo Temple - Roberts, David](./images/babilonia.jpg)](https://www.oldbookillustrations.com/illustrations/kom-ombo/ "Kom Ombo Temple - Roberts, David") 
+
+&nbsp;
+
+\conc
+
+Si la vigilan las siguientes noches, verán que casi no duerme. Se va la última a dormir y está despierta demasiado pronto.
+
+Tras averiguar esto, pueden hacer una tirada de Saber de Suleimán para descubrir que igual no es totalmente humana.
 
 ### 6ª etapa. Sahara
 
@@ -1506,9 +1645,9 @@ La expedición ha abandonado la civilización, pero todavía es territorio conoc
 
 _Al-Lawati regresa de una de sus rondas de exploración. Más adelante, pero fuera de la ruta. Hay unas antiguas ruinas llenas vegetación con lo que seguro que hay agua. Quizás sea buena idea explorarlas o quizás no._
 
-Empieza a ser costumbre encontrar ruinas y como siempre, una buena posibilidad de enriquecerse y a la vez de meterse en problemas. Pero esta vez es diferente, las provisiones no escasean y quizás puedan conseguir agua y comida.
+\sp
 
-[![Kom Ombo Temple - Roberts, David](./images/babilonia.jpg)](https://www.oldbookillustrations.com/illustrations/kom-ombo/ "Kom Ombo Temple - Roberts, David") 
+Empieza a ser costumbre encontrar ruinas y como siempre, una buena posibilidad de enriquecerse y a la vez de meterse en problemas. Pero esta vez es diferente, las provisiones no escasean y quizás puedan conseguir agua y comida.
 
 Alya dará su visto bueno siempre que el grupo se comprometa a estar a la mañana siguiente, máximo a la noche siguiente, con el resto de la expedición. Cada schahriar irá con dos camellos con alforjas y odres.
 
@@ -1520,9 +1659,15 @@ Las inscripciones de las paredes son caracteres jónicos, pero no parece descifr
 
 Saber de Suleimán les permitirá saber que eso parece un icono que representa a especie de yinn de gran poder llamado Ubbo-Sathla, que está asociado con la vida vegetal. Se sabe de esclavos del África subsahariana que adoran a esta entidad.
 
-En el centro de las ruinas hay pozo de agua (5x5 casillas) lleno de plantas flotadoras de grandes hojas. Una de ellas en el centro del pozo y de mayor tamaño parece que tiene una flor de metro y medio de altura. Dentro de la flor hay tres especies de semillas que irradian un brillo verdoso. Cada semilla es una semilla de Khizr, una pequeña parte de la esencia de Ubbo-Sathla.
+En el centro de las ruinas hay pozo de agua (5x5 casillas) lleno de plantas flotadoras de grandes hojas. Una de ellas en el centro del pozo y de mayor tamaño parece que tiene una flor de metro y medio de altura.
 
-Si se llevan todas las semillas, automáticamente toda la vegetación decaerá y el pozo se secará. Puede incluso que se derrumben parte de las ruinas, tirada de Atletismo para salir corriendo y evitar 2d6 de daño de la caída de piedras. Si dejan al menos una semilla, la esencia del primigenio vegetal se mantendrá y en unas semanas volverá a haber 3 semillas.
+Dentro de la flor hay tres especies de semillas que irradian un brillo verdoso. Cada semilla es una semilla de Khizr, una pequeña parte de la esencia de Ubbo-Sathla.
+
+\sp
+
+Si se llevan todas las semillas, automáticamente toda la vegetación decaerá y el pozo se secará. Puede incluso que se derrumben parte de las ruinas, tirada de Atletismo para salir corriendo y evitar 2d6 de daño de la caída de piedras.
+
+Si dejan al menos una semilla, la esencia del primigenio vegetal se mantendrá y en unas semanas volverá a haber 3 semillas.
 
 ##### La huella de Ubbo-Sathla
 
@@ -1540,7 +1685,11 @@ Se ha encontrado el cadáver apuñalado de un camellero llamado Isbar fuera del 
 
 La noche anterior tuvo una discusión con otro camellero, Barukh al-Cairi, de origen egipcio, que lo amenazó de muerte por un tema de trampas en el juego.
 
-Varios compañeros de ambos han reconocido las amenazas, Barukh no tiene coartada en toda la noche y hay manchas rojas en su ropa. A priori es todo muy sospechoso, pero no del todo definitorio, así que, Alya ha montado un juicio rápido donde, de ser hallado culpable, será decapitado allí mismo.
+Varios compañeros de ambos han reconocido las amenazas, Barukh no tiene coartada en toda la noche y hay manchas rojas en su ropa.
+
+\sp
+
+A priori es todo muy sospechoso, pero no del todo definitorio, así que, Alya ha montado un juicio rápido donde, de ser hallado culpable, será decapitado allí mismo.
 
 Al-Lawati como defensor ha puesto a tus schahriars a investigar lo que ha pasado. Si hablan con Barukh, no sabe nada. Isbar intento engañarle a los dados y le amenazo de muerte si no le devolvía lo que le había robado jugando. Tras llevarse su dinero se fue a dormir con sus camellos porque no se fiaba de que Isbar no intentará algo antes del amanecer. En caso da ataque, los camellos seguramente harían ruido y no noto nada. No sabe más hasta la mañana siguiente.
 
@@ -1568,8 +1717,6 @@ Alya como kadí no quiere perder tiempo, así que lo que le digan le parecerá b
 A partir de este punto cualquier signo de civilización desaparecerá. Déjales claro que ya no habrá pozos conocidos, caravanas con las que comerciar, pequeños poblados de nómadas a los que preguntar. Ni asaltadores, lo que se encuentren ahora serán seres horribles con extrañas formas y diabólicas intenciones. Tampoco habrá ni ciudades ni pueblos donde conseguir provisiones. Cazar y forrajear será casi imposible a no ser que ocurran cosas excepcionales.
 
 Deberías controlar a que tipo de equipamiento tienen acceso tus schahriars. No deberían tener acceso a productos de lujo, muy modernos o de alta tecnología, solo cosas simples que se lleven en el macuto, como cuerda, sacos de dormir, cuchillos, palas, brújulas, etc. Si pierden su astrolabio no podrán encontrar más, no deberían tener acceso a medicamentos, etc.
-
-[![Lil Sakib](./images/camello-desierto.jpg)](https://www.pexels.com/es-es/foto/puesta-de-sol-hombre-sol-desierto-20801932/ "Lil Sakib") 
 
 ### 7ª etapa. Terreno desconocido
 
@@ -1940,11 +2087,13 @@ Debes recordar que Alya no espera a nadie así que estas historias deberían hac
 
 _Como los astrónomos habían predicho, el cometa Aiin se acerca a la Tierra, cosa que hace cada 320 años. Se dice que en su interior reside parte de la esencia fragmentada de la deidad conocida como Suc’Naath. Dentro de unos meses pasará muy cerca de nuestro planeta y será el momento perfecto para intentar liberar a este dios exterior de su maldición._
 
+La Mano Dorada, secta de adoradores de Suc’Naath, no puede perder esta oportunidad de librar a su amo de la maldición que lo mantiene atado a Azathoth. Su suma sacerdotisa Ziba, que porta la esencia de Suc’Naath en sus genes, debe encontrar la última parte de la esencia que le falta, una estatua perdida en el tiempo y el espacio.
+
 > "Las estrellas se dividen en tres clases, según la misión a que se las destina: unas cuelgan de la bóveda celeste como antorchas, y sirven para alumbrar la tierra; otras están suspendidas de manera invisible en el aire, y sirven para alumbrar los mares; y las estrellas de la tercera categoría, se mueven a voluntad entre los dedos de Alah; se las ve desfilar en la noche, y entonces sirven para lapidar y castigar a los demonios que osan infringir las órdenes del Altísimo".
 > 
 > **Referencia:** Historia de la docta Simpatía (n. 284)
 
-La Mano Dorada, secta de adoradores de Suc’Naath, no puede perder esta oportunidad de librar a su amo de la maldición que lo mantiene atado a Azathoth. Su suma sacerdotisa Ziba, que porta la esencia de Suc’Naath en sus genes, debe encontrar la última parte de la esencia que le falta, una estatua perdida en el tiempo y el espacio.
+\sp
 
 Si consiguen juntar sus genes, con la estatua perdida y la esencia que hay en el cometa, Suc’Naath podrá abandonar su lugar entre los dioses danzantes de Azathoth y aparecer en nuestro mundo para llevar a cabo sus terribles planes apocalípticos y conceder a sus adoradores poder e inmortalidad.
 
@@ -1960,9 +2109,15 @@ A tus schahriars le llega el rumor de que una poderosa maga anda buscando gente 
 
 Ziba hace las entrevistas junto con su mano derecha, Alura. Les ofrecerá 500 monedas por como mucho una semana de trabajo. Un día de viaje y otro de vuelta hasta las ruinas y espera que como mucho 2 o 3 días de excavación.
 
-Si hace poco terminaron algún relato en que pudieran conseguir fama como "El alcázar en las nubes", les reconocerá y les preguntará por sus aventuras para ofrecerles 600 dinares. Les dorará la píldora para que acepten el trabajo.
+Si hace poco terminaron algún relato en que pudieran conseguir fama como «El alcázar en las nubes», les reconocerá y les preguntará por sus aventuras para ofrecerles 600 dinares. Les dorará la píldora para que acepten el trabajo.
 
-Ziba no necesita mano de obra para encontrar la estatua de Suc’Naath, puede usar a sus adeptos, pero sabe que necesita personas excepcionales y ha detectado la Afinidad Mágica de tus schahriars. Sus sectarios y sectarias no están "tocados" por el destino como las personas que acaban de entrar en su sala privada. Además, teme que si los adeptos tocan la estatua puedan morir o algo incluso peor, que su fe interactúe con la estatua y la destruya o que la esencia pase al cultista y ya no sea solo ella la única persona que porte parte de la esencia de Suc’Naath.
+Ziba no necesita mano de obra para encontrar la estatua de Suc’Naath, puede usar a sus adeptos, pero sabe que necesita personas excepcionales y ha detectado la Afinidad Mágica de tus schahriars.
+
+Sus sectarios y sectarias no están «tocados» por el destino como las personas que acaban de entrar en su sala privada.
+
+\sp
+
+Además, teme que si los adeptos tocan la estatua puedan morir o algo incluso peor, que su fe interactúe con la estatua y la destruya o que la esencia pase al cultista y ya no sea solo ella la única persona que porte parte de la esencia de Suc’Naath.
 
 Si aceptan el trato de Ziba, esta quedará con ellos dentro de dos días al amanecer en el Bab Al-Talsim al norte de la ciudad. Una tirada de Tácticas les dirá que es extraño usar el bab norte si te diriges al sur, quizás esté tratando de despistar a alguien u ocultar sus actividades.
 
@@ -1974,11 +2129,29 @@ El día acordado al amanecer les esperará un grupo de 8 camellos con material d
 
 _En lo profundo de las catacumbas de Babilonia hay una estatua muy especial, hecha de piedra negra, que representa un tornado de la que salen caras agonizantes. En ella reside un tercio de la esencia de Suc’Naath._
 
-Cuando lleguen a las ruinas de Babilonia lanzará un hechizo que le marcará el camino hasta unas ruinas de la ciudad. El grupo tendrá que retirar escombros y cavar hasta encontrar una losa de mármol que en su momento fue de gran calidad con una gran argolla de cobre. Al levantarla se descubre unas escaleras semiocultas que llevan a algún tipo de templo subterráneo (Ruinas de Babilonia).
+Cuando lleguen a las ruinas de Babilonia lanzará un hechizo que le marcará el camino hasta unas ruinas de la ciudad.
+
+El grupo tendrá que retirar escombros y cavar hasta encontrar una losa de mármol que en su momento fue de gran calidad con una gran argolla de cobre.
+
+Al levantarla se descubre unas escaleras semiocultas que llevan a algún tipo de templo subterráneo (Ruinas de Babilonia).
 
 El templo subterráneo no tiene ningún tipo de iluminación así que necesitarán antorchas y el aire está enrarecido, en la tercera sala que vigilen deberán tirar Vigor o tendrán un nivel de fatiga por el aire.
 
-Una tirada de Humanidades les dirá a tus schahriars que el templo debía estar dedicado a alguna deidad prohibida y pervertida si tuvieron que esconder el templo bajo tierra. Aun así, debía tener fieles muy poderosos y ricos porque el templo parece que estaba lujosamente decorado.
+Una tirada de Humanidades les dirá a tus schahriars que el templo debía estar dedicado a alguna deidad prohibida y pervertida si tuvieron que esconder el templo bajo tierra.
+
+Aun así, debía tener fieles muy poderosos y ricos porque el templo parece que estaba lujosamente decorado.
+
+\sp
+
+\sinc
+
+[![[MAP] THE TOMB OF DEVAS - Miska Fredman](./images/ruinas-babilonia.webp)](https://www.miskasmaps.com/maps/map-the-tomb-of-devas/ "[MAP] THE TOMB OF DEVAS - Miska Fredman")
+
+_Ruinas de Babilonia_
+
+\conc
+
+\sp
 
 #### Explorando el templo
 
@@ -2000,10 +2173,6 @@ Parece algún tipo de despacho que usaban los superiores religiosos para sus asu
 
 Esta gran sala parece una sala de reuniones, donde los sacerdotes y adeptos de mayor nivel se reunían para tomar decisiones, hay 13 huecos donde debían sentarse los participantes y los restos de algún tipo de púlpito donde podían hablar y expresarse.
 
-[![[MAP] THE TOMB OF DEVAS - Miska Fredman](./images/ruinas-babilonia.webp)](https://www.miskasmaps.com/maps/map-the-tomb-of-devas/ "[MAP] THE TOMB OF DEVAS - Miska Fredman")
-
-Ruinas de Babilonia
-
 Si cuando están en esta sala, con Sigilo dan un vistazo a la sala principal (1) verán a Ziba y su gente rezando a la estatua.
 
 Una tirada de Notar -2 detectará una losa movible en uno de los cubículos del fondo que da acceso a una cueva secreta (5) que es el templo real Suc’Naath. Si fallan tus schahriars puede aparecer Ziba y encontrar la puerta secreta. Si descubren la estatua solos pueden seguir ellos solos o avisar a Ziba.
@@ -2014,7 +2183,11 @@ Es un habitáculo normal que da paso al templo real. Por los restos de cerámica
 
 ##### Templo de Suc’Naath (6)
 
-Esta gran sala tiene dos partes, una inferior donde se arrodillaban los fieles y uno superior separado por un lago donde los sacerdotes hacían sus rituales. Sacaba la estatua viviente de Suc’Naath de la capilla adyacente (9) y le ofrecían todo tipo de ofrendas y sacrificios, puede que incluso humanos.
+Esta gran sala tiene dos partes, una inferior donde se arrodillaban los fieles y uno superior separado por un lago donde los sacerdotes hacían sus rituales.
+
+\sp
+
+Sacaban la estatua viviente de Suc’Naath de la capilla adyacente (9) y le ofrecían todo tipo de ofrendas y sacrificios, puede que incluso humanos.
 
 El lago es en realidad 2 elementales de agua (usar el del manual básico) que guardan la cueva. Fueron invocados hace siglos con una magia hoy desconocida. Solo atacarán a aquellos que no crean en Suc’Naath y, por tanto, no tengan su marca, es decir, tus schahriars. Una tirada de Notar durante el combate les dirá que solo ellos han sido atacados.
 
@@ -2028,11 +2201,15 @@ Excavados en la pared hay huecos en los se debían guardar libros, objetos relig
 
 ##### Capilla de Suc’Naath (9)
 
-En esta pequeña cavidad se guarda la estatua de Suc’Naath sobre un altar de piedra. La estatua, a pesar de ser piedra, cambia de forma cuando parpadeas y cualquiera que la examine deberá hacer una TPC d6. Las caras desaparecen y aparecen cada vez que cierras los ojos y los vuelves a abrir. Si se falla la TPC podrás reconocer a familiares, amistades y seres queridos en general en las caras de la estatua.
+En esta pequeña cavidad se guarda la estatua de Suc’Naath sobre un altar de piedra. La estatua, a pesar de ser piedra, cambia de forma cuando parpadeas y cualquiera que la examine deberá hacer una TPC d6.
+
+Las caras desaparecen y aparecen cada vez que cierras los ojos y los vuelves a abrir. Si se falla la TPC podrás reconocer a familiares, amistades y seres queridos en general en las caras de la estatua.
 
 Una tirada de Notar -2 detectará que el altar se puede mover y deja un cubículo donde hay dos cuchillos rituales. Las hojas están inmaculadas, pero el mango está podrido y debería cambiarse. Serían dos jambias mágicas (+1 pelear/daño, daño mágico).
 
 Bajo ningún concepto Ziba y sus discípulos tocarán la estatua. Lo dejarán en manos de los schahriars. Ziba teme que tocarla active su esencia y sin el cometa suponga el fracaso de su plan de liberación de Suc’Naath.
+
+\sp
 
 #### Volviendo a Bagdad
 
@@ -2044,7 +2221,9 @@ La Mano Dorada, ahora que tiene la estatua de Suc’Naath, necesita una forma de
 
 La única forma que Ziba sabe de viajar hasta el espacio es con una Ave Rokh, así que la idea es coger uno de huevo o cría y domesticarlo para poder usarlo de montura. Criarlo y domarlo serán un par de meses, momento en que el cometa Aiin llegará a la tierra.
 
-El día que el cometa sea visible, desde la cima del monte Ararat, Ziba se montará en su Rokh y tras salir de la atmósfera de la Tierra y encontrarse con el cometa se fusionará con él y junto con la estatua. Eso liberará a su señor de la maldición y dejará de ser un dios danzante de Azathoth. Ziba cree que se convertirá en un avatar de Suc’Naath y volverá a la Tierra con increíbles poderos para conquistarla y convertirla en su reino.
+El día que el cometa sea visible, desde la cima del monte Ararat, Ziba se montará en su Rokh y tras salir de la atmósfera de la Tierra y encontrarse con el cometa se fusionará con él y junto con la estatua.
+
+Eso liberará a su señor de la maldición y dejará de ser un dios danzante de Azathoth. Ziba cree que se convertirá en un avatar de Suc’Naath y volverá a la Tierra con increíbles poderos para conquistarla y convertirla en su reino.
 
 ### Para hacer una tortilla hay que romper huevos
 
@@ -2054,13 +2233,19 @@ _Solo hay una forma de conseguir combinar los tres fragmentos de la esencia de S
 
 _Para ello deberán ir a las laderas de los montes Elburz y robar un huevo de Rokh sin que sus progenitores los maten._
 
-Este punto de la aventura es muy sencillo. Ziba ha visto las capacidades de tus schahriars y les contratará para capturar una cría o robar un huevo de Rokh. Les dará 1.000 por el viaje y 2.000 por cada huevo o cría que consigan. Durante el viaje que pueden ser un par de semanas, puedes meter otros cuentos.
+Este punto de la aventura es muy sencillo. Ziba ha visto las capacidades de tus schahriars y les contratará para capturar una cría o robar un huevo de Rokh.
+
+\sp
+
+Les dará 1.000 por el viaje y 2.000 por cada huevo o cría que consigan. Durante el viaje que pueden ser un par de semanas, puedes meter otros cuentos.
 
 #### En los montes Elburz
 
 Al sur del mar Caspio están los montes Elburz, el lugar de la cría preferido de los Rokhs. Los Rokhs anidan en las laderas de los montes Elburz creando grandes nidos. De normal, viven en colonias aprovechando huecos y cavernas en las paredes de las montañas, pero cuando van a criar se separan del resto crean grandes niños donde ponen y empollan dos huevos, del que normalmente solo 1 será viable.
 
-Los montes Elburz ocupan miles de kilómetros cuadrados y es complicado encontrar un nido de Rokhs. Tendrán que recorren durante bastantes días las laderas de cordillera montañosa. Cada día el mejor explorador podrá hacer una tirada de Supervivencia -4 ayudado por sus compañeros. Puedes darles positivos si puede usar medios voladores, algún tipo de catalejo o usan hechizos como "Hablar con los animales". Si pasan la tirada encontrarán un nido.
+Los montes Elburz ocupan miles de kilómetros cuadrados y es complicado encontrar un nido de Rokhs. Tendrán que recorrer durante bastantes días las laderas de cordillera montañosa.
+
+Cada día, el mejor explorador podrá hacer una tirada de Supervivencia -4 ayudado por sus compañeros. Puedes darles positivos si puede usar medios voladores, algún tipo de catalejo o usan hechizos como «Hablar con los animales». Si pasan la tirada encontrarán un nido.
 
 El terreno es inhóspito, frío, con nieves perpetuas, mal de alturas, etc. Así que cada día tendrán que pasar una tirada de Vigor u obtendrán un nivel de Fatiga.
 
@@ -2070,15 +2255,25 @@ El terreno es inhóspito, frío, con nieves perpetuas, mal de alturas, etc. Así
 
 A tu libre elección en el nido habrá huevos o polluelos. Los huevos son frágiles y hacen que se tengan que mover despacio y con cuidado. Si hay polluelos, el problema es que hacen ruidos, pican y hay que alimentarlos.
 
-El nido nunca está vacío, bien el macho o la hembra de Rokhs, estarán incubando los huevos o criando los polluelos. Solo una distracción muy grande hará que los Rokhs deje sin protección el nido. Si estudian a distancia el nido podrán con Supervivencia saber qué huevo o polluelo es más viable.
+El nido nunca está vacío, bien el macho o la hembra de Rokhs, estarán incubando los huevos o criando los polluelos.
+
+\sp
+
+\sinc
+
+[![Nest por AngelaMaps](./images/nido-rokh.jpg)](https://angelamaps.com/2023/04/01/nest/ "Nest por AngelaMaps") 
+
+_Nido de Rohks_
+
+\conc
+
+\sp
+
+Solo una distracción muy grande hará que los Rokhs deje sin protección el nido. Si estudian a distancia el nido podrán con Supervivencia saber qué huevo o polluelo es más viable.
 
 Si se lanzan al ataque contra el Rokh que está empollando los huevos, este los defenderá con todo. En 6 turnos vendrá su pareja a ayudarle.
 
 Pueden tratar de crear una distracción para el Rokh que esté cazando y que se aleje del nido. Para distraerles pueden, por ejemplo, soltar animales de granja un poco lejos y que hagan ruido. El Rokh se alejará del nido y cuando su compañero pida ayuda no le oirá.
-
-[![Nest por AngelaMaps](./images/nido-rokh.jpg)](https://angelamaps.com/2023/04/01/nest/ "Nest por AngelaMaps") 
-
-Nido de ave de Rokh
 
 Hacer que abandone el nido, el que está empollando es mucho más complicado. Solo un gran peligro como una bandada de sirvientes alados, su enemigo natural, harían que abandonara el nido. Trucos como provocar fuegos, no asustarán al Rokh, que tratará de poner los huevos a salvo como pueda y llamar a su compañero.
 
@@ -2094,7 +2289,9 @@ El polluelo de Rokh tiene que ser domesticado y entrenado para poder ser montado
 
 Esta aventura debería ser más distendida, no hay monstruos queriendo matar a tus schahriars ni maldiciones ni magos depravados. Deberías hacerles pruebas divertidas para entrenar al Rokh como las siguientes.
 
-* Lo primero que deberán hacer tus schahriars será buscarle un nombre al Rokh y tú como Scheherazade darle secretamente una personalidad. Puede ser muy tozudo, excesivamente cariñoso, demasiado tranquilo, excesivamente acelerado, etc. Piensa en algo divertido que sea muy diferente a tus schahriars como si fueran una "película de colegas" donde dos personas totalmente contrarias de carácter tienen que juntarse para solucionar un problema.
+\sp
+
+* Lo primero que deberán hacer tus schahriars será buscarle un nombre al Rokh y tú como Scheherazade darle secretamente una personalidad. Puede ser muy tozudo, excesivamente cariñoso, demasiado tranquilo, excesivamente acelerado, etc. Piensa en algo divertido que sea muy diferente a tus schahriars como si fueran una «película de colegas» donde dos personas totalmente contrarias de carácter tienen que juntarse para solucionar un problema.
 * Deberán ponerle una silla y que no se la quite. Deberán seguirlo corriendo e inmovilizarlo como un ternero en un rodeo. Tiradas enfrentadas de Atletismo. Si sacan un avance, podrán intentar derribarlo con tiradas de FUE enfrentadas.
 * Una vez tengan la silla deberá aprender a llevar gente sobre ella. Serán tiradas enfrentadas de Atletismo contra FUE del Rokh, el schahriar deberá aguantar los esfuerzos del Rokh por tirar a su jinete. 3 tiradas seguidas con éxito y el polluelo se rendirá y aceptará llevar jinete. Cada tirada enfrentada suma un d6 y cuando se falla el jinete se hace los dados acumulados de daño. Si el jinete pasa 2 tiradas y falla la tercera se llevará 2d6 de daño entre pateos y la caída contra el suelo.
 * Deben alimentar el Rokh con carne, pero deberán hacer como sus padres, deglutirlo y dárselo de boca en boca con picotazos 1d6 de daño porque tiene hambre.
@@ -2102,6 +2299,8 @@ Esta aventura debería ser más distendida, no hay monstruos queriendo matar a t
 * Recuerda si al entrenarlo han usado algún tipo de premio como dulces o cecina porque le gustaba mucho. Podrán usar ese conocimiento en un futuro si necesitan que el Rokh no haga caso a su jinete.
 
 Este proceso puede llevar el tiempo que desees y cuando lo creas conveniente el polluelo estará entrenado y habrá crecido al tamaño adulto.
+
+\sp
 
 #### Polluelo de Rokh
 
@@ -2116,7 +2315,9 @@ Este proceso puede llevar el tiempo que desees y cuando lo creas conveniente el 
     * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
 * **TPC:** d8 (solo si se pone agresivo)
 
-> Esta parte es totalmente opcional y si no quieren participar en el entrenamiento del Rokh puedes intercalar otras aventuras o en su lugar jugar el siguiente cuento, "Préstamo de libro". En unas semanas Ziba volverá a contactar con tus schahriars para continuar con la aventura.
+> /p/ Esta parte es totalmente opcional y si no quieren participar en el entrenamiento del Rokh puedes intercalar otras aventuras o en su lugar jugar el siguiente cuento, «Préstamo de libro». En unas semanas Ziba volverá a contactar con tus schahriars para continuar con la aventura.
+
+\sc
 
 ### Préstamo de libros
 
@@ -2130,7 +2331,11 @@ La Cúpula del libro solo deja consultar sus libros y en muy extraños casos int
 
 ##### Intercambio de libros
 
-El [bibliotecario de la Cúpula](#anchorcultistasuperior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios. El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Suleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
+El bibliotecario de la Cúpula (cultista superior) solo va a querer intercambiar sus tesoros de papel por otros libros de poder, es decir, grimorios.
+
+El bibliotecario y el schahriar que va a negociar por los libros tirarán Saber de Suleimán para hacer una idea del NP de los libros que van a participar en el intercambio y que no les pertenecen.
+
+\sp
 
 Las tiradas serán secretas y solo las sabrá cada parte de la negociación. Si acierta sabe el nivel del libro que tiene entre manos y si falla deberá tirar un dado igual al poder del libro hacia abajo (NP 9 será un d8 que puede explotar). Esa será el NP del libro para cada parte.
 
@@ -2140,11 +2345,15 @@ Ziba ya conoce como funciona la Cúpula del libro, así que les ha dejado dos gr
 
 ##### Robando libros
 
-La otra opción es robar el libro por la noche. La cúpula tiene una única puerta (Latrocinio -1) custodiada por [2 vigilantes](#anchorsoldado) y varias ventajas enrejadas (Consistencia 8). Hay un 50% de posibilidades que el bibliotecario esté dentro pasando la noche. Ni los guardas ni las rejas son un problema para un ladrón medio, pero la cúpula está en la zona muy transitada y hay mucho movimiento todo el día y toda la noche. En seguida se llenaría la zona de guardias de la ciudad.
+La otra opción es robar el libro por la noche. La cúpula tiene una única puerta (Latrocinio -1) custodiada por 2 vigilantes (soldado) y varias ventajas enrejadas (Consistencia 8). Hay un 50% de posibilidades que el bibliotecario esté dentro pasando la noche.
+
+Ni los guardas ni las rejas son un problema para un ladrón medio, pero la cúpula está en la zona muy transitada y hay mucho movimiento todo el día y toda la noche. En seguida se llenaría la zona de guardias de la ciudad.
 
 ##### Copiar el libro
 
-Otra opción más lenta es que alguno o todos los schahriars copien el libre o por lo menos hagan un resumen de los elementos importantes del libro. Esto exigirá una tirada de Idioma (todas aquellas personas que colaboren el mismo) y conseguir 3 éxitos contando los avances. Cada ronda de tiradas supone una semana. Además, deberán pagar como unos 500 dinares en materiales de escribano.
+Otra opción más lenta es que alguno o todos los schahriars copien el libre o por lo menos hagan un resumen de los elementos importantes del libro. 
+
+Esto exigirá una tirada de Idioma (todas aquellas personas que colaboren el mismo) y conseguir 3 éxitos contando los avances. Cada ronda de tiradas supone una semana. Además, deberán pagar como unos 500 dinares en materiales de escribano.
 
 ##### De la crianza de Rokhs
 
@@ -2152,7 +2361,13 @@ Otra opción más lenta es que alguno o todos los schahriars copien el libre o p
 **Idioma:** Árabe  
 **Condición:** Edición original
 
-Este pequeño manual describe las características generales de los Rokhs, explica de donde vienen y describe un método de crianza y adiestramiento. El libro expone que los Rokhs son animales que vienen de más allá de las estrellas donde sirven a divinidad todopoderosa llamada Azathoth. Su enemigo natural son unos seres también voladores conocidos como [sirvientes alados](anchorsirvientealado), que son lacayos de una divinidad enemiga de Azathoth llamada Nodens.
+Este pequeño manual describe las características generales de los Rokhs, explica de donde vienen y describe un método de crianza y adiestramiento.
+
+\sp
+
+El libro expone que los Rokhs son animales que vienen de más allá de las estrellas donde sirven a divinidad todopoderosa llamada Azathoth.
+
+Su enemigo natural son unos seres también voladores conocidos como sirvientes alados, que son lacayos de una divinidad enemiga de Azathoth llamada Nodens.
 
 > Esta parte es totalmente opcional y si no quieren tratar de conseguir el grimorio de cría de Rokhs puedes intercalar otras aventuras. En unos meses Ziba volverá a contactar con tus schahriars para continuar con la aventura.
 
@@ -2168,7 +2383,11 @@ Si tus schahriars empiezan a sospechar con la estatua, el rokh y ahora el cometa
 
 Mariam estará encantada de hacer los cálculos para Ziba y no hará preguntas. Si bien no tiene problemas para calcular el momento en que el cometa estará más cerca de la Tierra, no puede decir cuál sería el punto más cercano al cometa. Necesitará una serie de mediciones de diferentes puntos geográficos.
 
-Les dará una brújula de precisión y equipo de topografía y unas explicaciones precisas de lo que deben hacer. Deberán visitar 5 picos de todo Oriente Medio y Norte y tomar una serie de mediciones con el equipo topográfico (tirada de Ciencias para recopilar los datos y medio para hacerlo). Con esos datos podrán volver a Alepo y Mariam les dará el mejor lugar para acercarse al cometa.
+Les dará una brújula de precisión y equipo de topografía y unas explicaciones precisas de lo que deben hacer.
+
+\sp
+
+Deberán visitar 5 picos de todo Oriente Medio y Norte y tomar una serie de mediciones con el equipo topográfico (tirada de Ciencias para recopilar los datos y medio para hacerlo). Con esos datos podrán volver a Alepo y Mariam les dará el mejor lugar para acercarse al cometa.
 
 Estos son los puntos donde deben tomar mediciones:
 
@@ -2180,9 +2399,11 @@ Estos son los puntos donde deben tomar mediciones:
 
 Cada punto te puede dar para montar encuentros con diferentes seres, desde animales salvajes a gigantes solitarios que viven en cuevas. Puedes aprovecharlos para meter cuentos salvajes en esas ubicaciones o puedes cambiarlos por otros que te permitan meter tus propios relatos salvajes, como el Himalaya metiendo una trama de monjes budistas y yetis. Tampoco hay problemas en quitar y dejar 2 o 3 puntos.
 
+\sp
+
 La idea de esta parte de la aventura es permitir que sin perder la trama pueden moverse por el mapa e interactuar quizás con viejos enemigos, ver a sus familias, buscar pistas de un tesoro, etc.
 
-Estos viajes les deberían llevar muchísimo tiempo del que no disponen, así que si no tiene algún método mágico para viajar Ziba les dará 5.000 dinares por persona (1.000 por punto a medir) y les prestará (y lo reclamará cuando vuelvan) algún objeto mágico que facilite el viaje como la clásica alfombra volante o el tambor de piel de gallo.
+Estos viajes les deberían llevar muchísimo tiempo del que no disponen. Así que si no tiene algún método mágico para viajar Ziba les dará 5.000 dinares por persona (1.000 por punto a medir) y les prestará (y lo reclamará cuando vuelvan) algún objeto mágico que facilite el viaje. Por ejemplo, la clásica alfombra volante o el tambor de piel de gallo.
 
 > Si tus schahriars ya han jugado el relato salvaje "Buscando la inmortalidad", Mariam Al-Ijliya al-Asturlabi seguramente ya no estará en este mundo. Pueden buscar a la hija de su hermano, Scheherazade Al-Ijliya que siguió la tradición familiar de la astronomía y la creación de astrolabios. Pueden aprovechar a contarle lo que ha pasado con su querida tía e incluso entregarle los objetos personales que tengan de ella. La ficha de Scheherazade será la misma que la de su tía, sin las desventajas Anciana (mayor) y Anémica (menor).
 
@@ -2190,7 +2411,9 @@ Estos viajes les deberían llevar muchísimo tiempo del que no disponen, así qu
 
 **Comienzo:** Bagdad
 
-_Ziba ya tiene todo lo que necesita. Pero antes de ejecutar su plan final, debe solucionar unos cabos sueltos, tus schahriars. Así que piensa cortarles las gargantas mientras duermen, pero antes y por sus servicios les montará una fiesta que no olvidarán nunca._
+_Ziba ya tiene todo lo que necesita. Pero antes de ejecutar su plan final, debe solucionar unos cabos sueltos, tus schahriars._
+
+_Así que piensa cortarles las gargantas mientras duermen, pero antes y por sus servicios les montará una fiesta que no olvidarán nunca._
 
 Ziba ha alquilado uno de los espacios reservados de la taberna del judío Abraham y ha pagado para que haya comida, bebida, música y danzas al gusto de todos sus schahriars. Será un fiestón como no se recuerde en la taberna y bien entrada la noche, cuando estén borrachos les suministrará bang cretense en la comida y bebida.
 
@@ -2198,27 +2421,41 @@ Cuando caigan inconscientes, los sacará por la parte de atrás de la taberna, d
 
 El plan será perfectamente ejecutado por Ziba y su gente y si algo falla cuenta con sus fabulosos poderes mágicos para solucionar cualquier problema.
 
-Puede que alguno de tus schahriars sospeche de Ziba y su fiesta o solo sea un paranoico e intente hacer algo. Escapar es muy difícil, pero pueden tomar ciertas acciones que le den ventaja más tarde para escapar.
+\sp
+
+\sinc
 
 [![The King discovers the dead body of his son - Arthur Boyd Houghton](./images/no-mires.jpg)](https://de.wikipedia.org/wiki/Die_Geschichte_des_ersten_Bettelm%C3%B6nchs#/media/Datei:1001_Nacht_Seite_67-2.jpg "The King discovers the dead body of his son - Arthur Boyd Houghton")
 
-Traidores confabulando
+_Traidores confabulando_
+
+\conc
+
+\sp
+
+Puede que alguno de tus schahriars sospeche de Ziba y su fiesta o solo sea un paranoico e intente hacer algo. Escapar es muy difícil, pero pueden tomar ciertas acciones que le den ventaja más tarde para escapar.
 
 * Si alguien no bebe o come, hará sospechar a Ziba que no les quita ojo. Deberán pasar una tirada de Interpretar para fingir que beben y comen contra el Notar de Ziba. De esta manera podrá prepararse cuando les tiren al río o intentar desatarse mientras no le miran.
 * El dueño de la taberna les pedirá al entrar sus armas, con lo que estarán desarmados a no ser que quieran escamotear alguna. En principio el registro será solo visual, pidiendo armas grandes como alfanjes o cimitarras. Pueden meter pequeñas armas de corte sin problema, incluso escamotear algún cuchillo de la vajilla de la taberna.
 * Puede quizás intentar mandar un mensaje a algún aliado usando algún trabajador de la taberna.
 * Las personas con poderes mágicos de los que Ziba tenga conocimiento serán especialmente vigilados y se tomarán medidas extras para evitar que usen sus poderes. Si intentan lanzar hechizos durante la fiesta, Ziba estará preparada para contrarrestarlo de la manera que pueda o sepa. Pueden tratar de lanzar sus hechizos a escondidas, tirada de Sigilo contra el Notar de Ziba.
 
-Si bien es imposible escapar porque no les quitan ojos y las puertas están vigiladas, si puede conseguir alguna ventaja como hacerse los inconscientes e ir deshaciendo el nudo de sus manos mientras los transportarán al río. Todas estas acciones, además de ventajas obvias, deberían conseguirles deseos extras.
+Si bien es imposible escapar porque no les quitan ojos y las puertas están vigiladas, si puede conseguir alguna ventaja como hacerse los inconscientes e ir deshaciendo el nudo de sus manos mientras los transportarán al río.
 
-Sea narcotizados u obligados a la fuerza, tus schahriars acabarán en el fondo del río con unas piedras de granito de 30 kilos atadas a los pies. Tendrán que librarse primero de las ataduras de sus manos y luego de las piedras. Por último, deberán despistar a los cultistas que ha dejado Ziba vigilando en la barca desde la que han tirado a los schahriars. Opciones de escape:
+Todas estas acciones, además de ventajas obvias, deberían conseguirles deseos extras.
+
+Sea narcotizados u obligados a la fuerza, tus schahriars acabarán en el fondo del río con unas piedras de granito de 30 kilos atadas a los pies. Tendrán que librarse primero de las ataduras de sus manos y luego de las piedras.
+
+Por último, deberán despistar a los cultistas que ha dejado Ziba vigilando en la barca desde la que han tirado a los schahriars. Opciones de escape:
+
+\sp
 
 * Según los lancen, al agua se irán al fondo por el peso de las piedras y empezarán a ahogarse (sigue las reglas de ahogamiento del manual básico). Mientras están bajo el agua aguantando la respiración podrán hacer una acción de nada/andar por el fondo y otra acción.
 * Con una tirada buena de Latrocinio o Reparar podrán deshacer un nudo de las manos o de los pies, suyos o de un compañero. Si tiene las manos atadas tendrán un -2 a deshacer los nudos. Las cuerdas son muy fuertes (consistencia 9) para ser rotas a la fuerza, pero es posible.
 * Una vez que se libren de las piedras, deberán buscar la manera de que los vigías no les detecten. Es de noche, así que debería ser fácil despistarlos escondiéndose en los cañaverales de ambas orillas. Si no son detectados en unos 5 minutos los darán por muertos. Si alguno es detectado intentarán seguirlo y matarlo cuando llegue a la orilla. Así que mejor será que vaya a la orilla contraria nadando.
 * Pueden también intentar atacar la barca de los vigías por sorpresa y acabar con ellos. Pero entonces Ziba sabría que paso algo y ahora mismo es mejor que crean que tus schahriars están muertos.
 
-> Si la juerga se les va de las manos y crees que puede pegar, puede ser un buen momento para que tengan un encontronazo con el Califa de Bagdad y su séquito en una de sus escapadas secretas. Dale un vistazo al cuento salvaje [Los encuentros de Al-Raschid en el puente de Bagdad](#anchorencuenstroscalifa). Incluso podría ser interesante que el propio Califa salve de morir ahogados a sus nuevos compañeros y compañeras de borrachera.
+> Si la juerga se les va de las manos y crees que puede pegar, puede ser un buen momento para que tengan un encontronazo con el Califa de Bagdad y su séquito en una de sus escapadas secretas. Dale un vistazo al cuento salvaje «Los encuentros de Al-Raschid en el puente de Bagdad». Incluso podría ser interesante que el propio Califa salve de morir ahogados a sus nuevos compañeros y compañeras de borrachera.
 
 ### Buscando la verdad
 
@@ -2228,7 +2465,11 @@ _El intento de asesinato por parte de Ziba de tus schahriars les ha tenido que d
 
 Tus schahriars han conseguido escapar de un intento de asesinato. La que creían su aliada ha resultado ser su verdugo. En este momento tiene dos opciones, desaparecer o investigar que quería realmente Ziba con todos estos extraños objetos.
 
-Si deciden desaparecer, deberás reconducirlos porque si no hacen anda Suc’Naath volverá a la Tierra y sembrará el Caos. Quizás podrían hablar con el Giafar el visir si tienen contacto con él o buscar información en el pasillo prohibido de la Casa de la Sabiduría. Podrán o bien persuadir a Hunayn ibn Ishaq para que les deje entrar a fisgar en los libros o podrán forzar la cerradura y colarse dentro sin ser visto.
+Si deciden desaparecer, deberás reconducirlos porque si no hacen anda Suc’Naath volverá a la Tierra y sembrará el Caos.
+
+\sp
+
+Quizás podrían hablar con el Giafar el visir si tienen contacto con él o buscar información en el pasillo prohibido de la Casa de la Sabiduría. Podrán o bien persuadir a Hunayn ibn Ishaq para que les deje entrar a fisgar en los libros o podrán forzar la cerradura y colarse dentro sin ser visto.
 
 Sea como fuera, terminarán averiguando la relación entre Ziba, la estatua del remolino, el meteorito y como necesita al Rokh para juntar las 3 esencias. Por suerte, conocen donde se harán los preparativos para despertar de su pesadilla a Suc’Naath. Así que deberán preparar el viaje al monte Ararat para evitar que Ziba cumpla sus planes.
 
@@ -2247,12 +2488,15 @@ En la cima de la montaña han montado un campamento con unos 20 seguidores, vari
 Tus schahriars van a llegar unas dos horas antes del anochecer y ese será el tiempo que tendrán para preparar algo. Pueden hacer varias opciones para sabotear el vuelo. Unas tiradas de Notar les dirá que se enfrentarán a unas 20 personas armadas y hábiles en el combate.
 
 * Puede tratar de liberar y llevarse al rokh. Fueron sus entrenadores y tienen un vínculo con él. Quizás pueden llamarlo y que se libre de sus cadenas escape de la jaima.
+
+\sp
+
 * Pueden intentar destruir la estatua, pero está protegida por Ziba y ella por Alura. Lo mismo si quieren matar a Ziba.
 * Pueden deshacerse de algún secuaz usando Sigilo y ataques por sorpresa. No están muy organizados y 3 o 4 bajas no serán detectadas.
 
 #### A la carga
 
-Si deciden enfrentarse a ellos directamente tendrán que derrotar a [18 adeptos cultistas](#anchorcultista), [2 cultistas superiores](#anchorcultistasuperior) y a Alura, la maestra asesina. Ziba estará más preocupada de proteger al Rokh y la estatua. No intervendrá hasta que no sea obligatorio.
+Si deciden enfrentarse a ellos directamente tendrán que derrotar a 18 adeptos cultistas, 2 cultistas superiores y a Alura, la maestra asesina. Ziba estará más preocupada de proteger al Rokh y la estatua. No intervendrá hasta que no sea obligatorio.
 
 Según alguien dé la alarma, todos los cultistas irán a la jaima de Ziba y la protegerán. Alura saldrá y protegerá la entrada principal. Pueden intentar ir en Sigilo, pero llegar a la jaima principal sin ser visto es imposible.
 
@@ -2264,7 +2508,11 @@ Si fallan una tirada de Notar, estarán sorprendidos. Ziba, lanzará hechizos of
 
 Si no vuelan o no tienen armas a distancia solo podrán atacar ganando la iniciativa a Rokh, esperar y atacar cuando pase cerca. Recuerda que está anocheciendo y eso afecta a la visibilidad en el combate.
 
-Para evitar que Suc’Naath sea liberado, pueden acabar con Ziba, con el Rokh o con la estatua. La estatua es prácticamente indestructible y de hecho, si alguien apunta sobre ella se verá afectado por su maldición y verá la cara de un ser querido sufriendo. Lo mejor sería derrotar al rokh o a Ziba.
+Para evitar que Suc’Naath sea liberado, pueden acabar con Ziba, con el Rokh o con la estatua.
+
+\sp
+
+La estatua es prácticamente indestructible y de hecho, si alguien apunta sobre ella se verá afectado por su maldición y verá la cara de un ser querido sufriendo. Lo mejor sería derrotar al rokh o a Ziba.
 
 #### ¿Y ahora qué?
 
@@ -2280,11 +2528,12 @@ Si registran los objetos de Ziba y del resto de la secta tendrán un botín de 1
 
 > /s/ **Recompensa de cordura (+2):** Evitar que un culto de brujos, locos y asesinos traigan a nuestro mundo un dios extraterrestre con dudosas intenciones tiene su recompensa. Todos tus schahriars recuperan dos puntos de cordura.
 
-[![El joven rey de las Islas Negras por Maxfield Parrish](./images/trono.jpg)](https://en.wikipedia.org/wiki/Maxfield_Parrish "El joven rey de las Islas Negras por Maxfield Parrish") 
 
 \sp
 
 \sinc
+
+[![El joven rey de las Islas Negras por Maxfield Parrish](./images/trono.jpg)](https://en.wikipedia.org/wiki/Maxfield_Parrish "El joven rey de las Islas Negras por Maxfield Parrish") 
 
 ## La caída de Giafar
 
@@ -2292,25 +2541,41 @@ Si registran los objetos de Ziba y del resto de la secta tendrán un botín de 1
 
 _El terrible destino del visir Giafar se acerca. No quedan más de 15 días hasta que el visir sea ejecutado tal como descubrió durante su fantástica estancia extratemporal en Pnakotus y es por ello que tiene dejar cerrados todos sus asuntos. Giafar necesitará de tus schahriars para poder dejar todo como él desea antes de su terrible final._
 
-En esta aventura tus schahriars van a asistir al visir Giafar en sus últimos días, haciendo diferentes trabajando y acabando con el principal enemigo de Bagdad y su califa. El objetivo de esta aventura es que el visir pueda dejar este mundo tranquilo, sabiendo que su ciudad a la que tanto quiere está segura.
+En esta aventura tus schahriars van a asistir al visir Giafar en sus últimos días, haciendo diferentes trabajando y acabando con el principal enemigo de Bagdad y su califa.
+
+\sp
+
+El objetivo de esta aventura es que el visir pueda dejar este mundo tranquilo, sabiendo que su ciudad a la que tanto quiere está segura.
 
 ### La cuenta atrás
 
-El tiempo es muy importante en esta aventura, con lo que es importante llevar un reloj/marcador que haga pasar el tiempo. Cada día cada schahriar tendrá 4 contadores (madrugada, mañana, tarde y noche) y cada acción de carácter general que tomen consumirá un contador. Ir a la casa de la sabiduría a buscar un libro consume un contador y tendrá que ser lógicamente de mañana o tarde. Vigilar la guarida del malo durante un día gasta las 4.
+El tiempo es muy importante en esta aventura, con lo que es importante llevar un reloj/marcador que haga pasar el tiempo. Cada día cada schahriar tendrá 4 contadores (madrugada, mañana, tarde y noche) y cada acción de carácter general que tomen consumirá un contador.
+
+Ir a la Casa de la Sabiduría a buscar un libro consume un contador y tendrá que ser lógicamente de mañana o tarde. Vigilar la guarida del malo durante un día gasta las 4.
 
 Tus schahriars podrán ir juntos o por separado a realizar diferentes acciones, con lo que deberán gastar el mismo marcador, pero deberán guardar un contador al día para descansar. Pueden usar cualquiera de los marcadores, da igual descansar de día o de noche.
 
 Si no descansan adecuadamente, tendrán que aplicarse las reglas de privación de sueño.
 
+\sc
+
 ### Cómo empezar
 
-Esta aventura puede empezarse con schahriars adultos que hayan jugado "La llegada del cometa", "Más allá de la Ciudad de Bronce" o ambas. También puedes continuar con los schahriars niños de "El Pequeño Consejo" tanto en versión joven como adulta. Con personajes niños y niñas tienes la aventura introductoria "Fátimah se retira", mientras que para gente adulta tienes la aventura "Escogidos para la gloria".
+Esta aventura puede empezarse con schahriars adultos que hayan jugado «La llegada del cometa», «Más allá de la Ciudad de Bronce» o ambas.
+
+También puedes continuar con los schahriars niños de «El Pequeño Consejo» tanto en versión joven como adulta. Con personajes niños y niñas tienes la aventura introductoria «Fátimah se retira», mientras que para gente adulta tienes la aventura «Escogidos para la gloria».
 
 #### Fátimah se retira
 
 _Fátimah se va a retirar como jefa del Pequeño Consejo y quiere elegir a alguien que le sustituya, la prueba final será ayudar al visir Giafar con un problema bastante grande que tiene._
 
-El visir tiene 15 días para acabar con la última amenaza a la que se enfrenta Bagdad y muy a su pesar tendrá que contar con uno de sus aliados más útil, el Pequeño Consejo. Pero no va a permitir que infantes le ayuden, solo quiere jóvenes. Es por ello que todos los schahriars con la desventaja Joven (mayor) pasan a ser menor. Si lo deseas, al resto puedes quitarle la desventaja Joven (menor) pero entonces al terminar la aventura deberán abandonar el Pequeño Consejo.
+El visir tiene 15 días para acabar con la última amenaza a la que se enfrenta Bagdad y muy a su pesar tendrá que contar con uno de sus aliados más útil, el Pequeño Consejo. Pero no va a permitir que infantes le ayuden, solo quiere jóvenes.
+
+Es por ello que todos los schahriars con la desventaja Joven (mayor) pasan a ser menor. 
+
+\sp
+
+Si lo deseas, al resto puedes quitarle la desventaja Joven (menor) pero entonces al terminar la aventura deberán abandonar el Pequeño Consejo.
 
 #### Escogidos por el destino
 
@@ -2327,6 +2592,8 @@ _Giafar ha sido de advertido de que en 15 días una gran alineación de planetas
 Sea como sea que entren en la aventura Giafar, les presentará una nota manuscrita. Se la entrego un joven llamado Bassir en nombre de Mariam Al-Ijliya al-Asturlabi. Si han jugado el relato "Buscando la inmortalidad" o "Consultando las estrellas" puede que la hayan conocido y sepan qué ha pasado con ella. Si no lo han jugado simplemente será una famosísima astrónoma.
 
 Si Mariam desde el otro lado del universo ha mandado a un agente humano de la Progenie de la Luna Creciente, es algo que ha tener se muy en cuenta. Así pues Giafar necesita que vigilen la ciudad en busca de cultos que quieran aprovechar la alineación para alguno de sus malvados planes.
+
+\sp
 
 > Saludos mi muy querido amigo Giafar,  
 >   
@@ -2350,6 +2617,9 @@ Giafar necesita tener controlada la actividad de sectas, cultos y otras organiza
 
 * Si tienen contacto con Dana la ghūl pueden consultarle (1 marcador y tiene que ser por la noche/madrugada). No sabe nada, pero puede dar pistas: los cultistas suelen tener muchas quemaduras, los Seguidores siempre andan con material inflamable, donde andan la secta siempre hay incendios, su líder principal es Bahram el guaro, … si vuelven con pistas ella podrá confirmarlas.
 * Pueden vigilar (Notar -2, 4 marcadores por cada tirada) los accesos a la ciudad, el Puente de Bagdad y los babs. Si conocen a Bahram quizás lo vean moviéndose por la ciudad. El resto de cultistas del Fuego y de la Luz suelen ser fácilmente reconocibles por sus quemaduras y escarificaciones. Aun así, Bagdad es una metrópolis y es buscar una aguja en un pajar.
+
+\sp
+
 * Si consultan a la guardia de la ciudad (Persuadir -2, 2 marcadores) les dirán que en la ciudad han aumentado los incendios y seguramente que los pirómanos del culto andan detrás.
 * Consultando en los bazares (Persuadir -2 o 0 si gastan 100 dinares, 2 marcadores por cada tirada) podrán averiguar que hay escasez de petróleo, todas las existencias han sido compradas y hay un par de casos de robos. Siempre que hay cosas inflamables, los Seguidores están cerca.
 * Si usan adivinación (1 marcador), cosa que ya ha intentado Giafar con Geomancia, solo debería funcionarles "Habla de los animales y canto de los pájaros" y solo si preguntan a animales adecuados como gatos que se metan en todas partes o perros que hayan detectado con su olfato la gran concentración de petróleo de la secta.
@@ -2363,15 +2633,31 @@ Los seguidores han conseguido parte de la esencia de Suc’Naath. Puede ser la e
 
 Con la esencia y aprovechando el alineamiento estelar que se producirá en poco días, Bahram y sus cultistas traerán a Nardún a la tierra, más concretamente a Bagdad, que es a donde apunta el alineamiento.
 
-La secta ha descubierto un líquido negro (petróleo) que a veces se encuentra en el desierto que es altamente inflamable y destilándolo consiguen un líquido transparente terriblemente inflamable (queroseno que no será descubierto hasta el siglo X). Lo que quieren es verter grandes cantidades sobre el Tigris desde el Puente de Bagdad y, como no se mezcla con el agua, prenderle fuego y crear una gigantesca llama sobre el agua.
+La secta ha descubierto un líquido negro (petróleo) que a veces se encuentra en el desierto que es altamente inflamable y destilándolo consiguen un líquido transparente terriblemente inflamable (queroseno que no será descubierto hasta el siglo X).
+
+Lo que quieren es verter grandes cantidades sobre el Tigris desde el Puente de Bagdad y, como no se mezcla con el agua, prenderle fuego y crear una gigantesca llama sobre el agua.
+
+\sp
+
+\sinc
 
 [![The summoning by Sanskarans](./images/invocacion-nardun.jpg)](https://www.deviantart.com/sanskarans/art/The-summoning-636697081 "The summoning by Sanskarans") 
 
-Seguidores del Fuego y de la Luz invocando a Nardún
+_Seguidores del Fuego y de la Luz invocando a Nardún_
 
-Está mágica llama les permitirá iniciar el ritual que abrirá los cielos y permitirá que Nardún entre en nuestro mundo. Consumirá con su fuego todo lo que encuentre y cuando esté saciado volverá a su realidad. La secta espera ofrecerse como sacrificio a Nardún y ser consumido por su fuego de forma que formen parte de él para toda la eternidad. También especulan que los convertirá en fuegos de la Yahannam que servirán a su señor hasta que su llama se apague.
+\conc
 
-Los Seguidores tienen una baza muy importante a su favor, han captado finalmente a Ishak Al-Dadim, el intérprete preferido del califa. Ishak puede manipular al califa y envenenar sus oídos contra quien la secta desee. Su idea es evitar que el califa y su guardia actúen contra la secta y sus planes apocalípticos, teniendo controlado al califa.
+\sp
+
+Está mágica llama les permitirá iniciar el ritual que abrirá los cielos y permitirá que Nardún entre en nuestro mundo.
+
+Consumirá con su fuego todo lo que encuentre y cuando esté saciado volverá a su realidad. La secta espera ofrecerse como sacrificio a Nardún y ser consumido por su fuego de forma que formen parte de él para toda la eternidad.
+
+También especulan que los convertirá en fuegos de la Yahannam que servirán a su señor hasta que su llama se apague.
+
+Los Seguidores tienen una baza muy importante a su favor, han captado finalmente a Ishak Al-Dadim, el intérprete preferido del califa. Ishak puede manipular al califa y envenenar sus oídos contra quien la secta desee. 
+
+Su idea es evitar que el califa y su guardia actúen contra la secta y sus planes apocalípticos, teniendo controlado al califa.
 
 ### Infiltración
 
@@ -2384,6 +2670,8 @@ Ahora que ya saben quién y cuándo deben saber qué van a hacer. Eso exigirá e
 Si saben lo de la compra de petróleo, pueden esperar a que llegue alguna caravana con petróleo y seguir los barriles. Deberán vigilar las 3 zonas principales de entrada de mercancías, Bab ash-Sharqi (el bab porque pasa todo el comercio fluvial), Bab Al-Talsim (que es la puerta principal de entrada de caravanas) y el bazar de la ciudad circular donde se hacen los grandes negocios.
 
 En dos días (8 marcadores) no entrará más petróleo, pero deberán vigilar las 24 horas. Si bien por la noche no hay comercio, puede que haya robos del petróleo que no han detectado.
+
+\sp
 
 Sea como sea, tras dos días aparecerá un cargamento de petróleo. En unas horas (1 marcador) un grupo de 5 personas lo comprará (robará si es noche) y se lo llevará. Deberán seguirlos en Sigilo hasta Al-Rusafa donde tendrán un almacén con las puertas atrancadas y las ventanas cegadas.
 
@@ -2403,7 +2691,9 @@ Una buena idea sería crear un gran fuego con alguna excusa y estudiar a los que
 
 El almacén es un habitáculo de 10x10 casillas con una sola entrada y con las ventanas apuntaladas. Está lleno de alambiques y barriles. Los vapores pueden hacer que la mínima chispa lo haga estallar.
 
-Dentro hay 5 agentes ([1 jefe](#anchorcultistasuperior) más [4 secuaces](#anchorcultista)). Realmente no son rivales muy duros, pero si se ven sobrepasados pueden hacer explotar el almacén con una simple llama en las reservas de petróleo. La explosión será de 4d6 de daño de fuego.
+Dentro hay 5 agentes, 1 jefe (cultista superior) más 4 secuaces (cultista). Realmente no son rivales muy duros, pero si se ven sobrepasados pueden hacer explotar el almacén con una simple llama en las reservas de petróleo. La explosión será de 4d6 de daño de fuego.
+
+\sp
 
 Si interrogan a algún prisionero (2 marcadores) y lo quiebran, no contará mucho. Solo tienen órdenes de su líder de fabricar agua de Nardún (queroseno) a partir de petróleo y deben hacer todo lo que puedan para el día del alineamiento. Debe haber un montón de grupos como este por toda la ciudad haciendo lo mismo.
 
@@ -2415,25 +2705,40 @@ _Giafar tiene un plan B en caso de que no pueden detener a los seguidores de la 
 
 Con toda la información recabada deberían reunirse con Giafar (1 marcador) que los invitará a su guarida secreta. No tienen mucha información y no pueden parar lo que sea que quiera que vaya a hacer los Seguidores, así que Giafar propone montar un contraataque.
 
-Desde hace años lleva asfaltando la ciudad, pero ha asfaltado ciertas calles con asfalto especial (con polvo de plata) de forma que las ciertas calles asfaltadas formar ahora un sello de Suleimán gigante y muy poderoso. Su idea es esperar al alineamiento y usar el símbolo de protección contra aquello que vayan a traer el Fuego y la Luz. Lo que no sea destruido será repelido y enviado a donde sea que salió.
+Desde hace años lleva asfaltando la ciudad, pero ha asfaltado ciertas calles con asfalto especial (con polvo de plata) de forma que las ciertas calles asfaltadas formar ahora un sello de Suleimán gigante y muy poderoso.
+
+Su idea es esperar al alineamiento y usar el símbolo de protección contra aquello que vayan a traer el Fuego y la Luz. Lo que no sea destruido será repelido y enviado a donde sea que salió.
 
 #### Clases de magia
 
+Giafar necesita tener un ayudante que aprenda el hechizo de activación del símbolo y escogerá alguien con capacidades mágicas y de no haber ninguno, aquel con más Espíritu.
+
+Esta parte es innegociable para Giafar porque sabe lo que va a pasar y necesita preparar a su sustituto. Si desean aprenderlo más schahriars no hay problema, cuantos más mejor.
+
+Necesitará unos 4 días (9 marcadores) de aprendizaje y prácticas teniendo en cuenta que hay que dormir y Giafar tiene responsabilidades en palacio. Puedes hacerles algunas pruebas si ves que se aburren. 
+
+\sp
+
+\sinc
+
 [![Die Flamme - Wilhelm Bernatzik](./images/akelarre.jpg)](https://artvee.com/dl/die-flamme/ "Die Flamme - Wilhelm Bernatzik") 
 
-Giafar necesita tener un ayudante que aprenda el hechizo de activación del símbolo y escogerá alguien con capacidades mágicas y de no haber ninguno, aquel con más Espíritu. Esta parte es innegociable para Giafar porque sabe lo que va a pasar y necesita preparar a su sustituto. Si desean aprenderlo más schahriars no hay problema, cuantos más mejor.
+\conc
 
-Necesitará unos 4 días (9 marcadores) de aprendizaje y prácticas teniendo en cuenta que hay que dormir y Giafar tiene responsabilidades en palacio. Puedes hacerles algunas pruebas si ves que se aburren. Giafar ha montado una versión reducida de su símbolo en el jardín de su palacio y lo usa para practicar con sus nuevos pupilos.
+Giafar ha montado una versión reducida de su símbolo en el jardín de su palacio y lo usa para practicar con sus nuevos pupilos.
 
 #### Pateando las calles
 
 El resto de tus schahriars pueden hacer otras cosas mientras los otros aprenden el hechizo.
 
 * Parece ser que Bahram el guaro es el líder del culto. Quizás se lo hayan encontrado antes y sepan como es. Podrían patearse la ciudad buscándolo. Quizás alguno de tus schahriars tenga un vínculo con Bahram, déjales que traten de explorar esa vía para cazarlo.
+
+\sp
+
 * Pueden intentar seguir el petróleo o los cultistas como en capítulos anteriores. Pero, como mucho, acabarán con algún almacén de agua de Nardún.
 * Si conocen su guarida pueden visitarla y unas tiradas de investigar dejarán claro que lleva meses sin visitarla.
 * El fuego es parte de los rituales de la secta. Pueden tratar de buscar volando hogueras grandes por la noche (2 marcadores) y quizás detecten alguna reunión.
-* Buscar en la biblioteca de Giafar o en el pasillo prohibido pistas sobre el plan de Bahram es buena idea. Cada tirada de Investigar cuesta 1 marcador, pero necesitarán mínimo dos avances, si no solo sacarán datos que ya saben o deberían saber como que adoran al dios ígneo Nardún o que todos sus rituales están relacionados con el fuego. Si sacan los dos avances encontrarán un pasaje que dice aquel que consiga hacer arder el agua durante un gran evento cósmico, pueden sacar a Nardún de su prisión en la prisión de Fomalhaut. Esto les dará una pista de cuál es el plan, lanzar queroseno al río y hacerlo arder para traer a Nardún. Aun asi no saben donde ni como y el Tigris recorre varios kilómetros por la ciudad.
+* Buscar en la biblioteca de Giafar o en el pasillo prohibido pistas sobre el plan de Bahram es buena idea. Cada tirada de Investigar cuesta 1 marcador, pero necesitarán mínimo dos avances, si no solo sacarán datos que ya saben o deberían saber como que adoran al dios ígneo Nardún o que todos sus rituales están relacionados con el fuego. Si sacan los dos avances encontrarán un pasaje que dice aquel que consiga hacer arder el agua durante un gran evento cósmico, pueden sacar a Nardún de su prisión en la prisión de Fomalhaut. Esto les dará una pista de cuál es el plan, lanzar queroseno al río y hacerlo arder para traer a Nardún. Aun así no saben donde ni como y el Tigris recorre varios kilómetros por la ciudad.
 
 Si esta parte se vuelve aburrida, puedes montar algún encuentro con fuegos de la Yahannam o les prepare un almacén trampa que salte por los aires cuando entren. Piensa que Bahram también puede estar investigando quién está destruyendo sus almacenes y quiera deshacerse de los intrusos.
 
@@ -2441,21 +2746,31 @@ Recuerda que por muy bien que lo hagan solo deberían acabar con algún que otro
 
 ### La caída de Giafar
 
-[![Decapitation - Wallach Division Picture Collection](./images/decapitacion.jpg)](https://digitalcollections.nypl.org/items/510d47e1-1d00-a3d9-e040-e00a18064a99 "Decapitation - Wallach Division Picture Collection") 
-
 _Giafar sabe que cuando, donde y como va a morir y será en 3 días. Su misión no es evitarlo, es proteger a Bagdad del desastre primigenio que le viene en 7 días. Su fe le da fuerza y sabe que en la próxima vida será recompensado en la rueda del karma._
 
 Cuando hayan terminado de aprender el hechizo de protección, Giafar desaparecerá. Será imposible encontrarle, pero tampoco no es algo raro. Si no lo buscan ni lo menciones.
 
+\sp
+
+[![Decapitation - Wallach Division Picture Collection](./images/decapitacion.jpg)](https://digitalcollections.nypl.org/items/510d47e1-1d00-a3d9-e040-e00a18064a99 "Decapitation - Wallach Division Picture Collection") 
+
 En realidad, el califa ha mandado detener a Giafar por traición y este, pese a saberlo de antemano, ni se ha preparado ni ha tratado de escapar a su destino. Le han encerrado en las mazmorras de la casa de la guardia y allí ha permanecido.
 
-De repente las calles de Bagdad se llenarán de actividad, las gentes de la ciudad dejan sus quehaceres para ir a la Ciudad Circular, hablan y cuchichean entre ellos. Una tirada de Notar y se enterarán. Están preparando un cadalso enfrente del Palacio de las Maravillas. Va a haber una decapitación y debe ser de alguien importante.
+De repente las calles de Bagdad se llenarán de actividad, las gentes de la ciudad dejan sus quehaceres para ir a la Ciudad Circular, hablan y cuchichean entre ellos. Una tirada de Notar y se enterarán.
 
-Cuando lleguen al palacio, la plaza hervirá de gente, pero ninguno sabe quién es el sentenciado a muerte. De repente saldrá Massrur, el portaalfanje y verdugo del califa, y detrás encadenado un hombre mayor, desnudo y completamente rapado. Tiene golpes y señales de latigazos. El califa y la califesa (con cara de consternación) ven todo desde un balcón del palacio con Ishak Al-Dadim junto a ellos.
+Están preparando un cadalso enfrente del Palacio de las Maravillas. Va a haber una decapitación y debe ser de alguien importante.
 
-Tirada de Notar para descubrir que es Giafar, están lejos y si pelo y sin ropa es muy extraño. Le obligarán a poner la cabeza sobre un tocho de madera y Yacub Abu-Yussef, kadí supremo de Bagdad, leerá los cargos de traición al califa y de apoyar a sus enemigos acompañado de abucheos del público a Giafar. Acto seguido Massrur cortará el cuello del visir y su cabeza rodará por el cadalso hasta el suelo de la plaza.
+Cuando lleguen al palacio, la plaza hervirá de gente, pero ninguno sabe quién es el sentenciado a muerte. De repente saldrá Massrur, el portaalfanje y verdugo del califa, y detrás encadenado un hombre mayor, desnudo y completamente rapado. Tiene golpes y señales de latigazos.
+
+El califa y la califesa (con cara de consternación) ven todo desde un balcón del palacio con Ishak Al-Dadim junto a ellos.
+
+Tirada de Notar para descubrir que es Giafar, están lejos y si pelo y sin ropa es muy extraño. Le obligarán a poner la cabeza sobre un tocho de madera y Yacub Abu-Yussef, kadí supremo de Bagdad, leerá los cargos de traición al califa y de apoyar a sus enemigos acompañado de abucheos del público a Giafar. 
+
+Acto seguido Massrur cortará el cuello del visir y su cabeza rodará por el cadalso hasta el suelo de la plaza.
 
 Déjales hacer lo que quieran para salvarlo, unos 5 turnos mientras leer las acusaciones, pero sea lo que sea que intenten no deberían lograr algo. Si se acercan mucho, Massrur dejará cae su gigantesco alfanje y cercenará su vida.
+
+\sp
 
 Moverse entre la gente se considera terrero difícil y estarán como unas 15 casillas. La guardia (unos 15 hombres) protegen el cadalso y recuerda que Giafar no hará nada por salvarse.
 
@@ -2483,7 +2798,9 @@ A la noche, después de la ejecución pública de Giafar y el destierro de toda 
 >   
 > **Firmado: Giafar al-Barmak**
 
-Una tirada de Humanidades dejará claro hay varias referencias al budismo en la carta que confirmarán. Desde las frases en sánscrito como "Bhadraṃ te" que significa "Qué seáis felices" a referencias al karma. Si no se dan cuenta tus schahriars déjales caer que sabía que le iba a pasar y no trato de evitarlo.
+Una tirada de Humanidades dejará claro hay varias referencias al budismo en la carta que confirmarán. Desde las frases en sánscrito como «Bhadraṃ te» que significa «Qué seáis felices» a referencias al karma. Si no se dan cuenta tus schahriars déjales caer que sabía que le iba a pasar y no trato de evitarlo.
+
+\sp
 
 Cuando terminen de leer la figura encapuchada se descubrirá, es la califesa Sett Zobeida en persona cumpliendo las últimas voluntades de su compañero de fatigas. Estaba totalmente informada de las actividades de Giafar y de hecho le ayudaba, como siempre, con el califa.
 
@@ -2499,7 +2816,13 @@ La reunión con la califesa les costará un marcador y el secuestro e interrogat
 
 _El día de alineamiento se acerca y la califesa Zobeida vaa seguir el plan de Giafar y su hechizo de protección. Tal vez a tus schahriars se les ocurra algo._
 
-La califesa ante la falta de recursos y la imposibilidad de dar con Bahram el guaro quiere ceñirse al plan de Giafar de lanzar el hechizo de protección cuando el gran Nardún entre en nuestro mundo. Pero está abierta a aceptar otras ideas ahora que ya tiene claro cuál es la estrategia de los Seguidores del Fuego y de la Luz. Algunas opciones que se les puede ocurrir:
+La califesa ante la falta de recursos y la imposibilidad de dar con Bahram el guaro quiere ceñirse al plan de Giafar de lanzar el hechizo de protección cuando el gran Nardún entre en nuestro mundo.
+
+Pero está abierta a aceptar otras ideas ahora que ya tiene claro cuál es la estrategia de los Seguidores del Fuego y de la Luz.
+
+\sp
+
+Algunas opciones que se les puede ocurrir:
 
 * Alguien con conocimientos científicos podría tratar de crear algún tipo de reactivo que vertiéndolo al agua del Tigris neutralice el queroseno.
 * Pueden montar un sistema de vigilancia con algún tipo de sistema de vigilancia por todo el río, por ejemplo usando a los pillastres del Pequeño Consejo. De esta forma podrán ver si el día del alineamiento ven algo sospechoso. Si consiguen actuar antes de que se vierta el agua de Nardún al río, la invocación no será posible.
@@ -2514,6 +2837,8 @@ Sett Zobeida no puede hacer mucho para ayudar a los schahriars en la situación 
 ### Salvando a los amigos y engañando a los enemigos
 
 _Si el símbolo arcano puede destruir a una deidad primigenia que no haría seres menos poderosos. Quizás tus schahriars deban avisar a sus aliados no humanos de que salgan de la ciudad._
+
+\sp
 
 Déjales caer, si no se han dado ellos ya cuenta, que si van a lanzar un giga-hechizo sobre la ciudad de Bagdad capaz de repeler a una divinidad ancestral, quizás pueda acabar con las vidas de sus aliados de naturaleza sobrenatural. Deberán mirar sus amigos y aliados especiales y ver si el mega-conjuro pudiera afectarles.
 
@@ -2531,15 +2856,16 @@ _El gran Nardún va a ser invocado al anochecer y nadie puede evitarlo, pero si 
 
 El día del alineamiento, los cultistas de Bahram lanzarán desde varios sitios por encima del puente de Bagdad varias toneladas de queroseno. Bahram en el momento adecuado usará la esencia desde el puente para prender el agua de Nardún y el río arderá como si fuera el Yahannam.
 
+\sp
+
 En ese momento recitará las fórmulas mágicas y los cielos sobre la ciudad se abrirán en un punto en el otro lado de la galaxia, cerca de Fomalhaut. Una gran bola de ardiente debería empezar a cruzar la grieta en el cielo para entrar en nuestro mundo y consumirlo con su fuego.
 
 Ver a Nardún más conocido como Cthugha entrar en nuestra realidad desde una gigantesca grieta dimensional en el cielo supone un TPC d12.
 
-El plan de Giafar era desde el Palacio de la Eternidad, que está cerca del río y en el centro del círculo, activar el hechizo de protección cuando vieran aparecer a Nardún. La califesa se encargaría de mantener el palacio vacío y de permitirles la entrada. El círculo debería ser lo suficientemente grande para rodear a Nardún y destruirlo (temporalmente).
+El plan de Giafar era desde el Palacio de la Eternidad, que está cerca del río y en el centro del círculo, activar el hechizo de protección cuando vieran aparecer a Nardún.
 
-[![Bridge Night por AngelaMaps](./images/puente-bagdad-fuego.jpg)](https://angelamaps.com/2021/04/14/ten-bridges/ "Bridge Night por AngelaMaps") 
+La califesa se encargaría de mantener el palacio vacío y de permitirles la entrada. El círculo debería ser lo suficientemente grande para rodear a Nardún y destruirlo (temporalmente).
 
-Puente de Bagdad en llamas
 
 Activar el círculo de protección supone gastar 15 PP y hacer una tirada de Saber de Suleimán. Si se consigue ciertas calles asfaltadas (con mezcla de polvo de plata) empezarán a billar formando el dibujo desde el aire de un gigantesco pentáculo. Todo yinn o ser de los Mitos dentro del círculo será volatilizado. Los grandes poderes como Nardún no será destruido, pero será devuelvo a su dimensión con graves daños.
 
@@ -2551,7 +2877,21 @@ En caso de que se queden todos en el palacio, podrán lanzar el hechizo y ver el
 
 #### Si se dividen
 
-Una parte debería quedarse en el palacio y la otra ir al puente de Bagdad. Allí, cuando Nardún sea destruido, deberán enfrentarse con 1 [adepto cultista](#anchorcultista) y un [cultista superior](#anchorcultistasuperior) por cada schahriar. El puente está rodeado de fuegos y el calor es insoportable. Cada 5 turnos de combate tendrán que tirar Vigor o recibirán un nivel de fatiga.
+Una parte debería quedarse en el palacio y la otra ir al puente de Bagdad. Allí, cuando Nardún sea destruido, deberán enfrentarse con un adepto cultista (Cultista) y un cultista superior por cada schahriar.
+
+\sp
+
+\sinc
+
+[![Bridge Night por AngelaMaps](./images/puente-bagdad-fuego.jpg)](https://angelamaps.com/2021/04/14/ten-bridges/ "Bridge Night por AngelaMaps") 
+
+_Puente de Bagdad en llamas_
+
+\conc
+
+\sp
+
+El puente está rodeado de fuegos y el calor es insoportable. Cada 5 turnos de combate tendrán que tirar Vigor o recibirán un nivel de fatiga.
 
 Mientras combaten, podrán ver a Bahram entre las llamas (pero sin quemarse) en una especie de éxtasis. Si intentan atacarlo estará muy lejos y el fuego parece que le protege de cualquier ataque.
 
@@ -2573,6 +2913,8 @@ Si están el palacio, este empezará a arder en minutos y seguramente quedará d
 
 Si están en el puente el calor seguirá siendo insoportable y habrá que seguir tirando Vigor. En ambos casos, y aunque el agua del Tigris esté ardiendo, si el Bahram acaba en el agua será destruido.
 
+\sp
+
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d10, Fuerza d12+2, Vigor d12
 * **Habilidades:** Pelear d10, Notar d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 15
@@ -2588,19 +2930,27 @@ Si están en el puente el calor seguirá siendo insoportable y habrá que seguir
 
 ### La noche del efrit
 
-Si devuelven a su mundo a Nardún y paran a Bahram, serán reconocidos como héroes protectores del califato por el califa y especialmente la califesa. Los nombrarán algún tipo de cargo público muy bien remunerado y de poco trabajo. Habrá recepciones, paseos triunfales por las calles de Bagdad y comida, bebida, música y bailes durante días.
+Si devuelven a su mundo a Nardún y paran a Bahram, serán reconocidos como héroes protectores del califato por el califa y especialmente la califesa.
 
-Todo este suceso será conocido como la noche del Efrit, ya que es lo que la gente creyó que era cuando Nardún apareció sobre Bagdad. Habrá canciones sobre estos hechos y obras de títeres. De hecho, Hachem ben Suleimán hará una de sus mejores obras contando toda esta historia.
+Los nombrarán algún tipo de cargo público muy bien remunerado y de poco trabajo. Habrá recepciones, paseos triunfales por las calles de Bagdad y comida, bebida, música y bailes durante días.
+
+Todo este suceso será conocido como la noche del Efrit, ya que es lo que la gente creyó que era cuando Nardún apareció sobre Bagdad. Habrá canciones sobre estos hechos y obras de títeres.
+
+\sp
+
+De hecho, Hachem ben Suleimán hará una de sus mejores obras contando toda esta historia.
 
 Solo Zobeida sabe toda la verdad de esta historia y jamás la revelará, para el resto del mundo un Efrit malvado y su siervo aparecieron en el cielo y fueron destruidos por la magia y fe de unos poderosos héroes.
 
-Si la aventura empezó con que Fátimah se iba a retirar de su puesto en el Pequeño Consejo y buscaba a un o una sustituta, ha estado recibiendo informes de sus actos y cuando vea al enorme efrit en el cielo que desaparece tras un aura de luz plateada sabrá que sus agentes han hecho un buen trabajo. Propondrá a uno de los schahriars con la ventaja Joven que más acciones heroicas haya hecho o que más haya aportado con buenas ideas y buenos planes.
+Si la aventura empezó con que Fátimah se iba a retirar de su puesto en el Pequeño Consejo y buscaba a un o una sustituta, ha estado recibiendo informes de sus actos. 
 
-[![Shangri-La 4 Water Pass by ArtDoge](./images/otros-cuentos.jpg)](https://www.deviantart.com/artdoge/art/Shangri-La-4-Water-Pass-192464787 "Shangri-La 4 Water Pass by ArtDoge") 
+Cuando vea al enorme efrit en el cielo que desaparece tras un aura de luz plateada sabrá que sus agentes han hecho un buen trabajo. Propondrá a uno de los schahriars con la ventaja Joven que más acciones heroicas haya hecho o que más haya aportado con buenas ideas y buenos planes.
 
 \sp
 
 \sinc
+
+[![Shangri-La 4 Water Pass by ArtDoge](./images/otros-cuentos.jpg)](https://www.deviantart.com/artdoge/art/Shangri-La-4-Water-Pass-192464787 "Shangri-La 4 Water Pass by ArtDoge") 
 
 ## Otros cuentos salvajes
 
@@ -2618,6 +2968,8 @@ El vigía del barco avista un islote con bastante vegetación y árboles no lejo
 
 El barco se acercará cerca de la isla y podrán desembarcar en un bote. Pueden conseguir 1d10 x 10 dinares de oro en frutas y materiales si se dedican a recolectar mínimo una hora.
 
+\sp
+
 Cosas raras que suceden en el islote:
 
 * No hay vida animal en el islote. Es muy raro que no haya ningún tipo de ave ni alimañas. Si intentan pescar, verán que los peces tampoco se acercan al lugar.
@@ -2625,8 +2977,6 @@ Cosas raras que suceden en el islote:
 * Si alguien se queda en el barco podrá notar pequeñas sacudidas en la isla. Parece como si flotara y se moviera con el oleaje.
 * Si se paran a escuchar podrán (un avance en Notar) escuchar un susurro que dice Tekeli-li, algún tipo de amenaza o aviso en el idioma de los janns, los creadores de los qatrams.
 * Si bucean, verán que la isla no emerge del fondo, sino que flota sobre el agua. Se podría bucear al otro lado de la isla por debajo de ella.
-
-\sp
 
 Cuando tengan suficientes sospechas, permíteles hacer una tirada de Mitos para saber que están sobre un qatram de dimensiones gigantescas.
 
@@ -2637,6 +2987,8 @@ Cuando descubran la realidad, el qatram empezará a moverse y del suelo saldrán
 La tirada TPC deberán hacerla cuando se den cuenta del poder y potencial destructivo del qatram. Por ejemplo, tras la primera ronda de combate o si se sacude o tiembla toda la isla.
 
 Recuerda que solo le afecta el fuego y la electricidad, los ataques físicos normales como armas de filo o arcos y flechas no le hacen anda. Si van a combatirlo, las mejores opciones son fuego (pudiendo derramar líquido inflamable sobre él o usando magia). Cada tentáculo aguanta una herida, pudiendo gastar deseos para absorberlas. Al recibir una segunda herida, el apéndice es cortado.
+
+\sp
 
 Si consiguen soltar su barco del qatram, este no les perseguirá ni nada por el estilo.
 
@@ -2649,8 +3001,6 @@ _El califa de Bagdad tiene la costumbre de pasear disfrazado de mercader junto a
 > He llegado a saber ¡oh rey del tiempo! ¡oh corona de mi cabeza! que, un día entre los días, el califa Harún Al-Raschid (¡Alah le tenga en Su gracia!) salió de su palacio en compañía de su visir Giafar y de Massrur, su portaalfanje ambos disfrazados, como él mismo lo iba, de mercaderes nobles de la ciudad.
 > 
 > **Referencia:** Los encuentros de Al-Raschid en el puente de Bagdad (n. 860)
-
-\sp
 
 Este cuento salvaje puede ser muy interesante para momentos en que como Scheherazade veas que es demasiado sería y demasiado intensa y te permitirá meter un poco de humor para liberar tensión.
 
@@ -2666,15 +3016,19 @@ El séquito puede estar formado por, como mínimo, Giafar y el portaalfanje Mass
 
 Mientras tus schahriars se relajan en una de tantas posadas de Bagdad, una panda de mercaderes de Damasco han reservado una sala privada y están dando una fiesta con comida, bebida y música. Ríen, cantan, comen y beben como si llevarán años en los caminos de las rutas comerciales.
 
-Si aguantan el jaleo, seguramente terminarán teniéndose que enfrentar a los mercaderes por cualquier tontería. También pueden unirse a la juerga y terminar al día siguiente con resaca y en bote camino de Basora o buscando la ciudad perdida de Ur.
+\sp
+
+Si aguantan el jaleo, seguramente terminarán teniéndose que enfrentar a los mercaderes por cualquier tontería.
+
+También pueden unirse a la juerga y terminar al día siguiente con resaca y en bote camino de Basora o buscando la ciudad perdida de Ur.
 
 #### Los músicos que están dando una serenata en la casa equivocada
 
-Al doblar una esquina y atraídos por la música y el jolgorio, los schahriars se encuentran con un grupo de mercaderes de Damasco que están dando una serenata. Como puedes imaginarte el cantante es el califa y el resto de músicos o el coro su séquito. Seguramente se hayan equivocado de lugar y le estén dando la serenata a quien no deban, pero trata de que sea divertido.
+Al doblar una esquina y atraídos por la música y el jolgorio, los schahriars se encuentran con un grupo de mercaderes de Damasco que están dando una serenata.
+
+Como puedes imaginarte el cantante es el califa y el resto de músicos o el coro su séquito. Seguramente se hayan equivocado de lugar y le estén dando la serenata a quien no deban, pero trata de que sea divertido.
 
 Seguramente les lanzarán cubos de agua u orín, les gritarán y les llamarán de todo y terminarán llamado a la guardia.
-
-\sp
 
 Lo normal es que salgan corriendo con los instrumentos y tratando de evitar a la guardia.
 
@@ -2688,24 +3042,37 @@ La opción más viable y rápida sería robárselo a los mercaderes o convencerl
 
 El plan que tendrán para sus compras debe ser totalmente loco, como que quieren saber si plantando huevos salen gallinas o si pueden llenar su piscina de aceite de sésamo porque han oído que puedes caminar sobre el aceite de sésamo sin hundirte.
 
+\sp
+
+\sinc
+
+[![Lil Sakib](./images/camello-desierto.jpg)](https://www.pexels.com/es-es/foto/puesta-de-sol-hombre-sol-desierto-20801932/ "Lil Sakib") 
+
+\conc
+
 #### Los locos que hacen carreras de camellos por las calles de Bagdad
 
-Mientas tus schahriars recorren las calles de Bagdad, un gran escándalo se oye a la vuelta de la esquina. Gente gritando, cacharros metálicos cayendo al suelo, animales bramando y muchas cosas rotas. Es un grupo de mercaderes que están montados en camellos (o caballos o mulas) y están haciendo algún tipo de carrera por las calles de la ciudad.
+Mientas tus schahriars recorren las calles de Bagdad, un gran escándalo se oye a la vuelta de la esquina. Gente gritando, cacharros metálicos cayendo al suelo, animales bramando y muchas cosas rotas.
+
+Es un grupo de mercaderes que están montados en camellos (o caballos o mulas) y están haciendo algún tipo de carrera por las calles de la ciudad.
 
 En este punto tus schahriars pueden tomar varias acciones:
 
-* Parar la loca carrera. La gente y los propios participantes podrían resultar herida por las tonterías de los jinetes. Si conocen a los mercaderes, quizás puedan convencerles de que hagan otras cosas "más divertidas" o ganarse su confianza salvándoles de alguna situación comprometida o peligrosa.
+* **Parar la loca carrera.** La gente y los propios participantes podrían resultar herida por las tonterías de los jinetes. Si conocen a los mercaderes, quizás puedan convencerles de que hagan otras cosas "más divertidas" o ganarse su confianza salvándoles de alguna situación comprometida o peligrosa.
+* **Apuntarse.** Si ya conocen a los mercaderes de otras veces o saben que son el Califa y su séquito, saben que pueden conseguir regalos y mucho dinero si ganan la carrera (o mejor quedan segundos y dejan ganar al Califa).
+* **Dar media vuelta y volver por donde han venido.** Otro día, quizás, hoy tienen mucha prisa.
 
 \sp
 
-* Apuntarse. Si ya conocen a los mercaderes de otras veces o saben que son el Califa y su séquito, saben que pueden conseguir regalos y mucho dinero si ganan la carrera (o mejor quedan segundos y dejan ganar al Califa).
-* Dar media vuelta y volver por donde han venido. Otro día, quizás, hoy tienen mucha prisa.
-
 #### Los generosos que van tirando dinares y oro por la calle
 
-De repente una marea de gente, se cruza por delante de tus schahriars y no pueden moverse adelante o atrás por la calle. Un grupo de mercaderes están dando dinares de oros a la gente y esta se agolpa a su alrededor buscando ganarse algunos de esos dinares de oro.
+De repente una marea de gente, se cruza por delante de tus schahriars y no pueden moverse adelante o atrás por la calle.
 
-Durante unos minutos será imposible moverse de donde están, pero tampoco si alguien les perseguía. Además, podrán mezclarse entre el gentío y desvanecerse entre la multitud. En condiciones normales, será imposible acercarse a los mercaderes debido a la gran cantidad de gente que los rodea.
+Un grupo de mercaderes están dando dinares de oros a la gente y esta se agolpa a su alrededor buscando ganarse algunos de esos dinares de oro.
+
+Durante unos minutos será imposible moverse de donde están, pero tampoco si alguien les perseguía.
+
+Además, podrán mezclarse entre el gentío y desvanecerse entre la multitud. En condiciones normales, será imposible acercarse a los mercaderes debido a la gran cantidad de gente que los rodea.
 
 #### Los arrestados por la guardia de la ciudad por desorden público
 
@@ -2717,11 +3084,13 @@ No lo confesarán abiertamente, pero serán incapaces de ocultarlo.
 
 #### Los alborotadores de la otra sala del hammam
 
-Los hammames son, por lo normal, sitios tranquilos donde relajarse, pero hoy será imposible. Un grupo de mercaderes, seguramente bebidos, están dando una fiesta en uno de los baños privados del hammam. Gritos, risas, canciones desafinadas y muchos improperios no os dejarán relajaros y disfrutar de los tratamientos y los masajes.
+Los hammames son, por lo normal, sitios tranquilos donde relajarse, pero hoy será imposible. Un grupo de mercaderes, seguramente bebidos, están dando una fiesta en uno de los baños privados del hammam. 
 
-\sp
+Gritos, risas, canciones desafinadas y muchos improperios no os dejarán relajaros y disfrutar de los tratamientos y los masajes.
 
 En algún momento tus schahriars se encontrarán con los mercaderes y puede pasar de todo, desde pelearse a juntarse a su fiesta y aprovecharse de carísimos tratamientos de belleza a cargo de los mercaderes.
+
+\sp
 
 Uno de ellos que tiene mucha labia, el poeta Abu-Nowas, tratará de ligar con el schahriar más atractivo del grupo entre los vapores de la sauna. O pueden acabar jugando al «pillapilla» todos embadurnados de aceites.
 
@@ -2739,9 +3108,13 @@ Una vez descubran la verdad, ellos deberán saber qué hacen con esa informació
 
 _Las obras del nuevo palacio del califa han encontrado una singular vasija con un sello de plomo mientras excavaban los cimientos. Nadie quiere abrirla por si saliera un yinn loco de rabia y buscando venganza._
 
-En realidad, dentro de la botella hay una viajera en el tiempo que dice que se metió dentro para conocer las maravillas del futuro. Puede ser eso, pero, tal vez escapaba de algo de su pasado o fue condenada a esa prisión extradimensional por sus terribles crímenes. La tarea de tus schahriars será averiguarlo.
+En realidad, dentro de la botella hay una viajera en el tiempo que dice que se metió dentro para conocer las maravillas del futuro. 
 
-La viajera dice llamarse Heráclita y que viene de Grecia. Una tirada de Humanidades dirá que habla griego, pero una versión muy antigua y no usa palabras en turco, como el griego actual. Sus ropajes no se parecen en nada a la de los griegos o los francos, como se conoce a los europeos actuales.
+Puede ser eso, pero, tal vez escapaba de algo de su pasado o fue condenada a esa prisión extradimensional por sus terribles crímenes. La tarea de tus schahriars será averiguarlo.
+
+La viajera dice llamarse Heráclita y que viene de Grecia. Una tirada de Humanidades dirá que habla griego, pero una versión muy antigua y no usa palabras en turco, como el griego actual. 
+
+Sus ropajes no se parecen en nada a la de los griegos o los francos, como se conoce a los europeos actuales.
 
 \sp
 
@@ -2830,7 +3203,9 @@ El líquido verde es un retrovirus genéticamente modificado para matar instant�
 
 \sinc
 
-[![Chimera sketch by DaveyBaker](./images/quimera.jpg)](https://www.deviantart.com/daveybaker/art/Chimera-sketch-887824588 "Chimera sketch by DaveyBaker") 
+[![Chimera sketch by DaveyBaker](./images/quimera.jpg)](https://www.deviantart.com/daveybaker/art/Chimera-sketch-887824588 "Chimera sketch by DaveyBaker")
+
+&nbsp;
 
 \conc
 
