@@ -1691,16 +1691,21 @@ Varios compañeros de ambos han reconocido las amenazas, Barukh no tiene coartad
 
 A priori es todo muy sospechoso, pero no del todo definitorio, así que, Alya ha montado un juicio rápido donde, de ser hallado culpable, será decapitado allí mismo.
 
-Al-Lawati como defensor ha puesto a tus schahriars a investigar lo que ha pasado. Si hablan con Barukh, no sabe nada. Isbar intento engañarle a los dados y le amenazo de muerte si no le devolvía lo que le había robado jugando. Tras llevarse su dinero se fue a dormir con sus camellos porque no se fiaba de que Isbar no intentará algo antes del amanecer. En caso da ataque, los camellos seguramente harían ruido y no noto nada. No sabe más hasta la mañana siguiente.
+Al-Lawati como defensor ha puesto a tus schahriars a investigar lo que ha pasado. Si hablan con Barukh, no sabe nada. Isbar intento engañarle a los dados y le amenazo de muerte si no le devolvía lo que le había robado jugando. 
+
+Tras llevarse su dinero se fue a dormir con sus camellos porque no se fiaba de que Isbar no intentará algo antes del amanecer. En caso da ataque, los camellos seguramente harían ruido y no noto nada. No sabe más hasta la mañana siguiente.
 
 Pueden seguir otras pistas:
 
 * Si inspeccionan el cadáver con Medicina verán que fue acuchillado 2 veces en puntos mortales mientras dormía. La víctima no tuvo tiempo ni de defenderse ni de gritar. Una tirada de Latrocinio dirá que parece cosa de un profesional.
 * Si buscan rastros desde la tienda de Isbar, hay unas gotas de sangre y pisadas en la arena que enseguida desaparecen. Una tirada de Notar encontrará plumas en el lugar. Hace días que no ven ningún ave por la zona y menos con el tamaño que dan a entender esas plumas. Saber de Suleimán podría decirles que puede ser Sangre de Fénix, que te permite volar al crecerte alas. El crecimiento suele ser traumático y violento.
-* Si preguntan, nadie vio ni escuchó nada. El cadáver lo encontró un compañero al ir a buscarle para desayunar.
-* Si hacen pruebas a la sangre de la ropa de Barukh, es sangre y seguro que es humana, pero una tirada de Latrocinio/Ciencias les dirá que las manchas deberían ser diferentes.
 * Si preguntan mágicamente a los camellos, estos le dirán que se acercó alguien a la noche y el más viejo de los camellos de Barukh se despertó. Y vio como una figura lanzaba una piedra que al golpear a Barukh pringo sus ropas de un líquido rojo.
 * Si buscan (tirada de Notar) en la zona donde durmió Barukh, encontrarán una cascará de huevo de codorniz rota medio enterrada con rastros de un líquido rojo. Parece que alguien la aplasto con el pie y la cubrió de arena para esconderla. Una tirada de Latrocinio les dirá que es normal hacer un agujero a los huevos de aves pequeñas, sacar la clara y la yema, meter algún líquido y sellarlo con cera. Luego se lanza al objetivo y sin que se dé cuenta queda marcado.
+
+\sp
+
+* Si hacen pruebas a la sangre de la ropa de Barukh, es sangre y seguro que es humana, pero una tirada de Latrocinio/Ciencias les dirá que las manchas deberían ser diferentes.
+* Si preguntan, nadie vio ni escuchó nada. El cadáver lo encontró un compañero al ir a buscarle para desayunar.
 
 Si unen todas las pistas y lo juntan con lo que saben, la única opción posible es que sea parte de un sabotaje del Gremio de Bronce. Han matado a una persona y han culpado a otro para crear problemas en la caravana.
 
@@ -1714,9 +1719,13 @@ Alya como kadí no quiere perder tiempo, así que lo que le digan le parecerá b
 
 ### Adentrándose en lo desconocido
 
-A partir de este punto cualquier signo de civilización desaparecerá. Déjales claro que ya no habrá pozos conocidos, caravanas con las que comerciar, pequeños poblados de nómadas a los que preguntar. Ni asaltadores, lo que se encuentren ahora serán seres horribles con extrañas formas y diabólicas intenciones. Tampoco habrá ni ciudades ni pueblos donde conseguir provisiones. Cazar y forrajear será casi imposible a no ser que ocurran cosas excepcionales.
+A partir de este punto cualquier signo de civilización desaparecerá. Déjales claro que ya no habrá pozos conocidos, caravanas con las que comerciar, pequeños poblados de nómadas a los que preguntar. Ni asaltadores, lo que se encuentren ahora serán seres horribles con extrañas formas y diabólicas intenciones.
 
-Deberías controlar a que tipo de equipamiento tienen acceso tus schahriars. No deberían tener acceso a productos de lujo, muy modernos o de alta tecnología, solo cosas simples que se lleven en el macuto, como cuerda, sacos de dormir, cuchillos, palas, brújulas, etc. Si pierden su astrolabio no podrán encontrar más, no deberían tener acceso a medicamentos, etc.
+\sp
+
+Tampoco habrá ni ciudades ni pueblos donde conseguir provisiones. Cazar y forrajear será casi imposible a no ser que ocurran cosas excepcionales.
+
+Deberías controlar a que tipo de equipamiento tienen acceso tus schahriars. No deberían tener acceso a productos de lujo, muy modernos o de alta tecnología, solo cosas simples que se lleven en el macuto, como cuerda, sacos de dormir, cuchillos, palas, brújulas, etc.Si pierden su astrolabio no podrán encontrar más, no deberían tener acceso a medicamentos, etc.
 
 ### 7ª etapa. Terreno desconocido
 
@@ -1732,17 +1741,31 @@ Las señales son claras, se acerca una gran tormenta de arena. Habrá que montar
 
 La tormenta durará 4 días, 4 días de ruido constante, problemas para respirar y de tragar arena al abrir la boca para comer. Tus schahriars cada día tendrán que tirar Vigor o recibirán un nivel de Fatiga. La tormenta de arena también da una penalización de -2 a Notar adicional a otras penalizaciones.
 
+\sp
+
+\sinc
+
+[![Persian Demons from a Book of Magic and Astrology (1921)](./images/palis.jpg)](https://publicdomainreview.org/collection/persian-demons-from-a-book-of-magic-and-astrology-1921/ "Persian Demons from a Book of Magic and Astrology (1921)") 
+
+_Pali chupando pies a una pareja_
+
+\conc
+
+\sp
+
 ##### Los palis
 
-La segunda noche, Adira ben-Hamed, una de las doctoras contratadas por Alya, expondrá un curioso caso médico en un par de camelleros. Las plantas de los pies están llenas de llagas y están muy blancos como si sufrieran anemia. Nunca ha visto nada parecido y que ocurriese tan rápido, ya que el día anterior estaban en perfecto estado de salud.
+La segunda noche, Adira ben-Hamed, una de las doctoras contratadas por Alya, expondrá un curioso caso médico en un par de camelleros. Las plantas de los pies están llenas de llagas y están muy blancos como si sufrieran anemia.
+
+Nunca ha visto nada parecido y que ocurriese tan rápido, ya que el día anterior estaban en perfecto estado de salud.
 
 Pueden ir a ver a los pacientes, pero no sacarán mucho más de lo que les ha dicho la doctora. Una tirada de Saber de Suleimán puede decirles que los camelleros son víctimas de unos palis. Si fallan será al-Lawati quien se los diga.
 
 Lleva desde que se levantó la tormenta, avisando a la gente de que duerma con las plantas de los pies apoyadas contra el camello o contra otra persona. Pero bajo ninguna circunstancia dejen las plantas de los pies al descubierto. Parece que estos dos no le hicieron caso.
 
-Los palis son una especie de vampiros de las leyendas de las tribus del desierto. Son llamados chupapies y su lengua es áspera, tan áspera, como para quitar la piel de un pie y luego beber la sangre. Los palis son altos y delgados, su piel está muy pálida y sus ojos se describen como "como el agua de un pozo muy profundo".
+Los palis son una especie de vampiros de las leyendas de las tribus del desierto. Son llamados chupapies y su lengua es áspera, tan áspera, como para quitar la piel de un pie y luego beber la sangre.
 
-[![Persian Demons from a Book of Magic and Astrology (1921)](./images/palis.jpg)](https://publicdomainreview.org/collection/persian-demons-from-a-book-of-magic-and-astrology-1921/ "Persian Demons from a Book of Magic and Astrology (1921)") 
+Los palis son altos y delgados, su piel está muy pálida y sus ojos se describen «como el agua de un pozo muy profundo».
 
 No son muy inteligentes, pero sí fuertes. Su pulsión por chupar los pies es tan fuerte que no puede beber sangre de sus víctimas de otra forma, cuando perfectamente podrían agarrar y retener a sus víctimas con su gran fuerza y chupar la sangre de sus cuellos como los vampiros occidentales.
 
@@ -1753,8 +1776,12 @@ No son muy inteligentes, pero sí fuertes. Su pulsión por chupar los pies es ta
 * **Capacidades especiales:**
     * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
     * **Tamaño:** Es del tamaño de oso (dureza +2).
-    * **Saliva narcótica:** Si chupa alguna zona de pie desnuda de un objetivo dormido deberá pasar una tirada de Vigor -2 o caerá dormido mágicamente hasta la salida del sol. No hay forma no mágica de despertarlo.
     * **Lengüetazo:** FUE+d4.
+
+\sp
+
+* **Capacidades especiales:**    
+    * **Saliva narcótica:** Si chupa alguna zona de pie desnuda de un objetivo dormido deberá pasar una tirada de Vigor -2 o caerá dormido mágicamente hasta la salida del sol. No hay forma no mágica de despertarlo.
 * **Equipo:** Alfanje herrumbroso robado a alguna víctima (FUE+d8-1)
 * **TPC:** 1d6 (manada)
 
@@ -1766,9 +1793,13 @@ _Alguien está haciendo correr el rumor de que la expedición está perdida y la
 
 Estos rumores son peligrosos, pero en mitad de una tormenta de arena sin precedentes y con la gente sin mucho más que hacer, comiendo mal y durmiendo peor, lo son todavía más. Tus schahriars deberán neutralizar esos rumores de alguna manera.
 
-Tienen 5 marcadores de tiempo. Cada acción que realicen con éxito les dará un contador de éxito y les quitará contadores de tiempo. Si reúnen 3 marcadores de éxito, conseguirán apaciguar los rumores.  
+Tienen 5 marcadores de tiempo. Cada acción que realicen con éxito les dará un contador de éxito y les quitará contadores de tiempo. Si reúnen 3 marcadores de éxito, conseguirán apaciguar los rumores.
+
 Si se quedan sin contadores de tiempo, los rumores se propagarán y habrá deserciones, perderán 2 semanas de provisiones robadas por la gente que haya desertado. Por suerte el sueldo de todo el mundo subirá un 10%, Alya quiere compensar la falta de personal pagando mejor a los fieles que se han quedado.  
+
 Si fallan al ejecutar una acción, pueden intentarla una segunda vez, pero deberán pasar la tirada con un avance mínimo.
+
+\sp
 
 Veamos algunas posibles acciones:
 
@@ -1778,9 +1809,14 @@ Veamos algunas posibles acciones:
 * **Amenazas (1 contador de tiempo):** Unas buenas amenazas contra la gente que está soltando las mentiras puede ser eficaz. Necesitarán primero una tirada de Investigar para localizar a los objetivos y luego Intimidar. Si consiguen pasar las tiradas obtienes contador y medio de éxito, con dos avances en Intimidar pueden conseguir medio contador de éxito más.
 * **Ofrecer su dinero (1 contador de tiempo):** No hay tirada. Si los schahriars ofrecen su parte del tesoro para repartir entre el resto, recibe un contador de éxito. Puedes compensarles con algunos benis.
 * **Mentes ociosas (1 contador de tiempo):** Los rumores se extienden y calan porque están ociosos en sus tiendas mientras pasa la tormenta. Si organizan algo que les tenga entretenidos podrán conseguir 1 contador de éxito. Según lo que se les ocurra será la tirada será una u otra. Si montan un torneo de ajedrez, será Tácticas, si les pones a trabajar arreglando las tiendas, las sillas de montar y esas cosas, Reparar, etc.
+
+\sp
+
 * **Parte del cuento (1 contador de tiempo):** Los cuentos son poderosos e importantes, si algún schahriar tiene dotes artísticas o ser cuentacuentos quizás pueda convertir esta historia en un cuento que se contará durante siglos. Esto animará mucho a la gente. Será necesario una tirada de Interpretar para conseguir un marcador de éxito y dos avances para medio marcador adicional.
 
-Como Scheherazade eres libre de asignar contadores de tiempo y éxito a otras posibilidades que se les ocurran a tus schahriars. Puede que algunos de sus actos incluso quiten contadores de éxito, como una ejecución pública de algunos desertores.
+Como Scheherazade eres libre de asignar contadores de tiempo y éxito a otras posibilidades que se les ocurran a tus schahriars.
+
+Puede que algunos de sus actos incluso quiten contadores de éxito, como una ejecución pública de algunos desertores.
 
 ### 8ª etapa. Terreno desconocido
 
@@ -1794,21 +1830,31 @@ _La caravana ha encontrado un extraño edificio abandonado con una cúpula de or
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 340)
 
-Este palacio fue creado Kusch ben-Scheddad ben-Aad hijo del Rey Scheddad ben-Aad fundador de la ciudad de Aram-de-las-columnas. En un sarcófago se puede [leer su historia](#anchorsarcofagokusch).
+Este palacio fue creado Kusch ben-Scheddad ben-Aad hijo del Rey Scheddad ben-Aad fundador de la ciudad de Aram-de-las-columnas. En un sarcófago se puede leer su historia.
 
-Una tirada de Saber de Suleimán dejará clara la relación entre esta cúpula de oro que sirve de mausoleo para Kusch ben-Scheddad ben-Aad y la ciudad de Aram-de-las-Columnas, construida por su padre, el rey Scheddad ben-Aad. Una tirada de Humanidades permitirá establecer claras similitudes entre la cúpula y Aram (tirada normal si han estado en Aram y -2 si solo saben de ella por los libros).
+Una tirada de Saber de Suleimán dejará clara la relación entre esta cúpula de oro que sirve de mausoleo para Kusch ben-Scheddad ben-Aad y la ciudad de Aram-de-las-Columnas, construida por su padre, el rey Scheddad ben-Aad.
+
+\sp
+
+[![Imagen de Ylanite Koppens en Pixabay](./images/cuervo.jpg)](https://pixabay.com/es/illustrations/p%C3%A1jaro-cuervo-animal-patr%C3%B3n-8149449/ "Imagen de Ylanite Koppens en Pixabay") 
+
+Una tirada de Humanidades permitirá establecer claras similitudes entre la cúpula y Aram (tirada normal si han estado en Aram y -2 si solo saben de ella por los libros).
 
 Tras la caída de Aram, el príncipe Kusch prefirió buscar su destino en la Tierra con sus fieles, mientras el rey Scheddad abandonaba nuestro mundo con sus súbditos.
 
 > /s/ **Semilla de aventura:** Un jugador podría intentar hablar con los muertos y sacar información al Rey Kusch que podría saber la ubicación de la fabulosa ciudad de Aram-de-las-columnas fundada por su padre, el Rey Scheddad ben-Aad, o tratar de averiguar dónde enterró su fabuloso tesoro cuando colapsó Aram y la abandonaron.
 
-[![Imagen de Ylanite Koppens en Pixabay](./images/cuervo.jpg)](https://pixabay.com/es/illustrations/p%C3%A1jaro-cuervo-animal-patr%C3%B3n-8149449/ "Imagen de Ylanite Koppens en Pixabay") 
+La gente de la expedición está buscando la forma de robar el oro de la cúpula. Enseguida aparecerá gente con cuerdas que quiere subir por las columnas.
 
-La gente de la expedición está buscando la forma de robar el oro de la cúpula. Enseguida aparecerá gente con cuerdas que quiere subir por las columnas. La primera persona que escale más de media columna verá que todos los cuervos toman vuelo y como uno solo se lanzan a por el escalador. Tira un 1d100 y divídelo por la parada del PJ redondeando abajo. Esos serán los puntos de daño que recibirá. Lo normal es que no quede más un amasijo de carne picada que caerá a plomo al suelo.
+La primera persona que escale más de media columna verá que todos los cuervos toman vuelo y como uno solo se lanzan a por el escalador.
+
+Tira un 1d100 y divídelo por la parada del PJ redondeando abajo. Esos serán los puntos de daño que recibirá. Lo normal es que no quede más un amasijo de carne picada que caerá a plomo al suelo.
 
 Si pueden volar el resultado es el mismo según se acerquen al oro. La única forma de conseguir el oro es expulsar a los cuervos, por ejemplo, con humo o fuego. Para hacer daño a la bandada de cuervos se necesitan formas de hacer daño en área.
 
 No conseguir el oro, será un bajón muy grande para la moral de la gente. Venían a por este tipo de riquezas y no las han podido conseguir. Si se llevan el oro habrán profanado la tumba de un príncipe.
+
+\sp
 
 > /s/ **Semilla de aventura:** Los espíritus del príncipe de Kusch y sus mil caballeros buscarán y ejecutarán a todos los ladrones y devolverán el oro a la tumba. Otra opción es que les caiga una maldición y solo devolviendo el oro puedan deshacer la maldición.
 
@@ -1818,7 +1864,9 @@ _El Gremio de Bronce quieren una reunión cara a cara con los schahriars y expli
 
 El Gremio de Bronce ha intentado sabotear la expedición, pero nada ha funcionado. La obsesión de Alya, el coraje de tus schahriars y la promesa de oro y fortuna ha hecho que la caravana haya solucionado todas las trabas que el gremio ha puesto en su camino.
 
-El Gremio va a cambiar de método de acción. Va a hablar con tus schahriars directamente y explicar que supone quitar la maldición que hay sobre la Ciudad de Bronce. Apelarán a su lógica y al bien que debe haber en sus corazones para que cambien de bando y les ayuden a hacer fracasar a la Princesa Alya.
+El Gremio va a cambiar de método de acción. Va a hablar con tus schahriars directamente y explicar que supone quitar la maldición que hay sobre la Ciudad de Bronce.
+
+Apelarán a su lógica y al bien que debe haber en sus corazones para que cambien de bando y les ayuden a hacer fracasar a la Princesa Alya.
 
 ##### Reunión de confabuladores a la luz de la noche
 
@@ -1827,20 +1875,26 @@ En la tienda de tus schahriars aparecerá una moneda de cobre con un diseño muy
 Deberán pasar dos tiradas de Sigilo contra un d6 de Notar genérico, una para salir del campamento y otra para entrar en el palacio, ambos sin ver visto. Al llegar a la tumba verán 3 figuras, una de ellas más grande (2,5 m) que el resto. Al acercarse solo las dos más pequeñas, se quitarán la capucha, harán una zalema (reverencia) y empezarán a hablar.
 
 > _¡Alabado sea el Inmutable, por traeros ante nosotros! No creo que sea necesario decirlo, pero hablamos en nombre del Gremio de Bronce. Sabed que si seguís vuestro camino abandonaréis vuestro mundo y pasaréis a lo que algunos llaman las Tierras del Sueño, el lugar que vuestras mentes visitan cuando dormís. Sabed que la Ciudad de Bronce es un constructo onírico creado por un ser de tal poder que sus sueños se vuelven materiales en estas tierras; un ser que vosotros conocéis como Bahamūt y nosotros como Cthulhu.  
->   
+
+\sp
+
 > Sabed que ese ser casi divino está encerrado en un sueño eterno en una ciudad sumergida en una sima oceánica, esperando despertar y destruir nuestro mundo. Sabed que la maldición que mantiene a la princesa Tadnaar dormida y a toda la Ciudad de Bronce en un éxtasis perpetuo, es una representación del sueño eterno en el que está sumido Cthulhu. Si se rompe la maldición y se despierta a la princesa Tadnaar y sus súbditos salen de su encantamiento, puede que Cthulhu, junto a toda su progenie, se acerque más hacia la vigilia o incluso se despierte de su sueño eterno.  
 >   
 > Es por ello que debéis ayudarnos a que los planes de la princesa Alya fracasen y el gran Cthulhu siga dormido durante eones._
 
 En esta escena no hay tiradas, tus schahriars deberán decidir si creen o no lo que acaban de oír. Pueden preguntar lo que quieran y el Gremio les responderá como puedan y sepan pero sin mentiras. Hablarán siempre muy calmadamente y sin exaltarse. Reconocerán sus crímenes y sus intentos de sabotajes y los justificarán en nombre de un bien mayor.
 
-Si aceptan ayudar al Gremio, deberán seguir su camino hasta la Ciudad y allí sabotear con la ayuda del Gremio lo que vaya a hacer la Princesa Alya par retirar la maldición. Deberán esperar instrucciones y no deberán hablarlo con nadie. Les dirán que traten de evitar el gran palacio, todo lo que puedan. Si el gremio consiguió llevarse el diario del emir Muza, lo devolverán, pero pedirán que lo guarden en secreto.
+Si aceptan ayudar al Gremio, deberán seguir su camino hasta la Ciudad y allí sabotear con la ayuda del Gremio lo que vaya a hacer la Princesa Alya par retirar la maldición.
+
+Deberán esperar instrucciones y no deberán hablarlo con nadie. Les dirán que traten de evitar el gran palacio, todo lo que puedan. Si el gremio consiguió llevarse el diario del emir Muza, lo devolverán, pero pedirán que lo guarden en secreto.
 
 El Gremio desconoce la naturaleza híbrida de la Alya, pero si tus schahriars le hablan de las cosas extrañas que rodean a la princesa, como que casi no duerme, no se cansa y que está obsesionada con la ciudad, en próximas reuniones podrían saber lo de la hibridación.
 
-Si rechazan la propuesta del Gremio, estos se pondrán la capucha y se marcharán diciendo: _"No sabéis que fuerzas podéis terminar trayendo a vuestro mundo. Y cuando lo averigüéis, ya será tarde para evitar las consecuencias de vuestros insensatos actos."_
+Si rechazan la propuesta del Gremio, estos se pondrán la capucha y se marcharán diciendo: _«No sabéis que fuerzas podéis terminar trayendo a vuestro mundo. Y cuando lo averigüéis, ya será tarde para evitar las consecuencias de vuestros insensatos actos.»_
 
 Si intentan atacar, deberán enfrentarse a un asesino del gremio (Asesino entrenado) y un mago del gremio (Cultista superior). La figura alta se levantará hasta llegar a los 3 metros y dejará caer su capa para mostrarse como un abu-qith soldado con una arma lanzarrayos.
+
+\sp
 
 ### La estatua ecuestre
 
@@ -1868,6 +1922,8 @@ Solamente alguien con Afinidad Mágica puede empujar la estatua, para el resto s
 
 Cuando el resorte se pare, la cara de la estatua mirará hacia la ruta por donde han venido. En ese momento deberán decidir si hacer caso a la estatua o no. Puede que sea un truco para perder a los intrusos no deseados o realmente deben volver sobre sus pasos.
 
+\sp
+
 Si vuelven sobre sus pasos, se darán cuenta de que aunque en teoría han vuelto por donde han venido, la ruta es completamente distinta y tendrán una TPC de d8 general. De hecho, si en ese momento quisieran volver a su casa, debería seguir de frente y verían que están volviendo por donde vinieron.
 
 Puede parecer una prueba muy sencilla, pero es bastante peligrosa. Tus schahriars pasarán sin mucho problema la TPC, pero el resto de la caravana puede acabar trastornado. 3d6 personas perderán la poca cordura que les quede al darse cuenta del truco de la estatua. Empezarán a oírse rumores de que están perdidos y de que están malditos y en las siguientes noches desertarán los que hayan perdido cordura.
@@ -1882,11 +1938,15 @@ Si toman otro camino se perderán durante varios días (-1 semana de provisiones
 
 Tras pasar la prueba de la estatua ecuestre, poco a poco irán cruzando el mundo de la vigilia al mundo de los sueños.
 
-Junto al aviso que les dio el Gremio en el palacio de la cúpula de oro, puedes darles pequeñas pistas de que están en la Tierra de los Sueños, como que ya nadie tiene sueños al dormir o que la luna está más grande como si estuviera más cerca (tirada de Ciencias).
+Junto al aviso que les dio el Gremio en el palacio de la cúpula de oro, puedes darles pequeñas pistas de que están en la Tierra de los Sueños. Déjales caer que ya nadie tiene sueños al dormir o que la luna está más grande como si estuviera más cerca (tirada de Ciencias).
 
 Están el desierto, pero una tirada de Supervivencia les dirá que las pocas especies de fauna y flora que sobreviven en este inhóspito lugar tienen leves variaciones. Los insectos son más coloridos, las plantas tienen flores y hojas más llamativas, etc.
 
-Si alguien intentase lanzar hechizos basados en el sueño, como Mecer o Interpretar sueños, fallarán siempre. Tampoco funcionará ningún objeto con ornamento de sueño, como la alfombra de piel de serpiente.
+Si alguien intentase lanzar hechizos basados en el sueño, como Mecer o Interpretar sueños, fallarán siempre.
+
+\sp
+
+Tampoco funcionará ningún objeto con ornamento de sueño, como la alfombra de piel de serpiente.
 
 Dales pistas de que ya no están en su mundo y cuando tengan varias, permíteles si te piden una de Saber de Suleimán para saber donde están.
 
@@ -1898,15 +1958,17 @@ Si alguno de tus schahriars da un buen discurso motivador para tranquilizar a la
 
 **Gasto de provisiones:** 1/2 semana
 
-> Bajo el blanco cendal que caía de la altura, en toda la extensión que podía abarcar la mirada fija en los horizontes hundidos en la noche, aparecían dentro del recinto de bronce cúpulas de palacios, terrazas de casas, apacibles jardines, y a la sombra de los macizos brillaban los canales, que iban a morir en un mar de metal, cuyo seno frío reflejaban las luces del cielo. Y el bronce de las murallas, las pedrerías encendidas de las cúpulas, las terrazas cándidas, los canales y el mar entero, así como las sombras proyectadas por Occidente amalgamábanse bajo la brisa nocturna v la luna mágica.
+_Las altas murallas de bronce de la ciudad y la inexplicable ausencia de puertas de entrada o salida son un escollo complicado, pero no imposible de solucionar para unas mentes rápidas y entrenadas._
 
+> Bajo el blanco cendal que caía de la altura, en toda la extensión que podía abarcar la mirada fija en los horizontes hundidos en la noche, aparecían dentro del recinto de bronce cúpulas de palacios, terrazas de casas, apacibles jardines, y a la sombra de los macizos brillaban los canales, que iban a morir en un mar de metal, cuyo seno frío reflejaban las luces del cielo. Y el bronce de las murallas, las pedrerías encendidas de las cúpulas, las terrazas cándidas, los canales y el mar entero, así como las sombras proyectadas por Occidente amalgamábanse bajo la brisa nocturna v la luna mágica.
 > Sin embargo, aquella inmensidad estaba sepultada, como en una tumba, en el universal silencio. Allá dentro no había ni un vestigio de vida humana. Pero he aquí que con un mismo gesto, quieto, destacábanse sobre monumentales zócalos altas figuras de bronce, enormes jinetes tallados en mármol, animales alados que se inmovilizaban en un vuelo estéril; y los únicos seres dotados de movimiento en aquella quietud eran millares de inmensos vampiros que daban vueltas a ras de los edificios bajo el cielo, mientras búhos invisibles turbaban el estático silencio con sus lamentos y sus voces fúnebres en los palacios muertos y las terrazas solitarias.
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 343)
 
-_Las altas murallas de bronce de la ciudad y la inexplicable ausencia de puertas de entrada o salida son un escollo complicado, pero no imposible de solucionar para unas mentes rápidas y entrenadas._
 
 De repente, sin ningún tipo de pista o señal que delate la presencia de una megalópolis, aparecerán las altas murallas de la Ciudad de Bronce. Solo las torres y cúpulas más altas de la ciudad se ven por encima de sus murallas. Detrás de la ciudad una alta montaña y a lo lejos el rugir de un mar embravecido.
+
+\sp
 
 No hay ninguna señal de actividad en la ciudad, solo se mueven murciélagos y búhos que han tomado las murallas como su hogar.
 
@@ -1932,6 +1994,8 @@ Según el emir Muza y su diario, la segunda inscripción hace referencia al paso
 
 Este tercer verso resumen los otros dos, hablando de cómo a todos nos espera a la muerte y de como el tiempo hará que todo lo que hicimos en vida sea olvidado y más tarde o más temprano se convierta en polvo y sea arrastrado por el viento.
 
+\sp
+
 > **Cuarta inscripción:** «¡Oh el misterio del nacimiento y de la muerte! ¿Por qué nacer, si hay que morir? ¿Por qué vivir, si la muerte da el olvido de la vida? ¡Pero solo Alah conoce los destinos, y nuestro deber es inclinarnos ante Él con obediencia muda!»
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 343)
@@ -1950,19 +2014,30 @@ Escalar los 30 metros de muralla es casi imposible, aun con equipo de escalada. 
 
 Tus schahriars quizás tengan acceso a magia como hechizos de volar y puedan colgar una escala de las murallas. Un túnel por debajo de la muralla es posible, pero llevará mucho tiempo, Añadiendo 1/2 semana más al consumo de provisiones. Como ves, las opciones son variadas. Sé generosa con los deseos si tienen ideas imaginativas e ingeniosas.
 
+\sp
+
 #### Bajando de las murallas
 
-Al llegar a las almenas de la muralla tendrán ante sí una vista sobrecogedora de la ciudad, la ciudad más impresionante que jamás hayan visto, con miles de torres y palacios, amplias avenidas arboladas y con cientos de estatuas de mármol. Aunque principalmente todo es arquitectónicamente árabe, una tirada de Humanidades podrá detectar estilos más antiguos como columnas romanas o esculturas egipcias que parecen poco estar transformándose en elementos de la arquitectura árabe.
+Al llegar a las almenas de la muralla tendrán ante sí una vista sobrecogedora de la ciudad, la ciudad más impresionante que jamás hayan visto, con miles de torres y palacios, amplias avenidas arboladas y con cientos de estatuas de mármol.
 
-También es sobrecogedor la vista de soldados totalmente paralizados como estatuas vivientes a lo largo de las almenas. Los cuerpos están fríos al tacto, pero no han perdido su color como si fueran cadáveres y siguen blandos si tocas la carne. El pelo se puede mover, pero cambiarles de posición es casi imposible. Los soldados tienen la cara cubierta, pero si les quitan el velo que les cubre la caray ven sus caras congeladas tienen un TPC 1d4.
+Aunque principalmente todo es arquitectónicamente árabe, una tirada de Humanidades podrá detectar estilos más antiguos como columnas romanas o esculturas egipcias que parecen poco estar transformándose en elementos de la arquitectura árabe.
+
+También es sobrecogedor la vista de soldados totalmente paralizados como estatuas vivientes a lo largo de las almenas. Los cuerpos están fríos al tacto, pero no han perdido su color como si fueran cadáveres y siguen blandos si tocas la carne.
+
+El pelo se puede mover, pero cambiarles de posición es casi imposible. Los soldados tienen la cara cubierta, pero si les quitan el velo que les cubre la caray ven sus caras congeladas tienen un TPC 1d4.
 
 > El emir Muza y sus acompañantes anduvieron durante algún tiempo por lo alto de los muros, y llegaron al fin ante dos torres unidas entre sí por una puerta de bronce, cuyas dos hojas encajaban tan perfectamente, que no se hubiera podido introducir por su intersticio la punta de una aguja. Sobre aquella puerta aparecía grabada en relieve la imagen de un jinete de oro que tenía un brazo extendido y la mano abierta, y en la palma de esta mano había trazado unos caracteres jónicos, que descifró enseguida el jeique Abdossamad y los tradujo del siguiente modo: "Frota la puerta doce veces con el clavo que hay en mi ombligo".
-
 > Aunque muy sorprendido de tales palabras, el emir Muza se acercó al jinete y notó que, efectivamente, tenía metido en medio del ombligo un clavo de oro. Echó mano e introdujo y sacó el clavo doce veces. Y a las doce veces que lo hizo, se abrieron las dos hojas de la puerta, dejando ver una escalera de granito rojo que descendía caracoleando. Entonces el emir Muza y sus acompañantes bajaron por los peldaños de esta escalera, la cual les condujo al centro de una sala que daba a ras de una calle en la que se estacionaban guardias armados con arcos y espadas.
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 344)
 
-En las murallas hay una serie de torres con unas puertas de bronce con un jinete de bronce grabado en ellas. Cada figura tiene un texto en caracteres jónicos que dice: "Frota la puerta doce veces con el clavo que hay en mi ombligo". Una tirada de Notar permite encontrar el clave en el ombligo y tiene un resorte que permite pulsarlo como un botón. Al pulsarlo 12 veces la puerta se abre y se puede acceder a una escalera de caracol de mármol rojo que baja a nivel de la calle.
+En las murallas hay una serie de torres con unas puertas de bronce con un jinete de bronce grabado en ellas. Cada figura tiene un texto en caracteres jónicos que dice: «Frota la puerta doce veces con el clavo que hay en mi ombligo».
+
+Una tirada de Notar permite encontrar el clave en el ombligo y tiene un resorte que permite pulsarlo como un botón. 
+
+\sp
+
+Al pulsarlo 12 veces la puerta se abre y se puede acceder a una escalera de caracol de mármol rojo que baja a nivel de la calle.
 
 ### Explorando la ciudad
 
@@ -1978,11 +2053,18 @@ Si se ponen a investigar podrán descubrir diferentes cosas:
 * No necesitan dormir. La primera noche dormirán por costumbre, pero las siguientes no necesitarán hacerlo.
 * Una tirada de Notar tras varios les dirá que faltan cosas. No hay barrios bajos y pobres, casa viejas o escombros. No hay pozos sépticos, ni alcantarillado. Una tirada de Humanidades les dirá que parece una versión de cuento de una ciudad.
 * La gente tiene ropa actual, van a la última moda de Bagdad y Damasco. Lo cual no tiene sentido teniendo en cuenta que la ciudad lleva milenios congelada en el tiempo. De hecho, si van a zonas nuevas, la gente tiene ropa medianamente moderna, pero de hace unos 30 0 40 años, pero en los siguientes días parecerá que se ha actualizado sutilmente. Con Humanidades se darán cuenta de que la ropa es de tiempos de la primera expedición.
+
+\sp
+
 * Si estudian a las personas congeladas (Notar) verán que hay extraños detalles, como si fuera una simulación por ordenador y tuviera bugs porque el programador no entendiera como es la realidad que está programando. Por ejemplo, los sirvientes van en la posición de los amos, los soldados llevan las armas y en escudo en manos equivocadas, en los bares las jarras para el agua tienen vino y las de agua vino. Sé creativo con estos detalles.
 
-Cuando lo creas oportuno y tus schahriars hayan conseguido averiguado alguno de los puntos anteriores podrán tirar Saber de Suleimán y descubrir que están dentro del sueño de alguien. La ciudad es una representación onírica de un ser de gran poder que puede darle forma física en la Tierra de los sueños.
+Cuando lo creas oportuno y tus schahriars hayan conseguido averiguado alguno de los puntos anteriores podrán tirar Saber de Suleimán y descubrir que están dentro del sueño de alguien.
 
-Alya desaparecerá la primera noche mientras duermen. Asi que al-Lawati y Mahmoud Assy montarán un grupo de búsqueda, dejando a tus schahriars solos para explorar la ciudad. Puedes usar avistamientos de la princesa para moverles por toda la ciudad para que vean todo lo que pasa. Debes recordarles el aviso del gremio de no cercarse al gran palacio.
+La ciudad es una representación onírica de un ser de gran poder que puede darle forma física en la Tierra de los sueños.
+
+Alya desaparecerá la primera noche mientras duermen. Así que al-Lawati y Mahmoud Assy montarán un grupo de búsqueda, dejando a tus schahriars solos para explorar la ciudad.
+
+Puedes usar avistamientos de la princesa para moverles por toda la ciudad para que vean todo lo que pasa. Debes recordarles el aviso del gremio de no cercarse al gran palacio.
 
 ### Rompiendo la maldición
 
@@ -1990,41 +2072,67 @@ _Alya ha desaparecido y parece que busca romper la maldición ella sola y si nad
 
 #### La verdad sobre la Ciudad de Bronce
 
-La Ciudad de Bronce es una versión onírica de R’lyeh. Los dioses arquetípicos desterraron y encerraron a los primigenios hace eones y cuando dejaron dormido a Cthulhu (conocido como Bahamūt) y hundieron R’lyeh, el durmiente primigenio creo una versión de él y de su ciudad en la Tierra de los sueños, en alguna zona perdida y deshabitada del desierto oriental que da al mar. La creo usando los sueños de las razas sintientes de la Tierra y cuando los humanos se convirtieron en la raza dominante de nuestro planeta, la Ciudad de Bronce empezó a tener la forma que marcaban los sueños de los humanos.
+La Ciudad de Bronce es una versión onírica de R’lyeh. Los dioses arquetípicos desterraron y encerraron a los primigenios hace eones y cuando dejaron dormido a Cthulhu (conocido como Bahamūt) y hundieron R’lyeh, el durmiente primigenio creo una versión de él y de su ciudad en la Tierra de los sueños, en alguna zona perdida y deshabitada del desierto oriental que da al mar. 
 
-La ciudad va evolucionando según avanza la cultura humana y por ello tiene forma de ciudad humana con toques árabes, pero con muchos elementos exagerados como sus altas murallas como en un sueño. Las gentes paralizadas representan a las semillas estelares que sirven al gran Cthulhu y la princesa Tadnaar es el propio Cthulhu que duerme a la espera de que las estrellas se alineen para despertar y desencadenar el fin del mundo.
+La creo usando los sueños de las razas sintientes de la Tierra y cuando los humanos se convirtieron en la raza dominante de nuestro planeta, la Ciudad de Bronce empezó a tener la forma que marcaban los sueños de los humanos.
+
+\sp
+
+La ciudad va evolucionando según avanza la cultura humana y por ello tiene forma de ciudad humana con toques árabes, pero con muchos elementos exagerados como sus altas murallas como en un sueño.
+
+Las gentes paralizadas representan a las semillas estelares que sirven al gran Cthulhu y la princesa Tadnaar es el propio Cthulhu que duerme a la espera de que las estrellas se alineen para despertar y desencadenar el fin del mundo.
 
 #### Vuelve el gremio de Bronce
 
-Cuando menos se lo esperen de un palacio oirán una campanilla (claramente de bronce). En una ciudad en total silencio, una campanilla llama la atención. Si entran al palacio encontrarán a 3 encapuchados, los mismos de la cúpula de oro si aceptaron ayudar al Gremio. Si rechazaron ayudar al Gremio, habrá 6 (dos cultistas superiores, dos asesinos y dos soldados abu-qith).
+Cuando menos se lo esperen de un palacio oirán una campanilla (claramente de bronce). En una ciudad en total silencio, una campanilla llama la atención.
+
+Si entran al palacio encontrarán a 3 encapuchados, los mismos de la cúpula de oro si aceptaron ayudar al Gremio. Si rechazaron ayudar al Gremio, habrá 6 (dos cultistas superiores, dos asesinos y dos soldados abu-qith).
 
 Si son enemigos dirán que solo quieren hablar y tratarán de convencerles de unirse a ellos. Les hablarán de las cosas terribles que haría Bahamūt en la tierra. Si no lo consiguen atacarán. Deben de eliminar a tus schahriars y así evitar que se una a Alya.
 
-Si derrotan al Gremio, oirán disturbios fuera. Delante del palacio real se enfrentan Alya y su gente del mar contra un pequeño grupo del Gremio y los expedicionarios (30 incluyendo a al-Lawati y Assy) que entraron a la ciudad con tus schahriars. Sigue leyendo "La batalla de la Ciudad de Bronce".
+Si derrotan al Gremio, oirán disturbios fuera. Delante del palacio real se enfrentan Alya y su gente del mar contra un pequeño grupo del Gremio y los expedicionarios (30 incluyendo a al-Lawati y Assy) que entraron a la ciudad con tus schahriars. Sigue leyendo «La batalla de la Ciudad de Bronce».
 
-Si son aliados, empezarán a explicarles el plan del Gremio. Quieren destruir la Ciudad de Bronce y Alya es la clave, su herencia de gente del mar más concretamente. La han estado espiando y Alya ya no se encuentra en la ciudad, fue hasta el mar llevada por su sangre. Allí le contaron sus orígenes y su destino y ahora ha entendido sus obsesiones, sus pesadillas y los susurros que oía cuando estaba sola.
+Si son aliados, empezarán a explicarles el plan del Gremio. Quieren destruir la Ciudad de Bronce y Alya es la clave, su herencia de gente del mar más concretamente.
 
-Se ha convertido en líder de la tribu y está preparándose con sus tropas para entrar en la ciudad y despertar a la Princesa Tadnaar y con ello a Bahamūt. Sabe que el Gremio intentará destruirla y puede que la gente de la expedición se interpongan en su misión. Así que se está preparando para una gran batalla.
+La han estado espiando y Alya ya no se encuentra en la ciudad, fue hasta el mar llevada por su sangre. Allí le contaron sus orígenes y su destino y ahora ha entendido sus obsesiones, sus pesadillas y los susurros que oía cuando estaba sola.
+
+Se ha convertido en líder de la tribu y está preparándose con sus tropas para entrar en la ciudad y despertar a la Princesa Tadnaar y con ello a Bahamūt.
+
+\sp
+
+Sabe que el Gremio intentará destruirla y puede que la gente de la expedición se interpongan en su misión. Así que se está preparando para una gran batalla.
 
 ##### El plan del Gremio
 
 El Gremio sabe por experiencia que la Princesa Tadnaar está protegida en su alcoba por un poderoso hechizo de protección en forma de dos gigantescos guerreros, uno con portaalfanje y otro con una pica de acero. Cualquiera que se acerque muere al instante bajo la hoja del alfanje (no hay tirada, muere directamente) y todo hechizo choca con el temible piquero y se desvanece.
 
-El Gremio cree que cuando se acerque la princesa, el hechizo se desactivará y está podrá besar a la princesa Tadnaar y despertarla (o lo que veas apropiado en tu mesa, ten en cuenta el tema del consentimiento) y con ello despertar a Bahamūt/Cthulhu y toda la construcción onírica de la ciudad desaparecerá para volver a la mente del dios dormido. En realidad solo conseguirán traerlo más cerca de la conciencia, así cuando se alineen los astros podrá despertarse, además sus ondas cerebrales podrán afectar a ciertas personas susceptibles a ellas, pero todo eso nadie lo sabe.
+El Gremio cree que cuando se acerque la princesa, el hechizo se desactivará y esta podrá besar a la princesa Tadnaar y despertarla (o lo que veas apropiado en tu mesa, ten en cuenta el tema del consentimiento).
+
+Con ello despertará a Bahamūt/Cthulhu y toda la construcción onírica de la ciudad desaparecerá para volver a la mente del dios dormido.
+
+En realidad solo conseguirán traerlo más cerca de la conciencia, así cuando se alineen los astros podrá despertarse, además sus ondas cerebrales podrán afectar a ciertas personas susceptibles a ellas, pero todo eso nadie lo sabe.
 
 Su plan es que tus schahriars se unan a Alya y cuando se deshaga el hechizo maten a la princesa Tadnaar antes de que Alya pueda despertarla. Para que les acepte en sus filas deberán traicionarlos en la batalla que se va a producir delante del palacio real, entre el Gremio y la horda de Alya.
 
 #### La batalla de la Ciudad de Bronce
 
-En un momento dado, un nuevo encapuchado aparecerá avisando de que Alya y su ejército está escalando las murallas del mar de la ciudad. En un par de horas estarán dentro de la ciudad. Ese es el tiempo que tienen para buscar a al-Lawati y Assy y explicarles que va a pasar. No se sabe cómo van a reaccionar al-Lawati y Assy, pues no quieren traicionar a su ama, pero tampoco quieren soltar un mal terrible sobre el mundo. Como Scheherazade, eliges que van a hacer según actúen tus schahriars.
+En un momento dado, un nuevo encapuchado aparecerá avisando de que Alya y su ejército está escalando las murallas del mar de la ciudad. En un par de horas estarán dentro de la ciudad. Ese es el tiempo que tienen para buscar a al-Lawati y Assy y explicarles que va a pasar.
 
-El palacio real está en el maidán o plaza pública y cada grupo entrará por lados opuestos. Alya cuenta con 90 profundos. El Gremio cuenta con 20 unidades. Los 30 expedicionarios se unirán a un grupo o a otro. Cada schahriar cuentan como 3 unidades, así que 5 schahriars son 15 unidades. Haz tus cuentas a la hora de repartir los contadores de fuerza.
+No se sabe cómo van a reaccionar al-Lawati y Assy, pues no quieren traicionar a su ama, pero tampoco quieren soltar un mal terrible sobre el mundo. Como Scheherazade, eliges que van a hacer según actúen tus schahriars.
+
+\sp
+
+El palacio real está en el maidán o plaza pública y cada grupo entrará por lados opuestos. Alya cuenta con 90 profundos.
+
+El Gremio cuenta con 20 unidades. Los 30 expedicionarios se unirán a un grupo o a otro. Cada schahriar cuentan como 3 unidades, así que 5 schahriars son 15 unidades. Haz tus cuentas a la hora de repartir los contadores de fuerza.
 
 Alya, está totalmente ida, con la mirada perdida, desnuda y cubierta de algas como la gente del mar. Les gritará que se marchen y le dejen cumplir su destino. Ella es la elegida de Bahamūt y nadie la va a parar en su misión de despertar a la princesa de Tadnaar. Déjales intervenir a tus schahriars si quieren hacer algo o decirle algo.
 
 Cuando crean conveniente, tus schahriars deberán "traicionar" al Gremio y a los expedicionarios. La traición debe ser real, así que el Gremio acepta que va a sufrir muchas bajas.
 
-Alya debería ganar sin problemas la batalla, sobre todo con la traición de tus schahriars. Los supervivientes del Gremio huirán y Alya mandará rematar a los heridos. Se acercará a tus schahriars y les dirá: "Sabía que seríais inteligentes, Bahamūt estará contento con vosotros". Les pedirá que la sigan, se han ganado ver como despierta a su señor.
+Alya debería ganar sin problemas la batalla, sobre todo con la traición de tus schahriars. Los supervivientes del Gremio huirán y Alya mandará rematar a los heridos. Se acercará a tus schahriars y les dirá: «Sabía que seríais inteligentes, Bahamūt estará contento con vosotros». 
+
+Les pedirá que la sigan, se han ganado ver como despierta a su señor.
 
 #### El beso
 
@@ -2033,7 +2141,11 @@ Alya debería ganar sin problemas la batalla, sobre todo con la traición de tus
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 345)
 
-Alya entrará en el palacio real y subirá al piso superior acompañada de 5 gentes del mar y tus schahriars y al-Lawati o Assy si se han unido a ellas. Detrás de una gran puerta de oro y plata se esconde el dormitorio donde yace la princesa Tadnaar. Delante de ella hay dos guardias de gran tamaño, uno con un portaalfanje y otro una pica. Ella se acercará y los guardianes se retirarán a un lado y se arrodillarán para terminar desvaneciéndose.
+Alya entrará en el palacio real y subirá al piso superior acompañada de 5 gentes del mar y tus schahriars y al-Lawati o Assy si se han unido a ellas. 
+
+\sp
+
+Detrás de una gran puerta de oro y plata se esconde el dormitorio donde yace la princesa Tadnaar. Delante de ella hay dos guardias de gran tamaño, uno con un portaalfanje y otro una pica. Ella se acercará y los guardianes se retirarán a un lado y se arrodillarán para terminar desvaneciéndose.
 
 Alya se agachará sobre la princesa para darle un beso y en ese momento la princesa Tadnaar será vulnerable. Pueden pillar por sorpresa a todo el grupo y tratar de acabar con Tadnaar antes de que la despierte.
 
@@ -2047,7 +2159,11 @@ Las paredes del castillo empezará a crujir y el edificio se vendrá abajo. Tus 
 
 Tendrán que correr para llegar a la muralla que en ciertas partes está caída y se puede salir por esas zonas. Cuando estén fueras verán como todo colapsa para después desaparecer y dejar solo el desierto.
 
-Si dejan que Alya bese a Tadnaar, esta se despertará y aunque le hagan heridas ya jo podrán hacer nada. Tadnaar se levantará y empezará a transformarse en una versión a tamaño humano de Cthulhu y abrazará a Alya y sus cuerpos se fundirán para después explotar en una especie de agujero de negrura. El agujero empezará a atraer a todo lo que haya alrededor y todo empezará a colapsar.
+Si dejan que Alya bese a Tadnaar, esta se despertará y aunque le hagan heridas ya jo podrán hacer nada. Tadnaar se levantará y empezará a transformarse en una versión a tamaño humano de Cthulhu y abrazará a Alya y sus cuerpos se fundirán para después explotar en una especie de agujero de negrura. 
+
+\sp
+
+El agujero empezará a atraer a todo lo que haya alrededor y todo empezará a colapsar.
 
 Cuando estén fuera verán como el agujero negro se tragará toda la ciudad y no quedará nada de ella. Alya no ha conseguido despertar a Cthulhu, pero ahora está más cerca de la vigilia que del sueño eterno. Cuando se alineen los astros, Cthulhu podrá despertar y acabar con la tierra.
 
@@ -2064,6 +2180,8 @@ Los pocos supervivientes del Gremio darán su eterna gratitud a tus schahriars s
 Las aventuras y desventuras de la expedición correrán como la pólvora por todo Oriente Medio y Norte de África, contado por músicos y cantantes en khans y tabernas. Podrán conseguir bebida y comida gratis si cuentan su historia y tendrán +1 cuando tengan que negociar su sueldo en otras misiones locas como esta aventura. Tener a unos supervivientes de la Ciudad de Bronce
 
 > /s/ **Recompensa de cordura (2):** Librar a toda una ciudad de una maldición tras cruzar alguno de los lugares más peligrosos de la tierra permite ver las cosas con perspectiva y aclarar tus ideas sobre tu vida y el mundo. Todos tus schahriars recuperan dos puntos de cordura.
+
+\sp
 
 ### Otras aventuras
 

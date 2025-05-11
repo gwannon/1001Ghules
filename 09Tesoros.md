@@ -286,31 +286,29 @@ Las capacidades especiales también son una sugerencia. Igual no quieres armas d
 
 Esta ambientación está llena de objetos maravillosos de inmenso poder y muchas veces malditos. Objetos que pueden traerte grandes dones o convertir tu mundo en un infierno en la Tierra. Estos objetos van más allá de alfombras voladoras y lámparas mágicas, estamos hablando de juguetes que te permiten viajar por el espacio (o quizás acabar pedido en la inmensidad del espacio) o armas dignas de dioses que pueden que terminen matando a tus seres queridos.
 
-\sinc
-
 ### Alfombra teleportadora
 
 > Y dijo el vendedor: "¡Tú lo has dicho, señor! ¡Has de saber que, en efecto, esta alfombra está dotada de una virtud invisible que hace que al sentarse en ella sea uno transportado inmediatamente adonde quiera ir, y con tanta rapidez, que se efectúa en menos tiempo del que se tarda en cerrar un ojo y abrir el otro! Y ningún obstáculo es capaz de detenerla en su marcha, porque ante ella se aleja la tempestad, huye la tormenta, se entreabren las montañas y las murallas, y por lo mismo, resultan inútiles y vanos los candados más sólidos. ¡Y tal es ¡oh mi señor! la virtud invisible de esta alfombra de plegaria!"
 > 
 > **Referencia:** Historia de la princesa Nurennahar y de la bella gennia (n. 808)
 
-&nbsp;
-
-\conc
+\sc
 
 Este espectacular alfombra hecha con hilo de oro y plata y la mejor lana de Cachemira es ya espectacular simplemente como objeto decorativo. Pero, es que además, tiene una asombrosa cualidad, permite teleportarse a las personas que se sienten encima a lugar en la Tierra que quieran.
 
 La diferencia con las alfombras voladoras es que esta alfombra se teletransporta a donde sea, con lo que tarda segundos en hacer viajes de varios meses y además evade puertas, candados, rejas. 
 
-\sp
-
 Podría entrar dentro de la sala del tesoro de un califa. Las voladoras se quedarían a las puertas de la cámara, ya que no pueden atravesar puertas candadas.
 
-La alfombra permite viajar con hasta otras 3 personas más el piloto. Necesita extenderse la alfombra en el suelo completamente y sin arrugas antes de poder montarse con ella y teleportarse. Es necesario conocer el lugar de alguna manera, bien porque se ha estado allí o porque se conoce mediante dibujos o descripciones detalladas. El viaje es instantáneo, lo cual la hace una vía de entrada o escape muy rápida, necesitando solo 3 turnos para colocarla en el suelo bien y sentarse o para levantarse y doblarla.
+La alfombra permite viajar con hasta otras 3 personas más el piloto. Necesita extenderse la alfombra en el suelo completamente y sin arrugas antes de poder montarse con ella y teleportarse.
+
+\sp
+
+Es necesario conocer el lugar de alguna manera, bien porque se ha estado allí o porque se conoce mediante dibujos o descripciones detalladas.
+
+El viaje es instantáneo, lo cual la hace una vía de entrada o escape muy rápida, necesitando solo 3 turnos para colocarla en el suelo bien y sentarse o para levantarse y doblarla.
 
 La alfombra cruza por diferentes dimensiones a la velocidad del rayo, para llegar a su destino. Sus pasajeros podrían tener que hacer unas TPC a discreción de Scheherazade por las cosas que vean en los poco que dura el viaje.
-
-\sinc
 
 ### Anillos mágicos
 
@@ -318,13 +316,7 @@ La alfombra cruza por diferentes dimensiones a la velocidad del rayo, para llega
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 774)
 
-&nbsp;
-
-\conc
-
 Los anillos mágicos son uno de los objetos mágicos más comunes de las 1001 Noches y casi siempre están relacionados con genios servidores. Veamos tres ejemplos de anillos mágicos que funcionan exactamente igual que la Lámpara Mágica, pero con "yinns" más o menos poderosos que el genio de la lámpara.
-
-\sp
 
 * El anillo de Aladino. Historia de Aladino y de la lámpara mágica (n. 774)
 * El anillo del Padre de la Dicha. Historia del pastel hilado con miel de abejas y de la esposa calamitosa del zapatero remendón (n. 996)
@@ -333,22 +325,23 @@ Los anillos mágicos son uno de los objetos mágicos más comunes de las 1001 No
 Estos 3 anillos seguirían las mismas reglas generales que la Lámpara Mágica (ver más adelante) pero con algunas especiales propias.
 
 * El anillo de Aladino. El yinn de este anillo no puede hacer nada en contra de los rokhs.
-* El anillo del Padre de la Dicha. Para invocar al servidor de este anillo debes frotar una vez el engarce del anillo, si lo frotas dos veces el anillo se destruye y el yinn se consume. El genio de este anillo no sale del anillo más que para cumplir órdenes y lo hace tan rápidamente que ni se le ve. El anillo también te hace heredero del gran rey y mago Scheddad y su fabuloso tesoro.
 * El anillo de Trueno Penetrante. Trueno Penetrante es un rey entre las tribus de los suyos y muchas de las tareas que se le encarga como construir un palacio en una noche, él, a su vez, se lo ordena a sus súbditos.
+
+\sp
+
+* El anillo del Padre de la Dicha. Para invocar al servidor de este anillo debes frotar una vez el engarce del anillo, si lo frotas dos veces el anillo se destruye y el yinn se consume. El genio de este anillo no sale del anillo más que para cumplir órdenes y lo hace tan rápidamente que ni se le ve. El anillo también te hace heredero del gran rey y mago Scheddad y su fabuloso tesoro.
 
 #### El anillo mágico de Suleimán
 
 Otro anillo terriblemente poderoso es el anillo mágico de Suleimán, que dicen portaba Adam en jardín del Edén. Este anillo terminó heredándolo el poderoso rey-mago Suleimán con el que fue enterrado en una cripta de la isla de los Siete Mares.
 
-La cripta de Suleimán, donde está el cuerpo preservado del Suleimán con el anillo en el índice de una mano y un cetro de oro y rubíes en la otra, está protegida por poderosas trampas mágicas que exigen una serie de ensalmos para desactivarlas. En la sección de la isla de los Siete Mares tienes una explicación de como es la cripta y las trampas que hay en ella.
+La cripta de Suleimán, donde está el cuerpo preservado del Suleimán con el anillo en el índice de una mano y un cetro de oro y rubíes en la otra, está protegida por poderosas trampas mágicas que exigen una serie de ensalmos para desactivarlas.
+
+En la sección de la isla de los Siete Mares tienes una explicación de como es la cripta y las trampas que hay en ella.
 
 En la Historia de Belukia, que es el cuento donde sale este anillo, no se especifica sus poderes, pero teniendo en cuenta que el anillo viene del mismo Adam y lo tuvo el poderoso rey Suleimán, podría hacer cualquier cosa.
 
-\sp
-
 Este objeto puede ser el perfecto Macguffin para tus campañas. Puedes dotarle del poder que tú quieras que no cubran otros objetos como traer a la vida una persona muerta, viajar en el tiempo, alzar a los zombis o liberar a un primigenio de su prisión.
-
-\sinc
 
 ### Armas del príncipe Diamante
 
@@ -356,11 +349,11 @@ Este objeto puede ser el perfecto Macguffin para tus campañas. Puedes dotarle d
 > 
 > **Referencia:** Historia espléndida del príncipe Diamante (n. 910)
 
-&nbsp;
+\sp
 
-\conc
+Estas son las armas que la princesa Gamila entrego al príncipe Diamante para le protegiesen en su aventura en búsqueda de la ciudad de Wakak.
 
-Estas son las armas que la princesa Gamila entrego al príncipe Diamante para le protegiesen en su aventura en búsqueda de la ciudad de Wakak. Son el sueño de cualquier combatiente, ya que con ellas podrían llegar a ser leyendas de la lucha enfrentándose y venciendo a cualquier enemigo.
+Son el sueño de cualquier combatiente, ya que con ellas podrían llegar a ser leyendas de la lucha enfrentándose y venciendo a cualquier enemigo.
 
 Portar, aunque solo sea una de ellas, otorga un gran prestigio y respeto y la gente se pensará muy mucho enfrentarse directamente a ti.
 
@@ -368,15 +361,20 @@ Portar, aunque solo sea una de ellas, otorga un gran prestigio y respeto y la ge
 
 Este arco recurvo con incrustaciones de oro era portado el profeta Saleh mientras predicaba por la península arábiga.
 
-El arco tiene 3 flechas, si disparas una de las 3 flechas con el arco negará cualquier tipo de cobertura física o mágica. El arco y las flechas son irrompibles. Si se lanzan flechas normales se obtiene un +1 a Disparar y al daño.
+El arco tiene 3 flechas, si disparas una de las 3 flechas con el arco negará cualquier tipo de cobertura física o mágica. 
 
-\sp
+El arco y las flechas son irrompibles.
+
+Si se lanzan flechas normales se obtiene un +1 a Disparar y al daño.
 
 #### Escorpión de Suleimán
 
 El Escorpión de Suleimán es un dao de acero con empuñadura de jade. Está tan afilado que podría cortar cualquier cosa.
 
-Niega hasta los 6 puntos de armadura de cualquier tipo, natural, mágica, de obstáculos, etc. Por ejemplo, un qatram con dureza de normal de 18, tendría 14 de dureza si es golpeado por esta espada. La espada quita el bono de 4 de su armadura natural.  
+Niega hasta los 6 puntos de armadura de cualquier tipo, natural, mágica, de obstáculos, etc.
+
+Por ejemplo, un qatram con dureza de normal de 18, tendría 14 de dureza si es golpeado por esta espada. La espada quita el bono de 4 de su armadura natural.
+
 También reduce en 6 puntos la consistencia de los objetos en caso de que quieras romperlos. Unas cadenas de consistencia 12 pasan a tener 6 si son golpeadas con esta hoja.
 
 #### Puñal del sabio Tammuz
@@ -384,22 +382,6 @@ También reduce en 6 puntos la consistencia de los objetos en caso de que quiera
 Este sencillo puñal de acero con empuñadura de sándalo sin ningún tipo de filigrana ni pedrería protege a su portador de los ataques de sus enemigos.
 
 Con solo blandirla, dota a su portador +3 a parada y da Resistencia arcana mejorada.
-
-\sinc
-
-### Caballo de ébano
-
-> … un caballo de madera de ébano, de la calidad más negra y más rara, incrustado de oro y pedrerías, y enjaezado maravillosamente con una silla, una brida y unos estribos como solo llevan los caballos de los reyes. Así es que el rey Sabur quedó maravillado hasta el límite de la maravilla y desconcertado por la belleza y las perfecciones de aquel caballo; luego dijo: "¿Y qué virtudes tiene este caballo de ébano?"  
->   
-> El persa contestó: "¡Oh mi señor! las virtudes que posee este caballo son cosa prodigiosa, hasta el punto de que cuando uno monta en él, parte con su jinete a través de los aires con la rapidez del relámpago, y le lleva a cualquier sitio donde se le guíe, cubriendo en un día distancias que tardaría un año en recorrer un caballo vulgar".
-> 
-> **Referencia:** Historia mágica del caballo de ébano (n. 414-431)
-
-&nbsp;
-
-\conc
-
-El caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada. 
 
 \sp
 
@@ -413,23 +395,37 @@ _El caballo de ébano volando por toda la Tierra._
 
 \sp
 
+### Caballo de ébano
+
+> … un caballo de madera de ébano, de la calidad más negra y más rara, incrustado de oro y pedrerías, y enjaezado maravillosamente con una silla, una brida y unos estribos como solo llevan los caballos de los reyes. Así es que el rey Sabur quedó maravillado hasta el límite de la maravilla y desconcertado por la belleza y las perfecciones de aquel caballo; luego dijo: "¿Y qué virtudes tiene este caballo de ébano?"  
+>   
+> El persa contestó: "¡Oh mi señor! las virtudes que posee este caballo son cosa prodigiosa, hasta el punto de que cuando uno monta en él, parte con su jinete a través de los aires con la rapidez del relámpago, y le lleva a cualquier sitio donde se le guíe, cubriendo en un día distancias que tardaría un año en recorrer un caballo vulgar".
+> 
+> **Referencia:** Historia mágica del caballo de ébano (n. 414-431)
+
+El caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada. 
+
 Tiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata. Es tan realista que si no fuera porque está inmóvil pasaría por real.
 
 Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales.
 
 En este líquido están flotando ciertos órganos extraídos de un ave de Rokh (shantak) que le confieren al caballo algunas de las sus maravillosas propiedades que tiene el caballo.
 
-Al presionar y mover las ruedas, tornillos y palancas que hay escondidas en su cabeza y debajo de la silla, el caballo se estimula diferentes partes de los órganos de ave de Rokh de su interior. Esto le permite elevarse y volar. Se mueve muy rápidamente si se desea, pudiendo recorrer en un día lo que un caballo recorrería en un año.
+Al presionar y mover las ruedas, tornillos y palancas que hay escondidas en su cabeza y debajo de la silla, el caballo se estimula diferentes partes de los órganos de ave de Rokh de su interior.
+
+Esto le permite elevarse y volar. Se mueve muy rápidamente si se desea, pudiendo recorrer en un día lo que un caballo recorrería en un año.
 
 Como el ave de Rokh del que saca sus increíbles capacidades, puedes salir al espacio exterior y viajar a otros planetas sin sufrir ningún daño. Deberás llevar suficientes provisiones y agua para sobrevivir durante lo que dure el viaje.
 
 Es importante saber llegar a ese lugar. No puedes ir a sitios de los que no conoces la ruta de viaje.
 
-A nivel de juego, una persona con Afinidad mágica puede gastar un PP y tras pasar una tirada de Pilotar te llevará en un día máximo a cualquier parte del mundo conocido. Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de Bagdad a Basora podría llevar una hora de viaje.
+\sp
+
+A nivel de juego, una persona con Afinidad mágica puede gastar un PP y tras pasar una tirada de Pilotar te llevará en un día máximo a cualquier parte del mundo conocido.
+
+Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de Bagdad a Basora podría llevar una hora de viaje.
 
 No puede volar con precisión, no podrías elevarte con él y atacar a desde el aire a tus enemigos o escapar de una gruta que está colapsando esquivando piedras que caen del techo. De hecho, no debería usarse en interior, solo al aire libre o en estancias muy grandes con ventanales o claraboyas de gran tamaño, como las estancias del palacio de un califa.
-
-\sp
 
 Si se fracasa la tirada de Pilotar, el caballo se descontrola y los instintos del ave de Rokh hacen que vaya a algún lugar que visito en vida. Deberás hacer una tirada en la Tabla de perdido en el tiempo y el espacio para saber dónde acabas.
 
@@ -448,15 +444,8 @@ Las estatuas ecuestres son objetos de gran poder en las 1001 Noches. Sus orígen
 Las 3 estatuas son:
 
 * **La estatua ecuestre de la montaña del Imán.** Este jinete tiene un gran poder electromagnético que convierte la montaña donde está en un gigantesco imán que atrae todo elemento metálico de los barcos que se le acercan y hace que se hundan. No se sabe muy bien su función, ya que puede ser usado ofensivamente destruyendo a los enemigos o como una herramienta de extracción de metales, incluso una cárcel para algún primigenio magnético.
-
-\sp
-
 * **La estatua ecuestre de la cúpula verde del palacio de las maravillas de Bagdad.** Este jinete avisa de los ejércitos enemigos que quieren atacar la ciudad. Fue creado por el propio Eibon de Mhu Thulan para proteger su torre de mago.
 * **La estatua ecuestre de la Ciudad de Bronce** abre una especie de portal que permite llegar a la mítica Ciudad de Bronce. Esta estatua juega con la geometría euclidiana haciendo que para encontrar la ciudad de Bronce tengas que volver por el camino que has venido tras rodearla. Cuando parece que has dado un giro de 360º y estás volviendo por donde has venido, en realidad solo has girado 180º y continuas por la dirección por la que ibas. Cualquier otra combinación hará que te pierdas irremediablemente.
-
-\sinc
-
-&nbsp;
 
 ### Figura-reloj de pavos reales
 
@@ -466,19 +455,11 @@ Las 3 estatuas son:
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
-&nbsp;
-
-\conc
-
 Esta figura-reloj es el reloj más preciso que existe en el mundo actual y su tecnología está muy avanzada a su tiempo. Aun así, no deja de ser un objeto decorativo muy caro que el califa sacará cuando ponga a tus schahriars una fecha límite para cumplir una tarea.
-
-\sp
 
 Está diseñado para contar horas y también los meses, ya que el reloj marca la luna nueva y calendario árabe es lunar. Es por eso que permite dar desde periodos cortos como horas hasta largos como «hasta la próxima luna llena» o «dentro de dos lunas».
 
 Este objeto no tiene ningún poder en realidad, salvo no necesitar darle cuerda, lo cual en realidad lo convierte en una máquina de movimiento perpetuo. Si algún schahriar lo examina con Ciencias se dará cuenta de que no tienen ningún sentido, se escapa a las leyes básicas de la física y deberá pasar un TPC d6.
-
-\sinc
 
 ### Gorro de cuero mágico
 
@@ -486,19 +467,11 @@ Este objeto no tiene ningún poder en realidad, salvo no necesitar darle cuerda,
 > 
 > **Referencia:** Las aventuras de Hassan Al-Bassri (n. 614)
 
-&nbsp;
-
-\conc
-
 Este gorro de cuero, que parece totalmente normal, otorga, sin embargo, un poder que cualquier ladrón o asesino le gustaría tener. No tienen ningún tipo de sello o símbolo, así que la única forma de saber qué hace es ponérselo.
 
 Gastando un deseo te haces invisible como si hubieras usado el poder de Invisibilidad. No se consigue ninguna ventaja por avances, ni se puede usar modificares de poder. La invisibilidad dura una hora no pudiéndose volver a usar hasta el día siguiente. Ponerse o quitarse el gorro supone una acción. Puedes quitártelo en cualquier momento y hacerte visible y volver a ponértelo y hacerte invisible las veces que quieras mientras dure la hora.
 
 El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llevándolo puesto, es como si te hubiera hecho una herida un Ghūl (Capacidades especiales: Infección).
-
-\sp
-
-\sinc
 
 ### Figura amorfa de oro y joyas con flauta
 
@@ -506,10 +479,6 @@ El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llev
 > Y le dijo el rey Sabur: ’»¡Oh, sabio! ¿para que sirve esta figura?" El sabio contestó: "¡Oh mi señor! esta abominable figura de oro posee una virtud admirable! ¡Si le colocas a la puerta de la ciudad, será un guardián a toda prueba, pues si viniese un enemigo para tomar la plaza, le adivinará a distancia, y soplando en su extraña flauta que tiene a la altura de su rostro, le paralizará y le hará caer muerto de terror!"
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
-
-&nbsp;
-
-\conc
 
 En el mismo estilo de la estatua del guerrero a caballo que corona la cúpula verde del palacio de las Maravillas de Bagdad, esta monstruosa figura de oro de unos 60 cm de altura hace que las milicias atacantes de la puerta donde se halle, caigan muertas de miedo y huyan despavoridas.
 
@@ -523,8 +492,6 @@ De hecho, si se rompiera la figura se vería que está hueca y que en su interio
 
 El propio Nyarlathotep secuestró y entregó a uno de estos seres como parte del pacto que hizo con el alquimista que creo este objeto.
 
-\sp
-
 Al romper la figura y hacer un hechizo de destierro adecuado, la esencia del flautista volvería a la Corte de Azathoth donde tomaría carne de nuevo y volvería a tocar para este caótico dios.
 
 La figura puede detectar fuerzas enemigas a más de 5 kilómetros de distancia y sacará su flauta avisando a los defensores de que se acercan enemigos. Cuando las fuerzas enemigas sean visibles hará sonar su flauta y el comandante del ejército enemigo deberá hacer una tirada opuesta de Espíritu contra d12+4 de la figura.  
@@ -533,23 +500,13 @@ En caso de fallar, el ejército atacante huirá para no volver en mucho tiempo (
 
 La figura solo puede defender una puerta (entiéndase puerta como un lado de la muralla de la ciudad), pero eso no quiere decir que no pueda ponerse en otras puertas de la ciudad.
 
-\sc
-
 [![Silueta Flautista Tolima, Colombia. Gold statuette 1200 B.C. ](./images/flautista.png)](https://www.pinterest.es/pin/713257659705408985/ "Flautista Tolima, Colombia. Gold statuette 1200 B.C. ") 
-
-\sp
-
-\sinc
 
 ### Lámpara mágica
 
 > Cuando estés en esta terraza, ¡oh Aladino! ten cuidado, porque enfrente de ti verás una especie de hornacina al aire libre; y en esta hornacina, sobre un pedestal de bronce, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! Y no temas mancharte el traje, porque el aceite que viertas no será aceite, sino otro líquido que no deja huella alguna en las ropas. ¡Y volverás a mí por el mismo camino que hayas seguido!
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 731-774)
-
-&nbsp;
-
-\conc
 
 [![Aladin Lámpara Milagrosa por Karinamannott](./images/lampara.jpg)](https://pixabay.com/es/photos/aladin-l%C3%A1mpara-milagrosa-magia-2368384/ "Aladin Lámpara Milagrosa por Karinamannott") 
 
@@ -562,8 +519,6 @@ A diferencia de lo que hayas leído, no cumple tres deseos, cumple todas las ór
 Las normas generales del yinn encerrado en la lámpara son:
 
 **En general, no son magos.** No hacen magia como tal, son seres tremendamente poderosos que pueden hacer multitud de cosas, pero aplicando solo sus poderes normales. Si les pides que te construyan un palacio en una noche lo hacen porque son superfuertes y superrápidos.
-
-\sp
 
 Si quieres oro o vino podrán conseguírtelo, pero no pueden convertir el plomo en oro o el agua en vino. Puede bajar al fondo del mar y rescatar un barco hundido, pero no pueden darte agallas para que respires debajo del agua.
 
@@ -581,8 +536,6 @@ El genio de la lámpara es un ser muy poderoso, relegado al oído y a la obedien
 
 Sin saltarse las normas de sus poderes y sus propias reglas, hace de todo por ti hasta que eres adicto y no sabes solucionar tus problemas sin ellos. En ese momento te hace caer en desgracia buscando un resquicio legal a tus órdenes para hundirte en la miseria o incluso acabar con tu vida.
 
-\sp
-
 Quizás si le pides que te haga un palacio lo construirá a propósito más alto que la del califa que enfurecido por tu osadía te haga decapitar. Tal vez al pedir una montaña de oro lo haga caer sobre ti sepultándote en monedas de oro y mueras aplastado.
 
 Acabando contigo no queda libre de su cárcel de cobre, pero puede ganar un tiempo de tranquilidad. Estar siglos en éxtasis dentro de una lámpara de aceite en el estómago podrido de un gusano gargantuesco muerto es mejor que cumplir otra orden de un estúpido humano.
@@ -593,15 +546,9 @@ Acabando contigo no queda libre de su cárcel de cobre, pero puede ganar un tiem
 * Solo aparece si se frota una zona muy concreta de la lámpara. No todo el mundo puede y sabe invocar al genio.
 * La presencia del genio es aterradora para todos los presentes, excepto para el dueño de la lámpara. Provoca un TPC d6 a todos los presentes, excepto a la persona que lo invocó, al que muestra una cara falsa en vez de su auténtica apariencia.
 
-\sinc
-
 ### Lámpara de Alhazred
 
 > El aspecto de la lámpara de Alhazred era poco corriente. Funcionaba con aceite, y parecía ser de oro. Por su forma, se asemejaba a una marmita oblonga, con un asa curvada a un lado y una espita para la llama al otro. Su decoración consistía en unos extraños dibujos, mezclados con letras y colocados de tal manera que parecían formar unas palabras. Pero aquel lenguaje era desconocido para Yassir, que conocía varios dialectos árabes y, sin embargo, no lograba descifrar la inscripción de la lámpara. No era sánscrito. Indudablemente, se trataba de un idioma más antiguo; su escritura se componía de letras y jeroglíficos, algunos de los cuales eran pictografías. Yassir dedicó una tarde entera a limpiarla por dentro y por fuera y, después de haberle sacado brillo, la llenó de aceite.
-
-\conc
-
-\sp
 
 Se dice que se creó en Aram-de-las-columnas por la mítica tribu de los Aads. Se dice que Abdul Alhazred utilizó la luz de esta lámpara de aceite para escribir su impío Necronomicón en sus noches de insomnio.
 
@@ -611,27 +558,14 @@ Encender solo pide a los afines a la magia 1 PP, pero las visiones y las TPC ser
 
 El TPC de las visiones es aleatorio, así que tira un dado de d12, 1-2 el TPC será d4, 3-4 d6, 5-6 d8, 7-8 d10, 9-10 d12, 11 d12+1 y 12 d12+2. La lámpara exige un sacrificio en cordura, si nadie falla la TPC, no ofrecerá visiones hasta la próxima luna nueva.
 
-\sinc
-
 ### Maravillosa manzana curalotodo
 
 > Y dijo el vendedor: "Pues bien, señor; ya que por ti mismo acabas de experimentar efectos tan inesperados aspirando el aroma de esta manzana, has de saber que la tal manzana no es natural, sino fabricada por la mano del hombre; y no es fruto de un árbol ciego e insensible, sino fruto del estudio y las vigilias de un gran sabio, de un filósofo muy célebre, que se pasó toda la vida haciendo investigaciones y experiencias respecto a las virtudes de las plantas y de los minerales. Y logró la composición de esta manzana, que encierra en sí la quintaesencia de todos los cuerpos simples, de todas las plantas útiles y de todos los minerales curativos. 
 En efecto, no hay enfermo, cualquiera que sea la calamidad de que esté afligido, aun cuando se trate de la peste, de la fiebre purpúrea o de la lepra, que no recobre la salud al olerla, aunque esté moribundo. Y tú mismo inclusive acabas de sentir hasta cierto punto su efecto, pues que con su olor se te ha disipado el cansancio del viaje. 
-
-\conc
-
-\sp
-
-\sinc
-
 > Pero, para mayor certeza, quiero que con ella cure ante tus ojos un enfermo aquejado de un mal incurable, a fin de que estés seguro de sus virtudes y propiedades, como lo están todos los habitantes de esta ciudad. \[…\]  
 > Y como para confirmar todo lo bien que hablaban de ella, acertó a pasar por allí un pobre hombre ciego y paralítico, a quien un mozo llevaba a hombros en una banasta. Y el vendedor se acercó a él con viveza y le puso la manzana junto a la nariz. Y de repente el enfermo se levantó en la banasta, y saltando como un gato por encima de la cabeza del que le llevaba, echó a correr, abriendo unos ojos como tizones. Y todo el mundo le vio y dio fe de ello.
 > 
 > **Referencia:** Historia de la princesa Nurennahar y de la bella gennia (n. 809)
-
-&nbsp;
-
-\conc
 
 Esta manzana es una creación de un alquimista que destilo la esencia de miles de plantas y minerales curativos y los combino en este artefacto con forma de manzana.
 
@@ -641,10 +575,6 @@ Oliendo esta manzana durante un turno se curan todas las enfermedades, venenos y
 
 Tiene dos usos diarios, pero si se desea pueden usarse más veces. Cada uso extra tendrá un 5% de fallar (3º intento 5%, 4º intento 10%, 5º intento 15%) y de inutilizar para siempre la manzana maravillosa.
 
-\sp
-
-\sinc
-
 ### El misterioso libro mágico
 
 > Y Giafar y Massrur sostenían sendas antorchas, y el califa cogía libros de los armarios magníficos y de los cofres de madera aromática, y los abría y los cerraba. Y de tal suerte examinó varios estantes, y acabó por echar mano a un libro viejísimo que abrió al azar.
@@ -653,21 +583,11 @@ Tiene dos usos diarios, pero si se desea pueden usarse más veces. Cada uso extr
 > 
 > **Referencia:** Historia del libro mágico (n. 895)
 
-&nbsp;
-
-\conc
-
 Solo el Califa sabe que pone en este antiguo y polvoriento y porque rio y lloró al leerlo. Así que puedes usar este libro como quieras. Quizás leyó la mejor historia del mundo, quizás leyó su futuro o quizás simplemente era un libro de relatos de Howard Phillips Lovecraft perdido en el tiempo y el espacio.
-
-\sinc
 
 ### Saco de arena maldita
 
 > Con unos de sus legamosas extremidades recogió la arena verdosa que acababa de regurgitar y la dejo caer delante del acólito que la recogió con un simple saco de arpillera. Con sus gargantas no humanas pronuncio estas palabras: Esparce mi esencia y profana el poder de la tierra. La tierra, el barro, el fango o las arenas quedará estéril por eones.
-
-\conc
-
-\sp
 
 Este saco de arpillera lleno de una extraña arena que tiene un extraño brillo verdoso dota a la persona que lo porta el poder de controlar la tierra a su voluntad, podrá mover grandes cantidades de roca, moverse a través de la tierra o golpear a sus enemigos con terremotos o lluvias de rocas. Simplemente, hay que sacar un pellizco de arena y dejarlo caer en el suelo.
 
@@ -676,19 +596,11 @@ El saco extrae su poder de la propia tierra convirtiéndola en cenizas estérile
 Cogiendo un pellizco de arena y dejándolo caer en el suelo, puedes lanzar a voluntad y sin gastos de PP los siguientes poderes: Armadura, Barrera, Captura, Cavar, Chorro, Conmoción, Explosión, Manipulación Elemental y Proyectil. Los poderes tendrán siempre un ornamento de piedra y deberás estar en contacto con la tierra (o roca o arena). No se puede usar ni volando, ni en el agua, tampoco sobre superficies no naturales como el asfalto o madera o piedra trabajada. Como habilidad arcana deberá usarse Espíritu y podrán meterse todas las modificaciones que se deseen.  
 Cada vez que se usa el saco y su arena cae en el suelo se crea una área circular de tantas casillas de radio como PP se habrían gastado en el hechizo, se convertirán en cenizas de las que nunca volverá a crecer nada.
 
-\sinc
-
 ### Tesoro de Al-Schamardal
 
 > ¡Es necesario, pues, que aquel de vosotros que desee poseer este libro vaya a abrir el tesoro llamado Al-Schamardal, y me traiga la esfera celeste, la redomita de kohl, el alfanje y el anillo, que todos estos objetos contiene el tesoro! ¡Y son extraordinarias sus virtudes! En efecto, el sello está guardado por un ser más poderoso que el más poderoso de los yinn, cuyo solo nombre da miedo pronunciarlo: se llama Trueno-Penetrante.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 469)
-
-&nbsp;
-
-\conc
-
-\sp
 
 El tesoro de Al-Schamardal es un conjunto de objetos y armas mágicas que convierte a su portador es un ser tremendamente poderoso capaz de acabar con ejércitos y destruir ciudades con solo desearlo, pero a la vez todos estos objetos traen maldiciones y si se abusa de ellos las consecuencias pueden ser catastróficas.
 
@@ -696,18 +608,12 @@ Al-Schamardal fue un poderoso mago de la antigüedad tan poderoso como para crea
 
 Todo su tesoro se encuentra en su tumba, donde su cuerpo incorrupto se encuentra sentado en un trono con sus más ricos ropajes y sus más poderosos objetos mágicos.
 
-\sinc
-
 #### La búsqueda del tesoro
 
 > Juder penetró entonces sin dificultad en la estancia del tesoro, y vio los montones de oro agrupados en apretadas filas; pero se dirigió al pabellón sin prestarles la menor atención, y cuando hubo levantado la cortina, vio al gran adivino Al-Schamardal acostado en el trono de oro, con el alfanje talismánico a la cintura, el anillo en un dedo, la redomita de kohl sujeta al cuello por una cadena de oro, y encima de su cabeza aparecía la esfera celeste, brillante y redonda como la luna.  
 > Entonces se adelantó Juder sin vacilar y quitó del tahalí el alfanje, sacó el anillo talismánico, desató la redoma de kohl, cogió la esfera celeste y retrocedió para salir. Y al punto se hizo oír a su alrededor un concierto de instrumentos que hubo de acompañarle triunfalmente hasta la salida, en tanto que de todos los puntos del tesoro subterráneo se elevaban las voces de los guardianes que le felicitaban gritando: "¡Que te haga buen provecho ¡oh Juder! lo que supiste ganar! ¡Enhorabuena! ¡Enhorabuena!" Y no dejó de tocar la música ni dejaron de felicitarle las voces hasta que estuvo fuera del tesoro subterráneo.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 469)
-
-\conc
-
-\sp
 
 Aunque poco conocida, la "Historia de Juder el pescador o el saco encantado" que narra la búsqueda de tesoro de Al-Schamardal es una de las historias más largas y más complejas de las 1001 Noches, donde la magia, las maldiciones, los objetos mágicos y los seres extraños y poderosos abundan. Por sí sola podría ser una mini-campaña para schahriars experimentados.
 
@@ -727,8 +633,6 @@ Realmente no existen dos carpas rojas, sino dos cilindros cerebrales con las men
 
 Dalila y Adil, que así se llaman los ayudantes de Al-Schamardal, llevan siglos en éxtasis en los cilindros y primero se necesitará encontrar la forma de que puedan comunicar con el exterior.
 
-\sp
-
 Puede conseguirse unos moduladores de voz y unos micrófonos para poder hablar con ellos. La secta de la Progenie es sierva un grupo de al mighos que seguro quieren vender su tecnología a cambio de algún servicio. Otra es buscarle un cuerpo y conseguir que los al mighos lo metan dentro.
 
 El segundo problema es que están muy desubicados y con grandes fallos de memoria. Tienen recelos a hablar y será difícil sacarles respuestas. Se necesitará y buenas tiradas de persuadir para sacarles la ubicación de la tumba de Al-Schamardal.
@@ -747,25 +651,17 @@ Al-Schamardal no construyo la tumba desde cero, sino que aprovecho unas instalac
 
 Lo que para tus schahriars debe parecer un sitio extraño, en realidad es lo que queda de un laboratorio aséptico, con suelos y paredes blancas con carteles de seguridad en Naacal. Todo ello hecho con extraños materiales.
 
-\sp
-
 Las baterías alimentadas por un antiguo reactor nuclear siguen funcionando, ya que el sistema se apaga cuando se cierra el laboratorio. Aun así, los focos parpadearan a veces y habrá puertas que cueste abrir.
 
 Al-Schamardal, junto a su gente, vació de objetos como herramientas, mesas, estanterías, aparatos de investigación, etc., dejando las paredes y el suelo completamente vacíos. Luego lo fue llenando todo con alfombras, tapices, cojines, sacos de joyas y monedas de oro, cuberterías de plata, etc.
 
 Más allá de la última estancia hay una sala de control que Al-Schamardal oculto con una pared falsa (-4 a Notar para encontrarla). En ella estaban los controles de los drones, los proyectores holográficos y un sistema de autodestrucción que ya no funciona en caso de fugas biológicas.
 
-\sinc
-
 ##### La puerta de oro bajo el río
 
 > … Sabe ¡oh Juder! que en cuanto yo me ponga a recitar las fórmulas mágicas sobre el incienso humeante, el agua del río empezará a disminuir poco a poco, y el río acabará por secarse completamente y dejar su lecho al descubierto. Entonces verás que en la pendiente del cauce seco se te aparece una gran puerta de oro, tan alta como la puerta de la ciudad, con dos aldabas del mismo metal. Dirígete a esa puerta y golpéala muy ligeramente con una de las aldabas que tiene en cada hoja, y espera un instante. Llama luego con un segundo aldabonazo más fuerte que el primero, ¡y espera todavía! Después llamarás con un tercer aldabonazo más fuerte que los otros dos, y no te muevas ya. Y cuando hayas llamado así con tres aldabonazos consecutivos, oirás gritar a alguien desde dentro: «¿Quién llama a la puerta de los Tesoros sin saber romper los encantos?» Tú contestarás: «¡Soy Juder el pescador, hijo de Omar, de El Cairo! Y se abrirá la puerta …»
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
-
-&nbsp;
-
-\conc
 
 Hace milenios la entrada de la tumba fue tapada al cambiar el curso de un río cercano a Miknas. Esto hace que solo en caso de sequía se puede acceder a la puerta, la otra opción es usar hechizos de manipulación elemental de agua para abrir las aguas.
 

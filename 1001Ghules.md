@@ -36,7 +36,7 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-04Monstruos.md - REVISAR
+04Monstruos.md|
 
 ***
 
@@ -52,11 +52,11 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-|08CuentosSalvajes.md|
+08CuentosSalvajes.md|
 
 ***
 
-09Tesoros.md|
+|09Tesoros.md|
 
 ***
 

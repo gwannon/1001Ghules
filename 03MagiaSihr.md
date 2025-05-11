@@ -669,7 +669,11 @@ _Poder:_ Adivinación
 > 
 > **Referencia:** Los amores de Zein Al-Mawassif (n. 653)
 
-El mago a maga puede acostarse cerca del lugar, objeto o persona dormida a la que quiere preguntar. Durante el sueño recibe la visita de alguna presencia relacionada que contestará a sus preguntas. También puedes interpretar sueños que te cuenten terceras personas.
+El mago a maga puede acostarse cerca del lugar, objeto o persona dormida a la que quiere preguntar. 
+
+Durante el sueño recibe la visita de alguna presencia relacionada que contestará a sus preguntas. También puedes interpretar sueños que te cuenten terceras personas.
+
+\sc
 
 ### Levantar nasnas
 
@@ -685,7 +689,7 @@ La ventaja del nasnas es que es más poderoso y obtenemos 2 nasnas por cadáver,
 
 _Poder:_ Ceguera
 
-> /p/ Cuando intento acercarse dispuesto a acabar con la existencia de la yinn, esta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.
+> /p/ ... esta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.
 
 La persona que lanza el hechizo empieza a emitir una luz muy potente durante unos instantes que deslumbra al objetivo. 
 
