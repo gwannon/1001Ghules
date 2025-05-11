@@ -425,7 +425,9 @@ A nivel de juego, una persona con Afinidad mágica puede gastar un PP y tras pas
 
 Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de Bagdad a Basora podría llevar una hora de viaje.
 
-No puede volar con precisión, no podrías elevarte con él y atacar a desde el aire a tus enemigos o escapar de una gruta que está colapsando esquivando piedras que caen del techo. De hecho, no debería usarse en interior, solo al aire libre o en estancias muy grandes con ventanales o claraboyas de gran tamaño, como las estancias del palacio de un califa.
+No puede volar con precisión, no podrías elevarte con él y atacar a desde el aire a tus enemigos o escapar de una gruta que está colapsando esquivando piedras que caen del techo.
+
+De hecho, no debería usarse en interior, solo al aire libre o en estancias muy grandes con ventanales o claraboyas de gran tamaño, como las estancias del palacio de un califa.
 
 Si se fracasa la tirada de Pilotar, el caballo se descontrola y los instintos del ave de Rokh hacen que vaya a algún lugar que visito en vida. Deberás hacer una tirada en la Tabla de perdido en el tiempo y el espacio para saber dónde acabas.
 
@@ -439,7 +441,11 @@ Las espuelas, la silla y las riendas no son necesarias para el funcionamiento de
 
 ### Las 3 estatuas ecuestres
 
-Las estatuas ecuestres son objetos de gran poder en las 1001 Noches. Sus orígenes son desconocidos para sus propietarios, pero en realidad son grandes artefactos de los mitos de Cthulhu creados en tiempos antiguos cuando existían Mú o Hiperbórea por poderosos magos para defender sus torres y castillos o derrotar a sus enemigos.
+Las estatuas ecuestres son objetos de gran poder en las 1001 Noches. 
+
+\sp
+
+Sus orígenes son desconocidos para sus propietarios, pero en realidad son grandes artefactos de los mitos de Cthulhu creados en tiempos antiguos cuando existían Mú o Hiperbórea por poderosos magos para defender sus torres y castillos o derrotar a sus enemigos.
 
 Las 3 estatuas son:
 
@@ -455,11 +461,19 @@ Las 3 estatuas son:
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
-Esta figura-reloj es el reloj más preciso que existe en el mundo actual y su tecnología está muy avanzada a su tiempo. Aun así, no deja de ser un objeto decorativo muy caro que el califa sacará cuando ponga a tus schahriars una fecha límite para cumplir una tarea.
+Esta figura-reloj es el reloj más preciso que existe en el mundo actual y su tecnología está muy avanzada a su tiempo.
 
-Está diseñado para contar horas y también los meses, ya que el reloj marca la luna nueva y calendario árabe es lunar. Es por eso que permite dar desde periodos cortos como horas hasta largos como «hasta la próxima luna llena» o «dentro de dos lunas».
+\sp
 
-Este objeto no tiene ningún poder en realidad, salvo no necesitar darle cuerda, lo cual en realidad lo convierte en una máquina de movimiento perpetuo. Si algún schahriar lo examina con Ciencias se dará cuenta de que no tienen ningún sentido, se escapa a las leyes básicas de la física y deberá pasar un TPC d6.
+Aun así, no deja de ser un objeto decorativo muy caro que el califa sacará cuando ponga a tus schahriars una fecha límite para cumplir una tarea.
+
+Está diseñado para contar horas y también los meses, ya que el reloj marca la luna nueva y calendario árabe es lunar.
+
+Es por eso que permite dar desde periodos cortos como horas hasta largos como «hasta la próxima luna llena» o «dentro de dos lunas».
+
+Este objeto no tiene ningún poder en realidad, salvo no necesitar darle cuerda, lo cual en realidad lo convierte en una máquina de movimiento perpetuo.
+
+Si algún schahriar lo examina con Ciencias se dará cuenta de que no tienen ningún sentido, se escapa a las leyes básicas de la física y deberá pasar un TPC d6.
 
 ### Gorro de cuero mágico
 
@@ -467,11 +481,19 @@ Este objeto no tiene ningún poder en realidad, salvo no necesitar darle cuerda,
 > 
 > **Referencia:** Las aventuras de Hassan Al-Bassri (n. 614)
 
+\sc
+
 Este gorro de cuero, que parece totalmente normal, otorga, sin embargo, un poder que cualquier ladrón o asesino le gustaría tener. No tienen ningún tipo de sello o símbolo, así que la única forma de saber qué hace es ponérselo.
 
-Gastando un deseo te haces invisible como si hubieras usado el poder de Invisibilidad. No se consigue ninguna ventaja por avances, ni se puede usar modificares de poder. La invisibilidad dura una hora no pudiéndose volver a usar hasta el día siguiente. Ponerse o quitarse el gorro supone una acción. Puedes quitártelo en cualquier momento y hacerte visible y volver a ponértelo y hacerte invisible las veces que quieras mientras dure la hora.
+Gastando un deseo te haces invisible como si hubieras usado el poder de Invisibilidad. No se consigue ninguna ventaja por avances, ni se puede usar modificadores de poder. 
+
+La invisibilidad dura una hora no pudiéndose volver a usar hasta el día siguiente. Ponerse o quitarse el gorro supone una acción.
+
+Puedes quitártelo en cualquier momento y hacerte visible y volver a ponértelo y hacerte invisible las veces que quieras mientras dure la hora.
 
 El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llevándolo puesto, es como si te hubiera hecho una herida un Ghūl (Capacidades especiales: Infección).
+
+\sp
 
 ### Figura amorfa de oro y joyas con flauta
 
@@ -494,13 +516,17 @@ El propio Nyarlathotep secuestró y entregó a uno de estos seres como parte del
 
 Al romper la figura y hacer un hechizo de destierro adecuado, la esencia del flautista volvería a la Corte de Azathoth donde tomaría carne de nuevo y volvería a tocar para este caótico dios.
 
-La figura puede detectar fuerzas enemigas a más de 5 kilómetros de distancia y sacará su flauta avisando a los defensores de que se acercan enemigos. Cuando las fuerzas enemigas sean visibles hará sonar su flauta y el comandante del ejército enemigo deberá hacer una tirada opuesta de Espíritu contra d12+4 de la figura.  
+La figura puede detectar fuerzas enemigas a más de 5 kilómetros de distancia y sacará su flauta avisando a los defensores de que se acercan enemigos.
+
+\sp
+
+[![Silueta Flautista Tolima, Colombia. Gold statuette 1200 B.C. ](./images/flautista.png)](https://www.pinterest.es/pin/713257659705408985/ "Flautista Tolima, Colombia. Gold statuette 1200 B.C. ") 
+
+Cuando las fuerzas enemigas sean visibles hará sonar su flauta y el comandante del ejército enemigo deberá hacer una tirada opuesta de Espíritu contra d12+4 de la figura.  
 
 En caso de fallar, el ejército atacante huirá para no volver en mucho tiempo (a discreción de Scheherazade). En caso de pasar la tirada tendrán un +2 a todas las tiradas de moral en el combate de masa. Los schahriars pueden tirar, si quieren, independientemente de la del comandante del ejército.  
 
 La figura solo puede defender una puerta (entiéndase puerta como un lado de la muralla de la ciudad), pero eso no quiere decir que no pueda ponerse en otras puertas de la ciudad.
-
-[![Silueta Flautista Tolima, Colombia. Gold statuette 1200 B.C. ](./images/flautista.png)](https://www.pinterest.es/pin/713257659705408985/ "Flautista Tolima, Colombia. Gold statuette 1200 B.C. ") 
 
 ### Lámpara mágica
 
@@ -508,9 +534,19 @@ La figura solo puede defender una puerta (entiéndase puerta como un lado de la 
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 731-774)
 
+La lámpara mágica es quizás el objeto más poderoso y a la vez el más peligroso de todos los que podrás encontrarte en este mundo.
+
+Poderoso porque el yinn que en ella habita es un avatar de Nyarlathotep que puede cumplir todas tus órdenes. Peligroso porque malinterpretará a propósito tus órdenes para corromperte y cuando lo haya hecho para acabar con tu vida.
+
+\sp
+
+\sinc
+
 [![Aladin Lámpara Milagrosa por Karinamannott](./images/lampara.jpg)](https://pixabay.com/es/photos/aladin-l%C3%A1mpara-milagrosa-magia-2368384/ "Aladin Lámpara Milagrosa por Karinamannott") 
 
-La lámpara mágica es quizás el objeto más poderoso y a la vez el más peligroso de todos los que podrás encontrarte en este mundo. Poderoso porque el yinn que en ella habita es un avatar de Nyarlathotep que puede cumplir todas tus órdenes. Peligroso porque malinterpretará a propósito tus órdenes para corromperte y cuando lo haya hecho para acabar con tu vida.
+&nbsp;
+
+\conc
 
 #### Reglas generales de los genios
 
@@ -524,13 +560,17 @@ Si quieres oro o vino podrán conseguírtelo, pero no pueden convertir el plomo 
 
 **No tienen poderes mentales.** No pueden controlar las mentes de la gente, ni hacer visiones, ni retocar los recuerdos. Pueden hacer que la gente te quiera regalándoles oro y joyas en tu nombre, pero nada de magia para que la gente te adore.
 
+\sp
+
 **No tienen poderes sanadores.** Como ya hemos explicado con otros tipos de poderes, podrán llevarte ante el mejor médico del mundo, pero no curarte una herida mágicamente. Tampoco pueden curarte enfermedades, pero sí conseguirte alguna poción sanalotodo. Tampoco pueden trasformar tu cuerpo haciéndote más alto o más guapo, pero podrán buscarte las mejores ropas del mundo y darte los mejores cosméticos.
 
 **Tampoco tienen otros poderes,** como viajar en el tiempo, levantar a los muertos, ver el futuro o el pasado, pero si pueden hablar con todo tipo de seres y tienen gran sabiduría y memoria.
 
 #### Genios como avatares de dioses exteriores
 
-Una forma de integrar los genios de la lámpara dentro de los mitos de Cthulhu es convertirlos en avatares. Los avatares en los mitos son seres de gran poder que representan todo aparte de un dios exterior o primigenio. Suelen ser criaturas con capacidades divinas, pero con limitaciones y reglas como los genios. Es por ello que ambos conceptos se ajustan muy bien. El genio de la lámpara es en este caso un avatar de Nyarlathotep.
+Una forma de integrar los genios de la lámpara dentro de los mitos de Cthulhu es convertirlos en avatares. Los avatares en los mitos son seres de gran poder que representan todo aparte de un dios exterior o primigenio.
+
+Suelen ser criaturas con capacidades divinas, pero con limitaciones y reglas como los genios. Es por ello que ambos conceptos se ajustan muy bien. El genio de la lámpara es en este caso un avatar de Nyarlathotep.
 
 El genio de la lámpara es un ser muy poderoso, relegado al oído y a la obediencia del propietario de la lámpara. Lleva cientos de años sirviendo a los humanos y con el tiempo ha terminado odiándolos y a destruirlos, pero el oído y la obediencia le impide hacerlo. Así busca métodos más sutiles para acabar con su amo.
 
@@ -538,7 +578,11 @@ Sin saltarse las normas de sus poderes y sus propias reglas, hace de todo por ti
 
 Quizás si le pides que te haga un palacio lo construirá a propósito más alto que la del califa que enfurecido por tu osadía te haga decapitar. Tal vez al pedir una montaña de oro lo haga caer sobre ti sepultándote en monedas de oro y mueras aplastado.
 
-Acabando contigo no queda libre de su cárcel de cobre, pero puede ganar un tiempo de tranquilidad. Estar siglos en éxtasis dentro de una lámpara de aceite en el estómago podrido de un gusano gargantuesco muerto es mejor que cumplir otra orden de un estúpido humano.
+Acabando contigo no queda libre de su cárcel de cobre, pero puede ganar un tiempo de tranquilidad.
+
+\sp
+
+Estar siglos en éxtasis dentro de una lámpara de aceite en el estómago podrido de un gusano gargantuesco muerto es mejor que cumplir otra orden de un estúpido humano.
 
 #### Reglas propias del genio de la lámpara:
 
