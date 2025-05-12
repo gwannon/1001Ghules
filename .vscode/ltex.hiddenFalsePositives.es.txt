@@ -1,2 +1,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMap of the Abbasid Caliphate at its greatest extent, c. 850.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q(Partially based on Atlas of World History (2007)\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLa hidromiel pone en éxtasis a la persona que bebe y mientras está en ese estado es inmune a los rigores del viaje espacial.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLa hidromiel no provoca ninguna TPC, pero puedes considerar que el viaje si lo debiera.\\E$"}

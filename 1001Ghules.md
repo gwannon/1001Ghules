@@ -24,35 +24,35 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-01ElMundo.md|
+|01ElMundo.md|
 
 ***
 
-02Reglas.md|
+|02Reglas.md|
 
 ***
 
-03MagiaSihr.md|
+|03MagiaSihr.md|
 
 ***
 
-04Monstruos.md|
+|04Monstruos.md|
 
 ***
 
-05LugaresMiticos.md|
+|05LugaresMiticos.md|
 
 ***
 
-06GuiaViajes.md|
+|06GuiaViajes.md|
 
 ***
 
-07Bagdad.md|
+|07Bagdad.md|
 
 ***
 
-08CuentosSalvajes.md|
+|08CuentosSalvajes.md|
 
 ***
 
@@ -60,15 +60,15 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-10Gentes.md|
+|10Gentes.md|
 
 ***
 
-11Recursos.md|
+|11Recursos.md|
 
 ***
 
-12Epilogo.md|
+|12Epilogo.md|
 
 ***
 
