@@ -3,9 +3,9 @@
 $tags = [
   'HTML' => '',
   'HASH' => date("YmdH"),
-  'TITLE' => "Mil y Un Ghūles: Cuentos Salvajes",
-  'SHORTDESCRIPTION' => 'Aventuras para Mil y Un Ghūles',
-  'DESCRIPTION' => "$ aventuras largas y 20 aventuras cortas de horror cósmico en los cuentos de las Mil y Una Noches.",
+  'TITLE' => "Cuentos Salvajes",
+  'SHORTDESCRIPTION' => 'Mil y Un Ghūles:',
+  'DESCRIPTION' => "Aventuras para 1001 Ghūles",
   'VERSION' => "1.1",
   'LANZAMIENTO' => 'Día del rol gratis 2024',
   "AUTHOR" => "Jorge Monclús Fernández (Gwannon)",

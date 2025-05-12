@@ -3,9 +3,9 @@
 $tags = [
   'HTML' => '',
   'HASH' => date("YmdH"),
-  'TITLE' => ": Recursos",
+  'TITLE' => "Bestias y tesoros",
   'SHORTDESCRIPTION' => 'Mil y Un Ghūles:',
-  'DESCRIPTION' => "Mapas y documentos entregables para los jugadores",
+  'DESCRIPTION' => "Bestiario y tesoros para 1001 Ghūles",
   'VERSION' => "1.1",
   'LANZAMIENTO' => 'Día del rol gratis 2024',
   "AUTHOR" => "Jorge Monclús Fernández (Gwannon)",

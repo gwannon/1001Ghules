@@ -16,7 +16,6 @@ Mil y Un Ghūles: Cuentos salvajes son aventuras para poder jugar relatos de hor
 Este libro contiene:
 
 1.  **4 aventuras de duración media** en para disfrutar plenamente de esta ambientación. Pueden ser interconectadas entre ellas fácilmente. Además, hay **10 aventuras cortas de 1 o 2 sesiones** para jugarlas solas o integrarlas dentro de aventuras más largas.
-
-2. Fichas de los **personajes más importantes de las 4 aventuras** y de personajes icónicos de la ciudad de Bagdad.
+2. Fichas de los **personajes más importantes de las 4 aventuras** y de **personajes icónicos** del mundo de 1001 Ghūles.
 
 Para jugar estas aventuras necesitas el Manual Básico de SWEA y el libro de ambientación de 1001 Ghūles.

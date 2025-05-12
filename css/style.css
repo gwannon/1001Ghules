@@ -394,15 +394,6 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
 
   section:nth-of-type(8) .saltopagina:before,
   section:nth-of-type(8) .saltopagina.even:before {
-    height: 94vh;
-    bottom: calc(6vh + 2px);
-    content: "M \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A a \A s \A \A t \A e \A n \A e \A b \A r \A o \A s \A a \A s \A \A 1 \A 0 \A 0 \A 1 \A \A N \A o \A c \A h \A e \A s ";
-    white-space: pre;
-    background-color: var(--color-green-deepone);
-  }
-
-  section:nth-of-type(9) .saltopagina:before,
-  section:nth-of-type(9) .saltopagina.even:before {
     height: 41vh;
     bottom: calc(59vh + 2px);
     content: "L \A u \A g \A a \A r \A e \A s \A \A m \A í \A t \A i \A c \A o \A s ";
@@ -410,8 +401,8 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     background-color: var(--color-old-gold);
   }
 
-  section:nth-of-type(10) .saltopagina:before,
-  section:nth-of-type(10) .saltopagina.even:before {
+  section:nth-of-type(9) .saltopagina:before,
+  section:nth-of-type(9) .saltopagina.even:before {
     height: 39vh;
     bottom: calc(61vh + 2px);
     content: "G \A u \A í \A a \A \A d \A e \A \A v \A i \A a \A j \A e \A s ";
@@ -419,8 +410,8 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     background-color: var(--color-green-deepone);
   }
 
-  section:nth-of-type(11) .saltopagina:before,
-  section:nth-of-type(11) .saltopagina.even:before {
+  section:nth-of-type(10) .saltopagina:before,
+  section:nth-of-type(10) .saltopagina.even:before {
     height: 20vh;
     bottom: calc(80vh + 2px);
     content: "B \A a \A g \A d \A a \A d ";
@@ -428,20 +419,29 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     background-color: var(--color-green-deepone);
   }
 
-  section:nth-of-type(12) .saltopagina:before,
-  section:nth-of-type(12) .saltopagina.even:before {
+  section:nth-of-type(11) .saltopagina:before,
+  section:nth-of-type(11) .saltopagina.even:before {
     height: 23vh;
     bottom: calc(77vh + 2px);
-    content: "T \A e \A s \A o \A r \A o \A s ";
+    content: "E \A p \A í \A l \A o \A g \A o ";
     white-space: pre;
     background-color: var(--color-green-deepone);
   }
 
-  section:nth-of-type(13) .saltopagina:before,
-  section:nth-of-type(13) .saltopagina.even:before {
+  #Bestiario1001Ghules section:nth-of-type(4) .saltopagina:before,
+  #Bestiario1001Ghules section:nth-of-type(4) .saltopagina.even:before {
+    height: 94vh;
+    bottom: calc(6vh + 2px);
+    content: "M \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A a \A s \A \A t \A e \A n \A e \A b \A r \A o \A s \A a \A s \A \A 1 \A 0 \A 0 \A 1 \A \A N \A o \A c \A h \A e \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  #Bestiario1001Ghules section:nth-of-type(5) .saltopagina:before,
+  #Bestiario1001Ghules section:nth-of-type(5) .saltopagina.even:before {
     height: 23vh;
     bottom: calc(77vh + 2px);
-    content: "E \A p \A í \A l \A o \A g \A o ";
+    content: "T \A e \A s \A o \A r \A o \A s ";
     white-space: pre;
     background-color: var(--color-green-deepone);
   }
@@ -617,30 +617,30 @@ section:nth-of-type(7) > h1:not(section:last-of-type h1):not(section:first-of-ty
 }
 
 section:nth-of-type(8) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/cassim.jpg);
-}
-
-section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/scheherazade-y-shahryar.jpg);
 }
 
-section:nth-of-type(10) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+section:nth-of-type(9) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/tigres.webp);
   background-position: 15% center;
 }
 
-section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+section:nth-of-type(10) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/bagdad.jpg);
   background-position: center top;
 }
 
-section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/alfombra-voladora.jpg);
-}
-
-section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/tanger.jpg);
   background-position: center center;
+}
+
+#Bestiario1001Ghules section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/cassim.jpg);
+}
+
+#Bestiario1001Ghules section:nth-of-type(5) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/alfombra-voladora.jpg);
 }
 
 #Cuentos1001Ghules section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
@@ -662,7 +662,6 @@ section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-t
 /* ----------------- Portada --------------- */
 
 section:first-of-type {
-  --barheight: 230px;
   background: var(--color-black) url(../images/invocacion-nardun.jpg) top center no-repeat;
   background-size: cover;
   color: var(--color-white);
@@ -674,27 +673,25 @@ section:first-of-type {
   align-items: flex-start;
 }
 
+#Bestiario1001Ghules section:first-of-type {
+  background-image: url(../images/cassim.jpg);
+  background-size: cover;
+}
+
+#Cuentos1001Ghules section:first-of-type {
+  background-image: url(../images/arbol-cantor.jpg);
+  background-size: cover;
+}
+
+#Recursos1001Ghules section:first-of-type {
+  background-position: left top;
+  background-image: url(../images/tigres.webp);
+  background-size: cover;
+}
+
 section:first-of-type > * {
   position: relative;
   z-index: 10;
-}
-
-section:first-of-type:before {
-  content: "";
-  display: block;
-  position: absolute;
-  bottom: 0px;
-  left: 0px;
-  width: 100%;
-  height: calc(var(--barheight) + 100px);
-  /*clip-path: polygon(
-    0% 0%,
-    100% 100px,
-    100% 100%,
-    0% 100%
-  );
-  background: #1e271d url(../images/madera.png) top center no-repeat;
-  background-size: 120% auto;*/
 }
 
 section:first-of-type .saltopagina {
@@ -702,18 +699,22 @@ section:first-of-type .saltopagina {
 }
 
 section:first-of-type > * {
-  text-shadow: 0px 0px 5px #000;
+  text-shadow: 0px 0px 3px #000;
+  color: var(--color-gold);
 }
 
 section:first-of-type > h2,
 section:first-of-type > h3 {
   margin: 0 100px 0 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 section:first-of-type > h2 {
   margin-bottom: 40px;
-  max-width: 490px;
   line-height: 120%;
+  margin-top: 20px;
+  font-size: 20px;
 }
 
 section:first-of-type > img {

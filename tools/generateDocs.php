@@ -45,7 +45,7 @@ $html = str_replace("<ul>\n<li><strong>Título:</strong>", "<ul class=\"libro\">
 
 //$html = str_replace("<p><strong>Semilla de aventura:</strong>", "<p class=\"seed\"><strong>Semilla de aventura:</strong>", $html);
 
-file_put_contents(__DIR__ . "/../index.html", $html);
+file_put_contents(__DIR__ . "/../index".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
@@ -60,7 +60,7 @@ $metas .= "InfoValue: ".$tags['KEYWORDS']."\n\n";
 /* -------------------------------------------------------------- */
 $doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
-$doc->loadHTMLFile(__DIR__ . "/../index.html");
+$doc->loadHTMLFile(__DIR__ . "/../index".$argv[1].".html");
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
 $json = [];
