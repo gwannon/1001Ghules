@@ -154,7 +154,7 @@ Giafar fue poseído por un abu-qith, seguramente por su excepcionalidad y su int
 
 \sp
 
-[![Sketch_Dailies: Jafar by giorgiobaroni](./images/giafar.png)](https://www.deviantart.com/giorgiobaroni/art/Sketch-Dailies-Jafar-530933382 "Sketch_Dailies: Jafar by giorgiobaroni") 
+[![Silueta Sketch_Dailies: Jafar by giorgiobaroni](./images/giafar.png)](https://www.deviantart.com/giorgiobaroni/art/Sketch-Dailies-Jafar-530933382 "Sketch_Dailies: Jafar by giorgiobaroni") 
 
 Al devolverle a su cuerpo, el borrado de memoria falló y recuerda retazos de su experiencia, pero su muerte y la caída de su familia quedó grabada en su mente a fuego.
 
@@ -196,7 +196,7 @@ Cuando creció y fue elegida como jefa por su predecesora juro hacer lo que fuer
 
 \sp
 
-[![indi girl por tsynali](./images/fatima.png)](https://www.deviantart.com/tsynali/art/indi-girl-530934040 "indi girl por tsynali") 
+[![Silueta indi girl por tsynali](./images/fatima.png)](https://www.deviantart.com/tsynali/art/indi-girl-530934040 "indi girl por tsynali") 
 
 Se hace mayor y tiene que buscar alguien que la sustituya, quizás alguno de tus schahriars atraiga el interés de Fátimah y herede el cargo.
 
@@ -278,7 +278,7 @@ Por el contrario, es completamente inútil en la ciudad. La gente, el ruido y lo
 
 \sp
 
-[![Traveller by A6A7](./images/al-lawati.jpg)](https://www.deviantart.com/a6a7/art/Traveller-47123209 "Traveller by A6A7") 
+[![Silueta Traveller by A6A7](./images/al-lawati.jpg)](https://www.deviantart.com/a6a7/art/Traveller-47123209 "Traveller by A6A7") 
 
 Siempre va acompañado por su camello Abu. Llevan juntos toda la vida, de hecho, su madre le recuerda que mientras la matrona le ayudaba a dar a luz a Muhammad, su padre ayudaba en el parto de Abu. Un camello vive entre 40 y 50 años, así que estarán juntos mucho tiempo.
 
@@ -392,7 +392,7 @@ Alura se tiró varios años como mercenaria al mejor postor hasta que se encontr
 
 \sp
 
-[![Character Design: Ammani by TheLivingShadow](./images/alura.png)](https://www.deviantart.com/thelivingshadow/art/Character-Design-Ammani-491123317 "Character Design: Ammani by TheLivingShadow") 
+[![Silueta Character Design: Ammani by TheLivingShadow](./images/alura.png)](https://www.deviantart.com/thelivingshadow/art/Character-Design-Ammani-491123317 "Character Design: Ammani by TheLivingShadow") 
 
 Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran don para la táctica y las emboscadas. Sus puntos débiles que no tiene estudios, apenas conoce los números y no sabe leer ni escribir. El otro punto débil es que tiene cero capacidades sociales. No sabe moverse entre sus congéneres y muchas de las aptitudes sociales básicas se le escapan debido a que en su niñez no pudo ponerlas en práctica.
 
@@ -429,7 +429,7 @@ Si quieres granjearte su amistad, no hay nada mejor que regalarle algún tratado
 
 \sp
 
-[![Retrato de Azarquiel. Fundación Española para la Ciencia y la Tecnología, Eulogia Merle.](./images/yacub-abu-yussef.png)](https://en.wikipedia.org/wiki/Al-Zarqali#/media/File:Azarquiel_(MUNCYT,_Eulogia_Merle).jpg "Retrato de Azarquiel. Fundación Española para la Ciencia y la Tecnología, Eulogia Merle.") 
+[![Silueta Retrato de Azarquiel. Fundación Española para la Ciencia y la Tecnología, Eulogia Merle.](./images/yacub-abu-yussef.png)](https://en.wikipedia.org/wiki/Al-Zarqali#/media/File:Azarquiel_(MUNCYT,_Eulogia_Merle).jpg "Retrato de Azarquiel. Fundación Española para la Ciencia y la Tecnología, Eulogia Merle.") 
 
 Por otro lado, si necesitas alguien que te traduzca un manuscrito, Hunayn ibn Ishaq es la persona adecuada.
 
@@ -494,7 +494,7 @@ No es un gran conocedor de lo extraño, pero ha oído cosas y ha visto cosas bas
 
 \sp
 
-[![Abu Nuwas, Drawing by Kahlil Gibran al-Funun](./images/abu-nowas.png)](https://es.wikipedia.org/wiki/Abu_Nuwas#/media/Archivo:Abu_Nuwas.jpg "Abu Nuwas, Drawing by Kahlil Gibran al-Funun") 
+[![Silueta Abu Nuwas, Drawing by Kahlil Gibran al-Funun](./images/abu-nowas.png)](https://es.wikipedia.org/wiki/Abu_Nuwas#/media/Archivo:Abu_Nuwas.jpg "Abu Nuwas, Drawing by Kahlil Gibran al-Funun") 
 
 Abu-Nowas es el ejemplo de artista hedonista y vividor. Para escribir de la vida has de vivirla y Abu-Nowas no solo la vive, la exprime al máximo.
 
@@ -789,7 +789,7 @@ Esperaba convertirse en jefe de la policía, pero cuando el Califa hizo a Hassan
 
 \sp
 
-[![Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido](./images/ayub.png)](https://es.wikipedia.org/wiki/Archivo:Imru_al-Qays.png "Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido") 
+[![Silueta Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido](./images/ayub.png)](https://es.wikipedia.org/wiki/Archivo:Imru_al-Qays.png "Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido") 
 
 Lo bueno es que Ahmad-la-Tiña lo puso como su segundo con un buen sueldo y sin los problemas que traía el cargo de jefe de policía.
 

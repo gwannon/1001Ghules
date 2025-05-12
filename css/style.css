@@ -59,6 +59,12 @@ body {
   background-size: contain;
 }
 
+/*body#Bestiario1001Ghules,
+body#Recursos1001Ghules {
+  background: #fff url(../images/bg.jpg) repeat-y top center;
+  background-size: contain;
+}*/
+
 section > p,
 section > ul,
 section > blockquote,
@@ -490,7 +496,7 @@ body {
 
 .saltopagina:after {
   --size: 30px;
-  font-size: 30px;
+  font-size: 20px;
   font-family: 'Khodijah';
   display: flex;
   justify-content: center;
@@ -577,24 +583,21 @@ table tbody tr>* {
   padding: 5px;
 }
 
-table tbody tr th[rowspan] {
-  background-color: var(--color-sand);
-}
-
 table thead {
-  background-color: var(--color-sand);
+  background-color: var(--color-sunset);
 }
 
 table tbody tr>* {
   transition: all 0.6s;
 }
 
-/*table tbody tr:nth-child(even) {
-  background-color: var(--green-gul);
-}*/
-
 table tbody tr:nth-child(odd) {
   background-color: var(--color-gold);
+}
+
+
+table tbody tr:nth-child(even) {
+  background-color: var(--color-sand);
 }
 
 /* Imágenes de títulos */
@@ -728,7 +731,7 @@ section:first-of-type > img {
 /* ----------------- Contraportada --------------- */
 
 section:last-of-type {
-  --barheight: 560px;
+  --barheight: 580px;
   height: 100vh;
   display: flex;
   background: var(--color-black) url(../images/sol-desierto.jpg) top center no-repeat;
@@ -741,6 +744,18 @@ section:last-of-type {
   align-items: flex-start;
 }
 
+body#Cuentos1001Ghules section:last-of-type {
+  --barheight: 465px;
+}
+
+body#Bestiario1001Ghules section:last-of-type {
+  --barheight: 490px;
+}
+
+body#Recursos1001Ghules section:last-of-type {
+  --barheight: 180px;
+}
+
 section:last-of-type > * {
   position: relative;
   z-index: 10;
@@ -748,7 +763,8 @@ section:last-of-type > * {
 }
 
 section:last-of-type > p {
-  margin: 0 0 0 40px;
+  font-size: 0.9em;
+  margin: 0 30px 0 40px;
 }
 
 section:last-of-type > p > a {
@@ -756,15 +772,15 @@ section:last-of-type > p > a {
 }
 
 section:last-of-type > p:first-of-type {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 500;
-  font-size: 1.2em;
+  font-family: 'Khodijah';
+  font-weight: 400;
+  font-size: 2.2em;
 }
 
 section:last-of-type > p:nth-of-type(2) {
-  font-family: 'Khodijah';
-  font-weight: 400;
-  font-size: 2.5em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
 }
 
 section:last-of-type > p:last-of-type {
@@ -772,8 +788,8 @@ section:last-of-type > p:last-of-type {
 }
 
 section:last-of-type > ol {
+  font-size: 0.9em;
   margin-left: 65px;
-  margin-bottom: 40px;
 }
 
 section:last-of-type > ol > li:not(li:last-of-type) {
