@@ -226,7 +226,7 @@ Construyeron la fabulosa ciudad de Aram-de-las-Columnas gracias a uno de sus gra
 
 > Y para realizar este proyecto, voy a ir a buen paso, lo más de prisa que pueda, al palacio del sultán, en la India, y entraré en el cuerpo de la joven princesa y tomaré posesión de su espíritu momentáneamente. Y de tal suerte, convertida en posesa, parecerá loca a cuantos la rodean, y su padre, el sultán, procurará que la curen los médicos más hábiles de la India. Pero ninguno podrá adivinar la verdadera causa del mal, que será mi presencia en el cuerpo de la joven; y todos los cuidados que con ella tengan fracasarán bajo mi aliento y por mi voluntad. Y entonces te presentarás tú, y serás quien cure a la princesa. 
 > 
-> ¡Y voy a indicarte los medios para ello!" Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: "Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino.
+> ¡Y voy a indicarte los medios para ello! Y tras de hablar así, el genni se sacó del pecho algunas hojas de un árbol desconocido, las cuales me entregó, añadiendo: Una vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven. Y al punto me veré forzado a salir de su cuerpo, y en aquella hora y en aquel instante recobrará ella la razón y tornará a su estado prístino.
 > 
 > **Referencia:** Historia del jinete detrás del cual tocaban saltos indios y chinos (n. 867)
 
@@ -1013,7 +1013,7 @@ El juego es sencillo. Dos equipos de jinetes deben meter una pelota en la porter
 
 \sp
 
-Se supone un deporte de gente civilizada con que los golpes, empujones y las peleas están prohibidas, aunque pueden ocurrir "accidentes graves".
+Se supone un deporte de gente civilizada con que los golpes, empujones y las peleas están prohibidas, aunque pueden ocurrir «accidentes graves».
 
 Alrededor de los partidos de pelota a caballo se mueven negocios, pactos comerciales, se conciertan matrimonios, etc. Más que un deporte es un evento social para la gente pudiente de la ciudad.
 
@@ -1061,8 +1061,8 @@ Dos personas se enzarzan en un combate de presas y llaves dentro de un círculo.
 
 ### El shatranj
 
-> Le hizo, pues, sentarse al lado suyo, y le dijo: "¡Ya Anís! ¡Tengo ganas de distraerme un poco! ¿Sabes jugar al shatranj?" Dijo él: "¡Sí, por cierto!" Y ella hizo señas a una de las jóvenes, quien al punto les llevó un tablero de ébano y marfil con cantoneras de oro, y los peones del shatranj eran rojos y blancos y estaban tallados en rubíes los peones rojos y tallados en cristal de roca los peones blancos. Y le preguntó ella: "¿Quieres los rojos o los blancos?"\[…\]  
-> Entonces le dijo ella: "¡Juguemos todo tu oro contra todo el mío!" Aceptó él, y perdió. Entonces se jugó sus tiendas, sus casas, sus jardines y sus esclavos, y los perdió unos tras de otros. Y ya no le quedó nada entre las manos.
+> Le hizo, pues, sentarse al lado suyo, y le dijo: «¡Ya Anís! ¡Tengo ganas de distraerme un poco! ¿Sabes jugar al shatranj?» Dijo él: «¡Sí, por cierto!» Y ella hizo señas a una de las jóvenes, quien al punto les llevó un tablero de ébano y marfil con cantoneras de oro, y los peones del shatranj eran rojos y blancos y estaban tallados en rubíes los peones rojos y tallados en cristal de roca los peones blancos. Y le preguntó ella: «¿Quieres los rojos o los blancos?»\[…\]  
+> Entonces le dijo ella: «¡Juguemos todo tu oro contra todo el mío!» Aceptó él, y perdió. Entonces se jugó sus tiendas, sus casas, sus jardines y sus esclavos, y los perdió unos tras de otros. Y ya no le quedó nada entre las manos.
 > 
 > **Referencia:** Los amores de Zein Al-Mawassif (n. 655)
 
@@ -1191,7 +1191,7 @@ Aquí tienes más platos referenciados en las 1001 Noches.
 
 \sinc
 
-[![Temple Of Triangle por Typhonart](./images/vieja-ciudad.jpg)](https://www.deviantart.com/typhonart/art/Typhonart-Temple-Of-Triangle-599300492 "Temple Of Triangle por Typhonart") 
+[![Temple Of Triangule por Typhonart](./images/vieja-ciudad.jpg)](https://www.deviantart.com/typhonart/art/Typhonart-Temple-Of-Triangle-599300492 "Temple Of Triangle por Typhonart") 
 
 &nbsp;
 
@@ -1318,7 +1318,7 @@ Normalmente, constaban de varias salas en las que hacer determinadas prácticas,
 
 Los hammames, en principio, no son mixtos con lo que tenemos espacios para hombres y mujeres, pero son comunes los casos en que la gente se cuela sin ser visto o se disfraza del sexo opuesto para entrar y espiar a su pareja, a su pretendiente, etc.
 
-También tienen un carácter erótico y se deja caer que varias escenas hetero u homosexual tienen escenario entre los vapores de sus bañeras, como en la historia del "El mozalbete y el masajista del hammam".
+También tienen un carácter erótico y se deja caer que varias escenas hetero u homosexual tienen escenario entre los vapores de sus bañeras, como en la historia del «El mozalbete y el masajista del hammam».
 
 \sp
 

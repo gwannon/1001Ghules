@@ -86,7 +86,7 @@ En la creación del personaje deberán establecer un destino para su schahriar. 
 
 Cada vez que al schahriar le salga un jóker el Destino se pondrá en movimiento y hará avanzar su historia. Quizás aparezca un familiar desaparecido que le entregue una reliquia familiar y que le ponga en camino o le haga avanzar en el cumplimiento de su destino.
 
-Debería ser inmediato, ya que si es inesperado será más impactante. Es importante que tengas preparados o por lo menos bocetado los destinos de tus schahriars por si sale el jóker de repente en mitad de una noche.
+Debería ser inmediato, ya que si es inesperado será más impactante. Es importante que tengas preparados o por lo menos abocetado los destinos de tus schahriars por si sale el jóker de repente en mitad de una noche.
 
 Pero aquí también jugamos con los Mitos de Cthulhu y lo normal es que todo el mundo acabe muerto o acabe en el maristán. Así que para representar todo esto, Scheherazade deberá elegir un destino aciago asociado al destino que eligió el schahriar.
 
@@ -295,7 +295,7 @@ Por ejemplo, si estás "acostumbrado a los profundos" al ver un profundo (TPC d4
 
 _Prerrequisitos: Novato, Comodín._
 
-Todos los comodines tienen esta ventaja gratuitamente. Representa su capacidad de usar objetos mágicos. Los comodines son persona con un destino más grande que ellos y eso supone que pueden hacer cosas especiales. Solo Alí Babá podía decir "Ábrete, sésamo" y que se abriera la cueva de los 40 ladrones, o solo Aladino estaba destinado a entrar en la cueva de las maravillas y conseguir la lámpara mágica.
+Todos los comodines tienen esta ventaja gratuitamente. Representa su capacidad de usar objetos mágicos. Los comodines son persona con un destino más grande que ellos y eso supone que pueden hacer cosas especiales. Solo Alí Babá podía decir «Ábrete, sésamo» y que se abriera la cueva de los 40 ladrones, o solo Aladino estaba destinado a entrar en la cueva de las maravillas y conseguir la lámpara mágica.
 
 ```
 Activar cualquier objeto mágico y usar sus poderes, exige el gasto de un PP. Este gasto solo se puede hacer estando consciente a no ser que el objeto diga lo contrario. Empiezas también con tanto puntos de poder como nivel de Espíritu. Si tu Espíritu sube también tu PP.
@@ -584,7 +584,7 @@ Dentro del combate a distancia puedes hacer uso de las armas a distancias primit
 
 |Nombre|Descripción|Estadísticas&ast;|
 |---|---|---|
-|Alfanje|Es una espada curvada a una mano de hoja que se ancha hacia la punta, con filo en un solo lado.|Espada larga|
+|Alfanje|Es una espada curvada a una mano de hoja que se ensancha hacia la punta, con filo en un solo lado.|Espada larga|
 |Cimitarra|La cimitarra o shamsir es una hoja curva a una mano con un solo filo.|Espada larga|
 |Jambia|Es una daga curvada con un gran nervio central.|Cuchillo/daga|
 |Shibriya|Es una pequeña daga beduina.|Cuchillo/daga|
@@ -663,7 +663,7 @@ Los lanzadores de chakrams de la India suelen llevar sombreros y turbantes punti
 
 #### Khopesh
 
-Un khopesh es un sable de hoja curva, en forma de "C" o forma de hoz y con el filo en su parte convexa, se popularizó en el Antiguo Egipto, pero se usa en todo Oriente Medio.
+Un khopesh es un sable de hoja curva, en forma de «C» o forma de hoz y con el filo en su parte convexa, se popularizó en el Antiguo Egipto, pero se usa en todo Oriente Medio.
 
 \sp
 
@@ -820,7 +820,7 @@ Como ejemplo, podemos ver el kohl de invisibilidad que permite ser invisible (l�
 
 \conc
 
-Como ya hemos dicho antes, en "Toques de ambientación" los benis pasan a ser deseos, pero si te es muy lioso sigue llamándolos benis. En 1001 Ghūles hay nuevos usos para los deseos (benis) en dos apartados muy importantes de este juego, la magia y la cordura. Debes hacer comprender a tus schahriars que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo si "queda bien" en la historia.
+Como ya hemos dicho antes, en «Toques de ambientación» los benis pasan a ser deseos, pero si te es muy lioso sigue llamándolos benis. En 1001 Ghūles hay nuevos usos para los deseos (benis) en dos apartados muy importantes de este juego, la magia y la cordura. Debes hacer comprender a tus schahriars que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo si «queda bien» en la historia.
 
 * Puedes gastar todos tus deseos (mínimo 1) para lanzar un hechizo/maldición sin necesidad de gastar puntos de poder. Esto supone que se pueden lanzar hechizos sin tener puntos de poder o lanzar hechizos que piden más puntos de poder de los que tienes.
 * Puedes gastar todos tus deseos (mínimo 1) para evitar cualquier maldición que te lancen. Este gasto solo puede hacerse al caerte la maldición. Una vez que la maldición sea efectiva, no podrás usar tus deseos.
