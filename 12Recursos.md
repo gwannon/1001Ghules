@@ -1,10 +1,10 @@
-# Recursos y mapas
+# Mapas y recursos
 
 \sinc
 
 [![Map of Baghdad in (150-300 AH), corresponding to (772-922AD)](./images/bagdad-mapa-color.jpg)](https://www.researchgate.net/figure/Map-of-Baghdad-in-150-300-AH-corresponding-to-772-922AD-12_fig5_339782591 "Map of Baghdad in (150-300 AH), corresponding to (772-922AD)")
 
-_Mapa de Bagdad_
+## Mapa de Bagdad
 
 \conc
 
@@ -14,7 +14,7 @@ _Mapa de Bagdad_
 
 [![Nest por AngelaMaps](./images/nido-rokh.jpg)](https://angelamaps.com/2023/04/01/nest/ "Nest por AngelaMaps")
 
-_Nido de ave de Rokh_
+## Nido de ave de Rokh
 
 \conc
 
@@ -24,7 +24,7 @@ _Nido de ave de Rokh_
 
 [![The Canyon por AngelaMaps](./images/garganta.jpg)](https://angelamaps.com/2020/12/05/the-canyon/ "The Canyon por AngelaMaps")
 
-_La garganta_
+## La garganta
 
 \conc
 
@@ -34,7 +34,7 @@ _La garganta_
 
 [![Bridge Night por AngelaMaps](./images/puente-bagdad.jpg)](https://angelamaps.com/2021/04/14/ten-bridges/ "Bridge Night por AngelaMaps")
 
-_El puente de Bagdad (noche)_
+## El puente de Bagdad (noche)
 
 \conc
 
@@ -44,7 +44,7 @@ _El puente de Bagdad (noche)_
 
 [![Bridge Night por AngelaMaps](./images/puente-bagdad-fuego.jpg)](https://angelamaps.com/2021/04/14/ten-bridges/ "Bridge Night por AngelaMaps")
 
-_Puente de Bagdad en llamas_
+## Puente de Bagdad en llamas
 
 \conc
 
@@ -54,7 +54,7 @@ _Puente de Bagdad en llamas_
 
 [![Pharaoh Tomb por AngelaMaps](./images/tumba-faraon.jpg)](https://angelamaps.com/2021/07/29/pharaoh-tomb/ "Pharaoh Tomb por AngelaMaps")
 
-_Tumba del Faraón_
+## Tumba del Faraón
 
 \conc
 
@@ -64,7 +64,7 @@ _Tumba del Faraón_
 
 [![Desert por AngelaMaps](./images/desierto-ruinas.jpg)](https://angelamaps.com/2023/05/09/desert/ "Desert por AngelaMaps")
 
-_Ruinas en el desierto_
+## Ruinas en el desierto
 
 \conc
 
@@ -74,7 +74,7 @@ _Ruinas en el desierto_
 
 [![Plan of a Safavid era caravanserai in Karaj, Iran.](./images/Carvansara_plan.png)](https://es.wikipedia.org/wiki/Caravasar#/media/Archivo:Carvansara_plan.png "Plan of a Safavid era caravanserai in Karaj, Iran.")
 
-_Plano de un Khan_
+## Plano de un Khan
 
 \conc
 
@@ -84,7 +84,7 @@ _Plano de un Khan_
 
 [![134 Fishers Cove - Elven Tower](./images/pueblo-pescadores.jpg)](https://www.elventower.com/creative-commons-collection-3/ "134 Fishers Cove - Elven Tower")
 
-_Pueblo pesquero del Mar Rojo_
+## Pueblo pesquero del Mar Rojo
 
 \conc
 
@@ -94,7 +94,7 @@ _Pueblo pesquero del Mar Rojo_
 
 [![247 Dust Hole – Desert Encampment - Elven Tower](./images/campamento.jpg)](https://www.elventower.com/creative-commons-collection-3/ "247 Dust Hole – Desert Encampment - Elven Tower")
 
-_Campamento en el desierto_
+## Campamento en el desierto
 
 \conc
 
@@ -104,7 +104,7 @@ _Campamento en el desierto_
 
 [![[MAP] THE TOMB OF DEVAS - Miska Fredman](./images/ruinas-babilonia.webp)](https://www.miskasmaps.com/maps/map-the-tomb-of-devas/ "[MAP] THE TOMB OF DEVAS - Miska Fredman")
 
-_Ruinas de Babilonia_
+## Ruinas de Babilonia
 
 \conc
 
@@ -114,7 +114,7 @@ _Ruinas de Babilonia_
 
 [![Tentacles por AngelaMaps](./images/interior-falak.jpg)](https://angelamaps.com/2024/03/12/tentacles/ "Tentacles por AngelaMaps")
 
-_Cueva de las maravillas - Interior de un falak_
+## Cueva de las maravillas - Interior de un falak
 
 \conc
 
@@ -124,7 +124,7 @@ _Cueva de las maravillas - Interior de un falak_
 
 [![The garden por AngelaMaps](./images/jardines.jpg)](https://angelamaps.com/2024/01/30/the-garden/ "The garden por AngelaMaps")
 
-_Jardines del Palacio de la Eternidad_
+## Jardines del Palacio de la Eternidad
 
 \conc
 
@@ -134,7 +134,7 @@ _Jardines del Palacio de la Eternidad_
 
 [![Great Bazaar por AngelaMaps](./images/gran-bazar.jpg)](https://angelamaps.com/2020/10/31/great-bazaar/ "Great Bazaar por AngelaMaps")
 
-_Calles de un bazar_
+## Calles de un bazar
 
 \conc
 
@@ -294,6 +294,8 @@ _Calles de un bazar_
 \sp
 
 \sinc
+
+## Ayudas varias
 
 |tablasBiblioteca.html|
 
