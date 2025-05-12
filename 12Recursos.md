@@ -290,3 +290,18 @@ _Calles de un bazar_
 > Las ilusiones pueden ser a veces muy realistas y podrían suplantar incluso a mensajeros y oficiales que darían órdenes de atacar objetivos reales.
 > 
 > **Referencia:** El shatranj de Suleimán: Historia del pasillo prohibido de la Casa de la Sabiduría (III)
+\sp
+
+\sinc
+
+|tablasBiblioteca.html|
+
+\conc
+
+\sp
+
+\sinc
+
+|tablasObjetos.html|
+
+\conc

@@ -112,8 +112,8 @@ Originalmente, Jerusalen iba a forma parte de esta ambientación, pero he decidi
 
 Aquí tienes algunas herramientas de seguridad que puedes usar:
 
-* DEVIR
-* NetCon
+* [DEVIR](https://devir.es/herramientas-seguridad-rol)
+* [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
 ### Si algo no te gusta
 
@@ -228,21 +228,5 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [![OPERACIÓN: Tras El Mundo Perdido ](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
 
 **[OPERACIÓN: Tras El Mundo Perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
-
-\conc
-
-\sp
-
-\sinc
-
-|tablasBiblioteca.html|
-
-\conc
-
-\sp
-
-\sinc
-
-|tablasObjetos.html|
 
 \conc

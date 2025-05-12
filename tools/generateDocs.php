@@ -5,6 +5,8 @@ include(__DIR__ ."/config".$argv[1].".php");
 
 use FastVolt\Helper\Markdown;
 
+echo $argv[1]."-----------\n";
+
 /* Generamos el HTML */
 /* -------------------------------------------------------------- */
 $md = file_get_contents(__DIR__ . "/../".$argv[1].".md");
@@ -18,7 +20,7 @@ $mkd = Markdown::new();
 $mkd->setContent($md);
 $tags['HTML'] = $mkd->toHtml();
 $tags['MAINID'] = $argv[1];
-$html = file_get_contents(__DIR__ . "/template.html");
+$html = file_get_contents(__DIR__ . "/template".$argv[1].".html");
 foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
 }
@@ -108,7 +110,7 @@ echo "Indice ".count($json)." items\n";
 /* -------------------------------------------------------------- */
 $indice = "";
 foreach ($json as $item) {
-  if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
+  if(isset($item['tag']) && in_array($item['tag'], explode(",", $tags['INDEXLEVEL']))) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
 }
 $html = str_replace("|INDICE|", $indice, $html);
 

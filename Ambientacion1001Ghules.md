@@ -48,27 +48,15 @@ Sigue leyendo y descúbrelo …
 
 ***
 
-|07Bagdad.md|
+07Bagdad.md|
 
 ***
 
-|08CuentosSalvajes.md|
+09Tesoros.md|
 
 ***
 
-|09Tesoros.md|
-
-***
-
-|10Gentes.md|
-
-***
-
-|11Recursos.md|
-
-***
-
-|12Epilogo.md|
+|11Epilogo.md|
 
 ***
 
@@ -84,6 +72,5 @@ Este libro contiene:
 2.  **Reglas para crear personajes y enfrentarlos a la locura, a la magia y a los monstruos** que pueblan los cuentos de las 1001 Noches y las historias de H. P. Lovecraft.
 3.  Descripción detallada de **10 lugares icónicos** de las 1001 Noches como la Cueva de las Maravillas de Aladino o el Valle de los Diamantes de Sindbad el marino
 4.  Una **amplia descripción de la ciudad de Bagdad** donde poder localizar tus propios cuentos de horror cósmico, con multitud de sitios, personajes, tramas y semillas de aventuras.
-5.  **4 aventuras de duración media** en para disfrutar plenamente de esta ambientación. Pueden ser interconectadas entre ellas fácilmente. Además, hay **10 aventuras cortas de 1 o 2 sesiones** para jugarlas solas o integrarlas dentro de aventuras más largas.
 
 Para jugar esta ambientación solo necesitas el Manual Básico de SWEA.

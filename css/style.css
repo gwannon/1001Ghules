@@ -303,7 +303,8 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
   }
 
   .likeH1 span,
-  .likeH2 span {
+  .likeH2 span,
+  .likeH3 span {
     display: inline-block;
   }
 
@@ -344,7 +345,7 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     text-align: center;
   }
 
-  section:not(section:first-of-type, section:nth-of-type(2), section:nth-of-type(3), section:nth-of-type(4), section:last-of-type ) .saltopagina.even:before {
+  section:not(section:first-of-type, section:nth-of-type(2), section:nth-of-type(3), section:last-of-type ) .saltopagina.even:before {
     left: auto;
     right: 0px;
     clip-path: polygon(
@@ -353,6 +354,15 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
       100% 100%,
       0% calc(100% - var(--padding))      
     );
+  }
+
+  section:nth-of-type(4) .saltopagina:before,
+  section:nth-of-type(4) .saltopagina.even:before {
+    height: 20vh;
+    bottom: calc(80vh + 2px);
+    content: "Y \A \A s \A i";
+    white-space: pre;
+    background-color: var(--color-emerald);
   }
 
   section:nth-of-type(5) .saltopagina:before,
@@ -420,9 +430,9 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
 
   section:nth-of-type(12) .saltopagina:before,
   section:nth-of-type(12) .saltopagina.even:before {
-    height: 43vh;
-    bottom: calc(57vh + 2px);
-    content: "C \A u \A e \A n \A t \A o \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
+    height: 23vh;
+    bottom: calc(77vh + 2px);
+    content: "T \A e \A s \A o \A r \A o \A s ";
     white-space: pre;
     background-color: var(--color-green-deepone);
   }
@@ -431,13 +441,22 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
   section:nth-of-type(13) .saltopagina.even:before {
     height: 23vh;
     bottom: calc(77vh + 2px);
-    content: "T \A e \A s \A o \A r \A o \A s ";
+    content: "E \A p \A í \A l \A o \A g \A o ";
     white-space: pre;
     background-color: var(--color-green-deepone);
   }
 
-  section:nth-of-type(14) .saltopagina:before,
-  section:nth-of-type(14) .saltopagina.even:before {
+  #Cuentos1001Ghules section:nth-of-type(4) .saltopagina:before,
+  #Cuentos1001Ghules section:nth-of-type(4) .saltopagina.even:before {
+    height: 43vh;
+    bottom: calc(57vh + 2px);
+    content: "C \A u \A e \A n \A t \A o \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
+    white-space: pre;
+    background-color: var(--color-green-deepone);
+  }
+
+  #Cuentos1001Ghules section:nth-of-type(5) .saltopagina:before,
+  #Cuentos1001Ghules section:nth-of-type(5) .saltopagina.even:before {
     height: 65vh;
     bottom: calc(35vh + 2px);
     content: "G \A e \A n \A t \A e \A s \A \A d \A e \A \A l \A a \A \A A \A r \A a \A b \A i \A a \A \A m \A í \A t \A i \A c \A a ";
@@ -445,20 +464,11 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     background-color: var(--color-green-deepone);
   }
 
-  section:nth-of-type(15) .saltopagina:before,
-  section:nth-of-type(15) .saltopagina.even:before {
+  #Recursos1001Ghules section:nth-of-type(4) .saltopagina:before,
+  #Recursos1001Ghules section:nth-of-type(4) .saltopagina.even:before {
     height: 43vh;
     bottom: calc(57vh + 2px);
     content: "R \A e \A c \A u \A r \A s \A o \A s \A \A y \A \A m \A a \A p \A a \A s ";
-    white-space: pre;
-    background-color: var(--color-green-deepone);
-  }
-
-  section:nth-of-type(16) .saltopagina:before,
-  section:nth-of-type(16) .saltopagina.even:before {
-    height: 23vh;
-    bottom: calc(77vh + 2px);
-    content: "E \A p \A í \A l \A o \A g \A o ";
     white-space: pre;
     background-color: var(--color-green-deepone);
   }
@@ -511,7 +521,8 @@ section h1 + .saltopagina:after {
 
 /* ----------- Indice -------------------- */
 .likeH1,
-.likeH2 {
+.likeH2,
+.likeH3  {
   display: block;
   cursor: pointer;
   margin: 0 0 1px 0;
@@ -530,8 +541,13 @@ section h1 + .saltopagina:after {
   padding: 0 0 0 15px;
 }
 
+.likeH3 {
+  padding: 0 0 0 30px;
+}
+
 .likeH1 span,
-.likeH2 span {
+.likeH2 span,
+.likeH3 span {
   /*display: none;*/
   float: right;
   margin-right: 5px;
@@ -619,28 +635,27 @@ section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-t
 }
 
 section:nth-of-type(12) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/alfombra-voladora.jpg);
+}
+
+section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+  background-image: url(../images/tanger.jpg);
+  background-position: center center;
+}
+
+#Cuentos1001Ghules section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/ciudad-bronce.jpg);
   background-position: center center;
   background-size: 120% auto;
 }
 
-section:nth-of-type(13) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/alfombra-voladora.jpg);
-  
-}
-
-section:nth-of-type(14) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+#Cuentos1001Ghules section:nth-of-type(5) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/pipa-agua.jpg);
   background-position: center center;
 }
 
-section:nth-of-type(15) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
+#Recursos1001Ghules section:nth-of-type(4) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
   background-image: url(../images/arbol-cantor.jpg);
-  background-position: center center;
-}
-
-section:nth-of-type(16) > h1:not(section:last-of-type h1):not(section:first-of-type h1) {
-  background-image: url(../images/tanger.jpg);
   background-position: center center;
 }
 
