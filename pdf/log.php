@@ -421,6 +421,7 @@ $bots['ips'] = [
   "5.225.20.106", //My IP
   "95.60.100.33", //My IP
   "46.27.198.122", //My IP
+  "47.61.137.64", //My IP
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
