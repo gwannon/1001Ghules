@@ -662,7 +662,7 @@ section:nth-of-type(11) > h1:not(section:last-of-type h1):not(section:first-of-t
 /* ----------------- Portada --------------- */
 
 section:first-of-type {
-  background: var(--color-black) url(../images/invocacion-nardun.jpg) top center no-repeat;
+  background: var(--color-black) url(../images/invocacion-nardun-portada.jpg) top center no-repeat;
   background-size: cover;
   color: var(--color-white);
   box-sizing: border-box;
@@ -684,7 +684,7 @@ section:first-of-type {
 }
 
 #Recursos1001Ghules section:first-of-type {
-  background-position: left top;
+  background-position: 20% top;
   background-image: url(../images/tigres.webp);
   background-size: cover;
 }
@@ -707,7 +707,7 @@ section:first-of-type > h2,
 section:first-of-type > h3 {
   margin: 0 100px 0 40px;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 section:first-of-type > h2 {

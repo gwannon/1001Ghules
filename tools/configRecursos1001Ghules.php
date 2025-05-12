@@ -3,7 +3,7 @@
 $tags = [
   'HTML' => '',
   'HASH' => date("YmdH"),
-  'TITLE' => ": Recursos",
+  'TITLE' => "Recursos",
   'SHORTDESCRIPTION' => 'Mil y Un Ghūles:',
   'DESCRIPTION' => "Mapas y documentos entregables para los jugadores",
   'VERSION' => "1.1",
