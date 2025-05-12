@@ -31,3 +31,7 @@ pdftk 'temp.pdf' update_info_utf8 'metasRecursos1001Ghules.txt' output 'Recursos
 rm metasRecursos1001Ghules.txt
 rm indexRecursos1001Ghules.html
 rm temp.pdf
+
+echo "Comprimir"
+rm 1001Ghules.zip
+zip 1001Ghules.zip *.pdf
