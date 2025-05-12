@@ -154,7 +154,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 * [scheherazade-schariar.jpg](https://es.m.wikipedia.org/wiki/Archivo:Ferdinand_Keller_-_Scheherazade_und_Sultan_Schariar_%281880%29.jpg) por [Ferdinand Keller](https://es.wikipedia.org/wiki/Ferdinand_Keller)
 * [scheherazade-sultan.jpg](https://en.wikipedia.org/wiki/Ren%C3%A9_Bull#/media/File:Sultan_from_arabian_nights.jpg) por [Andrew Lang](https://en.wikipedia.org/wiki/Andrew_Lang)
-* [sindbad.jpg](https://es.wikipedia.org/wiki/Sindbad_el_Marino#/media/Archivo:Sindbad_1.jpg) por [René Bull](https://en.wikipedia.org/wiki/Ren%C3%A9_Bull)
+* [sindbad.jpg](https://upload.wikimedia.org/wikipedia/commons/9/90/Sinbad_1.jpg) por [René Bull](https://en.wikipedia.org/wiki/Ren%C3%A9_Bull)
 * [scheherazade-y-shahryar.jpg](https://commons.wikimedia.org/wiki/File:Marie-%C3%89l%C3%A9onore_Godefroid_-_Scheherazade_and_Shahryar_(One_Thousand_and_One_Nights).jpg) por [Marie-Éléonore Godefroid](https://es.wikipedia.org/wiki/Marie-%C3%89l%C3%A9onore_Godefroid)
 * [sol-desierto.jpg](https://www.freepik.com/free-photo/sunny-day-desert_879675.htm) por [kjpargeter](https://www.freepik.com/author/kjpargeter)
 * [alfombra-voladora.jpg](https://commons.wikimedia.org/wiki/File:Ghalichehe_hazrate_Soleiman-ny.jpg) por [Viktor Vasnetsov](https://commons.wikimedia.org/wiki/Category:Viktor_Vasnetsov)
@@ -162,7 +162,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [ciudad-bronce.jpg](https://www.gutenberg.org/ebooks/51432) por [Edmund Dulac](https://en.wikipedia.org/wiki/Maxfield_Parrish)
 * [tigres.webp](https://arthive.com/es/artists/7411~Rudolph_Ernst/works/251935~Tiger) por [Rudolph Ernst](https://commons.wikimedia.org/wiki/Category:Rudolf_Ernst)
 * [pipa-agua.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Jean-Leon_Gerome_-_Arab_Girl_with_Waterpipe.jpg) por [Jean-Léon Gérôme](https://es.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)
-* [en-desierto.jpg](https://es.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me#/media/Archivo:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_On_the_Desert_-_Walters_3734.jpg) por [Jean-Léon Gérôme](https://es.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)
+* [bagdad.jpg](https://www.gutenberg.org/ebooks/51432) por [Edmund Dulac](https://en.wikipedia.org/wiki/Maxfield_Parrish)
 * [arbol-cantor.jpg](https://en.wikipedia.org/wiki/Maxfield_Parrish#/media/File:Princess_Parizade_Bringing_Home_the_Singing_Tree.jpg) por [Maxfield Parrish](https://en.wikipedia.org/wiki/Maxfield_Parrish)
 * [tanger.jpg](https://collections.artsmia.org/art/1978/convulsionists-of-tangier-eugene-delacroix) por [Eugène Delacroix](https://es.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix)
 * [alquimia.jpg](https://www.gutenberg.org/ebooks/author/40809) por [René Bull](https://en.wikipedia.org/wiki/Ren%C3%A9_Bull)

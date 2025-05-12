@@ -134,7 +134,7 @@ Los propios comerciantes tienen seguridad privada en esta zona día y noche para
 
 #### La escuela de la docta Simpatía
 
-> Ella le contestó: "¡Oh señor! estudié la sintaxis, la poesía, el derecho civil y el derecho general; la música, la astronomía, la geometría, la aritmética, la jurisprudencia desde el punto de vista de las sucesiones, y el arte de descifrar las escrituras mágicas y las inscripciones antiguas. Me sé de memoria el Libro Sublime y puedo leerle de siete maneras distintas; conozco exactamente el número de sus capítulos, de sus versículos, de sus divisiones, de sus diferentes partes y sus combinaciones, y cuantas líneas, palabras, letras consonantes y vocales encierra: recuerdo con precisión qué capítulos se inspiraron y escribieron en la Meca y cuáles otros se dictaron en Medina; no ignoro las leyes y los dogmas, sé distinguirlos con las tradiciones y diferenciar su grado de autenticidad; no soy una profana en lógica, ni en arquitectura, ni en filosofía, como tampoco en lo que afecta a la elocuencia, al lenguaje escogido, a la retórica y a las reglas de los versos, los cuales sé ordenar y medir sin omitir ninguna dificultad en su construcción; sé hacerlos sencillos y fluidos, como también complicados y enrevesados para deleitar solo a las gentes delicadas; y si a veces pongo en ellos oscuridad, es para fijar más la atención y halagar al espíritu, que despliega por último su trama sutil y frágil; en una palabra, aprendí muchas cosas y retuve cuanto aprendí.
+> Ella le contestó: «¡Oh señor! estudié la sintaxis, la poesía, el derecho civil y el derecho general; la música, la astronomía, la geometría, la aritmética, la jurisprudencia desde el punto de vista de las sucesiones, y el arte de descifrar las escrituras mágicas y las inscripciones antiguas. Me sé de memoria el Libro Sublime y puedo leerle de siete maneras distintas; conozco exactamente el número de sus capítulos, de sus versículos, de sus divisiones, de sus diferentes partes y sus combinaciones, y cuantas líneas, palabras, letras consonantes y vocales encierra: recuerdo con precisión qué capítulos se inspiraron y escribieron en la Meca y cuáles otros se dictaron en Medina; no ignoro las leyes y los dogmas, sé distinguirlos con las tradiciones y diferenciar su grado de autenticidad; no soy una profana en lógica, ni en arquitectura, ni en filosofía, como tampoco en lo que afecta a la elocuencia, al lenguaje escogido, a la retórica y a las reglas de los versos, los cuales sé ordenar y medir sin omitir ninguna dificultad en su construcción; sé hacerlos sencillos y fluidos, como también complicados y enrevesados para deleitar solo a las gentes delicadas; y si a veces pongo en ellos oscuridad, es para fijar más la atención y halagar al espíritu, que despliega por último su trama sutil y frágil; en una palabra, aprendí muchas cosas y retuve cuanto aprendí.
 > 
 > **Referencia:** Historia de la docta Simpatía (n. 270)
 
@@ -204,7 +204,7 @@ Las infraestructuras municipales son buenas y la guardia de la ciudad vigila las
 > 
 > **Referencia:** Historia de Dulce-Amiga (n. 35)
 
-Este palacio de nueva construcción a orillas del Tigris es un intento del Califa del huir del calor insoportable de la ciudad de Bagdad, a la que cariñosamente llama la "sauna". Es por ello que lo escribió cerca del frescor del río, pero lejos de los mosquitos de sus orillas.
+Este palacio de nueva construcción a orillas del Tigris es un intento del Califa del huir del calor insoportable de la ciudad de Bagdad, a la que cariñosamente llama la «sauna». Es por ello que lo escribió cerca del frescor del río, pero lejos de los mosquitos de sus orillas.
 
 Saliendo por la puerta de Jorasán en dirección al puente de Bagdad podemos llegar a este palacio. De hecho, su cercanía con el puente hace que muchas de sus aventuras nocturnas empiecen en el puente lleno siempre de actividad.
 
@@ -266,7 +266,7 @@ Este animado local es uno de los más populares de la ciudad. Buena comida, buen
 
 La taberna de una sola planta tiene una zona central con mesas y luego alrededor varias salas privadas que pueden ser alquiladas. Abraham, además, ofrece banquetes, músicos y bailarines para las celebraciones privadas.
 
-Cuentan los parroquianos que el Califa suele visitar esta taberna disfrazados de mercader. Si pasas el suficiente tiempo en su interior, podrías encontrarte con el Califa e invitarle a una ronda para ganarte su amistad.
+Cuentan los parroquianos que el Califa, disfrazado de mercader, suele visitar esta taberna. Si pasas el suficiente tiempo en su interior, podrías encontrarte con el Califa e invitarle a una ronda para ganarte su amistad.
 
 #### Bimaristán Adudi
 
@@ -376,8 +376,7 @@ En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que
 Neima es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella «verdadero talento».
 
 ```
-**Clases de danza:** Por unos 2500 dinares y dos semanas de entrenamiento intensivo, mejorará el valor de Interpretación del schahriar en un nivel de dado cuando baile. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance.  
-Para que te acepte en su escuela deberás demostrar que tienes mucho dinero o un mínimo de d6 en Interpretación.
+**Clases de danza:** Por unos 2500 dinares y dos semanas de entrenamiento intensivo, mejorará el valor de Interpretación del schahriar en un nivel de dado cuando baile. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance. Para que te acepte en su escuela deberás demostrar que tienes mucho dinero o un mínimo de d6 en Interpretación.
 ```
 
 \sp
@@ -388,7 +387,7 @@ Para que te acepte en su escuela deberás demostrar que tienes mucho dinero o un
 
 ## Las puertas y los caminos de entrada a la ciudad## 
 
-> "¡Apresurémonos, pues, a llegar a Bagdad antes de que cierren las puertas! ¡Porque has de saber, hijo mío, que el califa manda cerrar todas las noches las puertas de la ciudad con el fin de impedir que las hordas fanáticas entren a escondidas y se apoderen de los libros de la ciencia y de los manuscritos literarios encerrados en las salas de las escuelas, arrojándolos luego al Tigris!"
+> «¡Apresurémonos, pues, a llegar a Bagdad antes de que cierren las puertas! ¡Porque has de saber, hijo mío, que el califa manda cerrar todas las noches las puertas de la ciudad con el fin de impedir que las hordas fanáticas entren a escondidas y se apoderen de los libros de la ciencia y de los manuscritos literarios encerrados en las salas de las escuelas, arrojándolos luego al Tigris!»
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 259)
 
@@ -527,7 +526,7 @@ El califa ha mandado varias veces a su guardia a intentar acabar con esos necró
 
 ### La guarida de Bahram el Gauro y fosa común de la mayoría de sus víctimas
 
-Al sur de la ciudad de Bagdad, a medio día de camino, en una zona rocosa, Bahram el Gauro tiene una guarida secreta. Es una cueva natural que abre y cierra con las palabras mágicas "Ábrete, sésamo". En su interior tiene todo tipo de utensilios y productos alquímicos, grimorios, mesas de trabajo, etc. También tiene una zona de descanso con un camastro y raciones de comida y agua para varios días.
+Al sur de la ciudad de Bagdad, a medio día de camino, en una zona rocosa, Bahram el Gauro tiene una guarida secreta. Es una cueva natural que abre y cierra con las palabras mágicas «Ábrete, sésamo». En su interior tiene todo tipo de utensilios y productos alquímicos, grimorios, mesas de trabajo, etc. También tiene una zona de descanso con un camastro y raciones de comida y agua para varios días.
 
 \sp
 
@@ -557,7 +556,7 @@ No necesita combustible y ni se apaga ni se hace más grande, pero sí quema. Se
 
 No lejos de su guarida, entre unos peñascos hay una profunda cueva donde Bahram se deshace de los cadáveres de sus víctimas. En condiciones normales se desharía de los cuerpos en el desierto, pero cuando sus macabros asesinatos son cerca de Bagdad, suele deshacerse del cadáver en esta fosa común.
 
-Además, este "cementerio" le nutre, si lo necesita, de cadáveres para sus impíos rituales y no es la primera vez que usa los restos de cadáveres para alimentar a diferentes seres de otros planos o para levantar nasnas que le protejan.
+Además, este «cementerio» le nutre, si lo necesita, de cadáveres para sus impíos rituales y no es la primera vez que usa los restos de cadáveres para alimentar a diferentes seres de otros planos o para levantar nasnas que le protejan.
 
 \sp
 
@@ -571,7 +570,7 @@ En los territorios cercanos a Bagdad (a menos de una semana a caballo o camello)
 
 ### El Valle de los perros
 
-> "Mejor será hijo mío, seguir hasta Bagdad esta misma noche, sin detenernos a acampar aquí. ¡Porque el lugar en que estamos es el más peligroso de todo el viaje! ¡Es el valle de los Perros! ¡Hay gran riesgo de que nos ataquen si permanecemos aquí durante la noche!"
+> «Mejor será hijo mío, seguir hasta Bagdad esta misma noche, sin detenernos a acampar aquí. ¡Porque el lugar en que estamos es el más peligroso de todo el viaje! ¡Es el valle de los Perros! ¡Hay gran riesgo de que nos ataquen si permanecemos aquí durante la noche!»
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 259)
 
@@ -904,6 +903,8 @@ Fátimah es la líder por derecho propio del Pequeño Consejo. Es la más sabia 
 
 Fátimah hace trabajos para el visir Giafar, pero desconoce el alcance de la organización. Giafar piensa que son 4 niños y niñas de las calles que han formado una banda.
 
+\sc
+
 ### La caja de resistencia
 
 El Pequeño Consejo tiene una caja de resistencia que los mayores pueden usar para pagar curanderos cuando alguien cae enfermo o para comprar comida a quien no ha podido conseguir dinero. En cada reunión mensual todo el mundo pone 5 dinares. La caja tiene de media unos 2.000 dinares y Fátimah no duda en hacer uso de ello cuando es necesario.
@@ -952,7 +953,7 @@ También sabe que un terrible destino acecha a la ciudad de Bagdad, pero ahí, e
 
 \sp
 
-> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel Alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fue la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: "¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!" Y Al-Raschid, muy pálido, dijo: "¡Has hecho bien!" Pero se le oyó que murmuraba: "¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!"
+> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel Alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fue la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: «¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!» Y Al-Raschid, muy pálido, dijo: «¡Has hecho bien!» Pero se le oyó que murmuraba: «¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!»
 > 
 > **Referencia:** El fin de Giafar y de los barmáquidas (n. 995)
 

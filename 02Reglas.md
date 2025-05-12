@@ -8,19 +8,19 @@
 
 Hay una serie de conceptos que son importantes para que tus aventuras tenga un toque a las Mil y Una Noches y le resulte diferente a tu mesa. Son cosas pequeñas, pero que creo sinceramente que pueden hacer las sesiones diferentes.
 
-En esta ambientación de las 1001 Noches como contador de historias no serás master o DJ sino Scheherazade y las personas de tu mesa serán schahriars, en referencia al sultán al que Scheherazade le contaba cada noche un cuento.
+En esta ambientación de las 1001 Noches como contador de historias no serás máster o DJ sino Scheherazade y las personas de tu mesa serán schahriars, en referencia al sultán al que Scheherazade le contaba cada noche un cuento.
 
 Nos referiremos como «noche» a cada sesión y como cada noche tienes 3 benis para usar deberías llamarlos «deseos». De forma que cuando tus schahriars gasten un beni digan «Voy a gastar un deseo».
 
 Como Scheherazade, todas las primeras sesiones de un cuento salvaje deberían empezar con:
 
-> Y Scheherazade dijo: ¡oh rey afortunado! Creo que ha llegado el momento de contaros la historia de "Título del cuento salvaje"
+> Y Scheherazade dijo: ¡oh rey afortunado! Creo que ha llegado el momento de contaros la historia de «Título del cuento salvaje»
 
-> Y Scheherazade dijo: No creas ¡oh rey afortunado! que ninguna historia es comparable a "Título del cuento salvaje"
+> Y Scheherazade dijo: No creas ¡oh rey afortunado! que ninguna historia es comparable a «Título del cuento salvaje»
 
 El resto de sesiones deberían empezar con:
 
-> Pero cuando llego la X.ª noche ella dijo: He llegado á saber, ¡oh rey afortunado! que …
+> Pero cuando llego la X.ª noche ella dijo: He llegado a saber, ¡oh rey afortunado! que …
 
 Es interesante que lleves la cuenta del número de noche o si no invéntatelo.
 
@@ -48,7 +48,7 @@ Hay una serie de reglas en esta ambientación que modifican las normas generales
 
 * No existen habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que no hay vehículos autopropulsados, equipos eléctricos u ordenadores.
 * Pilotar es una habilidad que no se puede aprenderse en la creación. Solo podrá gastar avances en ella si tenemos algún ingenio volador, por ejemplo, alfombras mágicas o caballos mecánicos voladores.
-* Todos los schahriars empiezan con habilidades de idiomas. Su idioma nativo a nivel de su Astucia y otro idioma a su Astucia -1 nivel (mínimo d4).
+* Todos los schahriars empiezan con habilidades de idiomas. Su idioma nativo con un nivel igual a su Astucia y otro idioma a su Astucia -1 nivel (mínimo d4).
 * Todos los comodines empiezan con la ventaja Afinidad mágica.
 
 \sc
@@ -150,7 +150,7 @@ Adicionalmente, no sabes identificar cosas valiosas, ya que nunca las has conoci
 
 ### Trastornos mentales
 
-Todo el sistema de horror/cordura típica de los juegos basados en la obra de Lovecraft se basa en trastornos mentales que vayan lastrando a tu personaje hasta acabar locos en un callejón oscuro de Bagdad gritando a los viandantes sobre que su fin se acerca y las estrellas estarán pronto en la posición correcta.
+Todo el sistema de horror/cordura típico de los juegos basados en la obra de Lovecraft se basa en trastornos mentales que vayan lastrando a tu personaje hasta acabar locos en un callejón oscuro de Bagdad, gritando a los viandantes sobre que su fin se acerca y las estrellas estarán pronto en la posición correcta.
 
 Todos estos trastornos mentales debemos tratarlos como desventajas y se les aplican todas las reglas de las desventajas.
 
@@ -509,7 +509,7 @@ La TPC del monstruo es específica para cada schahriar, pero solo debe hacerse u
 
 ### Modificaciones de las TPC
 
-Las TPCs pueden ser modificadas en determinadas situaciones.
+Las TPC pueden ser modificadas en determinadas situaciones.
 
 * **Grandes grupos:** Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
 * **Acostumbrarse:** Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.
@@ -751,24 +751,24 @@ A discreción de Scheherazade, puede usarse en rituales para conectar con entida
 
 #### Bang cretense
 
-> … "¡Oh efrit del anillo! ¿conoces las diversas especies de polvos soporíferos?" El efrit contestó: "Es lo que mejor conozco!" Aladino dijo: "¡En ese caso te ordeno que me traigas una onza de bang cretense, una sola toma del cual sea capaz de derribar a un elefante!" Y desapareció el efrit, pero para volver al cabo de un momento, llevando en los dedos una cajita, que entregó a Aladino, diciéndole: "¡Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina!" … Y se fue.
+> … «¡Oh efrit del anillo! ¿conoces las diversas especies de polvos soporíferos?» El efrit contestó: «¡Es lo que mejor conozco!» Aladino dijo: «¡En ese caso te ordeno que me traigas una onza de bang cretense, una sola toma del cual sea capaz de derribar a un elefante!» Y desapareció el efrit, pero para volver al cabo de un momento, llevando en los dedos una cajita, que entregó a Aladino, diciéndole: «Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina». Y se fue.
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 769)
 
-El bang es un poderoso veneno **incapacitante muy poderoso (-4 Vigor)**, de hecho, es tan potente que puede dejar KO a un elefante. Se puede tomar en la comida o en la bebida y deja **inconsciente a la víctima durante 2d6 horas**. Se puede usar otra sustancia llamada anti-bang que despierta (tirada de Vigor +4) al momento a la persona envenenada.
+El bang es un poderoso veneno **incapacitante muy poderoso (-4 Vigor)**, de hecho, es tan potente que puede dejar inconsciente a un elefante. Se puede tomar en la comida o en la bebida y deja **inconsciente a la víctima durante 2d6 horas**. Se puede usar otra sustancia llamada anti-bang que despierta (tirada de Vigor +4) al momento a la persona envenenada.
 
 \sp
 
 #### Afrodisíaco
 
-> Tomó dos onzas de zumo de copaiba china, una onza de extracto graso de cáñamo jónico, una de cariofilina fresca, una de cinamomo rojo de Serendib, diez dracmas de cardamomo blando de Malabar, cinco de jengibre indio, cinco de pimienta blanca, cinco de pimentón de las islas, una onza de boyas estrelladas de badián de la india y media onza de tomillo de las montañas. Mezclólo todo diestramente, después de machacarlo y pasarlo por el tamiz, le echó miel pura, y así formó una pasta muy compacta, a la cual añadió cinco gramos de almizcle y una onza de huevos de pescado machacadas. Le añadió también un poco de julepe ligero de agua de rosa, y lo puso todo en el tazón de porcelana. \[…\]  
-> Y si con todo eso no llegas hasta atravesar las paredes y fecundar un peñasco pelado, consiento en afeitarme la barba y los bigotes y te permito que me escupas en la cara".
+> Tomó dos onzas de zumo de copaiba china, una onza de extracto graso de cáñamo jónico, una de cariofilina fresca, una de cinamomo rojo de Serendib, diez dracmas de cardamomo blando de Malabar, cinco de jengibre indio, cinco de pimienta blanca, cinco de pimentón de las islas, una onza de boyas estrelladas de badián de la india y media onza de tomillo de las montañas. Mezclólo todo diestramente, después de machacarlo y pasarlo por el tamiz, le echó miel pura, y así formó una pasta muy compacta, a la cual añadió cinco gramos de almizcle y una onza de huevas de pescado machacadas. Le añadió también un poco de julepe ligero de agua de rosa, y lo puso todo en el tazón de porcelana. \[…\]  
+> «Y si con todo eso no llegas hasta atravesar las paredes y fecundar un peñasco pelado, consiento en afeitarme la barba y los bigotes y te permito que me escupas en la cara».
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 251-252)
 
 En bastantes historias de las 1001 Noches se practica sexo y en mucha de ellas, los participantes, casi siempre hombres, toman sustancias afrodisíacas para aumentar la virilidad.
 
-Como Scheherazade deberás decidir si son simples engañabobos o si funcionan y en caso de funcionar que efectos tienen a nivel de historia y de mecánicas de juegos.
+Como Scheherazade deberás decidir si son simples engañabobos o si funcionan y en caso de funcionar que efectos tienen dentro de la historia y que mecánica de juego se aplica.
 
 ### Otros objetos
 
@@ -786,7 +786,7 @@ El agua de rosas es un destilado mediante un alambique de pétalos de rosas. Se 
 
 #### Agua regía
 
-El agua regia es una disolución altamente corrosiva y fumante, de color amarillo, formada por la mezcla de ácido nítrico y ácido clorhídrico.Es una de las pocas mezclas capaces de disolver el oro, el platino y el resto de los metales.
+El agua regia es una disolución altamente corrosiva y fumante, de color amarillo, formada por la mezcla de ácido nítrico y ácido clorhídrico. Es una de las pocas mezclas capaces de disolver el oro, el platino y el resto de los metales.
 
 \sp
 

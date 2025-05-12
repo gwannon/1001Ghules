@@ -12,3 +12,23 @@
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QLa principal diferencia entre el zoco y el bazar es que el zoco está formado por un conjunto de calles abiertas que a veces están cubiertas, mientras que el bazar es un lugar cerrado, la mayoría de espacios está cubierto y las puertas de acceso se cierran cuando termina la actividad del día.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGnarled Monster - Doré, Gustave\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\Qhasta tamaño del grupo (0) d4 d6 d8 d10 d12\nhasta tamaño del grupo x 2 (+1) d6 d8 d10 d12 d12+1\nhasta tamaño del grupo x 5 (+2) d8 d10 d12 d12+1 d12+2\nhasta tamaño del grupo x 10 (+3) d10 d12 d12+1 d12+2 d12+3\nhasta tamaño del grupo x 20 (+5) d12 d12+1 12+2 d12+3 d12+4\nhasta tamaño del grupo x 50 (+6) d12+1 d12+2 d12+3 d12+4 d12+5\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QNo creas ¡oh rey afortunado! que ninguna historia es comparable a «Título del cuento salvaje»\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPero cuando llego la X.ª noche ella dijo:\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¡Oh rey! veo que este cuento os ha satisfecho gratamente, pero nada es comparable con el que quiero contarte la próxima noche.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QCuan grato ¡oh rey! es ver que mi cuento os ha llenado de dicha, pero espero que el cuento de la próxima noche os haga más dichoso.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QHe llegado á saber, ¡oh rey afortunado! que …\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QHe llegado a saber, ¡oh rey afortunado! que …\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QTodo el sistema de horror/cordura típico de los juegos basados en la obra de Lovecraft se basa en trastornos mentales que vayan lastrando a tu personaje hasta acabar locos en un callejón oscuro de Bagdad, gritando a los viandantes sobre que su fin se acerca y las estrellas estarán pronto en la posición correcta.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QR’lyehiano, el idioma hablado por las gentes del mar.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QR’lyehiano, el idioma hablado por las gentes del mar.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QFUE+d8 d8 1,5 350\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina!».\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh efrit del anillo! ¿conoces las diversas especies de polvos soporíferos?» El efrit contestó:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qentraron en el hammam, y se bañaron con agua de rosas y con agua de flores y con agua de sauce aromático y con agua perfumada de almizcle, y se quemó a sus pies madera de aigle y de áloe.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFue descubierto alrededor del año 800 por el alquimista persa Jabir ibn Hayyan.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHe Paid for His Purchase - Rhead, Louis\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QCon lo cual la buena dama vistió a Feliz-Bello con ropas de mujer que había llevado, y le alargó los ojos con kohl, y agrandó y ennegreció el lunar de la mejilla, y después le puso brazaletes en las muñecas, y le colocó alhajas en la cabellera cubierta con un velo de Mosul, y hecho aquello echó la última ojeada a su tocado, y le pareció que estaba encantador así y mucho más hermoso que todas las mujeres juntas del palacio del sultán.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«Aquí tienes, ¡oh amo del anillo! bang cretense de la calidad más fina».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Qyakhchal or icehouse (exterior), Meybod, Iran.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q¡Porque has de saber, hijo mío, que el califa manda cerrar todas las noches las puertas de la ciudad con el fin de impedir que las hordas fanáticas entren a escondidas y se apoderen de los libros de la ciencia y de los manuscritos literarios encerrados en las salas de las escuelas, arrojándolos luego al Tigris!»\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QProfesor Bordo Antiguo Salón De by AidaPoppy\\E$"}
