@@ -175,6 +175,10 @@ pre:after {
   right: calc(var(--patternsize) * -1);
 }
 
+p.smallnote {
+  font-size: 0.8em;
+}
+
 ul,
 ol {
   padding-left: 19px;
@@ -677,7 +681,7 @@ section:first-of-type {
 }
 
 #Bestiario1001Ghules section:first-of-type {
-  background-image: url(../images/cassim.jpg);
+  background-image: url(../images/cassim-portada.jpg);
   background-size: cover;
 }
 
@@ -688,7 +692,7 @@ section:first-of-type {
 
 #Recursos1001Ghules section:first-of-type {
   background-position: 15% top;
-  background-image: url(../images/tigres.webp);
+  background-image: url(../images/tigres-portada.webp);
   background-size: cover;
 }
 

@@ -589,8 +589,6 @@ Dentro del combate a distancia puedes hacer uso de las armas a distancias primit
 |Jambia|Es una daga curvada con un gran nervio central.|Cuchillo/daga|
 |Shibriya|Es una pequeña daga beduina.|Cuchillo/daga|
 
-&ast; Esta columna marca las estadísticas de que arma del Manual Básico de SWEA debes usar para cada arma de la tabla.
-
 \conc
 
 \sp
