@@ -2,7 +2,7 @@
 
 date_default_timezone_set("Europe/Madrid");
 
-$filename = __DIR__."/../1001Ghules.pdf";
+$filename = __DIR__."/../1001Ghules.zip";
 
 //Define header information
 header('Content-Description: File Transfer');
