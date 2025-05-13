@@ -452,7 +452,7 @@ El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y 
 
 Cada vez que un schahriar se enfrente a un monstruo deberá hacer una tirada de enfrentada de Astucia contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre nada, el schahriar ha racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.
 
-Si falla la tirada, deberá hacer una segunda tirada de Espíritu, si saca más éxitos que la tirada TPC simplemente quedará aturdido. Si falla, perderá un punto de cordura. Como ya hemos explicado, si pierde toda su cordura, cederá ante el horror y la locura y pasará a ser un PNJ.
+Si falla la tirada, deberá hacer una segunda tirada de Espíritu. Si saca más éxitos que la tirada TPC simplemente quedará aturdido. Si falla, perderá un punto de cordura. Como ya hemos explicado, si pierde toda su cordura, cederá ante el horror y la locura y pasará a ser un PNJ.
 
 Puede evitarse la pérdida de puntos de cordura, adquiriendo un trastorno mental permanente con un máximo de 3 trastornos permanentes o gastando todos tus deseos (mínimo 1) y adquiriendo un trastorno mental de forma temporal.
 
@@ -516,7 +516,7 @@ Las TPC pueden ser modificadas en determinadas situaciones.
 
 \sp
 
-* **Pásame el haschisch:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, masticando una buena pieza de haschisch antes de entrar de noche en un cementerio infestado de ghūles. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, etc. y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
+* **Pásame el haschisch:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, masticando una buena pieza de haschisch antes de entrar de noche en un cementerio infestado de ghūles. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta). Además no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, etc. Por último, deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
 * **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
 
 \sinc

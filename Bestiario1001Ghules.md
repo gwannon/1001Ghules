@@ -19,6 +19,6 @@ Este libro contiene:
 2. Animales típicos de los cuentos y **bestias mitológicas**.
 3. **Secuaces** de todo tipo para meter en tus aventuras.
 4. Todo un sistema de tablas para **generar botines**.
-5. **Tesoros míticos** como lamparas mágicas, **objetos mágicos maneros** y extraños **objetos mundanos**.
+5. **Tesoros míticos** como lámparas mágicas, **objetos mágicos maneros** y extraños **objetos mundanos**.
 
 Para jugar con este suplemento necesitas el Manual Básico de SWEA y el libro de ambientación de 1001 Ghūles.

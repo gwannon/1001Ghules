@@ -32,17 +32,17 @@ He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y e
 
 He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJ).
 
-He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+He intentado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
-Está claro que los malos van a ser racistas, machistas, homófobos, etc. Vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestros schahriars ni aunque digan que "su personaje es así" o "era lo normal en esa época". 
+Está claro que los malos van a ser racistas, machistas, homófobos, etc. Vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestros schahriars ni aunque digan que «su personaje es así» o «era lo normal en esa época». 
 
 Esto es un juego de rol y ya hay mucha mierda en la vida real para tener que aguantarla también en una mesa de juego.
 
-Muchas "sugerencias de deseo" están pensadas para premiar a los schahriars por ser más empáticos y ayudar a grupos discriminados. 
+Muchas «sugerencias de deseo» están pensadas para premiar a los schahriars por ser más empáticos y ayudar a grupos discriminados. 
 
 En ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida.
 
-Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como Scheherazade creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos "premios" sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
+Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como Scheherazade creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos «premios» sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
 
 Nada puede ser inclusivo y abierto si no tiene en cuenta el medio ambiente y la ecología, así que he tratado de darle una mirada ecologista con varias aventuras en las que la protección de la naturaleza es importante, además, de recompensas de cordura y sugerencias de deseos. 
 
@@ -60,9 +60,9 @@ Para finalizar, estaré encantado de escuchar cualquier crítica que queráis ha
 
 ### Violencia de género y consentimiento
 
-La violencia de género, la masculinidad tóxica y el machismo en general es algo demasiado común en las 1001 Noches. Ya solo su propio hilo conductor es en sí ya terriblemente machista; Scheherazade debe contar cada una noche una historia para evitar que el califa la mate a ella y a su hermana pequeña. Y la "excusa" que se da para justificar la locura asesina del califa específicamente contra las mujeres es que su esposa le engañaba con uno de sus esclavos.
+La violencia de género, la masculinidad tóxica y el machismo en general es algo demasiado común en las 1001 Noches. Ya solo su propio hilo conductor es en sí ya terriblemente machista; Scheherazade debe contar cada una noche una historia para evitar que el califa la mate a ella y a su hermana pequeña. Y la «excusa» que se da para justificar la locura asesina del califa específicamente contra las mujeres es que su esposa le engañaba con uno de sus esclavos.
 
-Así pues, tenemos en estos cuentos elementos clásicos de la conducta machista, desde los "crímenes pasionales" que son en realidad feminicidios en serie o maltratos varios tanto físicos como psicológicos, hasta matrimonios forzados tanto por padres por la fuerza como por pretendientes que se valen de argucias para casarse con sus pretendidas, lo deseen o no estas.
+Así pues, tenemos en estos cuentos elementos clásicos de la conducta machista. Desde «crímenes pasionales» que son en realidad feminicidios en serie o maltratos varios, tanto físicos como psicológicos, hasta matrimonios forzados tanto por padres por la fuerza como por pretendientes que se valen de argucias para casarse con sus pretendidas, lo deseen o no estas.
 
 El consentimiento sexual o de pareja es bastante infrecuente y muchas veces está viciado por los trucos y las mentiras. Por no hablar de tocamientos y besos a mujeres que no pueden dar su consentimiento por estar dormidas, drogadas o hechizadas. Y podemos hablar también de muchos casos de pederastia, como el de Abu-Nowas que he obviado totalmente en esta ambientación.
 
@@ -98,7 +98,7 @@ Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se 
 
 ### Genocidio palestino por parte de Israel 2024
 
-Originalmente, Jerusalen iba a forma parte de esta ambientación, pero he decidido borrarla de esta ambientación y sustituirla por Gaza. Puede no sea mucho, pero es un pequeño gesto para mostrar mi desprecio por el estado genocida de Israel. #CeaseFireNOW #PalestineFree
+Originalmente, Jerusalén iba a forma parte de esta ambientación, pero he decidido borrarla de esta ambientación y sustituirla por Gaza. Puede no sea mucho, pero es un pequeño gesto para mostrar mi desprecio por el estado genocida de Israel. #CeaseFireNOW #PalestineFree
 
 ### Define los velos y herramientas de seguridad
 
@@ -134,7 +134,7 @@ Las 1001 Noches tiene muchas cosas criticables, pero también hay que decir que 
 
 \sp
 
-> "Me parece ¡oh jeique! que eres de los que prefieren los jovenzuelos a las mujeres". Mi amigo sonrió, y dijo: "¡Así es!" Ella preguntó: "¿Y por qué? ¡oh jeique!" El dijo: "¡Porque Alah ha modelado el cuerpo de los jovenzuelos con una perfección admirable, en detrimento de las mujeres, y mis gustos me impulsan a preferir en toda cosa lo perfecto a lo imperfecto!" Ella se rió detrás de la cortina, y dijo: "¡Pues bien; si quieres defender tu opinión, estoy dispuesta a responderte!" El dijo: "¡Con mucho gusto!"
+> «Me parece ¡oh jeique! que eres de los que prefieren los jovenzuelos a las mujeres». Mi amigo sonrió, y dijo: «¡Así es!» Ella preguntó: «¿Y por qué? ¡oh jeique!» Él dijo: «¡Porque Alah ha modelado el cuerpo de los jovenzuelos con una perfección admirable, en detrimento de las mujeres, y mis gustos me impulsan a preferir en toda cosa lo perfecto a lo imperfecto!» Ella se rio detrás de la cortina, y dijo: «¡Pues bien; si quieres defender tu opinión, estoy dispuesta a responderte!» Él dijo: «¡Con mucho gusto!»
 > 
 > **Referencia:** ¿Mujeres o jovenzuelos? (n. 391)
 

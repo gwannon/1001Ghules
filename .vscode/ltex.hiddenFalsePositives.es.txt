@@ -32,3 +32,101 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Qyakhchal or icehouse (exterior), Meybod, Iran.\\E$"}
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q¡Porque has de saber, hijo mío, que el califa manda cerrar todas las noches las puertas de la ciudad con el fin de impedir que las hordas fanáticas entren a escondidas y se apoderen de los libros de la ciencia y de los manuscritos literarios encerrados en las salas de las escuelas, arrojándolos luego al Tigris!»\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QProfesor Bordo Antiguo Salón De by AidaPoppy\\E$"}
+{"rule":"MISSING_COMMA","sentence":"^\\QSaludos mi muy querido amigo Giafar,\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\Q¡Diéronme mis esposas una posteridad de mil príncipes reales, valientes cual leones!\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\Q¡Si deseas conocer mi nombre, sabe que me llamé Kusch ben-Scheddad ben-Aad el Grande!\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Q¡Bhadraṃ te!\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QY si tú eres esa persona, que sepas que eres un mierdas con todas sus letras.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHas de saber ¡oh capitán Moin! que soy una mujer que está prendada de una jovenzuela.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QHas de saber ¡oh capitán Moin! que soy una mujer que está prendada de una jovenzuela.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY entre ella y yo existe un apasionado pacto acordado con promesas y con juramentos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Qscheherazade-schariar.jpg por Ferdinand Keller\nscheherazade-sultan.jpg por Andrew Lang\nsindbad.jpg por René Bull\nscheherazade-y-shahryar.jpg por Marie-Éléonore Godefroid\nsol-desierto.jpg por kjpargeter\nalfombra-voladora.jpg por Viktor Vasnetsov\ncassim.jpg por Maxfield Parrish\nciudad-bronce.jpg por Edmund Dulac\ntigres.webp por Rudolph Ernst\npipa-agua.jpg por Jean-Léon Gérôme\nbagdad.jpg por Edmund Dulac\narbol-cantor.jpg por Maxfield Parrish\ntanger.jpg por Eugène Delacroix\nalquimia.jpg por René Bull\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFondo contraportada por Viki Johnson\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QKhodijah por Arterfak\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPara la creación de esta ambientación se ha usado el ebook de 1001 Noches de WikiSource.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«Me parece ¡oh jeique! que eres de los que prefieren los jovenzuelos a las mujeres».\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¿Y por qué? ¡oh jeique!» Él dijo:\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHe intentado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY eso es un misterio de amor.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY entre ella y yo ha ocurrido lo que ha ocurrido.\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|09Tesoros.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|04Monstruos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|07Bagdad.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|11Epilogo.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|00Ysi.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|01ElMundo.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|02Reglas.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|03MagiaSihr.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|05LugaresMiticos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|06GuiaViajes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|08CuentosSalvajes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|10Gentes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12Recursos.md|\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAtractivo\nMuy atractivo\nKid dos pistolas\n¡Rock’N’Roll!\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q’Umr-At-Tawil (en árabe عمر الطويل, El de la vida prolongada) es un avatar de Yog-Sothoth que custodia la Última Puerta, tras la cual, está la Estancia de Yog-Sothoth donde reside esta deidad exterior.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\Q’Umr-At-Tawil (Avatar de Yog-Sothoth)\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\Q’Umr At-Tawil se manifiesta como un humanoide alto y delgado, cubierto por un velo que oculta su rostro.\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\Q/p/ «¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q/p/ «¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QSegún estos escritos, Bahamūt llego a nuestro mundo de las estrellas y alguna extraña maldición hizo que lleve eones dormido en una ciudad sumergida llama R’lyeh con todos sus congéneres, versiones menos poderosas llamadas Semillas.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSegún estos escritos, Bahamūt llego a nuestro mundo de las estrellas y alguna extraña maldición hizo que lleve eones dormido en una ciudad sumergida llama R’lyeh con todos sus congéneres, versiones menos poderosas llamadas Semillas.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa Ciudad de Bronce es una versión de R’lyeh adaptada a los sueños de los humanos (la especie dominante en este momento en la tierra), pero igual de maldita, donde todos sus habitantes están en una mezcla de sueño eterno y éxtasis temporal.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa mente durmiente de Bahamūt es tan poderosa que puede afectar al mundo de los sueños y es por ello que se cree que ha creado una versión de R’lyeh en la Tierra de los Sueños conocida como la Ciudad de Bronce.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSuc’Naath\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSuc’Naath es uno de los dioses malditos y descerebrado que bailan desenfrenadamente al son de flautas y tambores para su señor Azathoth.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEs servido por un pequeño culto conocido como la Mano Dorada de Suc’Naath, que reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos entrenados.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSu misión es adorar y liberar a Suc’Naath de la maldición que le tiene atado a su señor Azathoth.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta cubas de grandes dimensiones y otras cuarenta de dimensiones más pequeñas …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta días, transcurridos entre fiestas y regocijos …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta colores de diferentes las telas …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Quna bandeja con cuarenta pasteles …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcuarenta gruesas piedras preciosas …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpermaneció allí cuarenta días y cuarenta noches …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpermaneció allí cuarenta días y cuarenta noches …\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QEl objetivo de este degenerado culto es crear un gran cataclismo, como un diluvio, que limpie la Tierra para su amo y señor Yog-Sothoth en su forma de ’Umr-At-Tawil y que este pueda traer de vuelta al resto de primigenios.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QCuando una célula es descubierta o destruida o incluso sus proyectos apocalípticos acaban mortalmente, los supervivientes se separan a la espera de una señal de ’Umr-At-Tawil.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QR’lyeh, como parte de la maldición, se hundió en el mar y ascenderá de los abismos oceánicos cuando las estrellas se alineen adecuadamente y el gran Bahamūt despierte de su sueño.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSi alguna vez se combinan estas tres partes, Suc’Naath se liberará de su maldición.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QSolo algo rompe la rutina laboral, la comunión con ’Umr-At-Tawil.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QEste resultado considera que la decisión debe hacerla ’Umr-At-Tawil y por eso se le invoca.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QCuando todo vuelve a la normalidad se hace lo que había votado el grupo tocado por ’Umr-At-Tawil.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa Mano Dorada de Suc’Naath\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy tras alabar el innombrable nombre de su dios, Suc’Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Qy tras alabar el innombrable nombre de su dios, Suc’Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa Mano Dorada de Suc’Naath reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos fanáticos bien entrenados.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSi manejan las energías de la magia, buscan a las personas que portan la esencia de Suc’Naath, ya que su magia es poderosa y son proclives a la locura y el caos.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa Mano Dorada de Suc’Naath es un culto muy pequeño, pero muy poderoso, solo los mejores entran en ella y después de haber demostrado con creces su fidelidad y fanatismo hacia la Mano Dorada y a Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa Mano Dorada de Suc’Naath es un culto muy pequeño, pero muy poderoso, solo los mejores entran en ella y después de haber demostrado con creces su fidelidad y fanatismo hacia la Mano Dorada y a Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QZiba, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAlura, amazona, guardaespaldas de Ziba y asesina principal de la Mano Dorada de Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QComo única portadora de la esencia de Suc’Naath es la más adecuada para liderar el culto.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QTodos andan buscado la estatua que guarda la tercera parte de la esencia Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLos adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLos danzantes puede tener una catarsis y Suc’Naath puede entregarles una visión de su futuro o de su pasado.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa esencia de Suc’Naath ya corre por las venas de Ziba, así que esa parte ya está completada.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSiguiendo el destino de su amo y compartiendo su maldición, el principal ritual de la secta es bailar frenéticamente al sol de flautas, como Suc’Naath alrededor de Azathoth.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEsto hace que la Mano Dorada es moviéndose frenéticamente para encontrar la estatua perdida de Suc’Naath y buscar una forma de poder acercarse al cometa.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy así hasta más de 250 referencias en las 1001 Noches.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPudiendo relacionar al gran ser acuático que sostiene el mundo llamado Bahamūt con el gran y poderoso Cthulhu o a los genios de la lámpara con avatares de Nyarlathotep, preferimos mostrar otros seres y dioses de los Mitos menos conocidos como Nardún (más conocido como Cthugha) o Suc’Naath, pero igual de interesantes.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q/p/ «Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QPero de pronto, uno de los jugadores del bando opuesto al que dirigía el califa en persona lanzó la pelota derechamente contra la cara del califa, con golpe tan diestro y vigoroso, que infaliblemente el califa habría perdido un ojo y acaso la vida, si el joven Aslán con admirable maestría, no hubiera parado la pelota al vuelo con su mazo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY por una y otra parte los jugadores desplegaron gran arte en sus movimientos y maravillosa destreza para despedir la pelota con el mazo a todo galope de los caballos.\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\QY pronto la cogía el muchacho y la derribaba en tierra, como se erguía ella, cual una serpiente, y le derribaba a su vez.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY continuó él derivándola y ella derribándole durante dos horas de lucha, sin que ninguno de los dos pudiera hacer que el adversario tocase con los hombros en el suelo.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QHistoria del rey Omar Al-Neman y de sus dos hijos Scharkan y Daul’Makan (n. 50)\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QHas de saber ¡oh mi señor! que la ciudad de Bagdad está dividida en barrios y que cada barrio tiene al frente un jeique al que llaman al-balad.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh hija del tío! ¿y el kabab?\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY solo aguardaban una ocasión como aquella para lograr botín, pues desde hacía tiempo que andaban por el mar.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEl marido de la vieja Dalila fue en otra época un gran personaje, el director de las palomas que servían para llevar por todo el Imperio mensajes y cartas, y cuya vida era para el califa, a causa de los servicios que hacía, más cara y preciosa que la de sus propios hijos.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q«¡Sí, por cierto!» Y ella hizo señas a una de las jóvenes, quien al punto les llevó un tablero de ébano y marfil con cantoneras de oro, y los peones del shatranj eran rojos y blancos y estaban tallados en rubíes los peones rojos y tallados en cristal de roca los peones blancos.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QUna vez que se te haya introducido a presencia de la princesa enferma, la examinarás como si ignorases completamente su mal, tomarás actitudes cabizbajas y pensativas para imponer con ellas a tu alrededor, y acabarás por coger una de estas hojas que empaparás en agua y con la cual frotarás el rostro de la joven.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QTomó dos onzas de zumo de copaiba china, una onza de extracto graso de cáñamo jónico, una de cariofilina fresca, una de cinamomo rojo de Serendib, diez dracmas de cardamomo blando de Malabar, cinco de jengibre indio, cinco de pimienta blanca, cinco de pimentón de las islas, una onza de boyas estrelladas de badián de la india y media onza de tomillo de las montañas.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAventuras del joven Kanmakán, hijo de Daul’Makan (n. 142)\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QFUE+d10 d10 1,5 350\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QFUE+d6 d6 1 150/250\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi estás perdido en el desierto en un pequeño poblado, seguramente no.\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\Q♥ ♣ ♠ ♦\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi falla, perderá un punto de cordura.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi saca más éxitos que la tirada TPC simplemente quedará aturdido.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortrait of Sarah Bernhardt in Costume - Georges Rochegrosse\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q(Partially based on Atlas of World History 2007)\\E$"}

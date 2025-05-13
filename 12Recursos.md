@@ -241,7 +241,7 @@
 
 &nbsp;
 
-> **Cuarta inscripción:** «¡Oh el misterio del nacimiento y de la muerte! ¿Por qué nacer, si hay que morir? ¿Por qué vivir, si la muerte da el olvido de la vida? ¡Pero solo Alah conoce los destinos, y nuestro deber es inclinarnos ante El con obediencia muda!»
+> **Cuarta inscripción:** «¡Oh el misterio del nacimiento y de la muerte! ¿Por qué nacer, si hay que morir? ¿Por qué vivir, si la muerte da el olvido de la vida? ¡Pero solo Alah conoce los destinos, y nuestro deber es inclinarnos ante Él con obediencia muda!»
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 343)
 
@@ -281,7 +281,7 @@
 > 
 > Secretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
 > 
-> Este juego de shatranj, creado por el poderoso soberano Suleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
+> Este juego de shatranj, creado por el poderoso soberano Suleimán, tiene en cada pieza un poderoso mared. Cuando se mueve la primera pieza de marfil (piezas blancas), el juego empieza una partida con las piezas de ébano (piezas negras). Cada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano. El mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.
 > 
 > Los peones son infantería, los caballos caballería ligera, los elefantes caballería pesada y carros de guerra y las torres fortalezas y maquinaria de asedio.
 > 

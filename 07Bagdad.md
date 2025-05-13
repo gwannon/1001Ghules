@@ -1,6 +1,6 @@
 # Bagdad, la ciudad eterna
 
-La descripción que vamos a hacer de Bagdad es durante el califato de Harún al-Raschid más o menos hacia el año 800 d.C. Los personajes, eventos y lugares que aparecen en esta sección pertenecen a esa época, aunque algunas cosas han sido modificadas para adecuarse a las terribles 1001 Noches que surgen de su unión con los Mitos de Cthulhu.
+La descripción que vamos a hacer de Bagdad es durante el califato de Harún al-Raschid más o menos hacia el año 800. Los personajes, eventos y lugares que aparecen en esta sección pertenecen a esa época, aunque algunas cosas han sido modificadas para adecuarse a las terribles 1001 Noches que surgen de su unión con los Mitos de Cthulhu.
 
 \sinc
 
@@ -12,7 +12,7 @@ Bagdad es una ciudad relativamente joven, fue fundada en el 762 por Al-Mansur, e
 
 En el año 758, Mansur reunió ingenieros, agrimensores y artistas de todo el mundo para elaborar planes para la ciudad. Más de 100.000 trabajadores participaron en la construcción, que comenzó el 23 de julio del año 762 d.C. Siguiendo esos planes, se creó en la orilla oeste del Tigris lo que ahora se conoce como la Ciudad Circular, una ciudad circular completamente amurallada.
 
-[![Map of the Abbasid Caliphate at its greatest extent, c. 850. (Partially based on Atlas of World History (2007)](./images/abasi.png)](https://commons.wikimedia.org/wiki/File:Abbasids850.png "Map of the Abbasid Caliphate at its greatest extent, c. 850. (Partially based on Atlas of World History (2007)") 
+[![Map of the Abbasid Caliphate at its greatest extent, c. 850. (Partially based on Atlas of World History 2007)](./images/abasi.png)](https://commons.wikimedia.org/wiki/File:Abbasids850.png "Map of the Abbasid Caliphate at its greatest extent, c. 850. (Partially based on Atlas of World History 2007)") 
 
 La ciudad fue creciendo, debido a su capitalidad, su importancia en las rutas comerciales del Tigris y a que tenía agua y tierras fértiles alrededor. Se extendió primero alrededor de la Ciudad Circular, formando la zona que conocemos con Karkh y, más tarde, en la orilla este, formando Al Rusafa.
 
@@ -50,7 +50,7 @@ Bagdad posee un clima subtropical muy caluroso y árido, de hecho, es una de las
 
 Durante el día pueden alcanzarse hasta los 50 °C a la sombra y por la noche bajar hasta los 20 °C. La humedad es muy baja y frecuentemente sufren tormentas de polvo veraniegas venidas del desierto.
 
-Durante el invierno las temperaturas se suavizan notablemente, con máximas de 25 ºC, pero las mínimas pueden caer hasta los -5 °C. Es durante el invierno cuando se dan la mayoría de las precipitaciones anuales.
+Durante el invierno las temperaturas se suavizan notablemente, con máximas de 25 °C, pero las mínimas pueden caer hasta los -5 °C. Es durante el invierno cuando se dan la mayoría de las precipitaciones anuales.
 
 \sp
 
@@ -134,7 +134,7 @@ Los propios comerciantes tienen seguridad privada en esta zona día y noche para
 
 #### La escuela de la docta Simpatía
 
-> Ella le contestó: «¡Oh señor! estudié la sintaxis, la poesía, el derecho civil y el derecho general; la música, la astronomía, la geometría, la aritmética, la jurisprudencia desde el punto de vista de las sucesiones, y el arte de descifrar las escrituras mágicas y las inscripciones antiguas. Me sé de memoria el Libro Sublime y puedo leerle de siete maneras distintas; conozco exactamente el número de sus capítulos, de sus versículos, de sus divisiones, de sus diferentes partes y sus combinaciones, y cuantas líneas, palabras, letras consonantes y vocales encierra: recuerdo con precisión qué capítulos se inspiraron y escribieron en la Meca y cuáles otros se dictaron en Medina; no ignoro las leyes y los dogmas, sé distinguirlos con las tradiciones y diferenciar su grado de autenticidad; no soy una profana en lógica, ni en arquitectura, ni en filosofía, como tampoco en lo que afecta a la elocuencia, al lenguaje escogido, a la retórica y a las reglas de los versos, los cuales sé ordenar y medir sin omitir ninguna dificultad en su construcción; sé hacerlos sencillos y fluidos, como también complicados y enrevesados para deleitar solo a las gentes delicadas; y si a veces pongo en ellos oscuridad, es para fijar más la atención y halagar al espíritu, que despliega por último su trama sutil y frágil; en una palabra, aprendí muchas cosas y retuve cuanto aprendí.
+> Ella le contestó: «¡Oh señor! estudié la sintaxis, la poesía, el derecho civil y el derecho general; la música, la astronomía, la geometría, la aritmética, la jurisprudencia desde el punto de vista de las sucesiones, y el arte de descifrar las escrituras mágicas y las inscripciones antiguas. Me sé de memoria el Libro Sublime y puedo leerle de siete maneras distintas; conozco exactamente el número de sus capítulos, de sus versículos, de sus divisiones, de sus diferentes partes y sus combinaciones, y cuantas líneas, palabras, letras consonantes y vocales encierra: recuerdo con precisión qué capítulos se inspiraron y escribieron en la Meca y cuáles otros se dictaron en Medina; no ignoro las leyes y los dogmas, sé distinguirlos con las tradiciones y diferenciar su grado de autenticidad; no soy una profana en lógica, ni en arquitectura, ni en filosofía, como tampoco en lo que afecta a la elocuencia, al lenguaje escogido, a la retórica y a las reglas de los versos, los cuales sé ordenar y medir sin omitir ninguna dificultad en su construcción; sé hacerlos sencillos y fluidos, como también complicados y enrevesados para deleitar solo a las gentes delicadas; y si a veces pongo en ellos oscuridad, es para fijar más la atención y halagar al espíritu, que despliega por último su trama sutil y frágil; en una palabra, aprendí muchas cosas y retuve cuanto aprendí».
 > 
 > **Referencia:** Historia de la docta Simpatía (n. 270)
 

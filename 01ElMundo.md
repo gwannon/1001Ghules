@@ -95,7 +95,7 @@ _Abdul Alhazred y sus visiones_
 
 \conc
 
-Durante los años que estuvo en Damasco no solo escribió el Necronomicón, sino que se dedicó recopilar e investigar cuentos e historias populares y escribir sus propias 1001 Noches, pero mostrando la cruda realidad de esas historias y como todos los agentes de los Mitos de Cthulhu eran en gran parte actores de esas historias.
+Durante los años que estuvo en Damasco no solo escribió el Necronomicón, sino que se dedicó recopilar e investigar cuentos e historias populares y escribir sus propias 1001 Noches. Pero mostrando la cruda realidad de esas historias y como todos los agentes de los Mitos de Cthulhu eran en gran parte actores de esas historias.
 
 Aplicó todos sus nuevos conocimientos adquiridos para estudiar todas esas historias y ver que se ocultaba detrás de ellas. De esa forma llego a varias conclusiones de carácter generales.
 
@@ -420,7 +420,7 @@ En este punto introducen sus creencias y sus cultos y estos pueblos costeros emp
 
 Es considerado relativamente benévolo, ya que no es abiertamente hostil al ser humano. Si se consigue llegar hasta él, puede dejarte pasar a la Estancia de Yog-Sothoth o concederte algún deseo, pero también puede quitarse el velo y volverte loco al instante.
 
-El culto del cuarenta no adora a este avatar de la deidad exterior Yog-Sothoth, si no, más bien, buscan la manera de llegar ante él para poder abrir la Última Puerta y dejar que Yog-Sothoth entre en nuestro mundo, desencadenando un cataclismo que limpie la Tierra de humanos y permita que los demás primigenios conquisten nuestro mundo.
+El culto del cuarenta no adora a este avatar de la deidad exterior Yog-Sothoth, si no, más bien, buscan la manera de llegar ante él para poder abrir la Última Puerta y dejar que Yog-Sothoth entre en nuestro mundo. Buscan desencadenar un cataclismo que limpie la Tierra de humanos y permita que los demás primigenios conquisten nuestro mundo.
 
 \sinc
 
@@ -464,9 +464,9 @@ Se sabe de ciertos elementos que podrían contener parte de su esencia y podría
 
 ### Bahamūt (Cthulhu)
 
-> /p/ "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo.
+> /p/ «¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo.
 > /p/ 
-> /p/ También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un inmenso monstruo acuático llamado Bahamūt que flota en la superficie del Mar de la Eternidad sumido en un profundo sueño.
+> /p/ También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un inmenso monstruo acuático llamado Bahamūt que flota en la superficie del Mar de la Eternidad sumido en un profundo sueño».
 > /p/ 
 > /p/ **Referencia:** Historia de Belukia (n. 362)
 
@@ -514,7 +514,7 @@ Suc’Naath es uno de los dioses malditos y descerebrado que bailan desenfrenada
 
 Entre sus remolinos de viento se forman rostros agonizando y emite constantemente chasquidos y chirridos terriblemente desagradables.
 
-Su esencia está fragmentada en tres partes, una en un cometa llamado Aiin, otra en algún tipo de estatua ubicada en la antigua Babilonia, y la última ha sido transmitida genéticamente durante eones a través de razas pre-humanas y humanas, principalmente en las tierras regadas por el Tigris y el Eufrates, lo que conocemos como Mesopotamia. Si alguna vez se combinan estas tres partes, Suc’Naath se liberará de su maldición.
+Su esencia está fragmentada en tres partes. Una esta en un cometa llamado Aiin, otra en algún tipo de estatua ubicada en la antigua Babilonia, y la última ha sido transmitida genéticamente durante eones a través de razas pre-humanas y humanas, principalmente en las tierras regadas por el Tigris y el Eufrates, lo que conocemos como Mesopotamia. Si alguna vez se combinan estas tres partes, Suc’Naath se liberará de su maldición.
 
 Se dice que los portadores de sus poderes pueden realizar grandes prodigios mágicos y/o están locos.
 
@@ -534,7 +534,7 @@ Las arenas de todo Oriente Medio y el Magreb están llenas de sectas de adorador
 
 ### Secta del cuarenta
 
-> cuarenta colores de diferentes las telas … cuarenta cubas de grandes dimensiones y otras cuarenta de dimensiones más pequeñas … una bandeja con cuarenta pasteles … cuarenta días, transcurridos entre fiestas y regocijos … permaneció allí cuarenta días y cuarenta noches … permaneció allí cuarenta días y cuarenta noches … cuarenta gruesas piedras preciosas … y así hasta más de 250 referencias en las 1001 Noches.
+> /p/ cuarenta colores de diferentes las telas … cuarenta cubas de grandes dimensiones y otras cuarenta de dimensiones más pequeñas … una bandeja con cuarenta pasteles … cuarenta días, transcurridos entre fiestas y regocijos … permaneció allí cuarenta días y cuarenta noches … permaneció allí cuarenta días y cuarenta noches … cuarenta gruesas piedras preciosas … y así hasta más de 250 referencias en las 1001 Noches.
 
 &nbsp;
 
@@ -742,7 +742,7 @@ El culto es pequeño y disperso y solo hay una figura de poder al que se pueda l
 
 * Bahram el Gauro, Adorador del Fuego, alquimista de oficio y líder de la secta del Fuego y de la Luz
 * Aunque no sea fanático del culto, el famoso cantante Ishak Al-Dadim, ha tonteado con los miembros de la secta. Fácilmente, podría acabar fanatizado y pasaría a ser un cultista más con la ventaja de tener acceso al Califa Harún Al-Raschid.
-s
+
 #### Lugares de culto y refugios
 
 No suelen tener sitios fijos de culto, pero cuando se reúnen suelen hacerlo en algún volcán a poder ser activo.
@@ -831,8 +831,8 @@ A la hora de compartir zonas tenemos varias ideas de como hacerlo.
 
 Aquí te presentamos algunas opciones de territorios compartidos:
 
-* **La Ciudad de Bronce:** puede ser una ciudad maldita y perdida del Sueño que se aparece en nuestro mundo cuando te adentras en el desierto mucho más lejos de lo que nadie ha hecho nunca.
-* **La meseta de Leng:** la propia naturaleza de Leng es ser un lugar que está al mismo tiempo en varias dimensiones al mismo tiempo y en nuestro mundo suele aparecer en Asia Central, especialmente en la cordillera del Himalaya, así que podría ser encontrada por una caravana que se ha perdido en las montañas en su camino a China o India.
+* **La Ciudad de Bronce:** Puede ser una ciudad maldita y perdida del Sueño que se aparece en nuestro mundo cuando te adentras en el desierto mucho más lejos de lo que nadie ha hecho nunca.
+* **La meseta de Leng:** La propia naturaleza de Leng es ser un lugar que está al mismo tiempo en varias dimensiones al mismo tiempo. En nuestro mundo suele aparecer en Asia Central, especialmente en la cordillera del Himalaya, así que podría ser encontrada por una caravana que se ha perdido en las montañas en su camino a China o India.
 * **La ciudad de Ulthar:** Ulthar es una ubicación clásica de Lovecraft a la que se podría acceder a algún tipo de bosque mágico o al tratar de llegar ciudades más tipo europeo.
 
 A todo esto, debes recordar que no es normal que una persona despierta visite las Tierras del Sueño, solo sus yoes oníricos deberían poder hacerlo y que si lo hacen despiertos tiene importantes implicaciones en el mundo de los Sueños.
@@ -1135,7 +1135,7 @@ Pero seamos sinceros, que exista el divorcio no quiere decir que todo el mundo p
 
 \sp
 
-Tratar de abarcar toda la gastronomía de las diferentes culturas de Oriente Medio y Magreb es mucho trabajo, pero por lo menos te vamos a dar un listado de platos y bebidas para que cuando tu mesa pida comida y bebida en una khan no les saques las típicas bebidas y los típicos platos de juegos medievales fantásticos. Olvídate de los asados y los estofados, aquí somos de cordero.
+Tratar de abarcar toda la gastronomía de las diferentes culturas de Oriente Medio y Magreb es mucho trabajo. Te vamos a dar un listado de platos y bebidas para que cuando tu mesa pida comida y bebida en una khan no les saques las típicas bebidas y los típicos platos de juegos medievales fantásticos. Olvídate de los asados y los estofados, aquí somos de cordero.
 
 #### Kebab
 
@@ -1348,7 +1348,7 @@ Los productos con que se comerciaba en estas rutas eran muy variados. Seda de la
 
 Desde Oriente Medio partes rutas comerciales a todo el mundo conocido trayendo mercancías increíbles y valiosas.
 
-* **Ruta de la Seda:** La famosa ruta de la Seda conecta Oriente medio con China, trayendo no solo seda, sino todos los desarrollos tecnológicos de China como el papel o la pólvora. La ruta no era única, sino que había varios caminos posibles según donde quisieras empezar y acabar.     Una caravana podía tardar entre año y medio y dos años en ir y volver, pero los beneficios eran enormes. Debe su nombre a la mercancía más prestigiosa que circulaba por ella, la seda, cuya elaboración era un secreto que solo los chinos conocían. Muchos productos transitaban estas rutas: piedras y metales preciosos (diamantes de Golconda, rubíes de Birmania, jade de China, perlas del golfo Pérsico), telas de lana o de lino, ámbar, marfil, laca, especias, porcelana, vidrio, materiales manufacturados, coral, etc.
+* **Ruta de la Seda:** La famosa ruta de la Seda conecta Oriente medio con China, trayendo no solo seda, sino todos los desarrollos tecnológicos de China como el papel o la pólvora. La ruta no era única, sino que había varios caminos posibles según donde quisieras empezar y acabar. Una caravana podía tardar entre año y medio y dos años en ir y volver, pero los beneficios eran enormes. Debe su nombre a la mercancía más prestigiosa que circulaba por ella, la seda, cuya elaboración era un secreto que solo los chinos conocían. Muchos productos transitaban estas rutas: piedras y metales preciosos (diamantes de Golconda, rubíes de Birmania, jade de China, perlas del golfo Pérsico), telas de lana o de lino, ámbar, marfil, laca, especias, porcelana, vidrio, materiales manufacturados, coral, etc.
 * **Ruta de las especies:** Durante cientos de años se han traído por tierra y barco especies desde la India y luego eran distribuidas por todo el Mediterráneo en barco. También se van más lejos en barco a las diferentes islas de las especies donde comerciaban con extrañas gentes que se ven reflejadas (y exageradas) en las historias de Sindbad el marino. Por especies entendemos no solo pimienta o comino, también plantas medicinales, diferentes inciensos y aceites que se quemaban para dar olor.
 
 \sp
