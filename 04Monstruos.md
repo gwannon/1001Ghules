@@ -4,7 +4,9 @@
 
 En este bestiario encontrarás todas las criaturas que Abdul Alhazred describió en sus 1001 Noches. Desde pequeños Ghūles hasta gigantescos Falaks con capacidad de devorar el mundo.
 
+```
 Recuerda que los seres con el símbolo ☾ son considerados comodines.
+```
 
 &nbsp;
 
@@ -60,7 +62,7 @@ Sobre la infección que producen, quizás puedas encontrar a alguien con los suf
 
 ### Al mighos (Hongos de Yuggoth)
 
-> "Eran unos bestias imberbes y rosadas de alrededor de 3 codos de altura. Los cuerpos eran de cangrejo, pero con alas de murciélago y varios grupos de patas de insecto acabados en unas terribles pinzas. En el lugar donde el Gran Creador pondría la cabeza había una especie de plato de bronce cubierto por muchísimas antenitas. Si tuviera que describirlo diría que lo más parecido serían las langostas que arrasan las cosechas en verano."
+> /p/ «Eran unos bestias imberbes y rosadas de alrededor de 3 codos de altura. Los cuerpos eran de cangrejo, pero con alas de murciélago y varios grupos de patas de insecto acabados en unas terribles pinzas. En el lugar donde el Gran Creador pondría la cabeza había una especie de plato de bronce cubierto por muchísimas antenitas. Si tuviera que describirlo diría que lo más parecido serían las langostas que arrasan las cosechas en verano.»
 
 [![Mi-Go by Khannea](./images/migo.jpg)](https://en.wikipedia.org/wiki/Mi-Go#/media/File:Migo.jpg "Mi-Go by Khannea") 
 
@@ -112,10 +114,10 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
 
 ### Abu-qith (Gran raza de Yith)
 
-> … llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo. 
-> Aquella concha cónica con pseudópodos que surgía de la tierra, diríase un engendro monstruoso arrojado allí por la fuerza de las potencias infernales. Era negro y grande como el tronco de una palmera vieja, seca y desprovista de sus palmas. Tenía cuatro enormes tentáculos, dos de las cuales semejaban pinzas de cangrejos. Al final del tercero de forma espantosa se agitaba una especie de cabeza con ojos sin pupilas lanzando iguales resplandores verdes que la mirada de tigres y panteras. En el último tentáculo tenía una caja de hueso con varios tubos a modo de trompa que usaba para hablar.
-> 
-> **Referencia:** Historia de la ciudad de bronce (n. 341)
+> /p/  … llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo. 
+> /p/  Aquella concha cónica con pseudópodos que surgía de la tierra, diríase un engendro monstruoso arrojado allí por la fuerza de las potencias infernales. Era negro y grande como el tronco de una palmera vieja, seca y desprovista de sus palmas. Tenía cuatro enormes tentáculos, dos de las cuales semejaban pinzas de cangrejos. Al final del tercero de forma espantosa se agitaba una especie de cabeza con ojos sin pupilas lanzando iguales resplandores verdes que la mirada de tigres y panteras. En el último tentáculo tenía una caja de hueso con varios tubos a modo de trompa que usaba para hablar.
+> /p/  
+> /p/  **Referencia:** Historia de la ciudad de bronce (n. 341)
 
 \sp
 
@@ -167,7 +169,9 @@ Los abu-qiths combatieron y derrotaron a un gran enemigo, los warams, y es por e
     * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
 * **TPC:** 1d8
 
+```
 Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego.
+```
 
 #### Lanzador de rayos
 
@@ -191,7 +195,7 @@ Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de e
 
 ### Warams (Pólipos volantes) ☾
 
-> Estos seres eran de constitución amorfa, parte de carne, parte de aire. Pese a que toda su estirpe es ciega, tenían sus otros sentidos muy desarrollados, lo que les hace capaces de moverse en la oscuridad como a plena luz día. Siendo parte aire son capaces de hacerse invisible y convocar vientos que sobre los que pueden cabalgar, pero su naturaleza ventosa hacen que cuando se mueven produzcan el mismo ruido que el siroco del desierto.
+> /p/  Estos seres eran de constitución amorfa, parte de carne, parte de aire. Pese a que toda su estirpe es ciega, tenían sus otros sentidos muy desarrollados, lo que les hace capaces de moverse en la oscuridad como a plena luz día. Siendo parte aire son capaces de hacerse invisible y convocar vientos que sobre los que pueden cabalgar, pero su naturaleza ventosa hacen que cuando se mueven produzcan el mismo ruido que el siroco del desierto.
 
 [![Flying Polyp by Dagonweb (Khannea SunTzu)](./images/polipo.jpg)](https://en.wikipedia.org/wiki/File:Flying_Polyp.jpg "Flying Polyp by Dagonweb (Khannea SunTzu)") 
 
@@ -224,11 +228,11 @@ Los warams ya son de por sí enemigos temibles, pero pueden ponerles hechizos si
 
 ### Janns (Antiguos) ☾
 
-> … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. 
+> /p/  … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. 
 
 \sp
 
-> \[…\] Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
+> /p/  \[…\] Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
 
 Según Alhazred, los janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
@@ -283,7 +287,7 @@ Son considerados cheitáns, yinns malvados. Además, son tremendamente poderosos
 
 #### Qareen forma inmaterial
 
-> Las ideas suicidas hacía semanas que rondaban la cabeza del viejo jeique, no le costaría nada adentrarse solo en el desierto sin agua y sin comida y no volver nunca más. Moriría como un digno hijo del desierto. Pero sabía que esas ideas no eran suyas, venían de lo que habitaba aquel oasis, aquella energía extraña que lo rodeaba todo, que entraba dentro de ti con cada respiración, con cada bocado de los dátiles de las palmeras, con cada sorbo del agua del pequeño pozo.
+> /p/ Las ideas suicidas hacía semanas que rondaban la cabeza del viejo jeique, no le costaría nada adentrarse solo en el desierto sin agua y sin comida y no volver nunca más. Moriría como un digno hijo del desierto. Pero sabía que esas ideas no eran suyas, venían de lo que habitaba aquel oasis, aquella energía extraña que lo rodeaba todo, que entraba dentro de ti con cada respiración, con cada bocado de los dátiles de las palmeras, con cada sorbo del agua del pequeño pozo.
 
 Los qareens son seres de energía invisibles en forma de vórtice. En este estado suelen coger a individuos marginales y de mente débiles y convertirlos en sus siervos que se encargan de hacer las tareas que ellos no pueden.
 
@@ -303,7 +307,7 @@ Los qareens son seres de energía invisibles en forma de vórtice. En este estad
 
 #### Qareen corpóreo
 
-> Aquel extraño ser que había aparecido de la nada tenía la forma de un dragón como los que aparecían en el libro del creador. Grande, reptilesco, patilargo y con solo mirarte sentías que pudiera atravesar tu alma como un alfanje atraviesa el pecho de un enemigo de la verdadera fe. Sus grandes garras habían destrozado al protector del califa y ahora reptaba hacia el propio califa.
+> /p/ Aquel extraño ser que había aparecido de la nada tenía la forma de un dragón como los que aparecían en el libro del creador. Grande, reptilesco, patilargo y con solo mirarte sentías que pudiera atravesar tu alma como un alfanje atraviesa el pecho de un enemigo de la verdadera fe. Sus grandes garras habían destrozado al protector del califa y ahora reptaba hacia el propio califa.
 
 Aunque los textos sagrados y la tradición dice que los qareen solo son seres espirituales, un qareen puede hacerse corpóreo adoptando la forma de un dragón.
 
@@ -324,8 +328,8 @@ Aunque los textos sagrados y la tradición dice que los qareen solo son seres es
 
 #### Poseído por un qareen
 
-> Parecía ido. Ni los más delicados manjares, ni las más perfumadas esencias, ni los más sensuales bailes parecían despertar su interés. Como mucho podías sacarle una bobalicona risa, mientras murmuraba cosas sin sentido. 
-> Y de repente se levantaba y desaparecía en las montañas durante de días, volviendo sucio y flaco y más perdido que antes. A veces había sangre en sus andrajos y no siempre era suya.
+> /p/ Parecía ido. Ni los más delicados manjares, ni las más perfumadas esencias, ni los más sensuales bailes parecían despertar su interés. Como mucho podías sacarle una bobalicona risa, mientras murmuraba cosas sin sentido. 
+> /p/ Y de repente se levantaba y desaparecía en las montañas durante de días, volviendo sucio y flaco y más perdido que antes. A veces había sangre en sus andrajos y no siempre era suya.
 
 Un humano poseído por un qareen tiene sus atributos y habilidades normales y una serie de ventajas y desventajas. Aplica la siguiente plantilla al humano que ha caído bajo el influjo de un qareen.
 
@@ -344,7 +348,7 @@ Un humano poseído por un qareen tiene sus atributos y habilidades normales y un
 
 ### Abibil (Byakhee)
 
-> … Una horda de mansos, híbridos seres alados que ningún ojo, ningún cerebro en su sano juicio, ha podido contemplar jamás. No eran águilas, ni hienas, ni búhos, ni hormigas, ni murciélagos, sino una mezcla impía de todos y de ninguno; eran algo que no consigo -a nuestro señor se lo agradezco- recordar. Daban saltos blandos y torpes, impulsándose a medias con sus pies palmeados y a medias con sus alas membranosas. Y cuando llegaron hasta los cuarenta celebrantes, cada uno de los 40 se agarró a ellos, montó a horcajadas, y se alejó volando…
+> /p/ … Una horda de mansos, híbridos seres alados que ningún ojo, ningún cerebro en su sano juicio, ha podido contemplar jamás. No eran águilas, ni hienas, ni búhos, ni hormigas, ni murciélagos, sino una mezcla impía de todos y de ninguno; eran algo que no consigo -a nuestro señor se lo agradezco- recordar. Daban saltos blandos y torpes, impulsándose a medias con sus pies palmeados y a medias con sus alas membranosas. Y cuando llegaron hasta los cuarenta celebrantes, cada uno de los 40 se agarró a ellos, montó a horcajadas, y se alejó volando…
 
 Si bien la tradición oral dice que los abibil son grandes aves rapaces que ayudan a los creyentes a defenderse de los herejes, Alhazred no los consideró unos seres buenos y bondadosos, sino simplemente una raza servidora que sirven a un gran poder.
 
@@ -403,8 +407,8 @@ Su zona principal de nidación es en los picos más altos de la cordillera del C
 
 ### Color que cayó del cielo ☾
 
-> La duna estaba cubierta de aquel extraño color, mezcla del rojo del coral, del amarillo del oro y el púrpura del sol cuando se pone en el Wadi Rum. Y se estaba moviendo y extendiendo gracias al siroco que llevaba soplando desde hace semanas, acercándolo al oasis que infectaría y devoraría y convertiría en parte de él.  
-> Algo tenía que hacer para evitarlo, pero no sabía qué y lo peor es que no podía dejar mirar el color. Ese color era magnífico, como no había visto nunca, ni en los más ricos ropajes de los más ricos emires.
+> /p/ La duna estaba cubierta de aquel extraño color, mezcla del rojo del coral, del amarillo del oro y el púrpura del sol cuando se pone en el Wadi Rum. Y se estaba moviendo y extendiendo gracias al siroco que llevaba soplando desde hace semanas, acercándolo al oasis que infectaría y devoraría y convertiría en parte de él.  
+> /p/ Algo tenía que hacer para evitarlo, pero no sabía qué y lo peor es que no podía dejar mirar el color. Ese color era magnífico, como no había visto nunca, ni en los más ricos ropajes de los más ricos emires.
 
 El color es un extraño ser que se cree que no es de la Tierra, sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, desde magia viva hasta fuego sin humo del que se hizo a los yinns. Pero lo describen como un color que se van extendiendo y que impregna todo, rocas, plantas y hasta animales.
 
@@ -466,9 +470,9 @@ Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astro
 
 ### Falak menor o cría de falak (Chthonianos) ☾
 
-> El visir, que había aprendido en los libros la ciencia de los conjuros, se puso a quemar allá perfumes y a pronunciar las fórmulas mágicas que abren las puertas, mientras Hassib, por su parte, siguiendo órdenes del visir, emplazaba a la reina para que se mostrase a él. Y de pronto se produjo un temblor de tierra que tiró al suelo a la mayoría de los circunstantes, y se abrió un agujero por el que surgió, sentada en un azafate de oro transportado por cuatro gusanos colosales de cabezas tentaculadas, la reina Yamlika, cuyo rostro tenía áureos resplandores.
-> 
-> **Referencia:** Historia de la reina Yamlika, princesa subterránea (n. 372)
+> /p/ El visir, que había aprendido en los libros la ciencia de los conjuros, se puso a quemar allá perfumes y a pronunciar las fórmulas mágicas que abren las puertas, mientras Hassib, por su parte, siguiendo órdenes del visir, emplazaba a la reina para que se mostrase a él. Y de pronto se produjo un temblor de tierra que tiró al suelo a la mayoría de los circunstantes, y se abrió un agujero por el que surgió, sentada en un azafate de oro transportado por cuatro gusanos colosales de cabezas tentaculadas, la reina Yamlika, cuyo rostro tenía áureos resplandores.
+> /p/
+> /p/ **Referencia:** Historia de la reina Yamlika, princesa subterránea (n. 372)
 
 \sp
 
@@ -502,7 +506,7 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades y 
 
 ### Fuego de la Yahannam (Vampiro de fuego)
 
-> Parecían miles de pequeños puntos de luz… ¡Los miles de puntos de luz eran como las lucernas que aparecen en las orillas del Tigris cuando el sol se pone en Bagdad! ¡Pero ay, allá donde tocaran, prendían fuego!
+> /p/ Parecían miles de pequeños puntos de luz… ¡Los miles de puntos de luz eran como las lucernas que aparecen en las orillas del Tigris cuando el sol se pone en Bagdad! ¡Pero ay, allá donde tocaran, prendían fuego!
 
 Los fuegos de la Yahannam son unos seres gaseosos e inteligentes que al contacto con atmósferas ricas en oxígeno estallan en llamas. Su forma puede variar desde una especie de enjambre de cientos de chispas de fuego hasta bolas o espirales de fuego.
 
@@ -528,9 +532,9 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
 
 ### Gente del mar (Profundo)
 
-> … un ser humano, un Adamita semejante a todos los Ibu-Adam, con la diferencia de que su cuerpo era verdusco y escamoso, con agallas en sus cortos cuellos, grandes bocas y ojos saltones como de pez; pero, aparte de eso, tenía cabeza, cara, tronco, piernas y brazos, como un hombre de la tierra.
-> 
-> **Referencia:** Historia de Abdalah de la tierra y de Abdalah del mar (n. 506)
+> /p/ … un ser humano, un Adamita semejante a todos los Ibu-Adam, con la diferencia de que su cuerpo era verdusco y escamoso, con agallas en sus cortos cuellos, grandes bocas y ojos saltones como de pez; pero, aparte de eso, tenía cabeza, cara, tronco, piernas y brazos, como un hombre de la tierra.
+> /p/
+> /p/ **Referencia:** Historia de Abdalah de la tierra y de Abdalah del mar (n. 506)
 
 [![Fishy Alien creature by RAPHTOR](./images/profundo.webp)](https://www.deviantart.com/raphtor/art/Fishy-Alien-creature-315217052 "Fishy Alien creature by RAPHTOR") 
 
@@ -556,7 +560,7 @@ Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los
 
 #### Híbridos de la gente del mar y de la gente de la tierra
 
-> Con los años, los jeiques de la aldea empezaron a comprender las ventajas de mezclar su sangre con la de la gente del mar. El impío mestizaje, ya que un kadí no podría llamarlo de otra manera, generaba unos ejemplares más fuertes y más resistentes, pero también carentes de toda empatía. Lo más aterrador de todo es que la gran Terminadora no podía encontrarles.
+> /p/ Con los años, los jeiques de la aldea empezaron a comprender las ventajas de mezclar su sangre con la de la gente del mar. El impío mestizaje, ya que un kadí no podría llamarlo de otra manera, generaba unos ejemplares más fuertes y más resistentes, pero también carentes de toda empatía. Lo más aterrador de todo es que la gran Terminadora no podía encontrarles.
 
 Las gentes del mar pueden hibridarse con los humanos. Estos híbridos parecen humanos, pero según van creciendo empiezan a tomar rasgos de pez: piel pálida y escamosa, ojos saltones, agallas, andares patosos y cuando llegan a la madurez suelen sentir la llamada del mar donde se adentran para desaparecer tras transformarse plenamente en gente del mar. Suelen ser seres ariscos y antisociales con tendencias violentas y no suelen destacar por su intelecto, pero son capaces de infiltrarse entre humanos.
 
@@ -573,10 +577,10 @@ Para hacer un híbrido añádele estas características a un PNJ.
 
 ### Gigante (Gug) ☾
 
-> … un ser peludo con forma humana, tan alto como una palmera, y cuyo aspecto era más horrible que el de todos los monos reunidos. Tenía los ojos rojos como dos tizones inflamados, los dientes largos y salientes como los colmillos de un cerdo, una boca enorme que cruzaba su rostro de arriba abajo y tan grande como el brocal de un pozo, con dos antebrazos que se convierten en cuatro brazos a la altura del codo, y uñas ganchudas cual las garras del león. A su vista, nos llenamos de terror, y después nos quedamos rígidos como muertos. \[…\]  
-> Aconteció que el capitán era un hombre gordo y lleno de carne, y naturalmente, era el más robusto y sólido de todos los hombres del navío. Así es que el espantoso gigante no dudó en fijarse en él al elegir; le cogió entre sus manos cual un carnicero cogería un cordero, le derribó en tierra le puso un pie en el cuello y le desnucó con un solo golpe. Empuñó entonces uno de los inmensos asadores en cuestión y se lo introdujo por la boca, haciéndolo salir por el ano. Entonces encendió mucha leña en el hogar que había en la sala, puso entre las llamas al capitán ensartado, y comenzó a darle vueltas lentamente hasta que estuvo en sazón. Le retiró del fuego entonces y empezó a trincharle en pedazos, como si se tratara de un pollo, sirviéndose para el caso de sus uñas. Hecho aquello, le devoró en un abrir y cerrar de ojos. Tras de lo cual chupó los huesos, vaciándolos de la medula, y los arrojó en medio del montón que se alzaba en la sala.
-> 
-> **Referencia:** La tercera historia de las historias de Sindbad el marino, que trata del tercer viaje (n. 299)
+> /p/ … un ser peludo con forma humana, tan alto como una palmera, y cuyo aspecto era más horrible que el de todos los monos reunidos. Tenía los ojos rojos como dos tizones inflamados, los dientes largos y salientes como los colmillos de un cerdo, una boca enorme que cruzaba su rostro de arriba abajo y tan grande como el brocal de un pozo, con dos antebrazos que se convierten en cuatro brazos a la altura del codo, y uñas ganchudas cual las garras del león. A su vista, nos llenamos de terror, y después nos quedamos rígidos como muertos. \[…\]  
+> /p/ Aconteció que el capitán era un hombre gordo y lleno de carne, y naturalmente, era el más robusto y sólido de todos los hombres del navío. Así es que el espantoso gigante no dudó en fijarse en él al elegir; le cogió entre sus manos cual un carnicero cogería un cordero, le derribó en tierra le puso un pie en el cuello y le desnucó con un solo golpe. Empuñó entonces uno de los inmensos asadores en cuestión y se lo introdujo por la boca, haciéndolo salir por el ano. Entonces encendió mucha leña en el hogar que había en la sala, puso entre las llamas al capitán ensartado, y comenzó a darle vueltas lentamente hasta que estuvo en sazón. Le retiró del fuego entonces y empezó a trincharle en pedazos, como si se tratara de un pollo, sirviéndose para el caso de sus uñas. Hecho aquello, le devoró en un abrir y cerrar de ojos. Tras de lo cual chupó los huesos, vaciándolos de la medula, y los arrojó en medio del montón que se alzaba en la sala.
+> /p/
+> /p/ **Referencia:** La tercera historia de las historias de Sindbad el marino, que trata del tercer viaje (n. 299)
 
 Los gugs son una especie de simios gigantescos (entre 7-8 metros de altura) que habitan en las Tierras del Sueño. Sus brazos se dividen en dos a la altura del codo, con lo que poseen 4 manos con grandes garras. La boca les cruza la cara de arriba a abajo, de forma que cada ojo queda a un lado de la boca.
 
@@ -601,8 +605,8 @@ No sueles salir de sus cuevas, ya que la luz del sol les hace daño. Si bien es 
 
 ### Habitantes de la Ciudad Sin Nombre
 
-> Eran una especie de reptiles, las líneas de su cuerpo sugerían unas veces la forma de un cocodrilo, otras las nutrias chinas, pero la mayoría de las veces recordaban a algo del que ni sabios ni gurús hubieran oído hablar. En tamaño se aproximaban a un humano pequeño, y sus patas delanteras tenían zarpas delicadas y hábiles que curiosamente se parecían a manos y dedos humanos. Pero lo más extraño de todo eran sus cabezas, que presentaban una forma que violaba todos los saberes en conjunto de todos los maestros y maestras de la Casa de la Sabiduría del Califa de Bagdad.  
-> Con nada se pueden comparar cosas así; de un instante pensé en comparaciones tan variadas como el gato, la rana del desierto, el sátiro mítico y el ser humano. Ni el propio Ebliss, padre de los cheitán, había tenido una frente tan colosal y protuberante; sin embargo, los cuernos, la falta de nariz y la mandíbula parecida a la de un cocodrilo del Nilo situaban las cosas fuera de todas las categorías establecidas.
+> /p/ Eran una especie de reptiles, las líneas de su cuerpo sugerían unas veces la forma de un cocodrilo, otras las nutrias chinas, pero la mayoría de las veces recordaban a algo del que ni sabios ni gurús hubieran oído hablar. En tamaño se aproximaban a un humano pequeño, y sus patas delanteras tenían zarpas delicadas y hábiles que curiosamente se parecían a manos y dedos humanos. Pero lo más extraño de todo eran sus cabezas, que presentaban una forma que violaba todos los saberes en conjunto de todos los maestros y maestras de la Casa de la Sabiduría del Califa de Bagdad.  
+> /p/ Con nada se pueden comparar cosas así; de un instante pensé en comparaciones tan variadas como el gato, la rana del desierto, el sátiro mítico y el ser humano. Ni el propio Ebliss, padre de los cheitán, había tenido una frente tan colosal y protuberante; sin embargo, los cuernos, la falta de nariz y la mandíbula parecida a la de un cocodrilo del Nilo situaban las cosas fuera de todas las categorías establecidas.
 
 
 Esto reptiles cuadrúpedos inteligentes, como bien dice su nombre, habitan la perdida Ciudad sin Nombre. Se les representa con una gran chepa y cabezas de tamaño algo desproporcionadas.
@@ -636,7 +640,7 @@ Parece ser que su evolución y decadencia fue paralela con los de la serpigente 
 
 ### Lengnita
 
-> El mercader que venía en esa dhow tenía la boca desmesurada y una barba hirsuta y salvaje, y la forma de ponerse el turbante hacía que se formaran dos bultos hacia arriba y le cubría casi hasta los ojos tapando sus espesas cejas. Sus babuchas eran las más pequeñas y raras que se hubiera visto jamás en Bagdad y a pesar de sus bombachos se notaba algún tipo de deformación o cojera en sus piernas.
+> /p/ El mercader que venía en esa dhow tenía la boca desmesurada y una barba hirsuta y salvaje, y la forma de ponerse el turbante hacía que se formaran dos bultos hacia arriba y le cubría casi hasta los ojos tapando sus espesas cejas. Sus babuchas eran las más pequeñas y raras que se hubiera visto jamás en Bagdad y a pesar de sus bombachos se notaba algún tipo de deformación o cojera en sus piernas.
 
 [![Aries by Or003](./images/lengnita.jpg)](https://www.deviantart.com/or003/art/Aries-706530045 "Aries by Or003") 
 
@@ -682,7 +686,7 @@ Aunque la creencia popular dice que los Nasnas son la descendencia de un tipo de
 
 ### Qatram (Shoggoth) ☾
 
-> Era algo horrendo e indescriptible, mayor que los más grandes dhows que surcan el Tigris; una congestión informe de burbujas protoplasmáticas, vagamente luminiscentes, y con millares de ojos temporales formándose y deshaciéndose como pústulas de luz verdosa por toda la masa que, llenando el túnel ante nosotros, avanzaba a pasos de carga, aplastando los camellos y mulas de la caravana y serpenteando por el reluciente suelo que él y los de su especie habían mantenido maléficamente limpio. Oíamos el arcano grito burlón, que decía "¡Tekeli-li! ¡Tekeli-li!
+> /p/ Era algo horrendo e indescriptible, mayor que los más grandes dhows que surcan el Tigris; una congestión informe de burbujas protoplasmáticas, vagamente luminiscentes, y con millares de ojos temporales formándose y deshaciéndose como pústulas de luz verdosa por toda la masa que, llenando el túnel ante nosotros, avanzaba a pasos de carga, aplastando los camellos y mulas de la caravana y serpenteando por el reluciente suelo que él y los de su especie habían mantenido maléficamente limpio. Oíamos el arcano grito burlón, que decía «¡Tekeli-li! ¡Tekeli-li!»
 
 [![Shoggoth por Nottsuo](./images/shoggoth.webp)](https://www.deviantart.com/nottsuo/art/Shoggoth-594261203 "Shoggoth por Nottsuo") 
 
@@ -714,15 +718,15 @@ Se conocen casos en los que han desarrollado la capacidad de habla.
 
 #### Isla viviente ☾
 
-> Un día en que navegábamos sin ver tierra desde hacía varios días, vimos surgir del mar una isla que por su vegetación nos pareció algún jardín maravilloso entre los jardines del Edén. \[…\]  
-> Al encender un fuego para cocinar los frutos recogidos de los árboles de la isla, sentimos de repente que temblaba la isla toda con tan ruda sacudida que fuimos despedidos a algunos pies de altura sobre el suelo. Del suelo emergieron infinitos ojos y pequeños zarcillos oscuros. \[…\]  
-> Y en aquel momento vimos aparecer en la proa del navío al capitán, que nos gritaba con una voz terrible y gestos alarmantes: "¡Salvaos pronto!, ¡oh pasajeros! ¡Subid enseguida a bordo! ¡Dejadlo todo! ¡Abandonad en tierra vuestros efectos y salvad vuestras almas! ¡Huid del abismo que os espera! ¡Porque la isla donde os encontráis no es una isla, sino una monstruosidad informe y gigantesca que eligió en medio de este mar su domicilio desde antiguos tiempos, y merced a la arena marina crecieron árboles en su lomo! ¡La despertasteis ahora de su sueño con vuestra lumbre, y hela aquí que se despierta! ¡Salvaos, o si no, nos atrapará con sus tentáculos y nos sumergirá en el mar, que ha de tragaros sin remedio! ¡Salvaos! ¡Dejadlo todo, que he de partir!" 
+> /p/ Un día en que navegábamos sin ver tierra desde hacía varios días, vimos surgir del mar una isla que por su vegetación nos pareció algún jardín maravilloso entre los jardines del Edén. \[…\]  
+> /p/ Al encender un fuego para cocinar los frutos recogidos de los árboles de la isla, sentimos de repente que temblaba la isla toda con tan ruda sacudida que fuimos despedidos a algunos pies de altura sobre el suelo. Del suelo emergieron infinitos ojos y pequeños zarcillos oscuros. \[…\]  
+> /p/ Y en aquel momento vimos aparecer en la proa del navío al capitán, que nos gritaba con una voz terrible y gestos alarmantes: "¡Salvaos pronto!, ¡oh pasajeros! ¡Subid enseguida a bordo! ¡Dejadlo todo! ¡Abandonad en tierra vuestros efectos y salvad vuestras almas! ¡Huid del abismo que os espera! ¡Porque la isla donde os encontráis no es una isla, sino una monstruosidad informe y gigantesca que eligió en medio de este mar su domicilio desde antiguos tiempos, y merced a la arena marina crecieron árboles en su lomo! ¡La despertasteis ahora de su sueño con vuestra lumbre, y hela aquí que se despierta! ¡Salvaos, o si no, nos atrapará con sus tentáculos y nos sumergirá en el mar, que ha de tragaros sin remedio! ¡Salvaos! ¡Dejadlo todo, que he de partir!" 
 
 \sp
 
-> Al oír estas palabras del capitán, los pasajeros, aterrados, dejaron todos sus efectos, vestidos, utensilios y hornillas, y echaron a correr hacia el navío, que a la sazón levaba ancla. Pudieron alcanzarlo a tiempo algunos; otros no pudieron. Porque la descomunal masa viscosa los había atrapado y aplastado con sus terribles pseudópodos gelatinosos.
-> 
-> **Referencia:** La primera historia de las historias de Sindbad el marino, que trata del primer viaje (n. 292)
+> /p/ Al oír estas palabras del capitán, los pasajeros, aterrados, dejaron todos sus efectos, vestidos, utensilios y hornillas, y echaron a correr hacia el navío, que a la sazón levaba ancla. Pudieron alcanzarlo a tiempo algunos; otros no pudieron. Porque la descomunal masa viscosa los había atrapado y aplastado con sus terribles pseudópodos gelatinosos.
+> /p/
+> /p/ **Referencia:** La primera historia de las historias de Sindbad el marino, que trata del primer viaje (n. 292)
 
 Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isla flotante. Con los años ha ido acumulando entre su protoplasma arena de mar, le han crecido sargazos y con los siglos incluso vegetación terrestre como arbustos y palmeras, convirtiéndose en un vergel. Desde lejos puede parecer una pequeña isla paradisíaca, pero una vez encima una tirada Notar t dirá que han caído en una trampa mortal.
 
@@ -746,7 +750,7 @@ Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isl
 
 ### Serpigente
 
-> Shirin siguió las instrucciones del jeique y entró en el templo de la extraña divinidad ofidea; Oh, solo nuestro señor es verdadero, y moviéndose por las esquinas menos iluminadas por las lámparas de aceite, se fue adentrando en las ruinas. El pasadizo que había tomado terminaba en una balconada y según se acercaba un siseo pronunciado por cientos de lenguas se iba haciendo más audible. Al asomarse vio algo que le heló la sangre; cientos de aquellas criaturas serpentiles rezaban a un ídolo gigante de una mujer con cabeza de cobra.
+> /p/ Shirin siguió las instrucciones del jeique y entró en el templo de la extraña divinidad ofidea; Oh, solo nuestro señor es verdadero, y moviéndose por las esquinas menos iluminadas por las lámparas de aceite, se fue adentrando en las ruinas. El pasadizo que había tomado terminaba en una balconada y según se acercaba un siseo pronunciado por cientos de lenguas se iba haciendo más audible. Al asomarse vio algo que le heló la sangre; cientos de aquellas criaturas serpentiles rezaban a un ídolo gigante de una mujer con cabeza de cobra.
 
 La serpigente son humanoides escamosos de rostro y cola reptiliano. Dominaron la Tierra durante miles de años con su magia y su alquimia y esclavizaron a la raza humana. Pero su imperio cayó y su especie fue degenerando hasta hoy. Quedan ya muy pocos asentamientos de serpigente y normalmente se ocultan de los humanos. Aun así, siguen siendo poderosos magos y sus desarrollos en genética pueden crear terribles mutaciones, desde bestias de guerra mutantes hasta terroríficas enfermedades.
 
@@ -792,7 +796,7 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 
 ### Sirrush (Sabueso de Tíndalos) ☾
 
-> … En sus cuerpos flacos y famélicos se concentra tanto mal como el propio Iblis. En realidad no estoy seguro de que tuvieran cuerpo: solo los vi un instante. Pero de tenerlo se parecían a los perros guardianes con un solo cuerno que había en los bajorrelieves de la antigua puerta de Ishtar en las ruinas de Babilonia.
+> /p/ … En sus cuerpos flacos y famélicos se concentra tanto mal como el propio Iblis. En realidad no estoy seguro de que tuvieran cuerpo: solo los vi un instante. Pero de tenerlo se parecían a los perros guardianes con un solo cuerno que había en los bajorrelieves de la antigua puerta de Ishtar en las ruinas de Babilonia.
 
 \sp
 
@@ -829,9 +833,9 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
 
 ### Sirviente alado (Noctívago demacrado)
 
-> Habiendo dicho estas palabras, el persa sacó de entre su traje un tamboril de cobre en el cual había extendida una piel de gallo y aparecían grabados caracteres talismánicos. Y se puso a tocar con sus dedos en el tamboril. Y al punto se alzó una polvareda, desde el seno de la cual se hizo oír un relincho prolongado; y súbitamente, surgió ante ellos un gran ser negro con alas de murciélago, que empezó a golpear el suelo los tentáculos que tenía por extremidades, echando llamas por las narices. Y el persa y Hassán fueron rodeados por los pseudópodos del cheitán. Y al instante el sirviente batió las alas y remontó el vuelo; y en menos tiempo del que se necesita para abrir un párpado y cerrar el otro, les dejó en la cumbre de la Montaña de las Nubes. Luego desapareció.
-> 
-> **Referencia:** Las aventuras de Hassan Al-Bassri (n. 582)
+> /p/ Habiendo dicho estas palabras, el persa sacó de entre su traje un tamboril de cobre en el cual había extendida una piel de gallo y aparecían grabados caracteres talismánicos. Y se puso a tocar con sus dedos en el tamboril. Y al punto se alzó una polvareda, desde el seno de la cual se hizo oír un relincho prolongado; y súbitamente, surgió ante ellos un gran ser negro con alas de murciélago, que empezó a golpear el suelo los tentáculos que tenía por extremidades, echando llamas por las narices. Y el persa y Hassán fueron rodeados por los pseudópodos del cheitán. Y al instante el sirviente batió las alas y remontó el vuelo; y en menos tiempo del que se necesita para abrir un párpado y cerrar el otro, les dejó en la cumbre de la Montaña de las Nubes. Luego desapareció.
+> /p/
+> /p/ **Referencia:** Las aventuras de Hassan Al-Bassri (n. 582)
 
 Los sirvientes alados son unos seres con unas grandes alas de murciélago y colas con pinchos afilados. Tiene tentáculos en vez de extremidades y cuernos en lo que sería su cabeza. Su piel es oscura y de una textura entre gomosa y aceitosa. Recuerdan a demonios o gárgolas. Son bastante apacibles y nada agresivos, pero es difícil negociar con ellos, si han recibido una orden la cumplen sin preguntarse por qué. 
 
@@ -851,7 +855,7 @@ Sirven principalmente al dios Nodens y tienen buenas relaciones con los gules. P
 
 ### Sukaan (Habitante de las arenas)
 
-> Entonces salió de una cueva un sukaan, y luego otro y otro y otro … hasta un total de 40. La rabia y la locura que destilaban sus ojos brillantes en la oscuridad asusto a toda la caravana que sabía que no llegaría a Damasco y que aquella cueva en el desierto sería su tumba.
+> /p/ Entonces salió de una cueva un sukaan, y luego otro y otro y otro … hasta un total de 40. La rabia y la locura que destilaban sus ojos brillantes en la oscuridad asusto a toda la caravana que sabía que no llegaría a Damasco y que aquella cueva en el desierto sería su tumba.
 
 Dentro de las leyendas árabes hay varios seres que viven en cuevas en el desierto, pero la mayoría los llama Sukaan. Son humanoides de grandes ojos y orejas. Su piel parece hecha de arena y es por ello que puede camuflarse fácilmente en el desierto. Son nocturnos, aunque pueden salir a la luz del sol sin problemas.
 
@@ -878,7 +882,7 @@ El proceso de posesión no tiene mecánica propia, simplemente es algo que puede
 
 ### Vástagos de Astarte (Retoño oscuro) ☾
 
-> En mitad de la duna había algo negro, algo que se asemejaba, pero no era una palmera. ¡Ay mi señor! Algo grande, y negro, y viscoso, allí en cuclillas sin más, esperando con sus brazos viscosos, retorciéndose y alargándose \[…\] Aquello subió, arrastrándose y fluyendo sobre sus pezuñas y sus bocas y sus brazos serpentinos.
+> /p/ En mitad de la duna había algo negro, algo que se asemejaba, pero no era una palmera. ¡Ay mi señor! Algo grande, y negro, y viscoso, allí en cuclillas sin más, esperando con sus brazos viscosos, retorciéndose y alargándose \[…\] Aquello subió, arrastrándose y fluyendo sobre sus pezuñas y sus bocas y sus brazos serpentinos.
 
 Los vástagos de Astarte son unas masas informes de tentáculos con varias bocas. Para desplazarse usan tres patas acabadas en pezuñas. Miden de 4 a 6 metros de altura. 
 
@@ -1186,7 +1190,9 @@ Seguramente podría enfrentarse a un tigre o león en igualdad de condiciones. D
     * **Colmillos:** FUE+d6
     * **Olfato:** Tienen un fantástico olfato para detectar comida y enemigos. +2 a Notar para buscar comida y detectar enemigos ocultos.
 
+```
 Usar pelo de cerdo-gamo en cualquier armadura de tela le da un punto más de la protección adicional.
+```
 
 \sp
 
