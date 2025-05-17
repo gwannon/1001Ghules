@@ -149,6 +149,7 @@ $bots['ips'] = [
   "104.168.80.184", //HostPapa
   "192.210.184.249", //HostPapa
   "198.23.221.50", //HostPapa
+  "198.23.221.51", //HostPapa
 
   "116.202.35.85", //Hetzner Online GmbH
   "116.202.33.240", //Hetzner Online GmbH
