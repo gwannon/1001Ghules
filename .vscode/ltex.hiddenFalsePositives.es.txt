@@ -490,3 +490,16 @@
 {"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QHistoria del tercer saaluk (n. 14)\\E$"}
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QDesde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY del fondo de aquel agujero emergieron los restos podridos de un inmenso falak muerto.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTwo shatranj players in a detail from a Persian miniature painting of Bayasanghori Shahname made in 1430\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSummary Execution under the Moorish Kings of Granada (1870), Henri Regnault\\E$"}
+{"rule":"FABRIC","sentence":"^\\QLas fábricas de ladrillos de adobe siempre necesitan gente que mezcle paja con barro.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta Dual Disk by finaformsora\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFishy Alien creature by RAPHTOR\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWe’re Martyrs For Seyduna! by MuratCALIS\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1001: The City of Brass by ArtDoge\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QZaharia - Concept by DottorFile\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGiant limestone statues of Rameses II, Temple of Rameses, Abu Simbel, Egypt, 1836 - David Roberts\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEastern landscape with ruins.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QKom Ombo Temple - Roberts, David\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QApocalypse by ThemeFinland\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPersian Demons from a Book of Magic and Astrology (1921)\\E$"}

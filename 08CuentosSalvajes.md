@@ -385,7 +385,7 @@ Los rumores de guerra se están extendiendo por toda la ciudad y las caravanas n
 
 Lo peor es que la gente empieza a murmurar: ¿Por qué no actúa el califa? Tiene que protegernos. Es un cobarde que se pasa en día de fiesta en fiesta y de cama en cama.
 
-Giafar necesita encontrar el shatranj y desmontar su maléfica mágica ilusoria. Puede que con el tablero caiga la célula "terrorista" que quiere desestabilizar el califato.
+Giafar necesita encontrar el shatranj y desmontar su maléfica mágica ilusoria. Puede que con el tablero caiga la célula «terrorista» que quiere desestabilizar el califato.
 
 \sp
 
@@ -513,13 +513,13 @@ La persona que más sabe de matemáticas en la ciudad es Abū Yūsuf al-Kindī. 
 
 \sp
 
-Si se acercan a él en la mezquita o la Casa de la Sabiduría, estará encantado de enfrentarse al misterio matemático que le propongan, pero sus "cuidadores" enseguida se desharán de ellos. Tendrán que hacer algún tipo de plan para despistar a sus vigilantes.
+Si se acercan a él en la mezquita o la Casa de la Sabiduría, estará encantado de enfrentarse al misterio matemático que le propongan, pero sus «cuidadores» enseguida se desharán de ellos. Tendrán que hacer algún tipo de plan para despistar a sus vigilantes.
 
 Al enseñarles el cuadro mágico, este les dirá que necesita por lo menos 3 cuadros más para tratar de descifrar el código o el significado. Con uno solo, podría darles algún dato, peros serían mínimas especulaciones. Si vuelven con otros 3 ejemplos podrá decirlo que no son matemáticas, sino magia y bastante poderosa. Con ellas se invoca una entidad llamada Baduh que se cuenta que trata problemas de dinero y amor.
 
 #### Cazando al dibujante
 
-Deberán buscar una manera de pillar al dibujante de los cuadrados mágicos. Pueden establecer vigilancias, hacer un mapa con los cuadrados y buscar su centro, incluso algún hechizo de adivinación. El método que usen les llevará hasta Kala ([Mercader](#anchormercader)), una rica heredera de la Ciudad Circular cuyos padres se han divorciado y está buscando volverlos a unir con métodos mágicos. Siempre va acompañada de dos guardaespaldas ([Soldado/Guardia de palacio/Amazona](#anchorsoldado)). Sus padres le han prohibido hacer esos extraños dibujos en su casa, así que ha tenido que salir de la Ciudad Circular y dibujarlos por toda la ciudad.
+Deberán buscar una manera de pillar al dibujante de los cuadrados mágicos. Pueden establecer vigilancias, hacer un mapa con los cuadrados y buscar su centro, incluso algún hechizo de adivinación. El método que usen les llevará hasta Kala (Mercader), una rica heredera de la Ciudad Circular cuyos padres se han divorciado y está buscando volverlos a unir con métodos mágicos. Siempre va acompañada de dos guardaespaldas (Soldado/Guardia de palacio/Amazona). Sus padres le han prohibido hacer esos extraños dibujos en su casa, así que ha tenido que salir de la Ciudad Circular y dibujarlos por toda la ciudad.
 
 La cordura de Kala está en mínimos y está obsesionada con el divorcio de sus padres. Es difícil convencerla de que deje de hacer los cuadros mágicos y si la enfurecen lanzará a sus portaalfanje contra tus schahriars, cuyas vidas no le importan. Lo más fácil es convencerla de que hay otro camino para volver a juntar a sus padres, desde filtros de amor a una peregrinación a la Meca. Otra opción sería tratar de hablar con sus padres antes de que su locura vaya a más o alguien la capte para una secta.
 
@@ -702,7 +702,7 @@ Si falla algunos de los porteadores, no tendrán suficiente hielo y tendrán que
 
 ### Historia de la locura del almotacén
 
-_El almotacén que revisaba esta mañana los pesos de los puestos del mercado ha empezado a chillar frenéticamente saliéndole espumarajos por la boca. De repente se ha parado en seco, se ha sentado y solo balbuceaba "Es más pequeño … No puede ser … ¡¡¡SOY MÁS PEQUEÑO!!!"._
+_El almotacén que revisaba esta mañana los pesos de los puestos del mercado ha empezado a chillar frenéticamente saliéndole espumarajos por la boca. De repente se ha parado en seco, se ha sentado y solo balbuceaba «Es más pequeño … No puede ser … ¡¡¡SOY MÁS PEQUEÑO!!!»._
 
 Shaikh Ansari, el almotacén de Bagdad, se encarga de revisar que las herramientas de peso y medida que usan los puestos del zoco no estén trucados. Es una persona superrigurosa como exige su trabajo y mide y pesa todo concienzudamente.
 
@@ -742,7 +742,7 @@ Pueden intentar varias líneas de investigación.
 
 #### Sospechosos habituales
 
-Shaikh tiene bastantes "enemigos", gente a la que ha expulsado de zocos y bazares de la ciudad por estafar con sus pesos y medidas, pero ninguno tan poderoso como para poder lanzar una maldición. Lo mejor es hablar con Dalila, la reina de los bajos fondos, quizás sepa algo.
+Shaikh tiene bastantes «enemigos», gente a la que ha expulsado de zocos y bazares de la ciudad por estafar con sus pesos y medidas, pero ninguno tan poderoso como para poder lanzar una maldición. Lo mejor es hablar con Dalila, la reina de los bajos fondos, quizás sepa algo.
 
 Dalila suele estar en su casa en Karkh y su dirección es conocida en los bajos fondos. Dalila estará encantada de atender a los schahriars, incluso les pondrá algo de comer mientras hablan. La reina del crimen conoce el Pequeño Consejo y que le deban un favor le interesa bastante. Son niños y niñas, pero pueden conseguir cosas que el personal normal no puede.
 
@@ -772,7 +772,7 @@ Alimenta la paranoia del objetivo con que igual ahora con la cicatriz por fuego 
 
 Hazle creer que la cicatriz cambiar de forma o que duele, si está cerca Bahram.
 
-Es importante que si quieren acabar con Bahram, este debe escapar. Bahram el guaro es un personaje recurrente que se dedica a sembrar el caos, haya a donde va. Además, es parte fundamental de la aventura "La caída de Giafar".
+Es importante que si quieren acabar con Bahram, este debe escapar. Bahram el guaro es un personaje recurrente que se dedica a sembrar el caos, haya a donde va. Además, es parte fundamental de la aventura «La caída de Giafar».
 
 ### Historia de la casa encantada en el zoco de los tejedores
 
@@ -950,7 +950,7 @@ Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer l
 \sp
 
 * **Capacidades especiales:**
-    * **Hechizos:** PP 20, Ojos de serpiente, Círculo de invocación, Diamante líquido, Luces deslumbrantes, Mecer
+  * **Hechizos:** PP 20, Ojos de serpiente, Círculo de invocación, Diamante líquido, Luces deslumbrantes, Mecer
 * **TPC:** 1d4 (si se mueve)
 
 Si alguien se queda solo en el cuarto 2 es perfecto para usar sus poderes de Marioneta y controlarlo y hacerle atacar al resto. También puede invocar aliados, pero solo si ve muy comprometida su supervivencia. La bendición de Yig se la lanza según entra alguien en la carbonera.
@@ -1041,7 +1041,7 @@ Nada más se abre la puerta se lanzarán al ataque en busca de carne humana sin 
 
 #### Cuarta sala
 
-A diferencia de las anteriores, en esta no hay puerta, solo una escalera de piedra que lleva a una trampilla cerrada (Consistencia 12) por fuera. Hay otra pintada en una de las paredes que vuelve a poner "Solo uno sobrevivirá para servir a la Mano Dorada". El asesino busca que en este punto luchen a muerte entre ellos hasta solo quede uno vivo.
+A diferencia de las anteriores, en esta no hay puerta, solo una escalera de piedra que lleva a una trampilla cerrada (Consistencia 12) por fuera. Hay otra pintada en una de las paredes que vuelve a poner «Solo uno sobrevivirá para servir a la Mano Dorada». El asesino busca que en este punto luchen a muerte entre ellos hasta solo quede uno vivo.
 
 En este punto las cosas se van a ralentizar. El asesino solo abrirá la trampilla cuando quede uno vivo y para cerciorarse de eso les vigilará por la trampilla. No hay agua ni comida, así que cuanto más tiempo esperen, más débiles estarán.
 
@@ -1092,7 +1092,7 @@ Hay una serie de cuentos salvajes que podrían ser protagonizados por tus pillas
 
 Esta campaña es la continuación de la expedición a la Ciudad de Bronce que se narra en "Historia prodigiosa de la Ciudad de Bronce". Al final de esa historia, Abdalmalek, califa de Damasco, promete volver a la Ciudad de Bronce y liberar a la ciudad de la maldición que se cierne sobre ella.
 
-> El califa Abdalmalek quedó encantado y maravillado al mismo tiempo del relato que de la aventura le hizo el emir Muza, y exclamó: "Siento en extremo no haber ido con vosotros a esa Ciudad de Bronce. ¡Pero iré, con la venia de Alah, a admirar por mí mismo esas maravillas y a tratar de aclarar el misterio de ese encantamiento!"
+> El califa Abdalmalek quedó encantado y maravillado al mismo tiempo del relato que de la aventura le hizo el emir Muza, y exclamó: «Siento en extremo no haber ido con vosotros a esa Ciudad de Bronce. ¡Pero iré, con la venia de Alah, a admirar por mí mismo esas maravillas y a tratar de aclarar el misterio de ese encantamiento!».
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 346)
 
@@ -1114,7 +1114,7 @@ Por la noche, mientras la expedición descansa, a la luz de las hogueras se desa
 
 \sc
 
-> "En efecto, ¡oh Emir de los Creyentes! esos vasos de cobre no son otros que aquellos donde se encerraron, en tiempos antiguos, a los genios que se rebelaron ante las órdenes de Suleimán, vasos arrojados al fondo del mar mugiente, en los confines del Magreb, en el África occidental, tras de sellarlos con el sello temible. Y el humo que se escapa de ellos es simplemente el alma condensada de los efrits, los cuales no por eso dejan de tomar su aspecto formidable si llegan a salir al aire libre".
+> «En efecto, ¡oh Emir de los Creyentes! esos vasos de cobre no son otros que aquellos donde se encerraron, en tiempos antiguos, a los genios que se rebelaron ante las órdenes de Suleimán, vasos arrojados al fondo del mar mugiente, en los confines del Magreb, en el África occidental, tras de sellarlos con el sello temible. Y el humo que se escapa de ellos es simplemente el alma condensada de los efrits, los cuales no por eso dejan de tomar su aspecto formidable si llegan a salir al aire libre».
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 338)
 
@@ -1138,7 +1138,7 @@ Lo que nadie sabe es que la estirpe del califa se hibridó con las gentes del ma
 
 La ruta que debe seguir la expedición empieza en Damasco y bajará hasta Egipto, pasando por Gaza y atravesando el desierto del Sinaí.
 
-En Egipto pasarán por El Cairo y, tras abandonar el delta del Nilo, se adentrarán en la región del Magreb (actuales, Marruecos, Argelia, Túnez y Libia).
+En Egipto pasarán por El Cairo y, tras abandonar el delta del Nilo, se adentrarán en la región del Magreb (actuales Marruecos, Argelia, Túnez y Libia).
 
 Una vez en el Magreb deberán adentrarse en el Sahara hacia lo desconocido y buscar la ruta de la mítica Ciudad de Bronce.
 
@@ -1161,7 +1161,7 @@ Las personas principales de esta expedición son:
 * **Princesa Alya de Damasco:** Su abuelo, el califa de Damasco Abdalmalek ben-Merwán, mandó la expedición original y ella quiere cumplir la promesa de su abuelo de volver a la Ciudad de Bronce y romper su maldición.
 * **Muhammad al-Lawati:** Es el explorador principal de la segunda expedición a la Ciudad de Bronce
 * **Mahmoud Assy:** Es el viejo consejero personal del califa de Damasco y no pudo ir en la primera expedición y desea ir en esta y quitarse la espinita clavada que tenía.
-* **Kusch ben-Scheddad ben-Aad:** Es el hijo del mítico rey Scheddad ben-Add. Aunque lleva siglos muertos, pero hay que recordar que "igual no está muerto lo que yace eternamente".
+* **Kusch ben-Scheddad ben-Aad:** Es el hijo del mítico rey Scheddad ben-Add. Aunque lleva siglos muertos, pero hay que recordar que «igual no está muerto lo que yace eternamente».
 
 \sp
 
@@ -1270,7 +1270,7 @@ Seguramente trovadores y poetas y poetisas hablarán de esta travesía.
 
 Se ha reunido miles de personas, nadie quiere perderse a los y las valientes que formarán parte de la expedición. Hay padres y madres despidiéndose de sus hijos e hijas y a esposas y esposas, novias y novias diciendo dulces palabras antes de partir. Pero también hay desaprensivos apostando cuantos volverán si es que llega alguno y otros con ojos envidiosos calculando las riquezas que conseguirán en el viaje.
 
-Al paso de la princesa, las gentes de Damasco lanzan pétalos y gritan vítores en su nombre. De entre el gentío sale una mujer mayor que cogerá la mano de la princesa y le leerá la buenaventura en las rayas de su mano. "Ohh princesa de Damasco, si bien debes liberar de su maldición a la broncínea ciudad, mantente alejada de tus iguales, pues solo te traerán desgracias y dolor.
+Al paso de la princesa, las gentes de Damasco lanzan pétalos y gritan vítores en su nombre. De entre el gentío sale una mujer mayor que cogerá la mano de la princesa y le leerá la buenaventura en las rayas de su mano. «Ohh princesa de Damasco, si bien debes liberar de su maldición a la broncínea ciudad, mantente alejada de tus iguales, pues solo te traerán desgracias y dolor»s.
 
 ### 1ª etapa. Damasco - Gaza
 
@@ -1429,12 +1429,12 @@ Lo hará tranquilamente, como hace cada noche desde hace semanas cuando la pirá
 * **Paso:** 5; **Parada:** 7 **Dureza:** 10
 * **Ventajas:** Afinidad mágica
 * **Capacidades especiales:**
-    * **Momificado:** -2 paso y tira d4 para correr.
-    * **Debilidad (Fuego):** Si se la amenaza con fuego deberá pasar una tirada de Espíritu -2 para tratar de enfrentarse al portador del fuego o acercarse a una zona de llamas. El fuego le produce un d6 extra de daño.
-    * **Puñetazo:** FUE+d6.
-    * **Muerto viviente:** +2 Dureza; +2 a las tiradas para recuperarse del aturdimiento. Inmune a enfermedades y venenos. Los ataques apuntados no causan daño extra. No sufre penalización por heridas.
-    * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
-    * **Bendición de Isis:** La diosa de la luna, Isis, le profiere de protección contra la magia, reduciendo en 2 puntos todo el daño mágico que reciba tanto de armas mágicas como de hechizos. Por otro lado, su luz es lo que la anima y si deja de estar iluminado por su luz más de 2 turnos quedará quieta hasta que vuelva la luz de luna.
+  * **Momificado:** -2 paso y tira d4 para correr.
+  * **Debilidad (Fuego):** Si se la amenaza con fuego deberá pasar una tirada de Espíritu -2 para tratar de enfrentarse al portador del fuego o acercarse a una zona de llamas. El fuego le produce un d6 extra de daño.
+  * **Puñetazo:** FUE+d6.
+  * **Muerto viviente:** +2 Dureza; +2 a las tiradas para recuperarse del aturdimiento. Inmune a enfermedades y venenos. Los ataques apuntados no causan daño extra. No sufre penalización por heridas.
+  * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
+  * **Bendición de Isis:** La diosa de la luna, Isis, le profiere de protección contra la magia, reduciendo en 2 puntos todo el daño mágico que reciba tanto de armas mágicas como de hechizos. Por otro lado, su luz es lo que la anima y si deja de estar iluminado por su luz más de 2 turnos quedará quieta hasta que vuelva la luz de luna.
 * **Equipo:** Khopesh digno de un califa (FUE+d8)
 * **TPC:** 1d6
 
@@ -1502,17 +1502,17 @@ Ten en cuenta que el hipopótamo es el animal más peligroso de toda África y t
 * **Habilidades:** Atletismo d8, Notar d6, Pelea d8, Supervivencia d6
 * **Paso:** 8; **Parada:** 6; **Dureza:** 16 (2)
 * **Capacidades especiales:**
-    * **Colmillos:** FUE+d8
-    * **Semiacuáticos:** No pueden respirar bajo el agua, pero pueden aguantar la respiración sin problemas hasta 5 minutos. Son excelentes nadadores y nadan a un paso de 8.
-    * **Armadura +2:** Su piel dura les protege contra flechas y espadas.
-    * **Tamaño +6:** Alcanzan normalmente de 6 a 7,5 m de longitud y de 3,2 a 4 m de altura (+6 dureza, +2 bonificación al atacarle, +1 herida).
+  * **Colmillos:** FUE+d8
+  * **Semiacuáticos:** No pueden respirar bajo el agua, pero pueden aguantar la respiración sin problemas hasta 5 minutos. Son excelentes nadadores y nadan a un paso de 8.
+  * **Armadura +2:** Su piel dura les protege contra flechas y espadas.
+  * **Tamaño +6:** Alcanzan normalmente de 6 a 7,5 m de longitud y de 3,2 a 4 m de altura (+6 dureza, +2 bonificación al atacarle, +1 herida).
 
 \sp
 
 * **Capacidades especiales:**
-    * **Resistente:** No recibe heridas al ser aturdido dos veces seguidas.
-    * **Duro:** Puede aguantar una herida antes de quedar incapacitado.
-    * **Carga:** Si se mueve todo su movimiento en línea recta puede hacer una tirada única de Pelea contra todos los enemigos que encuentre en su camino con un daño FUE y deberán tirar AGI para no quedar caídos en el suelo.
+  * **Resistente:** No recibe heridas al ser aturdido dos veces seguidas.
+  * **Duro:** Puede aguantar una herida antes de quedar incapacitado.
+  * **Carga:** Si se mueve todo su movimiento en línea recta puede hacer una tirada única de Pelea contra todos los enemigos que encuentre en su camino con un daño FUE y deberán tirar AGI para no quedar caídos en el suelo.
 
 ##### El templo hundido
 
@@ -1599,7 +1599,7 @@ Un ruido de la vecina tienda de la princesa Alya despierta a tus schahriars, par
 
 En cuanto entren tus schahriars, empezará el combate. En el turno de la figura que rebusca, rasgará la tienda de campaña y saldrá corriendo.
 
-Alya gritará: "¡Qué no escape! Tienen el diario del emir Muza". Mientras las otras figuras encapuchadas en su turno se pondrán en medio y tratarán de evitar que lo persigan. Cada turno que tus schahriars se entretengan con ellos dará una carta de ventaja si tratan de perseguirlo.
+Alya gritará: «¡Qué no escape! Tienen el diario del emir Muza». Mientras las otras figuras encapuchadas en su turno se pondrán en medio y tratarán de evitar que lo persigan. Cada turno que tus schahriars se entretengan con ellos dará una carta de ventaja si tratan de perseguirlo.
 
 Como buenos fanáticos, ni pedirán ni darán cuartel e irán a muerte. Si tratan de no matarlos para interrogarlos, como Scheherazade puedes gastar un deseo para que suiciden antes de caer inconsciente bebiendo unos viales que llevan (es agua regia que les disolverá las entrañas).
 
@@ -1772,14 +1772,14 @@ No son muy inteligentes, pero sí fuertes. Su pulsión por chupar los pies es ta
 * **Paso:** 6; **Parada:** 6; **Dureza:** 8
 * **Ventajas:** Bestia, Armas naturales
 * **Capacidades especiales:**
-    * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
-    * **Tamaño:** Es del tamaño de oso (dureza +2).
-    * **Lengüetazo:** FUE+d4.
+  * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
+  * **Tamaño:** Es del tamaño de oso (dureza +2).
+  * **Lengüetazo:** FUE+d4.
 
 \sp
 
-* **Capacidades especiales:**    
-    * **Saliva narcótica:** Si chupa alguna zona de pie desnuda de un objetivo dormido deberá pasar una tirada de Vigor -2 o caerá dormido mágicamente hasta la salida del sol. No hay forma no mágica de despertarlo.
+* **Capacidades especiales:**
+  * **Saliva narcótica:** Si chupa alguna zona de pie desnuda de un objetivo dormido deberá pasar una tirada de Vigor -2 o caerá dormido mágicamente hasta la salida del sol. No hay forma no mágica de despertarlo.
 * **Equipo:** Alfanje herrumbroso robado a alguna víctima (FUE+d8-1)
 * **TPC:** 1d6 (manada)
 
@@ -1868,7 +1868,7 @@ Apelarán a su lógica y al bien que debe haber en sus corazones para que cambie
 
 ##### Reunión de confabuladores a la luz de la noche
 
-En la tienda de tus schahriars aparecerá una moneda de cobre con un diseño muy antiguo en la que han dejado una cara pulida que pone: "A medianoche junto a la tumba de Kusch ben-Scheddad ben-Aad". Parece un mensaje del Gremio de Bronce. Dales un rato para prepararse y decidir qué equipo llevar. No deben saber muy bien si algún tipo de encuentro para dialogar o es una especie de duelo o combate a muerte.
+En la tienda de tus schahriars aparecerá una moneda de cobre con un diseño muy antiguo en la que han dejado una cara pulida que pone: «A medianoche junto a la tumba de Kusch ben-Scheddad ben-Aad». Parece un mensaje del Gremio de Bronce. Dales un rato para prepararse y decidir qué equipo llevar. No deben saber muy bien si algún tipo de encuentro para dialogar o es una especie de duelo o combate a muerte.
 
 Deberán pasar dos tiradas de Sigilo contra un d6 de Notar genérico, una para salir del campamento y otra para entrar en el palacio, ambos sin ver visto. Al llegar a la tumba verán 3 figuras, una de ellas más grande (2,5 m) que el resto. Al acercarse solo las dos más pequeñas, se quitarán la capucha, harán una zalema (reverencia) y empezarán a hablar.
 
@@ -2423,11 +2423,11 @@ Este proceso puede llevar el tiempo que desees y cuando lo creas conveniente el 
 * **Habilidades:** Atletismo d6, Pelea d6, Notar d6
 * **Paso:** 8; **Parada:** 6; **Dureza:** 10(2)
 * **Capacidades especiales:**
-    * **Armadura +2:** Su piel escamosa y emplumada le confiere una buena protección.
-    * **Garras/Mordisco:** FUE+d6
-    * **Volar:** Paso volando 16, después de que le enseñen. Hasta ese momento solo corre.
-    * **Tamaño +3:** Tiene el tamaño de un elefante africano (+3 dureza).
-    * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
+  * **Armadura +2:** Su piel escamosa y emplumada le confiere una buena protección.
+  * **Garras/Mordisco:** FUE+d6
+  * **Volar:** Paso volando 16, después de que le enseñen. Hasta ese momento solo corre.
+  * **Tamaño +3:** Tiene el tamaño de un elefante africano (+3 dureza).
+  * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
 * **TPC:** d8 (solo si se pone agresivo)
 
 > /p/ Esta parte es totalmente opcional y si no quieren participar en el entrenamiento del Rokh puedes intercalar otras aventuras o en su lugar jugar el siguiente cuento, «Préstamo de libro». En unas semanas Ziba volverá a contactar con tus schahriars para continuar con la aventura.
@@ -3032,13 +3032,13 @@ Si están en el puente el calor seguirá siendo insoportable y habrá que seguir
 * **Habilidades:** Pelear d10, Notar d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 15
 * **Capacidades especiales:**
-    * **Aura de fuego:** Todo el que pase por una casilla adyacente al avatar recibe 1d6 de daño de fuego.
-    * **Invulnerable:** Es fuego consciente y solo puede ser atacado con agua o con magia (que no tenga ornamentos de fuego).
-    * **Debilidad agua:** El agua (y otras materiales que extingan el fuego como la arena) le hace daño, pero van a necesitar grandes cantidades. No vale con lanzar un balde, hay que cubrirlo completamente. Por ejemplo, si se le consigue meter debajo de una cascada, dentro de un río o dejarle caer un depósito de agua de una casa, muere directamente.
-    * **Golpes de fuego:** Pueden hacer ataques físicos cuerpo a cuerpo (tirada Pelear) con sus extremidades a las que añade daño de fuego de 1d6 de daño y otro 1d6 si consigue un avance (además del 1d6 de daño que da el propio avance).
-    * **Proyectiles de fuego:** Tratar como un hechizo de Proyectil (Espíritu) con ornamento de fuego. No gasta PP así que puede ponerle todos los modificadores que quiera.
-    * **Prender objetos:** Todo lo que toca que pueda prenderse fuego se prende con su simple contacto.
-    * **Tamaño +7:** Entre 7-8 metros de altura (+7 dureza, +2 bonificación al atacarle, +1 herida).
+  * **Aura de fuego:** Todo el que pase por una casilla adyacente al avatar recibe 1d6 de daño de fuego.
+  * **Invulnerable:** Es fuego consciente y solo puede ser atacado con agua o con magia (que no tenga ornamentos de fuego).
+  * **Debilidad agua:** El agua (y otras materiales que extingan el fuego como la arena) le hace daño, pero van a necesitar grandes cantidades. No vale con lanzar un balde, hay que cubrirlo completamente. Por ejemplo, si se le consigue meter debajo de una cascada, dentro de un río o dejarle caer un depósito de agua de una casa, muere directamente.
+  * **Golpes de fuego:** Pueden hacer ataques físicos cuerpo a cuerpo (tirada Pelear) con sus extremidades a las que añade daño de fuego de 1d6 de daño y otro 1d6 si consigue un avance (además del 1d6 de daño que da el propio avance).
+  * **Proyectiles de fuego:** Tratar como un hechizo de Proyectil (Espíritu) con ornamento de fuego. No gasta PP así que puede ponerle todos los modificadores que quiera.
+  * **Prender objetos:** Todo lo que toca que pueda prenderse fuego se prende con su simple contacto.
+  * **Tamaño +7:** Entre 7-8 metros de altura (+7 dureza, +2 bonificación al atacarle, +1 herida).
 * **TPC:** 1d10
 
 ### La noche del efrit

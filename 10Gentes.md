@@ -168,7 +168,7 @@ Giafar está felizmente casado y con hijos, pero tiene ciertos sentimientos por 
 * **Desventajas:** Secreto (menor, conoce cuándo y cómo morirá), Secreto (Mayor, budista)
 * **Ventajas:** Afinidad mágica, Alcurnia, Canalización, Investigador, Nuevos poderes x3, Trasfondo arcano (Sihr), Puntos de poder x2, Temple
 * **Capacidades especiales:**
-    * **Hechizos:** 30 PP, Círculo de detección, Diamante líquido, Dotar de alas, Dominio tierra, Encerrar en una botella (maldición), Geomancia, Hisopar, Petrificar, Visto y no visto
+  * **Hechizos:** 30 PP, Círculo de detección, Diamante líquido, Dotar de alas, Dominio tierra, Encerrar en una botella (maldición), Geomancia, Hisopar, Petrificar, Visto y no visto
 * **Equipo:** Alfanje digno de un califa (FUE+d8), ropajes de calidad y normalmente oscuros y con poco adorno.
 
 \sp
@@ -244,11 +244,11 @@ Alya desconoce todo esto, pero su tutor y consejero personal Mahmoud Assy está 
 * **Desventajas:** Obsesión (mayor, encontrar la Ciudad de Bronce), Secreto (mayor, sangre de profundo)
 * **Ventajas:** Afinidad mágica, Bloqueo, Nervios de acero, Mando, ¡Mantened la formación!
 * **Capacidades especiales:**
-    * **Semiacuáticos:** Pueden respirar bajo el agua sin problemas, pero nada como un humano normal.
-    * **Longevidad:** Puede llegar a vivir hasta los 150 años y no necesita dormir.
-    * **Resistencia primigenia:** Alya no se cansa por mucho esfuerzo que haga en las condiciones que sean, sin casi agua, bajo un sol de justicia, etc. Repite todas las tiradas de Vigor para evitar puntos de fatiga que falle.
-    * **Resistencia al veneno y las enfermedades:** +4 a las tiradas para resistir venenos y enfermedades.
-    * **Cerca de su dios:** Alya se vuelve más poderosa cuanto más cerca está de la Ciudad de Bronce y de su gran señor Cthulhu. De forma que por cada parte del camino recibe al principio de cada sesión un beni extra por cada etapa después de «Adentrándose en lo desconocido». De esa manera, cuando esté en la Ciudad de Bronce en la parte de «Rompiendo la maldición» tendrá 3+7 benis.
+  * **Semiacuáticos:** Pueden respirar bajo el agua sin problemas, pero nada como un humano normal.
+  * **Longevidad:** Puede llegar a vivir hasta los 150 años y no necesita dormir.
+  * **Resistencia primigenia:** Alya no se cansa por mucho esfuerzo que haga en las condiciones que sean, sin casi agua, bajo un sol de justicia, etc. Repite todas las tiradas de Vigor para evitar puntos de fatiga que falle.
+  * **Resistencia al veneno y las enfermedades:** +4 a las tiradas para resistir venenos y enfermedades.
+  * **Cerca de su dios:** Alya se vuelve más poderosa cuanto más cerca está de la Ciudad de Bronce y de su gran señor Cthulhu. De forma que por cada parte del camino recibe al principio de cada sesión un beni extra por cada etapa después de «Adentrándose en lo desconocido». De esa manera, cuando esté en la Ciudad de Bronce en la parte de «Rompiendo la maldición» tendrá 3+7 benis.
 * **Equipo:** Astrolabio, Ropas de viaje de calidad preparadas para el desierto, alfanje de calidad (FUE+d6), Jambia(FUE+d4), equipo de supervivencia
 
 \sp
@@ -361,8 +361,8 @@ Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutació
 * **Desventajas:** Secreto (mayor, líder de la Mano Morada), Vengativa
 * **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Sihr), Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
 * **Capacidades especiales:**
-    * **Esencia de Suc’Naath:** Suc’Naath ofrece su poder a sus elegidos, pero exige un sacrificio en dolor. Los negativos por heridas se restan del gasto de PP de los hechizos.
-    * **Hechizos:** 36 PP, Bola de fuego, Círculo de detección, Encerrar en una botella, Hisopar, Ojos de Serpiente, Interpretar sueños, ¡Sésamo, ábrete!, Torbellino, Transformar en animal
+  * **Esencia de Suc’Naath:** Suc’Naath ofrece su poder a sus elegidos, pero exige un sacrificio en dolor. Los negativos por heridas se restan del gasto de PP de los hechizos.
+  * **Hechizos:** 36 PP, Bola de fuego, Círculo de detección, Encerrar en una botella, Hisopar, Ojos de Serpiente, Interpretar sueños, ¡Sésamo, ábrete!, Torbellino, Transformar en animal
 * **Equipo:** Ropajes caros, jambia de plata con incrustaciones de oro para rituales (FUE+d6), 1d4 dosis de bang cretense, 5d10 dosis de azufre rojo, 1d6 dosis de sangre de Fénix, por lo menos dos grimorios al azar
 
 \sp
@@ -537,7 +537,7 @@ La edad empieza a ser un problema para su prodigiosa voz y busca un sustituto qu
 \sp
 
 * **Capacidades especiales:**
-    * **Cantautor:** Las letras de sus canciones más reivindicativas suelen usarse como himnos. Gastando 1 PP y pasando una tirada de Interpretación puede otorgar a la masa oprimida un +1 a las tiradas relacionadas con su lucha mientras continúe cantando. Con dos avances otorga un +2.
+  * **Cantautor:** Las letras de sus canciones más reivindicativas suelen usarse como himnos. Gastando 1 PP y pasando una tirada de Interpretación puede otorgar a la masa oprimida un +1 a las tiradas relacionadas con su lucha mientras continúe cantando. Con dos avances otorga un +2.
 * **Equipo:** Ropajes caros y ostentosos, instrumento musical de calidad, caramelos para la garganta, joyas de oro y diamantes de gran valor regalo del Califa.
 
 **Sugerencia de interpretación:** Eres un sencillo hombre de campo con gustos sencillos que evita en la medida de los posibles los lujos y las excentricidades de los ricos y poderosos de la ciudad. Prefieres un paseo por el campo que una noche de fiesta con el Califa, sencillos platos de campo que los estrambóticos y exóticos que pide el Califa y ropajes cómodos y frescos a los vistosos trajes de la gente de la corte.
@@ -637,7 +637,7 @@ En el momento en que huele algo (persona, objeto, ritual, etc.) que le permita a
 [![Zaharia artwork: Zeoren by DottorFile](./images/bahram-el-gauro.jpg)](https://www.deviantart.com/dottorfile/art/Zaharia-artwork-Zeoren-401307083 "Zaharia artwork: Zeoren by DottorFile") 
 
 * **Capacidades especiales:**
-    * **Hechizos:** 16 PP, ¡Sésamo, ábrete!, Aura de fuego, Bola de fuego, Levantar Nasnas, Aceite salomónico
+  * **Hechizos:** 16 PP, ¡Sésamo, ábrete!, Aura de fuego, Bola de fuego, Levantar Nasnas, Aceite salomónico
 * **Equipo:** Utensilios varios alquímicos, yesca, pedernal y combustible, jambia (FUE+d4), d4 dosis de sangre de Fénix, d4 dosis de bang cretense, d6 dosis de kohl de invisibilidad
 
 **Sugerencia de interpretación:** Eres un sociópata de manual y un asesino en serie. Frío y calculador, nunca pierdes la calma, porque si la perdieras todos verían todo lo oscuro y dañino que hay dentro y no podrías moverte por el mundo como lo haces ahora.

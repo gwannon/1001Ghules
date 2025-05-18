@@ -44,17 +44,17 @@ Se organizan en pequeños grupos familiares y son muy territoriales. Pueden infe
 * **Habilidades:** Pelear d6, Atletismo d12, Notar d6, Sigilo d12
 * **Paso:** 6; **Parada:** 5; **Dureza:** 7 (1)
 * **Capacidades especiales:**
-    * **Armadura +1:** Piel dura.
-    * **Garras/Mordisco:** FUE+d6
-    * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación está completa en ghūl (y el personaje se vuelve injugable).
-    * **Excavar 4:** Los ghūles pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
-    * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
+  * **Armadura +1:** Piel dura.
+  * **Garras/Mordisco:** FUE+d6
+  * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación está completa en ghūl (y el personaje se vuelve injugable).
+  * **Excavar 4:** Los ghūles pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
+  * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
-    * **Hechizos:** Puedes ponerles hechizos
+  * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
+  * **Hechizos:** Puedes ponerles hechizos
 * **Equipo:** Pueden llevar herramientas toscas y armas simples y ropajes sucios y andrajosos que les cubran del sol.
 * **TPC:** 1d4 (manada).
 
@@ -87,11 +87,11 @@ Los obreros son la mano de obra y la fuerza de combate de los al mighos. Trabaja
 * **Paso:** 6; **Parada:** 6; **Dureza:** 8 (2)
 * **Ventajas:** Frenesí Mejorado.
 * **Capacidades especiales:**
-    * **Armadura +2:** Caparazón de crustáceo
-    * **Pinzas:** FUE+d4
-    * **Volar:** Paso volando 12. Los al mighos tienen unas alas con las que vuelan.
-    * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
-    * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
+  * **Armadura +2:** Caparazón de crustáceo
+  * **Pinzas:** FUE+d4
+  * **Volar:** Paso volando 12. Los al mighos tienen unas alas con las que vuelan.
+  * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
+  * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
 * **TPC:** 1d6 (manada)
 
 \sp
@@ -104,12 +104,12 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
 * **Habilidades:** Ciencias d10, Medicina d10, Mitos d6, Notar d6, Pelear d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 7(2)
 * **Capacidades especiales:**
-    * **Armadura +2:** Caparazón de crustáceo
-    * **Pinzas:** FUE+d4
-    * **Volar:** Paso volando 8. Los al mighos tienen unas alas con las que vuelan.
-    * **Tecnología Migho:** Puedes asignarle a un sabio hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su "garganta" y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6. Los al mighos pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
-    * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
-    * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
+  * **Armadura +2:** Caparazón de crustáceo
+  * **Pinzas:** FUE+d4
+  * **Volar:** Paso volando 8. Los al mighos tienen unas alas con las que vuelan.
+  * **Tecnología Migho:** Puedes asignarle a un sabio hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su "garganta" y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6. Los al mighos pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+  * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
+  * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
 * **TPC:** 1d6
 
 ### Abu-qith (Gran raza de Yith)
@@ -142,11 +142,11 @@ Los abu-qiths son grandes científicos, como demuestra su capacidad de viajar en
 
 * **Paso:** 6; **Parada:** 5; **Dureza:** 17 (4)
 * **Capacidades especiales:**
-    * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
-    * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
-    * **Pinzas:** FUE+d6
-    * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
-    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+  * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
+  * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
+  * **Pinzas:** FUE+d6
+  * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
+  * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
 * **TPC:** 1d8
 
 #### Soldado abu-qith ☾
@@ -157,15 +157,15 @@ Los abu-qiths combatieron y derrotaron a un gran enemigo, los warams, y es por e
 * **Habilidades:** Ciencias d6, Disparar d10, Mitos de Cthulhu d6, Notar d8, Pelear d8, Notar
 * **Paso:** 6; **Parada:** 5; **Dureza:** 18 (4)
 * **Capacidades especiales:**
-    * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
-    * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
-    * **Pinzas:** FUE+d6
-    * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
+  * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
+  * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
+  * **Pinzas:** FUE+d6
+  * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
+  * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
 * **TPC:** 1d8
 
 ```
@@ -214,13 +214,13 @@ Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas
 * **Habilidades:** Mitos d8, Notar d8, Pelear d12
 * **Paso:** 4; **Parada:** 8; **Dureza:** 16 (14)
 * **Capacidades especiales:**
-    * **Armadura +2:** Su gruesa piel les confieren una buena armadura.
-    * **Tamaño +5** Los warams son del tamaño de un hipopótamo (+5 dureza, +2 bonificación al atacarla, +1 heridas)
-    * **Sentidos extraterrestres:** No tienen sentidos como los humanos, es por ello que no sufren penalizaciones por iluminación o por cobertura (aunque no puedan atacar, si podrán verte). Todas las tiradas de Sigilo sufren un negativo de -4, ya que los humanos no entendemos realmente como perciben y, por tanto, como podemos ocultarnos a sus sentidos.
-    * **Volar:** Paso volando 12. Mediante el control de los vientos pueden volar.
-    * **Dominio del aire:** Pueden usar este hechizo a voluntad sin necesidad de gastar PP.
-    * **Invisibilidad:** Pueden usar este hechizo a voluntad sin necesidad de gastar PP.
-    * **Tentáculos:** FUE+d6. Suelen tener entre 10 y 15 tentáculos. Por ronda pueden usar 3 tentáculos para atacar. Cada tentáculo tiene un alcance de dos casillas y son independientes, es decir, no reciben penalizadores, por ejemplo, por acciones múltiples.
+  * **Armadura +2:** Su gruesa piel les confieren una buena armadura.
+  * **Tamaño +5** Los warams son del tamaño de un hipopótamo (+5 dureza, +2 bonificación al atacarla, +1 heridas)
+  * **Sentidos extraterrestres:** No tienen sentidos como los humanos, es por ello que no sufren penalizaciones por iluminación o por cobertura (aunque no puedan atacar, si podrán verte). Todas las tiradas de Sigilo sufren un negativo de -4, ya que los humanos no entendemos realmente como perciben y, por tanto, como podemos ocultarnos a sus sentidos.
+  * **Volar:** Paso volando 12. Mediante el control de los vientos pueden volar.
+  * **Dominio del aire:** Pueden usar este hechizo a voluntad sin necesidad de gastar PP.
+  * **Invisibilidad:** Pueden usar este hechizo a voluntad sin necesidad de gastar PP.
+  * **Tentáculos:** FUE+d6. Suelen tener entre 10 y 15 tentáculos. Por ronda pueden usar 3 tentáculos para atacar. Cada tentáculo tiene un alcance de dos casillas y son independientes, es decir, no reciben penalizadores, por ejemplo, por acciones múltiples.
 * **TPC:** 1d10
 
 Los warams ya son de por sí enemigos temibles, pero pueden ponerles hechizos si quieres aumentar su dificultad. Ten en cuenta que deberían ser hechizos ofensivos como Proyectil o Confusión que tenga un ornamento basado en el aire.
@@ -295,13 +295,13 @@ Los qareens son seres de energía invisibles en forma de vórtice. En este estad
 * **Paso:** 6; **Parada:** --; **Dureza:** --
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
-    * **Incorpóreo:** En su forma incorpórea son totalmente invulnerables contra armas físicas y mágicas. Solo los ataques mentales podrían hacerles daño. También los hace casi invisibles dándoles un -4 a los que quieran detectarlos.
+  * **Incorpóreo:** En su forma incorpórea son totalmente invulnerables contra armas físicas y mágicas. Solo los ataques mentales podrían hacerles daño. También los hace casi invisibles dándoles un -4 a los que quieran detectarlos.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Telepatía:** Se comunica con cualquier criatura de forma telepática
-    * **Depresión:** Un aura depresiva rodea siempre a un qareen, todos los héroes que pasen una hora en una localización donde hay un qareen y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor).
+  * **Telepatía:** Se comunica con cualquier criatura de forma telepática
+  * **Depresión:** Un aura depresiva rodea siempre a un qareen, todos los héroes que pasen una hora en una localización donde hay un qareen y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor).
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 
 #### Qareen corpóreo
@@ -315,11 +315,11 @@ Aunque los textos sagrados y la tradición dice que los qareen solo son seres es
 * **Paso:** 6; **Parada:** 7; **Dureza:** 19(15)
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
-    * **Mordisco/Garras:** FUE+d10
-    * **Armadura +4:** Su piel dura y escamosa y es muy resistente.
-    * **Tamaño enorme (7):** Los qareens como reptiles adultos miden entre 8 y 10 metros de largo y 3 de alto (+7 dureza, +4 bonificación al atacarla, +2 heridas).
-    * **Telepatía:** Se comunica con cualquier criatura de forma telepática
-    * **Depresión:** Un aura depresiva rodea siempre a un qareen, todo ser que pase una hora en una localización donde haya un qareen y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor). Si fallan la TPC, también tendrán que coger la Depresión como trastorno mental.
+  * **Mordisco/Garras:** FUE+d10
+  * **Armadura +4:** Su piel dura y escamosa y es muy resistente.
+  * **Tamaño enorme (7):** Los qareens como reptiles adultos miden entre 8 y 10 metros de largo y 3 de alto (+7 dureza, +4 bonificación al atacarla, +2 heridas).
+  * **Telepatía:** Se comunica con cualquier criatura de forma telepática
+  * **Depresión:** Un aura depresiva rodea siempre a un qareen, todo ser que pase una hora en una localización donde haya un qareen y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor). Si fallan la TPC, también tendrán que coger la Depresión como trastorno mental.
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 * **TPC:** 1d12
 
@@ -333,9 +333,9 @@ Aunque los textos sagrados y la tradición dice que los qareen solo son seres es
 Un humano poseído por un qareen tiene sus atributos y habilidades normales y una serie de ventajas y desventajas. Aplica la siguiente plantilla al humano que ha caído bajo el influjo de un qareen.
 
 * **Características especiales:**
-    * **Cheitán:** Al estar poseído por un cheitán se convierte en un ser malvado y pierde todas las ventajas y desventajas de carácter bondadoso. Dejaría, por ejemplo, de tener las desventajas Heroico o Leal. Les afectarían todos los objetos que afecten a los cheitáns.
-    * **Inmune a control mental:** La poderosa mente del qareen ha invadido la mente del poseído y hace nadie más pueda intentar usar poderes mentales sobre el poseído o la poseída.
-    * **Foco:** El qareen puede hacer que se enfoque en una tarea olvidando todo lo demás. De esa forma, tiene un +2 a las tiradas de habilidad relacionadas con su foco (lo que el qareen le ha ordenado) y -2 al resto de tiradas.
+  * **Cheitán:** Al estar poseído por un cheitán se convierte en un ser malvado y pierde todas las ventajas y desventajas de carácter bondadoso. Dejaría, por ejemplo, de tener las desventajas Heroico o Leal. Les afectarían todos los objetos que afecten a los cheitáns.
+  * **Inmune a control mental:** La poderosa mente del qareen ha invadido la mente del poseído y hace nadie más pueda intentar usar poderes mentales sobre el poseído o la poseída.
+  * **Foco:** El qareen puede hacer que se enfoque en una tarea olvidando todo lo demás. De esa forma, tiene un +2 a las tiradas de habilidad relacionadas con su foco (lo que el qareen le ha ordenado) y -2 al resto de tiradas.
 
 \sp
 
@@ -362,20 +362,20 @@ Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del
 * **Paso:** 6; **Parada:** 6; **Dureza:** 8(2)
 * **Ventajas:** Frenesí Mejorado, Temple
 * **Capacidades especiales:**
-    * **Garras:** FUE+d4
-    * **Armadura quitinosa:** +2
-    * **Tamaño +1:** Hasta 3 metros de tamaño.
+  * **Garras:** FUE+d4
+  * **Armadura quitinosa:** +2
+  * **Tamaño +1:** Hasta 3 metros de tamaño.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Mordisco:** FUE+d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño, hará un nivel de fatiga.
-    * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
+  * **Mordisco:** FUE+d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño, hará un nivel de fatiga.
+  * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
 * **TPC:** 1d6 (manada)
 
 ### Ave de Rokh (Shantak) ☾
 
-> … y me acordé de lo que en mi juventud me habían contado viajeros y marineros acerca de un pájaro de tamaño extraordinario, llamado "rokh", que se encontraba en una isla muy remota y que podía levantar un elefante.
+> … y me acordé de lo que en mi juventud me habían contado viajeros y marineros acerca de un pájaro de tamaño extraordinario, llamado «rokh», que se encontraba en una isla muy remota y que podía levantar un elefante.
 > 
 > **Referencia:** La segunda historia de las historias de Sindbad el marino, que trata del segundo viaje (n. 295)
 
@@ -391,16 +391,16 @@ Su zona principal de nidación es en los picos más altos de la cordillera del C
 * **Habilidades:** Atletismo d6, Pelea d8, Notar d8
 * **Paso:** 8; **Parada:** 6; **Dureza:** 15(3)
 * **Capacidades especiales:**
-    * **Armadura +3:** Su piel escamosa y emplumada le confiere una buena protección.
-    * **Garras/Mordisco:** FUE+d8
-    * **Volar:** Paso volando 16
+  * **Armadura +3:** Su piel escamosa y emplumada le confiere una buena protección.
+  * **Garras/Mordisco:** FUE+d8
+  * **Volar:** Paso volando 16
 
 \sp
 
 * **Capacidades especiales:**
-    * **Tamaño +6:** Tiene el tamaño de un elefante africano (+6 dureza, +2 bonificación al atacarle, +1 herida).
-    * **Capacidad de carga:** Pueden volar cargando con sus garras pesos de hasta unas 10 toneladas sin sufrir penalización.
-    * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
+  * **Tamaño +6:** Tiene el tamaño de un elefante africano (+6 dureza, +2 bonificación al atacarle, +1 herida).
+  * **Capacidad de carga:** Pueden volar cargando con sus garras pesos de hasta unas 10 toneladas sin sufrir penalización.
+  * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
 * **Equipo:** Si ha sido entrenado como cabalgadura, puede llevar una silla de montar en la que podría ir una persona de tamaño real.
 * **TPC:** d8
 
@@ -423,13 +423,13 @@ Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcant
 * **Habilidades:** Pelear d6 (solo esquivar), Sigilo d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Capacidades especiales:**
-    * **Morfología alíen:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
-    * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores, ni penalizadores por tamaño.
-    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
-    * **Volar:** Paso volando 12.
-    * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
-    * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno, serán problemas mentales que le mantengan encerrado en el lugar donde esté el color, como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
-    * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, yinns, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y su pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
+  * **Morfología alíen:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
+  * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores, ni penalizadores por tamaño.
+  * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
+  * **Volar:** Paso volando 12.
+  * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
+  * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno, serán problemas mentales que le mantengan encerrado en el lugar donde esté el color, como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
+  * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, yinns, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y su pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
 * **TPC:** d8
 
 \sp
@@ -451,20 +451,19 @@ Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astro
 * **Habilidades:** Disparar d8, Notar d8, Pelear d12+1
 * **Paso:** 20; **Parada:** 10; **Dureza:** 52(12)
 * **Capacidades especiales:**
-    * **Armadura +12:** La piel de falak es increíblemente fuerte y resistente.
-    * **Gargantuesco:** Puede aplastar casi cualquier objeto de tamaño 15 o menos con un ataque de pisotón que causa d12+22 de daño, menos el propio Tamaño de la víctima.  
-        Se considera un arma pesada y para dañar a un falak hacen falta armas pesadas como catapultas o balistas.
-    * **Tamaño +30:** Este monstruoso gusano mide más de cuatrocientos metros de longitud. Es tan grande que otorga +6 a todos los ataques que se le haga y tiene 3 heridas extras.
+  * **Armadura +12:** La piel de falak es increíblemente fuerte y resistente.
+  * **Gargantuesco:** Puede aplastar casi cualquier objeto de tamaño 15 o menos con un ataque de pisotón que causa d12+22 de daño, menos el propio Tamaño de la víctima. Se considera un arma pesada y para dañar a un falak hacen falta armas pesadas como catapultas o balistas.
+  * **Tamaño +30:** Este monstruoso gusano mide más de cuatrocientos metros de longitud. Es tan grande que otorga +6 a todos los ataques que se le haga y tiene 3 heridas extras.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
-    * **Mente alien:** Su cerebro es tan diferente que no se le puede engañar o intimidar, tampoco puede leerse y es imposible atacarle mentalmente.
-    * **Baba ácida:** El falak puede escupir baba ácida a distancia (100/200/300). Hacen 5d6 de daño de ácida y puedes usar la plantilla de área grande (PAG).
-    * **Excavar:** Paso 10
-    * **Engullir:** El falak puede escoger una zona del tamaño de plantilla de área grande y engullir todo lo que haya en esa ella. Excepto los comodines, todo lo que haya dentro del área será devorado. Los comodines podrán hacer una tirada de Atletismo para escapar de la zona. En caso de fallar podrán gastar 1 deseo para esquivar el ataque. En caso de no tener deseos, será engullido, pero sin estar muerto. Se quedará agarrado a los dientes o en la garganta del falak y podrá ser salvado por otros comodines. El falak debe hacer una acción completa para matar al comodín que esté en su boca y si consigue huir también matará al comodín. Si derrotan al falak, el comodín podrá salir del cadáver. El falak solo puede usar esta acción si está sin deseos y no puede repetirla hasta no haber gastado todos los deseos conseguidos al esquivarle.
-    * **Devorar realidad:** El falak puede devorar cualquier cosa, incluso la propia realidad. Se sabe de dimensiones devoradas hasta no quedar nada de ella más que puro vacío.
+  * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
+  * **Mente alien:** Su cerebro es tan diferente que no se le puede engañar o intimidar, tampoco puede leerse y es imposible atacarle mentalmente.
+  * **Baba ácida:** El falak puede escupir baba ácida a distancia (100/200/300). Hacen 5d6 de daño de ácida y puedes usar la plantilla de área grande (PAG).
+  * **Excavar:** Paso 10
+  * **Engullir:** El falak puede escoger una zona del tamaño de plantilla de área grande y engullir todo lo que haya en esa ella. Excepto los comodines, todo lo que haya dentro del área será devorado. Los comodines podrán hacer una tirada de Atletismo para escapar de la zona. En caso de fallar podrán gastar 1 deseo para esquivar el ataque. En caso de no tener deseos, será engullido, pero sin estar muerto. Se quedará agarrado a los dientes o en la garganta del falak y podrá ser salvado por otros comodines. El falak debe hacer una acción completa para matar al comodín que esté en su boca y si consigue huir también matará al comodín. Si derrotan al falak, el comodín podrá salir del cadáver. El falak solo puede usar esta acción si está sin deseos y no puede repetirla hasta no haber gastado todos los deseos conseguidos al esquivarle.
+  * **Devorar realidad:** El falak puede devorar cualquier cosa, incluso la propia realidad. Se sabe de dimensiones devoradas hasta no quedar nada de ella más que puro vacío.
 * **TPC:** d12+2
 
 ### Falak menor o cría de falak (Chthonianos) ☾
@@ -490,17 +489,17 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades y 
 * **Paso:** 6; **Parada:** 6; **Dureza:** 16 (2)
 * **Rasgos:** Vulnerables al agua (-4 resistir ataques de este tipo).
 * **Capacidades especiales:**
-    * **Armadura +2:** Estos gusanos están cubiertos por una gruesa piel y un limo pegajoso.
-    * **Excavar 12:** Los chthonianos pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 12 pasos.
-    * **Telepatía:** Pueden comunicarse telepáticamente con otros de su especie, incluso a miles de kilómetros. También puede detectar mentes de otros seres pensantes y controlar las mentes de los humanos (Marioneta usando Espíritu como habilidad).
-    * **Tentáculos:** FUE+d10
-    * **Terremoto:** Levantando la cola o la cabeza y dejándola caer pueden crear un terremoto. El terremoto es un ataque de Chorro que usa su habilidad de Pelear.
+  * **Armadura +2:** Estos gusanos están cubiertos por una gruesa piel y un limo pegajoso.
+  * **Excavar 12:** Los chthonianos pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 12 pasos.
+  * **Telepatía:** Pueden comunicarse telepáticamente con otros de su especie, incluso a miles de kilómetros. También puede detectar mentes de otros seres pensantes y controlar las mentes de los humanos (Marioneta usando Espíritu como habilidad).
+  * **Tentáculos:** FUE+d10
+  * **Terremoto:** Levantando la cola o la cabeza y dejándola caer pueden crear un terremoto. El terremoto es un ataque de Chorro que usa su habilidad de Pelear.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Tamaño enorme (8):** Los chthonianos adultos miden entre 9 y 12 metros y un par de metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 heridas).
-    * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
+  * **Tamaño enorme (8):** Los chthonianos adultos miden entre 9 y 12 metros y un par de metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 heridas).
+  * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
 * **TPC:** 1d8
 
 ### Fuego de la Yahannam (Vampiro de fuego)
@@ -517,16 +516,16 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
 * **Habilidades:** Notar d8, Pelear d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 4
 * **Capacidades especiales:**
-    * **Invulnerables:** Son gaseosos y solo pueden ser atacados con agua o con magia (que no tenga ornamentos de fuego).
-    * **Lenguas de fuego:** Pueden hacer ataques cuerpo a cuerpo (tirada Pelear) con sus lenguas de fuego de 2d6 de daño.
-    * **Tamaño -2:** Tiene un tamaño pequeño. Todo ataque dirigido a ellos tiene un -2.
+  * **Invulnerables:** Son gaseosos y solo pueden ser atacados con agua o con magia (que no tenga ornamentos de fuego).
+  * **Lenguas de fuego:** Pueden hacer ataques cuerpo a cuerpo (tirada Pelear) con sus lenguas de fuego de 2d6 de daño.
+  * **Tamaño -2:** Tiene un tamaño pequeño. Todo ataque dirigido a ellos tiene un -2.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Proyectiles de fuego:** Tratar como un hechizo de Proyectil con ornamento de fuego. Tiene 6 PP.
-    * **Toque vampírico:** Si el fuego de la Yahannam consigue hacerte daño por fuego (cuerpo a cuerpo o a distancia), hay que hacer una tirada enfrentada de Espíritu contra Espíritu y obtendrá un ítem de información (más o menos útil) o 2 PP.
-    * **Debilidad Agua:** El agua (y otras materiales que extingan el fuego como la arena) les hace daño, por cada 5 litros de agua que se le lance se puede hacerle d4 de daño. Si se le consigue meter debajo, por ejemplo, de una cascada o dentro del agua, muere directamente.
+  * **Proyectiles de fuego:** Tratar como un hechizo de Proyectil con ornamento de fuego. Tiene 6 PP.
+  * **Toque vampírico:** Si el fuego de la Yahannam consigue hacerte daño por fuego (cuerpo a cuerpo o a distancia), hay que hacer una tirada enfrentada de Espíritu contra Espíritu y obtendrá un ítem de información (más o menos útil) o 2 PP.
+  * **Debilidad Agua:** El agua (y otras materiales que extingan el fuego como la arena) les hace daño, por cada 5 litros de agua que se le lance se puede hacerle d4 de daño. Si se le consigue meter debajo, por ejemplo, de una cascada o dentro del agua, muere directamente.
 * **TPC:** 1d4 (manada)
 
 ### Gente del mar (Profundo)
@@ -549,11 +548,10 @@ Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los
 * **Habilidades:** Atletismo d8, Idioma nativo d8, Saber de Suleimán d4, Notar d8, Pelear d6, Sigilo d10, Supervivencia d8
 * **Paso:** 6; **Parada:** 6 (5); **Dureza:** 8 (2)
 * **Capacidades especiales:**
-    * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
-    * **Armadura +2:** Escamas y piel rugosa.
-    * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
-    * **Garras:** FUE+d4
-    * **Rituales:** Atraer a los peces
+  * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
+  * **Armadura +2:** Escamas y piel rugosa.
+  * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
+  * **Garras:** FUE+d4
 * **Equipo:** Tridente (FUE+d6, +1 Parada, a dos manos), Zurrón de algas trenzada, red de pesca.
 * **TPC:** 1d4 (manada).
 
@@ -570,9 +568,9 @@ Para hacer un híbrido añádele estas características a un PNJ.
 * **Habilidades:** Idioma de la gente del mar d6
 * **Desventajas:** Feo menor si es joven y mayor si es adulto. Suelen tener otras desventajas como Analfabeto, Marginado o Sanguinario.
 * **Capacidades especiales:**
-    * **Semiacuáticos:** Paso nadando 4. Pueden respirar bajo el agua sin problemas, pero no son tan hábiles nadadores como un profundo completo.
-    * **Armadura +1:** Los híbridos tienen una piel gomosa que les proporciona cierta protección.
-    * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
+  * **Semiacuáticos:** Paso nadando 4. Pueden respirar bajo el agua sin problemas, pero no son tan hábiles nadadores como un profundo completo.
+  * **Armadura +1:** Los híbridos tienen una piel gomosa que les proporciona cierta protección.
+  * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
 
 ### Gigante (Gug) ☾
 
@@ -594,11 +592,11 @@ No sueles salir de sus cuevas, ya que la luz del sol les hace daño. Si bien es 
 * **Paso:** 8; **Parada:** 5; **Dureza:** 18(2)
 * **Ventajas:** Frenesí Mejorado
 * **Capacidades especiales:**
-    * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
-    * **Tamaño +7** Entre 7-8 metros de altura (+7 dureza, +2 bonificación al atacarle, +1 herida).
-    * **Sensible a la luz del día:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
-    * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
-    * **Garras/Mordisco:** FUE+d6
+  * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
+  * **Tamaño +7** Entre 7-8 metros de altura (+7 dureza, +2 bonificación al atacarle, +1 herida).
+  * **Sensible a la luz del día:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
+  * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
+  * **Garras/Mordisco:** FUE+d6
 * **Equipo:** Herramientas básicas y objetos sencillos según su trabajo. Por ejemplo, un pastor tendrá un zurrón (posiblemente de piel humana) y un gran tronco pelado que use como bastón.
 * **TPC:** 1d10
 
@@ -628,9 +626,9 @@ Parece ser que su evolución y decadencia fue paralela con los de la serpigente 
 * **Paso:** 8; **Parada:** 5; **Dureza:** 6(1)
 * **Ventajas:** Pies ligeros
 * **Capacidades especiales:**
-    * **Armadura +1:** Escamas.
-    * **Mordisco:** FUE+d4
-    * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
+  * **Armadura +1:** Escamas.
+  * **Mordisco:** FUE+d4
+  * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
 * **Equipo:** Porra pesada (FUE+d6), cuchillo (FUE+d4) o machete (FUE+d6).
 * **TPC:** d4 (manada)
 
@@ -653,7 +651,7 @@ En su mundo son esclavos que extraen de la tierra rubís para sus amos, las best
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Escoge dos Hábitos, uno menor y otro mayor. Puede ser cosas como alcohol, comida, juego, sexo, etc. Los lengnitas suelen llevar al extremo las cosas que consideramos como vicios.
 * **Capacidades especiales:**
-    * **Cuernos:** FUE+d4
+  * **Cuernos:** FUE+d4
 * **Equipo:** Alfanje (FUE+d8) y ropajes amplios y turbantes u otros tocados para ocultar sus rasgos de sátiro.
 
 \sp
@@ -677,9 +675,9 @@ Aunque la creencia popular dice que los Nasnas son la descendencia de un tipo de
 \sp
 
 * **Capacidades especiales:**
-    * **Garras/Mordisco:** FUE+d4 de daño.
-    * **Muerto viviente:** +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.
-    * **Saltador:** Como acción de movimiento puede elegir saltar una distancia en línea recta de hasta 6 pasos. Además, añade +4 al daño cuando se abalanza como parte de un ataque salvaje en lugar del +2 habitual siempre que pueda hacer el salto completo de 6 pasos.
+  * **Garras/Mordisco:** FUE+d4 de daño.
+  * **Muerto viviente:** +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.
+  * **Saltador:** Como acción de movimiento puede elegir saltar una distancia en línea recta de hasta 6 pasos. Además, añade +4 al daño cuando se abalanza como parte de un ataque salvaje en lugar del +2 habitual siempre que pueda hacer el salto completo de 6 pasos.
 * **TPC:** d4 (manada)
 
 ### Qatram (Shoggoth) ☾
@@ -703,22 +701,22 @@ Se conocen casos en los que han desarrollado la capacidad de habla.
 * **Paso:** 4; **Parada:** 4; **Dureza:** 18(14)
 * **Ventajas:** Barrido (puede sacar tentáculos de cualquier parte de su cuerpo y atacar a todos los que le rodean).
 * **Capacidades especiales:**
-    * **Acuático:** Paso nadando 4.
-    * **Armadura +4:** Su piel dura y gomosa y es bastante resistente.
-    * **Impávido:** Son un engendro creado genéticamente por los antiguos.
-    * **Masa informe:** Como muchos otros monstruos, no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
-    * **Tamaño 6:** 6 metros de diámetro (+6 dureza, +2 bonificación al atacarla, +1 herida).
-    * **Tentáculos:** FUE+d4
-    * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida excepto las creadas por fuego o electricidad.
-    * **Inmunidad:** Ataques físicos como armas de corte, flechas, piedras …
-    * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego.
+  * **Acuático:** Paso nadando 4.
+  * **Armadura +4:** Su piel dura y gomosa y es bastante resistente.
+  * **Impávido:** Son un engendro creado genéticamente por los antiguos.
+  * **Masa informe:** Como muchos otros monstruos, no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
+  * **Tamaño 6:** 6 metros de diámetro (+6 dureza, +2 bonificación al atacarla, +1 herida).
+  * **Tentáculos:** FUE+d4
+  * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida excepto las creadas por fuego o electricidad.
+  * **Inmunidad:** Ataques físicos como armas de corte, flechas, piedras …
+  * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego.
 * **TPC:** 1d10
 
 #### Isla viviente ☾
 
 > /p/ Un día en que navegábamos sin ver tierra desde hacía varios días, vimos surgir del mar una isla que por su vegetación nos pareció algún jardín maravilloso entre los jardines del Edén. \[…\]  
 > /p/ Al encender un fuego para cocinar los frutos recogidos de los árboles de la isla, sentimos de repente que temblaba la isla toda con tan ruda sacudida que fuimos despedidos a algunos pies de altura sobre el suelo. Del suelo emergieron infinitos ojos y pequeños zarcillos oscuros. \[…\]  
-> /p/ Y en aquel momento vimos aparecer en la proa del navío al capitán, que nos gritaba con una voz terrible y gestos alarmantes: "¡Salvaos pronto!, ¡oh pasajeros! ¡Subid enseguida a bordo! ¡Dejadlo todo! ¡Abandonad en tierra vuestros efectos y salvad vuestras almas! ¡Huid del abismo que os espera! ¡Porque la isla donde os encontráis no es una isla, sino una monstruosidad informe y gigantesca que eligió en medio de este mar su domicilio desde antiguos tiempos, y merced a la arena marina crecieron árboles en su lomo! ¡La despertasteis ahora de su sueño con vuestra lumbre, y hela aquí que se despierta! ¡Salvaos, o si no, nos atrapará con sus tentáculos y nos sumergirá en el mar, que ha de tragaros sin remedio! ¡Salvaos! ¡Dejadlo todo, que he de partir!" 
+> /p/ Y en aquel momento vimos aparecer en la proa del navío al capitán, que nos gritaba con una voz terrible y gestos alarmantes: «¡Salvaos pronto!, ¡oh pasajeros! ¡Subid enseguida a bordo! ¡Dejadlo todo! ¡Abandonad en tierra vuestros efectos y salvad vuestras almas! ¡Huid del abismo que os espera! ¡Porque la isla donde os encontráis no es una isla, sino una monstruosidad informe y gigantesca que eligió en medio de este mar su domicilio desde antiguos tiempos, y merced a la arena marina crecieron árboles en su lomo! ¡La despertasteis ahora de su sueño con vuestra lumbre, y hela aquí que se despierta! ¡Salvaos, o si no, nos atrapará con sus tentáculos y nos sumergirá en el mar, que ha de tragaros sin remedio! ¡Salvaos! ¡Dejadlo todo, que he de partir!»
 
 \sp
 
@@ -732,16 +730,16 @@ Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isl
 * **Habilidades:** Pelear d4, Notar d6
 * **Paso:** 4; **Parada:** 4; **Dureza:** 20(16)
 * **Capacidades especiales:**
-    * **Acuático:** Paso nadando 4.
-    * **Armadura +4:** Su piel dura y gomosa y es bastante resistente.
-    * **Impávido:** Son un engendro creado genéticamente por los antiguos.
-    * **Masa informe:** Como muchos otros monstruos, no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
-    * **Tamaño 11:** 30 metros de diámetro (+11 dureza, +4 bonificación al atacarla, +2 herida).
-    * **Tentáculos:** FUE+d4
-    * **Múltiples ataques:** Puede sacar tentáculos de cualquier parte de su cuerpo y atacar a todos los que están encima suyo hasta un máximo de 3 objetivos.
-    * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida, excepto las creadas por fuego o electricidad.
-    * **Inmunidad:** Ataques físicos como armas de corte, flechas, piedras …
-    * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o quemando la vegetación que tiene.
+  * **Acuático:** Paso nadando 4.
+  * **Armadura +4:** Su piel dura y gomosa y es bastante resistente.
+  * **Impávido:** Son un engendro creado genéticamente por los antiguos.
+  * **Masa informe:** Como muchos otros monstruos, no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
+  * **Tamaño 11:** 30 metros de diámetro (+11 dureza, +4 bonificación al atacarla, +2 herida).
+  * **Tentáculos:** FUE+d4
+  * **Múltiples ataques:** Puede sacar tentáculos de cualquier parte de su cuerpo y atacar a todos los que están encima suyo hasta un máximo de 3 objetivos.
+  * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida, excepto las creadas por fuego o electricidad.
+  * **Inmunidad:** Ataques físicos como armas de corte, flechas, piedras …
+  * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o quemando la vegetación que tiene.
 * **TPC:** 1d12
 
 \sp
@@ -771,10 +769,10 @@ Puedes encontrarlos en sus guaridas subterráneas rodeadas de todo tipo de herra
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6 (1)
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Nuevos poderes x2
 * **Capacidades especiales:**
-    * **Armadura +1:** Piel escamosa.
-    * **Garras:** FUE+d6
-    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
-    * **Hechizos:** 12 PP, Conoce 3 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
+  * **Armadura +1:** Piel escamosa.
+  * **Garras:** FUE+d6
+  * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+  * **Hechizos:** 12 PP, Conoce 3 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
 #### Serpigente guerrero
@@ -786,10 +784,10 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 * **Paso:** 6; **Parada:** 6; **Dureza:** 7 (1)
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Nuevos poderes
 * **Capacidades especiales:**
-    * **Armadura +1:** Piel escamosa.
-    * **Garras:** FUE+d6
-    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
-    * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
+  * **Armadura +1:** Piel escamosa.
+  * **Garras:** FUE+d6
+  * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+  * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
 ### Sirrush (Sabueso de Tíndalos) ☾
@@ -812,21 +810,21 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
 * **Habilidades:** Saber de Suleimán d8, Notar d12, Pelear d12, Sigilo d12, Supervivencia d10
 * **Paso:** 10; **Parada:** 8; **Dureza:** 11(9)
 * **Capacidades especiales:**
-    * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
-    * **Garras:** FUE+d6
-    * **Mordisco:** FUE+d6
-    * **En fase:** El sabueso vibra temporalmente con lo que está y no está. Esto le otorga -2 a todos los intentos de impactarle.
+  * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
+  * **Garras:** FUE+d6
+  * **Mordisco:** FUE+d6
+  * **En fase:** El sabueso vibra temporalmente con lo que está y no está. Esto le otorga -2 a todos los intentos de impactarle.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida. Si pierde todas sus heridas no podrá regenerarlas y volver a la vida.
-    * **Inmunidad:** Ataques físicos como armas de corte o contundentes, arcos, fuego, electricidad, …
-    * **Debilidad:** Magia y alta tecnología. Las armas encantadas y las pistolas lanzarrayos pueden dañarlos normalmente.
-    * **Telepatía:** Se comunica telepáticamente con todo tipo de seres inteligentes.
-    * **Teleportación:** Una vez por turno y con un solo punto de coste de movimiento. Puede entrar en zonas angulares como esquinas de la pared y aparecer en otra esquina siempre que este a menos de 8 casillas. No podría teleportarse si es encerrado por dentro de una esfera.
-    * **Sentidos temporales:** Puede rastrearte a través del tiempo. Es decir, que si viajas en el tiempo y escapas de vuelta a tu tiempo, podrá olfatearte hasta tu época actual.
-    * **Hechizos:** 10 PP, Detección arcana, Drenaje de puntos de poder. Si lo crees necesario, puedes darles más hechizos.
+  * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida. Si pierde todas sus heridas no podrá regenerarlas y volver a la vida.
+  * **Inmunidad:** Ataques físicos como armas de corte o contundentes, arcos, fuego, electricidad, …
+  * **Debilidad:** Magia y alta tecnología. Las armas encantadas y las pistolas lanzarrayos pueden dañarlos normalmente.
+  * **Telepatía:** Se comunica telepáticamente con todo tipo de seres inteligentes.
+  * **Teleportación:** Una vez por turno y con un solo punto de coste de movimiento. Puede entrar en zonas angulares como esquinas de la pared y aparecer en otra esquina siempre que este a menos de 8 casillas. No podría teleportarse si es encerrado por dentro de una esfera.
+  * **Sentidos temporales:** Puede rastrearte a través del tiempo. Es decir, que si viajas en el tiempo y escapas de vuelta a tu tiempo, podrá olfatearte hasta tu época actual.
+  * **Hechizos:** 10 PP, Detección arcana, Drenaje de puntos de poder. Si lo crees necesario, puedes darles más hechizos.
 * **TPC:** 1d10 (manada)
 
 ### Sirviente alado (Noctívago demacrado)
@@ -846,9 +844,9 @@ Sirven principalmente al dios Nodens y tienen buenas relaciones con los gules. P
 * **Paso:** 6; **Parada:** 6; **Dureza:** 7(2)
 * **Ventajas:** Rápido
 * **Capacidades especiales:**
-    * **Armadura +2:** Su piel gomosa y es bastante resistente.
-    * **Volar:** Paso volando 12.
-    * **Cosquillas:** Los sirvientes alados pueden intentar hacer una acción de Presa con su cola. En caso de conseguir inmovilizarla, como acción gratuita, puede hacer cosquillas con la cola a su presa. Si la presa falla estará aturdido 1d6 turnos debido a que se ríe descontroladamente. Pasado esos turnos la presa puede tratar de escapar y el sirviente volver a hacerle cosquillas. Normalmente, cuando consigue aturdir a la víctima, toman altura y lo dejan caer.
+  * **Armadura +2:** Su piel gomosa y es bastante resistente.
+  * **Volar:** Paso volando 12.
+  * **Cosquillas:** Los sirvientes alados pueden intentar hacer una acción de Presa con su cola. En caso de conseguir inmovilizarla, como acción gratuita, puede hacer cosquillas con la cola a su presa. Si la presa falla estará aturdido 1d6 turnos debido a que se ríe descontroladamente. Pasado esos turnos la presa puede tratar de escapar y el sirviente volver a hacerle cosquillas. Normalmente, cuando consigue aturdir a la víctima, toman altura y lo dejan caer.
 * **TPC:** 1d6 (manada)
 
 ### Sukaan (Habitante de las arenas)
@@ -867,12 +865,12 @@ El cheitán también transforma el cuerpo de la víctima con pústulas y llagas 
 * **Habilidades:** Atletismo d6, Notar d6, Saber de Suleimán d4, Pelear d6, Sigilo d8, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 9(6)
 * **Capacidades especiales:**
-    * **Armadura +3:** Su piel áspera y con textura de arena le ofrece una buena protección.
-    * **Camuflaje natural:** Su piel de color arena le confieren +2 a las tiradas de sigilo en el desierto.
-    * **Vida en el desierto:** Llevan tanto tiempo en el desierto que conocen sus secretos. Todas las tiradas de buscar agua y comida, orientarse, cazar o hacer trampas y emboscadas obtienen +2 a las de Supervivencia en el desierto.
-    * **Garras:** FUE+d4
-    * **Nactílope:** Están acostumbrados a vivir de noche y las penalizaciones por poca luz se reducen a la mitad.
-    * **Hechizos:** Algunos habitantes puede tener 3 hechizos y 6 PP, normalmente de ataque y Saber de Suleimán d6.
+  * **Armadura +3:** Su piel áspera y con textura de arena le ofrece una buena protección.
+  * **Camuflaje natural:** Su piel de color arena le confieren +2 a las tiradas de sigilo en el desierto.
+  * **Vida en el desierto:** Llevan tanto tiempo en el desierto que conocen sus secretos. Todas las tiradas de buscar agua y comida, orientarse, cazar o hacer trampas y emboscadas obtienen +2 a las de Supervivencia en el desierto.
+  * **Garras:** FUE+d4
+  * **Nactílope:** Están acostumbrados a vivir de noche y las penalizaciones por poca luz se reducen a la mitad.
+  * **Hechizos:** Algunos habitantes puede tener 3 hechizos y 6 PP, normalmente de ataque y Saber de Suleimán d6.
 * **Equipo:** Herramientas de piedra
 * **TPC:** d6 (manada)
 
@@ -892,11 +890,11 @@ Son retoños de la diosa Astarte (una máscara de Shub-Niggurath) y normalmente 
 * **Habilidades:** Notar d8, Pelea d10, Sigilo 1d12
 * **Paso:** 4; **Parada:** 7; **Dureza:** 11-13 (4/6)
 * **Capacidades especiales:**
-    * **Masa informe:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen ningún extra. Por ejemplo, disparar a una boca no sirve de nada, ya que hay muchas más.
-    * **Inmunidad:** A explosivos y armas de fuego
-    * **Tentáculos:** FUE+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.
-    * **Tamaño grande (4/6):** Los vástagos miden entre 4 y 6 metros y un par de metros de diámetro (+4/6 dureza, +2 bonificación al atacarla, +1 herida).
-    * **Apariencia de árbol:** Pueden usar su sigilo solo para parecer ser árboles en la lejanía. En cuando te acercas o se mueven, la ilusión se rompe.
+  * **Masa informe:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen ningún extra. Por ejemplo, disparar a una boca no sirve de nada, ya que hay muchas más.
+  * **Inmunidad:** A explosivos y armas de fuego
+  * **Tentáculos:** FUE+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.
+  * **Tamaño grande (4/6):** Los vástagos miden entre 4 y 6 metros y un par de metros de diámetro (+4/6 dureza, +2 bonificación al atacarla, +1 herida).
+  * **Apariencia de árbol:** Pueden usar su sigilo solo para parecer ser árboles en la lejanía. En cuando te acercas o se mueven, la ilusión se rompe.
 * **TPC:** 1d8
 
 ### Viejo del mar o Davalpa ☾
@@ -1127,9 +1125,9 @@ Los camellos y dromedarios son animales perfectamente adaptados al desierto y es
 * **Paso:** 8; **Parada:** 4; **Dureza:** 8
 * **Ventajas:** Pies ligeros
 * **Capacidades especiales:**
-    * **Tamaño +3:** Entre 2 y 2,5 metros de altura (+3 dureza).
-    * **Mordisco/Coz:** FUE+d4
-    * **Joroba:** El agua acumulada en la joroba les da +2 a todas las tiradas contra la deshidratación.
+  * **Tamaño +3:** Entre 2 y 2,5 metros de altura (+3 dureza).
+  * **Mordisco/Coz:** FUE+d4
+  * **Joroba:** El agua acumulada en la joroba les da +2 a todas las tiradas contra la deshidratación.
 
 \sp
 
@@ -1143,12 +1141,12 @@ El rey indiscutible de la sabana ha sido domesticado y es usado tanto para traba
 * **Paso:** 8; **Parada:** 5; **Dureza:** 16 (2)
 * **Ventajas:** Barrido
 * **Capacidades especiales:**
-    * **Armadura +2:** Su piel dura les protege contra flechas y espadas.
-    * **Tamaño +6:** Alcanzan normalmente de 6 a 7,5 m de longitud y de 3,2 a 4 m de altura (+6 dureza, +2 bonificación al atacarle, +1 herida).
-    * **Resistente:** No recibe heridas al ser aturdido dos veces seguidas.
-    * **Trompa:** Pueden usar su trompa para atacar FUE+d4 y alcance 1. También puede usarla o para agarrar cosas, levantarlas, moverlas, …
-    * **Carga:** Si se mueve todo su movimiento en línea recta puede hacer una tirada única de Pelea contra todos los enemigos que encuentre en su camino con un daño FUE y deberán tirar AGI para no quedar caídos en el suelo.
-    * **Colmillos:** FUE+d8
+  * **Armadura +2:** Su piel dura les protege contra flechas y espadas.
+  * **Tamaño +6:** Alcanzan normalmente de 6 a 7,5 m de longitud y de 3,2 a 4 m de altura (+6 dureza, +2 bonificación al atacarle, +1 herida).
+  * **Resistente:** No recibe heridas al ser aturdido dos veces seguidas.
+  * **Trompa:** Pueden usar su trompa para atacar FUE+d4 y alcance 1. También puede usarla o para agarrar cosas, levantarlas, moverlas, …
+  * **Carga:** Si se mueve todo su movimiento en línea recta puede hacer una tirada única de Pelea contra todos los enemigos que encuentre en su camino con un daño FUE y deberán tirar AGI para no quedar caídos en el suelo.
+  * **Colmillos:** FUE+d8
 
 #### Hienas
 
@@ -1159,14 +1157,14 @@ La hiena es un carnívoro similar a los cánidos. Es carroñera y muy inteligent
 * **Paso:** 8; **Parada:** 5; **Dureza:** 4
 * **Ventajas:** Pies ligeros
 * **Capacidades especiales:**
-    * **Tácticas en manada:** En caso de múltiples oponentes obtiene un +2 por cada compañero en vez del +1 normal, pero el máximo de +4 se mantiene.
-    * **Mordisco:** FUE+d4
+  * **Tácticas en manada:** En caso de múltiples oponentes obtiene un +2 por cada compañero en vez del +1 normal, pero el máximo de +4 se mantiene.
+  * **Mordisco:** FUE+d4
 
 \sp
 
 * **Capacidades especiales:**
-    * **Olfato:** Tienen un fantástico olfato para detectar carroña y enemigos. +2 a Notar para buscar animales muertos y detectar enemigos ocultos.
-    * **Veloz:** Tira d10 como dado de carrera
+  * **Olfato:** Tienen un fantástico olfato para detectar carroña y enemigos. +2 a Notar para buscar animales muertos y detectar enemigos ocultos.
+  * **Veloz:** Tira d10 como dado de carrera
 
 ### Animales mitológicos
 
@@ -1182,11 +1180,11 @@ Seguramente podría enfrentarse a un tigre o león en igualdad de condiciones. D
 * **Habilidades:** Atletismo d10, Notar d8, Pelea d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 10(2)
 * **Capacidades especiales:**
-    * **Duro:** Puede aguantar una herida antes de quedar incapacitado.
-    * **Tamaño +2:** Un ejemplar adulto puede llegar a los 350 kg (+2 a dureza).
-    * **Armadura +2:** Su duro pelaje le protege de los ataques.
-    * **Colmillos:** FUE+d6
-    * **Olfato:** Tienen un fantástico olfato para detectar comida y enemigos. +2 a Notar para buscar comida y detectar enemigos ocultos.
+  * **Duro:** Puede aguantar una herida antes de quedar incapacitado.
+  * **Tamaño +2:** Un ejemplar adulto puede llegar a los 350 kg (+2 a dureza).
+  * **Armadura +2:** Su duro pelaje le protege de los ataques.
+  * **Colmillos:** FUE+d6
+  * **Olfato:** Tienen un fantástico olfato para detectar comida y enemigos. +2 a Notar para buscar comida y detectar enemigos ocultos.
 
 ```
 Usar pelo de cerdo-gamo en cualquier armadura de tela le da un punto más de la protección adicional.
@@ -1215,10 +1213,10 @@ Con langosta no nos referimos a los saltamontes gigantes de las plagas bíblicas
 * **Paso:** 8; **Parada:** 7; **Dureza:** 9(2)
 * **Ventajas:** Pies ligeros (Pies de camello)
 * **Capacidades especiales:**
-    * **Exoesqueleto de escorpión:** +2 armadura
-    * **Cuernos gacela y cuello de toro:** FUE+d6 grandes cuernos de gacela y el cuello de toro hacen que sus cornadas sean terribles.
-    * **Alas de águila:** Paso volando 8.
-    * **Cola de serpiente:** FUE+d4. El mordisco de la serpiente que es su cola es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+  * **Exoesqueleto de escorpión:** +2 armadura
+  * **Cuernos gacela y cuello de toro:** FUE+d6 grandes cuernos de gacela y el cuello de toro hacen que sus cornadas sean terribles.
+  * **Alas de águila:** Paso volando 8.
+  * **Cola de serpiente:** FUE+d4. El mordisco de la serpiente que es su cola es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
 * **TPC:** d4
 
 \sp
@@ -1233,9 +1231,9 @@ Con langosta no nos referimos a los saltamontes gigantes de las plagas bíblicas
 * **Habilidades:** Atletismo d8, Notar d10, Pelear d10, Sigilo d10
 * **Paso:** 4; **Parada:** 7; **Dureza:** 12 (5)
 * **Capacidades especiales:**
-    * **Tamaño 4:** 15 metros de largo y 1,2 toneladas de peso (+4 dureza, +2 bonificación al atacarla, +1 herida).
-    * **Armadura +1:** Sus duras escamas le proporcionan protección.
-    * **Constreñir:** La serpiente gana una bonificación de +2 a las tiradas de Atletismo y FUE relacionadas con presas.
-    * **Mordisco:** Daño FUE
-    * **Cuernos:** Daño FUE+1
+  * **Tamaño 4:** 15 metros de largo y 1,2 toneladas de peso (+4 dureza, +2 bonificación al atacarla, +1 herida).
+  * **Armadura +1:** Sus duras escamas le proporcionan protección.
+  * **Constreñir:** La serpiente gana una bonificación de +2 a las tiradas de Atletismo y FUE relacionadas con presas.
+  * **Mordisco:** Daño FUE
+  * **Cuernos:** Daño FUE+1
 * **TPC:** 1d6
