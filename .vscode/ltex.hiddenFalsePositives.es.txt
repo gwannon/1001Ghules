@@ -448,3 +448,45 @@
 {"rule":"REALIZE","sentence":"^\\QGracias a sus investigaciones y soplos a la guardia se han detenido a varios asesinos y se han desmantelado varios cultos que realizaban sacrificios humanos a dioses extraños y terribles.\\E$"}
 {"rule":"FORM","sentence":"^\\QSu idea es reunir todo el conocimiento prohibido en un solo lugar, de forma que si en algún momento se necesita este catalogado y accesible.\\E$"}
 {"rule":"FORM","sentence":"^\\QAunque ya no es la joven que encandilaba toda aquella persona que la viera, su alma buena y generosa sigue saliendo al exterior en forma de una belleza sobria y madura.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAram-de-las-columnas\nEl valle de los diamantes\nLa ciudad sin nombre\nEl hammam de las delicias\nLa Isla de los Siete Mares\nLa cueva de las maravillas\nLa Montaña del Imán\nLa ciudad de G’harne\nLa Ciudad de Bronce\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGéza Maróti’s plan of Atlantis mock-up\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEso sí, tu cuerpo físico estará desprotegido en el mundo real.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QMientras estés dormido, nada físico te puede pasar en el sueño de Yamlika, si puedes perder cordura ante lo que pudiera enseñarte Yamlika.\\E$"}
+{"rule":"REAL","sentence":"^\\QEso sí, tu cuerpo estará desprotegido en el mundo real.\\E$"}
+{"rule":"REAL","sentence":"^\\QEs importante destacar que todo lo que te ofrezca Yamlika se convertirá en real al despertar.\\E$"}
+{"rule":"A_NIVEL_DE","sentence":"^\\QA nivel de juego hace que la persona que lo porte al lanzar un hechizo obtenga un avance extra si consigue lanzarlo.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QEl mago que desee abrir la cueva debe saber la ubicación donde está enterrado el falak y debe realizar un hechizo de Animar cuerpo sobre el cadáver del falak para hacer que salga de la arena y la boca se abra.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmañana llegaremos a una montaña de rocas negras que se llama la Montaña del Imán, y hacia ella han de llevarnos a la fuerza las aguas.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QDe alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QG’harne es una misteriosa ciudad sita en algún lugar de los desiertos páramos del norte de África.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QNada bueno presagia ver la silueta de G’harne contra el sol del ocaso o del alba.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QDe la ciudad de G’harne solo quedan en pie los muros de algún gigantesco templo o palacio y todas las superficies medianamente lisas de las ruinas están llenos de extraños glifos punteados que nadie que los haya visto ha podido descifrar.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa ciudad de G’harne\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLos glifos de G’harne cuentan la historia de los janns desde su creación hace millones de años hasta hace miles.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa historias que cuentan que G’harne es que solo se aparece a quien la ciudad quiere.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QOtra opción que explicaría que los falak menores tengan tanto interés en G’harne es que su rey Shudde M’ell está encerrado en algún lugar bajo la ciudad.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QOtra opción que explicaría que los falak menores tengan tanto interés en G’harne es que su rey Shudde M’ell está encerrado en algún lugar bajo la ciudad.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOtra opción que explicaría que los falak menores tengan tanto interés en G’harne es que su rey Shudde M’ell está encerrado en algún lugar bajo la ciudad.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«Has de saber, ¡ya sidi! que el lugar en que nos hallamos es el antiguo tesoro de Scheddad, hijo de Aad, el constructor de la famosa ciudad, ahora en ruinas, de Aram-de-las-Columnas.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\Q¡A tus órdenes!»\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSinbad in the Valley of Diamonds - Albert Goodwin\\E$"}
+{"rule":"SENTENCE","sentence":"^\\QDesarrollaron el sistema de tirar carne al fondo del valle porque saben que estar en el valle es una sentencia a muerte.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\Q\\[…\\] Y el joven y hermoso efrit que habíale conducido se presentó para volver a cogerle y llevarle al estrado, donde le ofreció, como refresco, un delicioso sorbete de ámbar gris.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEl Hammam es una especie de reino mágico (en realidad tecnología abu-qith) en la que se encierra la mente del prisionero y se le hace creer que está en un hammam increíblemente lujoso, con todo tipo de delicias, bellos y bellas masajistas, ricos manjares, aceites perfumados, piscinas de agua caliente, etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPool in a Harem by Jean-Léon Gérôme\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qun hammam tan hermoso, que no podría encontrársele igual en casa de los reyes y kaissares.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QCuando aquella ciudad supo, como contaban los jeiques de su tribu, que se encontraba frente a la ciudad de G’harne y que su destino estaba sellado, moriría devorado por los falaks que viven en esas arenas, o peor, acabaría convertido en uno de sus esclavos.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QG’harne y los falaks menores\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRūdolfs Pērle - Saule (1916) Tempera\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QG’harne y los janns\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPor la escritura punteada y por diferentes símbolos basados en el pentágono y la estrella de 5 puntas, se cree que la ciudad de G’harne fue fundada haces miles de años (o incluso millones de años) por la tribu de janns, la más antigua de las tribus de yinns que aparecieron en la tierra.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY al aproximarnos a ello, vimos que era un río de mercurio que nos cortaba el camino.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY estaba surcado por un puente de cristal sin balaustrada, tan estrecho, tan pendiente y tan escurridizo, que ningún hombre dotado de razón intentaría pasar por él.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY en medio del jardín se alzaba un pabellón con bóveda formada por una sola esmeralda, que resguardaba a un trono de oro rojo incrustado de rubíes y de perlas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY Maruf, pronunciando la fórmula del «bismilah», bajó a la cueva y vio que la componían cuatro salas consecutivas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY Maruf se asombró prodigiosamente de su descubrimiento y se entusiasmó con aquel tesoro.\\E$"}
+{"rule":"HABER_DE_INFINITIVO","sentence":"^\\QPuede haber de todo en esas instalaciones.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¡No habrá salvación posible mientras no se precipite el jinete al mar! /p/ Dicho esto, ¡oh señora mía! el capitán continuó derramando abundantes lágrimas, y juzgamos segura e irremediable nuestra pérdida, despidiéndose cada cual de sus amigos.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QHistoria del tercer saaluk (n. 14)\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QDesde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY del fondo de aquel agujero emergieron los restos podridos de un inmenso falak muerto.\\E$"}
