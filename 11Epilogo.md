@@ -98,7 +98,7 @@ Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se 
 
 ### Genocidio palestino por parte de Israel 2024
 
-Originalmente, Jerusalén iba a forma parte de esta ambientación, pero he decidido borrarla de esta ambientación y sustituirla por Gaza. Puede no sea mucho, pero es un pequeño gesto para mostrar mi desprecio por el estado genocida de Israel. #CeaseFireNOW #PalestineFree
+Originalmente, Jerusalén iba a formar parte de esta ambientación, pero he decidido borrarla de esta ambientación y sustituirla por Gaza. Puede no sea mucho, pero es un pequeño gesto para mostrar mi desprecio por el estado genocida de Israel. #CeaseFireNOW #PalestineFree
 
 ### Define los velos y herramientas de seguridad
 

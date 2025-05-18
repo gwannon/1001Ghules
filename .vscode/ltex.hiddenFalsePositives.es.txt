@@ -273,3 +273,178 @@
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QAquel salón solo se abría cuando llegaba el califa, y entonces se encendían las lámparas y la araña y se abrían todas las ventanas, y el califa se sentaba en un magnífico diván forrado de seda, terciopelo y oro, y mandaba a las cantoras que cantasen y a los músicos que tañesen sus instrumentos; pero lo que prefería era oír al ilustre cantor Ishak, cuyos cantos e improvisaciones admiraba todo el mundo.\\E$"}
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QDalila odia profundamente al Califa, porque su difunto marido era el maestre del palomar del Califa y los colmaba de dinero y regalos.\\E$"}
 {"rule":"NOTICE","sentence":"^\\QFátimah tiene malas noticias, la caja de resistencia ha sido robada.\\E$"}
+{"rule":"FORM","sentence":"^\\QAunque los estamentos son cajas cerradas en la que naces, creces y mueres, moverse entre estamentos es algo posible de muchas formas.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QHarún Al-Raschid, Califa de Bagdad\nSett Zobeida, Califesa de Bagdad\nGiafar al-Barmak, gran visir del califa de Bagdad\nFátimah, líder del Pequeño Consejo\nHunayn ibn Ishaq, director de la Casa de la Sabiduría\nIbrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie de la Luna Creciente\nBahlul el Cuerdo, bufón de la corte\nAbu-Nowas, poeta del califa y el mayor juerguista de Bagdad\nHachem ben Suleimán, el mejor cantor e intérprete de Bagdad\n’Inān bint ’Abd-Alāh, poetisa y qiyan del Califa\nYacub Abu-Yussef, kadí supremo de Bagdad\nAhmad-la-Tiña, antiguo criminal y jefe de policía de Bagdad\nHassan-la-Peste, antiguo criminal y jefe de policía de Bagdad\nAyub Lomo-de-Camello, jefe de los alguaciles de Ahmad-la-Tiña\nDalila la taimada, reina de los bajos fondos Bagdad\nZeinab la embustera, hija de Dalila la taimada y su lugarteniente\nAlí Azogue, el mejor ladrón de Bagdad\nDana, joven ghūl aliada del Pequeño Consejo\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEvery Story by ArtDoge\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«¡Maschalah! ¡oh molde de la perfección!» Y la miró aún más atentamente, y creyó volverse loco de alegría.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Maschalah! ¡oh molde de la perfección!» Y la miró aún más atentamente, y creyó volverse loco de alegría.\\E$"}
+{"rule":"FORM","sentence":"^\\QSu matrimonio fue un matrimonio concertado entre su padre y el califa, de forma que el amor no tuvo nada que ver, de hecho la califesa y su marido el califa son primos, cosa que no agrada mucho a Zobeida.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta Sketch_Dailies: Jafar by giorgiobaroni\\E$"}
+{"rule":"NOTICE","sentence":"^\\Q¡Y es preciso que, mientras yo subo a anunciar la fúnebre noticia a su pobre viuda, pienses en el medio de que nos valdremos para hacerle enterrar como si hubiera muerto de muerte natural, sin que nadie pueda sospechar la verdad!\" /p/ Y ella contestó:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta indi girl por tsynali\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSurrender! by maxprodanov\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QGiafar está felizmente casado y con hijos, pero tiene ciertos sentimientos por ’Inān bint ’Abd-Alāh, concubina del califa.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAlfanje digno de un califa (FUE+d8), ropajes de calidad y normalmente oscuros y con poco adorno.\\E$"}
+{"rule":"NOTICE","sentence":"^\\Q¡Y es preciso que, mientras yo subo a anunciar la fúnebre noticia a su pobre viuda, pienses en el medio de que nos valdremos para hacerle enterrar como si hubiera muerto de muerte natural, sin que nadie pueda sospechar la verdad!» /p/ Y ella contestó:\\E$"}
+{"rule":"FORM","sentence":"^\\QDe forma que por cada parte del camino recibe al principio de cada sesión un beni extra por cada etapa después de «Adentrándose en lo desconocido».\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Q¿por qué les he llamado pieles blandas?\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«Ohh Princesa de la estrella de la tarde, lo que ves ante tus ojos es griego en caracteres jónicos, y es para mí, vuestro humilde esclavo, un honor traducirlo para su majestad».\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QHistoria del joven encantado y de los peces (n. 7)\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSu madre adoraba a Suc’Naath y su abuela antes que ella.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QCon ello obtuvo todo lo necesario para liderar la Mano Dorada y embarcarla en la misión de liberar a Suc’Naath de la música infernal que hace que baile alrededor de Azathoth.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QZiba de Alepo desciende de una larga tradición de adoradoras de Suc’Naath.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QInnuendo by A6A7\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSuc’Naath ofrece su poder a sus elegidos, pero exige un sacrificio en dolor.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSecreto (asesina principal de la Mano Dorada de Suc’Naath)\nVentajas:\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEn su trabajo actual se junta las 3 cosas que más le gusta del mundo, los idiomas, los libros y conservar y difundir la cultura.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi quieres granjearte su amistad, no hay nada mejor que regalarle algún tratado antiguo de origen griego, chino, indio o alguna lengua muerta hace muchos siglos.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QAtletismo d6, Ciencias d6, Conocimientos Generales d6, Humanidades d8, Idioma materno d10, Idioma Griego d10, Idioma Latín, Idioma Persa d10, Idioma Judío d10, Idioma Hindú d10, Idioma Chino d10, Idioma Turco d10, Idioma Franco (francés) d10, Idioma Bereber d10, Idioma Naacal d10, Investigar d6, Medicina d10, Notar d8, Pelear d6, Persuadir d4, Sigilo d4\nPaso: 6; Parada: 5; Dureza: 6\nDesventajas:\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh mi señor! soy enemigo de todo trabajo fatigoso.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh mi señor! un poco larga sería la lista».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QA Chief of Abyssinia\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¿Cómo quieres, ¡oh padre de blancuras! que me mueva de aquí, si me retiene como rehén un jovencito amigo mío?» El eunuco preguntó:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta Abu Nuwas, Drawing by Kahlil Gibran al-Funun\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\Q’Inān bint ’Abd-Alāh, poetisa y qiyan del Califa ☾\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q’Inān bint ’Abd-Alāh, poetisa y qiyan del Califa ☾\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q’Inān es una muwallada (hija de padre árabe libre y madre esclava).\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QA través de un agente, al-Raschid entonces la compró por 225,000 dirhams y la hizo una de sus concubinas, curiosamente el gestor que vendió a ’Inān estaba al servicio del califa.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThe Unwelcome Companion - A Street Scene in Cairo 1873 by John William Waterhouse\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QA pesar de estar enamorado de su mujer, Giafar siente una atracción por ’Inān aunque nunca ha revelado sus sentimientos por ella quedando, por ahora en algo \"platónico\".\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QA pesar de estar enamorado de su mujer, Giafar siente una atracción por ’Inān aunque nunca ha revelado sus sentimientos por ella quedando, por ahora en algo «platónico».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSalah Al-Din / Yusuf Ibn-Ayyub by MuratCALIS\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEn el momento en que huele algo (persona, objeto, ritual, etc.) que le permita acercarse a Nardún centra toda su atención en ese algo y lo persigue como un perro de presa usando todos sus recursos personales y de la secta y sin importarle si tiene que robar, torturar o asesinar.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QFrío y calculador, nunca pierdes la calma, porque si la perdieras todos verían todo lo oscuro y dañino que hay dentro y no podrías moverte por el mundo como lo haces ahora.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy pasaba los días en su taller y las noches sin luna en la torre del palacio del Emir de Alepo, que disfrutaba como ella de la ciencia de nombrar los objetos que nuestro creador decidió poner en la esfera celeste …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHead of a Woman in a Red Turban by Eugène Delacroix\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QEn esas ocasiones tiene un lado oscuro donde es capaz de tergiversar y retorcer las leyes humanas y divinas para justificar cualquier cosa que haga el Califa o librarle de cualquier problema legal en el que el mismo se mete.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHasan Ibn-i Sabbah by MuratCALIS\\E$"}
+{"rule":"SENTENCE","sentence":"^\\QCuando tengas toda la información, dicta tu sentencia condenatoria.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QPregunta corto y conciso y a poder ser preguntas de sí o no.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QCuentan ¡oh rey afortunado! que en tiempo del califa Harún Al-Raschid había en Bagdad un hombre llamado Ahmad-la-Tiña y otro hombre llamado Hassán-la-Peste, y estaban reputados ambos por su maestría en estratagemas y latrocinios.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSomebody That I Used to Know by Saineem\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QZiba Al-Alephi, maga suprema y suma sacerdotisa de la Mano Dorada\nAlura, amazona, guardaespaldas de Ziba y asesina principal de la Mano Dorada de Suc’Naath\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QSurrender! by maxprodanov\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEsencia de Suc’Naath:\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAlura, amazona, guardaespaldas de Ziba y asesina principal de la Mano Dorada de Suc’Naath ☾\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAlura no es creyente de Suc’Naath, solo es leal a Ziba, por la que profesa verdadera devoción.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta Character Design:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAmmani by TheLivingShadow\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q’Inān destaca por sus réplicas, que a menudo son de tono sexual o incluso vulgar.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QZaharia artwork:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta Pre-Islamic Arab Poet ʾImruʾ al-Qays por Desconocido\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSalomé (1870), Metropolitan Museum of Art by Henri Regnault\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QAdornada a la sazón de esta manera, fue a abrazar a su madre, y le dijo: /p/ «¡Oh madre! ¡juro por la integridad de mi candado intacto y cerrado, que me adueñaré de los cuarenta y uno y serán mi juguete!»\\[…\\] /p/ Entonces Zeinab arrastró los cadáveres de los pies uno por uno y los arrojó a lo último de la tienda, amontonándolos unos sobre otros, y escondiéndolos debajo de una manta grande, corrió por delante de ellos una amplia cortina, y salió para apostarse de nuevo en la puerta de la taberna.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\Q/p/ Entonces Zeinab, que era una joven graciosa y esbelta con ojos oscuros en un rostro encantador y claro, se levantó al punto y se vistió con gran elegancia y se veló la cara con una ligera muselina de seda, de modo que el brillo de sus ojos era más aterciopelado y subyugante.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QHe llegado a saber ¡oh rey afortunado! que en tiempos de Ahmad-la-Tiña y Hassán-la-Peste, había en Bagdad otro ladrón tan sagaz y tan escurridizo que jamás consiguió capturarle la policía; pues no bien creía tenerle ya cogido, se le escapaba como se escurre entre los dedos una bola de azogue que se quisiera sujetar.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QSolo en casos muy extremos recurrirá al daño físico y nunca al asesinato.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAlfanje, ropas oscuras, herramientas de ladrón, cuerda y garfio de escalada y 1d6 dosis de kohl de invisibilidad\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QSe considera una genio del crimen y cree que solo el inspector Ahmad-la-Tiña se le iguala en perspicacia e inteligencia.\\E$"}
+{"rule":"FORM","sentence":"^\\QDe esta forma quitaban de las calles un peligroso criminal y le tenían contento y motivado para atrapar a otros criminales gracias a los honores concedidos como ir en los desfiles a la izquierda del Califa y un espléndido sueldo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortrait of a Woman in a Blue Turban by Eugène Delacroix\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY en aquel objeto reconocí un cráneo humano recientemente separado de un cuerpo sin vida.\\E$"}
+{"rule":"FORM","sentence":"^\\QDe forma que cuando tus schahriars gasten un beni digan «Voy a gastar un deseo».\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QTodo el sistema de horror/cordura típico de los juegos basados en la obra de Lovecraft se basa en trastornos mentales que vayan lastrando a tu personaje hasta acabar locos en un callejón oscuro de Bagdad, gritando a los viandantes sobre que su fin se acerca y las estrellas estarán pronto en la posición correcta.\\E$"}
+{"rule":"FORM","sentence":"^\\QDe todas formas, esto son solo consejos y tuya es la elección de seguirlos o no.\\E$"}
+{"rule":"PREVENT","sentence":"^\\QCosas muy sencillas como prevenir el mal de ojo puede ser conocidas por la gente de a pie usando Conocimientos generales.\\E$"}
+{"rule":"FABRICATION","sentence":"^\\QEso quiere decir que muchos productos exigirán un tiempo de fabricación.\\E$"}
+{"rule":"FORM","sentence":"^\\QAlgo muy común con los contadores de cuentos en las 1001 Noches es que suelen usar los cuentos como forma de convencer a la audiencia.\\E$"}
+{"rule":"REAL","sentence":"^\\QFue llamada así porque puede disolver aquellos llamados metales regios, reales, o metales nobles.\\E$"}
+{"rule":"FORM","sentence":"^\\QPero su uso no era solo estético, ya que se usaba como forma de protección de los ojos frente al brillante sol del desierto.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn bastantes culturas de la zona de Oriente Próximo, también era una forma de protección con el mal de ojos.\\E$"}
+{"rule":"FORM","sentence":"^\\QPuede evitarse la pérdida de puntos de cordura, adquiriendo un trastorno mental permanente con un máximo de 3 trastornos permanentes o gastando todos tus deseos (mínimo 1) y adquiriendo un trastorno mental de forma temporal.\\E$"}
+{"rule":"FORM","sentence":"^\\QEl borde exterior está afilado y el interior no, de forma que se puede meter el brazo o la cabeza a través del chakram y tener varios guardados en el codo o en el cuello.\\E$"}
+{"rule":"FORM","sentence":"^\\QUn khopesh es un sable de hoja curva, en forma de «C» o forma de hoz y con el filo en su parte convexa, se popularizó en el Antiguo Egipto, pero se usa en todo Oriente Medio.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QPodrías dar hasta un +2 a las tiradas mentales del ritual y hasta un -2 a las físicas.\\E$"}
+{"rule":"FORM","sentence":"^\\QConsiste en una daga de hoja ancha con una empuñadura en forma de H, que hace que la hoja continúe la línea del antebrazo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThe Fisherman Wished to Run Away - Rhead, Louis\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEl jefe de los 40 ladrones se hace pasar por un vendedor de aceite y el mago malvado de Aladino por una santona que engaña a la princesa Badrú’l-Budur.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDebemos conocer el nombre del lugar que buscar y debe haber una forma física de llegar a ella.\\E$"}
+{"rule":"FORM","sentence":"^\\QDebemos conocer el nombre del lugar que buscar y debe haber una forma física de llegar a ella.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 2\nDistancia: —\nDuración:\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QExperimentado\nPuntos de poder: 2\nDistancia:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 4\nDistancia: —\nDuración:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEspecial\nPuntos de poder: 3 PP x nivel de dificultad\nDistancia:\\E$"}
+{"rule":"SINGLE_CHARACTER","sentence":"^\\QEspecial\nPuntos de poder: 3 PP x nivel de dificultad\nDistancia:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortal Room by Brandon-Ellis\\E$"}
+{"rule":"FORM","sentence":"^\\QLa trasformación sigue las reglas del poder «Cambio de forma» y puede elegir si la persona maldita puede hablar o no.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY ella le dijo:\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q«¡Ved si este muerto no es el mercader de aceite, el propio capitán de los ladrones con sus mismos ojos, el hombre que no quería probar la sal sagrada de la hospitalidad!» Y así diciendo, despojó de su manto el cuerpo yacente, e hizo ver bajo su larga barba y el disfraz con que se había embozado para la circunstancia al enemigo que juró destruirles.\\E$"}
+{"rule":"FORM","sentence":"^\\QSin embargo, como, a pesar de todo, son creyentes, permiten que de vez en cuando, en los días de sesiones de justicia, recobre mi forma humana, dejando de ser pollino, para ir a dar audiencia en el diwán.\\E$"}
+{"rule":"FORM","sentence":"^\\QAprendí del Libro de Dzyan, cuyos primeros seis capítulos se remontan antes de que el gran creador diese forma a la Tierra y que era antiguo cuando los señores del Lucero del Alba vinieron a través del éter en sus naves voladoras para civilizar nuestro planeta.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLa cuestión es que al compartir solo una persona podrá usarlo para mejorar sus habilidades durante el avance actual.\\E$"}
+{"rule":"REAL","sentence":"^\\QPodrías comprarlo a algún buhonero o a alguien que los ha recibido en una herencia y desconoce su valor real.\\E$"}
+{"rule":"FORM","sentence":"^\\QSin tener acceso a un grimorio, la única forma de acceder a poderes mágicos y mejorarlos es a través de una mentora o un mentor, pero será él el que paute qué hechizos aprendes o qué aspectos de tu magia mejoras y no podrá enseñarte algo que no sepas.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdejar libremente que cada schahriar gaste los NP del libro como quiera,\nfijar en que exactamente se puede gastar los NP antes de dar el libro a tus schahriar\no un modo mixto en el que el primer lector deja fijo que se aprende del libro con sus decisiones a la hora de gastar sus avances y los siguientes lectores se tienen que ceñir a esa lista de gastos.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QSi una ventaja da o quita puntos de poder no será un valor fijo, sino basado en el nivel de Espíritu del personaje.\\E$"}
+{"rule":"PRESENT","sentence":"^\\QDesde que los humanos aparecieron estos se han preguntado por su futuro y su pasado y es por ello que la adivinación siempre ha estado presente en toda fantasía.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QAunque normalmente estas sanaciones son realizadas tras el combate en hammames y suntuosas habitaciones de palacio por jóvenes de gran belleza de ambos sexos, también pueden usarse en mitad de un combate entre heridas abiertas, tajos y fracturas.\\E$"}
+{"rule":"FORM","sentence":"^\\QAlgo muy medieval y bastante bíblico es dejar ciego a tu oponente tanto temporalmente, como permanentemente en forma de maldición.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 2 PP\nDistancia:\\E$"}
+{"rule":"FORM","sentence":"^\\QAunque la mayoría de las veces volar supone una forma de viajar muy rápido por todo el mundo, también hay veces en que los seres vuelan y combaten en el aire.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy una vez que estuvieron en el patio del palacio, trazó un círculo mágico en la arena alrededor del burro; y al punto alzóse en torno a él una muralla que le encerraba en un recinto muy estrecho, del que no podía escaparse.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q/p/ Badrú’l-Budur estaba embaucada por los ojos de la vieja santa, unos ojos profundos y de color cambiante que le hacían obedecer las órdenes de la jeiquesa por perversos y antinaturales que pudieran parecer a una persona auténticamente creyente.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghūls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY cuando, por el contrario, a consecuencia de esta pérdida, se le desinflaba el vientre, aspiraba aire con todas sus aberturas superiores, o sea boca, nariz y oídos.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qesta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QWill-o’-the-Wisp (detail), 1888 - Lev Lerch\\E$"}
+{"rule":"FORM","sentence":"^\\QCambio de forma\\E$"}
+{"rule":"FORM","sentence":"^\\QEl cambio de forma es un poder muy común entre los seres de las 1001 Noches, pero no tanto de los Mitos de Cthulhu donde los cambiaformas no abundan.\\E$"}
+{"rule":"FORM","sentence":"^\\QComo reductor de atributos y con un toque más lovecraftiano, este poder puede tener varios modos de aplicarse en tus partidas en forma de enfermedades con reminiscencias medievales como la lepra, la tuberculosis o la sarna que restan Fuerza, Vigor o Destreza.\\E$"}
+{"rule":"FORM","sentence":"^\\QTu respiración sale de tu cuerpo en forma de humos y vapores sulfúricos.\\E$"}
+{"rule":"FORM","sentence":"^\\QEsta maldición no está ligada a ningún poder, ya que no funciona exactamente como un hechizo, sino que cae sobre su víctima de otras formas.\\E$"}
+{"rule":"FORM","sentence":"^\\Qcomo forma de comunicarte con ese ser.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcomo forma de comunicarte con ese ser.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos hechizos no son más ornamentos explicados, de forma que se adapten a los pilares de esta ambientación, las 1001 Noches y los Mitos de Cthulhu.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QMi situación actual no me permite serte de más ayuda, pero quiero que sepas que mis rezos están contigo para ayudarte en la gran tarea que te espera.\\E$"}
+{"rule":"REAL","sentence":"^\\Q¡Diéronme mis esposas una posteridad de mil príncipes reales, valientes cual leones!\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSecretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSecretos oscuros del shatranj\\E$"}
+{"rule":"REAL","sentence":"^\\QLas ilusiones pueden ser a veces muy realistas y podrían suplantar incluso a mensajeros y oficiales que darían órdenes de atacar objetivos reales.\\E$"}
+{"rule":"REAL","sentence":"^\\QEsto es un juego de rol y ya hay mucha mierda en la vida real para tener que aguantarla también en una mesa de juego.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDesde «crímenes pasionales» que son en realidad feminicidios en serie o maltratos varios, tanto físicos como psicológicos, hasta matrimonios forzados tanto por padres por la fuerza como por pretendientes que se valen de argucias para casarse con sus pretendidas, lo deseen o no estas.\\E$"}
+{"rule":"FORM","sentence":"^\\QPor último, si vas a meter la religión en tus partidas, recuerda que no deberías usarla como forma de coartar a tu mesa sobre lo que quiere hacer o como jugar.\\E$"}
+{"rule":"FORM","sentence":"^\\QTampoco deberías dejar que tus schahriars la usen como forma de justificar conductas machistas, racistas, homófobos y demás fobos e istas.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.\\E$"}
+{"rule":"FORM","sentence":"^\\QLas 1001 Noches tiene muchas cosas criticables, pero también hay que decir que representa muchas formas de amor y sexo, seguramente muchos siglos antes que otras obras literarias que creemos más avanzadas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRegnault, Henri - Hassan et Namouna\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGgia\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QCuentan ¡oh rey afortunado! que cierto masajista del hammam tenía de ordinario entre su clientela a los hijos de los notables y de los ciudadanos más ricos, porque el hammam donde ejercía su oficio era el mejor acreditado de toda la ciudad.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QSe comenta que la tecnología para la fabricación de papel viene de prisioneros chinos de la Batalla del Talas.\\E$"}
+{"rule":"FABRIC","sentence":"^\\QEsta fábrica se ha construido gracias al apoyo y la intervención del visir Giafar.\\E$"}
+{"rule":"FABRICATION","sentence":"^\\QSe comenta que la tecnología para la fabricación de papel viene de prisioneros chinos de la Batalla del Talas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWurzelgnohm\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QSus jardines colgantes, considerados una de las maravillas del mundo antiguo, aunque no se tengan pruebas actuales de su existencia.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa configuración de las ruinas puede tener cualquier forma, desde catacumbas, hasta palacios o altas torres y zigurats.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEn la aventura «La llegada del cometa» tienes un ejemplo de una exploración de las ruinas de la ciudad en busca de una estatua que contiene parte de la esencia de Suc’Naath.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QVer como Bahram quema vivas a las personas que secuestra mientras hace sus rituales a Nardún tiene una TPC d6.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QY sobre todo, merced a su prestigio, el nombre y la gloria de Harún Al-Raschid repercutieron desde las mesetas del Asia Central hasta el fondo de las selvas norteñas, y desde el Magreb y la Andalucía hasta las fronteras extremas de China y de Tartaria.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abasí.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh señor! estudié la sintaxis, la poesía, el derecho civil y el derecho general; la música, la astronomía, la geometría, la aritmética, la jurisprudencia desde el punto de vista de las sucesiones, y el arte de descifrar las escrituras mágicas y las inscripciones antiguas.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QMe sé de memoria el Libro Sublime y puedo leerle de siete maneras distintas; conozco exactamente el número de sus capítulos, de sus versículos, de sus divisiones, de sus diferentes partes y sus combinaciones, y cuantas líneas, palabras, letras consonantes y vocales encierra: recuerdo con precisión qué capítulos se inspiraron y escribieron en la Meca y cuáles otros se dictaron en Medina; no ignoro las leyes y los dogmas, sé distinguirlos con las tradiciones y diferenciar su grado de autenticidad; no soy una profana en lógica, ni en arquitectura, ni en filosofía, como tampoco en lo que afecta a la elocuencia, al lenguaje escogido, a la retórica y a las reglas de los versos, los cuales sé ordenar y medir sin omitir ninguna dificultad en su construcción; sé hacerlos sencillos y fluidos, como también complicados y enrevesados para deleitar solo a las gentes delicadas; y si a veces pongo en ellos oscuridad, es para fijar más la atención y halagar al espíritu, que despliega por último su trama sutil y frágil; en una palabra, aprendí muchas cosas y retuve cuanto aprendí».\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy echó en ella agua de la fuente, que enfrió con un pedazo de hielo, y lo mezcló todo con azúcar y agua de rosas, y después se lo presentó al califa.\\E$"}
+{"rule":"FORM","sentence":"^\\QUn yakhchāl es un edificio en forma de cucurucho que permite crear hielo en invierno mediante refrigeración por evaporación y de conservarlo en verano sin casi perdidas.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QTambién ha chantajeado a maridos y esposas infieles y respetables personas con oscuros vicios o secretos.\\E$"}
+{"rule":"FORM","sentence":"^\\QLos mejores materiales se han usado en este hammam de una forma muy bella.\\E$"}
+{"rule":"FORM","sentence":"^\\QNo hay ningún edificio a menos de 200 metros del palacio, de forma que para entrar en el palacio debe atravesarse la plaza y estar a la vista de la guardia de palacio.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLas actuales Irak, Irán, Arabia Saudí, Yemen, Israel, Palestina, Líbano, etc. están bajo el dominio del Califa de Bagdad.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa muralla interior (44 m de ancho en la base, 14 en la parte superior y 30 m de altura), de ladrillos de adobe y una capa de ladrillo cocido a ambos lados, está custodiada por 132 torres circulares colocadas de forma equidistante en toda su extensión.\\E$"}
+{"rule":"PRESENT","sentence":"^\\QEn los jardines públicos del Palacio de la Eternidad, el Califa ha construido una casa de fieras, un zoológico donde el Califa guarda todos los animales que recibe como presente de dignatarios extranjeros.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY en cuanto hubo bailado todo aquello, cuando el corazón de su amo, y el del hijo de su amo, y el del mercader invitado por su amo quedaron suspensos de sus pasos y los ojos quedaron fijos en la soltura de su cuerpo, esbozó la ondulante danza del puñal.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDalila odia profundamente al Califa, porque su difunto marido era el maestre del palomar del Califa y los colmaba de dinero y regalos.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QPero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY Yahía y sus hijos se tornaron astros brillantes, vastos océanos de generosidad, torrentes impetuosos de gracias, lluvias bienhechoras.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEl actual director de la Casa de la Sabiduría es Hunayn ibn Ishaq, médico, traductor y una de las mentes más grandes de este tiempo.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QDebajo de su palacio, el visir ha montado una guarida secreta en los sótanos del palacio donde realiza experimentos científicos y mágicos.\\E$"}
+{"rule":"FORM","sentence":"^\\QSu matrimonio fue un matrimonio concertado entre su padre y el Califa, de forma que el amor no tuvo nada que ver, de hecho la Califesa Sett Zobeida y su marido el Califa son primos, cosa que no agrada mucho a Zobeida.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSin embargo, a veces tiene un lado oscuro donde es capaz de tergiversar y retorcer las leyes humanas y divinas para justificar cualquier cosa que haga el Califa o librarle de cualquier problema legal en el que el mismo se mete.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QPero, como todos los grandes personajes, tiene un lado oscuro y la ética y la deontología médica no son campos en los que haya hecho avances.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QGiafar lleva años realizando diferentes proyectos urbanísticos con la ayuda de la califesa que han mejorado la calidad de vida de las gentes de Bagdad, pero detrás de ellos hay también planes secretos para proteger a su ciudad.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QComo ya hemos dicho, debajo de su palacio el visir ha montado una guarida secreta donde realiza experimentos científicos y mágicos, una biblioteca personal mágica y una buena colección de objetos mágicos y mundanos de gran valor.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos ha usado para vigilar a enemigos, infiltrarse en sitios donde no podría entrar de normal o para que realicen pequeños delitos y robos útiles para sus intereses.\\E$"}
+{"rule":"FORM","sentence":"^\\QEs un modo de dar a conocer su forma, sus poderes y sus debilidades.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QSin duda ignoras los siete viajes extraordinarios que he realizado, y cómo cada cual de estos viajes constituye por sí solo una cosa tan prodigiosa, que únicamente con pensar en ella queda uno sobrecogido y en el límite de todos los estupores.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QÉl les hablará de alguna tierra lejana donde puedan conseguir lo que necesitan para cumplir su misión o les contará algún objeto extraño que vio en sus viajes y que podría ayudarles con algún problema actual que tengan.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QGracias a sus investigaciones y soplos a la guardia se han detenido a varios asesinos y se han desmantelado varios cultos que realizaban sacrificios humanos a dioses extraños y terribles.\\E$"}
+{"rule":"FORM","sentence":"^\\QSu idea es reunir todo el conocimiento prohibido en un solo lugar, de forma que si en algún momento se necesita este catalogado y accesible.\\E$"}
+{"rule":"FORM","sentence":"^\\QAunque ya no es la joven que encandilaba toda aquella persona que la viera, su alma buena y generosa sigue saliendo al exterior en forma de una belleza sobria y madura.\\E$"}

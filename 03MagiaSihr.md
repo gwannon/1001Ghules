@@ -131,7 +131,7 @@ Tenemos varios ejemplos de armas mágicas en los cuentos de las 1001 Noches, per
 
 ### Ceguera
 
-Algo muy medieval y bastante bíblico es dejar ciego a tu oponente tanto de forma aleatoria, como permanente de en forma de maldición.
+Algo muy medieval y bastante bíblico es dejar ciego a tu oponente tanto temporalmente, como permanentemente en forma de maldición.
 
 ### Chorro
 
@@ -249,7 +249,7 @@ El fuego, entre las creencias religiosas de la zona como en el zoroastrismo, no 
 
 Este poder se ve muchas veces reflejado en las 1001 Noches en bebedizos que potencian las cualidades de tus schahriars.
 
-Como reductor de atributos y con un toque más lovecraftiano, este poder puede tener varias formas de aplicarse en tus partidas en forma de enfermedades con reminiscencias medievales como la lepra, la tuberculosis o la sarna que restan Fuerza, Vigor o Destreza.
+Como reductor de atributos y con un toque más lovecraftiano, este poder puede tener varios modos de aplicarse en tus partidas en forma de enfermedades con reminiscencias medievales como la lepra, la tuberculosis o la sarna que restan Fuerza, Vigor o Destreza.
 
 También puedes tener una vertiente de robar la juventud.
 
@@ -269,7 +269,7 @@ Aunque la mayoría de las veces volar supone una forma de viajar muy rápido por
 
 ### Zombi
 
-En las 1001 Noches no existen los zombis como los conocemos actualmente, pero tienen un monstruo muy parecido, los Nasnas. 
+En las 1001 Noches no existen los zombis como los conocemos hoy en día, pero tienen un monstruo muy parecido, los Nasnas. 
 
 Un Nasnas es la mitad de un cuerpo humano, media cabeza, medio tronco, y solo un brazo y una pierna. Si bien no son cadáveres putrefactos, al verse las tripas y el cerebro tienen un aspecto de muerto viviente. También son lentos al tener que moverse a la pata coja con su única pierna. Sin embargo, pueden dar grandes saltos.
 
@@ -292,7 +292,7 @@ En 1001 Ghūles hay nuevos poderes disponibles, aparte de los que puedas encontr
 * **Distancia:** Astucia
 * **Duración:** Instantáneo
 
-Este poder hace que las puertas se abran lo suficiente para que la persona que uso el poder pueda entrar. Las puertas se desatrancarán, los rastrillos se subirán, las cerraduras se abrirán, etc. El efecto es instantáneo y la puerta se puede volver a cerrar, las trancas volver a colocar y bajar los rastrillos en el siguiente turno.
+Este poder hace que las puertas se abran lo suficiente para qué la persona que uso el poder pueda entrar. Las puertas se desatrancarán, los rastrillos se subirán, las cerraduras se abrirán, etc. El efecto es instantáneo y la puerta se puede volver a cerrar, las trancas volver a colocar y bajar los rastrillos en el siguiente turno.
 
 El hechizo abre los elementos normales de una puerta, pero no afecta a elementos especiales. El pestillo y la cadena de la puerta se quitarán solas, pero si han puesto un armario para evitar que se abra la puerta, el armario y, por tanto, la puerta no se moverá ni un centímetro.
 
@@ -357,7 +357,7 @@ Con este poder se invoca una montura (mula, caballo o camello) que tiene la capa
 
 El poder incluye que los testigos que vean la montura y su jinete no se percaten de la gran velocidad que lleva.
 
-No se puede usar en combate más que como forma de huida. Durante el turno de subirte a la montura podrían atacarte. En cuanto te subes a la montura se mueve tan deprisa que quedas fuera de su alcance. Esto hace que nadie tenga capacidad de atacarte por métodos mundanos mientras huyes.
+No se puede usar en combate más que como método de huida. Durante el turno de subirte a la montura podrían atacarte. En cuanto te subes a la montura se mueve tan deprisa que quedas fuera de su alcance. Esto hace que nadie tenga capacidad de atacarte por métodos mundanos mientras huyes.
 
 #### Modificadores
 
@@ -627,7 +627,7 @@ _Poder:_ Adivinación
 > 
 > **Referencia:** Fábulas del asno, el buey y el labrador (n. 764)
 
-Mirando fijamente a los ojos del animal o ave con la que se quiere hablar se crea un vínculo mental y puedes empezar a rugir, piar, mugir, etc. como forma de comunicarte con ese ser.
+Mirando fijamente a los ojos del animal o ave con la que se quiere hablar se crea un vínculo mental y puedes empezar a rugir, piar, mugir, … como forma de comunicarte con ese ser.
 
 \sp
 
@@ -689,7 +689,7 @@ La ventaja del nasnas es que es más poderoso y obtenemos 2 nasnas por cadáver,
 
 _Poder:_ Ceguera
 
-> /p/ ... esta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.
+> /p/ … esta exclamó unas fórmulas talismánicas y su propio cuerpo emitió un fogonazo tan deslumbrante como el sol del desierto en su cenit.
 
 La persona que lanza el hechizo empieza a emitir una luz muy potente durante unos instantes que deslumbra al objetivo. 
 
@@ -746,7 +746,7 @@ Los ojos del brujo o bruja toman la apariencia de los de una serpiente y sus ví
 
 _Poder:_ Curación
 
-> Y el muchacho fue en busca de la joven por entre los árboles, llevando en su mano izquierda su brazo derecho cortado. Y la libertó. Y ella le dijo: "Aquí tiene tres hojas de una planta que he encontrado, \[…\] Aplícatelas en los muñones de tu brazo, y sanará". Y así lo hizo el muchacho. Y se le quedó el brazo como estaba antes.
+> Y el muchacho fue en busca de la joven por entre los árboles, llevando en su mano izquierda su brazo derecho cortado. Y la libertó. Y ella le dijo: «Aquí tiene tres hojas de una planta que he encontrado, \[…\] Aplícatelas en los muñones de tu brazo, y sanará». Y así lo hizo el muchacho. Y se le quedó el brazo como estaba antes.
 > 
 > **Referencia:** Historia contada por el duodécimo capitán de policía (n. 953)
 
@@ -959,7 +959,7 @@ Esta maldición se refleja en un Hábito (Mayor) que obliga al schahriar a consu
 > 
 > **Referencia:** Historia del joven encantado y de los peces (n. 8)
 
-La víctima de la maldición es convertido en piedra total o parcialmente, de forma que está inmovilizada e indefensa. A discreción del lanzador puede estar consciente de todo lo que pasa y puede comunicarse con el exterior de alguna forma, por ejemplo, pudiendo mover la boca y hablar, mover los ojos, etc. 
+La víctima de la maldición es convertido en piedra total o parcialmente, de manera que está inmovilizada e indefensa. A discreción del lanzador puede estar consciente de todo lo que pasa y puede comunicarse con el exterior de algún modo, por ejemplo, pudiendo mover la boca y hablar, mover los ojos, etc. 
 
 \sp
 
@@ -967,8 +967,8 @@ La otra opción es que sean cachos de piedra inertes que ni sienten ni padecen.
 
 Mientras la víctima esté petrificada no necesita, ni comer, ni beber, ni respirar y es inmune a la edad, enfermedades, etc. La piedra tiene la dureza del material que el lanzador eligió desde cristal a mármol o granito.
 
-> »Entonces desembarcamos, pero apenas hubimos entrado en la ciudad, nos quedamos asombradas. Todos los habitantes estaban convertidos en estatuas de piedra negra. Y solo ellos habían sufrido esta petrificación, pues en los zocos y en las tiendas aparecían las mercancías en su estado normal, lo mismo que las cosas de oro y de plata. Al ver aquello llegamos al límite de la admiración, y nos dijimos: “En verdad que la causa de todo esto debe ser rarísima”.  
-> »Y nos separamos, para recorrer cada cual a su gusto las calles de la ciudad, y recoger por su cuenta cuanto oro, plata y telas preciosas pudiese llevar consigo.
+> Entonces desembarcamos, pero apenas hubimos entrado en la ciudad, nos quedamos asombradas. Todos los habitantes estaban convertidos en estatuas de piedra negra. Y solo ellos habían sufrido esta petrificación, pues en los zocos y en las tiendas aparecían las mercancías en su estado normal, lo mismo que las cosas de oro y de plata. Al ver aquello llegamos al límite de la admiración, y nos dijimos: «En verdad que la causa de todo esto debe ser rarísima».  
+> «Y nos separamos, para recorrer cada cual a su gusto las calles de la ciudad, y recoger por su cuenta cuanto oro, plata y telas preciosas pudiese llevar consigo».
 > 
 > **Referencia:** Historia de Zobeida, la mayor de las jóvenes (n. 16)
 
@@ -1001,7 +1001,7 @@ _Olvídate de la chorrada del beso de amor verdadero, la gente dormida no da su 
 * **Resistencia:** VIG
 * **Puntos de poder:** 8
 
-> Pero mi naturaleza real es la de un ser humano, kadí de profesión. Y me transformaron en pollino los enemigos que tengo, que están versados en la hechicería y en los encantamientos. Y como no conozco las ciencias ocultas, me veo privado de recursos y armas contra ellos. Sin embargo, como, a pesar de todo, son creyentes, permiten que de vez en cuando, en los días de sesiones de justicia, recobre mi forma humana, dejando de ser pollino, para ir a dar audiencia en el diwán.
+> Pero mi naturaleza verdadera es la de un ser humano, kadí de profesión. Y me transformaron en pollino los enemigos que tengo, que están versados en la hechicería y en los encantamientos. Y como no conozco las ciencias ocultas, me veo privado de recursos y armas contra ellos. Sin embargo, como, a pesar de todo, son creyentes, permiten que de vez en cuando, en los días de sesiones de justicia, recobre mi forma humana, dejando de ser pollino, para ir a dar audiencia en el diwán.
 
 \sc
 
@@ -1009,9 +1009,9 @@ _Olvídate de la chorrada del beso de amor verdadero, la gente dormida no da su 
 > 
 > **Referencia:** El pollino kadí (n. 801)
 
-La víctima normalmente es transformada en un animal de granja o en aves. No sería muy inteligente convertir a tu enemigo en un tigre o un elefante, pero puedes transformarlo también en animales malditos como hienas, serpientes o cocodrilos o incluso "animales" de los Mitos, siempre que no sean 2 niveles más grandes que la víctima.
+La víctima normalmente es transformada en un animal de granja o en aves. No sería muy inteligente convertir a tu enemigo en un tigre o un elefante, pero puedes transformarlo también en animales malditos como hienas, serpientes o cocodrilos o incluso «animales» de los Mitos, siempre que no sean 2 niveles más grandes que la víctima.
 
-La trasformación sigue las reglas del poder "Cambio de forma" y puede elegir si la persona maldita puede hablar o no.
+La trasformación sigue las reglas del poder «Cambio de forma» y puede elegir si la persona maldita puede hablar o no.
 
 > La hija de mi tío, o sea esta gacela, estaba iniciada desde su infancia en la brujería y el arte de los encantamientos. Con la ciencia de su magia transformó a mi hijo en ternerillo, y a su madre, la esclava, en una vaca, y los entregó al mayoral de nuestro ganado.
 > 
@@ -1129,7 +1129,7 @@ Este tratado de matemáticas y criptografía de autor desconocido deriva poco en
 
 Entre sus hojas se encuentra la ubicación de la Ciudad sin nombre y como poder llegar a sus ruinas.
 
-#### I ching (NP 4)
+#### I Ching (NP 4)
 
 **Idioma:** Chino
 
@@ -1221,7 +1221,7 @@ Solo el visir Giafar posee una copia de este libro en su idioma original, el sen
 
 ### Enseñar magia
 
-Alternativamente a la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan conocimientos mágicos. 
+Además de con la lectura de grimorios mágicos, se puede aprender magia de otras personas que tengan conocimientos mágicos. 
 
 Pero mientras el conocimiento que aporta un grimorio es muy extenso, el del mentor o mentora está más limitado.
 

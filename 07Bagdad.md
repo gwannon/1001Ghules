@@ -124,7 +124,7 @@ Es el centro del comercio de la ciudad, de la región y de quizás de todo el Ca
 
 No hay ningún alimento, especie, tejido, material o producto manufacturado en todo en el mundo que no pueda comprarse en el bazar, incluso productos muy especiales, raros y casi siempre ilegales como el bang cretense puede ser comprados si sabes a quién preguntar.
 
-El bazar de la medina, como el resto de bazares, es importante para la economía y el Califa tiene toda una serie de empleados públicos que recaudan impuestos, comprueban la calidad de los productos o como el almotacén que revisa que las herramientas de medida como metros o pesos no estén trucados.
+El bazar de la medina, como el resto de bazares, es importante para la economía. Es por ello que el Califa tiene toda una serie de empleados públicos que recaudan impuestos, comprueban la calidad de los productos o como el almotacén que revisa que las herramientas de medida como metros o pesos no estén trucados.
 
 ##### El zoco
 
@@ -200,7 +200,7 @@ Las infraestructuras municipales son buenas y la guardia de la ciudad vigila las
 
 #### Palacio de la Eternidad
 
-> Pero el Destino, \[…\], quiso que el califa Harún-Al Raschid estuviese precisamente a aquella hora tomando el fresco, a la claridad de la luna, sentado junto a una de las ventanas d e su palacio que daba al Tigris. Y mirando por casualidad en aquella dirección, vio toda aquella iluminación que brillaba en el aire y se reflejaba a través del agua.
+> Pero el Destino, \[…\], quiso que el califa Harún-Al Raschid estuviese precisamente a aquella hora tomando el fresco, a la claridad de la luna, sentado junto a una de las ventanas de su palacio que daba al Tigris. Y mirando por casualidad en aquella dirección, vio toda aquella iluminación que brillaba en el aire y se reflejaba a través del agua.
 > 
 > **Referencia:** Historia de Dulce-Amiga (n. 35)
 
@@ -270,7 +270,7 @@ Cuentan los parroquianos que el Califa, disfrazado de mercader, suele visitar es
 
 #### Bimaristán Adudi
 
-Actualmente, Bagdad cuenta con 5 maristanes, pero el Bimaristán Adudi es el mayor y más moderno. Está en la orilla oeste del Tigris, al norte de la ciudad.
+Bagdad cuenta con 5 maristanes, pero el Bimaristán Adudi es el mayor y más moderno. Está en la orilla oeste del Tigris, al norte de la ciudad.
 
 Se cuenta que a la hora de buscarle emplazamiento, Al Razi, su primer director, colocó cuatro trozos de carne en cuatro puntos de la ciudad y levantaron el hospital en el lugar en el que más tiempo tardó en descomponerse.
 
@@ -345,7 +345,7 @@ Lo más importante es que hay un acuerdo tácito entre sus habituales de no mete
 
 \sp
 
-Este hammam de nueva construcción es un prodigio de la arquitectura moderna. Los mejores materiales se han usado en este hammam de una forma muy bella. Tampoco se han reparado en gastos a la hora de comprar incienso, aceites de masajes, perfumes y kohles. Es por ello que la gente rica y poderosa de Bagdad y los y las mercaderes de fuera de Bagdad van a sus piscinas y salas de vapor para relajarse y recibir diversos tratamientos y masajes. Es por ello que sus precios no son para la gente normal.
+Este hammam de nueva construcción es un prodigio de la arquitectura moderna. Los mejores materiales se han usado en este hammam de una forma muy bella. Tampoco se han reparado en gastos a la hora de comprar incienso, aceites de masajes, perfumes y kohles. Es por ello que la gente rica y poderosa de Bagdad y los y las mercaderes de fuera de Bagdad van a sus piscinas y salas de vapor para relajarse y recibir diversos tratamientos y masajes. Desde luego sus precios no son para la gente normal.
 
 Es costumbre en el hammam llegar a acuerdos y pactos comerciales y políticos entre sus habitaciones y la discreción de sus trabajadores y trabajadoras es muy importante. 
 
@@ -401,7 +401,7 @@ Las puertas de Bagdad, también llamadas babs, son muy importantes en la vida di
 
 Estos babs no solo tienen una función defensiva y de seguridad, también comercial e institucional.
 
-Comercialmente, crean mercados, ya que los comerciantes de determinado producto o material usa unas puertas u otras, de forma que si quieres comprar lana vas a un babs a buscar a los comerciantes que usan esos babs y si necesitas hierro vas a otros babs. En los babs se cierran importantes negocios, dan riqueza a la ciudad.
+Comercialmente, crean mercados, ya que los comerciantes de determinado producto o material usa unas puertas u otras, de manera que si quieres comprar lana vas a un babs a buscar a los comerciantes que usan esos babs y si necesitas hierro vas a otros babs. En los babs se cierran importantes negocios, dan riqueza a la ciudad.
 
 Por otro lado, los babs sirven para controlar la entrada y salida de productos y de cobrar los impuestos adecuados. También se controla la entrada de contrabando y se vigila la calidad de los productos.
 
@@ -826,7 +826,9 @@ Ayub es un viejo alguacil de la ciudad de Bagdad ascendido a jefe de alguaciles 
 
 #### Dalila la taimada, reina de los bajos fondos
 
-Dalila y su hija Zeinab controlan los bajos fondos de la ciudad, nada se hace sin su consentimiento y sin llevarse una tajada. Dalila odia profundamente al Califa, porque su difunto marido era el maestre del palomar del Califa y los colmaba de dinero y regalos. Cuando su marido murió, el Califa se olvidó de la viuda y sus hijas que tuvieron que empezar a vivir de pequeños robos y timos.
+Dalila y su hija Zeinab controlan los bajos fondos de la ciudad, nada se hace sin su consentimiento y sin llevarse una tajada.
+
+Dalila odia profundamente al Califa, porque su difunto marido era el maestre del palomar del Califa y los colmaba de dinero y regalos. Cuando su marido murió, el Califa se olvidó de la viuda y sus hijas que tuvieron que empezar a vivir de pequeños robos y timos.
 
 Todas sus acciones llevan conseguirle dinero, pero si molestan al Califa, mucho mejor. Aun así, no es una cruel señora de los bajos fondos y dentro de los ladrones y timadores tiene fama de justa.
 
@@ -851,7 +853,7 @@ Sindbad es un marino bagdadí. Se le puede encontrar por las calles de la ciudad
 > 
 > **Referencia:** Historia de Sindbad el marino (n. 290)
 
-Sindbad el Marino es uno de los personajes más famoso de las 1001 Noches y puedes usarlo como una forma de darles pistas o encarrilar a tus schahriars en la dirección correcta para completar alguna aventura. Él les hablará de alguna tierra lejana donde puedan conseguir lo que necesitan para cumplir su misión o les contará algún objeto extraño que vio en sus viajes y que podría ayudarles con algún problema actual que tengan.
+Sindbad el Marino es uno de los personajes más famoso de las 1001 Noches y puedes usarlo como una manera de darles pistas o encarrilar a tus schahriars en la dirección correcta para completar alguna aventura. Él les hablará de alguna tierra lejana donde puedan conseguir lo que necesitan para cumplir su misión o les contará algún objeto extraño que vio en sus viajes y que podría ayudarles con algún problema actual que tengan.
 
 \sp
 
@@ -953,7 +955,7 @@ También sabe que un terrible destino acecha a la ciudad de Bagdad, pero ahí, e
 
 \sp
 
-> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel Alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fue la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: «¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!» Y Al-Raschid, muy pálido, dijo: «¡Has hecho bien!» Pero se le oyó que murmuraba: «¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!»
+> Un día, Al-Raschid le había encargado que hiciese perecer en secreto a un descendiente de Alí y de Fátimah, la hija del Profeta, que se llamaba El-Sayed Yahía ben Abdalah El-Hossaini. Pero Giafar, obrando con piedad y mansedumbre, facilitó la evasión de aquel alida, cuya influencia tenía Al-Raschid por peligrosa para el porvenir de la dinastía abasí. Pero esta acción generosa de Giafar no tardó en divulgarse y comunicarse al califa con todos los comentarios a propósito para agravar sus consecuencias. Y el rencor que sintió Al-Raschid en aquella ocasión fue la gota de hiel que hace desbordarse la copa de la cólera. E interrogó sobre el particular a Giafar, quien declaró con gran franqueza su acción, añadiendo: «¡Lo he hecho para gloria y buen nombre de mi señor el Emir de los Creyentes!» Y Al-Raschid, muy pálido, dijo: «¡Has hecho bien!» Pero se le oyó que murmuraba: «¡Que Alah me haga perecer si no te hago perecer a ti, oh Giafar!»
 > 
 > **Referencia:** El fin de Giafar y de los barmáquidas (n. 995)
 
@@ -998,7 +1000,7 @@ Giafar lleva años realizando diferentes proyectos urbanísticos con la ayuda de
 
 \sp
 
-* Los monstruos que el visir trae a la casa de fieras son una forma de que la gente conozca y sepa como enfrentarse a los yinns y otros monstruos que acechan Bagdad. Es una manera de dar a conocer su forma, sus poderes y sus debilidades.
-* Todo el asfaltado de la ciudad es una forma de crear un gran símbolo de protección de Suleimán para proteger toda la ciudad. Además de las ventajas en movilidad urbana que supone asfaltar las calles el visir, está creando un símbolo arcano asfaltando unas u otras calles y mezclando polvo de plata con el asfalto. En caso de necesidad podría lanzarse algún tipo de hechizo protección en toda la ciudad, canalizando el poder a través del símbolo de asfalto y plata.
+* Los monstruos que el visir trae a la casa de fieras son una manera de que la gente conozca y sepa como enfrentarse a los yinns y otros monstruos que acechan Bagdad. Es un modo de dar a conocer su forma, sus poderes y sus debilidades.
+* Todo el asfaltado de la ciudad es un gran símbolo de protección de Suleimán para proteger toda la ciudad. Además de las ventajas en movilidad urbana que supone asfaltar las calles el visir, está creando un símbolo arcano asfaltando unas u otras calles y mezclando polvo de plata con el asfalto. En caso de necesidad podría lanzarse algún tipo de hechizo protección en toda la ciudad, canalizando el poder a través del símbolo de asfalto y plata.
 
 La califesa, no conoce exactamente que hay detrás de estas mejoras, pero sabe a ciencia cierta que Giafar es de fiar y son algo bueno para la ciudad. Así que simplemente da su apoyo a Giafar cuando el califa no quiere llevarlas a cabo.

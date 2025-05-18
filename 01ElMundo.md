@@ -1112,7 +1112,7 @@ Si la esposa principal moría, una concubina podía pasar a ser la esposa princi
 
 La poligamia no es solo cosa de hombres también, puede darse el caso de que una mujer tenga varios hombres, aunque eso no es tan normal.
 
-De todas formas puedes montar las estructuras familiares que mejor se ajusten a los gustos y situaciones de tu mesa, incluso obviar todos estos elementos y centrarte en tus maravillosas e increíbles historias de horror cósmico.
+De todas formas, puedes montar las estructuras familiares que mejor se ajusten a los gustos y situaciones de tu mesa, incluso obviar todos estos elementos y centrarte en tus maravillosas e increíbles historias de horror cósmico.
 
 #### Divorcio
 

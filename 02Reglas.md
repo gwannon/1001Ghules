@@ -34,7 +34,7 @@ Los cuentos deberían acabar con frases tales como:
 
 > Y Scheherazade dijo: Cuan grato ¡oh rey! es ver que mi cuento os ha llenado de dicha, pero espero que el cuento de la próxima noche os haga más dichoso.
 
-De todas formas esto son solo consejos y tuya es la elección de seguirlos o no.
+De todas formas, esto son solo consejos y tuya es la elección de seguirlos o no.
 
 \sp
 
@@ -208,7 +208,7 @@ Como desventaja menor, una vez por sesión, Scheherazade podrá obligar a tu sch
 En caso de que sea mayor, no hará falta tirada, Scheherazade podrá hacer que el miedo atenace al personaje directamente imposibilitándole seguir con la acción que deseaba hacer.
 ```
 
-Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Puede ser muy frustrante para cualquier persona no tener control de su personaje. Mi consejo es que lo uses como una forma de encauzar a quien se salgan de madre.
+Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Puede ser muy frustrante para cualquier persona no tener control de su personaje. Mi consejo es que lo uses como un modo de encauzar a quien se salgan de madre.
 
 \sc
 
@@ -792,7 +792,7 @@ El agua regia es una disolución altamente corrosiva y fumante, de color amarill
 
 [![He Paid for His Purchase - Rhead, Louis](./images/comercio.jpg)](https://www.oldbookillustrations.com/illustrations/paid-purchase/ "He Paid for His Purchase - Rhead, Louis")
 
-Fue llamada de esa forma porque puede disolver aquellos llamados metales regios, reales, o metales nobles.
+Fue llamada así porque puede disolver aquellos llamados metales regios, reales, o metales nobles.
 
 Fue descubierto alrededor del año 800 por el alquimista persa Jabir ibn Hayyan. La invención de Jabir, que logró disolver el oro en agua regia, contribuyó al esfuerzo de los primeros alquimistas en su búsqueda de la piedra filosofal.
 
@@ -804,7 +804,7 @@ Pero su uso no era solo estético, ya que se usaba como forma de protección de 
 
 En bastantes culturas de la zona de Oriente Próximo, también era una forma de protección con el mal de ojos. No pocas veces es usado por personajes de las 1001 Noches como objeto mágico que da habilidades mágicas a la persona que lo usa mientras lo tiene aplicado y que desaparecen al quitarse.
 
-Como ejemplo, podemos ver el kohl de invisibilidad que permite ser invisible (lógico) y el kohl de búsqueda de tesoros que modifica la forma en que ves el mundo.
+Como ejemplo, podemos ver el kohl de invisibilidad que permite ser invisible (lógico) y el kohl de búsqueda de tesoros que modifica la manera en que ves el mundo.
 
 > Con lo cual la buena dama vistió a Feliz-Bello con ropas de mujer que había llevado, y le alargó los ojos con kohl, y agrandó y ennegreció el lunar de la mejilla, y después le puso brazaletes en las muñecas, y le colocó alhajas en la cabellera cubierta con un velo de Mosul, y hecho aquello echó la última ojeada a su tocado, y le pareció que estaba encantador así y mucho más hermoso que todas las mujeres juntas del palacio del sultán.
 > 

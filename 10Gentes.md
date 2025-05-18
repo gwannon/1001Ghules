@@ -62,7 +62,7 @@ Las sugerencias de interpretación están pensadas para ayudarte a darles carác
 
 \conc
 
-> Y al oír estas palabras dichas con un acento tan delicioso, Al-Raschid se dilató y se holgó, y exclamó: "¡Maschalah! ¡oh molde de la perfección!" Y la miró aún más atentamente, y creyó volverse loco de alegría. Y Giafar y Massrur también creyeron volverse locos de alegría. Luego Al-Raschid se levantó de su trono y descendió hacia la jovenzuela, y se acercó a ella, y muy dulcemente le echó sobre el rostro su velillo de seda: lo que significaba que para en lo sucesivo pertenecía a su harén y que cuanto ella era se hundía para en lo sucesivo en el misterio prescrito a las elegidas de los Creyentes.
+> Y al oír estas palabras dichas con un acento tan delicioso, Al-Raschid se dilató y se holgó, y exclamó: «¡Maschalah! ¡oh molde de la perfección!» Y la miró aún más atentamente, y creyó volverse loco de alegría. Y Giafar y Massrur también creyeron volverse locos de alegría. Luego Al-Raschid se levantó de su trono y descendió hacia la jovenzuela, y se acercó a ella, y muy dulcemente le echó sobre el rostro su velillo de seda: lo que significaba que para en lo sucesivo pertenecía a su harén y que cuanto ella era se hundía para en lo sucesivo en el misterio prescrito a las elegidas de los Creyentes.
 > 
 > **Referencia:** Historia de la jovenzuela obra maestra de los corazones, lugartenienta de los pájaros (n. 929)
 
@@ -70,7 +70,7 @@ Harún Al-Raschid es el peor califa de la dinastía abasí. Harún era el segund
 
 Prefería pasarse el día vagueando y disfrutando de todo lo que su posición y sus riquezas le daban, manjares, libaciones, baños y masajes, sexo ocasional, etc. 
 
-Pero tras la muerte en combate de su hermano mayor, se convirtió sin quererlo en el máximo dirigente de un bastísimo imperio.
+Pero tras la muerte en combate de su hermano mayor, se convirtió sin quererlo en el máximo dirigente de un vastísimo imperio.
 
 [![Harún Al-Raschid en su tienda con los sabios de oriente por Gaspare Landi](./images/harun.jpg)](https://www.ecured.cu/Archivo:Harun_al-Rashid_(763-809).jpg "Harún Al-Raschid en su tienda con los sabios de oriente por Gaspare Landi") 
 
@@ -105,12 +105,12 @@ Harún siempre va acompañado de su portaalfanje o guardaespaldas personal, Mass
 
 \conc
 
-> Cuentan que el Comendador de los Creyentes, Harún Al-Raschid, entró un día a dormir la siesta en las habitaciones de su esposa Sett Zobeida, y ya iba a echarse cuando notó precisamente en mitad del lecho una extensa mancha, fresca todavía, de cuyo origen no podía dudarse. Al ver aquello, se ennegreció el mundo ante el califa, que llegó al límite de la indignación. Hizo llamar al punto a Sett Zobeida, y con los ojos inflamados de cólera y temblándole la barba, le dijo: "¿De qué es esa mancha que hay en nuestro lecho?" Sett Zobeida acercó la cabeza a la mancha consabida, la olió y dijo: "Es de licor de hombre, ¡oh Emir de los Creyentes!" Conteniendo a duras penas el estallido de su cólera, exclamó él: «¿Y puedes explicarme la presencia de ese líquido aún tibio en un lecho donde no me he acostado contigo desde hace más de una semana?»
+> Cuentan que el Comendador de los Creyentes, Harún Al-Raschid, entró un día a dormir la siesta en las habitaciones de su esposa Sett Zobeida, y ya iba a echarse cuando notó precisamente en mitad del lecho una extensa mancha, fresca todavía, de cuyo origen no podía dudarse. Al ver aquello, se ennegreció el mundo ante el califa, que llegó al límite de la indignación. Hizo llamar al punto a Sett Zobeida, y con los ojos inflamados de cólera y temblándole la barba, le dijo: «¿De qué es esa mancha que hay en nuestro lecho?» Sett Zobeida acercó la cabeza a la mancha consabida, la olió y dijo: «Es de licor de hombre, ¡oh Emir de los Creyentes!» Conteniendo a duras penas el estallido de su cólera, exclamó él: «¿Y puedes explicarme la presencia de ese líquido aún tibio en un lecho donde no me he acostado contigo desde hace más de una semana?»
 > Ella exclamó muy conmovida: «¡La fidelidad sobre mí y alrededor de mí ¡oh Emir de los Creyentes! ¿Acaso me acusas de fornicación?»s
 > 
 > **Referencia:** El flagrante delito de Sett Zobeida (n. 380)
 
-Sett Zobeida es la califesa de Bagdad y la mujer más poderosa del califato y aunque su palabra no es ley ha aprendido a manejar a su marido de forma que sus tonterías y chaladuras se conviertan en leyes justas y buenas y sus despilfarros y sus derroches en gastos lógicos y ayudas para sus súbditos, sobre todo los más necesitados. Gran parte de su trabajo es tener al Califa entretenido con acertijos, juguetes y juegos para que esté lo más alejado de la política del reino.
+Sett Zobeida es la califesa de Bagdad y la mujer más poderosa del califato. Aunque su palabra no es ley, ha aprendido a manejar a su marido de manera que sus tonterías y chaladuras se conviertan en leyes justas y buenas y sus despilfarros y sus derroches en gastos lógicos y ayudas para sus súbditos, sobre todo los más necesitados. Gran parte de su trabajo es tener al Califa entretenido con acertijos, juguetes y juegos para que esté lo más alejado de la política del reino.
 
 Ha querido el destino que Zobeida sea el yin que equilibra el yang loco del califa. Sin la califesa con la ayuda de Giafar el visir, el califato habría caído en el caos hace años.
 
@@ -173,7 +173,7 @@ Giafar está felizmente casado y con hijos, pero tiene ciertos sentimientos por 
 
 \sp
 
-**Sugerencia de interpretación:** La responsabilidad que recae sobre tus hombros es muchísima, muchas vidas están a tu cargo y tus acciones pueden significar la diferencia entre que vivan o mueran. Es por ello que no dejas nada al azar, eres preciso en tus órdenes, te cuesta mucho delegar y no admites fallos. El saber cuándo y cómo vas a morir, te ha llevado a aceptar tu muerte y, aun así, de vez en cuando dejarte disfrutar de los pequeños placeres de la vida como una buena comida, una charla con los amigos o meter los pies en agua fría en pleno verano en Bagdad.
+**Sugerencia de interpretación:** La responsabilidad que recae sobre tus hombros es muchísima, muchas vidas están a tu cargo y tus acciones pueden significar la diferencia entre que vivan o mueran. Es por ello que no dejas nada al azar, eres preciso en tus órdenes, te cuesta mucho delegar y no admites fallos. El saber cuándo y cómo vas a morir, te ha llevado a aceptar tu muerte. Aun así, de vez en cuando te dejas disfrutar de los pequeños placeres de la vida como una buena comida, una charla con los amigos o meter los pies en agua fría en pleno verano en Bagdad.
 
 \sinc
 
@@ -181,8 +181,8 @@ Giafar está felizmente casado y con hijos, pero tiene ciertos sentimientos por 
 
 \conc
 
-> /p/ Así es que, en cuanto bajo ella, empezó por besar la mano de su amo y le deseó la bienvenida, como tenía costumbre de hacer cada vez que entraba él en la casa. Su amo le dijo: "¡Oh Fátimah! ¡hoy es el día en que me vas a dar prueba de tu listeza, de tu abnegación y de tu discreción!" Y le contó el fin funesto de Kassim, y añadió: "Y ahora ahí le tienes, hecho seis pedazos, en el tercer asno. ¡Y es preciso que, mientras yo subo a anunciar la fúnebre noticia a su pobre viuda, pienses en el medio de que nos valdremos para hacerle enterrar como si hubiera muerto de muerte natural, sin que nadie pueda sospechar la verdad!"  
-> /p/ Y ella contestó: "¡Escucho y obedezco!" Y su amo, dejándola reflexionar acerca de la situación, subió a ver a la viuda de Kassim.
+> /p/ Así es que, en cuanto bajo ella, empezó por besar la mano de su amo y le deseó la bienvenida, como tenía costumbre de hacer cada vez que entraba él en la casa. Su amo le dijo: «¡Oh Fátimah! ¡Hoy es el día en que me vas a dar prueba de tu listeza, de tu abnegación y de tu discreción!» Y le contó el fin funesto de Kassim, y añadió: «Y ahora ahí le tienes, hecho seis pedazos, en el tercer asno. ¡Y es preciso que, mientras yo subo a anunciar la fúnebre noticia a su pobre viuda, pienses en el medio de que nos valdremos para hacerle enterrar como si hubiera muerto de muerte natural, sin que nadie pueda sospechar la verdad!» 
+> /p/ Y ella contestó: «¡Escucho y obedezco!» Y su amo, dejándola reflexionar acerca de la situación, subió a ver a la viuda de Kassim.
 > /p/ 
 > /p/ **Referencia:** Historia de Alí Babá y los cuarenta ladrones (n. 855)
 
@@ -207,7 +207,7 @@ Se hace mayor y tiene que buscar alguien que la sustituya, quizás alguno de tus
 * **Ventajas:** Acaparadora, Afinidad mágica, Afortunada, Mujer de recursos
 * **Equipo:** Ropas baratas y usadas, Jambia (FUE+d4) para autodefensa, tizas de colores para hacer señas y calderilla para ayudar a niños y niñas del Pequeño Consejo.
 
-**Sugerencia de interpretación:** Eres una de las personas más optimistas del mundo. Siempre ves el lado bueno de las cosas, e incluso en las peores situaciones ves la parte positiva. Siempre con una sonrisa en la boca y una palabra dulce en los labios tratando de ayudar en todo lo que puedas. Eso no quiere decir que no puedas ponerte seria, cuando la situación lo pide.
+**Sugerencia de interpretación:** Eres una de las personas más optimistas del mundo. Siempre ves el lado bueno de las cosas, e incluso en las peores situaciones ves la parte positiva. Estás siempre con una sonrisa en la boca y una palabra dulce en los labios tratando de ayudar en todo lo que puedas. Eso no quiere decir que no puedas ponerte seria, cuando la situación lo pide.
 
 \sp
 
@@ -248,12 +248,12 @@ Alya desconoce todo esto, pero su tutor y consejero personal Mahmoud Assy está 
     * **Longevidad:** Puede llegar a vivir hasta los 150 años y no necesita dormir.
     * **Resistencia primigenia:** Alya no se cansa por mucho esfuerzo que haga en las condiciones que sean, sin casi agua, bajo un sol de justicia, etc. Repite todas las tiradas de Vigor para evitar puntos de fatiga que falle.
     * **Resistencia al veneno y las enfermedades:** +4 a las tiradas para resistir venenos y enfermedades.
-    * **Cerca de su dios:** Alya se vuelve más poderosa cuanto más cerca está de la Ciudad de Bronce y de su gran señor Cthulhu. De forma que por cada parte del camino recibe al principio de cada sesión un beni extra por cada etapa después de "Adentrándose en lo desconocido". De esa forma cuando esté en la Ciudad de Bronce en la parte de "Rompiendo la maldición" tendrá 3+7 benis.
+    * **Cerca de su dios:** Alya se vuelve más poderosa cuanto más cerca está de la Ciudad de Bronce y de su gran señor Cthulhu. De forma que por cada parte del camino recibe al principio de cada sesión un beni extra por cada etapa después de «Adentrándose en lo desconocido». De esa manera, cuando esté en la Ciudad de Bronce en la parte de «Rompiendo la maldición» tendrá 3+7 benis.
 * **Equipo:** Astrolabio, Ropas de viaje de calidad preparadas para el desierto, alfanje de calidad (FUE+d6), Jambia(FUE+d4), equipo de supervivencia
 
 \sp
 
-**Sugerencia de interpretación:** La sangre de gente del mar corre por tus venas y se nota en tu carácter hosco y huraño. Sabes que Damasco no es tu lugar, es donde naciste, pero no donde deberías estar. Farfullas por lo bajo cuando te llevan lo contrario y sientes que nadie te comprende. Esos pieles blandas no te comprenden … ¿por qué les he llamado pieles blandas?
+**Sugerencia de interpretación:** La sangre de gente del mar corre por tus venas y se nota en tu carácter hosco y huraño. Sabes que Damasco no es tu lugar, es donde naciste, pero no donde deberías estar. Farfullas por lo bajo cuando te llevan lo contrario y sientes que nadie te comprende. Esos «pieles blandas» no te comprenden … ¿por qué les he llamado pieles blandas?
 
 &nbsp;
 
@@ -268,7 +268,7 @@ Una tirada de Saber de Suleimán puede indicarte que hay algo extraño en la pri
 \conc
 
 > /p/ Era un viejo truco de las gentes del desierto que había aprendido de joven, podía sacar algunos nutrientes de las raíces de las rosas del desierto. No era mucho, pero era algo. Fue recogiendo las raíces cuando noto el temblor.  
-> /p/ No era que nunca hubiera notado las sacudidas, pero esta era diferente. No temblaba toda la duna, solo la arena debajo suyo. Las vibraciones se hicieron tan intensas que cayó de espaldas y en ese momento aquel gusano desproporcionadamente grande surgió de la arena a sus pies. Se alzó hasta tapar el sol y los tentáculos de su cabeza empezaron a moverse como si hablará y Muhammad le escuchó, aunque no a través de sus oídos.
+> /p/ No era que nunca hubiera notado las sacudidas, pero esta era diferente. No temblaba toda la duna, solo la arena debajo de él. Las vibraciones se hicieron tan intensas que cayó de espaldas y en ese momento aquel gusano desproporcionadamente grande surgió de la arena a sus pies. Se alzó hasta tapar el sol y los tentáculos de su cabeza empezaron a moverse como si hablará y Muhammad le escuchó, aunque no a través de sus oídos.
 
 Este joven bereber lleva toda su vida sirviendo de guía para caravanas en el Norte de África, siguiendo la tradición familiar. Le encanta el desierto y no se imagina en otro sitio que sobre una duna con el sol poniéndose y el viento en su cara.
 
@@ -282,7 +282,7 @@ Por el contrario, es completamente inútil en la ciudad. La gente, el ruido y lo
 
 Siempre va acompañado por su camello Abu. Llevan juntos toda la vida, de hecho, su madre le recuerda que mientras la matrona le ayudaba a dar a luz a Muhammad, su padre ayudaba en el parto de Abu. Un camello vive entre 40 y 50 años, así que estarán juntos mucho tiempo.
 
-No es un genio del shatranj, pero desde luego se le da bien. Todas las noches que no tiene guardia o alguna tarea que hacer las pasa jugando con Mahmoud Assy. Recibe unas palizas tremendas, pero espera que a la vuelta haya podido ganarle una partida. Si quieres ganártelo una forma muy sencilla, lo mejor es darle algún consejo de shatranj o enseñarle alguna apertura que desconozca.
+No es un genio del shatranj, pero desde luego se le da bien. Todas las noches que no tiene guardia o alguna tarea que hacer las pasa jugando con Mahmoud Assy. Recibe unas palizas tremendas, pero espera que a la vuelta haya podido ganarle una partida. Si quieres ganártelo una manera muy sencilla, lo mejor es darle algún consejo de shatranj o enseñarle alguna apertura que desconozca.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d8, Cabalgar d8, Conocimientos Generales d6, Disparo d8, Idioma Materno d8, Notar d10, Persuadir d6, Pelear d10, Reparar d6, Saber de Suleimán d4, Sigilo d4, Supervivencia d10, Tácticas d6
@@ -301,9 +301,9 @@ No es un genio del shatranj, pero desde luego se le da bien. Todas las noches qu
 
 \conc
 
-> /p/ El jeique, al que todos creían dormido, abrió los ojos, miro la losa de piedra y sin subir el tono de voz dijo con toda calma: "Ohh Princesa de la estrella de la tarde, lo que ves ante tus ojos es griego en caracteres jónicos, y es para mí, vuestro humilde esclavo, un honor traducirlo para su majestad".  
-> /p/ "Adelante, mi querido jeique".  
-> /p/ "Escucho y obedezco" Fue la respuesta del anciano consejero mientras se levantaba de su silla y se acercaba a la gigantesca piedra.
+> /p/ El jeique, al que todos creían dormido, abrió los ojos, miro la losa de piedra y sin subir el tono de voz dijo con toda calma: «Ohh Princesa de la estrella de la tarde, lo que ves ante tus ojos es griego en caracteres jónicos, y es para mí, vuestro humilde esclavo, un honor traducirlo para su majestad».  
+> /p/ «Adelante, mi querido jeique».  
+> /p/ «Escucho y obedezco» Fue la respuesta del anciano consejero mientras se levantaba de su silla y se acercaba a la gigantesca piedra.
 
 Assy es un barmáquida como el visir Giafar y profesa la fe budista, es por ello que es un pacifista convencido. Lleva toda su vida sirviendo a la familia de Alya, primero como empleado público, más tarde como kadí y por último como consejero del padre de Alya y luego como tutor de la propia Alya.
 
@@ -335,12 +335,9 @@ Es un fanático del shatranj y pasa largas noches jugando con la princesa Alya. 
 
 \conc
 
-> /p/ Y ella dijo entonces: “¡Duerme! ¡Y así no te despiertes nunca más! ¡Por Alah, te detesto! Y detesto hasta tu imagen, y mi alma está harta de tu trato”. Después se levantó, se puso su mejor vestido, se perfumó, se ciñó una espada, y abriendo la puerta del palacio se marchó. En seguida me levanté yo también, y la fui siguiendo hasta que hubo salido del palacio. Y atravesó todos los zocos, y llegó por fin hasta las puertas de la ciudad, que estaban cerradas.
+> /p/ Y ella dijo entonces: «¡Duerme! ¡Y así no te despiertes nunca más! ¡Por Alah, te detesto! Y detesto hasta tu imagen, y mi alma está harta de tu trato». Después se levantó, se puso su mejor vestido, se perfumó, se ciñó una espada, y abriendo la puerta del palacio se marchó. En seguida me levanté yo también, y la fui siguiendo hasta que hubo salido del palacio. Y atravesó todos los zocos, y llegó por fin hasta las puertas de la ciudad, que estaban cerradas.
 > /p/ Entonces habló a las puertas en un lenguaje que no entendí, y los cerrojos cayeron y las puertas se abrieron, y ella salió. Y yo eché a andar detrás de ella, sin que lo notase, hasta que llegó a unas colinas formadas por los amontonamientos de escombros, y a una torre coronada por una cúpula y construida de ladrillos. Ella entró por la puerta, y yo me subí a lo alto de la cúpula, donde había una terraza, y desde allí me puse a vigilarla. \[…\]
-> /p/ 
-> /p/ Y levantando el brazo, me disponía a herirla, cuando ella, pronunciando unas palabras misteriosas, y dijo: “Por la virtud de mi magia, que Alah te convierta mitad piedra y mitad hombre". E inmediatamente, señor, quedé como me ves. Y ya no puedo valerme ni hacer un movimiento, de suerte que no estoy ni muerto ni vivo.
-> /p/ 
-> /p/ Después de ponerme en tal estado, encantó las cuatro islas de mi reino, convirtiéndolas en montañas, con ese lago en medio de ellas, y a mis súbditos los transformó en peces. Pero hay más. Todos los días me tortura azotándome con una correa, dándome cien latigazos, hasta que me hace sangrar. Y después me pone sobre las carnes una camisa de crin, cubriéndola con la ropa».
+> /p/ Y levantando el brazo, me disponía a herirla, cuando ella, pronunciando unas palabras misteriosas, y dijo: «Por la virtud de mi magia, que Alah te convierta mitad piedra y mitad hombre». E inmediatamente, señor, quedé como me ves. Y ya no puedo valerme ni hacer un movimiento, de suerte que no estoy ni muerto ni vivo. Después de ponerme en tal estado, encantó las cuatro islas de mi reino, convirtiéndolas en montañas, con ese lago en medio de ellas, y a mis súbditos los transformó en peces. Pero hay más. Todos los días me tortura azotándome con una correa, dándome cien latigazos, hasta que me hace sangrar. Y después me pone sobre las carnes una camisa de crin, cubriéndola con la ropa.
 > /p/ 
 > /p/ **Referencia:** Historia del joven encantado y de los peces (n. 7)
 
@@ -348,7 +345,7 @@ Ziba de Alepo desciende de una larga tradición de adoradoras de Suc’Naath. Su
 
 Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Mano Dorada y embarcarla en la misión de liberar a Suc’Naath de la música infernal que hace que baile alrededor de Azathoth.
 
-Ziba mantiene en secreto sus lazos con la Mano Dorada y mantiene una imagen pública de poderosa maga "bondadosa" y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
+Ziba mantiene en secreto sus lazos con la Mano Dorada y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
 
 \sp
 
@@ -414,7 +411,7 @@ Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gra
 \conc
 
 > /p/ Ha llegado a mis oídos, o príncipe de los creyentes, que en la época del califa Al-Raschid, había un médico de muy saber llamado Hunayn ibn Ishaq. Era un hombre muy recto y de severos principios éticos. Se cuenta que el propio califa le había pedido a cambio de una gran suma de dinero preparar un bebedizo mortal para deshacerse de uno de sus enemigos. Pero Hunayn rehusó diciéndole:  
-> /p/ "Mi ciencia solo trata de sustancias benéficas; por ello no he estudiado otras. Dos cosas me impiden preparar el veneno mortal: mi religión y mi profesión. La primera me enseña que debemos hacer el bien incluso a nuestros enemigos, y con tanta mejor razón a nuestros amigos. En cuanto a mi profesión, ha sido instituida para el más grande beneficio de la humanidad, con el fin exclusivo de curar y de aliviar. Además, como todos los médicos, he jurado no dar a nadie una sustancia mortal".  
+> /p/ «Mi ciencia solo trata de sustancias benéficas; por ello no he estudiado otras. Dos cosas me impiden preparar el veneno mortal: mi religión y mi profesión. La primera me enseña que debemos hacer el bien incluso a nuestros enemigos, y con tanta mejor razón a nuestros amigos. En cuanto a mi profesión, ha sido instituida para el más grande beneficio de la humanidad, con el fin exclusivo de curar y de aliviar. Además, como todos los médicos, he jurado no dar a nadie una sustancia mortal».  
 > /p/ Como todavía se negaba a obedecer sus mandatos, el califa intentó doblegarlo con amenazas y conduciéndolo a prisión; pero como no lograba nada de él, al fin lo liberó y lo recompensó incluso por su integridad moral ofreciéndole una gran suma de dinero y nombrándolo su médico personal.
 
 Hunayn ibn Ishaq estudio medicina como su padre, pero enseguida destaco en el estudio de las lenguas y aprendió viajando, sobre todo por las tierras de los francos, griego, griego clásico, turco, latín, pero también, persa, chino, indio, etc.
@@ -442,7 +439,7 @@ También estará encantado de financiar cualquier tipo de expedición que pueda 
 * **Ventajas:** Afinidad mágica, Lingüista x2
 * **Equipo:** Utensilios de escritura, libros que ha sacado o va a entregar a la Casa del Saber, ropajes de calidad, pero sobrios
 
-**Sugerencia de interpretación:** La seriedad es tu marca personal, ni gritar, ni reír, ni farfullar, siempre un rictus serio y un tono de voz comedido. Ese semblante recto solo cae cuando un libro cae en tus manos, entonces se te pone una sonrisa bobalicona y balbuceas y tartamudeas de emoción deseoso de leerlo y traducirlo.
+**Sugerencia de interpretación:** La seriedad es tu marca personal, ni gritar, ni reír, ni farfullar, siempre un rictus serio y un tono de voz comedido. Ese semblante recto solo cae cuando un libro cae en tus manos, entonces se te pone una sonrisa bobalicona y balbuceas y tartamudeas de emoción, deseoso de leerlo y traducirlo.
 
 \sp
 
@@ -452,7 +449,7 @@ También estará encantado de financiar cualquier tipo de expedición que pueda 
 
 \conc
 
-> He llegado a saber que el califa Harún Al-Raschid tenía, viviendo con él en su palacio, a un bufón encargado de divertirle en sus momentos de humor sombrío. Y aquel bufón se llamaba Bahlul el Cuerdo. Y un día le dijo el califa: "Ya Bahlul, ¿sabes el número de locos que hay en Bagdad?". Y Bahlul contestó: "¡Oh mi señor! un poco larga sería la lista". Y dijo Harún: "Pues quedas encargado de hacerla. ¡Y supongo que será exacta!" Y Bahlul hizo salir de su garganta una carcajada prolongada. Y le preguntó el califa: "¿Qué te pasa?" Y Bahlul dijo: "¡Oh mi señor! soy enemigo de todo trabajo fatigoso. ¡Por eso, para complacerte, voy en seguida a extender la lista de los cuerdos que hay en Bagdad! Porque ése es un trabajo que apenas exigirá el tiempo que se tarda en beber un sorbo de agua. Y con esta lista, que será muy corta, ¡por Alah que te enterarás del número de locos que hay en la capital de tu imperio!"
+> He llegado a saber que el califa Harún Al-Raschid tenía, viviendo con él en su palacio, a un bufón encargado de divertirle en sus momentos de humor sombrío. Y aquel bufón se llamaba Bahlul el Cuerdo. Y un día le dijo el califa: «Ya Bahlul, ¿sabes el número de locos que hay en Bagdad?». Y Bahlul contestó: «¡Oh mi señor! un poco larga sería la lista». Y dijo Harún: «Pues quedas encargado de hacerla. ¡Y supongo que será exacta!» Y Bahlul hizo salir de su garganta una carcajada prolongada. Y le preguntó el califa: «¿Qué te pasa?» Y Bahlul dijo: «¡Oh mi señor! soy enemigo de todo trabajo fatigoso. ¡Por eso, para complacerte, voy en seguida a extender la lista de los cuerdos que hay en Bagdad! Porque ese es un trabajo que apenas exigirá el tiempo que se tarda en beber un sorbo de agua. Y con esta lista, que será muy corta, ¡por Alah que te enterarás del número de locos que hay en la capital de tu imperio!»
 > 
 > **Referencia:** Bahlul, bufón de Al-Raschid (n. 795)
 
@@ -485,8 +482,8 @@ No es un gran conocedor de lo extraño, pero ha oído cosas y ha visto cosas bas
 
 ## Abu-Nowas, poeta del califa y el mayor juerguista de Bagdad ☾
 
-> El eunuco se personó en la casa de Abu-Nowas, y como no le encontró allí, salió en su busca por todos los lugares públicos de Bagdad, y le encontró al fin en cierta mal afamada taberna, a lo último del barrio de la Puerta Verde. Se acercó a él y le dijo: "¡Oh Abu-Nowas, por ti pregunta nuestro amo el califa!"  
-> Abu-Nowas se echó a reír, y contestó: "¿Cómo quieres, ¡oh padre de blancuras! que me mueva de aquí, si me retiene como rehén un jovencito amigo mío?" El eunuco preguntó: "¿Dónde está y quién es?" Y le contestó el otro: "Es menudo, imberbe y lindo. ¡Le prometí un regalo de mil dracmas, pero como no tengo encima esa cantidad, no me parece decente irme antes de satisfacer mi deuda!"
+> El eunuco se personó en la casa de Abu-Nowas, y como no le encontró allí, salió en su busca por todos los lugares públicos de Bagdad, y le encontró al fin en cierta mal afamada taberna, a lo último del barrio de la Puerta Verde. Se acercó a él y le dijo: «¡Oh Abu-Nowas, por ti pregunta nuestro amo el califa!»
+> Abu-Nowas se echó a reír, y contestó: «¿Cómo quieres, ¡oh padre de blancuras! que me mueva de aquí, si me retiene como rehén un jovencito amigo mío?» El eunuco preguntó: «¿Dónde está y quién es?» Y le contestó el otro: «Es menudo, imberbe y lindo. ¡Le prometí un regalo de mil dracmas, pero como no tengo encima esa cantidad, no me parece decente irme antes de satisfacer mi deuda!»
 > 
 > **Referencia:** Aventuras del poeta Abu-Nowas (n. 287)
 
@@ -500,7 +497,7 @@ Abu-Nowas es el ejemplo de artista hedonista y vividor. Para escribir de la vida
 
 Frecuenta las tabernas y los hammames más sórdidos de Bagdad y lo normal es que esté bebiendo, comiendo o coqueteando con alguien usando sus dotes para la poesía
 
-Abu-Nowas es abiertamente bisexual y creo que es un detalle que deberías mantener en tus aventuras. Ya sé que el estereotipo de bisexual libertino está muy manido y se aleja mucho de la realidad, pero parece que en este caso tanto el personaje real como el de las 1001 Noches es así y es por ello que he querido mantenerlo tal cual.
+Abu-Nowas es abiertamente bisexual y creo que es un detalle que deberías mantener en tus aventuras. Ya sé que el estereotipo de bisexual libertino está muy manido y se aleja mucho de la realidad, pero parece que en este caso tanto el personaje histórico como el de las 1001 Noches es así y es por ello que he querido mantenerlo tal cual.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d12, Fuerza d6, Vigor d6
 * **Habilidades:** Apostar d8, Atletismo d6, Conocimientos Generales d8, Humanidades d8, Idioma materno d8, Interpretar d12, Notar d6, Pelear d6, Persuadir d10, Sigilo d4
@@ -519,7 +516,7 @@ Abu-Nowas es abiertamente bisexual y creo que es un detalle que deberías manten
 
 \conc
 
-> "Un día en que el califa Harún Al-Raschid había oído encomiar el talento del músico cantor Hachem ben Suleimán, envió a buscarle. Y cuando introdujeron al cantor Harún le hizo sentarse delante de él y le rogó que le dejase oír alguna composición suya. Y Hachem cantó una cantilena de tres versos con tanto arte y tan hermosa voz, que el califa exclamó, en el límite del entusiasmo y del arrebato: "Has estado admirable, ¡oh hijo de Suleimán! ¡Alah bendiga el alma de tu padre!". Y lleno de gratitud, se quitó del cuello un magnífico collar enriquecido de esmeraldas y colgantes tan gordos como peras almizcladas, y lo puso en el cuello del cantor.
+> Un día en que el califa Harún Al-Raschid había oído encomiar el talento del músico cantor Hachem ben Suleimán, envió a buscarle. Y cuando introdujeron al cantor Harún le hizo sentarse delante de él y le rogó que le dejase oír alguna composición suya. Y Hachem cantó una cantilena de tres versos con tanto arte y tan hermosa voz, que el califa exclamó, en el límite del entusiasmo y del arrebato: «Has estado admirable, ¡oh hijo de Suleimán! ¡Alah bendiga el alma de tu padre!». Y lleno de gratitud, se quitó del cuello un magnífico collar enriquecido de esmeraldas y colgantes tan gordos como peras almizcladas, y lo puso en el cuello del cantor.
 > 
 > **Referencia:** El collar fúnebre (n. 984)
 
@@ -527,7 +524,7 @@ Como mejor cantante e intérprete de Bagdad, Hachem se codea todos los días con
 
 Sin embargo, Hachem, a pesar de su dinero y fama, es un hombre sencillo de campo, un nómada del país de Sham (actual Siria) que disfruta de la comida sencilla, de los atardeceres en el desierto y de paseos a camello entre las dunas.
 
-Aunque no es un líder político, sus palabras son tomadas en consideración por las tribus nómadas. Sus canciones protesta pueden llegar el corazón de sus oyentes de una forma que ningún otro cantante ha podido.
+Aunque no es un líder político, sus palabras son tomadas en consideración por las tribus nómadas. Sus canciones protesta pueden llegar el corazón de sus oyentes de una manera que ningún otro cantante ha podido.
 
 La edad empieza a ser un problema para su prodigiosa voz y busca un sustituto que siga sus pasos como cantante del pueblo. Quizás algún schahriar con buena voz y buenos principios morales y éticos pueda aprender de él y seguir su senda.
 
@@ -565,7 +562,7 @@ La fama de ’Inān llevó al califa Harún al-Raschid a intentar comprarla, per
 
 ’Inān destaca por sus réplicas, que a menudo son de tono sexual o incluso vulgar. Esto forma parte de su gran fama/infamia. Son famosas sus respuestas a poetas masculinos en retos durante concursos de remate de versos, especialmente al poeta Abu Nowas. De hecho, la califesa, a pesar de ser una concubina, tiene en gran estima su mente y su ingenio y se hace acompañar por ella cuando el califa está con Abu Nowas. La califesa disfruta mucho como las ingeniosas réplicas y las rápidas rimas dejan sin palabras a Abu Nowas al que tanto odia.
 
-A pesar de estar enamorado de su mujer, Giafar siente una atracción por ’Inān aunque nunca ha revelado sus sentimientos por ella quedando, por ahora en algo "platónico".
+A pesar de estar enamorado de su mujer, Giafar siente una atracción por ’Inān aunque nunca ha revelado sus sentimientos por ella quedando, por ahora en algo «platónico».
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** Atletismo d10, Conocimientos Generales d8, Humanidades d8, Idioma materno d8, Interpretar d10, Investigar d6, Notar d8, Pelear d4, Persuadir d8, Sigilo d8
@@ -584,7 +581,7 @@ A pesar de estar enamorado de su mujer, Giafar siente una atracción por ’Inā
 
 \conc
 
-> /p/ El general Ibrahim Ibn Jibril entró en la sala de audiencias del califa y tras postrarse a sus pies como un siervo más, mostró las cabezas cercenadas y conservadas en pez de los jefes rebeldes. "Oh emir de los creyentes, tu humilde servidor ha cumplido tus órdenes con la mayor presteza. Ni mi señor, ni los hijos de mi señor, ni los hijos de los hijos de mi señor deberán preocuparse de los rebeldes de Aqaba. Personalmente me he encargado de exterminar estirpe de la faz de la tierra, ni hombre, ni mujeres, ni niños, ni siervos, ni animales de carga han sobrevivido a vuestra mano justiciera".
+> /p/ El general Ibrahim Ibn Jibril entró en la sala de audiencias del califa y tras postrarse a sus pies como un siervo más, mostró las cabezas cercenadas y conservadas en pez de los jefes rebeldes. «Oh emir de los creyentes, tu humilde servidor ha cumplido tus órdenes con la mayor presteza. Ni mi señor, ni los hijos de mi señor, ni los hijos de los hijos de mi señor deberán preocuparse de los rebeldes de Aqaba. Personalmente me he encargado de exterminar estirpe de la faz de la tierra, ni hombre, ni mujeres, ni niños, ni siervos, ni animales de carga han sobrevivido a vuestra mano justiciera».
 
 De un recluta venido de las inhóspitas tierras de Balaz Rud ascendió hasta general gracias a sus excelentes actuaciones allí donde era enviado. Ibrahim es el general más joven y exitoso del califato y, como no, el favorito del califa que disfruta mandándoles apaciguar todas las revueltas a lo largo de su vasto imperio para luego escuchar sus escabrosos relatos de guerra.
 
@@ -592,7 +589,7 @@ La genialidad militar de Ibrahim solo es comparable con su sadismo, de hecho ya 
 
 Lo que nadie sabe es que este exitoso general es el sumo sacerdote del culto de la Progenie de la Luna Creciente. Su carrera militar ha sido impulsada gracias a la magia y la intervención de los al mighos hasta convertirse en el militar de confianza del Califa.
 
-También ha ayudado a su meteórico ascenso en el escalafón militar que Dalila la taimada vendiera secretos a la Progenie de la Luna Creciente sobre sus competidores para que medrará en su carrera militar hasta ser un alto general.
+También ha ayudado a su meteórico ascenso en el escalafón militar que Dalila la taimada vendiera secretos a la Progenie de la Luna Creciente sobre sus competidores para qué medrará en su carrera militar hasta ser un alto general.
 
 Lo que buscaban los al mighos y sus agentes humanos de la Progenie con todo esto es poner a uno de sus agentes humanos cerca del califa para influir en él. Lo que no sabían y empiezan a sospechar es que el califa es un estúpido y que sus cortesanos son los que en realidad andan metiendo sus zarpas en Balaz Rud y creando problemas a los al mighos.
 
@@ -606,7 +603,7 @@ Lo que buscaban los al mighos y sus agentes humanos de la Progenie con todo esto
 * **Desventajas:** Secreto (mayor, líder de la Progenie de la Luna), Despiadado (mayor)
 * **Ventajas:** Afinidad mágica, Berserk, Contraataque, Nervios de acero, Puntos de poder, Trasfondo arcano (Sihr)
 * **Capacidades especiales:**
-    * **Hechizos:** 16 PP, Arma afiladisima, Bola de fuego, Torbellino
+  * **Hechizos:** 16 PP, Arma afiladísima, Bola de fuego, Torbellino
 * **Equipo:** Shotel (FUE+d8), Armadura Kalantar (Coraza +4 para el peto y cota de malla +3 para brazos y piernas), Turbante reforzado (Tela gruesa +1 cabeza), Jambia (FUE+d4)
 
 **Sugerencia de interpretación:** Tu carácter se basa en dos elementos clave, la marcialidad del ejército y tu fanatismo de sectario. Como general y líder del culto de la Progenie de la Luna Creciente, esperas que se te escuche y no se te cuestione. Esperas que tus órdenes sean obedecidas sin fallos y por ello siempre son claras y precisas. Esperas de tus hombres obediencia ciega y en caso contrario eres expeditivo en tus métodos para hacerte ser obedecido, muy expeditivo.
@@ -619,7 +616,7 @@ Lo que buscaban los al mighos y sus agentes humanos de la Progenie con todo esto
 
 \conc
 
-> …En cuanto al persa que se marchó en el navío con el arca, era realmente un mago muy formidable; y se llamaba Bahram el Gauro, Adorador del Fuego, alquimista de oficio. Y cada año escogía entre los niños de los musulmanes un joven bien formado, para llevárselo y hacer con él lo que le impulsaba a hacer su descreimiento, su perversión y su raza maldita; porque, como ha dicho el Maestro de los proverbios, ¡era "un perro, hijo de perro, nieto de perro; y todos sus antepasados eran perros! ¿Cómo iba a ser entonces otra cosa que un perro, ni hacer otra cosa que las acciones de un perro?
+> … En cuanto al persa que se marchó en el navío con el arca, era realmente un mago muy formidable; y se llamaba Bahram el Gauro, Adorador del Fuego, alquimista de oficio. Y cada año escogía entre los niños de los musulmanes un joven bien formado, para llevárselo y hacer con él lo que le impulsaba a hacer su descreimiento, su perversión y su raza maldita; porque, como ha dicho el Maestro de los proverbios, ¡era un perro, hijo de perro, nieto de perro; y todos sus antepasados eran perros! ¿Cómo iba a ser entonces otra cosa que un perro, ni hacer otra cosa que las acciones de un perro?
 > 
 > **Referencia:** Las aventuras de Hassan Al-Bassri (n. 582)
 
@@ -643,7 +640,7 @@ En el momento en que huele algo (persona, objeto, ritual, etc.) que le permita a
     * **Hechizos:** 16 PP, ¡Sésamo, ábrete!, Aura de fuego, Bola de fuego, Levantar Nasnas, Aceite salomónico
 * **Equipo:** Utensilios varios alquímicos, yesca, pedernal y combustible, jambia (FUE+d4), d4 dosis de sangre de Fénix, d4 dosis de bang cretense, d6 dosis de kohl de invisibilidad
 
-**Sugerencia de interpretación:** Eres un sociopata de manual y un asesino en serie. Frío y calculador, nunca pierdes la calma, porque si la perdieras todos verían todo lo oscuro y dañino que hay dentro y no podrías moverte por el mundo como lo haces ahora.
+**Sugerencia de interpretación:** Eres un sociópata de manual y un asesino en serie. Frío y calculador, nunca pierdes la calma, porque si la perdieras todos verían todo lo oscuro y dañino que hay dentro y no podrías moverte por el mundo como lo haces ahora.
 
 \sinc
 
@@ -739,7 +736,7 @@ Si no está recorriendo la ciudad en busca de criminales, puedes encontrarle en 
 * **Ventajas:** Afinidad mágica, Alerta, Investigador
 * **Equipo:** Ropajes caros, Alfanje digno de un califa (FUE+d6), todo regalado por el Califa
 
-**Sugerencia de interpretación:** Ahmad-la-Tiña es una persona jovial y divertida con un chiste preparado y una gracieta en la boca. Nadie escapa de sus bromas y sus zascas. Como siempre dice "Que sea trabajo no quiere decir que no sea divertido".
+**Sugerencia de interpretación:** Ahmad-la-Tiña es una persona jovial y divertida con un chiste preparado y una gracieta en la boca. Nadie escapa de sus bromas y sus cortes. Como siempre dice «Que sea trabajo no quiere decir que no sea divertido».
 
 \sinc
 
@@ -849,7 +846,7 @@ Dalila es una buena cuidadora de palomas mensajeras y tiene su propio palomar. P
 \conc
 
 > /p/ Entonces Zeinab, que era una joven graciosa y esbelta con ojos oscuros en un rostro encantador y claro, se levantó al punto y se vistió con gran elegancia y se veló la cara con una ligera muselina de seda, de modo que el brillo de sus ojos era más aterciopelado y subyugante. Adornada a la sazón de esta manera, fue a abrazar a su madre, y le dijo:  
-> /p/ "¡Oh madre! ¡juro por la integridad de mi candado intacto y cerrado, que me adueñaré de los cuarenta y uno y serán mi juguete!"\[…\]  
+> /p/ «¡Oh madre! ¡juro por la integridad de mi candado intacto y cerrado, que me adueñaré de los cuarenta y uno y serán mi juguete!»\[…\]  
 > /p/ Entonces Zeinab arrastró los cadáveres de los pies uno por uno y los arrojó a lo último de la tienda, amontonándolos unos sobre otros, y escondiéndolos debajo de una manta grande, corrió por delante de ellos una amplia cortina, y salió para apostarse de nuevo en la puerta de la taberna.
 > /p/ 
 > /p/ **Referencia:** Historia de los artificios de Dalila la taimada y de su hija Zeinab la embustera con Ahmad-la-Tiña, Hassan-la-Peste y Alí Azogue (n. 446)
@@ -914,7 +911,7 @@ Cuando haces tratos con Alí has de saber que tienden a pasar cosas extrañas a 
 
 \conc
 
-> "En el año quinientos sesenta y uno de la hégira hizo un viaje a Hama la mujer más instruida y más elocuente de Bagdad, la que todos los sabios del Irak llamaban la Maestra de los Maestros. Y he aquí que aquel año llegaron a Hama desde todas las comarcas de los países musulmanes los hombres más versados en las diversas ramas de los conocimientos; y todos se alegraban de poder oír e interrogar a esta mujer maravillosa entre todas las mujeres, que viajaba de aquel modo de país en país, en compañía de un joven hermano suyo, para sostener tesis públicas acerca de las cuestiones más difíciles, e interrogar y ser interrogada sobre todas las ciencias, la jurisprudencia, la teología y las bellas letras.
+> En el año quinientos sesenta y uno de la hégira hizo un viaje a Hama la mujer más instruida y más elocuente de Bagdad, la que todos los sabios del Irak llamaban la Maestra de los Maestros. Y he aquí que aquel año llegaron a Hama desde todas las comarcas de los países musulmanes los hombres más versados en las diversas ramas de los conocimientos; y todos se alegraban de poder oír e interrogar a esta mujer maravillosa entre todas las mujeres, que viajaba de aquel modo de país en país, en compañía de un joven hermano suyo, para sostener tesis públicas acerca de las cuestiones más difíciles, e interrogar y ser interrogada sobre todas las ciencias, la jurisprudencia, la teología y las bellas letras.
 > 
 > **Referencia:** ¿Mujeres o jovenzuelos? (n. 390)
 
@@ -983,13 +980,13 @@ También es una experta albañil y cantera y cuando tiene tiempo se dedica a res
 * **Desventajas:** Bocazas
 * **Ventajas:** Afinidad mágica, Trasfondo arcano (Sihr), Puntos de poder
 * **Capacidades especiales:**
-    * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación está completa en ghūl (y el personaje se vuelve injugable). Quizás puedas encontrar a alguien con los suficientes conocimientos en Mitos que sepa como curarla, pero seguramente le deberás un gran favor. Los propios ghūles podrían darte esa información. Si se supera la infección o se pasa la tirada de Vigor la víctima se vuelve inmune a la infección y la próxima vez ni tendrá el nivel de fatiga.
-    * **Armadura +1:** Piel dura.
-    * **Excavar 4:** Los ghūles pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
-    * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
-    * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
-    * **Forense:** Su habilidad de Medicina sube dos niveles (d6) cuando trata con cadáveres y hace análisis forenses, 3 niveles (d8) si le permiten devorar partes del cadáver. Puede averiguar cosas que la ciencia actual no puede como causa y hora de la muerte.
-    * **Garras/Mordisco:** FUE+d6
+  * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de que la transformación en ghūl esté completa (y el personaje se vuelve injugable). Quizás puedas encontrar a alguien con los suficientes conocimientos en Mitos que sepa como curarla, pero seguramente le deberás un gran favor. Los propios ghūles podrían darte esa información. Si se supera la infección o se pasa la tirada de Vigor la víctima se vuelve inmune a la infección y la próxima vez ni tendrá el nivel de fatiga.
+  * **Armadura +1:** Piel dura.
+  * **Excavar 4:** Los ghūles pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
+  * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
+  * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
+  * **Forense:** Su habilidad de Medicina sube dos niveles (d6) cuando trata con cadáveres y hace análisis forenses, 3 niveles (d8) si le permiten devorar partes del cadáver. Puede averiguar cosas que la ciencia de su tiempo no puede como causa y hora de la muerte.
+  * **Garras/Mordisco:** FUE+d6
 
 \sp
 
