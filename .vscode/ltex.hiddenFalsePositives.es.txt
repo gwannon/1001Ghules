@@ -130,3 +130,146 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi saca más éxitos que la tirada TPC simplemente quedará aturdido.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortrait of Sarah Bernhardt in Costume - Georges Rochegrosse\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q(Partially based on Atlas of World History 2007)\\E$"}
+{"rule":"FORM","sentence":"^\\QEn esta sección vamos a ver de una forma muy general el mundo de las historias de horror cósmico de las 1001 Noches.\\E$"}
+{"rule":"REAL","sentence":"^\\QMuchos de los lugares que se describen en los cuentos son edulcoraciones de lugares reales donde habitan estos «yinns».\\E$"}
+{"rule":"FORM","sentence":"^\\QEstudiosos de Alhazred consideran que estos escritos fueron una forma de su autor para mantener su cordura mediante la catarsis de la creación mediante la escritura.\\E$"}
+{"rule":"FORM","sentence":"^\\QDe esa forma llego a varias conclusiones de carácter generales.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos seres con forma de barril de 5 caras y con pseudópodos y tentáculos por extremidades y con alas.\\E$"}
+{"rule":"FORM","sentence":"^\\QAunque morfológicamente los humanos no tenemos nada que ver esos primeros yinns, si son muy parecidos a nosotros por su forma de pensar y vivir, por su cultura y su forma de percibir el mundo.\\E$"}
+{"rule":"FORM","sentence":"^\\QLos al mighos son los yinns más alejados de los humanos, no solo físicamente, sino también en la forma de pensar y de actuar.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos yinns tienen una especie de «poder de seducción» que les permite atraer a los marginados y a los débiles de mente, de forma que se convierten en sus sirvientes y en sus agentes humanos.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEstos yinns son descritos por Alhazred como seres espirituales que necesitan poseer cuerpos de seres vivos para interactuar con el mundo físico.\\E$"}
+{"rule":"FORM","sentence":"^\\QAl tener una visión no lineal del tiempo, su forma de pensar, sus objetivos y sus metas e incluso su ética y moral escapa de la comprensión humana.\\E$"}
+{"rule":"FORM","sentence":"^\\QTradicionalmente, los yinns siempre han tenido un elemento relacionado (aire, agua, etc.), no es definitorio de cada yinn, pero sí explica muchas cosas de su forma de ser y pensar.\\E$"}
+{"rule":"FORM","sentence":"^\\QNo solo su forma de pensar es totalmente alienígena, también su forma de percibirlo.\\E$"}
+{"rule":"FORM","sentence":"^\\QPerciben el mundo de otras maneras desconocidas, de forma que puede «ver» a través de las paredes o moverse sin problemas en plena oscuridad.\\E$"}
+{"rule":"COMPREHENSIVE","sentence":"^\\QPero para Alhazred los qareens no eran simples yinns contra los que los jinetes francos peleaban, eran unos seres tan complejos que su forma de pensar no era comprensible para los humanos y no tenían sentimientos.\\E$"}
+{"rule":"FORM","sentence":"^\\QPero para Alhazred los qareens no eran simples yinns contra los que los jinetes francos peleaban, eran unos seres tan complejos que su forma de pensar no era comprensible para los humanos y no tenían sentimientos.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstableció que esa forma de pensar tan alien era representada en las historias con dragones tremendamente inteligentes, increíblemente malvados y sin ningún tipo de escrúpulo.\\E$"}
+{"rule":"FORM","sentence":"^\\QEsta forma física no mostraba realmente su naturaleza, solo era una manera de poder interactuar con el mundo material.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn su forma natural eran unos seres espirituales cuya energía podía trastocar las mentes de los humanos cercanos y hacerles cometer terribles actos.\\E$"}
+{"rule":"FORM","sentence":"^\\QEs por ello que Alhazred nombro a estos yinns con su nombre popular, por su forma espiritual y su capacidad de poseerte y hacerte ejecutar acciones profanas e impuras.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEsta forma física no mostraba realmente su naturaleza, solo era una manera de poder interactuar con el mundo material.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QY para realizar este proyecto, voy a ir a buen paso, lo más de prisa que pueda, al palacio del sultán, en la India, y entraré en el cuerpo de la joven princesa y tomaré posesión de su espíritu momentáneamente.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa posesión es algo innato a su naturaleza y lo han perfeccionado tanto que incluso pueden poseer a través del tiempo, de forma que puede tomar el cuerpo de personas de los tiempos del Gran Suleimán y conocerle en persona.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLas esencias de los poseídos son trasladados al cuerpo actual abu-qith y es tratado con amabilidad allí donde viva.\\E$"}
+{"rule":"FORM","sentence":"^\\QComo no tienen un carácter maligno, y, por tanto, no son considerados cheitáns, tratan de interferir lo mínimo en sus víctimas, de forma que no alteran las vidas de sus poseídos durante el tiempo de posesión.\\E$"}
+{"rule":"FORM","sentence":"^\\QComo ya hemos visto, las motivaciones de los distintos yinns son muy diferentes, con lo que sus formas de actuar respecto de los humanos son muy diferentes.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEl gran Rey Suleimán, más conocido como el sabio rey Salomón, es una figura mítica dentro de los cuentos de las 1001 Noches.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLas grandes hazañas de la antigüedad siempre son fruto del rey Suleimán desde vencer a ejércitos de yinns a realizar grandes prodigios mágicos.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QBaba Daryä y Bu Diryan son adorados por la gente del mar y realizan todo tipo de sacrificios en su nombre.\\E$"}
+{"rule":"FORM","sentence":"^\\QSe la representaba como una mujer embarazada de múltiples retoños, de forma que está inflada y deformada.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QEsta divinidad exterior es adorada por La progenie de la Luna Creciente, un culto de adeptos sirvientes de los al mighos.\\E$"}
+{"rule":"FORM","sentence":"^\\QBahamūt es un ser mitológico de inmenso poder y de tamaño gigantesco, que según diferentes versiones tiene forma de pez, de ballena, de hipopótamo, etc.\\E$"}
+{"rule":"FORM","sentence":"^\\QTiene forma de huracán con trazas color violeta y dorado.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QSe dice que los portadores de sus poderes pueden realizar grandes prodigios mágicos y/o están locos.\\E$"}
+{"rule":"FORM","sentence":"^\\QEl objetivo de este degenerado culto es crear un gran cataclismo, como un diluvio, que limpie la Tierra para su amo y señor Yog-Sothoth en su forma de ’Umr-At-Tawil y que este pueda traer de vuelta al resto de primigenios.\\E$"}
+{"rule":"FORM","sentence":"^\\QEl líder solo es una forma de que alguien tome decisiones rápidas para los temas del día a día.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QSituación actual\\E$"}
+{"rule":"FIGURE","sentence":"^\\QPero de entre sus ropajes, sus giros y sus contorsiones empezaron a formarse figuras extrañas y sombras deformes que fueron tomando cada vez una forma más clara para mí, hasta poder ver la cara de mi jeiquesa Mariam llena de dolor y terror.\\E$"}
+{"rule":"FORM","sentence":"^\\QPero de entre sus ropajes, sus giros y sus contorsiones empezaron a formarse figuras extrañas y sombras deformes que fueron tomando cada vez una forma más clara para mí, hasta poder ver la cara de mi jeiquesa Mariam llena de dolor y terror.\\E$"}
+{"rule":"FIGURE","sentence":"^\\Q/p/ Sobre la losa de piedra que usaban de altar el sacerdote tenía una figura de una antigua diosa de la fertilidad, si lo que recordaba de los libros del pasillo prohibido de la Casa de Sabiduría era correcto.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QSiguiendo el modus operandi de los al mighos, fueron buscando gente débil de mente a la que embaucaron y convirtieron en adeptos primero y siervos fanáticos después.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QLos primeros cultistas eran incapaces de asumir todas las implicaciones que suponía Shub-Niggurath y le crearon un avatar más asumible a sus mentes con la figura de una diosa Astarte caótica que exigía ritos sanguinarios y sexuales.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos rituales y sacrificios se realizan en su sótano.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos rituales de la secta se basan en los antiguos rituales de Astarte que los pueblos mesopotámicos y sumerios realizaban, pero añadiéndoles elementos de adoración a los al mighos y con muchos detalles malignos y macabros por su conexión con infame deidad de la fertilidad.\\E$"}
+{"rule":"FORM","sentence":"^\\QPodían acabar en orgías en las que zánganos de al mighos podrían tomar parte de una forma más o menos activa.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QEstas noticias no agradan a los amos al mighos y esto ha hecho que los adeptos de la secta estén buscando modos de boicotear los planes del califato.\\E$"}
+{"rule":"PRESENT","sentence":"^\\QEl fuego, como símbolo de Nardún, es el centro de este culto y está presente en todos sus aspectos, desde rituales a hechizos o simbología.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QSe encuentra al noroeste de la actual Etiopía, cerca del Mar rojo.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEs un volcán solitario y casi apagado al sureste del actual Irán.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QTienes que tener en cuenta que los portales no tienen que ser solamente lugares físicos, pueden ser objetos.\\E$"}
+{"rule":"FORM","sentence":"^\\QAccidentes geográficos de gran tamaño podrían ser usados como frontera entre ambos mundos, de forma que tras una gran cordillera como el Cáucaso nos encontraríamos en la Meseta de Leng.\\E$"}
+{"rule":"FORM","sentence":"^\\QRecuerda que hay miles de tipos de yinns menores de todo tipo de forma y condición y los lengnitas podrían ser unos de ellos.\\E$"}
+{"rule":"FORM","sentence":"^\\QMoverse entre estamentos es algo posible de muchas formas.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEste deporte, que es el germen del actual polo, está solo al alcance de los ricos y poderosos, ya que muy pocas personas pueden mantener un caballo solo por ocio.\\E$"}
+{"rule":"FORM","sentence":"^\\QNormalmente asociado a los monarcas, este deporte era para muchas tribus nómadas una forma de vida.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QEstas noticias no agradan a los amos al mighos y esto ha hecho que los adeptos de la secta estén buscando modos de boicotear los planes del califato.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEl culto es pequeño y disperso y solo hay una figura de poder al que se pueda llamar líder.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEra de carácter benéfico, y los enfermos recibían gratuitamente tratamientos que incluían desde drogas y remedios a base de hierbas, hasta masajes, rehabilitación física, música o simplemente reposo.\\E$"}
+{"rule":"FORM","sentence":"^\\QSon considerados lugares modernos y bastante abiertos de ideas, sin embargo, muchas veces en las 1001 Noches son representados de una forma muy parecida a lo que haría el propio Lovecraft.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QSon, además, un sitio de estudios religiosos, un lugar donde guardar y conservar reliquias sagradas y mausoleos para figuras religiosas importantes.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QLos adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc’Naath.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QLos adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc’Naath.\\E$"}
+{"rule":"FORM","sentence":"^\\QLos adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEsto hace que la Mano Dorada es moviéndose frenéticamente para encontrar la estatua perdida de Suc’Naath y buscar un modo de poder acercarse al cometa.\\E$"}
+{"rule":"FORM","sentence":"^\\QLas caravanas tienen dos objetivos transportar objetos y materiales para comerciar con ellos y como forma de viajar.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QLos zocos y bazares tienen dos figuras interesantes:\\E$"}
+{"rule":"FORM","sentence":"^\\QEra una forma de meterlos en prisión sin necesidad de juicio ni de que la opinión pública tomará partido.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QRutas actuales\\E$"}
+{"rule":"FORM","sentence":"^\\QForma de actuar\\E$"}
+{"rule":"FORM","sentence":"^\\QNormalmente, se presenta como una gran bola de fuego consciente, pero puede cambiar de forma a su antojo, ya que es solamente una masa de radiación y calor dotada de consciencia.\\E$"}
+{"rule":"FORM","sentence":"^\\QDe todas formas puedes montar las estructuras familiares que mejor se ajusten a los gustos y situaciones de tu mesa, incluso obviar todos estos elementos y centrarte en tus maravillosas e increíbles historias de horror cósmico.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos barrios tienen un carácter más residencial donde la gente vive y se relaciona, aunque sigue habiendo comercio, pero de una forma más simple.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QPiensa en alfombras voladoras que funcionan con tecnología cuasi-mágica de la gran raza de Yith, oasis que crecen en una noche en el desierto por acción de algún oscuro y casi desconocido primigenio o malvados hechiceros serpigente que invoca serpientes gigantes para que te devoren.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q«¡Eso es lo que voy a hacer!» Y se llevó el cesto de frutas y se metió en el mar para volver al cabo de unos instantes llevando en las manos una vasija llena de un ungüento parecido a la grasa de las vacas y de un color amarillo como el oro, y de un olor absolutamente delicioso.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\Q¡Y este pez dan dan es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!»\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\Q«Se compone con grasa del hígado de una especie entre las especies de peces que se llama dan dan.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QAplicando aceite de hígado del gigantesco pez dan dan (o de cualquier pez) puedes sumergirte en el agua sin problemas para respirar o de presión.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QAceite de dan dan\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QAl oír la princesa el ruego de su padre, cogió un cuchillo que tenía unas inscripciones en lengua hebrea, trazó con él un círculo en el suelo, escribió allí varios renglones talismánicos, y después se colocó en medio del círculo, murmuró algunas palabras mágicas, leyó en un libro antiquísimo unas cosas que nadie entendía, y así permaneció breves instantes.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qles brotaban alas de los hombros, y se convertían en volátiles.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«Está bien, ¡oh arena! veamos.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QY he aquí que nacieron las figuras y se formó el horóscopo.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QY el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que Aladino no estaba muerto, sino muy vivo, que era dueño de la lámpara mágica y que vivía con esplendor, riquezas y honores, casado con la princesa Badrú’l-Budur, hija del rey de la China, a la cual amaba y la cual le amaba, y por último, que no se le conocía en todo el imperio de la China e incluso en las fronteras del mundo más que con el nombre del emir Aladino.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QY el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que Aladino no estaba muerto, sino muy vivo, que era dueño de la lámpara mágica y que vivía con esplendor, riquezas y honores, casado con la princesa Badrú’l-Budur, hija del rey de la China, a la cual amaba y la cual le amaba, y por último, que no se le conocía en todo el imperio de la China e incluso en las fronteras del mundo más que con el nombre del emir Aladino.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QY el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que Aladino no estaba muerto, sino muy vivo, que era dueño de la lámpara mágica y que vivía con esplendor, riquezas y honores, casado con la princesa Badrú’l-Budur, hija del rey de la China, a la cual amaba y la cual le amaba, y por último, que no se le conocía en todo el imperio de la China e incluso en las fronteras del mundo más que con el nombre del emir Aladino.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QLlenando de arena una bandeja, una mesa o cualquier superficie plana, se empiezan a crear figuras que responden a nuestras preguntas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY de pronto Al-Simurg golpeó el suelo con el pie, y en un instante se remontó con su carga por encima del jardín.\\E$"}
+{"rule":"FORM","sentence":"^\\Q«Si te crearon estatua, sigue estatua, sin cambiar de forma; pero si estás encantado, recobra tu figura primera con el permiso de Suc’Naath».\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q«Si te crearon estatua, sigue estatua, sin cambiar de forma; pero si estás encantado, recobra tu figura primera con el permiso de Suc’Naath».\\E$"}
+{"rule":"FIGURE","sentence":"^\\Q«Si te crearon estatua, sigue estatua, sin cambiar de forma; pero si estás encantado, recobra tu figura primera con el permiso de Suc’Naath».\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY Anís se despertó muy afectado, y se incorporó y salió en busca de alguien que le explicase aquel ensueño.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWill-o’-the-Wisp (detail), 1888 - Lev Lerch\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Sabe, oh Juder! que esta mula que montamos es nada menos que una gennia entre los genn.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¿Sabes ¡oh Juder! el camino que hemos recorrido desde El Cairo hasta aquí?» Juder contestó:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSummoning is Complete by MuratCALIS\\E$"}
+{"rule":"FORM","sentence":"^\\QEs necesario que el cambio tenga relación con el disfraz, pero de una forma muy general.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QSi a tu mesa le resulta un problema por inseguridades físicas u otros temas, déjalo solo en cualquier cambio capilar, sea el que sea.\\E$"}
+{"rule":"FORM","sentence":"^\\QCambiar de forma\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSascha Schneider - Der Chodem\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QLas maldiciones son hechizos que se lanzan buscando hacer daño físico y emocional al objetivo y sus seres queridos y amistades cercanas.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QPara lanzar una maldición es necesario que las personas implicadas, el lanzador de la maldición y el maldecido, estén el mismo espacio, ya que se necesita una interacción física entre ellas.\\E$"}
+{"rule":"FORM","sentence":"^\\QAdemás, una maldición exitosa consume un PP del lanzador de forma permanente que no recupera hasta que la maldición sea revertida.\\E$"}
+{"rule":"FORM","sentence":"^\\QEsta maldición es una forma permanente del hechizo Destierro.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QSabrás, ¡oh, efrit! que, en la antigüedad del tiempo y en lo pasado de la edad, hubo en la ciudad de Fars, en el país de los rumán, un rey llamado Yunán.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSabrás, ¡oh, efrit! que, en la antigüedad del tiempo y en lo pasado de la edad, hubo en la ciudad de Fars, en el país de los rumán, un rey llamado Yunán.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QPierde 2 niveles en 1 o más atributos físicos (mínimo d4) y desventaja Marginado (Mayor)\nPierde 1 nivel en 1 atributo físico (mínimo d4) y desventaja Marginado (Menor)\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QPierde 2 niveles en 1 o más atributos físicos (mínimo d4) y desventaja Marginado (Mayor)\nPierde 1 nivel en 1 atributo físico (mínimo d4) y desventaja Marginado (Menor)\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q«¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!» Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales, y no dejó de descubrir por aquel lado el sitio en que se hallaba la entrada a mi reino subterráneo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta Un Libro Leer Literatura por garten-gg\\E$"}
+{"rule":"REALIZE","sentence":"^\\QEste tratado de matemáticas y criptografía de autor desconocido deriva poco en sus páginas en diferentes símbolos matemático-arcanos que permiten realizar prodigios mágicos e invocaciones de diversas entidades.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSefer HaRazim (page 3 crop)\\E$"}
+{"rule":"REALIZE","sentence":"^\\QCada una de las secciones corresponde a un cielo, y contiene una lista de ángeles, e instrucciones para realizar uno o más ritos mágicos.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEl libro mayor trata de recetas para adquirir poderes (invisibilidad, adivinación, dominio de los fenómenos naturales, transformación, entre otros) y para la creación artificial de entidades vivientes híbridas, todo a partir de sustancias que incluyen preparados minerales, fluidos orgánicos (como el esperma y la sangre) y restos corporales de hombres y animales, empleándose, además, envases de vidrio y de metal dentro de un laboratorio mágico.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSample page of Sefer Raziel HaMalakh, a medieval work of Jewish mysticism.\\E$"}
+{"rule":"AGREEMENT_NUMERAL_PLURAL","sentence":"^\\QReduce a 0 todo daño por caída.\\E$"}
+{"rule":"AGREEMENT_NUMERAL_PLURAL","sentence":"^\\Q1-2 Traducción\n3 Incompleto\n4 Anotado\n5 Dañado\n6 Muy dañado\n7 Edición original\n8 Maldito\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¡Y tal es ¡oh mi señor! la virtud invisible de esta alfombra de plegaria!»\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThe Journey of Prince Firouz Schah - Houghton, Arthur Boyd\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh mi señor! las virtudes que posee este caballo son cosa prodigiosa, hasta el punto de que cuando uno monta en él, parte con su jinete a través de los aires con la rapidez del relámpago, y le lleva a cualquier sitio donde se le guíe, cubriendo en un día distancias que tardaría un año en recorrer un caballo vulgar».\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh mi señor! a cada hora que transcurre del día o de la noche, el pavo da un picotazo a cada una de las veinticuatro pavas y la cabalga, agitando las alas, y así sucesivamente cabalga a las veinticuatro pavas, marcando las horas; luego, cuando ha dejado transcurrir el mes de esta manera, abre la boca, y en el fondo de su gaznate aparece el cuarto creciente de la luna nueva».\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QHistoria de la casa encantada en el zoco de los tejedores\nHistoria de la botella encontrada en el fondo del río Tigris\nHistoria del dibujante de Laylays\nHistoria del morshed malvado\nHistoria del monstruo encerrado en la casa de las fieras\nHistoria de la cuchara mágica\nHistoria del gran robo del hielo del Califa\nHistoria de la locura del almotacén\nHistoria del asesino de Suc’Naath\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QImugi by arvalis\\E$"}
+{"rule":"A_PARTICIPIO","sentence":"^\\QAsesino/a entrenado/a\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLos oscuros callejones de las grandes ciudades están llenas de este tipo de personajes.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QAdepto/a cultista\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAfter being shipwrecked Sinbad the Sailor is enslaved by the Old Man of the Sea.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q«¡Oh venerable jeique! ¿a qué se debe tu estancia en este sitio?» Tampoco me contestó; pero movió con aire triste la cabeza, y con la mano me hizo señas que significaban:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFrances Brundage\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta un total de 40.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QRápido\nCapacidades especiales:\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY al instante el sirviente batió las alas y remontó el vuelo; y en menos tiempo del que se necesita para abrir un párpado y cerrar el otro, les dejó en la cumbre de la Montaña de las Nubes.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSu piel es oscura y de una textura entre gomosa y aceitosa.\\E$"}
+{"rule":"PARTICIPIO_MS","sentence":"^\\Q/p/ Habiendo dicho estas palabras, el persa sacó de entre su traje un tamboril de cobre en el cual había extendida una piel de gallo y aparecían grabados caracteres talismánicos.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa ciudad de G’harne\nGuía de viajes terminada:\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLa Mano Dorada de Suc’Naath\nDescripción secta terminada:\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QLa fama de ’Inān llevó al califa Harún al-Raschid a intentar comprarla, pero su amo rechazó el precio de venta de 100,000 dinares.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QA la muerte de su dueño, el Califa puso a ’Inān en subasta, aparentemente para ayudar a saldar las deudas de su dueño.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\Q’Inān destaca por sus réplicas, que a menudo son de tono sexual o incluso vulgar.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\Q’Inān bint ’Abd-Alāh, poetisa y qiyan del Califa\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q’Inān bint ’Abd-Alāh, poetisa y qiyan del Califa\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QSin embargo, Hachem, a pesar de su dinero y fama, es un hombre sencillo de campo, un nómada del país de Sham (actual Siria) que disfruta de la comida sencilla, de los atardeceres en el desierto y de paseos a camello entre las dunas.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QAquel salón solo se abría cuando llegaba el califa, y entonces se encendían las lámparas y la araña y se abrían todas las ventanas, y el califa se sentaba en un magnífico diván forrado de seda, terciopelo y oro, y mandaba a las cantoras que cantasen y a los músicos que tañesen sus instrumentos; pero lo que prefería era oír al ilustre cantor Ishak, cuyos cantos e improvisaciones admiraba todo el mundo.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QDalila odia profundamente al Califa, porque su difunto marido era el maestre del palomar del Califa y los colmaba de dinero y regalos.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QFátimah tiene malas noticias, la caja de resistencia ha sido robada.\\E$"}

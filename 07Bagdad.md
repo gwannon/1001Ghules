@@ -919,7 +919,7 @@ El Pequeño Consejo tiene una caja de resistencia que los mayores pueden usar pa
 
 > Así es que, cuando Yahía fue a medianoche en compañía de Massrur a despertar a Harún para notificarle que era dueño del Imperio y califa de Alah sobre la tierra, Harún le dio inmediatamente el título de gran visir y nombró visires a sus dos hijos El-Fadl y Giafar. Y así empezó su reinado bajo los auspicios más dichosos.  
 > Y desde entonces la familia de los Barmáquidas fue en su siglo lo que un adorno en la frente y una corona en la cabeza. Y el Destino les prodigó cuanto de más seductor tienen sus favores, y los colmó de sus dones más escogidos. Y Yahía y sus hijos se tornaron astros brillantes, vastos océanos de generosidad, torrentes impetuosos de gracias, lluvias bienhechoras. El mundo se vivificó con su soplo, y el Imperio llegó a la cima más alta del esplendor. Y eran ellos refugio de afligidos y recurso de desdichados. \[…\]  
-> Eran, en efecto, visires prudentes, administradores admirables, que aumentaban el tesoro público, elocuentes, instruidos, firmes, de buen consejo, y generosos al igual de Hatim-Tai. Eran fuentes de felicidad, vientos bienhechores que atraen los nublados fecundantes. Y sobre todo, merced a su prestigio, el nombre y la gloria de Harún Al-Raschid repercutieron desde las mesetas del Asia Central hasta el fondo de las selvas norteñas, y desde el Magreb y la Andalucía hasta las fronteras extremas de China y de Tartaria.
+> Eran, en efecto, visires prudentes, administradores admirables, que aumentaban el tesoro público, elocuentes, instruidos, firmes, de buen consejo, y generosos al igual que Hatim-Tai. Eran fuentes de felicidad, vientos bienhechores que atraen los nublados fecundantes. Y sobre todo, merced a su prestigio, el nombre y la gloria de Harún Al-Raschid repercutieron desde las mesetas del Asia Central hasta el fondo de las selvas norteñas, y desde el Magreb y la Andalucía hasta las fronteras extremas de China y de Tartaria.
 > 
 > **Referencia:** El fin de Giafar y de los barmáquidas (n. 995)
 
@@ -998,7 +998,7 @@ Giafar lleva años realizando diferentes proyectos urbanísticos con la ayuda de
 
 \sp
 
-* Los monstruos que el visir trae a la casa de fieras son una forma de que la gente conozca y sepa como enfrentarse a los yinns y otros monstruos que acechan Bagdad. Es una forma de dar a conocer, su forma, sus poderes y sus debilidades.
+* Los monstruos que el visir trae a la casa de fieras son una forma de que la gente conozca y sepa como enfrentarse a los yinns y otros monstruos que acechan Bagdad. Es una manera de dar a conocer su forma, sus poderes y sus debilidades.
 * Todo el asfaltado de la ciudad es una forma de crear un gran símbolo de protección de Suleimán para proteger toda la ciudad. Además de las ventajas en movilidad urbana que supone asfaltar las calles el visir, está creando un símbolo arcano asfaltando unas u otras calles y mezclando polvo de plata con el asfalto. En caso de necesidad podría lanzarse algún tipo de hechizo protección en toda la ciudad, canalizando el poder a través del símbolo de asfalto y plata.
 
 La califesa, no conoce exactamente que hay detrás de estas mejoras, pero sabe a ciencia cierta que Giafar es de fiar y son algo bueno para la ciudad. Así que simplemente da su apoyo a Giafar cuando el califa no quiere llevarlas a cabo.

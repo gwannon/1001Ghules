@@ -101,7 +101,7 @@ Aplicó todos sus nuevos conocimientos adquiridos para estudiar todas esas histo
 
 * Los yinns de las historias no son esos seres mágicos que contaban los cuentos tradicionales, sino especies venidas de más allá de las estrellas muchas veces antes de la aparición de los humanos. Estos yinns, que según él forman 7 tribus diferentes, son descritos en su obra con sus propias sociedades, sistemas de creencias, relaciones sociales y sus propios planes para tomar la tierra.
 * Muchos de los lugares que se describen en los cuentos son edulcoraciones de lugares reales donde habitan estos «yinns».
-* Lo mismo pasa con los objetos mágicos que son formas de mostrar la avanzada tecnología de estos yinns.
+* Lo mismo pasa con los objetos mágicos que son maneras de mostrar la avanzada tecnología de estos yinns.
 * Fuera de los yinns las historias populares hablan de otros seres que Alhazred trato de encajar con la nueva cosmogonía que acababa de descubrir y aceptar como su nueva fe.
 
 Estudiosos de Alhazred consideran que estos escritos fueron una forma de su autor para mantener su cordura mediante la catarsis de la creación mediante la escritura. Es por ello que los expertos y expertas le describen (a modo de chiste) como el árabe «medio» loco y no simplemente el árabe loco.
@@ -124,7 +124,7 @@ Galland ocultó y limpió de todos sus elementos cósmicos y extradimensionales 
 
 Alhazred explica en sus 1001 Noches que existen muchas razas (él las llama tribus) y se centra en 6 tribus, especialmente, los ghūles, los janns, los al mighos, los abu-qiths, los qareens y los aads.
 
-Estos yinns ya no son productos del dios de su antigua fe, sino que llevan en la Tierra desde miles de años provenientes de las estrellas u otras realidades que él denomina genéricamente el Gennistán. Estos genios llevan interfiriendo de muchas formas en el desarrollo de la vida en la Tierra y en la evolución de la raza humana.
+Estos yinns ya no son productos del dios de su antigua fe, sino que llevan en la Tierra desde miles de años provenientes de las estrellas u otras realidades que él denomina genéricamente el Gennistán. Estos genios llevan interfiriendo de muchas maneras en el desarrollo de la vida en la Tierra y en la evolución de la raza humana.
 
 ### Ghūles
 
@@ -136,13 +136,13 @@ Los ghūles fueron la punta del iceberg de sus estudios. Al estudiarlos en los c
 
 Cultural y antropológicamente hablando, los janns son los primeros yinns, o casi mejor, los proto-yinns. Son yinns muy parecidos a los humanos con estructuras sociales complejas, familias, tribus, reinos, comercio, culturas, artes, etc. Según las historias y cuentos, crearon en el Gennistán (el mundo de los yinns) ciudades, pueblos, carreteras, etc. Son considerados los primeros seres con libre albedrío que hubo en la Tierra.
 
-Es por todo esto que Alhazred, uso el nombre de janns para describir a los primeros seres que llegaron y dominaron la Tierra, mucho antes de que los humanos existieran. Estos seres con formas de barril de 5 caras y con pseudópodos y tentáculos por extremidades y con alas.
+Es por todo esto que Alhazred, uso el nombre de janns para describir a los primeros seres que llegaron y dominaron la Tierra, mucho antes de que los humanos existieran. Estos seres con forma de barril de 5 caras y con pseudópodos y tentáculos por extremidades y con alas.
 
 \sp
 
 Sin embargo, se extinguieron mucho antes de que los hombres pisarán la Tierra y solo sabemos de ellos por los restos de su civilización que aún se conservan.
 
-Aunque morfológicamente los humanos no tenemos nada que ver esos primeros yinns, si son muy parecidos a nosotros por su forma de pensar y vivir, por su cultura y su forma de percibir el mundo. Frente a las mentes superavanzadas de los al mighos o la visión no-lineal del tiempo de los abu-qith, los janns podrían ser estudiados como si fueran humanos.
+Aunque morfológicamente los humanos no tenemos nada que ver esos primeros yinns, si son muy parecidos a nosotros por su modo de pensar y vivir, por su cultura y el modo en como perciben el mundo. Frente a las mentes superavanzadas de los al mighos o la visión no-lineal del tiempo de los abu-qith, los janns podrían ser estudiados como si fueran humanos.
 
 Alhazred estudio a los janns con mucho interés al poder extrapolar las conclusiones que saco de los janns a la raza humana. Alhazred descubrió que fueron extinguidos tanto por enemigos externos como otras tribus de yinns además de por su propia tecnología.
 
@@ -158,7 +158,7 @@ Los al mighos no pueden mezclarse fácilmente con los humanos y suelen ser visto
 
 \sp
 
-No será la primera vez que el cacique de un pueblo perdido de las montañas vende todas sus tierras por una miseria a un oscuro comprador para luego suicidarse.
+No será la primera vez que el cacique de un pueblo perdido de las montañas vende todas sus tierras por una miseria a un misterioso comprador para luego suicidarse.
 
 Estos yinns tienen una especie de «poder de seducción» que les permite atraer a los marginados y a los débiles de mente, de forma que se convierten en sus sirvientes y en sus agentes humanos.
 
@@ -192,11 +192,11 @@ Según le fue rebelado a Alhazred, llegaron a la Tierra de las profundidades del
 
 Con los siglos fueron decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos, a veces adorados como dioses por tribus paganas. También se sabe warams que se mueven por todo el desierto como eternas y poderosas de arena.
 
-Estos yinns con forma de pólipos y hechos en parte de aire se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido. 
+Estos yinns con semejantes a pólipos y hechos en parte de aire se cree que son inteligentes, pero su manera de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido. 
 
 \sp
 
-No solo su forma de pensar es totalmente alienígena, también su forma de percibirlo. Perciben el mundo de otras formas desconocidas, de forma que puede «ver» a través de las paredes o moverse sin problemas en plena oscuridad.
+No solo su forma de pensar es totalmente alienígena, también su forma de percibirlo. Perciben el mundo de otras maneras desconocidas, de forma que puede «ver» a través de las paredes o moverse sin problemas en plena oscuridad.
 
 ### Qareens
 
@@ -204,7 +204,7 @@ Alhazred, como otros tantos estudiosos, consideraba que los cuentos de dragones 
 
 Pero para Alhazred los qareens no eran simples yinns contra los que los jinetes francos peleaban, eran unos seres tan complejos que su forma de pensar no era comprensible para los humanos y no tenían sentimientos. Estableció que esa forma de pensar tan alien era representada en las historias con dragones tremendamente inteligentes, increíblemente malvados y sin ningún tipo de escrúpulo.
 
-Pero Alhazred, fue más allá, estableciendo que los qareen eran mucho más que grandes monstruos reptilianos. Esta forma física no mostraba realmente su naturaleza, solo era una forma de poder interactuar con el mundo material. En su forma natural eran unos seres espirituales cuya energía podía trastocar las mentes de los humanos cercanos y hacerles cometer terribles actos.
+Pero Alhazred, fue más allá, estableciendo que los qareen eran mucho más que grandes monstruos reptilianos. Esta forma física no mostraba realmente su naturaleza, solo era una manera de poder interactuar con el mundo material. En su forma natural eran unos seres espirituales cuya energía podía trastocar las mentes de los humanos cercanos y hacerles cometer terribles actos.
 
 Los qareens de las leyendas populares son seres espirituales que acompañan a los humanos y que les inducen a hacer actos malvados y suicidas. De hecho, se agarran con sus piernas a tu cuello para poder susurrarte maldades al oído. Es por ello que Alhazred nombro a estos yinns con su nombre popular, por su forma espiritual y su capacidad de poseerte y hacerte ejecutar acciones profanas e impuras.
 
@@ -242,7 +242,7 @@ En bastantes partes de sus 1001 Noches muestra posesiones y según sus biógrafo
 
 Dentro de los Yinns de los que nos habla Alhazred en sus 1001 Noches, hay dos tribus con capacidad de poseer a seres humanos, los abu-qith y los qareens. También habla en sus cuentos de otras criaturas que no considera yinns con capacidad de poseer humanos como los falaks menores.
 
-Hay que hacer hincapié, que si bien no son posesiones como tal, los al mighos y las gentes del mar tienen cierta capacidad de seducir y atraer a personas débiles de mente y marginadas, convirtiéndolas en aliadas. No son posesiones reales, pero pueden fácilmente fanatizarlos para que atraigan a otros como ellos o incluso se dejen la vida en su defensa.
+Hay que hacer hincapié, que si bien no son posesiones como tal, los al mighos y las gentes del mar tienen cierta capacidad de seducir y atraer a personas débiles de mente y marginadas, convirtiéndolas en aliadas. No son posesiones auténticas, pero pueden fácilmente fanatizarlos para que atraigan a otros como ellos o incluso se dejen la vida en su defensa.
 
 #### Los abu-qith y sus posesiones a través de los tiempos
 
@@ -252,7 +252,7 @@ Como no tienen un carácter maligno, y, por tanto, no son considerados cheitáns
 
 #### Los qareens y su aura depresiva
 
-Los qareens de normal no pueden poseer directamente a un humano, pero pueden corromper su alma, de forma que pueden inducirlos a actos ominosos como el asesinato o el suicidio. Lo que pierden en control lo ganan en cantidad pudiendo inducir a la depresión y la maldad a miles personas con su sola presencia. Su aura espiritual es tan poderosa que incluso años después de abandonar las cuevas subterráneas que suelen habitar estos lugares suelen afectar a sus visitantes.
+Los qareens de normal no pueden poseer directamente a un humano, pero pueden corromper su alma, de manera que pueden inducirlos a actos ominosos como el asesinato o el suicidio. Lo que pierden en control lo ganan en cantidad pudiendo inducir a la depresión y la maldad a miles personas con su sola presencia. Su aura espiritual es tan poderosa que incluso años después de abandonar las cuevas subterráneas que suelen habitar estos lugares suelen afectar a sus visitantes.
 
 \sp
 
@@ -264,7 +264,7 @@ Los qareens de normal no pueden poseer directamente a un humano, pero pueden cor
 
 \conc
 
-En mentes extremadamente débiles o rotas pueden llegar a conseguir un control total, de forma que obedezcan ciegamente sus órdenes. El control que ejerce sobre estas víctimas es tan poderoso que nadie más puede influir en ellos. Además, solo les importa cumplir las órdenes dadas que nada puede inmiscuirse, ni el hambre o la sed les importará, aunque sí hará estragos en su cuerpo.
+En mentes extremadamente débiles o rotas pueden llegar a conseguir un control total, de modo que obedezcan ciegamente sus órdenes. El control que ejerce sobre estas víctimas es tan poderoso que nadie más puede influir en ellos. Además, solo les importa cumplir las órdenes dadas que nada puede inmiscuirse, ni el hambre o la sed les importará, aunque sí hará estragos en su cuerpo.
 
 ### El país de Gennistán
 
@@ -498,7 +498,7 @@ La Ciudad de Bronce es una versión de R’lyeh adaptada a los sueños de los hu
 
 La princesa Tadnaar, dormida sobre un diván en el palacio más grande de la ciudad y vigilada por dos portaalfanjes, es una representación onírica del propio Bahamūt.
 
-Si alguien consigue despertarla, el gran Bahamūt podría subir niveles en su profundo sueño y estar más cerca de despertar. Además, podría afectar al mundo real y no solo las tierras oníricas.
+Si alguien consigue despertarla, el gran Bahamūt podría subir niveles en su profundo sueño y estar más cerca de despertar. Además, podría afectar a nuestro mundo y no solo a las tierras oníricas.
 
 Para evitar esto, tanto en el mundo de la vigilia como en el mundo de los sueños hay una organización llamada el Gremio de Bronce que vigila y sabotea todo intento de descubrir la ciudad y despertar a la princesa. Toda esta trama se desarrolla en la aventura Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce.
 
@@ -546,7 +546,7 @@ El 40 es un número de suma importancia en las creencias de muchos los pueblos q
 
 El objetivo de este degenerado culto es crear un gran cataclismo, como un diluvio, que limpie la Tierra para su amo y señor Yog-Sothoth en su forma de ’Umr-At-Tawil y que este pueda traer de vuelta al resto de primigenios.
 
-Cada célula de esta organización está formada por 40 personas, con un único jefe que dirige todas las actividades del grupo. Las decisiones importantes del grupo se votan democráticamente. El líder solo es una forma de que alguien tome decisiones rápidas para los temas del día a día.
+Cada célula de esta organización está integrada por 40 personas, con un único jefe que dirige todas las actividades del grupo. Las decisiones importantes del grupo se votan democráticamente. El líder solo es una forma de que alguien tome decisiones rápidas para los temas del día a día.
 
 \sp
 
@@ -568,7 +568,7 @@ Cada célula de la secta tiene su guarida secreta, que pueden ir desde algún ti
 
 \sp
 
-* Otra célula se ha asentado en Petra. Están explorando sus cientos y cientos de pasadizos en busca de algún conocimiento prohibido u objeto mágico que les ayude en sus apocalípticos objetivos. Petra no es muy frecuentada, pero la célula está haciendo correr rumores de maldiciones y monstruos para que nadie se acerque. De todas formas no tienen problemas el sacar la jaiba y cortar los gaznates de los intrusos.
+* Otra célula se ha asentado en Petra. Están explorando sus cientos y cientos de pasadizos en busca de algún conocimiento prohibido u objeto mágico que les ayude en sus apocalípticos objetivos. Petra no es muy frecuentada, pero la célula está haciendo correr rumores de maldiciones y monstruos para que nadie se acerque. En cualquier caso, no tienen problemas el sacar la jaiba y cortar los gaznates de los intrusos.
 
 #### Rituales
 
@@ -614,7 +614,7 @@ La Mano Dorada de Suc’Naath es un culto muy pequeño, pero muy poderoso, solo 
 
 #### Lugares de culto y refugios
 
-Actualmente, no tiene ningún lugar de culto fijo. 
+En la actualidad no tiene ningún lugar de culto fijo. 
 
 Toda la secta está muy activa desde que se predijo la llegada del cometa Aiin y no tienen tiempo para rituales. Todos andan buscado la estatua que guarda la tercera parte de la esencia Suc’Naath. Antes de estos hechos tampoco eran de mucha ceremonia y rito, quedaban en khans perdidos en la nada para hacer sus extraños ritos de baile lejos de miradas indiscretas.
 
@@ -634,9 +634,9 @@ Los adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma d
 
 #### Situación actual
 
-Actualmente, la secta está muy activa, los astrónomos han predicho que el cometa llamado Aiin se acerca a la Tierra y no volverá hasta dentro de muchos años.
+En la actualidad la secta está muy activa, los astrónomos han predicho que el cometa llamado Aiin se acerca a la Tierra y no volverá hasta dentro de muchos años.
 
-Esto hace que la Mano Dorada es moviéndose frenéticamente para encontrar la estatua perdida de Suc’Naath y buscar una forma de poder acercarse al cometa. La esencia de Suc’Naath ya corre por las venas de Ziba, así que esa parte ya está completada.
+Esto hace que la Mano Dorada es moviéndose frenéticamente para encontrar la estatua perdida de Suc’Naath y buscar un modo de poder acercarse al cometa. La esencia de Suc’Naath ya corre por las venas de Ziba, así que esa parte ya está completada.
 
 \sinc
 
@@ -670,7 +670,7 @@ Los primeros cultistas eran incapaces de asumir todas las implicaciones que supo
 
 Esta secta sirve como agentes humanos a los al mighos evitando principalmente que el resto de la gente meta sus narices en los territorios donde los al mighos extraen sus metales extraños.
 
-Con los años se han radicalizado, convirtiendo el asesinato su principal forma de interactuar con los problemas y los posibles intrusos.
+Con los años se han radicalizado, convirtiendo el asesinato su principal manera de interactuar con los problemas y los posibles intrusos.
 
 La secta está también muy militarizada y ha conseguido meter agentes en el ejército del Califa de Bagdad, incluso en sus altas esferas. De hecho, el sumo sacerdote del culto es uno de los generales más condecorados del Califa de Bagdad.
 
@@ -826,7 +826,7 @@ A la hora de compartir zonas tenemos varias ideas de como hacerlo.
 \sp
 
 * **Accidentes geográficos de gran tamaño** podrían ser usados como frontera entre ambos mundos, de forma que tras una gran cordillera como el Cáucaso nos encontraríamos en la Meseta de Leng. Quizás ciertas partes muy alejadas del desierto del Sahara conecten con el desierto Oriental y tras atravesarlo acabar en Kadatheron.
-* **Lugares misteriosos de gran poder e historia** podrían estar en varios planos a la vez, de forma que entras Petra desde la Vigilia y al salir estás en su versión onírica. Quizás si hicieron noche en sus corredores y pasajes al despertar y salir al exterior ya no estén en nuestro mundo sino en las Tierras del Sueño.
+* **Lugares misteriosos de gran poder e historia** podrían estar en varios planos a la vez, de manera que entras Petra desde la Vigilia y al salir estás en su versión onírica. Quizás si hicieron noche en sus corredores y pasajes al despertar y salir al exterior ya no estén en nuestro mundo sino en las Tierras del Sueño.
 * **Tempestades, tifones, tormentas de arena y ventiscas de nieve y hielo** pueden hacer que tus schahriars se pierdan o naufraguen para acabar en extrañas tierras como las costas de los 6 Reinos. Es fácil pensar que alguno de sus viajes, Sindbad el marino pueda haber estado en las Tierras del Sueño.
 
 Aquí te presentamos algunas opciones de territorios compartidos:
@@ -843,7 +843,7 @@ A todo esto, debes recordar que no es normal que una persona despierta visite la
 
 Los cuentos de las 1001 Noches y la Tierra de los Sueños son muy combinables, no solo por su carácter medieval fantástico, sino también porque Lovecraft se inspiró en las 1001 Noches para desarrollar sus Tierras del Sueño.
 
-Quizás esta sea la más complicada y trabajosa de todas las opciones, pero encajar una versión onírica de Bagdad o Damasco en el desierto oriental puede ser muy interesante. El planteamiento es a priori sencillo. Tendríamos una ciudad de inspiración árabe no solo en sus costumbres y tradiciones, sino también en su forma de gobernarse, su magia, su comercio, sus historias, su religión, su artesanía, etc. en la que desarrollar todo tipo de tramas.
+Quizás esta sea la más complicada y trabajosa de todas las opciones, pero encajar una versión onírica de Bagdad o Damasco en el desierto oriental puede ser muy interesante. El planteamiento es a priori sencillo. Tendríamos una ciudad de inspiración árabe no solo en sus costumbres y tradiciones, sino también en su modo de gobernarse, su magia, su comercio, sus historias, su religión, su artesanía, etc. en la que desarrollar todo tipo de tramas.
 
 Schahriars de la propia ciudad o extranjeros de otros continentes de las Tierras del Sueño recorrerían sus calles y correrían todo tipo aventuras mientras huyen de los guardias de la ciudad. Salvarían a la califesa o al califa de sus enemigos, derrotarían invasiones de bestias lunares o volarían en alfombra mágica hasta el Bosque Encantado en busca de una cura milagrosa eludiendo a las antropófagas tribus de zoogs.
 
@@ -876,7 +876,7 @@ La sociedad árabe que vemos en las 1001 Noches es una sociedad medieval con sus
 
 Aun así, en muchos aspectos es mucho más abierto que otras sociedades contemporáneas de la época. Es bastante permisiva religiosamente, permitiendo a sus gentes profesar las creencias que se deseen, o los siervos no estaban tan controlados por los nobles a los que rendían pleitesía. Las orientaciones sexuales eran más respetadas que no totalmente aceptadas y las mujeres tienen más opciones de trabajo y progreso, dándose casos de acceso a estudios superiores.
 
-De todas formas, todas estas descripciones del mundo de las 1001 Noches son solo indicaciones. Eres libre de seguirlas o no.
+De todas maneras, todas estas descripciones del mundo de las 1001 Noches son solo indicaciones. Eres libre de seguirlas o no.
 
 ### Clases sociales y títulos nobiliarios
 
@@ -888,9 +888,9 @@ Tenemos nobles, como califas y emires, clérigos, como imanes y kadís, y luego 
 
 De hecho, muchos personajes importantes tienen orígenes humildes como Aladino que era hijo de un humilde zapatero remendón o Alí Babá que era el más pobre leñador de su pueblo.
 
-Muchas veces las clases sociales no se diferencian por su origen sino por su dinero, de forma que obteniendo dinero y haciéndote rico asciendes en la escalera social. Los ricos comerciantes
+Muchas veces las clases sociales no se diferencian por su origen sino por su dinero, de tal manera que obteniendo dinero y haciéndote rico asciendes en la escalera social. Los ricos comerciantes
 
-Si bien puede ser cosa de los cuentos, los estamentos son cajas cerradas en la que naces, creces y mueres. Moverse entre estamentos es algo posible de muchas formas. Veamos algunos ejemplos.
+Aunque los estamentos son cajas cerradas en la que naces, creces y mueres, moverse entre estamentos es algo posible de muchas formas. Veamos algunos ejemplos.
 
 * Es bastante común **hacer un favor a un gobernante** y que este te ascienda socialmente. Hay varias historias en que el Califa de Bagdad se disfraza de mercader para conocer a su pueblo y termina convirtiendo a un pescador en un chambelán o una vendedora en su consejera.
 * Los **matrimonios** entre la clase más baja y la más alta son algo normal. Se conocen y se enamoran sin saber su origen social. Cuando se va a formalizar el matrimonio, los padres de la clase superior impondrán algún tipo de prueba rocambolesca al pretendiente de clase baja.
@@ -946,13 +946,13 @@ Normalmente, hay maltratos (azotes, estacazos, puñetazos y patadas) continuos c
 
 Es importante destacar que solo los infieles pueden caer en la esclavitud, ningún creyente puede ser esclavizado. Así pues, la fuente principal de esclavos son las guerras con potencias extranjeras. Los prisioneros de guerra podían convertirse al Islam, pagar un rescate/impuesto o caer en la esclavitud.
 
-La otra forma de conseguir esclavos es si tienen descendencia. Los hijos e hijas de personas esclavizadas se convierten en esclavos.
+La otra manera de conseguir esclavos es si tienen descendencia. Los hijos e hijas de personas esclavizadas se convierten en esclavos.
 
 Los cristianos y judíos al aparecer en el Antiguo Testamento eran considerados “gentes del libro” y se encontraban libres del peligro de la esclavitud siempre que pagaran un impuesto.
 
 Muchas veces en las historias de las 1001 Noches, los esclavos son tratados como parte de la servidumbre de la casa y son llamados siervos y criados, aunque en realidad fueran personas esclavizadas. Es bastante frecuente que parte de la servidumbre de un emir o un califa sean esclavos y personas libres y les trate de igual manera.
 
-Los amos pueden liberar a sus esclavos y obtener su libertad, pero no era lo común. Lo más normal es que los y las esclavas ganaran cierta libertad al convertirse en concubinas y concubinos. Otras formas eran pagar por tu libertad. Llegabas a un acuerdo de pagarle a tu amo cierta cantidad de dinero y obtenías el derecho a trabajar para otros después de trabajar para tu señor. Con el dinero ganado pagabas tu libertad.
+Los amos pueden liberar a sus esclavos y obtener su libertad, pero no era lo común. Lo más normal es que los y las esclavas ganaran cierta libertad al convertirse en concubinas y concubinos. Otro método era pagar por tu libertad. Llegabas a un acuerdo de pagarle a tu amo cierta cantidad de dinero y obtenías el derecho a trabajar para otros después de trabajar para tu señor. Con el dinero ganado pagabas tu libertad.
 
 \sp
 
@@ -1066,7 +1066,7 @@ Dos personas se enzarzan en un combate de presas y llaves dentro de un círculo.
 > 
 > **Referencia:** Los amores de Zein Al-Mawassif (n. 655)
 
-El shatranj es una forma previa del ajedrez de origen persa. Este juego es el preferido de las clases pudientes, que les permite distinguirse de la calaña que juega a los dados.
+El shatranj es una versión previa del ajedrez de origen persa. Este juego es el preferido de las clases pudientes, que les permite distinguirse de la calaña que juega a los dados.
 
 \sp
 
@@ -1123,7 +1123,7 @@ El divorcio es algo que aparece en varias de las historias, nombrado o como part
 > 
 > **Referencia:** Historia del libro mágico (n. 899)
 
-Es normal que en una cultura con poligamia haya formas de romper esas relaciones. Normalmente, hay que hablar con un kadí para que registre el divorcio y establezca la repartición de bienes.
+Es normal que en una cultura con poligamia haya métodos de romper esas relaciones. Normalmente, hay que hablar con un kadí para que registre el divorcio y establezca la repartición de bienes.
 
 Pero seamos sinceros, que exista el divorcio no quiere decir que todo el mundo pueda ser libre de divorciarse, en especial las mujeres.
 

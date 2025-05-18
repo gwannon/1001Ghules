@@ -1,6 +1,6 @@
 # Magia Sihr
 
-La magia o sihr en las 1001 Noches es un elemento importantísimo. Hay pocas historias sin que haya alguien que practique algún tipo de hechizo o use algún tipo de ingenio mágico. Piensa en el simple "Ábrete, sésamo" de Alibaba o el poderoso genio que cumplía todas las órdenes de Aladino. Sin olvidarnos de caballos mecánicos voladores o de espadas danzantes.
+La magia o sihr en las 1001 Noches es un elemento importantísimo. Hay pocas historias sin que haya alguien que practique algún tipo de hechizo o use algún tipo de ingenio mágico. Piensa en el simple «Ábrete, sésamo» de Alibaba o el poderoso genio que cumplía todas las órdenes de Aladino. Sin olvidarnos de caballos mecánicos voladores o de espadas danzantes.
 
 La magia también es algo fundamental en los Mitos de Cthulhu, pero es bastante distinta de la magia que vemos en los cuentos. La magia de los cuentos es una magia muy clásica que se centra en poderes muy sencillos, volar, curar, hablar con los animales, transformar en rana, nadar como un pez, etc. Nada que ver con los terribles hechizos que presenta el autor de Providence en sus obras. Conceptos como teletransporte, psicometría o viajes en el tiempo no existen en la magia de las 1001 Noches. Por suerte, los mitos se encargan de introducir conceptos modernos a la magia clásica de las 1001 Noches.
 
@@ -462,16 +462,15 @@ _Poder:_ Aura dañina
 
 Frotando azufre con firmeza y rapidez en tu tripa se crea un fuego que te cubre todo el cuerpo. Tu respiración sale de tu cuerpo en forma de humos y vapores sulfúricos. Tu cuerpo emite vapores ardientes y llamas infernales.
 
-
 ### Aceite de dan dan
 
 _Poder:_ Protección medioambiental (agua y presión)
 
-> Al oír estas palabras, el terrestre dijo al marítimo: "En ese caso, no tengo inconveniente en sumergirme contigo. ¡Tráeme, pues, el ungüento consabido para que lo ensaye!" El marítimo contestó: "¡Eso es lo que voy a hacer!" Y se llevó el cesto de frutas y se metió en el mar para volver al cabo de unos instantes llevando en las manos una vasija llena de un ungüento parecido a la grasa de las vacas y de un color amarillo como el oro, y de un olor absolutamente delicioso. 
+> Al oír estas palabras, el terrestre dijo al marítimo: «En ese caso, no tengo inconveniente en sumergirme contigo. ¡Tráeme, pues, el ungüento consabido para que lo ensaye!» El marítimo contestó: «¡Eso es lo que voy a hacer!» Y se llevó el cesto de frutas y se metió en el mar para volver al cabo de unos instantes llevando en las manos una vasija llena de un ungüento parecido a la grasa de las vacas y de un color amarillo como el oro, y de un olor absolutamente delicioso. 
 
 \sp
 
-> Y preguntó Abdalah de la Tierra: "¿Con qué se compone este ungüento?" El otro contestó: "Se compone con grasa del hígado de una especie entre las especies de peces que se llama dan dan. ¡Y este pez dan dan es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!"
+> Y preguntó Abdalah de la Tierra: «¿Con qué se compone este ungüento?» El otro contestó: «Se compone con grasa del hígado de una especie entre las especies de peces que se llama dan dan. ¡Y este pez dan dan es el más enorme de todos los peces del mar, hasta el extremo de que de un solo bocado devoraría sin dificultad lo que vosotros los terrestres llamáis un elefante o un camello!»
 > 
 > **Referencia:** Historia de Abdalah de la tierra y de Abdalah del mar (n. 512)
 
@@ -511,7 +510,7 @@ Al mojar tus babuchas, estás se vuelven transparentes, como de agua pura, y aum
 
 _Poder:_ Destierro
 
-> Y el rey dijo: "¡Es preciso que al instante devuelvas el brazalete talismánico a este hijo de Adán, pues de no hacerlo así tendrás que entendértelas conmigo!" Pero el genni, que era un cochino obstinado, contestó con altanería: "¡El brazalete lo tengo yo, y no lo tendrá nadie más!" Y así diciendo, abrió una boca como un horno, y echó en ella el brazalete, que desapareció dentro.
+> Y el rey dijo: «¡Es preciso que al instante devuelvas el brazalete talismánico a este hijo de Adán, pues de no hacerlo así tendrás que entendértelas conmigo!» Pero el genni, que era un cochino obstinado, contestó con altanería: «¡El brazalete lo tengo yo, y no lo tendrá nadie más!» Y así diciendo, abrió una boca como un horno, y echó en ella el brazalete, que desapareció dentro.
 > 
 > **Referencia:** Historia del segundo saaluk (n. 14)
 
@@ -543,7 +542,7 @@ Sabiendo el auténtico nombre de los umbrales, ninguna puerta se te resiste.
 
 _Poder:_ Buscar el camino
 
-> Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales, y no dejó de descubrir por aquel lado el sitio en que se hallaba la entrada a mi reino subterráneo.
+> Solo entonces le dijo el sabio Offán: «¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!» Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales, y no dejó de descubrir por aquel lado el sitio en que se hallaba la entrada a mi reino subterráneo.
 > 
 > **Referencia:** Historia de Belukia (n. 358)
 
@@ -575,7 +574,7 @@ Invocas una gota de diamante líquido que incinera el objetivo que toca.
 
 \sp
 
-### Dominio del agua, fuego,tierra, viento
+### Dominio del agua, fuego, tierra y viento
 
 _Poder:_ Manipulación elemental
 
@@ -583,13 +582,13 @@ _Poder:_ Manipulación elemental
 > 
 > **Referencia:** Historia de Belukia (n. 361)
 
-Tradicionalmente, los yinns han tenido un aspecto elemental asociándolos con agua, fuego, viento, desierto, etc. El mago o la maga pide un "deseo menor" a los yinns asociados al elemento para conseguir los efectos de ese elemento que buscan, encontrar agua, cocinar comida, hinchar las velas del barco, etc.
+Tradicionalmente, los yinns han tenido un aspecto elemental asociándolos con agua, fuego, viento, desierto, etc. El mago o la maga pide un «deseo menor» a los yinns asociados al elemento para conseguir los efectos de ese elemento que buscan, encontrar agua, cocinar comida, hinchar las velas del barco, etc.
 
 ### Dotar de alas
 
 _Poder:_ Vuelo
 
-> …les brotaban alas de los hombros, y se convertían en volátiles. Podían volar entonces hasta lo más alto de la bóveda aérea, y se aprovechaban de su nuevo estado para volar todos fuera de la ciudad, dejando en esta a los niños y mujeres, a quienes nunca brotaban alas.
+> … les brotaban alas de los hombros, y se convertían en volátiles. Podían volar entonces hasta lo más alto de la bóveda aérea, y se aprovechaban de su nuevo estado para volar todos fuera de la ciudad, dejando en esta a los niños y mujeres, a quienes nunca brotaban alas.
 > 
 > **Referencia:** La séptima historia de las historias de Sindbad el marino, que trata de la séptima y última historia (n. 314)
 
@@ -613,7 +612,8 @@ El hechizo se termina al cerrar la botella con su tapón o tapa. El ser desterra
 
 _Poder:_ Adivinación
 
-> Y un día que estaba más lleno de rencor que de ordinario acabó por sentir curiosidad por los detalles de la muerte de Aladino. Y a este efecto, como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: "Está bien, ¡oh arena! veamos. ¿Qué ha sido de la lámpara mágica? ¿Y cómo murió ese hijo de alcahuete, ese miserable, que se llamaba Aladino?" Y pronunciando estas palabras agitó la arena con arreglo al rito. Y he aquí que nacieron las figuras y se formó el horóscopo. Y el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que Aladino no estaba muerto, sino muy vivo, que era dueño de la lámpara mágica y que vivía con esplendor, riquezas y honores, casado con la princesa Badrú’l-Budur, hija del rey de la China, a la cual amaba y la cual le amaba, y por último, que no se le conocía en todo el imperio de la China e incluso en las fronteras del mundo más que con el nombre del emir Aladino.
+> Y un día que estaba más lleno de rencor que de ordinario acabó por sentir curiosidad por los detalles de la muerte de Aladino. Y a este efecto, como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: «Está bien, ¡oh arena! veamos. ¿Qué ha sido de la lámpara mágica? ¿Y cómo murió ese hijo de alcahuete, ese miserable, que se llamaba Aladino?» Y pronunciando estas palabras agitó la arena con arreglo al rito. Y he aquí que nacieron las figuras y se formó el horóscopo.
+> Y el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que Aladino no estaba muerto, sino muy vivo, que era dueño de la lámpara mágica y que vivía con esplendor, riquezas y honores, casado con la princesa Badrú’l-Budur, hija del rey de la China, a la cual amaba y la cual le amaba, y por último, que no se le conocía en todo el imperio de la China e incluso en las fronteras del mundo más que con el nombre del emir Aladino.
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 764)
 
@@ -645,7 +645,7 @@ Aspiras fuerte y tu tripa se lleva de aire que te permite elevarte y volar. Cont
 
 _Poder:_ Transmutación
 
-> /p/ Apenas escuchó ella mis palabras, cogió una cacerola de cobre, llenándola de agua y pronunciando sus conjuros mágicos. Después roció con el líquido a la estatua, y le dijo: “Si te crearon estatua, sigue estatua, sin cambiar de forma; pero si estás encantado, recobra tu figura primera con el permiso de Suc’Naath”
+> /p/ Apenas escuchó ella mis palabras, cogió una cacerola de cobre, llenándola de agua y pronunciando sus conjuros mágicos. Después roció con el líquido a la estatua, y le dijo: «Si te crearon estatua, sigue estatua, sin cambiar de forma; pero si estás encantado, recobra tu figura primera con el permiso de Suc’Naath».
 > /p/ 
 > /p/ **Referencia:** Cuento del primer Jeque (n. 2)
 
@@ -655,7 +655,7 @@ Usando algún tipo de recipiente lleno de agua para salpicar al objetivo y hacie
 
 _Poder:_ Manipulación de recuerdos
 
-> /p/ Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: "Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infringiré mañana".
+> /p/ Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: «Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infligiré mañana».
 
 \sp
 
@@ -681,7 +681,7 @@ _Poder:_ Zombis
 
 > /p/ Yendo en contra de todos los mandatos del Libro, Huseeim, como un hábil carnicero del zoco despiezando carneros, corto por la mitad los cadáveres que sus acólitos habían desenterrado y robado. Con sus ropajes ceremoniales llenos de sangre y vísceras, empezó a recitar en lengua judaica los mantras talismánicos hasta que una de las mitades en un estertor movió su pierna.
 
-Necesitarás cadáveres completos y relativamente reciente y cortarlos por la mitad de arriba abajo. De esa forma, cuando el cadáver se levante, será un nasnas. Si no se cortan los cadáveres, se obtendrán zombis normales.
+Necesitarás cadáveres completos y relativamente reciente y cortarlos por la mitad de arriba abajo. De esa manera, cuando el cadáver se levante, será un nasnas. Si no se cortan los cadáveres, se obtendrán zombis normales.
 
 La ventaja del nasnas es que es más poderoso y obtenemos 2 nasnas por cadáver, pero exige más tiempo de preparación.
 
@@ -703,9 +703,9 @@ No se puede usar para iluminar una zona, ya que los destellos no duran ni segund
 
 _Poder:_ Invocar montura
 
-> Al cabo de cierto tiempo, el magrebí preguntó a Juder: "¿Sabes ¡oh Juder! el camino que hemos recorrido desde El Cairo hasta aquí?" Juder contestó: "¡Por Alah, que no lo sé!" El otro dijo: "En dos horas hemos recorrido exactamente un trayecto que exige un mes de camino, por lo menos!" Juder preguntó: "¿Y cómo es eso?"  
-> El otro dijo: "¡Sabe, oh Juder! que esta mula que montamos es nada menos que una gennia entre los genn. En un día suele recorrer el trayecto de un año de camino; pero hoy va despacio, al paso, para que no te fatigues".\[…\]  
-> En cuanto al magrebí, comenzó primero por coger del lomo de la mula el saco, y dijo: "¡Oh, mula, vuélvete al sitio de donde viniste! ¡Y Alah te bendiga!"  
+> Al cabo de cierto tiempo, el magrebí preguntó a Juder: «¿Sabes ¡oh Juder! el camino que hemos recorrido desde El Cairo hasta aquí?» Juder contestó: «¡Por Alah, que no lo sé!» El otro dijo: «En dos horas hemos recorrido exactamente un trayecto que exige un mes de camino, por lo menos!» Juder preguntó: «¿Y cómo es eso?»  
+> El otro dijo: «¡Sabe, oh Juder! que esta mula que montamos es nada menos que una gennia entre los genn. En un día suele recorrer el trayecto de un año de camino; pero hoy va despacio, al paso, para que no te fatigues».\[…\]  
+> En cuanto al magrebí, comenzó primero por coger del lomo de la mula el saco, y dijo: «¡Oh, mula, vuélvete al sitio de donde viniste! ¡Y Alah te bendiga!»  
 > Y he aquí que de pronto se abrió la tierra y recibió en su seno a la mula para cerrarse sobre ella inmediatamente.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 471)
@@ -740,7 +740,7 @@ _Poder:_ Marioneta
 
 > /p/ Badrú’l-Budur estaba embaucada por los ojos de la vieja santa, unos ojos profundos y de color cambiante que le hacían obedecer las órdenes de la jeiquesa por perversos y antinaturales que pudieran parecer a una persona auténticamente creyente.
 
-Los ojos del brujo o bruja toman la forma de los de una serpiente y sus víctimas no puede dejar de mirarlos.
+Los ojos del brujo o bruja toman la apariencia de los de una serpiente y sus víctimas no puede dejar de mirarlos.
 
 ### Plantas sanadoras
 
@@ -769,15 +769,15 @@ Los pelos de gigante tienen muchos usos como cuerdas o componentes mágicos, per
 
 _Poder:_ Disfraz
 
-> "¡Oh amos míos! ¡Loores a Alah, que ha armado el brazo de una débil muchacha para vengaros del jefe de vuestros enemigos!
+> «¡Oh amos míos! ¡Loores a Alah, que ha armado el brazo de una débil muchacha para vengaros del jefe de vuestros enemigos!»
 
 \sc
 
-> ¡Ved si este muerto no es el mercader de aceite, el propio capitán de los ladrones con sus mismos ojos, el hombre que no quería probar la sal sagrada de la hospitalidad!" Y así diciendo, despojó de su manto el cuerpo yacente, e hizo ver bajo su larga barba y el disfraz con que se había embozado para la circunstancia al enemigo que juró destruirles.
+> «¡Ved si este muerto no es el mercader de aceite, el propio capitán de los ladrones con sus mismos ojos, el hombre que no quería probar la sal sagrada de la hospitalidad!» Y así diciendo, despojó de su manto el cuerpo yacente, e hizo ver bajo su larga barba y el disfraz con que se había embozado para la circunstancia al enemigo que juró destruirles.
 > 
 > **Referencia:** Historia de Alí Babá y los cuarenta ladrones (n. 859)
 
-Cambiando de alguna forma tu pelo o vello, cortando tu barba o recortando el flequillo o añadiendo una barba postiza o una peluca, consigues cambiar de apariencia. Es necesario que el cambio tenga relación con el disfraz, pero de una forma muy general. Por ejemplo, afeitarse para ser más joven o ponerse una barba para ser más viejo. Si a tu mesa le resulta un problema por inseguridades físicas u otros temas, déjalo solo en cualquier cambio capilar, sea el que sea.
+Cambiando de alguna manera tu pelo o vello, cortando tu barba o recortando el flequillo o añadiendo una barba postiza o una peluca, consigues cambiar de apariencia. Es necesario que el cambio tenga relación con el disfraz, pero de una forma muy general. Por ejemplo, afeitarse para ser más joven o ponerse una barba para ser más viejo. Si a tu mesa le resulta un problema por inseguridades físicas u otros temas, déjalo solo en cualquier cambio capilar, sea el que sea.
 
 ### Mecer
 
@@ -815,7 +815,7 @@ Consumiendo una pequeña parte del animal en el que se desea convertirse, puedes
 
 _Poder:_ Invisibilidad
 
-> /p/ Los extraños que habitan aquellas ruinas reptaban hacia ella, dejando surcos en la arena que el desierto, el viento y el tiempo habían acumulado dentro de la sala. Nahid sacó su capa y la lanzó delante suyo y cuando esta cayó al suelo había desaparecido para asombro de los reptadores.
+> /p/ Los extraños que habitan aquellas ruinas reptaban hacia ella, dejando surcos en la arena que el desierto, el viento y el tiempo habían acumulado dentro de la sala. Nahid sacó su capa y la lanzó delante de él y cuando esta cayó al suelo había desaparecido para asombro de los reptadores.
 
 La persona que lanza este hechizo debe, por lo menos, parcialmente ocultarse a la vista de sus objetivos, por ejemplo, tapándose con una capa, ocultándose detrás de una columna, etc.
 
@@ -864,7 +864,7 @@ El lanzamiento de una maldición empieza con el lanzamiento del hechizo de un no
 
 Para deshacer una maldición hay dos opciones, cumplir la condición para romperla o lanzar una contra-maldición.
 
-Para lanzar una contra-maldición hay que lanzar la misma maldición con las mismas condiciones (PP, modificaciones, etc.) e igualar o superar la tirada que saco el maldecidor al lanzarla. Si se consigue la tirada, la maldición se rompe. Hay que tener en cuenta que no hay TPCs ni se consume un PP permanentemente.
+Para lanzar una contra-maldición hay que lanzar la misma maldición con las mismas condiciones (PP, modificaciones, etc.) e igualar o superar la tirada que saco el maldecidor al lanzarla. Si se consigue la tirada, la maldición se rompe. Hay que tener en cuenta que no hay TPC ni se consume un PP permanentemente.
 
 La opción de deshacer una maldición cumpliendo una condición queda a discreción de Scheherazade y normalmente cumplir esa condición es una buena semilla de relato.
 
@@ -874,7 +874,7 @@ La opción de deshacer una maldición cumpliendo una condición queda a discreci
 
 \sp
 
-Los seguidores y súbditos caen víctimas de la maldición automáticamente, a no ser que estén en situaciones estresantes como combates en cuyo caso tienen derecho a tirada opuesta.
+Los seguidores y súbditos caen víctimas de la maldición automáticamente, a no ser que estén en situaciones estresantes como combates en cuyo caso tienen derecho a una tirada enfrentada.
 
 ### Maldiciones más conocidas
 
@@ -885,11 +885,11 @@ En este listado tendrás una mezcla de maldiciones de las 1001 Noches con un toq
 * **Resistencia:** VIG
 * **Puntos de poder:** 6
 
-> Entonces el derviche se puso muy pálido y su rostro tomó un aire de dureza que no conocía yo en él, y me dijo: "Te vuelves ciego con tus propias manos". Y tomó un poco de pomada y me la aplicó alrededor del ojo derecho y en el párpado derecho. Y ya no vi más que tinieblas con mis dos ojos, y me convertí en el ciego que ves, ¡oh Emir de los Creyentes!
+> Entonces el derviche se puso muy pálido y su rostro tomó un aire de dureza que no conocía yo en él, y me dijo: «Te vuelves ciego con tus propias manos». Y tomó un poco de pomada y me la aplicó alrededor del ojo derecho y en el párpado derecho. Y ya no vi más que tinieblas con mis dos ojos, y me convertí en el ciego que ves, ¡oh Emir de los Creyentes!
 > 
 > **Referencia:** Historia del ciego que se hacía abofetear en el puente (n. 876)
 
-La víctima quedará completamente ciega hasta que se retire la maldición. Obtendrá la desventaja ciego (Mayor). Normalmente la condición para retirar la maldición debería ser algún tipo de ungüento para los ojos o algún tipo de objeto con poderes curativos.
+La víctima quedará completamente ciega hasta que se retire la maldición. Obtendrá la desventaja Ciego (Mayor). Normalmente la condición para retirar la maldición debería ser algún tipo de ungüento para los ojos o algún tipo de objeto con poderes curativos.
 
 #### Encerrar en una botella
 
@@ -898,7 +898,7 @@ La víctima quedará completamente ciega hasta que se retire la maldición. Obte
 
 Esta maldición es una forma permanente del hechizo Destierro. 
 
-> Al oírle, el efrit intentó salir, pero no pudo, y vio que estaba encarcelado y tenía encima el sello de Suleimán, convenciéndose entonces de que el pescador le había encerrado en un calabozo contra el cual no pueden prevalecer ni los más débiles ni los más fuertes de los efrits. Y comprendiendo que el pescador le llevaría hacia el mar, suplicó: «¡No me lleves! ¡No me lleves!» Y el pescador dijo: «No hay remedio». Entonces, dulcificando su lenguaje, exclamó el efrit: «¡Ah pescador! ¿Qué vas a hacer conmigo?» El otro dijo: «Echarte al mar, que si has estado en él mil ochocientos años, no saldrás esta vez hasta el día del Juicio. ¿No te rogué yo que me dejaras la vida para que Alah la conservase a ti y no me mataras para que Alah no te matase? Obrando infamemente, rechazaste mi plegaria. Por eso Alah te ha puesto en mis manos, y no me remuerde el haberte engañado». Entonces dijo el efrit: «Ábreme el jarrón y te colmaré de beneficios». El pescador respondió: «Mientes, ¡oh maldito! …
+> Al oírle, el efrit intentó salir, pero no pudo, y vio que estaba encarcelado y tenía encima el sello de Suleimán, convenciéndose entonces de que el pescador le había encerrado en un calabozo contra el cual no pueden prevalecer ni los más débiles ni los más fuertes de los efrits. Y comprendiendo que el pescador le llevaría hacia el mar, suplicó: «¡No me lleves! ¡No me lleves!» Y el pescador dijo: «No hay remedio». Entonces, dulcificando su lenguaje, exclamó el efrit: «¡Ah pescador! ¿Qué vas a hacer conmigo?» El otro dijo: «Echarte al mar, que si has estado en él mil ochocientos años, no saldrás esta vez hasta el día del Juicio. ¿No te rogué yo que me dejaras la vida para que Alah la conservase a ti y no me mataras para que Alah no te matase? Obrando infamemente, rechazaste mi plegaria. Por eso Alah te ha puesto en mis manos, y no me remuerde el haberte engañado». Entonces dijo el efrit: «Ábreme el jarrón y te colmaré de beneficios». El pescador respondió: «Mientes, ¡oh maldito! …»
 > 
 > **Referencia:** Historia del pescador y el efrit (n. 4)
 
@@ -917,7 +917,7 @@ Algún schahriar inteligente podría meter a una persona con una enfermedad term
 * **Resistencia:** VIG
 * **Puntos de poder:** 6
 
-> «Sabrás, ¡oh, efrit! que, en la antigüedad del tiempo y en lo pasado de la edad, hubo en la ciudad de Fars, en el país de los rumán, un rey llamado Yunán. Era rico y poderoso, señor de ejércitos, dueño de fuerzas considerables y de aliados de todas las especies de hombres. Pero su cuerpo padecía una lepra que desesperaba a los médicos y a los sabios.
+> Sabrás, ¡oh, efrit! que, en la antigüedad del tiempo y en lo pasado de la edad, hubo en la ciudad de Fars, en el país de los rumán, un rey llamado Yunán. Era rico y poderoso, señor de ejércitos, dueño de fuerzas considerables y de aliados de todas las especies de hombres. Pero su cuerpo padecía una lepra que desesperaba a los médicos y a los sabios.
 
 \sc
 
@@ -955,7 +955,7 @@ Esta maldición se refleja en un Hábito (Mayor) que obliga al schahriar a consu
 * **Resistencia:** VIG
 * **Puntos de poder:** 10
 
-> se puso de pie, pronunciando unas palabras misteriosas, y dijo: “Por la virtud de mi magia, que Alah te convierta mitad piedra y mitad hombre". E inmediatamente, señor, quedé como me ves. Y ya no puedo valerme ni hacer un movimiento, de suerte que no estoy ni muerto ni vivo.
+> se puso de pie, pronunciando unas palabras misteriosas, y dijo: «Por la virtud de mi magia, que Alah te convierta mitad piedra y mitad hombre». E inmediatamente, señor, quedé como me ves. Y ya no puedo valerme ni hacer un movimiento, de suerte que no estoy ni muerto ni vivo.
 > 
 > **Referencia:** Historia del joven encantado y de los peces (n. 8)
 
@@ -1085,7 +1085,6 @@ Los libros, si te dan acceso, pueden copiarse. Su magia no está en el libro en 
 
 Si la copia es mala o se hace rápidamente, podrías quitarle niveles de poder. Es un proceso tan largo que debería hacerse entre partidas y, como siempre, exige conocer el idioma del libro para poder copiarlo.
 
-
 ### Vender y comprar grimorios
 
 Los libros son artículos de lujo, solo al alcance de la gente más rica y de las personas de más alto rango social. Y los grimorios mágicos son todavía más exclusivos. Es por ello que comprar y vender un manuscrito mágico debería ser casi el tema principal de un cuento salvaje.
@@ -1114,7 +1113,7 @@ Crear un grimorio mágico es bastante fácil, solo necesitas, un título atracti
 
 Es interesante que le metas alguna regla que lo haga especial, como que puede encontrarse en varios tomos o que solo puede ofrecer hechizos con ornamentos de fuego.
 
-Te ofrecemos un listado con grimorios mágicos reales o inventados tanto de las 1001 Noches como de los Mitos de Cthulhu que cuadren en la época de esta ambientación.
+Te ofrecemos un listado con grimorios mágicos auténticos o inventados tanto de las 1001 Noches como de los Mitos de Cthulhu que cuadren en la época de esta ambientación.
 
 \sp
 
@@ -1141,7 +1140,6 @@ Es un libro oracular chino cuyos primeros textos se suponen escritos hacia el 12
 **Idioma:** Latín
 
 El libro describe la vida de Eibon, un hechicero y nigromante hiperbóreo, así como varios hechizos, conjuros e invocaciones.
-
 
 El libro original está escrito en el lenguaje hiperbóreo pictográfico conocido como tsath-yo. Pero se han hecho traducciones al latín y griego jónico.
 

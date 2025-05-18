@@ -58,7 +58,7 @@ Dentro de los objetos especiales podemos tener armas, cuerpo a cuerpo o a distan
 |6|**Protecciones.** Tira en la Tabla de Protecciones y luego en la de capacidades.|
 |7-8|**Objetos mundanos.** Tira en la Tabla de Objetos mundanos.|
 |9|**Objetos mágicos.** Tira en la Tabla de Objetos mágicos.|
-|10|**Grimorio .** Tira en la Tabla de Grimorios y luego en la de modificaciones.|
+|10|**Grimorio.** Tira en la Tabla de Grimorios y luego en la de modificaciones.|
 
 \conc
 
@@ -288,7 +288,7 @@ Esta ambientación está llena de objetos maravillosos de inmenso poder y muchas
 
 ### Alfombra teleportadora
 
-> Y dijo el vendedor: "¡Tú lo has dicho, señor! ¡Has de saber que, en efecto, esta alfombra está dotada de una virtud invisible que hace que al sentarse en ella sea uno transportado inmediatamente adonde quiera ir, y con tanta rapidez, que se efectúa en menos tiempo del que se tarda en cerrar un ojo y abrir el otro! Y ningún obstáculo es capaz de detenerla en su marcha, porque ante ella se aleja la tempestad, huye la tormenta, se entreabren las montañas y las murallas, y por lo mismo, resultan inútiles y vanos los candados más sólidos. ¡Y tal es ¡oh mi señor! la virtud invisible de esta alfombra de plegaria!"
+> Y dijo el vendedor: «¡Tú lo has dicho, señor! ¡Has de saber que, en efecto, esta alfombra está dotada de una virtud invisible que hace que al sentarse en ella sea uno transportado inmediatamente adonde quiera ir, y con tanta rapidez, que se efectúa en menos tiempo del que se tarda en cerrar un ojo y abrir el otro! Y ningún obstáculo es capaz de detenerla en su marcha, porque ante ella se aleja la tempestad, huye la tormenta, se entreabren las montañas y las murallas, y por lo mismo, resultan inútiles y vanos los candados más sólidos. ¡Y tal es ¡oh mi señor! la virtud invisible de esta alfombra de plegaria!»
 > 
 > **Referencia:** Historia de la princesa Nurennahar y de la bella gennia (n. 808)
 
@@ -349,7 +349,7 @@ Este objeto puede ser el perfecto Macguffin para tus campañas. Puedes dotarle d
 
 ### Armas del príncipe Diamante
 
-> cogió un cajón que había en otro agujero del muro, lo abrió y sacó de él un arco de oro con sus flechas, una espada de acero chino y un puñal con el puño de jade, y se los entregó a Diamante, diciéndole: "Este arco y sus flechas han pertenecido al profeta Saleh (¡con él la plegaria y la paz!). Esta espada que es conocida bajo el nombre de Escorpión de Suleimán, es tan excelente que si se golpeara con ella una montaña la partiría como jabón. Y por último, este puñal, fabricado en otro tiempo por el sabio Tammuz, es inapreciable para quien lo posee, porque preserva de todo ataque la virtud oculta en su hoja".
+> cogió un cajón que había en otro agujero del muro, lo abrió y sacó de él un arco de oro con sus flechas, una espada de acero chino y un puñal con el puño de jade, y se los entregó a Diamante, diciéndole: «Este arco y sus flechas han pertenecido al profeta Saleh (¡con él la plegaria y la paz!). Esta espada que es conocida bajo el nombre de Escorpión de Suleimán, es tan excelente que si se golpeara con ella una montaña la partiría como jabón. Y por último, este puñal, fabricado en otro tiempo por el sabio Tammuz, es inapreciable para quien lo posee, porque preserva de todo ataque la virtud oculta en su hoja».
 > 
 > **Referencia:** Historia espléndida del príncipe Diamante (n. 910)
 
@@ -407,9 +407,9 @@ _El caballo de ébano volando por toda la Tierra._
 
 ### Caballo de ébano
 
-> … un caballo de madera de ébano, de la calidad más negra y más rara, incrustado de oro y pedrerías, y enjaezado maravillosamente con una silla, una brida y unos estribos como solo llevan los caballos de los reyes. Así es que el rey Sabur quedó maravillado hasta el límite de la maravilla y desconcertado por la belleza y las perfecciones de aquel caballo; luego dijo: "¿Y qué virtudes tiene este caballo de ébano?"  
+> … un caballo de madera de ébano, de la calidad más negra y más rara, incrustado de oro y pedrerías, y enjaezado maravillosamente con una silla, una brida y unos estribos como solo llevan los caballos de los reyes. Así es que el rey Sabur quedó maravillado hasta el límite de la maravilla y desconcertado por la belleza y las perfecciones de aquel caballo; luego dijo: «¿Y qué virtudes tiene este caballo de ébano?»  
 >   
-> El persa contestó: "¡Oh mi señor! las virtudes que posee este caballo son cosa prodigiosa, hasta el punto de que cuando uno monta en él, parte con su jinete a través de los aires con la rapidez del relámpago, y le lleva a cualquier sitio donde se le guíe, cubriendo en un día distancias que tardaría un año en recorrer un caballo vulgar".
+> El persa contestó: «¡Oh mi señor! las virtudes que posee este caballo son cosa prodigiosa, hasta el punto de que cuando uno monta en él, parte con su jinete a través de los aires con la rapidez del relámpago, y le lleva a cualquier sitio donde se le guíe, cubriendo en un día distancias que tardaría un año en recorrer un caballo vulgar».
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414-431)
 
@@ -467,9 +467,9 @@ Las 3 estatuas son:
 
 ### Figura-reloj de pavos reales
 
-> … una gran fuente de plata, en medio de la cual se encontraba un pavo real de oro rodeado por veinticuatro pavas reales del mismo metal. Y el rey Sabur los miró con asombro, y encarándose con el rumí, le dijo: "¡Oh sabio! ¿para qué sirven este pavo y estas pavas?"  
+> … una gran fuente de plata, en medio de la cual se encontraba un pavo real de oro rodeado por veinticuatro pavas reales del mismo metal. Y el rey Sabur los miró con asombro, y encarándose con el rumí, le dijo: «¡Oh sabio! ¿para qué sirven este pavo y estas pavas?»  
 >   
-> El sabio contestó: "¡Oh mi señor! a cada hora que transcurre del día o de la noche, el pavo da un picotazo a cada una de las veinticuatro pavas y la cabalga, agitando las alas, y así sucesivamente cabalga a las veinticuatro pavas, marcando las horas; luego, cuando ha dejado transcurrir el mes de esta manera, abre la boca, y en el fondo de su gaznate aparece el cuarto creciente de la luna nueva".
+> El sabio contestó: «¡Oh mi señor! a cada hora que transcurre del día o de la noche, el pavo da un picotazo a cada una de las veinticuatro pavas y la cabalga, agitando las alas, y así sucesivamente cabalga a las veinticuatro pavas, marcando las horas; luego, cuando ha dejado transcurrir el mes de esta manera, abre la boca, y en el fondo de su gaznate aparece el cuarto creciente de la luna nueva».
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
@@ -516,7 +516,6 @@ El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llev
 > /p/ **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
 En el mismo estilo de la estatua del guerrero a caballo que corona la cúpula verde del palacio de las Maravillas de Bagdad, esta monstruosa figura de oro de unos 60 cm de altura hace que las milicias atacantes de la puerta donde se halle, caigan muertas de miedo y huyan despavoridas.
-
 
 De hecho, ningún miembro del ejército querrá acercarse a la ciudad, ya que de hacerlo empezará a recordar el terrible sonido de su aberrante flauta.
 
@@ -1609,8 +1608,6 @@ Los vasos canopos son recipientes de piedra con tapa de cabeza de animal/dios eg
 
 Estos vasos canopos seguramente fueron sacados de la pirámide acodada de Dashur, donde yace el cuerpo momificado del faraón Nefrén-Ka, conocido como el «Faraón negro».
 
-
-
 Contienen los restos del Faraón Negro, al que Nyarlathotep le concedió el poder de ver el futuro.
 
 ```
@@ -1662,6 +1659,6 @@ Si hay mucho viento o se cae sobre un terreno como rocas puntiagudas podría hac
 
 **Redes de hilo de seda:** Estas redes hechas de hilo de seda son tremendamente resistentes (consistencia 10) y muy ligeras (5 kilos). Parecen ser de origen chino y permiten atrapar peces de gran tamaño sin romperse (+1 a toda actividad de pesca). Un manitas podría adaptarlas fácilmente para crear una trampa para atrapar animales (y monstruos) de gran tamaño (tamaño 3).
 
-**Tablero de shatranj y piezas de marfil y ébano:** El shatranj es una forma previa del ajedrez de origen persa. Las piezas y el tablero son muy parecidas a los del actual ajedrez y este juego es de una altísima calidad. Su precio rondaría d6 x 1.000 dinares. Sería un buen regalo para aficionados al juego.
+**Tablero de shatranj y piezas de marfil y ébano:** El shatranj es una versión previa del ajedrez de origen persa. Las piezas y el tablero son muy parecidas a los del ajedrez y este juego es de una altísima calidad. Su precio rondaría d6 x 1.000 dinares. Sería un buen regalo para aficionados al juego.
 
 **Tinta invisible:** Está compuesto por un juego de tintero y pluma y un saquito de polvos. El mensaje que se escribe con esta tinta se hace invisible en segundos y solo se revela cuando echan encima los polvos del saquito. Hay tinta y polvos para 1d8 usos.

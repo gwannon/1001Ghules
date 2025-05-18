@@ -426,7 +426,7 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     bottom: calc(80vh + 2px);
     content: "B \A a \A g \A d \A a \A d ";
     white-space: pre;
-    background-color: var(--color-green-deepone);
+    background-color: var(--color-sand);
   }
 
   section:nth-of-type(11) .saltopagina:before,
@@ -435,7 +435,7 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     bottom: calc(77vh + 2px);
     content: "E \A p \A í \A l \A o \A g \A o ";
     white-space: pre;
-    background-color: var(--color-green-deepone);
+    background-color: var(--color-green-cthulhu);
   }
 
   #Bestiario1001Ghules section:nth-of-type(4) .saltopagina:before,
@@ -453,7 +453,7 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     bottom: calc(77vh + 2px);
     content: "T \A e \A s \A o \A r \A o \A s ";
     white-space: pre;
-    background-color: var(--color-green-deepone);
+    background-color: var(--color-sunset);
   }
 
   #Cuentos1001Ghules section:nth-of-type(4) .saltopagina:before,
@@ -462,7 +462,7 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img, section:last-of-
     bottom: calc(57vh + 2px);
     content: "C \A u \A e \A n \A t \A o \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
     white-space: pre;
-    background-color: var(--color-green-deepone);
+    background-color: var(--color-emerald);
   }
 
   #Cuentos1001Ghules section:nth-of-type(5) .saltopagina:before,

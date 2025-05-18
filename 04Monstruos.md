@@ -125,7 +125,6 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
 
 Los abu-qiths es una tribu de yinns que no tiene forma corpórea. Vinieron a la Tierra para escapar de la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y otro en una especie de boca.
 
-
 Se caracterizan por su control del viaje a través del tiempo. De hecho, se les conoce como Gran raza, ya que han sido capaces de controlar los viajes temporales. Cuando te encuentres con un abu-qith debe tener en cuenta que igual estás hablando con alguien de tu pasado o de tu futuro, con todas las implicaciones que tiene eso.
 
 Pueden mandar su mente a través del tiempo y ocupar los cuerpos de seres inteligentes de diferentes épocas. Las mentes de los cuerpos ocupados pasan al cuerpo del abu-qith y este puede usarlo para interactuar con otros abu-qiths. 
@@ -608,7 +607,6 @@ No sueles salir de sus cuevas, ya que la luz del sol les hace daño. Si bien es 
 > /p/ Eran una especie de reptiles, las líneas de su cuerpo sugerían unas veces la forma de un cocodrilo, otras las nutrias chinas, pero la mayoría de las veces recordaban a algo del que ni sabios ni gurús hubieran oído hablar. En tamaño se aproximaban a un humano pequeño, y sus patas delanteras tenían zarpas delicadas y hábiles que curiosamente se parecían a manos y dedos humanos. Pero lo más extraño de todo eran sus cabezas, que presentaban una forma que violaba todos los saberes en conjunto de todos los maestros y maestras de la Casa de la Sabiduría del Califa de Bagdad.  
 > /p/ Con nada se pueden comparar cosas así; de un instante pensé en comparaciones tan variadas como el gato, la rana del desierto, el sátiro mítico y el ser humano. Ni el propio Ebliss, padre de los cheitán, había tenido una frente tan colosal y protuberante; sin embargo, los cuernos, la falta de nariz y la mandíbula parecida a la de un cocodrilo del Nilo situaban las cosas fuera de todas las categorías establecidas.
 
-
 Esto reptiles cuadrúpedos inteligentes, como bien dice su nombre, habitan la perdida Ciudad sin Nombre. Se les representa con una gran chepa y cabezas de tamaño algo desproporcionadas.
 
 \sp
@@ -873,7 +871,7 @@ El cheitán también transforma el cuerpo de la víctima con pústulas y llagas 
     * **Camuflaje natural:** Su piel de color arena le confieren +2 a las tiradas de sigilo en el desierto.
     * **Vida en el desierto:** Llevan tanto tiempo en el desierto que conocen sus secretos. Todas las tiradas de buscar agua y comida, orientarse, cazar o hacer trampas y emboscadas obtienen +2 a las de Supervivencia en el desierto.
     * **Garras:** FUE+d4
-    * **Nactílopes:** Están acostumbrados a vivir de noche y las penalizaciones por poca luz se reducen a la mitad.
+    * **Nactílope:** Están acostumbrados a vivir de noche y las penalizaciones por poca luz se reducen a la mitad.
     * **Hechizos:** Algunos habitantes puede tener 3 hechizos y 6 PP, normalmente de ataque y Saber de Suleimán d6.
 * **Equipo:** Herramientas de piedra
 * **TPC:** d6 (manada)
@@ -903,7 +901,7 @@ Son retoños de la diosa Astarte (una máscara de Shub-Niggurath) y normalmente 
 
 ### Viejo del mar o Davalpa ☾
 
-> Me acerqué, pues, a él y le deseé la paz. Me devolvió el saludo, pero solamente por señas y sin pronunciar palabra. Y le pregunté: "¡Oh venerable jeique! ¿a qué se debe tu estancia en este sitio?" Tampoco me contestó; pero movió con aire triste la cabeza, y con la mano me hizo señas que significaban: "¡Te suplico que me cargues a tu espalda y atravieses el arroyo conmigo, porque quisiera coger frutas en la otra orilla!"\[…\]  
+> Me acerqué, pues, a él y le deseé la paz. Me devolvió el saludo, pero solamente por señas y sin pronunciar palabra. Y le pregunté: «¡Oh venerable jeique! ¿a qué se debe tu estancia en este sitio?» Tampoco me contestó; pero movió con aire triste la cabeza, y con la mano me hizo señas que significaban: «¡Te suplico que me cargues a tu espalda y atravieses el arroyo conmigo, porque quisiera coger frutas en la otra orilla!»\[…\]  
 > Al darme cuenta de ello llegué al límite del asombro y miré con atención sus piernas. Me parecieron negras y velludas, y ásperas como la piel de un búfalo, y me dieron miedo. Así es que, haciendo un esfuerzo inmenso, quise desenlazarme de su abrazo y dejarlo en tierra; pero entonces me apretó él la garganta tan fuertemente, que casi me estranguló y ante mí se oscureció el mundo. Todavía hice un último esfuerzo; pero perdí el conocimiento, casi ya sin respiración, y caí al suelo desvanecido.
 > 
 > **Referencia:** La quinta historia de las historias de Sindbad el marino, que trata del quinto viaje (n. 307)
@@ -918,19 +916,19 @@ Suele aparecer en islas perdidas y tiene apariencia de náufrago que te pide ayu
 
 Su objetivo como cheitán es hacer que no ayudemos a la gente mayor e incluso desconfiemos de sus súplicas.
 
-Como enemigo es complicado meterlo en una aventura, ya que es más una trampa que un monstruo y quedaría raro que un grupo de davalpas engañaran a un grupo de schahriars. Puede ser un contrincante interesante para el grupo de niños de la aventura de "El Pequeño Consejo" o para aventuras en solitario.
+Como enemigo es complicado meterlo en una aventura, ya que es más una trampa que un monstruo y quedaría raro que un grupo de davalpas engañaran a un grupo de schahriars. Puede ser un contrincante interesante para el grupo de niños de la aventura de «El Pequeño Consejo» o para aventuras en solitario.
 
 * **Atributos:** Agilidad d4, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Idioma materno d6, Notar d8, Pelear d8, Persuadir d6
 * **Paso:** 1; **Parada:** 6; **Dureza:** 5
 * **Capacidades especiales:**
-    * **Pseudópodos:** Si le dejas subirte a tus hombros, extiende sus tentáculos y te agarra automáticamente sin tira de Atletismo. Si intentas librarte de él, sus tentáculos tiene una habilidad de Atletismo de d12+2 para evitar que te sueltes. Ni tú ni el davalpa estáis ni inmovilizado, ni aferrado, ni en desventaja. Los pseudópodos tienen una fuerza de d12+2 a la hora de hacer daño por constricción. Además, podrás atacarte normalmente cabeza con su bastón mientras te constriñe.
+  * **Pseudópodos:** Si le dejas subirte a tus hombros, extiende sus tentáculos y te agarra automáticamente sin tira de Atletismo. Si intentas librarte de él, sus tentáculos tiene una habilidad de Atletismo de d12+2 para evitar que te sueltes. Ni tú ni el davalpa estáis ni inmovilizado, ni aferrado, ni en desventaja. Los pseudópodos tienen una fuerza de d12+2 a la hora de hacer daño por constricción. Además, podrás atacarte normalmente cabeza con su bastón mientras te constriñe.
 
 \sp
 
 * **Capacidades especiales:**
-    * **Debilidad Alcohol:** Si se la da de beber alcohol en un par de tragos se emborracha y tiene un -4 a todas las tiradas, si le consigue que tome otros dos tragos más caerá inconsciente.
-    * **Sueño ligero:** No sufre penalizadores a Notar por estar dormido si su víctima intenta librarse de él mientras duerme.
+  * **Debilidad Alcohol:** Si se la da de beber alcohol en un par de tragos se emborracha y tiene un -4 a todas las tiradas, si le consigue que tome otros dos tragos más caerá inconsciente.
+  * **Sueño ligero:** No sufre penalizadores a Notar por estar dormido si su víctima intenta librarse de él mientras duerme.
 * **Equipo:** Ropas andrajosas y un bastón (FUE+d4)
 * **TPC:** d4 (solo si te atrapa)
 

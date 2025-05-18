@@ -43,7 +43,7 @@ Puedes usar esta aventuras como una introducción para tus schahriars. Se conoci
 
 Junto con Joven deberían ponerse la desventaja de Hija de un zapatero remendón, aunque excepcionalmente alguno de tus schahriars podría ser incluso rico y de buena familia, pero le gusta mezclarse con las niñas y niños de las calles de Bagdad.
 
-Puedes usar "Historia de la noche en el cementerio" como aventura introductoria para que se conozcan y luego la trama general de "El shatranj de Suleimán". Al final de este cuento salvaje hay una serie de aventuras que no siguen la trama general, pero que puedes intercalar entre medio.
+Puedes usar «Historia de la noche en el cementerio» como aventura introductoria para que se conozcan y luego la trama general de «El shatranj de Suleimán». Al final de este cuento salvaje hay una serie de aventuras que no siguen la trama general, pero que puedes intercalar entre medio.
 
 * Historia de la casa encantada en el zoco de los tejedores
 * Historia de la botella encontrada en el fondo del río Tigris
@@ -732,7 +732,6 @@ Lo curioso es que si preguntas al personal les dirán que han tenido que reajust
 
 Pueden intentar varias líneas de investigación.
 
-
 * **Conocimientos mágicos:** Una tirada de Saber de Suleimán de tus schahriars o sus aliados dejará que están ante una vieja maldición que hace siglos que no se usa. Se hace un montón de arena con un objeto personal del maldito dentro. Según el viento se lleva arena, el objetivo se hace más pequeño hasta que no queda arena y desaparece. La única forma de parar la maldición es echar más arena y se cancela cogiendo el montón y dejándolo en el desierto, de forma que el viento nunca acabe la arena.
 
 \sp
@@ -1257,10 +1256,9 @@ Será mejor que aprovechen a disfrutar de bebida, comida y buena compañía porq
 
 Déjales dos días, uno para conseguir equipo especial y otro de juerga salvaje hasta que se queden sin dinero. Puede que, incluso, Alya tenga que ir a buscarles a la celda de los borrachos y pagar por su liberación con el consiguiente descuento en su sueldo.
 
-
 ### Empieza el viaje
 
-_Una caravana de unos mil camellos y unas 200 personas (5 camellos por persona, lo normal son 4) con provisiones para varios meses, se prepara para salir por el bab sur de la ciudad de Damasco.-
+_Una caravana de unos mil camellos y unas 200 personas (5 camellos por persona, lo normal son 4) con provisiones para varios meses, se prepara para salir por el bab sur de la ciudad de Damasco._
 
 _A su cabeza, la princesa Alya, con el objetivo de cumplir el juramento de su padre y liberar a la Ciudad de Bronce de su maldición._
 
@@ -1965,7 +1963,6 @@ _Las altas murallas de bronce de la ciudad y la inexplicable ausencia de puertas
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 343)
 
-
 De repente, sin ningún tipo de pista o señal que delate la presencia de una megalópolis, aparecerán las altas murallas de la Ciudad de Bronce. Solo las torres y cúpulas más altas de la ciudad se ven por encima de sus murallas. Detrás de la ciudad una alta montaña y a lo lejos el rugir de un mar embravecido.
 
 \sp
@@ -2646,7 +2643,6 @@ Si registran los objetos de Ziba y del resto de la secta tendrán un botín de 1
 
 > /s/ **Recompensa de cordura (+2):** Evitar que un culto de brujos, locos y asesinos traigan a nuestro mundo un dios extraterrestre con dudosas intenciones tiene su recompensa. Todos tus schahriars recuperan dos puntos de cordura.
 
-
 \sp
 
 \sinc
@@ -2983,7 +2979,6 @@ Ver a Nardún más conocido como Cthugha entrar en nuestra realidad desde una gi
 El plan de Giafar era desde el Palacio de la Eternidad, que está cerca del río y en el centro del círculo, activar el hechizo de protección cuando vieran aparecer a Nardún.
 
 La califesa se encargaría de mantener el palacio vacío y de permitirles la entrada. El círculo debería ser lo suficientemente grande para rodear a Nardún y destruirlo (temporalmente).
-
 
 Activar el círculo de protección supone gastar 15 PP y hacer una tirada de Saber de Suleimán. Si se consigue ciertas calles asfaltadas (con mezcla de polvo de plata) empezarán a billar formando el dibujo desde el aire de un gigantesco pentáculo. Todo yinn o ser de los Mitos dentro del círculo será volatilizado. Los grandes poderes como Nardún no será destruido, pero será devuelvo a su dimensión con graves daños.
 
