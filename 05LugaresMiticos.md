@@ -123,7 +123,7 @@ Este fabuloso tesoro escondido en unas cámaras secretas subterráneas, ocupa 3 
 
 > Y después de algunos esfuerzos, acabó por conseguir desencajarla y correrla. Y debajo vio una escalera con peldaños de mármol que conducía a una cueva de forma cuadrada que tenía la amplitud de un hammam. Y Maruf, pronunciando la fórmula del «bismilah», bajó a la cueva y vio que la componían cuatro salas consecutivas. Y la primera de aquellas salas estaba llena de monedas de oro desde el suelo hasta el techo; y la segunda estaba llena de perlas, de esmeraldas y de coral, también desde el suelo hasta el techo; y la tercera, de jacintos; de rubíes, de turquesas, de diamantes y de pedrerías de todos colores; pero la cuarta, que era la más espaciosa y la mejor acondicionada, no contenía nada más que un pedestal de madera de ébano, sobre el cual estaba colocado un pequeñísimo cofrecillo de cristal no mayor que un limón. Y Maruf se asombró prodigiosamente de su descubrimiento y se entusiasmó con aquel tesoro. Pero lo que más le intrigaba era aquel minúsculo cofrecillo de cristal, único objeto de manifiesto en la inmensa sala cuarta del subterráneo. \[…\]
 > Y dentro halló un anillo de oro con un sello de cornalina, en que estaban grabadas, con caracteres extremadamente finos y semejantes a patas de moscas, escrituras talismánicas. Y con un movimiento instintivo, Maruf se puso el anillo en su dedo y se lo ajustó apretándolo.  
-> Y al punto salió del sello del anillo una voz fuerte, que dijo: "¡A tus órdenes! ¡A tus órdenes!
+> Y al punto salió del sello del anillo una voz fuerte, que dijo: «¡A tus órdenes! ¡A tus órdenes!»
 > 
 > **Referencia:** Historia del pastel hilado con miel de abejas y de la esposa calamitosa del zapatero remendón (n. 966)
 
@@ -225,7 +225,7 @@ Es un conjunto inmenso de edificios semienterrados en la arena, podemos encontra
 
 Los edificios están vacíos, solo las cosas de piedra han sobrevivido al tiempo. Todo lo que fuera de madera, metal u otros materiales ha desaparecido. Las paredes de los pasadizos subterráneos y los templos y palacetes están llenos de símbolos de un idioma hace milenios perdido.
 
-Se dice que Abdul Alhazred soñó con esta ciudad la noche antes de pronunciar su inexplicable pareado: "Que no está muerto lo que puede yacer eternamente, Y con los evos extraños la muerte puede morir." Quizás se referiría a que la Ciudad sin nombre no está muerta y algún día resurgirá o quizás simplemente estaba loco.
+Se dice que Abdul Alhazred soñó con esta ciudad la noche antes de pronunciar su inexplicable pareado: «Que no está muerto lo que puede yacer eternamente, Y con los evos extraños la muerte puede morir». Quizás se referiría a que la Ciudad sin nombre no está muerta y algún día resurgirá o quizás simplemente estaba loco.
 
 La ciudad no se rige por la geometría euclidiana y es por ello que explorándola puede ocurrir algunos de estos sucesos por hora de exploración.
 
@@ -268,7 +268,7 @@ Teniendo en cuenta que Alhazred es uno de los mayores conocedores de los mitos d
 
 ## El hammam de las delicias
 
-> …un hammam tan hermoso, que no podría encontrársele igual en casa de los reyes y kaissares. Y el hammam era todo de jade y alabastro transparente, con piscinas de cornalina rosa y coral blanco y con ornamentos de piedra de esmeralda de una delicadeza encantadora. ¡Y verdaderamente podían deleitarse allá los ojos y los sentidos, porque en aquel recinto nada molestaba a la vista en el conjunto ni en los detalles! Y era deliciosa la frescura que se sentía allí y el calor estaba graduado y proporcionado. Y no había ni un bañista que turbara con su presencia o con su voz la paz de las bóvedas blancas. Pero en cuanto el genni dejó a Aladino en el estrado de la sala de entrada, apareció ante él un joven efrit \[…\] le condujo a la más hermosa de las salas, que estaba toda pavimentada de pedrerías de colores diversos. \[…\] le sentaron cómodamente en un banco de mármol, y se dedicaron a frotarle y a lavarle con varias clases de aguas de olor; le dieron masaje con un arte admirable, y volvieron a lavarle con agua de rosas almizclada. Y sus sabios cuidados le pusieron la tez tan fresca como un pétalo de rosa blanca y encarnada, a medida de los deseos. \[…\] Y el joven y hermoso efrit que habíale conducido se presentó para volver a cogerle y llevarle al estrado, donde le ofreció, como refresco, un delicioso sorbete de ámbar gris.
+> … un hammam tan hermoso, que no podría encontrársele igual en casa de los reyes y kaissares. Y el hammam era todo de jade y alabastro transparente, con piscinas de cornalina rosa y coral blanco y con ornamentos de piedra de esmeralda de una delicadeza encantadora. ¡Y verdaderamente podían deleitarse allá los ojos y los sentidos, porque en aquel recinto nada molestaba a la vista en el conjunto ni en los detalles! Y era deliciosa la frescura que se sentía allí y el calor estaba graduado y proporcionado. Y no había ni un bañista que turbara con su presencia o con su voz la paz de las bóvedas blancas. Pero en cuanto el genni dejó a Aladino en el estrado de la sala de entrada, apareció ante él un joven efrit \[…\] le condujo a la más hermosa de las salas, que estaba toda pavimentada de pedrerías de colores diversos. \[…\] le sentaron cómodamente en un banco de mármol, y se dedicaron a frotarle y a lavarle con varias clases de aguas de olor; le dieron masaje con un arte admirable, y volvieron a lavarle con agua de rosas almizclada. Y sus sabios cuidados le pusieron la tez tan fresca como un pétalo de rosa blanca y encarnada, a medida de los deseos. \[…\] Y el joven y hermoso efrit que habíale conducido se presentó para volver a cogerle y llevarle al estrado, donde le ofreció, como refresco, un delicioso sorbete de ámbar gris.
 > 
 > **Referencia:** Historia de Aladino y la lámpara mágica (n. 757)
 
@@ -276,9 +276,9 @@ Teniendo en cuenta que Alhazred es uno de los mayores conocedores de los mitos d
 
 \conc
 
-El Hammam de las delicias es una especie de prisión donde encerrar a una persona sin que realmente sepas que estás encerrado. 
+El Hammam de las delicias es una especie de prisión donde encerrar a una persona sin que realmente sepas que está encerrada. 
 
-El Hammam es una especie de reino mágico (en realidad tecnología abu-qith) en la que se encierra la mente de prisionero y se le hace creer que está en un hammam increíblemente lujoso, con todo tipo de delicias, bellos y bellas masajistas, ricos manjares, aceites perfumados, piscinas de agua caliente, etc. Mientras, tu cuerpo puede estar en cualquier parte en estado casi comatoso, sin necesitar casi agua y comida.
+El Hammam es una especie de reino mágico (en realidad tecnología abu-qith) en la que se encierra la mente del prisionero y se le hace creer que está en un hammam increíblemente lujoso, con todo tipo de delicias, bellos y bellas masajistas, ricos manjares, aceites perfumados, piscinas de agua caliente, etc. Mientras, tu cuerpo puede estar en cualquier parte en estado casi comatoso, sin necesitar casi agua y comida.
 
 Los abu-qith con sus posesiones a través del tiempo tienen que dejar la mente del poseído en su cuerpo mientras ellos poseen el cuerpo del humano. Por ello, intentaron crear estos lugares tecno-mágicos para que los humanos no tuvieran que meterse en los cuerpos de los abu-qith y se quedarán en estos limbos.
 
@@ -370,13 +370,13 @@ Puede incluso querer tener un encuentro sexual o una relación romántica con al
 Para entrar en el reino de Yamlika, debes buscar un lugar deshabitado y ejecutar dos hechizos, uno de Sueño para dormir y otro de Interpretar los sueños para meterse dentro del sueño de Yamlika.
 
 > /p/ Tras de lo cual, seguido por el sabio Offán, salió de su palacio y de su ciudad y se adentró en el desierto.  
-> /p/ Solo entonces le dijo el sabio Offán: "¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!" Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargó al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
+> /p/ Solo entonces le dijo el sabio Offán: «¡Aquí es el lugar propicio para hacer los conjuros que deben enseñarnos el camino!» Se detuvieron, pues, y Offán trazó sobre la arena, en torno suyo, el círculo mágico, hizo los conjuros rituales. Un profundo sopor embargó al príncipe y su consejero. Hizo entonces todavía algunos otros conjuros y ambos cayeron dormidos sobre la arena. Cuando se despertaron la tierra se había abierto y les dio paso a ambos hasta el lago que tienes delante de los ojos, …
 > /p/ 
 > /p/ **Referencia:** Historia de Belukia (n. 357)
 
 \sp
 
-Mientras estés dormido nada físico te puede pasar en el sueño de Yamlika, si puedes perder cordura ante lo que pudiera enseñarte Yamlika. Eso sí, tu cuerpo físico estará desprotegido en el mundo real. Es importante destacar que todo lo que te ofrezca Yamlika se convertirá en real al despertar. Por el contrario, si, por ejemplo, robas oro sin su permiso se quedará en su dimensión onírica.
+Mientras estés dormido, nada físico te puede pasar en el sueño de Yamlika, si puedes perder cordura ante lo que pudiera enseñarte Yamlika. Eso sí, tu cuerpo estará desprotegido en el mundo real. Es importante destacar que todo lo que te ofrezca Yamlika se convertirá en real al despertar. Por el contrario, si, por ejemplo, robas oro sin su permiso se quedará en su dimensión onírica.
 
 ### Los Siete Mares
 
@@ -410,7 +410,7 @@ Tras andar 4 días y 4 noches llegan a isla que no es más que un banco de arena
 
 #### El quinto mar
 
-> Por el Quinto Mar solo viajaron un día y una noche, porque al amanecer vieron una islita cuyas montañas eran de cristal con anchas venas de oro, y estaban cubiertas de árboles asombrosos que tenían flores de un amarillo brillante. Al caer la noche estas flores refulgían como astros, y su resplandor, reflejado por las rocas de cristal, iluminó la isla y la dejó más brillante que en pleno día. Y dijo Offán a Belukia: "Delante de los ojos tienes la Isla de las Flores de Oro. Se trata de unas flores que, después de caer de los árboles y cuando se secan, se reducen a polvo, y su fusión acaba por formar las venas de donde se saca el oro. Esta Isla de las Flores de Oro no es más que una partícula del sol separado del astro, y caída antaño aquí mismo".
+> Por el Quinto Mar solo viajaron un día y una noche, porque al amanecer vieron una islita cuyas montañas eran de cristal con anchas venas de oro, y estaban cubiertas de árboles asombrosos que tenían flores de un amarillo brillante. Al caer la noche estas flores refulgían como astros, y su resplandor, reflejado por las rocas de cristal, iluminó la isla y la dejó más brillante que en pleno día. Y dijo Offán a Belukia: «Delante de los ojos tienes la Isla de las Flores de Oro. Se trata de unas flores que, después de caer de los árboles y cuando se secan, se reducen a polvo, y su fusión acaba por formar las venas de donde se saca el oro. Esta Isla de las Flores de Oro no es más que una partícula del sol separado del astro, y caída antaño aquí mismo».
 > 
 > **Referencia:** Historia de Belukia (n. 359)
 
@@ -466,7 +466,7 @@ El anillo de Suleimán es explicado más adelante y el cetro es un objeto mágic
 
 > /p/ Entonces el magrebí sacó del cinturón un eslabón, con el que hizo lumbre, y prendió fuego al montón de ramas y hierbas secas, que llamearon crepitando. Y al punto sacó del bolsillo una caja de concha, la abrió y tomó un poco de incienso, que arrojó en medio de la hoguera. Y levantóse una humareda muy espesa que apartó él con sus manos a un lado y a otro, murmurando fórmulas en una lengua incomprensible en absoluto para Aladino. Y en aquel mismo momento tembló la tierra y se conmovieron sobre su base las rocas y se entreabrió el suelo en un espacio de unos treinta codos de anchura que desprendía un terrible hedor. Y del fondo de aquel agujero emergieron los restos podridos de un inmenso falak muerto. \[…\]
 > /p/
-> /p/ Y el magrebí le dijo: "Hijo mío Aladino, tápate la nariz y la boca con mi pañuelo y adéntrate ahora en ese ser mientras declamas tu linaje. Y te hallarás debajo de una bóveda grande dividida en tres buches que se comunican unas con otras. En cada estómago encontrarás objetos singulares y valiosos entre los pliegues de la carne de las paredes. Pero pasa sin detenerte y recógete bien el traje, sujetándotelo a la cintura para que no toques nada; porque debido si tuvieras la desgracia de tocar con los dedos o rozar siquiera con tus ropas las paredes su ponzoñosa sangre y su ácida bilis, al instante morirás envenenado entre terribles dolores. Entrarás, pues, en el primer estómago, y muy de prisa pasarás al segundo, desde la cual, sin detenerte un instante, penetrarás en el tercero, donde verás una pequeña cavidad. Y te adentrarás en ella, y te encontrarás una especie de hornacina de carne y sangre; y en esta hornacina, sobre un pedestal de hueso, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! ¡Y volverás a mí por el mismo camino que hayas seguido! Y una vez que te hayas reunido conmigo, me entregarás la lámpara, fin y motivo de nuestro viaje y origen de nuestra riqueza y de nuestra gloria en el porvenir, ¡oh hijo mío!"
+> /p/ Y el magrebí le dijo: «Hijo mío Aladino, tápate la nariz y la boca con mi pañuelo y adéntrate ahora en ese ser mientras declamas tu linaje. Y te hallarás debajo de una bóveda grande dividida en tres buches que se comunican unas con otras. En cada estómago encontrarás objetos singulares y valiosos entre los pliegues de la carne de las paredes. Pero pasa sin detenerte y recógete bien el traje, sujetándotelo a la cintura para que no toques nada; porque debido si tuvieras la desgracia de tocar con los dedos o rozar siquiera con tus ropas las paredes su ponzoñosa sangre y su ácida bilis, al instante morirás envenenado entre terribles dolores. Entrarás, pues, en el primer estómago, y muy de prisa pasarás al segundo, desde la cual, sin detenerte un instante, penetrarás en el tercero, donde verás una pequeña cavidad. Y te adentrarás en ella, y te encontrarás una especie de hornacina de carne y sangre; y en esta hornacina, sobre un pedestal de hueso, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! ¡Y volverás a mí por el mismo camino que hayas seguido! Y una vez que te hayas reunido conmigo, me entregarás la lámpara, fin y motivo de nuestro viaje y origen de nuestra riqueza y de nuestra gloria en el porvenir, ¡oh hijo mío!»
 > /p/ 
 > /p/ **Referencia:** Historia de Aladino y de la lámpara mágica (n. 738)
 
@@ -476,7 +476,7 @@ El anillo de Suleimán es explicado más adelante y el cetro es un objeto mágic
 
 La cueva de las Maravillas es el lugar mítico donde Aladino consiguió la lámpara mágica. A pesar de lo que pueda parecer, la cueva de las maravillas es uno de los lugares más horribles donde entrar, ya que, en realidad, es el cadáver descompuesto de un gigantesco falak.
 
-No hay una única cueva, sino que hay un mínimo de tres conocidas, una en Kasgar (China), dónde sucede la historia de Aladín, otra cerca de la ciudad de Sana en Yemen y la última en las montañas de Ispahán.
+No hay una única cueva, sino que hay un mínimo de tres conocidas, una en Kasgar (China), dónde sucede la historia de Aladino, otra cerca de la ciudad de Sana en Yemen y la última en las montañas de Ispahán.
 
 Las razones de la muerte de los falak es desconocida, pero la tradición dice que es tan poderoso que solo su miedo al mayor poder de Dios le impide tragarse toda la creación.
 
@@ -504,7 +504,7 @@ Recuerda que el poder Zombi solo dura una hora y animar un falak muerto supone u
 
 Al entrar en la «cueva» nos vamos a enfrentar a tres peligros principales, los jugos gástricos del falak, las explosiones de metano que genera el cadáver y la estructura de la propia cueva (el estómago del falak) que tiene simas y precipicios insondables.
 
-El interior apesta terriblemente, lo que exige una tirada de Vigor para aguantar la horrible peste a muerte. Si se falla, se obtiene un nivel de fatiga que dura hasta salir de la "cueva". Usar pañuelos empanados con perfumes y aceites olorosos puede ayudar, ofreciendo un +2 a la tirada de Vigor.
+El interior apesta terriblemente, lo que exige una tirada de Vigor para aguantar la horrible peste a muerte. Si se falla, se obtiene un nivel de fatiga que dura hasta salir de la «cueva». Usar pañuelos empanados con perfumes y aceites olorosos puede ayudar, ofreciendo un +2 a la tirada de Vigor.
 
 Caer en un charco de ácidos gástricos supone un 1d6 de daño por cada extremidad, cabeza y tronco. Es decir, que si metes una pierna en el ácido te haría una 1d6 y si te caes dentro perderías 6d6 de daño. El ácido se comerá la ropa, el pelo, el papel y la madera. Solo lo que sea de metal, cerámica o cristal se salvará.
 
@@ -528,9 +528,9 @@ Durante miles de años los falaks han devorado dimensiones extraplanares y plano
 
 ## La Montaña del Imán
 
-> /p/ … mañana llegaremos a una montaña de rocas negras que se llama la Montaña del Imán, y hacia ella han de llevarnos a la fuerza las aguas. Y nuestra nave se despedazará, porque volarán todos sus clavos, atraídos por la montaña y adhiriéndose a sus laderas, pues Alah el Altísimo dotó a la Montaña del Imán de una secreta virtud que le permite atraer todos los objetos de hierro. Y no puedes imaginarte la enorme cantidad de cosas de hierro que se ha acumulado y colgado de dicha montaña desde que atrae a los navíos. ¡Solo Alah sabe su número! Desde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas. Sabe, ¡oh rey! que mientras el jinete permanezca sobre su caballo, quedarán destrozados todos los barcos que naveguen en torno suyo, y todos los pasajeros se perderán sin remedio, y todos los hierros de las naves se irán a pegar a la montaña. ¡No habrá salvación posible mientras no se precipite el jinete al mar!”  
-> /p/ »Dicho esto, ¡oh señora mía! el capitán continuó derramando abundantes lágrimas, y juzgamos segura e irremediable nuestra pérdida, despidiéndose cada cual de sus amigos.  
-> /p/ »Y así fue; porque apenas amaneció, nos vimos próximos a la montaña de rocas negras imantadas, y las aguas nos empujaban violentamente hacia ella. Y cuando las diez naves llegaron al pie de la montaña, los clavos se desprendieron de pronto y comenzaron a volar por millares, lo mismo que todos los hierros, y todos fueron a adherirse a la montaña. Y nuestros barcos se abrieron, siendo precipitados al mar todos nosotros.
+> /p/ … mañana llegaremos a una montaña de rocas negras que se llama la Montaña del Imán, y hacia ella han de llevarnos a la fuerza las aguas. Y nuestra nave se despedazará, porque volarán todos sus clavos, atraídos por la montaña y adhiriéndose a sus laderas, pues Alah el Altísimo dotó a la Montaña del Imán de una secreta virtud que le permite atraer todos los objetos de hierro. Y no puedes imaginarte la enorme cantidad de cosas de hierro que se ha acumulado y colgado de dicha montaña desde que atrae a los navíos. ¡Solo Alah sabe su número! Desde el mar se ve relucir en la cima de esa montaña una cúpula de cobre amarillo sostenida por diez columnas, y encima hay un jinete en un caballo de bronce, y el jinete tiene en la mano una lanza de cobre, y le pende del pecho una chapa de plomo grabada con palabras talismánicas desconocidas. Sabe, ¡oh rey! que mientras el jinete permanezca sobre su caballo, quedarán destrozados todos los barcos que naveguen en torno suyo, y todos los pasajeros se perderán sin remedio, y todos los hierros de las naves se irán a pegar a la montaña. ¡No habrá salvación posible mientras no se precipite el jinete al mar!
+> /p/ Dicho esto, ¡oh señora mía! el capitán continuó derramando abundantes lágrimas, y juzgamos segura e irremediable nuestra pérdida, despidiéndose cada cual de sus amigos.  
+> /p/ Y así fue; porque apenas amaneció, nos vimos próximos a la montaña de rocas negras imantadas, y las aguas nos empujaban violentamente hacia ella. Y cuando las diez naves llegaron al pie de la montaña, los clavos se desprendieron de pronto y comenzaron a volar por millares, lo mismo que todos los hierros, y todos fueron a adherirse a la montaña. Y nuestros barcos se abrieron, siendo precipitados al mar todos nosotros.
 > /p/ 
 > /p/ **Referencia:** Historia del tercer saaluk (n. 14)
 
@@ -662,4 +662,4 @@ Los falaks con sus poderes de dominación mental han ido atrayendo a personas de
 
 \conc
 
-La magnifica y maldita Ciudad de Bronce es descrita más ampliamente en el cuento salvaje "Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce". En él se describe y se explica cómo encontrarla y cómo eliminar la maldición que se ciñe sobre ella y sus habitantes.
+La magnifica y maldita Ciudad de Bronce es descrita más ampliamente en el cuento salvaje «Más allá de la Ciudad de Bronce: Historia de la segunda expedición a la Ciudad de Bronce». En él se describe y se explica cómo encontrarla y cómo eliminar la maldición que se ciñe sobre ella y sus habitantes.

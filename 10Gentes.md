@@ -268,9 +268,9 @@ Una tirada de Saber de Suleimán puede indicarte que hay algo extraño en la pri
 \conc
 
 > /p/ Era un viejo truco de las gentes del desierto que había aprendido de joven, podía sacar algunos nutrientes de las raíces de las rosas del desierto. No era mucho, pero era algo. Fue recogiendo las raíces cuando noto el temblor.  
-> /p/ No era que nunca hubiera notado las sacudidas, pero esta era diferente. No temblaba toda la duna, solo la arena debajo de él. Las vibraciones se hicieron tan intensas que cayó de espaldas y en ese momento aquel gusano desproporcionadamente grande surgió de la arena a sus pies. Se alzó hasta tapar el sol y los tentáculos de su cabeza empezaron a moverse como si hablará y Muhammad le escuchó, aunque no a través de sus oídos.
+> /p/ No era que nunca hubiera notado las sacudidas, pero esta era diferente. No temblaba toda la duna, solo la arena debajo de él. Las vibraciones se hicieron tan intensas que cayó de espaldas y en ese momento aquel gigantesco gusano surgió de la arena a sus pies. Se alzó hasta tapar el sol y los tentáculos de su cabeza empezaron a moverse como si hablará y Muhammad le escuchó, aunque no a través de sus oídos.
 
-Este joven bereber lleva toda su vida sirviendo de guía para caravanas en el Norte de África, siguiendo la tradición familiar. Le encanta el desierto y no se imagina en otro sitio que sobre una duna con el sol poniéndose y el viento en su cara.
+Este joven bereber lleva toda su vida sirviendo de guía para caravanas en el Norte de África, siguiendo la tradición familiar. Le encanta el desierto y solo se imagina sobre una duna con el sol poniéndose y el viento en su cara.
 
 Muhammad sabe leer el viento y la arena de desierto como nadie y puede guiarse sin problema entre sus dunas. Podría sobrevivir semanas con el agua y la comida que una persona normal consume en una. Se sabe de memoria la ubicación de los pozos de agua y no hay plantas comestibles que no conozca.
 
