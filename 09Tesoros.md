@@ -318,7 +318,7 @@ La alfombra cruza por diferentes dimensiones a la velocidad del rayo, para llega
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 774)
 
-Los anillos mágicos son uno de los objetos mágicos más comunes de las 1001 Noches y casi siempre están relacionados con genios servidores. Veamos tres ejemplos de anillos mágicos que funcionan exactamente igual que la Lámpara Mágica, pero con "yinns" más o menos poderosos que el genio de la lámpara.
+Los anillos mágicos son uno de los objetos mágicos más comunes de las 1001 Noches y casi siempre están relacionados con genios servidores. Veamos tres ejemplos de anillos mágicos que funcionan exactamente igual que la Lámpara Mágica, pero con «yinns» más o menos poderosos que el genio de la lámpara.
 
 * El anillo de Aladino. Historia de Aladino y de la lámpara mágica (n. 774)
 * El anillo del Padre de la Dicha. Historia del pastel hilado con miel de abejas y de la esposa calamitosa del zapatero remendón (n. 996)
@@ -662,7 +662,7 @@ Tiene dos usos diarios, pero si se desea pueden usarse más veces. Cada uso extr
 
 > Y Giafar y Massrur sostenían sendas antorchas, y el califa cogía libros de los armarios magníficos y de los cofres de madera aromática, y los abría y los cerraba. Y de tal suerte examinó varios estantes, y acabó por echar mano a un libro viejísimo que abrió al azar.
 >  Y encontró algo que hubo de interesarle vivamente, porque, en vez de abandonar el libro al cabo de un instante, se sentó y se puso a hojearlo página por página y a leerlo atentamente. Y he aquí que de pronto se echó a reír de tal modo, que se cayó de trasero. Luego volvió a coger el libro y continuó su lectura. Y he aquí que de sus ojos brotó el llanto; y se echó a llorar de tal manera, que se mojó toda la barba con lágrimas que corrían por sus intersticios hasta caer sobre el libro que tenía él en las rodillas. Después cerró el libro, se lo metió en la manga y se levantó para salir.\[…\]  
-> "Te ordeno pues, que vayas a buscar a alguien que me diga por qué he reído y llorado con la lectura de este libro y adivine lo que hay en este volumen desde la primera página hasta la última. Y si no encuentras a ese hombre, te cortaré el cuello, y entonces te enseñaré lo que me ha hecho reír y llorar"
+> «Te ordeno pues, que vayas a buscar a alguien que me diga por qué he reído y llorado con la lectura de este libro y adivine lo que hay en este volumen desde la primera página hasta la última. Y si no encuentras a ese hombre, te cortaré el cuello, y entonces te enseñaré lo que me ha hecho reír y llorar»
 > 
 > **Referencia:** Historia del libro mágico (n. 895)
 
@@ -825,7 +825,7 @@ Saber que es un hechizo no le dará ninguna ventaja a priori, pero si se monta u
 
 ##### 2ª puerta
 
-> "Cuando hayas roto de tal modo ese primer encanto, pasarás dentro y verás una segunda puerta, a la que llamarás con un aldabonazo solo, pero muy fuerte. Entonces se te aparecerá un jinete con una lanza grande al hombro, y te dirá, amenazándote con su lanza enristrada de repente: «¿Qué motivo te trae a estos lugares que no frecuentan ni pisan nunca las hordas humanas ni las tribus de los genn?» Y por toda respuesta, le presentarás resueltamente tu pecho descubierto para que te hiera; y te dará con su lanza. Pero no sentirás daño ninguno, y caerá él a tus pies, ¡y no verás más que un cuerpo sin alma! ¡Pero te matará si retrocedes!
+> Cuando hayas roto de tal modo ese primer encanto, pasarás dentro y verás una segunda puerta, a la que llamarás con un aldabonazo solo, pero muy fuerte. Entonces se te aparecerá un jinete con una lanza grande al hombro, y te dirá, amenazándote con su lanza enristrada de repente: «¿Qué motivo te trae a estos lugares que no frecuentan ni pisan nunca las hordas humanas ni las tribus de los genn?» Y por toda respuesta, le presentarás resueltamente tu pecho descubierto para que te hiera; y te dará con su lanza. Pero no sentirás daño ninguno, y caerá él a tus pies, ¡y no verás más que un cuerpo sin alma! ¡Pero te matará si retrocedes!
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -835,7 +835,7 @@ En este caso, si falla, no solo le atacará el dron actual, sino que también el
 
 ##### 3ª puerta
 
-> "Llegarás entonces a una tercera puerta, por la que saldrá a tu encuentro un arquero que te amenazará con su arco armado de flecha; pero preséntale resueltamente tu pecho como blanco, ¡y caerá a tus pies convertido en un cuerpo sin alma! ¡No obstante, te matará, como vaciles!
+> Llegarás entonces a una tercera puerta, por la que saldrá a tu encuentro un arquero que te amenazará con su arco armado de flecha; pero preséntale resueltamente tu pecho como blanco, ¡y caerá a tus pies convertido en un cuerpo sin alma! ¡No obstante, te matará, como vaciles!
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -843,7 +843,7 @@ Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra In
 
 ##### 4ª puerta
 
-> "Penetrarás más adentro y llegarás a una cuarta puerta, desde la cual se abalanzará sobre ti un león de cara espantosa, que abrirá las anchas fauces para devorarte. No has de tenerle ningún miedo ni huir de él, sino que le tenderás tu mano, y en cuanto le des con ella en la boca, caerá a tus pies sin hacerte daño.
+> Penetrarás más adentro y llegarás a una cuarta puerta, desde la cual se abalanzará sobre ti un león de cara espantosa, que abrirá las anchas fauces para devorarte. No has de tenerle ningún miedo ni huir de él, sino que le tenderás tu mano, y en cuanto le des con ella en la boca, caerá a tus pies sin hacerte daño.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -1158,8 +1158,8 @@ Al romper el sello y abrirla, normalmente saldrá un humo negro del que se mater
 |2|**Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico hasta una botella de refresco de cola o un reproductor MP3. Descríbelo de la forma más críptica que puedas. Todas las tiradas de Saber de Suleimán para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual el califa se encapricha de él por su extrañeza.|
 |3|**Libro en un extraño idioma:** Este libro está escrito en Aklo. Parece algún tipo de grimorio, por sus esquemas y sus símbolos, pero en realidad es una trampa. Si se envía a traducir a alguien, solo los sectarios de algunos cultos saben Aklo y podrán traducirlo. El grimorio pide que se mate al portador del libro por ser una persona ajena al culto que seguramente ha robado el libro. Por lo demás, el libro no tiene ningún valor ni poder. Esto te puede servir como semilla de partida en la que tus schahriars tienen que escapar de asesinos sectarios.|
 |4|**Cajita de azufre rojo:** Dentro de una cajita de madera bastante usada hay 1d6 dosis de azufre rojo.|
-|5|**Arma digna de un sultán:** Genera un arma cuerpo a cuerpo o a distancia al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.|
-|6|**Armadura digna de un sultán:** Genera una armadura al azar usando las tablas de botín y asígnale como extra la capacidad "Digna de un califa". Si te sale esa capacidad en las tiradas, repítela.|
+|5|**Arma digna de un sultán:** Genera un arma cuerpo a cuerpo o a distancia al azar usando las tablas de botín y asígnale como extra la capacidad «Digna de un califa». Si te sale esa capacidad en las tiradas, repítela.|
+|6|**Armadura digna de un sultán:** Genera una armadura al azar usando las tablas de botín y asígnale como extra la capacidad «Digna de un califa». Si te sale esa capacidad en las tiradas, repítela.|
 
 \conc
 
@@ -1256,7 +1256,7 @@ La concha roja es un regalo muy apreciado entre las mujeres, ya que este objeto 
 
 ### Curcusilla de gallina
 
-> /p/ Ella contestó: "Mientras salí para hacer una necesidad, mi hijo, a espaldas mías ha arrancado con sus dientes la curcusilla y se la ha comido". Y el judío exclamó:
+> /p/ Ella contestó: «Mientras salí para hacer una necesidad, mi hijo, a espaldas mías ha arrancado con sus dientes la curcusilla y se la ha comido». Y el judío exclamó:
 > /p/ «¡Mal hayas! Yo te he dado mi dinero por esa curcusilla. ¿Dónde está el granuja de tu hijo, que voy a abrirle el vientre y a sacársela?» Ella contestó: «¡Ha huido de terror!» Y el judío salió a toda prisa, y empezó a viajar por ciudades y pueblos, dando las señas del muchacho, hasta que le encontró en el campo, dormido. Y se acercó sigilosamente a él para matarle; \[…\] 
 
 \sc
@@ -1473,7 +1473,7 @@ Esta llave de gran tamaño, de un material desconocido parecido a la plata y con
 
 ### Mesa de arena adivinatoria
 
-> como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: "Está bien, ¡oh arena! veamos. ¿Qué ha sido de \[…\]?  
+> como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: «Está bien, ¡oh arena! veamos. ¿Qué ha sido de \[…\]?»  
 > Y pronunciando estas palabras agitó la arena con arreglo al rito. Y he aquí que nacieron las figuras y se formó el horóscopo. Y el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que …
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 764)
@@ -1550,7 +1550,7 @@ Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árbol
 
 ### Tambor de piel de gallo
 
-> /p/ Y cogió el tambor, y apoyándoselo en el costado, hizo como si tocase sobre la piel de gallo con los dedos. Después dijo a Hassán: "¡Hay que hacer así!" y Hassán dijo: "¡Ya he comprendido, hermana mía!" Y a su vez cogió el tambor de manos de la joven, y tocó como había visto hacerlo a Botón-de-Rosa, pero con mucha fuerza. Y al instante surgieron de todos los puntos del horizonte camellos grandes, dromedarios de carrera, mulas y caballos. Y todo aquel rebaño al galope acudió a alinearse tumultuosamente en una fila muy larga con los camellos primero, detrás los dromedarios, y por último las mulas y los caballos.
+> /p/ Y cogió el tambor, y apoyándoselo en el costado, hizo como si tocase sobre la piel de gallo con los dedos. Después dijo a Hassán: «¡Hay que hacer así!» y Hassán dijo: «¡Ya he comprendido, hermana mía!» Y a su vez cogió el tambor de manos de la joven, y tocó como había visto hacerlo a Botón-de-Rosa, pero con mucha fuerza. Y al instante surgieron de todos los puntos del horizonte camellos grandes, dromedarios de carrera, mulas y caballos. Y todo aquel rebaño al galope acudió a alinearse tumultuosamente en una fila muy larga con los camellos primero, detrás los dromedarios, y por último las mulas y los caballos.
 
 \sp
 
@@ -1566,8 +1566,8 @@ Cada invocación solo sirve para hacer un trayecto y cuando se haga y se quite l
 
 ### Taza talismánica
 
-> Y quiso precipitarse sobre el mago Azania, que, al ver aquello, extendió la mano y le arrojó al rostro algunas gotas del agua que contenía la taza grabada con palabras talismánicas, gritándole: "¡Conviértete en oso!" Y al punto Alí Azogue quedó transformado en oso, con una gruesa cadena unida a una anilla de hierro que le atravesaba el hocico, y con bozal, como los osos amaestrados para que bailen.\[…\]
-> Tras de lo cual cada una de las dos jóvenes cogió una taza talismánica, y después de haber murmurado en lengua hebrea algunas palabras, rociaron con el agua al perro Alí, diciéndole: "¡Por las virtudes, y los méritos de Suleimán, torna a convertirte en un ser humano vivo! Y al instante saltó sobre sus dos pies Alí Azogue, más joven y más hermoso que nunca.
+> Y quiso precipitarse sobre el mago Azania, que, al ver aquello, extendió la mano y le arrojó al rostro algunas gotas del agua que contenía la taza grabada con palabras talismánicas, gritándole: «¡Conviértete en oso!» Y al punto Alí Azogue quedó transformado en oso, con una gruesa cadena unida a una anilla de hierro que le atravesaba el hocico, y con bozal, como los osos amaestrados para que bailen.\[…\]
+> Tras de lo cual cada una de las dos jóvenes cogió una taza talismánica, y después de haber murmurado en lengua hebrea algunas palabras, rociaron con el agua al perro Alí, diciéndole: «¡Por las virtudes, y los méritos de Suleimán, torna a convertirte en un ser humano vivo!» Y al instante saltó sobre sus dos pies Alí Azogue, más joven y más hermoso que nunca.
 
 \sc
 

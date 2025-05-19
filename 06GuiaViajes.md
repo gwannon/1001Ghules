@@ -205,7 +205,7 @@ Entre los restos de sus bajorrelieves y estatuas pueden encontrarse imágenes te
 
 Petra es una antigua ciudad nabatea que se encuentra totalmente deshabitada. Es famosísima por su hemispeos, impresionantes construcciones excavadas en la roca. Hacia el siglo VI d. C., el cambio de las rutas comerciales y los terremotos sufridos condujeron al abandono de la ciudad por sus habitantes.
 
-Todo lo que rodea a Petra es un misterio, desde sus miles de inscripciones en las paredes hasta los laberínticos pasillos y estancias excavadas en la roca. Todo esto hace de Petra un lugar perfecto para enclavar una aventura de exploración.
+Todo lo que rodea a Petra es un misterio, desde sus miles de inscripciones en las paredes hasta los laberínticos pasillos y estancias excavadas en la roca. Esto hace de Petra un lugar perfecto para enclavar una aventura de exploración.
 
 \sp
 
@@ -298,7 +298,7 @@ A cambio puedes darles bonos a las tiradas a la hora de hacer negocios y buscar 
 
 #### Lago Karún
 
-> Y he aquí que en el momento en que vuestro padre iba a ponerles la mano encima, se escaparon y fueron a arrojarse, transformados en peces rojos, al fondo del lago Karún, en las proximidades de El Cairo. Y como aquel lago estaba también encantado, por mucho que hizo vuestro padre no pudo atrapar a los dos peces. Entonces fue a buscarme y se me quejó de la ineficacia de sus tentativas. Y enseguida hice yo mis cálculos astrológicos y saqué el horóscopo; y descubrí que aquel tesoro de Schamardal no podía abrirse más que con ayuda y en presencia de un joven de El Cairo llamado Juder ben-Omar, pescador de oficio. Se encontrará el tal Juder a orillas del lago Karún.
+> Y he aquí que en el momento en que vuestro padre iba a ponerles la mano encima, se escaparon y fueron a arrojarse, transformados en peces rojos, al fondo del lago Karún, en las proximidades de El Cairo. Y como aquel lago estaba también encantado, por mucho que hizo vuestro padre no pudo atrapar a los dos peces. Entonces fue a buscarme y se me quejó de la ineficacia de sus tentativas. Y enseguida hice yo mis cálculos astrológicos y saqué el horóscopo; y descubrí que aquel tesoro de Schamardal no podía abrirse más que con ayuda y en presencia de un joven de El Cairo llamado Juder ben-Omar, pescador de oficio. Se encontrará al tal Juder a orillas del lago Karún.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 470)
 
@@ -342,7 +342,7 @@ Quizás la vista más impresionante de El-Iskandaria es su famoso faro de unos 1
 
 A la muerte de su creador, la «Cúpula del libro» se ha convertido en una biblioteca pública que mantiene gracias a un fideicomiso de su fundador y que compra todo tipo de libros para aumentar su colección.
 
-Puedes consultar cualquier libro de su colección, pero si dañas o robas cualquiera de los libros no te dejarán entrar nunca más. Otra opción es hablar con el bibliotecario e intentar un intercambio, no siempre funciona, pero es la única forma de llevarte un libro que te interese.
+Puedes consultar cualquier libro de su colección, pero si dañas o robas cualquiera de los libros no te dejarán entrar nunca más. Otra opción es hablar con el bibliotecario e intentar un intercambio, no siempre funciona, pero es el único modo de llevarte un libro que te interese.
 
 ```
 Esta biblioteca compra cualquier libro que le ofrezcan y pagan muy bien (a discreción de Scheherazade) pero no vende ninguno. Pero sí puedes consultar cualquier libro que tengan en sus fondos. Hay un 5% de que cada vez que pases por Alejandría tenga una copia del grimorio que necesitas o un 20% de cualquier otro libro.
@@ -356,7 +356,7 @@ Esta vieja tienda, que hace décadas que perdió su nombre, ha pasado de vender 
 
 \sp
 
-> Era una tienda cuyo amo acababa de morirse de repente. Estaba amueblada con divanes, como es costumbre, y sus mercancías consistían en objetos para la gente de mar, como velas, cuerdas, cordeles, arcas sólidas, sacas para pacotillas, armas de todas formas y precios, y sobre todo una cantidad enorme de hierro y antigüedades muy estimables por los capitanes de marina, que las compraban allí para venderlas a la gente de Occidente, pues los de este país estiman en mucho las cosas antiguas, y cambian sus mujeres e hijas por un pedazo de madera podrida, por ejemplo, o por una piedra talismánica, o por un sable viejo y enmohecido.
+> Era una tienda cuyo amo acababa de morirse de repente. Estaba amueblada con divanes, como es costumbre, y sus mercancías consistían en objetos para la gente de mar, como velas, cuerdas, cordeles, arcas sólidas, sacas para pacotillas, armas de todas clases y precios, y sobre todo una cantidad enorme de hierro y antigüedades muy estimables por los capitanes de marina, que las compraban allí para venderlas a la gente de Occidente, pues los de este país estiman en mucho las cosas antiguas, y cambian sus mujeres e hijas por un pedazo de madera podrida, por ejemplo, o por una piedra talismánica, o por un sable viejo y enmohecido.
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 269)
 
@@ -406,7 +406,7 @@ Otro detalle importante es que Khaitán está en la falda del volcán en activo 
 
 Asi como nada nuevo llega a Khaitán, nada sale de Khaitán. Sus gentes ven el exterior como un lugar horrible, lleno de peligros y amenazas. Muy pocas personas salen de Khaitán y normalmente para temas gubernamentales como entregar los impuestos al califa.
 
-La mayoría de la población gentes profesan la religión islámica, pero en una forma pagana, mezclándola con las antiguas leyes, leyes preislámicas que incluyen la adoración de dioses ancestrales de Egipto. Por ejemplo, los rituales mortuorios siguen las leyes de la antigua religión como la momificación y adoran a dioses paganos como Ra, Anubis, Set, etc.
+La mayoría de la población profesan la religión islámica, pero en una forma pagana, mezclándola con las antiguas leyes, leyes preislámicas que incluyen la adoración de dioses ancestrales de Egipto. Por ejemplo, los rituales mortuorios siguen las leyes de la antigua religión como la momificación y adoran a dioses paganos como Ra, Anubis, Set, etc.
 
 El gran secreto que esconde Khaitán es que en uno de los campos que están a las afueras hay una losa de mármol enterrada que da acceso a unas criptas donde el poderoso y sabio rey Scheddad ben-Aad, dirigente de Aram-de-las-columnas, escondió un fabuloso tesoro.
 
@@ -414,7 +414,7 @@ El gran secreto que esconde Khaitán es que en uno de los campos que están a la
 
 El río Nilo en sí solo es perfecto como ubicación. Puedes usarlo como medio de transporte para viajar hacia el sur hasta llegar a sus fuentes. Su fauna puede ser un importante desafío. Las construcciones que se han hecho alrededor del río dan también para aventuras de exploración.
 
-Además, el propio río puede ser una «deidad» al que una secta peligrosa le rinde culto o puede ser envenenado, de forma que sea un peligro para toda la zona. Debido a sus dimensiones, puede ser el hogar de alguna extraña raza mutante de gentes del mar con formas de pensar y actuar y dioses que adorar diferentes de sus primos marinos.
+Además, el propio río puede ser una «deidad» al que una secta peligrosa le rinde culto o puede ser envenenado, de manera que sea un peligro para toda la zona. Debido a sus dimensiones, puede ser el hogar de alguna extraña raza mutante de gentes del mar con formas de pensar y actuar y dioses que adorar diferentes de sus primos marinos.
 
 ### Egipto y la serpigente
 
@@ -470,9 +470,9 @@ Cerca de Miknas, a medio día a caballo, están las ruinas de la ciudad cartagin
 
 Volubilis era famosa en su tiempo por su aceite. Y también por apresar y vender para circos animales salvajes de la Cordillera del Atlas, como el león del Atlas o león de Berbería (Panthera leo leo) y el oso del Atlas (Ursus arctos crowtheri). Pero en los restos de los mosaicos que aún se conservan, se pueden extrañas criaturas que se cazaban en la cordillera del Atlas para el divertimento de la plebe en los circos. Estamos hablando de serpientes gigantes cornudas o quimeras langosta.
 
-Entre los valles y las cimas del Atlas hay una comunidad de estas bestias legendarias que viven tranquilas, lejos de los humanos. La mayoría de estos animales son descendientes de experimentos genéticos que la serpigente realizo en la zona hace miles de años.
+Entre los valles y las cimas del Atlas hay una comunidad de estas bestias legendarias que viven tranquilas, lejos de los humanos. La mayoría de estos animales son descendientes de experimentos genéticos que la serpigente realizó en la zona hace miles de años.
 
-> /s/ **Semilla de aventura:** El Califa de Bagdad ofrece buenas sumas de dinares para aquellos que cacen extraños criaturas y animales fantásticos para su zoo. Quizás pasarse por Volubilis y hacer una expedición de caza por el Atlas sea una forma de conseguir dinero rápido o el favor del Califa de Bagdad.
+> /s/ **Semilla de aventura:** El Califa de Bagdad ofrece buenas sumas de dinares para aquellos que cacen extrañas criaturas y animales fantásticos para su zoo. Quizás pasarse por Volubilis y hacer una expedición de caza por el Atlas sea una manera de conseguir dinero rápido o el favor del Califa de Bagdad.
 
 \sp
 

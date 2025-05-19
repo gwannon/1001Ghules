@@ -1,19 +1,19 @@
 # Cuentos salvajes
 
-Aquí te presentamos 4 aventuras largas que te permitirán conocer y explorar estas primigenias 1001 noches de tres formas distintas. Son completamente independientes, pero con un poco de trabajo puedes conectarlas de formas interesantes y hacer una gran campaña.
+Aquí te presentamos 4 aventuras largas que te permitirán conocer y explorar estas primigenias 1001 noches de tres formas distintas. Son completamente independientes, pero con un poco de trabajo puedes conectarlas de maneras interesantes y hacer una gran campaña.
 
 * **El Pequeño Consejo:** Como pillastres de las calles de Bagdad que descubren un terrible secreto que amenaza a la ciudad y sus gentes.
 * **Más allá de la Ciudad de Bronce:** Un largo viaje conociendo las maravillas y las pesadillas que habitan en este mundo.
 * **La llega del cometa:** Combatiendo a una terrible secta que busca traer a su maligno y poderoso dios a la tierra.
-* **La caída de Giafar:** El destino de visir Giafar está sellado desde hace años. Él lo sale y lo acepta, pero igual tus schahriars piensan de forma distinta.
+* **La caída de Giafar:** El destino de visir Giafar está sellado desde hace años. Él lo sale y lo acepta, pero igual tus schahriars piensan de manera distinta.
 
 Además, dispondrás de pequeñas aventuras que podrás intercalar dentro de las tramas principales.
 
-La forma lógica de jugar todas las aventuras sería empezar con sus versiones jóvenes en "El Pequeño Consejo" y luego con sus versiones adultas las otras tres aventuras, con "La caída Giafar" como aventura final. Pero puede haber otras opciones, eres libre de jugarlo como veas.
+La forma lógica de jugar todas las aventuras sería empezar con sus versiones jóvenes en «El Pequeño Consejo» y luego con sus versiones adultas las otras tres aventuras, con «La caída Giafar» como aventura final. Pero puede haber otras opciones, eres libre de jugarlo como veas.
 
-Algo que tienen en común las 1001 Noches y la obra de Lovecraft es que en ambas es muy normal que alguien cuente una historia dentro de la historia e incluso en tres niveles. Una opción un poco loca, pero que puede ser muy divertida para jugar, es que "El Pequeño Consejo" sea una historia que se cuenta al anochecer junto al fuego mientras se juega la aventura de "Más allá de la Ciudad de bronce".
+Algo que tienen en común las 1001 Noches y la obra de Lovecraft es que en ambas es muy normal que alguien cuente una historia dentro de la historia e incluso en tres niveles. Una opción un poco loca, pero que puede ser muy divertida para jugar, es que «El Pequeño Consejo» sea una historia que se cuenta al anochecer junto al fuego mientras se juega la aventura de «Más allá de la Ciudad de bronce».
 
-Podríais enfocarlo a que los schahriars que están jugando "Más allá de la Ciudad de bronce" se conocieron en las calles de Bagdad y están contando como una historia la aventura "El Pequeño Consejo".
+Podríais enfocarlo a que los schahriars que están jugando «Más allá de la Ciudad de bronce» se conocieron en las calles de Bagdad y están contando como una historia la aventura «El Pequeño Consejo».
 
 Tendrían su personaje versión joven que sería de nivel novato y su personaje versión adulta y de nivel experimentado e irían saltando de una aventura a otra y las decisiones tomadas en una podrían tener repercusiones en la otra. Es mucho esfuerzo para Scheherazade, pero si se lo prepara puede quedar muy divertido.
 
@@ -174,7 +174,7 @@ A partir de ese momento son miembros de pleno derecho del Pequeño Consejo con t
 
 ### El shatranj de Suleimán: Historia del mielero (I)
 
-_El cadáver de Haquim "el mielero" ha aparecido en las orillas del río Tigris con signos de violencia. Haquim cuidaba del Pequeño Consejo y van a buscar y ajusticiar a su asesino._
+_El cadáver de Haquim «el mielero» ha aparecido en las orillas del río Tigris con signos de violencia. Haquim cuidaba del Pequeño Consejo y van a buscar y ajusticiar a su asesino._
 
 Haquim era un anciano que vivía de vender en el zoco los dulces que hacía con la miel de sus abejas. Era amable con los niños y niñas de la calle y siempre tenía un trozo de panal lleno de rica miel para darte si no habías comido.
 
@@ -230,7 +230,7 @@ Déjales moverse por la ciudad buscando información. Estos son algunas informac
 * Si preguntan a los farmacéuticos por un hombre con terribles picaduras de abejas, uno les describirá a un hombre alto, muy fuerte y rapado con muchas cicatrices de heridas muy profundas por todo el cuerpo.
 * Si buscan a jugadores de shatranj, les contarán montones de anécdotas, pero nada útil. Salvo que el rey Suleimán fue el mejor jugador de shatranj de su época.
 * Si usan contactos en los bajos fondos, parece que hay un grupo sectario nuevo en la ciudad buscando a alguien por las preguntas que hacen. Si tienen la descripción del asesino, el farmacéutico confirmarán la descripción.
-* Si le llevan un pedazo del cuerpo de Haquim "el mielero" a Dana y le dan una buena descripción del cadáver, está podrá decirles que lo torturaron antes de matarlo. Estaba atado y le fueron cortando dedos hasta qué confesó. Entonces lo destriparon. Por las heridas, el torturador debía ser alguien muy fuerte.
+* Si le llevan un pedazo del cuerpo de Haquim «el mielero» a Dana y le dan una buena descripción del cadáver, está podrá decirles que lo torturaron antes de matarlo. Estaba atado y le fueron cortando dedos hasta qué confesó. Entonces lo destriparon. Por las heridas, el torturador debía ser alguien muy fuerte.
 
 \sp
 
@@ -278,7 +278,7 @@ Pueden intentar robarlo u ojearlo rápidamente y dejarlo donde estaban. Si se lo
 
 #### El shatranj de Suleimán
 
-> Cuando entre en los aposentos del Emir, este estaba leyendo una carta. Tras leerla se acercó a un tablero de shatranj e hizo un movimiento con las figuras de marfil, mientras mascullaba para sus adentros. Empezó a dar vueltas alrededor del shatranj y cuando se percató de mi presencia, me dijo: "Acércate, ¿qué te parece?"  
+> Cuando entre en los aposentos del Emir, este estaba leyendo una carta. Tras leerla se acercó a un tablero de shatranj e hizo un movimiento con las figuras de marfil, mientras mascullaba para sus adentros. Empezó a dar vueltas alrededor del shatranj y cuando se percató de mi presencia, me dijo: «Acércate, ¿qué te parece?»  
 > Cuando mis ojos se posaron en el viejo tablero, mi vista se nubló, las dimensiones del tablero se distorsionaron de maneras imposibles y las figuras parecía que tomarán vida. Tomo a mi alrededor cambió, ya no estaba en el palacio del emir, sino en un lugar vació y oscuro donde no sabía lo que era arriba y abajo. De repente, sentí la mano del emir en mi espalda. La oscuridad ya no estaba y yo volví, pero yo no quería acercarme al shatranj, nunca jamás.
 
 Secretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.
@@ -299,7 +299,7 @@ A la muerte de Suleimán dejo escrito que el tablero y las piezas fueran separad
 
 ##### La verdad sobre el shatranj
 
-El shatranj es un artilugio creado por un "científico loco" al migho hecho con hipotálamos humanos.
+El shatranj es un artilugio creado por un «científico loco» al migho hecho con hipotálamos humanos.
 
 El tablero, que es de gran tamaño, es una computadora que descubre el peor miedo del enemigo y piensa las alucinaciones adecuadas. 
 
@@ -866,7 +866,7 @@ Si quieren investigar la lista verán que todos murieron en la masacre, menos Sa
 
 Aldeeb es un mendigo borracho que deambula por el puerto fluvial gritando incoherencias y profecías del fin del mundo.
 
-Es imposible dialogar con Aldeeb, no hila 2 palabras coherentes seguidas. Si le ofrecen algo de alcohol, tendrá un momento de claridad entre el síndrome de abstinencia y los delirios del alcohol en que podrán hacer dos preguntas y las contestará con la verdad ("in vino, veritas") sobre el templo de la Contemplación. Sé un poco críptico y vago en sus respuestas.
+Es imposible dialogar con Aldeeb, no hila 2 palabras coherentes seguidas. Si le ofrecen algo de alcohol, tendrá un momento de claridad entre el síndrome de abstinencia y los delirios del alcohol en que podrán hacer dos preguntas y las contestará con la verdad («in vino, veritas») sobre el templo de la Contemplación. Sé un poco críptico y vago en sus respuestas.
 
 #### Explorando la casa encantada del zoco de tejedores
 
@@ -971,7 +971,7 @@ Si no hacen el trabajo y le mienten a Fátimah, Fátimah acabará muerta, ya que
 
 _Una asesina de Suc’Naath está buscando un nuevo discípulo. Ha secuestrado a varios niños y niñas de la calle y quiere hacerles pasar por unas sangrientas, crueles y, sobre todo, mortales pruebas para encontrar a su aprendiz._
 
-Tus schahriars han tenido la "suerte" de ser elegidos para participar en el mortal proceso de selección de la asesina Marhud.
+Tus schahriars han tenido la «suerte» de ser elegidos para participar en el mortal proceso de selección de la asesina Marhud.
 
 \sp
 
@@ -979,12 +979,12 @@ Tus schahriars han tenido la "suerte" de ser elegidos para participar en el mort
 
 Los ha secuestrado uno a uno y los ha llevado a su guarida en un palacio abandonado de Ctesifonte. 
 
-Allí tiene todo montado una especie de gincana de pruebas, quien gane será su discípulo, el resto morirá.
+Allí tiene montado una especie de gincana de pruebas, quien gane será su discípulo, el resto morirá.
 
-El secuestro lo puede hacerlo de varias formas.
+El secuestro lo puede hacerlo usando varios métodos.
 
 * **A la fuerza.** Podría derrotarles en combate cuando los encuentre solos. Los dejaría inconscientes y los llevaría a su guarida en Ctesifonte.
-* **Con drogas.** Quizás pueda drogar su agua o comida o les ofrezca deliciosa comida drogada. Quizás después de una pelea se ofrezca a curarles y en realidad les dé drogas en vez de medicinas.
+* **Con drogas.** Quizás pueda drogar su agua o comida o les ofrezca deliciosa comida drogada. O tal vez después de una pelea se ofrezca a curarles y en realidad les dé drogas en vez de medicinas.
 * **Con sigilo.** Podría atacarles por sorpresa y dejarles inconsciente de un golpe.
 
 Sea como sea el asesino los meterá en un carro y saldrá de Bagdad para encaminarse a la ciudad abandonada de Ctesifonte. Allí ha montado una especie de sala del peligro que pondrá a prueba sus habilidades. Ha cogido el sótano de un palacio que tenía 4 estancias y en cada estancia hay una prueba que pasar. El que llegue a la última estancia y salga del sótano será el elegido.
@@ -1001,7 +1001,7 @@ Si van a tratar de escapar o quieren tenderle una trampa, es importante que sepa
 
 #### Primera sala
 
-En esta sala se despertarán tus schahriars. Estarán atados de pies y manos y en la pared estará escrito en grandes letras "Solo uno sobrevivirá para servir a la Mano Dorada".
+En esta sala se despertarán tus schahriars. Estarán atados de pies y manos y en la pared estará escrito en grandes letras «Solo uno sobrevivirá para servir a la Mano Dorada».
 
 Una tirada de Saber de Suleimán les dirá que la Mano Dorada es una secta de adoradores de un dios pagano llamado Suc’Naath. Con avances dales más datos de la descripción de la secta.
 
@@ -1090,7 +1090,7 @@ Hay una serie de cuentos salvajes que podrían ser protagonizados por tus pillas
 
 \conc
 
-Esta campaña es la continuación de la expedición a la Ciudad de Bronce que se narra en "Historia prodigiosa de la Ciudad de Bronce". Al final de esa historia, Abdalmalek, califa de Damasco, promete volver a la Ciudad de Bronce y liberar a la ciudad de la maldición que se cierne sobre ella.
+Esta campaña es la continuación de la expedición a la Ciudad de Bronce que se narra en «Historia prodigiosa de la Ciudad de Bronce». Al final de esa historia, Abdalmalek, califa de Damasco, promete volver a la Ciudad de Bronce y liberar a la ciudad de la maldición que se cierne sobre ella.
 
 > El califa Abdalmalek quedó encantado y maravillado al mismo tiempo del relato que de la aventura le hizo el emir Muza, y exclamó: «Siento en extremo no haber ido con vosotros a esa Ciudad de Bronce. ¡Pero iré, con la venia de Alah, a admirar por mí mismo esas maravillas y a tratar de aclarar el misterio de ese encantamiento!».
 > 
@@ -1193,7 +1193,7 @@ Aparte de eventos especiales que ocurren en la aventura, pueden hacer diferentes
 
 * En grandes ciudades pueden tratar de conseguir provisiones. No es cuestión de dinero sino de tiempo. Alya no quiere parar más que lo necesario y pasar por muchos pueblos y ciudades retrasa la expedición. Con una tirada de Notar encontrarán alguien con provisiones preparadas para media semana y con un avance para 1 semana. Los que busquen provisiones no podrán hacer otra cosa en la ciudad mientras están ella.
 * En pequeños pueblos, con una tirada de Notar podrán conseguir para media semana. Los que busquen provisiones no podrán hacer otra cosa en el pueblo mientras están él.
-* Son ciudades las que aparece con su nombre en los nombres de las etapas. Los pueblos pequeños pueden visitarlos en las etapas que no tienen nombre de zonas. En la etapa "3ª etapa. Península del Sinaí - El Cairo" pasarán por un pueblo en la península de Sinaí y por la ciudad de El Cairo. En la etapa "6ª etapa. Sahara" solo encontrarán un poblado por el Sahara.
+* Son ciudades las que aparece con su nombre en los nombres de las etapas. Los pueblos pequeños pueden visitarlos en las etapas que no tienen nombre de zonas. En la etapa «3ª etapa. Península del Sinaí - El Cairo» pasarán por un pueblo en la península de Sinaí y por la ciudad de El Cairo. En la etapa «6ª etapa. Sahara» solo encontrarán un poblado por el Sahara.
 * En cada etapa podrán forrajear con una tirada de Supervivencia y conseguirán media semana de provisiones o una semana con un avance. Si se dedica a forrajear, no podrá hacer otras actividades como leer grimorios, traducir libros, etc.
 
 Hay zonas en las que es imposible conseguir víveres y agua, como cuando entre en el desierto desconocido. En estas partes solo deberías permitir soluciones muy ingeniosas y seguramente mágicas.
@@ -2023,7 +2023,7 @@ También es sobrecogedor la vista de soldados totalmente paralizados como estatu
 
 El pelo se puede mover, pero cambiarles de posición es casi imposible. Los soldados tienen la cara cubierta, pero si les quitan el velo que les cubre la caray ven sus caras congeladas tienen un TPC 1d4.
 
-> El emir Muza y sus acompañantes anduvieron durante algún tiempo por lo alto de los muros, y llegaron al fin ante dos torres unidas entre sí por una puerta de bronce, cuyas dos hojas encajaban tan perfectamente, que no se hubiera podido introducir por su intersticio la punta de una aguja. Sobre aquella puerta aparecía grabada en relieve la imagen de un jinete de oro que tenía un brazo extendido y la mano abierta, y en la palma de esta mano había trazado unos caracteres jónicos, que descifró enseguida el jeique Abdossamad y los tradujo del siguiente modo: "Frota la puerta doce veces con el clavo que hay en mi ombligo".
+> El emir Muza y sus acompañantes anduvieron durante algún tiempo por lo alto de los muros, y llegaron al fin ante dos torres unidas entre sí por una puerta de bronce, cuyas dos hojas encajaban tan perfectamente, que no se hubiera podido introducir por su intersticio la punta de una aguja. Sobre aquella puerta aparecía grabada en relieve la imagen de un jinete de oro que tenía un brazo extendido y la mano abierta, y en la palma de esta mano había trazado unos caracteres jónicos, que descifró enseguida el jeique Abdossamad y los tradujo del siguiente modo: «Frota la puerta doce veces con el clavo que hay en mi ombligo».
 > Aunque muy sorprendido de tales palabras, el emir Muza se acercó al jinete y notó que, efectivamente, tenía metido en medio del ombligo un clavo de oro. Echó mano e introdujo y sacó el clavo doce veces. Y a las doce veces que lo hizo, se abrieron las dos hojas de la puerta, dejando ver una escalera de granito rojo que descendía caracoleando. Entonces el emir Muza y sus acompañantes bajaron por los peldaños de esta escalera, la cual les condujo al centro de una sala que daba a ras de una calle en la que se estacionaban guardias armados con arcos y espadas.
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 344)
@@ -2125,7 +2125,7 @@ El Gremio cuenta con 20 unidades. Los 30 expedicionarios se unirán a un grupo o
 
 Alya, está totalmente ida, con la mirada perdida, desnuda y cubierta de algas como la gente del mar. Les gritará que se marchen y le dejen cumplir su destino. Ella es la elegida de Bahamūt y nadie la va a parar en su misión de despertar a la princesa de Tadnaar. Déjales intervenir a tus schahriars si quieren hacer algo o decirle algo.
 
-Cuando crean conveniente, tus schahriars deberán "traicionar" al Gremio y a los expedicionarios. La traición debe ser real, así que el Gremio acepta que va a sufrir muchas bajas.
+Cuando crean conveniente, tus schahriars deberán «traicionar» al Gremio y a los expedicionarios. La traición debe ser real, así que el Gremio acepta que va a sufrir muchas bajas.
 
 Alya debería ganar sin problemas la batalla, sobre todo con la traición de tus schahriars. Los supervivientes del Gremio huirán y Alya mandará rematar a los heridos. Se acercará a tus schahriars y les dirá: «Sabía que seríais inteligentes, Bahamūt estará contento con vosotros». 
 
@@ -2204,7 +2204,7 @@ _Como los astrónomos habían predicho, el cometa Aiin se acerca a la Tierra, co
 
 La Mano Dorada, secta de adoradores de Suc’Naath, no puede perder esta oportunidad de librar a su amo de la maldición que lo mantiene atado a Azathoth. Su suma sacerdotisa Ziba, que porta la esencia de Suc’Naath en sus genes, debe encontrar la última parte de la esencia que le falta, una estatua perdida en el tiempo y el espacio.
 
-> "Las estrellas se dividen en tres clases, según la misión a que se las destina: unas cuelgan de la bóveda celeste como antorchas, y sirven para alumbrar la tierra; otras están suspendidas de manera invisible en el aire, y sirven para alumbrar los mares; y las estrellas de la tercera categoría, se mueven a voluntad entre los dedos de Alah; se las ve desfilar en la noche, y entonces sirven para lapidar y castigar a los demonios que osan infringir las órdenes del Altísimo".
+> «Las estrellas se dividen en tres clases, según la misión a que se las destina: unas cuelgan de la bóveda celeste como antorchas, y sirven para alumbrar la tierra; otras están suspendidas de manera invisible en el aire, y sirven para alumbrar los mares; y las estrellas de la tercera categoría, se mueven a voluntad entre los dedos de Alah; se las ve desfilar en la noche, y entonces sirven para lapidar y castigar a los demonios que osan infringir las órdenes del Altísimo»s.
 > 
 > **Referencia:** Historia de la docta Simpatía (n. 284)
 
@@ -2274,7 +2274,7 @@ Para maximizar la búsqueda, Ziba hace dos grupos, ella y su gente revisarán la
 
 ##### Sala principal (1)
 
-Las escaleras dan a una gran sala con una imagen de una deidad extraña de forma humanoide, pero no humana que parece estar bailando. Una tirada de Notar y se percatará de que Ziba se "santigua" ante la presencia de la estatua.
+Las escaleras dan a una gran sala con una imagen de una deidad extraña de forma humanoide, pero no humana que parece estar bailando. Una tirada de Notar y se percatará de que Ziba se «santigua» ante la presencia de la estatua.
 
 ##### Sala de rituales (2)
 
@@ -2344,7 +2344,7 @@ Eso liberará a su señor de la maldición y dejará de ser un dios danzante de 
 
 **Comienzo:** Montes Elburz, al sur del Mar Caspio
 
-_Solo hay una forma de conseguir combinar los tres fragmentos de la esencia de Suc’Naath, que Ziba viaje por el espacio hasta el cometa Aiin con la estatua. Según las leyendas, solo hay un ser que pueda viajar hasta sol, un ave de Rokh. Pero para poder domarlo necesitan un huevo a punto de eclosionar y que lo primero que vea sea a su jinete, Ziba._
+_Solo hay una manera de conseguir combinar los tres fragmentos de la esencia de Suc’Naath, que Ziba viaje por el espacio hasta el cometa Aiin con la estatua. Según las leyendas, solo hay un ser que pueda viajar hasta sol, un ave de Rokh. Pero para poder domarlo necesitan un huevo a punto de eclosionar y que lo primero que vea sea a su jinete, Ziba._
 
 _Para ello deberán ir a las laderas de los montes Elburz y robar un huevo de Rokh sin que sus progenitores los maten._
 
@@ -2438,7 +2438,7 @@ Este proceso puede llevar el tiempo que desees y cuando lo creas conveniente el 
 
 **Comienzo:** El Cairo
 
-_En la Cúpula de libros, una biblioteca privada de El Cairo, hay un viejo libro de crianza de Rokhs, alguien podría tratar de sacarlo "prestado" o igual solamente en caso de extrema necesidad robarlo._
+_En la Cúpula de libros, una biblioteca privada de El Cairo, hay un viejo libro de crianza de Rokhs, alguien podría tratar de sacarlo «prestado» o igual solamente en caso de extrema necesidad robarlo._
 
 Durante el viaje a El Cairo pueden ocurrirles algún cuento salvaje a tu elección o algún encuentro interesante, desde ladrones de caravanas o animales salvajes hasta quizás algunas ruinas perdidas.
 
@@ -2510,7 +2510,7 @@ Estos son los puntos donde deben tomar mediciones:
 * **Damavand (5.610 m):** Tendrán que volver a los montes Elburz donde robaron el huevo de Rokh para ver este volcán inactivo.
 * **Mar Muerto (-435 m):** Este inmenso lago salado que está a 435 m por debajo del nivel del mar puede ser otro punto interesante. Quizás algún tipo de monstruosidad esté encerrado en su fondo.
 * **Monte Tubqal (4.191 m):** Es el pico más alto de la cordillera del Atlas y de todo el Norte de África. Tiene nieves perpetuas y la zona es famosa por haber muchas leyendas de quimeras y también avistamientos.
-* **Gebel Musa o Monte Sinaí (2.287 m):** No es el punto más alto del Sinaí (es el cercano Gebel Katherina con 2.629 m). Sería donde Moisés recibió los 10 mandamientos tras ver una zarza ardiente. En sus faldas hay uno de los monasterios cristianos más antiguos que todavía sigue en funcionamiento, el Monasterio de Santa Catalina del Monte Sinaí. En sitio tan apartado no sería de extrañar que los monjes que habitan el monasterio pudieran haberse corrompido y caído en la adoración de "falsos" dioses.
+* **Gebel Musa o Monte Sinaí (2.287 m):** No es el punto más alto del Sinaí (es el cercano Gebel Katherina con 2.629 m). Sería donde Moisés recibió los 10 mandamientos tras ver una zarza ardiente. En sus faldas hay uno de los monasterios cristianos más antiguos que todavía sigue en funcionamiento, el Monasterio de Santa Catalina del Monte Sinaí. En sitio tan apartado no sería de extrañar que los monjes que habitan el monasterio pudieran haberse corrompido y caído en la adoración de «falsos» dioses.
 
 Cada punto te puede dar para montar encuentros con diferentes seres, desde animales salvajes a gigantes solitarios que viven en cuevas. Puedes aprovecharlos para meter cuentos salvajes en esas ubicaciones o puedes cambiarlos por otros que te permitan meter tus propios relatos salvajes, como el Himalaya metiendo una trama de monjes budistas y yetis. Tampoco hay problemas en quitar y dejar 2 o 3 puntos.
 
@@ -2520,7 +2520,7 @@ La idea de esta parte de la aventura es permitir que sin perder la trama pueden 
 
 Estos viajes les deberían llevar muchísimo tiempo del que no disponen. Así que si no tiene algún método mágico para viajar Ziba les dará 5.000 dinares por persona (1.000 por punto a medir) y les prestará (y lo reclamará cuando vuelvan) algún objeto mágico que facilite el viaje. Por ejemplo, la clásica alfombra volante o el tambor de piel de gallo.
 
-> Si tus schahriars ya han jugado el relato salvaje "Buscando la inmortalidad", Mariam Al-Ijliya al-Asturlabi seguramente ya no estará en este mundo. Pueden buscar a la hija de su hermano, Scheherazade Al-Ijliya que siguió la tradición familiar de la astronomía y la creación de astrolabios. Pueden aprovechar a contarle lo que ha pasado con su querida tía e incluso entregarle los objetos personales que tengan de ella. La ficha de Scheherazade será la misma que la de su tía, sin las desventajas Anciana (mayor) y Anémica (menor).
+> Si tus schahriars ya han jugado el relato salvaje «Buscando la inmortalidad», Mariam Al-Ijliya al-Asturlabi seguramente ya no estará en este mundo. Pueden buscar a la hija de su hermano, Scheherazade Al-Ijliya que siguió la tradición familiar de la astronomía y la creación de astrolabios. Pueden aprovechar a contarle lo que ha pasado con su querida tía e incluso entregarle los objetos personales que tengan de ella. La ficha de Scheherazade será la misma que la de su tía, sin las desventajas Anciana (mayor) y Anémica (menor).
 
 ### La traición
 
@@ -2697,15 +2697,15 @@ _El visir Giafar ha consultado su mesa de geomancia y esta ha señalado a tus sc
 
 El visir tiene 15 días para acabar con la última amenaza a la que se enfrenta Bagdad y el destino le ha rebelado quién le ayudará a llevar a cabo su misión. Giafar se presentará donde estén tus schahriars y les pedirá ayuda y sabe qué como héroes le ayudarán.
 
-Puede que lo conozcan si han jugado "El Pequeño Consejo" y han crecido mientras jugaban tras aventuras. Quizás se hayan cruzado con Giafar en las calles de Bagdad durante las escapadas nocturnas del Califa. No olvidemos que igual les nombró héroes y heroínas de la ciudad si evitaron que "El alcázar en las nubes" arrasará algún barrio de Bagdad.
+Puede que lo conozcan si han jugado «El Pequeño Consejo» y han crecido mientras jugaban tras aventuras. Quizás se hayan cruzado con Giafar en las calles de Bagdad durante las escapadas nocturnas del Califa. No olvidemos que igual les nombró héroes y heroínas de la ciudad si evitaron que «El alcázar en las nubes» arrasará algún barrio de Bagdad.
 
 ### La nota manuscrita
 
 _Giafar ha sido de advertido de que en 15 días una gran alineación de planetas que podría ser utilizado para abrirle portales a alguna entidad oscura. Bagdad está en el centro de esa convergencia espacial, la zona cero donde sucederá todo y si no se evita, seguramente será destruida._
 
-Sea como sea que entren en la aventura Giafar, les presentará una nota manuscrita. Se la entrego un joven llamado Bassir en nombre de Mariam Al-Ijliya al-Asturlabi. Si han jugado el relato "Buscando la inmortalidad" o "Consultando las estrellas" puede que la hayan conocido y sepan qué ha pasado con ella. Si no lo han jugado simplemente será una famosísima astrónoma.
+Sea como sea que entren en la aventura Giafar, les presentará una nota manuscrita. Se la entrego un joven llamado Bassir en nombre de Mariam Al-Ijliya al-Asturlabi. Si han jugado el relato «Buscando la inmortalidad» o «Consultando las estrellas» puede que la hayan conocido y sepan qué ha pasado con ella. Si no lo han jugado simplemente será una famosísima astrónoma.
 
-Si Mariam desde el otro lado del universo ha mandado a un agente humano de la Progenie de la Luna Creciente, es algo que ha de tenerse muy en cuenta. Así pues, Giafar necesita que vigilen la ciudad en busca de cultos que quieran aprovechar la alineación para alguno de sus malvados planes.
+Si Mariam, desde el otro lado del universo, ha mandado a un agente humano de la Progenie de la Luna Creciente, es algo que ha de tenerse muy en cuenta. Así pues, Giafar necesita que vigilen la ciudad en busca de cultos que quieran aprovechar la alineación para alguno de sus malvados planes.
 
 \sp
 
@@ -2736,7 +2736,7 @@ Giafar necesita tener controlada la actividad de sectas, cultos y otras organiza
 
 * Si consultan a la guardia de la ciudad (Persuadir -2, 2 marcadores) les dirán que en la ciudad han aumentado los incendios y seguramente que los pirómanos del culto andan detrás.
 * Consultando en los bazares (Persuadir -2 o 0 si gastan 100 dinares, 2 marcadores por cada tirada) podrán averiguar que hay escasez de petróleo, todas las existencias han sido compradas y hay un par de casos de robos. Siempre que hay cosas inflamables, los Seguidores están cerca.
-* Si usan adivinación (1 marcador), cosa que ya ha intentado Giafar con Geomancia, solo debería funcionarles "Habla de los animales y canto de los pájaros" y solo si preguntan a animales adecuados como gatos que se metan en todas partes o perros que hayan detectado con su olfato la gran concentración de petróleo de la secta.
+* Si usan adivinación (1 marcador), cosa que ya ha intentado Giafar con Geomancia, solo debería funcionarles «Habla de los animales y canto de los pájaros» y solo si preguntan a animales adecuados como gatos que se metan en todas partes o perros que hayan detectado con su olfato la gran concentración de petróleo de la secta.
 * Si se les ocurre otras formas, decide tú la tirada y los marcadores que consumen.
 
 Sea como sea conseguirán averiguar que los Seguidores del Fuego y de la Luz está moviéndose y parece que están montando algo grande.
@@ -2958,7 +2958,7 @@ Déjales caer, si no se han dado ellos ya cuenta, que si van a lanzar un giga-he
 
 Estamos hablando de personas como Dana la ghūl que si no sale de la ciudad desaparecerá fulminada por la ola mágica que desatará el hechizo que preparó Giafar.
 
-También pueden aprovechar a deshacerse de problemas como Heráclita de la historia de "La viajera del tiempo" que seguramente desaparecerá de nuestro plano de existencia si le pilla dentro del símbolo arcano.
+También pueden aprovechar a deshacerse de problemas como Heráclita de la historia de «La viajera del tiempo» que seguramente desaparecerá de nuestro plano de existencia si le pilla dentro del símbolo arcano.
 
 Tal vez tengan objetos malditos que quieran destruir y que si dejan cerca de la zona de lanzamiento del conjuro, serán desterrados a otra dimensión, seguramente para aparecer dentro de siglos. Necesitarán tiradas de Saber de Suleimán para decidir cuáles son las zonas donde el hechizo impactará con más fuerza y podrá destruir los objetos malditos.
 
@@ -3171,7 +3171,7 @@ Es un grupo de mercaderes que están montados en camellos (o caballos o mulas) y
 
 En este punto tus schahriars pueden tomar varias acciones:
 
-* **Parar la loca carrera.** La gente y los propios participantes podrían resultar herida por las tonterías de los jinetes. Si conocen a los mercaderes, quizás puedan convencerles de que hagan otras cosas "más divertidas" o ganarse su confianza salvándoles de alguna situación comprometida o peligrosa.
+* **Parar la loca carrera.** La gente y los propios participantes podrían resultar herida por las tonterías de los jinetes. Si conocen a los mercaderes, quizás puedan convencerles de que hagan otras cosas «más divertidas» o ganarse su confianza salvándoles de alguna situación comprometida o peligrosa.
 * **Apuntarse.** Si ya conocen a los mercaderes de otras veces o saben que son el Califa y su séquito, saben que pueden conseguir regalos y mucho dinero si ganan la carrera (o mejor quedan segundos y dejan ganar al Califa).
 * **Dar media vuelta y volver por donde han venido.** Otro día, quizás, hoy tienen mucha prisa.
 
@@ -3362,7 +3362,7 @@ Ponles el rasgo de bestia Duro para que aguanten más y trata de que sean difere
 
 _Desde hace días una extraña nube sobrevuela la ciudad y hay rumores que cuentan que hay gente a la que le han caído objetos del cielo, desde desperdicios hasta piedras o sandalias malolientes. No hace falta ser muy listo para ver que ambos eventos pueden estar relacionados. La pregunta es qué hay en esa nube y si es una amenaza._
 
-Un grupo de la secta apocalíptica de los 40 está "arreglando" un antiquísimo ingenio de los janns que debía servir como motor de algún tipo de plataforma voladora. Su principal problema es que necesita grandes cantidades de agua para funcionar.
+Un grupo de la secta apocalíptica de los 40 está «arreglando» un antiquísimo ingenio de los janns que debía servir como motor de algún tipo de plataforma voladora. Su principal problema es que necesita grandes cantidades de agua para funcionar.
 
 \sp
 
@@ -3486,11 +3486,11 @@ La destrucción del alcázar implicará en varios aspectos a futuras aventuras:
 
 **Comienzo:** Cualquier pequeño pueblo de Persia
 
-_Durante las festividades del Miércoles de fiesta ("chaharshanbe" significa miércoles y "surí" fiesta) se celebran varios rituales._
+_Durante las festividades del Miércoles de fiesta («chaharshanbe» significa miércoles y «surí» fiesta) se celebran varios rituales._
 
 \sp
 
-_El más importante y popular consiste en encender fuegos en las calles mientras los participantes los saltan gritando "zardí-e man az to, sorjí-e to az man" (que significa «mi color amarillo (pálido, enfermizo) es tuyo, tu color rojo es mío»). Así se celebra la llegada de la primavera que trae días más largos. Pero este año el festival se va a descontrolar por culpa de un hechizo descontrolado._
+_El más importante y popular consiste en encender fuegos en las calles mientras los participantes los saltan gritando «zardí-e man az to, sorjí-e to az man» (que significa «mi color amarillo (pálido, enfermizo) es tuyo, tu color rojo es mío»). Así se celebra la llegada de la primavera que trae días más largos. Pero este año el festival se va a descontrolar por culpa de un hechizo descontrolado._
 
 #### Disfrutando del festival
 
@@ -3542,7 +3542,7 @@ Pueden denunciarlos, pueden callarse, pueden hablar con el kadí sobre lo que ha
 **Idioma:** Árabe  
 **Condición:** Dañado (por el fuego)
 
-El libro que les vendió el mercader (en realidad Bahram el Gauro disfrazado) al grupo de adolescentes es un pequeño tratado de hechicería y fuego titulado "Fuego Purificador". En sus páginas hace referencia a distintas divinidades como Nardún que están relacionadas con el fuego. Tiene marcas de fuego, zonas quemadas y desprende un extraño olor a humo.
+El libro que les vendió el mercader (en realidad Bahram el Gauro disfrazado) al grupo de adolescentes es un pequeño tratado de hechicería y fuego titulado «Fuego Purificador». En sus páginas hace referencia a distintas divinidades como Nardún que están relacionadas con el fuego. Tiene marcas de fuego, zonas quemadas y desprende un extraño olor a humo.
 
 ### La paloma mensajera
 
@@ -3666,7 +3666,7 @@ Claramente, no cobrarán por el trabajo y la familia hablará mal de ellos, obte
 
 El último ghūl se rendirá y pedirá clemencia a tan generosos jeiques. Su trato es que si le dejan vivir, les servirá 3 veces en lo que quieran. Les dará 3 pelos largos, gruesos y canosos que parecen de su barba de chivo, un pelo por cada servicio.
 
-Si queman uno de esos pelos (y se gasta 1 PP), él aparecerá para servirles como deseen, sin límites a lo que deberá hacer. Pone mucho énfasis en el "sin límites" y lo acompaña de gestos obscenos y sexuales sin importar con quién esté hablando. Cuando se acaben los pelos volverá a ser libre.
+Si queman uno de esos pelos (y se gasta 1 PP), él aparecerá para servirles como deseen, sin límites a lo que deberá hacer. Pone mucho énfasis en el «sin límites» y lo acompaña de gestos obscenos y sexuales sin importar con quién esté hablando. Cuando se acaben los pelos volverá a ser libre.
 
 Los pelos invocan a Farum, que así se llama el ghūl, donde sea. De hecho, ninguna magia puede hacer que Farum no sea invocado. Permanece mientras realiza la tarea para la que se haya invocado y desaparece cuando la termina. Los trabajos encomendados tienen que estar dentro de sus posibilidades y que no lleven mucho tiempo, no más de un día de duración.
 
