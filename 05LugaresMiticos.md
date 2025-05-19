@@ -101,7 +101,7 @@ Dejaron pistas de la ubicación del tesoro en la lápida que hay sobre la fosa c
 
 ### Cómo meter Aram en tus relatos
 
-Si vas a incluir Aram-de-las-columnas en tus relatos, puedes hacerlo de varias formas. Puede ser una ciudad maldita y abandonada por la que parece que no pasa el tiempo con sus trampas y obstáculos. Esta opción se ajustaría más a la visión de las 1001 Noches. En este caso, incluso podrías enclavar Aram dentro de la Tierra de los Sueños como parte de la imaginería onírica que tanto pega con las 1001 Noches.
+Si vas a incluir Aram-de-las-columnas en tus relatos, puedes hacerlo de varias maneras. Puede ser una ciudad maldita y abandonada por la que parece que no pasa el tiempo con sus trampas y obstáculos. Esta opción se ajustaría más a la visión de las 1001 Noches. En este caso, incluso podrías enclavar Aram dentro de la Tierra de los Sueños como parte de la imaginería onírica que tanto pega con las 1001 Noches.
 
 Otra opción puede ser como las ruinas de una gran civilización extraterrestre que desapareció por una catástrofe digna de Lemuria o la Atlántida. Esta opción se acerca más al toque «pulp» de Lovecraft. En esta variante podrías llevar a tus schahriars a la búsqueda del tesoro de Scheddad el constructor de la ciudad y su rey que escondió todos sus tesoros en una cueva secreta. Tendrían en las ruinas de Aram pistas suficientes para lanzarse a la búsqueda de un fabuloso tesoro.
 
@@ -179,7 +179,7 @@ Desarrollaron el sistema de tirar carne al fondo del valle porque saben que esta
 
 \sp
 
-No hay ninguna forma de saber que la radiación existe a no ser que algún mercader del valle te lo cuente y son bastante huraños y sin mucha disposición a hablar sobre ellos. La «maldición» del valle les da un método fácil para deshacerse de la competencia.
+No hay ningún modo de saber que la radiación existe a no ser que algún mercader del valle te lo cuente y son bastante huraños y sin mucha disposición a hablar sobre ellos. La «maldición» del valle les da un método fácil para deshacerse de la competencia.
 
 ```
 El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del Manual Básico de SWEA. La radiación no es detectable de ninguna manera y solo podrán saber de ella hablando con los mercaderes del valle. Los «diamantes» que se sacan del valle, sin embargo, no son radiactivos, pero cualquier otra cosa lo será y la exposición a ellas puede terminar matándote. La tierra podría usarse como veneno, para acabar, por ejemplo, con un pozo de agua.
@@ -189,7 +189,7 @@ El Valle de los Diamantes tiene un nivel radiación bajo según las reglas del M
 
 Los al mighos investigaron lo que le paso a su colonia y abandonaron la cantera porque la radiación hacía imposible durante siglos volver a extraer en el valle. Durante ese tiempo encontraron otros lugares igual de interesantes para sacar sus tierras raras y olvidaron el valle.
 
-Lo que no saben, porque no supieron esperar, es que con los milenios terminarán creándose los cuasicristales que para ellos son muy valiosos. Si llegaran a saber lo que se puede extraer del valle, seguramente buscarían la forma de hacerse con el valle y acabar con toda la competencia que extrae los valiosos cristales.
+Lo que no saben, porque no supieron esperar, es que con los milenios terminarán creándose los cuasicristales que para ellos son muy valiosos. Si llegaran a saber lo que se puede extraer del valle, seguramente buscarían la manera de hacerse con el valle y acabar con toda la competencia que extrae los valiosos cristales.
 
 ### Tesoro y botín
 
@@ -302,9 +302,9 @@ Las diademas funcionan con cualquier entidad o cosa que tenga dentro una mente h
 
 No hay tirada de resistencia, si te ponen la diadema caes dentro de la fantasía. Pero si podrás despertar, si empiezas a ver fallos dentro de la ilusión. En caso de usar varias diademas, unas cerca de otras, se sincronizan y crean el mismo hammam para todos.
 
-### Formas de despertar
+### Modos de despertar
 
-La única forma de despertar por ti mismo es darse cuenta de que estás realidad falsa. Deberás descubrir 3 las siguientes opciones:
+La única manera de despertar por ti mismo es darse cuenta de que estás realidad falsa. Deberás descubrir 3 las siguientes opciones:
 
 * No hay salida, por más que se muevan por las estancias y pasillos del Hammam no tendrá una salida al exterior. Por muchas estancias que recorran nunca llegarán a una estancia que tenga una salida o no tenga salida. Siempre darán a una nueva estancia con más salidas a más estancias. Si vuelven sobre sus pasos en un par de estancias estarán en la primera que estaban, aunque hayan recorrido muchas más al buscar una salida. Esto puede suponer un TPC d4.
 * Todas las personas con las que interactuar en el Hammam tienen un limitado número de interacciones preparadas. Llegará un momento en que puedes darte cuenta de que repiten siempre el mismo gesto o cuentan el mismo chiste, etc. Si se pasa más de una semana en el hammam será evidente este punto, lo que supone un TPC d6.
@@ -341,7 +341,7 @@ Si te quitan la diadema saldrás directamente del hammam, pero es bastante traum
 
 La Isla de los Siete Mares en el lugar donde se supone que está la Tumba del gran rey y poderoso mago Suleimán. Es una tierra mágica llena de magia y prodigios, desde ejércitos de amazonas a gigantes.
 
-Es llamada así porque para llegar a dicha isla hay que cruzar 7 mares. Son mares tan peligrosos que ningún barco puede atravesarlos. Todas las naves que lo intentan acaban naufragando. La única forma conocida es frotando el jugo de unas plantas mágicas en los pies. Este jugo te permite caminar sobre las aguas y así recorrer los 7 mares. Estas plantas solo las conoce y son cultivadas por la reina Yamlika que vive en una especie de reino subterráneo.
+Es llamada así porque para llegar a dicha isla hay que cruzar 7 mares. Son mares tan peligrosos que ningún barco puede atravesarlos. Todas las naves que lo intentan acaban naufragando. La única manera conocida es frotando el jugo de unas plantas mágicas en los pies. Este jugo te permite caminar sobre las aguas y así recorrer los 7 mares. Estas plantas solo las conoce y son cultivadas por la reina Yamlika que vive en una especie de reino subterráneo.
 
 ### La reina Yamlika
 
@@ -552,7 +552,7 @@ Si todavía sigue a flote después de esto acaba estrellándose contra los arrec
 
 La montaña de piedra ferrosa, gracias a la estatua ecuestre, es un gigantesco y superpoderoso imán que atrae a todos los barcos que se le acercan. Las laderas de la montaña están cubiertas de objetos metálicos que el imán ha arrancado de los barcos y sus tripulantes. Algunos llevan siglos allí rotos y oxidados. Además, es casi imposible despegarlos del suelo al que están pegados.
 
-Todo barco con componentes metálicos que entre en el radio de 5 km. de las montañas del imán entra en su zona de atracción y no puede escapar de su zona magnetizar a no ser que se pase una tirada de Pilotar -4. Si se falla, se acerca un kilómetro a la isla y para escapar hay que superar una tirada de pilotar -5 (4 + 1 por cada kilómetro). Si falla se acerca otro km hasta llegar a distancia de recibir daño. Si se pasa la tirada recupera un kilómetro.
+Todo barco con componentes metálicos que entre en el radio de 5 km. de las montañas del imán entra en su zona de atracción y no puede escapar de su zona magnetizada a no ser que se pase una tirada de Pilotar -4. Si se falla, se acerca un kilómetro a la isla y para escapar hay que superar una tirada de pilotar -5 (4 + 1 por cada kilómetro). Si falla de nuevo, se acerca otro km hasta llegar a distancia de recibir daño y si se pasa la tirada, recupera un kilómetro.
 
 La montaña produce 3d6 de daño a todos los barcos que se acerquen a rango de 0.5 km. El daño es producido por todos las piezas de metal arrancadas y los arrecifes contra los que es atraído. El daño se repite cada 5 minutos hasta que lo destruye contra los arrecifes.
 

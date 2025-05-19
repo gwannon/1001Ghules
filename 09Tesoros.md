@@ -706,7 +706,7 @@ Todo su tesoro se encuentra en su tumba, donde su cuerpo incorrupto se encuentra
 
 \sp
 
-> Entonces se adelantó Juder sin vacilar y quitó del tahalí el alfanje, sacó el anillo talismánico, desató la redoma de kohl, cogió la esfera celeste y retrocedió para salir. Y al punto se hizo oír a su alrededor un concierto de instrumentos que hubo de acompañarle triunfalmente hasta la salida, en tanto que de todos los puntos del tesoro subterráneo se elevaban las voces de los guardianes que le felicitaban gritando: "¡Que te haga buen provecho ¡oh Juder! lo que supiste ganar! ¡Enhorabuena! ¡Enhorabuena!" Y no dejó de tocar la música ni dejaron de felicitarle las voces hasta que estuvo fuera del tesoro subterráneo.
+> Entonces se adelantó Juder sin vacilar y quitó del tahalí el alfanje, sacó el anillo talismánico, desató la redoma de kohl, cogió la esfera celeste y retrocedió para salir. Y al punto se hizo oír a su alrededor un concierto de instrumentos que hubo de acompañarle triunfalmente hasta la salida, en tanto que de todos los puntos del tesoro subterráneo se elevaban las voces de los guardianes que le felicitaban gritando: «¡Que te haga buen provecho! ¡oh Juder! lo que supiste ganar! ¡Enhorabuena! ¡Enhorabuena!» Y no dejó de tocar la música ni dejaron de felicitarle las voces hasta que estuvo fuera del tesoro subterráneo.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 469)
 
@@ -853,8 +853,8 @@ En este caso, si falla no solo le atacará el dron actual, sino también los de 
 
 ##### 5ª y 6ª puerta
 
-> "Dirígete entonces a la quinta puerta, de la que verás salir a un negro de betún que te preguntará: «¿Quién eres» Tú dirás: «¡Soy Juder!» Y te contestará él: «¡Si eres verdaderamente ese hombre, intenta abrir la sexta puerta!»  
-> "Al punto irás a abrir la sexta puerta, y exclamarás: «¡Oh Jesús, ordena a Moisés que abra la puerta!» Y la puerta se abrirá ante ti y verás aparecer dos dragones enormes, uno a la derecha y otro a la izquierda, los cuales saltarán sobre ti con las fauces abiertas. ¡No tengas miedo! 
+> Dirígete entonces a la quinta puerta, de la que verás salir a un negro de betún que te preguntará: «¿Quién eres?» Tú dirás: «¡Soy Juder!» Y te contestará él: «¡Si eres verdaderamente ese hombre, intenta abrir la sexta puerta!»  
+> Al punto irás a abrir la sexta puerta, y exclamarás: «¡Oh Jesús, ordena a Moisés que abra la puerta!» Y la puerta se abrirá ante ti y verás aparecer dos dragones enormes, uno a la derecha y otro a la izquierda, los cuales saltarán sobre ti con las fauces abiertas. ¡No tengas miedo! 
 
 \sp
 
@@ -908,8 +908,8 @@ En el cadáver incorrupto de Al-Schamardal hay 5 objetos de tremendísimo poder.
 
 ##### El anillo de Trueno Penetrante
 
-> "¡Oh Juder, toma este anillo que realizará todos tus anhelos! Porque has de saber que este anillo tiene por servidor a un genni, llamado Trueno-Penetrante, que estará a tus órdenes para cuanto le pidas. ¡No tienes más que frotar el engarce del anillo, y al punto se te aparecerá Trueno-Penetrante, que se encargará de ejecutar todas tus voluntades y de darte, si se los pides, todos los bienes del universo que desees!" Y para enseñarle su manejo, lo frotó delante de él con el pulgar. Al punto apareció el efrit Trueno-Penetrante, e inclinándose ante el magrebí, dijo: 
-> "¡Heme aquí, ya sidi! ¡Ordena y serás obedecido! ¡Pide y recibirás! ¿Quieres reconstruir una ciudad en ruinas o destruir una ciudad floreciente? ¿Quieres matar y asesinar? ¿Quieres arrancar el alma a un rey o solamente diezmar sus ejércitos? ¡Habla!"
+> «¡Oh Juder, toma este anillo que realizará todos tus anhelos! Porque has de saber que este anillo tiene por servidor a un genni, llamado Trueno-Penetrante, que estará a tus órdenes para cuanto le pidas. ¡No tienes más que frotar el engarce del anillo, y al punto se te aparecerá Trueno-Penetrante, que se encargará de ejecutar todas tus voluntades y de darte, si se los pides, todos los bienes del universo que desees!» Y para enseñarle su manejo, lo frotó delante de él con el pulgar. Al punto apareció el efrit Trueno-Penetrante, e inclinándose ante el magrebí, dijo: 
+> «¡Heme aquí, ya sidi! ¡Ordena y serás obedecido! ¡Pide y recibirás! ¿Quieres reconstruir una ciudad en ruinas o destruir una ciudad floreciente? ¿Quieres matar y asesinar? ¿Quieres arrancar el alma a un rey o solamente diezmar sus ejércitos? ¡Habla!»
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 480)
 
@@ -1098,7 +1098,7 @@ Por último, nadar tiene un coste normal, es decir, puedes nadar lo mismo que tu
 
 ### Azufre rojo
 
-> Y encontró dentro unos polvos rojos, y exclamó: "¡He aquí el Azufre rojo, ya Hassán Abdalah! ¡Esta es la Kimia de los sabios y de los filósofos, todos los cuales murieron sin dar con ella!" \[…\] "¡Oh pobre! ¡Ese polvo es la fuente misma de todas las riquezas de la tierra! Y un solo grano de este polvo basta para convertir en oro los metales más viles. ¡Es la Kimia! ¡Es el Azufre rojo!, ¡oh pobre ignorante! ¡Con este polvo, si quiero, construiré palacios más hermosos que éste, fundaré ciudades más magníficas que ésta, compraré la vida de los hombres y la conciencia de los puros, seduciré a la propia virtud y me haré rey, hijo de rey!" Y le dije: "Y con ese polvo, ¡oh mi señor! ¿podrás prolongar un solo día tu vida o borrar una hora de tu existencia pasada?"
+> Y encontró dentro unos polvos rojos, y exclamó: "¡He aquí el Azufre rojo, ya Hassán Abdalah! ¡Esta es la Kimia de los sabios y de los filósofos, todos los cuales murieron sin dar con ella!" \[…\] "¡Oh pobre! ¡Ese polvo es la fuente misma de todas las riquezas de la tierra! Y un solo grano de este polvo basta para convertir en oro los metales más viles. ¡Es la Kimia! ¡Es el Azufre rojo!, ¡oh pobre ignorante! ¡Con este polvo, si quiero, construiré palacios más hermosos que este, fundaré ciudades más magníficas que ésta, compraré la vida de los hombres y la conciencia de los puros, seduciré a la propia virtud y me haré rey, hijo de rey!" Y le dije: "Y con ese polvo, ¡oh mi señor! ¿podrás prolongar un solo día tu vida o borrar una hora de tu existencia pasada?"
 > 
 > **Referencia:** Las llaves del destino (n. 792)
 
@@ -1110,7 +1110,7 @@ Cada dosis de azufre rojo que uses en un hechizo de transmutación baja el nivel
 
 ### Batería de Bagdad
 
-> /p/ Y vertió toda una tinaja de agua regia que el mismo había filtrado en el alambique de su taller en un recipiente de barro, donde introdujo un cilindro del más puro cobre y una barra de hierro frío. El agua regia empezó a generar un humo rojizo que invadió toda la estancia. En unos segundos, yinns que deberían estar ahí se hicieron visibles para el sabio alquimista y pudo percatarse como le percibían ahora y le atravesaban con suss miradas \[…\] los cheitáns no dejaron de acosarlo con sus miradas, sus ensalmos y sus gritos, hasta que consumido por la locura salió corriendo de su casa para morir atropellado por un carro.
+> /p/ Y vertió toda una tinaja de agua regia que el mismo había filtrado en el alambique de su taller en un recipiente de barro, donde introdujo un cilindro del más puro cobre y una barra de hierro frío. El agua regia empezó a generar un humo rojizo que invadió toda la estancia. En unos segundos, yinns que deberían estar ahí se hicieron visibles para el sabio alquimista y pudo percatarse como le percibían ahora y le atravesaban con sus miradas \[…\] los cheitáns no dejaron de acosarlo con sus miradas, sus ensalmos y sus gritos, hasta que consumido por la locura salió corriendo de su casa para morir atropellado por un carro.
 
 La [batería de Bagdad](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_Bagdad) es un recipiente de barro de unos 14 centímetros. Tiene dentro un cilindro de cobre y dentro de una barra de cobre.
 
