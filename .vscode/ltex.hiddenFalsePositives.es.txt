@@ -892,3 +892,42 @@
 {"rule":"FORM","sentence":"^\\QEstá inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua, de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.\\E$"}
 {"rule":"FORM","sentence":"^\\QColarse en casa de almotacén: la casa (Latrocinio para abrir la cerradura de casa) solo dirá que es muy riguroso y estricto en su forma de ser.\\E$"}
 {"rule":"FORM","sentence":"^\\QDe forma que sus pesas precisión cada día pierden unos gramos.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY todos me miraban con asombro.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY ambas desearon satisfacer su curiosidad para conmigo, y enviaron a los eunucos para que me cogieran y me llevaran a presencia suya.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY en seguida cundió por la ciudad el rumor de tan extraño fenómeno, y llegó hasta el palacio en que vivía la hija del sultán con su madre.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY de todos lados acudían para contemplar a un ser tan singular que solo tenía de hombre la mitad y que se movía con tanta rapidez.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QA Camel and Three Strange Single-handed and Single-legged Creatures (Nasnas) - Zakariya al-Qazwini\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QAtaques físicos como armas de corte, flechas, piedras …\\E$"}
+{"rule":"REALIZE","sentence":"^\\QRealiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida excepto las creadas por fuego o electricidad.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QDel suelo emergieron infinitos ojos y pequeños zarcillos oscuros.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\Q¡Dejadlo todo, que he de partir!»\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QInto the tombs commission by ThemeFinland\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAdoran a la diosa Mehen (Yig) el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a una versión malvada de la diosa Heket (Tsathoggua, el Durmiente de N’kai).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTom Ardans artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAn Old One.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFlying Polyp by Dagonweb (Khannea SunTzu)\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEn su forma incorpórea son totalmente invulnerables contra armas físicas y mágicas.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QCuando cae del cielo en algún tipo de meteorito, se «planta» cerca de donde cae en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QNo quedan muchos, pero aún se pueden encontrar en oscuras fosas marinas sirviendo a las gentes del mar.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q/p/ Era algo horrendo e indescriptible, mayor que los más grandes dhows que surcan el Tigris; una congestión informe de burbujas protoplasmáticas, vagamente luminiscentes, y con millares de ojos temporales formándose y deshaciéndose como pústulas de luz verdosa por toda la masa que, llenando el túnel ante nosotros, avanzaba a pasos de carga, aplastando los camellos y mulas de la caravana y serpenteando por el reluciente suelo que él y los de su especie habían mantenido maléficamente limpio.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEn realidad no estoy seguro de que tuvieran cuerpo: solo los vi un instante.\\E$"}
+{"rule":"FORM","sentence":"^\\QNo queda clara la forma de su boca.\\E$"}
+{"rule":"FORM","sentence":"^\\QNo se sabe su forma exacta, ya que no salen a la luz del día y pocos sobreviven a su presencia.\\E$"}
+{"rule":"SENSIBLE","sentence":"^\\QLos chthonianos son extremadamente sensibles al agua.\\E$"}
+{"rule":"SENSIBLE","sentence":"^\\QSon muy sensibles al agua, con lo que su hábitat natural son los grandes desiertos a poder ser con volcanes activos cercanos.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QVástagos de Astarte (Retoño oscuro) ☾\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QLa parte sólida no es inmune a los ataques físicos.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEs inmune a todo ataque físico.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QTenía los ojos rojos como dos tizones inflamados, los dientes largos y salientes como los colmillos de un cerdo, una boca enorme que cruzaba su rostro de arriba abajo y tan grande como el brocal de un pozo, con dos antebrazos que se convierten en cuatro brazos a la altura del codo, y uñas ganchudas como las garras del león.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QLa tercera historia de las historias de Sindbad el marino, que trata del tercer viaje (n. 299)\\E$"}
+{"rule":"FORM","sentence":"^\\QLa boca les cruza la cara de arriba a abajo, de forma que cada ojo queda a un lado de la boca.\\E$"}
+{"rule":"SENSIBLE","sentence":"^\\QSensible a la luz del día:\\E$"}
+{"rule":"REALIZE","sentence":"^\\QAunque la creencia popular dice que los Nasnas son la descendencia de un tipo de yinn llamado Shiqq y un humano, la gente que practica la magia sabe que los Nasnas se consiguen de cortando por la mitad cadáveres de humanos y realizando determinados rituales.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSobreviven en los oscuros pasillos subterráneos atrapando a los intrusos y sacrificándolos a sus dioses reptiles.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QVinieron a la Tierra para escapar de la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y otro en una especie de boca.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDe normal, no pueden interactuar en el mundo físico, pero cuando han corrompido a su humano pueden poseerlo.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QAtaques físicos como armas de corte o contundentes, arcos, fuego, electricidad, …\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEs decir, que si viajas en el tiempo y escapas de vuelta a tu tiempo, podrá olfatearte hasta tu época actual.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QRealiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QMientras andaba de este modo vio una gran polvareda de la que salía un estrépito que se hizo ensordecedor como el trueno, y oyó chocar lanzas y espadas detrás de ella, y un tumulto producido por galopes y gritos que nada tenían de humano; y de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghūls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.\\E$"}

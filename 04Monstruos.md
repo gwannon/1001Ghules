@@ -1,12 +1,13 @@
 # Seres y monstruos de las tenebrosas 1001 Noches
 
-\sinc
 
 En este bestiario encontrarás todas las criaturas que Abdul Alhazred describió en sus 1001 Noches. Desde pequeños Ghūles hasta gigantescos Falaks con capacidad de devorar el mundo.
 
 ```
 Recuerda que los seres con el símbolo ☾ son considerados comodines.
 ```
+
+\sinc
 
 &nbsp;
 
@@ -107,7 +108,7 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
   * **Armadura +2:** Caparazón de crustáceo
   * **Pinzas:** FUE+d4
   * **Volar:** Paso volando 8. Los al mighos tienen unas alas con las que vuelan.
-  * **Tecnología Migho:** Puedes asignarle a un sabio hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su "garganta" y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6. Los al mighos pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+  * **Tecnología Migho:** Puedes asignarle a un sabio hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. En partida tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su «garganta» y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6. Los al mighos pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
   * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
   * **Telepatía:** Los al mighos puede comunicarse mediante telepatía entre ellos y con humanos afines.
 * **TPC:** 1d6
@@ -146,7 +147,7 @@ Los abu-qiths son grandes científicos, como demuestra su capacidad de viajar en
   * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un abu-qith. También tiene 1 herida extra.
   * **Pinzas:** FUE+d6
   * **Telepatía:** Los abu-qiths son capaces de comunicarse con cualquier especie inteligente mentalmente.
-  * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+  * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. En partida tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
 * **TPC:** 1d8
 
 #### Soldado abu-qith ☾
@@ -165,7 +166,7 @@ Los abu-qiths combatieron y derrotaron a un gran enemigo, los warams, y es por e
 \sp
 
 * **Capacidades especiales:**
-  * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
+  * **Tecnología abu-qith:** Puedes asignarle a un abu-qith hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. En partida tienen 8 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los abu-qiths pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación, aunque suelen estar orientados al combate.
 * **TPC:** 1d8
 
 ```
@@ -184,9 +185,9 @@ Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de e
 |PA|2|
 |CDF|1|
 |Munición|35|
-|FUE Min.| -- |
+|FUE Min.| — |
 |Peso|2|
-|Coste| -- |
+|Coste| — |
 
 **Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de forma que en 35 minutos tendrías el arma plenamente cargada.
 
@@ -239,7 +240,7 @@ A pesar de que son morfológicamente los yinns más extraños, ya que no se pare
 
 Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los janns no son utilizables de forma normal por humanos y habría que adaptarlos.
 
-[![An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.](./images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.") 
+[![An Old One. Tom Ardans artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.](./images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.") 
 
 El cinco es un número importante entre los janns debido a que su torso de tonel tiene 5 lados, tiene 5 tentáculos, etc. La estrella de 5 puntas es también un símbolo importante para los janns.
 
@@ -256,7 +257,7 @@ El cinco es un número importante entre los janns debido a que su torso de tonel
   * **Tentáculos (2):** FUE+d4. Los tentáculos tienen un alcance de 2 y no sufren penalización por múltiples acciones, ni penalización por mano torpe. Por turno 2 de los 5 tentáculos pueden tomar acciones independientes y sostenidas.
   * **Tamaño +2:** Un ejemplar adulto puede llegar a los 350 kg (+2 a dureza).
   * **Visión nocturna:** Ve sin problemas excepto en oscuridad completa.
-  * **Tecnología Jann:** Puedes asignarle a un jann hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 6 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los janns pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
+  * **Tecnología Jann:** Puedes asignarle a un jann hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. En partida tienen 6 PP que pueden gastar para hacer funcionar esos 2 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los janns pueden usar cualquier poder del manual básico, no tienes las limitaciones de esta ambientación.
 * **Equipo:** Herramientas y utensilios que use en su trabajo
 * **TPC:** d8
 
@@ -290,9 +291,9 @@ Son considerados cheitáns, yinns malvados. Además, son tremendamente poderosos
 
 Los qareens son seres de energía invisibles en forma de vórtice. En este estado suelen coger a individuos marginales y de mente débiles y convertirlos en sus siervos que se encargan de hacer las tareas que ellos no pueden.
 
-* **Atributos:** Agilidad --, Astucia d12+1, Espíritu d12+3, Fuerza --, Vigor --
+* **Atributos:** Agilidad —, Astucia d12+1, Espíritu d12+3, Fuerza —, Vigor —
 * **Habilidades:** Saber de Suleimán d12, Notar d10, Sigilo d8
-* **Paso:** 6; **Parada:** --; **Dureza:** --
+* **Paso:** 6; **Parada:** —; **Dureza:** —
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
   * **Incorpóreo:** En su forma incorpórea son totalmente invulnerables contra armas físicas y mágicas. Solo los ataques mentales podrían hacerles daño. También los hace casi invisibles dándoles un -4 a los que quieran detectarlos.
@@ -347,7 +348,7 @@ Un humano poseído por un qareen tiene sus atributos y habilidades normales y un
 
 ### Abibil (Byakhee)
 
-> /p/ … Una horda de mansos, híbridos seres alados que ningún ojo, ningún cerebro en su sano juicio, ha podido contemplar jamás. No eran águilas, ni hienas, ni búhos, ni hormigas, ni murciélagos, sino una mezcla impía de todos y de ninguno; eran algo que no consigo -a nuestro señor se lo agradezco- recordar. Daban saltos blandos y torpes, impulsándose a medias con sus pies palmeados y a medias con sus alas membranosas. Y cuando llegaron hasta los cuarenta celebrantes, cada uno de los 40 se agarró a ellos, montó a horcajadas, y se alejó volando…
+> /p/ … Una horda de mansos, híbridos seres alados que ningún ojo, ningún cerebro en su sano juicio, ha podido contemplar jamás. No eran águilas, ni hienas, ni búhos, ni hormigas, ni murciélagos, sino una mezcla impía de todos y de ninguno; eran algo que no consigo —a nuestro señor se lo agradezco— recordar. Daban saltos blandos y torpes, impulsándose a medias con sus pies palmeados y a medias con sus alas membranosas. Y cuando llegaron hasta los cuarenta celebrantes, cada uno de los 40 se agarró a ellos, montó a horcajadas, y se alejó volando…
 
 Si bien la tradición oral dice que los abibil son grandes aves rapaces que ayudan a los creyentes a defenderse de los herejes, Alhazred no los consideró unos seres buenos y bondadosos, sino simplemente una raza servidora que sirven a un gran poder.
 
@@ -401,7 +402,7 @@ Su zona principal de nidación es en los picos más altos de la cordillera del C
   * **Tamaño +6:** Tiene el tamaño de un elefante africano (+6 dureza, +2 bonificación al atacarle, +1 herida).
   * **Capacidad de carga:** Pueden volar cargando con sus garras pesos de hasta unas 10 toneladas sin sufrir penalización.
   * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
-* **Equipo:** Si ha sido entrenado como cabalgadura, puede llevar una silla de montar en la que podría ir una persona de tamaño real.
+* **Equipo:** Si ha sido entrenado como cabalgadura, puede llevar una silla de montar en la que podría ir una persona de tamaño normal.
 * **TPC:** d8
 
 ### Color que cayó del cielo ☾
@@ -411,7 +412,7 @@ Su zona principal de nidación es en los picos más altos de la cordillera del C
 
 El color es un extraño ser que se cree que no es de la Tierra, sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, desde magia viva hasta fuego sin humo del que se hizo a los yinns. Pero lo describen como un color que se van extendiendo y que impregna todo, rocas, plantas y hasta animales.
 
-Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se "planta" cerca de donde cae en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital, va creciendo en tamaño.
+Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se «planta» cerca de donde cae en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital, va creciendo en tamaño.
 
 Cuando tiene suficiente tamaño, ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear. Y así el ciclo se repite ampliando el radio de acción de los colores.
 
@@ -436,8 +437,8 @@ Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcant
 
 ### Falak (Dhol) ☾
 
-> "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea como un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo. También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un pez enorme, y el pez nada en la superficie del Mar de la Eternidad. \[…\]  
-> "El Mar de la Eternidad tiene por lecho el piso superior del infierno, el cual, con sus siete regiones, está cogido entre las fauces de una serpiente monstruosa que permanecerá quieta hasta el día del Juicio.
+> «¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea como un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo. También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un pez enorme, y el pez nada en la superficie del Mar de la Eternidad. \[…\]»
+> «El Mar de la Eternidad tiene por lecho el piso superior del infierno, el cual, con sus siete regiones, está cogido entre las fauces de una serpiente monstruosa que permanecerá quieta hasta el día del Juicio.»
 > 
 > **Referencia:** Historia de Belukia (n. 362-363)
 
@@ -445,7 +446,7 @@ Los falak son inmensas serpientes/gusanos. Según la mitología árabe/islámica
 
 Se dice que son albinos y están cubiertos de una baba que excreta su piel. No queda clara la forma de su boca. Hay versiones que dicen que es como un pico de tres partes y otras personas que está llena de dientes afiladísimos.
 
-Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astrofísico actual diría que su sistema digestivo es un pequeño agujero negro que se traga toda la materia.
+Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astrofísico moderno diría que su sistema digestivo es un pequeño agujero negro que se traga toda la materia.
 
 * **Atributos:** Agilidad d6, Astucia d12, Espíritu d12+4, Fuerza d12+12, Vigor d12+4
 * **Habilidades:** Disparar d8, Notar d8, Pelear d12+1
@@ -658,7 +659,7 @@ En su mundo son esclavos que extraen de la tierra rubís para sus amos, las best
 
 ### Nasnas
 
-> … y en el mismo instante desapareció parte de mi cuerpo y no quedó visible de mi persona más que la mitad de un hombre, un tronco dotado de movimiento. Y mi maestro me dijo: "Transpórtate ahora a la ciudad. Y allá esperarás así lo que ansías". Y contesté con el oído y la obediencia, y me transporté en un abrir y cerrar de ojos a la plaza pública, donde, en cuanto llegué, me vi rodeado de una muchedumbre innumerable. Y todos me miraban con asombro. Y de todos lados acudían para contemplar a un ser tan singular que solo tenía de hombre la mitad y que se movía con tanta rapidez. Y en seguida cundió por la ciudad el rumor de tan extraño fenómeno, y llegó hasta el palacio en que vivía la hija del sultán con su madre. Y ambas desearon satisfacer su curiosidad para conmigo, y enviaron a los eunucos para que me cogieran y me llevaran a presencia suya.
+> … y en el mismo instante desapareció parte de mi cuerpo y no quedó visible de mi persona más que la mitad de un hombre, un tronco dotado de movimiento. Y mi maestro me dijo: «Transpórtate ahora a la ciudad. Y allá esperarás así lo que ansías». Y contesté con el oído y la obediencia, y me transporté en un abrir y cerrar de ojos a la plaza pública, donde, en cuanto llegué, me vi rodeado de una muchedumbre innumerable. Y todos me miraban con asombro. Y de todos lados acudían para contemplar a un ser tan singular que solo tenía de hombre la mitad y que se movía con tanta rapidez. Y en seguida cundió por la ciudad el rumor de tan extraño fenómeno, y llegó hasta el palacio en que vivía la hija del sultán con su madre. Y ambas desearon satisfacer su curiosidad para conmigo, y enviaron a los eunucos para que me cogieran y me llevaran a presencia suya.
 > 
 > **Referencia:** Historia del tercer loco (n. 843)
 
@@ -737,7 +738,7 @@ Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isl
   * **Tamaño 11:** 30 metros de diámetro (+11 dureza, +4 bonificación al atacarla, +2 herida).
   * **Tentáculos:** FUE+d4
   * **Múltiples ataques:** Puede sacar tentáculos de cualquier parte de su cuerpo y atacar a todos los que están encima de su superficie hasta un máximo de 3 objetivos.
-  * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida, excepto las creadas por fuego o electricidad.
+  * **Regeneración rápida:** Haz una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida, excepto las creadas por fuego o electricidad.
   * **Inmunidad:** Ataques físicos como armas de corte, flechas, piedras …
   * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o quemando la vegetación que tiene.
 * **TPC:** 1d12
@@ -904,7 +905,7 @@ Son retoños de la diosa Astarte (una máscara de Shub-Niggurath) y normalmente 
 > 
 > **Referencia:** La quinta historia de las historias de Sindbad el marino, que trata del quinto viaje (n. 307)
 
-Este extraño ser, algunos lo clasifican como yinn o cheitán, tiene la forma de un hombre mayor sin extremidades inferiores. En su lugar posee dos especies de pseudópodos de hasta unos 3 metros de largo.
+Este extraño ser, algunos lo clasifican como yinn o cheitán, tiene la apariencia de un hombre mayor sin extremidades inferiores. En su lugar posee dos especies de pseudópodos de hasta unos 3 metros de largo.
 
 \sp
 
