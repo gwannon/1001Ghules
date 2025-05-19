@@ -704,3 +704,107 @@
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QDespués cerró el libro, se lo metió en la manga y se levantó para salir.\\[…\\] «Te ordeno pues, que vayas a buscar a alguien que me diga por qué he reído y llorado con la lectura de este libro y adivine lo que hay en este volumen desde la primera página hasta la última.\\E$"}
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEste saco de arpillera lleno de una extraña arena que tiene un extraño brillo verdoso dota a la persona que lo porta el poder de controlar la tierra a su voluntad, podrá mover grandes cantidades de roca, moverse a través de la tierra o golpear a sus enemigos con terremotos o lluvias de rocas.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTampoco pueden trasformar tu cuerpo haciéndote más alto o más guapo, pero podrán buscarte las mejores ropas del mundo y darte los mejores cosméticos.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi le llevan un pedazo del cuerpo de Haquim «el mielero» a Dana y le dan una buena descripción del cadáver, está podrá decirles que lo torturaron antes de matarlo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl más importante y popular consiste en encender fuegos en las calles mientras los participantes los saltan gritando «zardí-e man az to, sorjí-e to az man» (que significa «mi color amarillo (pálido, enfermizo) es tuyo, tu color rojo es mío»).\\E$"}
+{"rule":"REALIZE","sentence":"^\\Q/s/ Recompensa de deseos (+3): Este cuento es perfecto para realizar actos heroicos como quedarse en el alcázar para que no cause víctimas mortales.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QPueden combatirlos, lo cual es muy complicado sin la preparación oportuna, ya que son inmunes a todos los ataques físicos excepto al agua.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QIgual no quieres armas directamente mágicas para que los enemigos inmunes a ataques físicos sean más complicados o que un practicante de magia las imbuya de su poder.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QEl grupo irá descubriendo los horrores que esconden los oscuros callejones de su ciudad y descubrirán un plan demoníaco para sumir a la ciudad en la perdición.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAcumulando 3 tiradas exitosas (contando los avances) de Investigar encontrarán un libro que puede servirles, Secretos oscuros del shatranj.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QTomo a mi alrededor cambió, ya no estaba en el palacio del emir, sino en un lugar vació y oscuro donde no sabía lo que era arriba y abajo.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QLos espías y exploradores del Califa traen malas noticias, los enemigos del califa están preparándose en la frontera para atacar Bagdad.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QMensajeros y palomas de todo el Califato están llegan a Bagdad con muy malas noticias sobre movimientos enemigos en las fronteras y en las provincias rebeldes.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QLas noticias de guerra corren por las calles de la ciudad, solo encontrando a la Luna Creciente y quitándoles el juego podrán acabar con esta locura.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QLos rumores de guerra se están extendiendo por toda la ciudad y las caravanas no traen mejores noticias.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSi tiene capacidades mágicas, incluso le ofrecerá ser su maestro y le tentará con saberes oscuros.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QSi aceptan el trato, les dirá que solo necesitan hacer una figura de plata del almotacén y que la lleve en los bolsillos, la maldición pasará a la figura y cuando la figura desaparezca la maldición habrá sido rota.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QHistoria del asesino de Suc’Naath\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEn el turno de la figura que rebusca, rasgará la tienda de campaña y saldrá corriendo.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QMientras las otras figuras encapuchadas en su turno se pondrán en medio y tratarán de evitar que lo persigan.\\E$"}
+{"rule":"SENTENCE","sentence":"^\\QA poco que le presenten algo un poco lógico, dictará sentencia y pondrá la caravana en marcha.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QAl llegar a la tumba verán 3 figuras, una de ellas más grande (2,5 m) que el resto.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QZiba no necesita mano de obra para encontrar la estatua de Suc’Naath, puede usar a sus adeptos, pero sabe que necesita personas excepcionales y ha detectado la Afinidad Mágica de tus schahriars.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QZiba no necesita mano de obra para encontrar la estatua de Suc’Naath, puede usar a sus adeptos, pero sabe que necesita personas excepcionales y ha detectado la Afinidad Mágica de tus schahriars.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSi consiguen juntar sus genes, con la estatua perdida y la esencia que hay en el cometa, Suc’Naath podrá abandonar su lugar entre los dioses danzantes de Azathoth y aparecer en nuestro mundo para llevar a cabo sus terribles planes apocalípticos y conceder a sus adoradores poder e inmortalidad.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QAdemás, teme que si los adeptos tocan la estatua puedan morir o algo incluso peor, que su fe interactúe con la estatua y la destruya o que la esencia pase al cultista y ya no sea solo ella la única persona que porte parte de la esencia de Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEn ella reside un tercio de la esencia de Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QUna tirada de Notar -2 detectará una losa movible en uno de los cubículos del fondo que da acceso a una cueva secreta (5) que es el templo real Suc’Naath.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QTemplo de Suc’Naath (6)\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QTemplo de Suc’Naath (6)\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QCapilla de Suc’Naath (9)\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEn esta pequeña cavidad se guarda la estatua de Suc’Naath sobre un altar de piedra.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSolo hay una manera de conseguir combinar los tres fragmentos de la esencia de Suc’Naath, que Ziba viaje por el espacio hasta el cometa Aiin con la estatua.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QZiba cree que se convertirá en un avatar de Suc’Naath y volverá a la Tierra con increíbles poderos para conquistarla y convertirla en su reino.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QZiba cree que se convertirá en un avatar de Suc’Naath y volverá a la Tierra con increíbles poderos para conquistarla y convertirla en su reino.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPara evitar que Suc’Naath sea liberado, pueden acabar con Ziba, con el Rokh o con la estatua.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QY he aquí que, cuando el desesperado Aladino frotó, sin querer, el anillo que llevaba en el pulgar y cuya virtud ignoraba, vio surgir de pronto ante él, como si brotara de la tierra, un inmenso y gigantesco efrit, semejante a un negro embetunado, con una cabeza como un caldero, y una cara espantosa, y unos ojos rojos, enormes y llameantes, el cual se inclinó ante él, y con una voz tan retumbante como el rugido del trueno, le dijo «¡Aquí tienes entre tus manos a tu esclavo!\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QCada vez que se mueve una pieza de marfil, el mared imbuido en el tablero establece un movimiento de una pieza de ébano y el mared imbuido en ella genera con su magia unas ilusiones muy realistas de ejércitos que se mueven o atacan al ejército del jugador con las piezas de marfil.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEl Rey Suleimán consiguió este artefacto en una de sus batallas contra los al mighos y lo reprogramó en sus funciones actuales y lo ocultó dentro de un tablero de shatranj.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QDe día y de noche hay 6 (2 en la carnicería) adeptos cultistas y un cultista superior.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QAdemás de las tiradas de botín de los sukaans, hay una tirada extra de d8 de la basura de la entrada de la cueva, si son libros (creados con las tablas de libros) estarán dañados, si salen dañados estarán muy dañados y si salen muy dañados estarán destruidos y se perderán la tirada de botín.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi luchan, cada turno la expedición perderá a una persona, la ventaja será que cada 5 personas muertas recuperan media semana de víveres.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QBajo el blanco cendal que caía de la altura, en toda la extensión que podía abarcar la mirada fija en los horizontes hundidos en la noche, aparecían dentro del recinto de bronce cúpulas de palacios, terrazas de casas, apacibles jardines, y a la sombra de los macizos brillaban los canales, que iban a morir en un mar de metal, cuyo seno frío reflejaban las luces del cielo.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEl emir Muza y sus acompañantes anduvieron durante algún tiempo por lo alto de los muros, y llegaron al fin ante dos torres unidas entre sí por una puerta de bronce, cuyas dos hojas encajaban tan perfectamente, que no se hubiera podido introducir por su intersticio la punta de una aguja.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLa gente tiene ropa actual, van a la última moda de Bagdad y Damasco.\\E$"}
+{"rule":"TE_TILDE2","sentence":"^\\QDesde las frases en sánscrito como «Bhadraṃ te» que significa «Qué seáis felices» a referencias al karma.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\Q¡Si le colocas a la puerta de la ciudad, será un guardián a toda prueba, pues si viniese un enemigo para tomar la plaza, le adivinará a distancia, y soplando en su extraña flauta que tiene a la altura de su rostro, le paralizará y le hará caer muerto de terror!» /p/ /p/ Referencia:\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\Q\\[…\\]» Y como para confirmar todo lo bien que hablaban de ella, acertó a pasar por allí un pobre hombre ciego y paralítico, a quien un mozo llevaba a hombros en una banasta.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEl tesoro de Al-Schamardal es un conjunto de objetos y armas mágicas que convierte a su portador es un ser tremendamente poderoso capaz de acabar con ejércitos y destruir ciudades con solo desearlo, pero a la vez todos estos objetos traen maldiciones y si se abusa de ellos las consecuencias pueden ser catastróficas.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QJuder penetró entonces sin dificultad en la estancia del tesoro, y vio los montones de oro agrupados en apretadas filas; pero se dirigió al pabellón sin prestarles la menor atención, y cuando hubo levantado la cortina, vio al gran adivino Al-Schamardal acostado en el trono de oro, con el alfanje talismánico a la cintura, el anillo en un dedo, la redomita de kohl sujeta al cuello por una cadena de oro, y encima de su cabeza aparecía la esfera celeste, brillante y redonda como la luna.\\E$"}
+{"rule":"REALIZE","sentence":"^\\Q«¡Oh Juder, toma este anillo que realizará todos tus anhelos!\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLos seguidores han conseguido parte de la esencia de Suc’Naath.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QGiafar ha sido de advertido de que en 15 días una gran alineación de planetas que podría ser utilizado para abrirle portales a alguna entidad oscura.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QUn jugador podría intentar hablar con los muertos y sacar información al Rey Kusch que podría saber la ubicación de la fabulosa ciudad de Aram-de-las-columnas, fundada por su padre, el Rey Scheddad ben-Aad, o tratar de averiguar dónde enterró su fabuloso tesoro cuando colapsó Aram y la abandonaron.\\E$"}
+{"rule":"FIGURE","sentence":"^\\Q«Acércate, ¿qué te parece?» Cuando mis ojos se posaron en el viejo tablero, mi vista se nubló, las dimensiones del tablero se distorsionaron de maneras imposibles y las figuras parecía que tomarán vida.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QTras leerla se acercó a un tablero de shatranj e hizo un movimiento con las figuras de marfil, mientras mascullaba para sus adentros.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QTras leerla se acercó a un tablero de shatranj e hizo un movimiento con las figuras de marfil, mientras mascullaba para sus adentros.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QSea como sea, la figura aterrizará cerca de un bazar de alimentación de la zona sur de Karkh.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QLa tienda está poco iluminada y parece que una figura extraña se esconde en las sombras.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QPuedes decirles que fue enterrado en el sótano, que se le enterró con objetos personales o realizando algún tipo de ceremonia pagana.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QSegún crucen el umbral de la puerta, una figura encapuchada a su espalda gritará «Por el Gremio de Bronce».\\E$"}
+{"rule":"FIGURE","sentence":"^\\QY vio como una figura lanzaba una piedra que al golpear a Barukh pringo sus ropas de un líquido rojo.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QTus schahriars y la caravana se adentran en Egipto, tierra de faraones y pirámides, pero también de serpigente y de dioses antiguos y oscuros.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QCada acción que realicen con éxito les dará un contador de éxito y les quitará contadores de tiempo.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QCada figura tiene un texto en caracteres jónicos que dice:\\E$"}
+{"rule":"FIGURE","sentence":"^\\QLa figura alta se levantará hasta llegar a los 3 metros y dejará caer su capa para mostrarse como un abu-qith soldado con una arma lanzarrayos.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEl caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada.\\E$"}
+{"rule":"REAL","sentence":"^\\QEl caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada.\\E$"}
+{"rule":"REAL","sentence":"^\\QTiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEste caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que es de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEn el centro hay altar ceremonial con una figura de una deidad femenina con pseudópodos y alas membranosas y alrededor diferentes recipientes con opio, haschisch y otras sustancias psicotrópicas.\\E$"}
+{"rule":"ADEPT","sentence":"^\\Q4 adeptos cultistas (cultista) vigilando y trabajando en el motor\\E$"}
+{"rule":"ADEPT","sentence":"^\\Q6 adeptos cultistas trabajando y el adepto superior\\E$"}
+{"rule":"ADEPT","sentence":"^\\Q6 adeptos cultistas trabajando y el adepto superior\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi le gusta, les dará 2.000 dinares para todos.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QUn adepto de la Luna Creciente la ha estado hablando de que unos yinns a los que representa pueden sacar su mente de su decrépito y enfermo cuerpo y meterlo en un ingenio mecánico que le permitirá volar entre las estrellas.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QJunto a Mariam viaja un siniestro personaje llamado Bassir (usa las estadísticas de un adepto cultista), nativo de Balaz Rud, con quien se acaba de casar Mariam.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QPrimera planta (0-2 adeptos cultistas)\\E$"}
+{"rule":"ADEPT","sentence":"^\\Q8 adeptos cultistas, la mitad dormidos y la otra comiendo o haciendo sus cosas\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi comparan todos estos objetos infectados con el preciado coral, todo indica que el valioso coral que tan bien se vende está infectado y mutado por esa extraña plaga color morado.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi no son capaces de descifrarlo pueden consultar con Abū Yūsuf al-Kindī, una eminencia en criptografía que vive en Bagdad.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi vuelven a un lugar donde han retirado tierra, verán que el agujero está tapado de nuevo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSeguramente les lanzarán cubos de agua u orín, les gritarán y les llamarán de todo y terminarán llamado a la guardia.\\E$"}
+{"rule":"REAL","sentence":"^\\QNo tiene un precio real, nadie debería poder comprarlo o venderlo.\\E$"}
+{"rule":"PRESENT","sentence":"^\\QDebería usarse como la dote perfecta para poder casarte con el hijo o la hija de un califa o como presente de paz entre reinos en guerra.\\E$"}
+{"rule":"REAL","sentence":"^\\Quna gran fuente de plata, en medio de la cual se encontraba un pavo real de oro rodeado por veinticuatro pavas reales del mismo metal.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEsta figura-reloj es el reloj más preciso que existe en el mundo actual y su tecnología está muy avanzada a su tiempo.\\E$"}
+{"rule":"FORM","sentence":"^\\QNo tienen ningún tipo de sello o símbolo, así que la única forma de saber qué hace es ponérselo.\\E$"}
+{"rule":"FORM","sentence":"^\\Qconsistía en una especie de sapo humanoide desnudo, deforme y grotesco hecho de oro, incrustado de gemas y pedrerías de gran precio, que tenía en la mano una flauta de una extraña forma.\\E$"}
+{"rule":"FIGURE","sentence":"^\\Q«¡Oh, sabio! ¿para qué sirve esta figura?» El sabio contestó:\\E$"}
+{"rule":"FIGURE","sentence":"^\\Q«¡Oh mi señor! esta abominable figura de oro posee una virtud admirable!\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEn el mismo estilo de la estatua del guerrero a caballo que corona la cúpula verde del palacio de las Maravillas de Bagdad, esta monstruosa figura de oro de unos 60 cm de altura hace que las milicias atacantes de la puerta donde se halle, caigan muertas de miedo y huyan despavoridas.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QLa figura de este flautista amorfo no tiene ningún tipo de bisagra, ni articulación, ni engranaje.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QUna tirada de Saber de Suleimán, dejará claro que la figura representa a un flautista amorfo, parte de la Corte del Gran Azathoth, que toca su flauta para tranquilizar y apaciguar a su señor.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGold statuette 1200 B.C.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QDe hecho, si se rompiera la figura se vería que está hueca y que en su interior hay los órganos principales de uno de estos amorfos flautistas en un estado parecido al de los cerebros humanos en los tubos cerebrales de los al mighos.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QAl romper la figura y hacer un hechizo de destierro adecuado, la esencia del flautista volvería a la Corte de Azathoth donde tomaría carne de nuevo y volvería a tocar para este caótico dios.\\E$"}
+{"rule":"FORM","sentence":"^\\QPor su forma, se asemejaba a una marmita oblonga, con un asa curvada a un lado y una espita para la llama al otro.\\E$"}
+{"rule":"FORM","sentence":"^\\QDalila y Adil, si consigues una forma de que puedan comunicarse (oír y hablar) y de ver, pueden ser usados como grimorios de nivel 6.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi saca más de 10, el arma del schahriar impactará en el dron haciéndole daño normal.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QLlegarás entonces a una tercera puerta, por la que saldrá a tu encuentro un arquero que te amenazará con su arco armado de flecha; pero preséntale resueltamente tu pecho como blanco, ¡y caerá a tus pies convertido en un cuerpo sin alma!\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEn este caso, si falla no solo le atacará el dron actual, sino también los de las tres estancias anteriores a no ser que hayan sido destruidos.\\E$"}
+{"rule":"FORM","sentence":"^\\QPodemos encontrar todo tipo de monedas de muchas épocas, así como lingotes de oro y plata y piedras preciosas talladas en todo tipo de formas.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QPara ello, le bastará tocar con el dedo el punto adonde quiere ir y las regiones que desea recorrer, y la esfera empezará a dar vueltas, haciendo desfilar ante sus ojos todas las cosas interesantes del lugar en cuestión, así como sus pobladores, todo como si lo tuviese entre las manos.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QY si a veces está quejoso de la hospitalidad de los indígenas de cualquier país o el recibimiento que le dispensó una ciudad entre las ciudades, le bastará dirigir el sol hacia el punto en que se encuentra la región enemiga, e inmediatamente será la tal presa de las llamas y arderá con todos sus habitantes.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi consideras que alguno es más poderoso de lo normal o puede entrometerse de forma negativa en tu campaña, puedes quitarlo o rebajar su poder como tú veas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QY cuando él le hubo sacado el último alfiler, la tórtola dio una sacudida y de nuevo se tornó en joven.\\E$"}

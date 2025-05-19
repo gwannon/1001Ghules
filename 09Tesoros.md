@@ -415,7 +415,7 @@ _El caballo de ébano volando por toda la Tierra._
 
 El caballo de ébano es una figura de madera de ébano de un caballo trotando a tamaño real tremendamente realista y detallada. 
 
-Tiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata. Es tan realista que si no fuera porque está inmóvil pasaría por real.
+Tiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata. Es tan realista que si no fuera porque está inmóvil pasaría por auténtico.
 
 Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que es de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales.
 
@@ -491,7 +491,7 @@ Si algún schahriar lo examina con Ciencias se dará cuenta de que no tienen nin
 
 ### Gorro de cuero mágico
 
-> Y a la sazón se dijo Hassán: "¡No cabe duda! ¡Este gorro está encantado! ¡Y su encanto consiste en hacer invisible a quien lo lleva en la cabeza!" Y se puso a bailar de alegría, diciéndose: "¡Alah me lo envía! ¡Porque, con este gorro en la cabeza, puedo correr a ver a mi esposa sin que a mí me vea nadie!"
+> Y a la sazón se dijo Hassán: «¡No cabe duda! ¡Este gorro está encantado! ¡Y su encanto consiste en hacer invisible a quien lo lleva en la cabeza!» Y se puso a bailar de alegría, diciéndose: «¡Alah me lo envía! ¡Porque, con este gorro en la cabeza, puedo correr a ver a mi esposa sin que a mí me vea nadie!»
 > 
 > **Referencia:** Las aventuras de Hassan Al-Bassri (n. 614)
 
@@ -793,7 +793,7 @@ Al-Schamardal modificó el laboratorio y creo una tumba con 8 estancias
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6(1)
 * **Equipo:** Arma de filo (FUE+d6), Arma contundente (FUE+d6), Arma de asta (FUE+d6), Lanzallamas
 * **Capacidades especiales:**
-  * **Dron:** Aunque el holograma sea muy grande como en el caso del caballero, en realidad el proyector holográfico es un dron de pequeño tamaño al que es muy difícil acertar. Aunque el schahriar no lo sepa, tiene un -4 a todas sus tiradas, con lo que su parada es de 10. Si falla normal (tirada menos de 6) parecerá que el holograma le para el golpe. Si saca entre 7 y 10 el arma el dron generará una herida en el diseño del holograma, pero sin hacerle daño. Si saca más de 10 el arma del schahriar impactará en el dron haciéndole daño normal. En caso de golpes apuntados solo se aplicarán si son más de +4.
+  * **Dron:** Aunque el holograma sea muy grande como en el caso del caballero, en realidad el proyector holográfico es un dron de pequeño tamaño al que es muy difícil acertar. Aunque el schahriar no lo sepa, tiene un -4 a todas sus tiradas, con lo que su parada es de 10. Si falla normal (tirada menos de 6) parecerá que el holograma le para el golpe. Si saca entre 7 y 10 el arma el dron generará una herida en el diseño del holograma, pero sin hacerle daño. Si saca más de 10, el arma del schahriar impactará en el dron haciéndole daño normal. En caso de golpes apuntados solo se aplicarán si son más de +4.
 
 \sp
 
@@ -866,7 +866,7 @@ Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra In
 
 ##### 7ª puerta
 
-> "Llegarás a la séptima puerta, por último, y llamarás en ella. ¡Y la persona que ha de abrirte y aparecerte en el umbral, será tu madre! Y te dirá: «¡Bienvenido seas, hijo mío! ¡Acércate a mí para que te desee la paz!» Pero le contestarás: «¡Sigue donde estabas! ¡Y desnúdate!»  
+> «Llegarás a la séptima puerta, por último, y llamarás en ella. ¡Y la persona que ha de abrirte y aparecerte en el umbral, será tu madre!» Y te dirá: «¡Bienvenido seas, hijo mío! ¡Acércate a mí para que te desee la paz!» Pero le contestarás: «¡Sigue donde estabas! ¡Y desnúdate!»  
 > Ella te dirá: «¡Oh hijo mío, soy tu madre! ¡Y me debes alguna gratitud y respeto, en gracia a que te amamanté y a la educación que te di ¿Cómo quieres obligarme a que me ponga desnuda?»! Tú le contestarás, gritando: «¡Si no te quitas la ropa, te mato!» Y cogerás un alfanje que hallarás colgado en la pared, a la derecha, y le dirás: «¡Empieza pronto!» Y ella procurará conmoverte y hará para engañarte, para que te apiades de ella. Pero guárdate de dejarte persuadir por sus ruegos, y cada vez que se quite una prenda de vestir, has de gritarle: «¡Quítate lo demás!» Y continuarás amenazándola con la muerte hasta que esté completamente desnuda. ¡Pero entonces verás que se desvanece y desaparece!
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
@@ -985,7 +985,7 @@ El usar el poder de videncia consume 1 PP, pero usar la lluvia de fuego supone u
 
 Al aplicar el kohl de esta redomita (que no se acaba nunca) permite ver todos aquellos tesoros enterrados en la tierra o detrás de paredes de roca.
 
-Se verá donde debe cavarse o picar, pero no se verá exactamente cuál es el tesoro, solo el tipo y de forma muy general.
+Se verá donde debe cavarse o picar, pero no se verá exactamente cuál es el tesoro, solo el tipo y de manera muy general.
 
 \sc
 
@@ -1066,7 +1066,7 @@ Esta colorida alfombra de gran tamaño permite viajar de forma casi instantánea
 
 Con la alfombra va una varita que al golpear la alfombra con ella activa los poderes de la alfombra. Sin la varita la alfombra no es más que un simple mueble de gran calidad.
 
-A nivel de juego, una persona con Afinidad mágica puede gastar un PP y golpear la alfombra con su varita te llevará en un día máximo a cualquier parte del mundo conocido. Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de Bagdad a Damasco podría llevar una hora de viaje.
+En partida una persona con Afinidad mágica puede gastar un PP y golpear la alfombra con su varita te llevará en un día máximo a cualquier parte del mundo conocido. Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de Bagdad a Damasco podría llevar una hora de viaje.
 
 La alfombra permite viajar con hasta otras 3 personas más el piloto. Necesita extenderse la alfombra en el suelo completamente y sin arrugas antes de poder montarse con ella y volar.
 
@@ -1286,7 +1286,7 @@ La curcusilla tiene una desventaja muy grave y es que mientras está en tu cuerp
 ### Dátiles rojos y amarillos
 
 > /p/ Y la hija del rey observó que eran dátiles amarillos, los que más le gustaban precisamente. Y se comió los dieciséis, uno tras de otro, en el tiempo justo para llevárselos a la boca. Y dijo: «¡Oh corazón mío, cuán deliciosos son!» Pero apenas había pronunciado estas palabras, sintió un atroz dolor en dieciséis sitios distintos de la cabeza. Y se llevó inmediatamente la mano a la cabeza, y sintió que le agujereaban el cuero cabelludo dieciséis tentáculos en dieciséis sitios distintos y simétricos. Y ni tiempo de gritar había tenido, cuando ya los dieciséis pseudópodos se habían desarrollado, y de cuatro en cuatro habían ido a clavarse en la pared fuertemente.\[…\]
-> /p/ Pues que el hijo del tañedor de clarinete, que solo esperaba aquel momento, entró al palacio y subió al aposento de la princesa, diciendo: "Yo haré que le desaparezcan los tentáculos". Y en cuanto estuvo en su presencia, cogió un dátil rojo, lo partió en pedazos, y lo puso en la boca de la princesa. Y en el mismo instante se separó de la pared un tentáculo, y a ojos vistas, se fue encogiendo y acabó por desaparecer enteramente de la cabeza de la joven.
+> /p/ Pues que el hijo del tañedor de clarinete, que solo esperaba aquel momento, entró al palacio y subió al aposento de la princesa, diciendo: «Yo haré que le desaparezcan los tentáculos». Y en cuanto estuvo en su presencia, cogió un dátil rojo, lo partió en pedazos, y lo puso en la boca de la princesa. Y en el mismo instante se separó de la pared un tentáculo, y a ojos vistas, se fue encogiendo y acabó por desaparecer enteramente de la cabeza de la joven.
 > /p/ 
 > /p/ **Referencia:** Historia contada por el octavo capitán de policía (n. 950)
 

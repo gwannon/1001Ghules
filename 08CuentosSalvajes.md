@@ -1,6 +1,6 @@
 # Cuentos salvajes
 
-Aquí te presentamos 4 aventuras largas que te permitirán conocer y explorar estas primigenias 1001 noches de tres formas distintas. Son completamente independientes, pero con un poco de trabajo puedes conectarlas de maneras interesantes y hacer una gran campaña.
+Aquí te presentamos 4 aventuras largas que te permitirán conocer y explorar estas primigenias 1001 noches de tres maneras distintas. Son completamente independientes, pero con un poco de trabajo puedes conectarlas de maneras interesantes y hacer una gran campaña.
 
 * **El Pequeño Consejo:** Como pillastres de las calles de Bagdad que descubren un terrible secreto que amenaza a la ciudad y sus gentes.
 * **Más allá de la Ciudad de Bronce:** Un largo viaje conociendo las maravillas y las pesadillas que habitan en este mundo.
@@ -178,7 +178,7 @@ _El cadáver de Haquim «el mielero» ha aparecido en las orillas del río Tigri
 
 Haquim era un anciano que vivía de vender en el zoco los dulces que hacía con la miel de sus abejas. Era amable con los niños y niñas de la calle y siempre tenía un trozo de panal lleno de rica miel para darte si no habías comido.
 
-No tenía familia y pocos amigos, pero contaba historias increíbles de su juventud, llenas de magia, maldiciones, monstruos, etc. igual algo de esas historias era real y es la culpa de tu asesinato.
+No tenía familia y pocos amigos, pero contaba historias increíbles de su juventud, llenas de magia, maldiciones, monstruos, etc. igual algo de esas historias era verdadero y es la culpa de tu asesinato.
 
 Parece ser que la policía no está muy interesada en investigar la muerte de Haquim, así que el consejo busca voluntarios para esclarecer este asesinato. Haquim siempre fue bueno con los pilluelos de la calle y se lo deben.
 
@@ -331,7 +331,7 @@ Las últimas políticas del Califa (en realidad su visir y la Califesa) para la 
 
 La Progenie ha tratado de sabotear todos los intentos del Califa de poblar y civilizar Balad Ruz, pero siempre han fracasado, así que han decidido cortar de raíz y derrocar al todopoderoso Califa.
 
-El plan de Ibrahim Ibn Jibril, como sumo sacerdote de la Progenie y uno de los generales del Califa más condecorado, es muy sencillo, simular con el shatranj mágico un ataque a gran escala al Califato por parte de una coalición de enemigos y sacar a todas las fuerzas leales del Califa para defender las fronteras.
+El plan de Ibrahim Ibn Jibril, como sumo sacerdote de la Progenie y uno de los generales del Califa más condecorado, es muy sencillo. Es simular con el shatranj mágico un ataque a gran escala al Califato por parte de una coalición de enemigos y sacar a todas las fuerzas leales del Califa para defender las fronteras.
 
 Cuando el ejército esté lejos de Bagdad, daría un golpe de estado con sus tropas que se quedaron con la excusa de defender Bagdad y al Califa.
 
@@ -1583,7 +1583,7 @@ Si hablan más con Karim podrán sacarle más información con Persuadir. Se han
 
 Alya reunirá a sus consejeros y consejeras, entre ellos tus schahriars gracias a sus actuaciones anteriores. Ella vota por eliminarlos a pesar de las bajas que eso produzca. Es el camino más rápido. Al-Lawati en principio prefiere darles lo que piden, es su gente y sabe que no lo harían si no fuera extrema necesidad. Assy también prefiere darles lo que piden. Tus schahriars deberán decidir qué votar. En caso de empate, Alya tiene voto de calidad.
 
-A nivel de juego, los rebeldes exigen unas 3 semanas de víveres, pero también pueden darles más si lo desean. Si entregan lo que piden, pondrán más complicada la situación para la expedición. Si entregan más, pues será más complicado todavía.
+En partida los rebeldes exigen unas 3 semanas de víveres, pero también pueden darles más si lo desean. Si entregan lo que piden, pondrán más complicada la situación para la expedición. Si entregan más, pues será más complicado todavía.
 
 Si luchan, cada turno la expedición perderá a una persona, la ventaja será que cada 5 personas muertas recuperan media semana de víveres. Los muertos ni comen ni beben.
 
@@ -1593,7 +1593,7 @@ Si luchan, cada turno la expedición perderá a una persona, la ventaja será qu
 
 _Alguien ha entrado en la tienda de la princesa mientras duerme, busca el diario o matar a la princesa. ¿Quién sabe?_
 
-Un ruido de la vecina tienda de la princesa Alya despierta a tus schahriars, parece una pelea. Si entran verán a tres figuras encapuchadas (Asesino entrenados), dos enfrentándose a Alya alfanje en mano, mientras una tercera rebusca entre sus cosas.
+Un ruido de la vecina tienda de la princesa Alya despierta a tus schahriars, parece una pelea. Si entran verán a tres encapuchados (Asesino entrenados), dos enfrentándose a Alya alfanje en mano, mientras una tercera rebusca entre sus cosas.
 
 \sp
 
@@ -1801,7 +1801,7 @@ Si fallan al ejecutar una acción, pueden intentarla una segunda vez, pero deber
 
 Veamos algunas posibles acciones:
 
-* **Tratar de desmontar el bulo (1 contador de tiempo):** Si consiguen unas buenas tiradas de Supervivencia explicando que saben dónde están y cuál es su ruta, puede disminuir parte del bulo. Dales positivos si usan magia de forma creativa, hacen demostraciones prácticas o tienen ideas interesantes y vistosas. Si consiguen dos avances pueden conseguir medio contador de éxito.
+* **Tratar de desmontar el bulo (1 contador de tiempo):** Si consiguen unas buenas tiradas de Supervivencia explicando que saben dónde están y cuál es su ruta, puede disminuir parte del bulo. Dales positivos si usan magia de manera creativa, hacen demostraciones prácticas o tienen ideas interesantes y vistosas. Si consiguen dos avances pueden conseguir medio contador de éxito.
 * **Culpar al Gremio de Bronce (1 contador de tiempo):** Si la existencia del Gremio de Bronce es conocida por la gente de la expedición, puedes culparles de difundir el bulo de que están perdidos. Una tirada de Persuadir exitosa dará un contador de éxito.
 * **Charla motivadora (1 contador de tiempo):** Con una buena tirada de Persuadir podrían subir la moral de la expedición y evitar las deserciones. La buena comida y bebida puede ayudar. Contar los tesoros que van a encontrar y la fama puede acarrear también. Si consiguen dos avances pueden conseguir medio contador de éxito.
 * **Amenazas (1 contador de tiempo):** Unas buenas amenazas contra la gente que está soltando las mentiras puede ser eficaz. Necesitarán primero una tirada de Investigar para localizar a los objetivos y luego Intimidar. Si consiguen pasar las tiradas obtienes contador y medio de éxito, con dos avances en Intimidar pueden conseguir medio contador de éxito más.
@@ -1842,13 +1842,13 @@ Tras la caída de Aram, el príncipe Kusch prefirió buscar su destino en la Tie
 
 > /s/ **Semilla de aventura:** Un jugador podría intentar hablar con los muertos y sacar información al Rey Kusch que podría saber la ubicación de la fabulosa ciudad de Aram-de-las-columnas, fundada por su padre, el Rey Scheddad ben-Aad, o tratar de averiguar dónde enterró su fabuloso tesoro cuando colapsó Aram y la abandonaron.
 
-La gente de la expedición está buscando la forma de robar el oro de la cúpula. Enseguida aparecerá gente con cuerdas que quiere subir por las columnas.
+La gente de la expedición está buscando la manera de robar el oro de la cúpula. Enseguida aparecerá gente con cuerdas que quiere subir por las columnas.
 
 La primera persona que escale más de media columna verá que todos los cuervos toman vuelo y como uno solo se lanzan a por el escalador.
 
 Tira un 1d100 y divídelo por la parada del PJ redondeando abajo. Esos serán los puntos de daño que recibirá. Lo normal es que no quede más un amasijo de carne picada que caerá a plomo al suelo.
 
-Si pueden volar el resultado es el mismo según se acerquen al oro. La única forma de conseguir el oro es expulsar a los cuervos, por ejemplo, con humo o fuego. Para hacer daño a la bandada de cuervos se necesitan formas de hacer daño en área.
+Si pueden volar el resultado es el mismo según se acerquen al oro. La única manera de conseguir el oro es expulsar a los cuervos, por ejemplo, con humo o fuego. Para hacer daño a la bandada de cuervos se necesitan métodos de hacer daño en área.
 
 No conseguir el oro, será un bajón muy grande para la moral de la gente. Venían a por este tipo de riquezas y no las han podido conseguir. Si se llevan el oro habrán profanado la tumba de un príncipe.
 
@@ -2040,7 +2040,7 @@ Al pulsarlo 12 veces la puerta se abre y se puede acceder a una escalera de cara
 
 _La ciudad de Bronce es uno de los lugares más raros y asombrosos del mundo. Todo está congelado en el tiempo personas, animales y cosas no han cambiado en miles de años. Nada no tiene sentido para los investigadores e investigadoras._
 
-Tras bajar las escaleras de granito rojo llegarán a nivel de calle y podrán empezar a explorar la ciudad. Lo primero que verán es que toda la ciudad está congelada en el tiempo. La gente está parada como los soldados de la muralla.
+Tras bajar las escaleras de granito rojo llegarán al nivel de la calle y podrán empezar a explorar la ciudad. Lo primero que verán es que toda la ciudad está congelada en el tiempo. La gente está parada como los soldados de la muralla.
 
 Si se acercan a un zoco encontrarán que toda su actividad está también congelada en el tiempo. Si cogen alimentos de los puestos son comestibles, pero insípidos. Pídeles una tirada de VIG si quieres provocar un poco de paranoia. A partir de este momento no hay problemas de provisiones.
 
@@ -3141,7 +3141,7 @@ Al doblar una esquina y atraídos por la música y el jolgorio, los schahriars s
 
 Como puedes imaginarte el cantante es el califa y el resto de músicos o el coro su séquito. Seguramente se hayan equivocado de lugar y le estén dando la serenata a quien no deban, pero trata de que sea divertido.
 
-Seguramente les lanzarán cubos de agua u orín, les gritarán y les llamarán de todo y terminarán llamado a la guardia.
+Con mucha seguridad les lanzarán cubos de agua u orín, les gritarán y les llamarán de todo y terminarán llamado a la guardia.
 
 Lo normal es que salgan corriendo con los instrumentos y tratando de evitar a la guardia.
 
@@ -3302,7 +3302,7 @@ Al-Sasla, la serpigente científica, encontró hace unos años el sótano mientr
 
 En medio del laboratorio hay un cuerpo de un humanoide serpigente (Al-Sasla) y una especie de quimera (toro, león y cocodrilo). Si estudian el cuerpo de la quimera y la científica (tirada de Medicina) verán que la serpigente murió de las heridas de garras y mordiscos de la quimera, pero la quimera solo de un único tajo en el costado, no muy grave. El alfanje que porta en la mano Al-Sasla tiene sangre así que esa es el arma que se usó para matar a la quimera.
 
-En cada celda hay un dosier en papel escrito en Nacaal con las especificaciones de la quimera, puntos fuertes y desventajas. Si saben Naacal pueden leerlos y obtener 2d6 de daño extra al sacar un avance al atacar a la quimera en vez de 1d6. Si no saben Naacal deberán tirar Investigar -2 para extrapolar la info a partir de diagramas y esquemas.
+En cada celda hay un dosier en papel escrito en Nacaal con las especificaciones de la quimera, puntos fuertes y desventajas. Si saben Naacal pueden leerlos y obtener 2d6 de daño extra al sacar un avance al atacar a la quimera en vez de 1d6. Si no saben Naacal deberán tirar Investigar -2 para extrapolar la información a partir de diagramas y esquemas.
 
 Al lado de las jaulas hay algún tipo de salida de emergencia que da a unos arbustos detrás del templo. Parece que las quimeras salieron por allí.
 
@@ -3468,7 +3468,7 @@ Cuando se lancen, tendrán que pasar todos los sujetos a la lona una tirada de E
 
 #### Final y consecuencias
 
-En este momento podrán huir del lugar o quedarse a ayudar y a que lleguen los guardias del Califa. Si huyen con todo el jaleo nadie se fijará en ellos. Si se quedan ayudando o esperan a la guardia, estos les llevarán ante el propio Califa que les pedirá un relato de su aventura. Si le gusta les dará 2.000 dinares para todos.
+En este momento podrán huir del lugar o quedarse a ayudar y a que lleguen los guardias del Califa. Si huyen con todo el jaleo nadie se fijará en ellos. Si se quedan ayudando o esperan a la guardia, estos les llevarán ante el propio Califa que les pedirá un relato de su aventura. Si le gusta, les dará 2.000 dinares para todos.
 
 El visir y la califesa harán algunas preguntas complicadas y si ven que han actuado más o menos heroicamente se quedarán con sus nombres, pueden que los necesiten en el futuro.
 
@@ -3690,7 +3690,7 @@ Para introducirlos en esta aventura tienes varias formas.
 
 * Giafar manda a tus schahriars a investigar este extraño coral. Podría compensar el trabajo con unos 1.000 dinares más gastos y dietas.
 * Si pasan por la zona habrán oído del color de extraño color. Quizás puedan ir al pueblo a comprar ese coral tan especial para revenderlo en una gran ciudad al doble o triple de precio.
-* Quizás naveguen por el mar Rojo y atraquen en puerto de la villa de recolectores de coral o busque cruzar el mar Rojo y quieran que algún pescador les pase al otro lado del mar.
+* Tal vez naveguen por el mar Rojo y atraquen en puerto de la villa de recolectores de coral o busque cruzar el mar Rojo y quieran que algún pescador les pase al otro lado del mar.
 
 #### El pueblo de Khamas
 
