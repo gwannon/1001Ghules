@@ -91,7 +91,7 @@ Mando el padre Al-Raschid construir en Basora un gigantesco jardín botánico do
 
 Los jardineros responsables del jardín son expertos en plantas exóticas y pueden cumplir cualquier capricho del califa. Pueden ofrecerle naranjas en agosto y uvas en abril.
 
-> «Y he aquí que en el camino me encontré con un jardinero, hombre de edad, al que le consulté sobre lo de las manzanas. Y me dijo: “¡Oh hijo mío! Es una cosa difícil de encontrar, porque ahora no las hay en ninguna parte como no sea en Basrah, en el huerto del Comendador de los Creyentes. Y aun allí no te será fácil conseguirlas, pues el jardinero las reserva cuidadosamente para uso del califa”.
+> Y he aquí que en el camino me encontré con un jardinero, hombre de edad, al que le consulté sobre lo de las manzanas. Y me dijo: «¡Oh hijo mío! Es una cosa difícil de encontrar, porque ahora no las hay en ninguna parte como no sea en Basrah, en el huerto del Comendador de los Creyentes. Y aún allí no te será fácil conseguirlas, pues el jardinero las reserva cuidadosamente para uso del califa».
 > 
 > **Referencia:** Historia de la mujer despedazada, de las tres manzanas y del negro rihan (n. 18)
 
@@ -116,7 +116,7 @@ Los antiguos gobernantes de Damasco, los omeyas, tenían un excepcional gusto po
 #### La pastelería de Hassan Badreddin
 
 > Y el eunuco salió, marchando a la pastelería, donde dijo al pastelero: «He aquí que acabamos de apostar en favor de ese plato de granada, que sabes hacer, contra otro que han preparado los criados. Aquí tienes medio dinar, pero preséntalo con toda tu pericia, pues si no, me apalearán de nuevo. Todavía me duelen las costillas». Entonces Hassán se echó a reír y le dijo: «No tengas cuidado; solo hay en el mundo una persona que sepa hacer este dulce, y es mi madre. ¡Pero está en un país muy lejano!»  
-> Después Badreddin llenó muy cuidadosamente la terrina, y aun hubo de mejorarla añadiéndole un poco de almizcle y de agua de rosas. Y el eunuco regresó a toda prisa al campamento. Entonces la abuela de Agib tomó la terrina y se apresuró a probar el dulce, para darse cuenta de su calidad y su sabor. Y apenas lo llevó a sus labios, exhaló un grito y cayó de espaldas.
+> Después Badreddin llenó muy cuidadosamente la terrina, y aún hubo de mejorarla añadiéndole un poco de almizcle y de agua de rosas. Y el eunuco regresó a toda prisa al campamento. Entonces la abuela de Agib tomó la terrina y se apresuró a probar el dulce, para darse cuenta de su calidad y su sabor. Y apenas lo llevó a sus labios, exhaló un grito y cayó de espaldas.
 > 
 > **Referencia:** Historia del visir Nureddin, de su hermano el visir Chamseddin y de Hassan Badreddin (n. 24)
 
@@ -150,7 +150,7 @@ Recientemente, las murallas de la ciudad han sido derribadas por orden del calif
 
 \sp
 
-Por todo esto y para evitar problemas, se ordenó destruir las murallas de la ciudad que datan gran parte de ellas de tiempos de los romanos e incluso más antiguas. Al derribar la muralla han salido a la luz ruinas de la antigua ciudad de Ninive. Los historiadores de la ciudad hablan de que se han desenterrado varios templos de deidades pre-islámicas y algunos palacios reales.
+Por todo esto y para evitar problemas, se ordenó destruir las murallas de la ciudad que datan gran parte de ellas de tiempos de los romanos e incluso más antiguas. Al derribar la muralla han salido a la luz ruinas de la antigua ciudad de Ninive. Los historiadores de la ciudad hablan de que se han desenterrado varios templos de deidades preislámicas y algunos palacios reales.
 
 Desde su destrucción han empezado a suceder cosas extrañas, la alegre ciudad ha cambiado de humor y un sentimiento de tristeza y depresión inunda la ciudad. Incluso ha habido varios casos de suicidios muy sonados y comentados.
 
@@ -185,7 +185,7 @@ Puedes añadir misterios a muchas de las cosas que rodean Masada; por qué la co
 
 #### Zigurat de Ur
 
-De camino a Basora desde Bagdad se pueden encontrar las ruinas semienterradas de la ciudad sumeria de Ur. Entre las ruinas de casa y palacios destaca la del Zigurat dedicado al dios Nanna («luna», en sumerio). El templo, construido en el 2000 a. C., era conocido como é-temen-ní-gùr-ru en sumerio, que significa casa de cimientos revestidos de terror.
+De camino a Basora desde Bagdad se pueden encontrar las ruinas semienterradas de la ciudad sumeria de Ur. Entre las ruinas de casa y palacios destaca la del Zigurat dedicado al dios Nanna («luna», en sumerio). El templo, construido en el 2000 a. C., era conocido como _é-temen-ní-gùr-ru_ en sumerio, que significa casa de cimientos revestidos de terror.
 
 Dentro de los antiguos sumerios había adoradores de diferentes primigenios y dioses exteriores. 
 
@@ -264,7 +264,7 @@ El Egipto faraónico no es mencionado en las 1001 Noches. Las pirámides, los te
 
 ### El Cairo
 
-> … llegó a la ciudad espléndida de El Cairo, esa inmensa ciudad tan diferente de las ciudades de su país, y cuya vuelta exige tres jornadas y media de puente de Sanja, el faro de Al-Iskandaria y la mezquita de los Ommiadas en Damasco. Y le pareció que estaba lejos de haber exagerado las bellezas de aquella ciudad y de aquel país el poeta que ha dicho: «¡Egipto! ¡tierra maravillosa cuyo polvo es de oro, cuyo río es una bendición y cuyos habitantes son deleitosos, perteneces al victorioso que sabe conquistarte!"
+> … llegó a la ciudad espléndida de El Cairo, esa inmensa ciudad tan diferente de las ciudades de su país, y cuya vuelta exige tres jornadas y media de puente de Sanja, el faro de Al-Iskandaria y la mezquita de los Ommiadas en Damasco. Y le pareció que estaba lejos de haber exagerado las bellezas de aquella ciudad y de aquel país el poeta que ha dicho: «¡Egipto! ¡tierra maravillosa cuyo polvo es de oro, cuyo río es una bendición y cuyos habitantes son deleitosos, perteneces al victorioso que sabe conquistarte!»
 > 
 > **Referencia:** Historia complicada del adulterino simpático (n. 831)
 
@@ -356,7 +356,7 @@ Esta vieja tienda, que hace décadas que perdió su nombre, ha pasado de vender 
 
 \sp
 
-> Era una tienda cuyo amo acababa de morirse de repente. Estaba amueblada con divanes, cual es costumbre, y sus mercancías consistían en objetos para la gente de mar, como velas, cuerdas, cordeles, arcas sólidas, sacas para pacotillas, armas de todas formas y precios, y sobre todo una cantidad enorme de hierro y antigüedades muy estimables por los capitanes de marina, que las compraban allí para venderlas a la gente de Occidente, pues los de este país estiman en mucho las cosas antiguas, y cambian sus mujeres e hijas por un pedazo de madera podrida, por ejemplo, o por una piedra talismánica, o por un sable viejo y enmohecido.
+> Era una tienda cuyo amo acababa de morirse de repente. Estaba amueblada con divanes, como es costumbre, y sus mercancías consistían en objetos para la gente de mar, como velas, cuerdas, cordeles, arcas sólidas, sacas para pacotillas, armas de todas formas y precios, y sobre todo una cantidad enorme de hierro y antigüedades muy estimables por los capitanes de marina, que las compraban allí para venderlas a la gente de Occidente, pues los de este país estiman en mucho las cosas antiguas, y cambian sus mujeres e hijas por un pedazo de madera podrida, por ejemplo, o por una piedra talismánica, o por un sable viejo y enmohecido.
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 269)
 
@@ -456,7 +456,7 @@ Por último el Sahara y sus misterios son una fuente muy interesante de aventura
 
 Miknas o Mequinez es una ciudad del Magreb, en el actual Marruecos, al pie de las montañas del Atlas. Esta ciudad ha ido creciendo alrededor de una kasbah creada en el siglo VIII. Es una ciudad nueva, aunque pueden encontrarse en las cercanas ruinas romanas, huellas de asentamientos bereberes e incluso extrañas construcciones mucho más antiguas que romanos y bereberes.
 
-El gran interés de Miknas es que está fuera del control de Califato de Bagdad de los abasí, está bajo el control de los Idrisidas. Si tus schahriars tienen que desaparecer por problemas con el califa o con la ley, Miknas es un sitio perfecto para esconderse, no demasiado grande, pero moderno y rico y fuera de los territorios abasíes.
+El gran interés de Miknas es que está fuera del control de Califato de Bagdad de los abasíes, está bajo el control de los idrisidas. Si tus schahriars tienen que desaparecer por problemas con el califa o con la ley, Miknas es un sitio perfecto para esconderse, no demasiado grande, pero moderno y rico y fuera de los territorios abasíes.
 
 El comercio con la península Ibérica es importante, bastantes caravanas hacia o desde Oriente Medio pasan por la ciudad de Miknas, así que se podría montar algún relato que desde Miknas los lleve al emirato independiente de Córdoba y que se movieran por toda la península Ibérica.
 

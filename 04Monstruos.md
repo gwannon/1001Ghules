@@ -46,7 +46,7 @@ Se organizan en pequeños grupos familiares y son muy territoriales. Pueden infe
 * **Capacidades especiales:**
   * **Armadura +1:** Piel dura.
   * **Garras/Mordisco:** FUE+d6
-  * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación está completa en ghūl (y el personaje se vuelve injugable).
+  * **Infección:** Cualquiera que sufra una herida de un ghūl debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de la transformación completa en ghūl (y el personaje se vuelve injugable).
   * **Excavar 4:** Los ghūles pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
   * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
 
@@ -114,10 +114,10 @@ Sobre ellos recae todo el desarrollo tecnológico de la tribu. No son tan fuerte
 
 ### Abu-qith (Gran raza de Yith)
 
-> /p/  … llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo. 
-> /p/  Aquella concha cónica con pseudópodos que surgía de la tierra, diríase un engendro monstruoso arrojado allí por la fuerza de las potencias infernales. Era negro y grande como el tronco de una palmera vieja, seca y desprovista de sus palmas. Tenía cuatro enormes tentáculos, dos de las cuales semejaban pinzas de cangrejos. Al final del tercero de forma espantosa se agitaba una especie de cabeza con ojos sin pupilas lanzando iguales resplandores verdes que la mirada de tigres y panteras. En el último tentáculo tenía una caja de hueso con varios tubos a modo de trompa que usaba para hablar.
-> /p/  
-> /p/  **Referencia:** Historia de la ciudad de bronce (n. 341)
+> /p/ … llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo. 
+> /p/ Aquella concha cónica con pseudópodos que surgía de la tierra, diríase un engendro monstruoso arrojado allí por la fuerza de las potencias infernales. Era negro y grande como el tronco de una palmera vieja, seca y desprovista de sus palmas. Tenía cuatro enormes tentáculos, dos de las cuales semejaban pinzas de cangrejos. Al final del tercero de forma espantosa se agitaba una especie de cabeza con ojos sin pupilas lanzando iguales resplandores verdes que la mirada de tigres y panteras. En el último tentáculo tenía una caja de hueso con varios tubos a modo de trompa que usaba para hablar.
+> /p/ 
+> /p/ **Referencia:** Historia de la ciudad de bronce (n. 341)
 
 \sp
 
@@ -194,7 +194,7 @@ Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de e
 
 ### Warams (Pólipos volantes) ☾
 
-> /p/  Estos seres eran de constitución amorfa, parte de carne, parte de aire. Pese a que toda su estirpe es ciega, tenían sus otros sentidos muy desarrollados, lo que les hace capaces de moverse en la oscuridad como a plena luz día. Siendo parte aire son capaces de hacerse invisible y convocar vientos que sobre los que pueden cabalgar, pero su naturaleza ventosa hacen que cuando se mueven produzcan el mismo ruido que el siroco del desierto.
+> /p/ Estos seres eran de constitución amorfa, parte de carne, parte de aire. Pese a que toda su estirpe es ciega, tenían sus otros sentidos muy desarrollados, lo que les hace capaces de moverse en la oscuridad como a plena luz día. Siendo parte aire son capaces de hacerse invisible y convocar vientos que sobre los que pueden cabalgar, pero su naturaleza ventosa hacen que cuando se mueven produzcan el mismo ruido que el siroco del desierto.
 
 [![Flying Polyp by Dagonweb (Khannea SunTzu)](./images/polipo.jpg)](https://en.wikipedia.org/wiki/File:Flying_Polyp.jpg "Flying Polyp by Dagonweb (Khannea SunTzu)") 
 
@@ -202,7 +202,7 @@ Los warams son una tribu de yinns que tienen forma de pólipos, un gran tronco c
 
 Están relacionados con el elemento aire. Así pues, son semi materiales, no son del todo materiales, pero tampoco totalmente incorpóreos. Son lo suficientemente materiales para interactuar con los objetos y los suficientemente incorpóreos para que los vientos los sostengan y para que puedan hacerse invisibles.
 
-Pueden volar, generando vientos debajo suyo que hacen un ruido característico, pero pueden arrastrarse si fuera necesario. Tiene cierto control de los vientos, de forma pueden invocarlos a su voluntad.
+Pueden volar, generando vientos debajo de sus cuerpos que hacen un ruido característico, pero pueden arrastrarse si fuera necesario. Tiene cierto control de los vientos, de forma pueden invocarlos a su voluntad.
 
 Durante milenios dominaron la Tierra antes de la aparición de los humanos, pero con los siglos han ido decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos.
 
@@ -227,17 +227,17 @@ Los warams ya son de por sí enemigos temibles, pero pueden ponerles hechizos si
 
 ### Janns (Antiguos) ☾
 
-> /p/  … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. 
+> /p/ … hasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales. Parecía una gran tinaja de aceite de cinco lados y 2 metros de alto. Cada lado de su tronco atinajado tenía una especie de alas retráctiles enormes semejantes a murciélagos y varios tentáculos ramificados en más tentáculos que debía usar como manos. En lo que debía ser su cabeza se agitaban de un modo salvaje 5 apéndices y cada apéndice tenía una boca y un par de pseudópodos donde debía tener los ojos. 
 
 \sp
 
-> /p/  \[…\] Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
+> /p/ \[…\] Igual que en la parte superior, en la parte inferior del tronco habíase cinco tentáculos de gran tamaño acabados en algo parecido a pezuñas de camello que hacían un clic espantoso al golpear el suelo de piedra. \[…\] Al acercarse empezó a hablar en una extraña lengua u parecía una extraña mezcla de sonidos y silbidos de aves.
 
 Según Alhazred, los janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
 A pesar de que son morfológicamente los yinns más extraños, ya que no se parecen a ningún ser de la naturaleza, eran muy parecidos a los humanos. Ambos tienen una sociedad compleja, con clases sociales, formas de producción avanzadas, donde se cultivaba el arte y la ciencia y en la que sus individuos no solo vivían para sobrevivir, sino que tenían vidas plenas, llenas de todo tipo de relaciones sociales.
 
-Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los janns no son usables de forma normal por humanos y habría que adaptarlos.
+Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los janns no son utilizables de forma normal por humanos y habría que adaptarlos.
 
 [![An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.](./images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans’ artwork based on H. P. Lovecraft’s short novel At the Mountains of Madness.") 
 
@@ -260,9 +260,9 @@ El cinco es un número importante entre los janns debido a que su torso de tonel
 * **Equipo:** Herramientas y utensilios que use en su trabajo
 * **TPC:** d8
 
-Los janns son una sociedad compleja, tan compleja como la humana, con todo tipo de profesiones y dedicaciones, así pues puede haber janns que se dedican a la medicina o que son artistas o soldados. Es por ello que puedes personalizar las habilidades del jann según su profesión, intereses y estudios. Un jann explorador podría tener Supervivencia, un militar más Pelear y si trabaja en algún taller puede tener Reparar.
+Los janns son una sociedad compleja, tan compleja como la humana, con todo tipo de profesiones y dedicaciones; así pues, puede haber janns que se dedican a la medicina o que son artistas o soldados. Es por ello que puedes personalizar las habilidades del jann según su profesión, intereses y estudios. Un jann explorador podría tener Supervivencia, un militar más Pelear y si trabaja en algún taller puede tener Reparar.
 
-Los yanns con conocimientos mágicos podrían lanzar hechizos, pero mejor resérvalo para invocaciones o rituales para emular poderes tienen su tecnología que a ojos de los mortales, puede parecer magia.
+Los janns con conocimientos mágicos podrían lanzar hechizos, pero mejor resérvalo para invocaciones o rituales para emular poderes tienen su tecnología que a ojos de los mortales, puede parecer magia.
 
 ### Qareen (Lloigor) ☾
 
@@ -369,7 +369,7 @@ Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del
 \sp
 
 * **Capacidades especiales:**
-  * **Mordisco:** FUE+d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño, hará un nivel de fatiga.
+  * **Mordisco:** FUE+d4. Si el abibil consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Además del daño, hará un nivel de fatiga.
   * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
 * **TPC:** 1d6 (manada)
 
@@ -425,7 +425,7 @@ Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcant
 * **Capacidades especiales:**
   * **Morfología alíen:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
   * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores, ni penalizadores por tamaño.
-  * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
+  * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de sí mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
   * **Volar:** Paso volando 12.
   * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
   * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno, serán problemas mentales que le mantengan encerrado en el lugar donde esté el color, como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
@@ -436,7 +436,7 @@ Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcant
 
 ### Falak (Dhol) ☾
 
-> "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo. También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un pez enorme, y el pez nada en la superficie del Mar de la Eternidad. \[…\]  
+> "¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea como un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo. También está la tal constituida por siete pisos que gravitan sobre los hombros de un genni dotado de una fuerza maravillosa. Este genni está de pie encima de una roca que descansa a lomos de un toro; al toro lo sostiene un pez enorme, y el pez nada en la superficie del Mar de la Eternidad. \[…\]  
 > "El Mar de la Eternidad tiene por lecho el piso superior del infierno, el cual, con sus siete regiones, está cogido entre las fauces de una serpiente monstruosa que permanecerá quieta hasta el día del Juicio.
 > 
 > **Referencia:** Historia de Belukia (n. 362-363)
@@ -460,7 +460,7 @@ Los falaks devoran todo a su paso, dejando solamente la nada. De hecho, un astro
 * **Capacidades especiales:**
   * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
   * **Mente alien:** Su cerebro es tan diferente que no se le puede engañar o intimidar, tampoco puede leerse y es imposible atacarle mentalmente.
-  * **Baba ácida:** El falak puede escupir baba ácida a distancia (100/200/300). Hacen 5d6 de daño de ácida y puedes usar la plantilla de área grande (PAG).
+  * **Baba ácida:** El falak puede escupir baba ácida a distancia (100/200/300). Hacen 5d6 de daño de ácida y puedes usar la plantilla de área grande.
   * **Excavar:** Paso 10
   * **Engullir:** El falak puede escoger una zona del tamaño de plantilla de área grande y engullir todo lo que haya en esa ella. Excepto los comodines, todo lo que haya dentro del área será devorado. Los comodines podrán hacer una tirada de Atletismo para escapar de la zona. En caso de fallar podrán gastar 1 deseo para esquivar el ataque. En caso de no tener deseos, será engullido, pero sin estar muerto. Se quedará agarrado a los dientes o en la garganta del falak y podrá ser salvado por otros comodines. El falak debe hacer una acción completa para matar al comodín que esté en su boca y si consigue huir también matará al comodín. Si derrotan al falak, el comodín podrá salir del cadáver. El falak solo puede usar esta acción si está sin deseos y no puede repetirla hasta no haber gastado todos los deseos conseguidos al esquivarle.
   * **Devorar realidad:** El falak puede devorar cualquier cosa, incluso la propia realidad. Se sabe de dimensiones devoradas hasta no quedar nada de ella más que puro vacío.
@@ -542,7 +542,7 @@ Solo mueren de forma violenta. Según las leyendas, viven eternamente en el fond
 
 \sp
 
-Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los individuos más ancianos son los más grandes y poderosos. Cuando esto ocurre es más raro aún que salgan a la superficie. De hecho, se considera que Baba Daryä y Bu Diryan son gente del mar muy muy antiguos y, por tanto, muy poderosos. Hay teorías que creen que todas las gentes del mar son primigenios en potencia si se le dan eones de tiempo.
+Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los individuos más ancianos son los más grandes y poderosos. Cuando esto ocurre es más raro aún que salgan a la superficie. De hecho, se considera que Baba Daryä y Bu Diryan son gentes del mar muy muy antiguas y, por tanto, muy poderosas. Hay teorías que creen que todas las gentes del mar son primigenios en potencia si se le dan eones de tiempo.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d8, Idioma nativo d8, Saber de Suleimán d4, Notar d8, Pelear d6, Sigilo d10, Supervivencia d8
@@ -552,7 +552,7 @@ Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los
   * **Armadura +2:** Escamas y piel rugosa.
   * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
   * **Garras:** FUE+d4
-* **Equipo:** Tridente (FUE+d6, +1 Parada, a dos manos), Zurrón de algas trenzada, red de pesca.
+* **Equipo:** Tridente (FUE+d6, +1 Parada, a dos manos), Zurrón de algas trenzadas, red de pesca.
 * **TPC:** 1d4 (manada).
 
 #### Híbridos de la gente del mar y de la gente de la tierra
@@ -574,8 +574,8 @@ Para hacer un híbrido añádele estas características a un PNJ.
 
 ### Gigante (Gug) ☾
 
-> /p/ … un ser peludo con forma humana, tan alto como una palmera, y cuyo aspecto era más horrible que el de todos los monos reunidos. Tenía los ojos rojos como dos tizones inflamados, los dientes largos y salientes como los colmillos de un cerdo, una boca enorme que cruzaba su rostro de arriba abajo y tan grande como el brocal de un pozo, con dos antebrazos que se convierten en cuatro brazos a la altura del codo, y uñas ganchudas cual las garras del león. A su vista, nos llenamos de terror, y después nos quedamos rígidos como muertos. \[…\]  
-> /p/ Aconteció que el capitán era un hombre gordo y lleno de carne, y naturalmente, era el más robusto y sólido de todos los hombres del navío. Así es que el espantoso gigante no dudó en fijarse en él al elegir; le cogió entre sus manos cual un carnicero cogería un cordero, le derribó en tierra le puso un pie en el cuello y le desnucó con un solo golpe. Empuñó entonces uno de los inmensos asadores en cuestión y se lo introdujo por la boca, haciéndolo salir por el ano. Entonces encendió mucha leña en el hogar que había en la sala, puso entre las llamas al capitán ensartado, y comenzó a darle vueltas lentamente hasta que estuvo en sazón. Le retiró del fuego entonces y empezó a trincharle en pedazos, como si se tratara de un pollo, sirviéndose para el caso de sus uñas. Hecho aquello, le devoró en un abrir y cerrar de ojos. Tras de lo cual chupó los huesos, vaciándolos de la medula, y los arrojó en medio del montón que se alzaba en la sala.
+> /p/ … un ser peludo con forma humana, tan alto como una palmera, y cuyo aspecto era más horrible que el de todos los monos reunidos. Tenía los ojos rojos como dos tizones inflamados, los dientes largos y salientes como los colmillos de un cerdo, una boca enorme que cruzaba su rostro de arriba abajo y tan grande como el brocal de un pozo, con dos antebrazos que se convierten en cuatro brazos a la altura del codo, y uñas ganchudas como las garras del león. A su vista, nos llenamos de terror, y después nos quedamos rígidos como muertos. \[…\]  
+> /p/ Aconteció que el capitán era un hombre gordo y lleno de carne, y naturalmente, era el más robusto y sólido de todos los hombres del navío. Así es que el espantoso gigante no dudó en fijarse en él al elegir; le cogió entre sus manos como un carnicero cogería un cordero, le derribó en tierra le puso un pie en el cuello y le desnucó con un solo golpe. Empuñó entonces uno de los inmensos asadores en cuestión y se lo introdujo por la boca, haciéndolo salir por el ano. Entonces encendió mucha leña en el hogar que había en la sala, puso entre las llamas al capitán ensartado, y comenzó a darle vueltas lentamente hasta que estuvo en sazón. Le retiró del fuego entonces y empezó a trincharle en pedazos, como si se tratara de un pollo, sirviéndose para el caso de sus uñas. Hecho aquello, le devoró en un abrir y cerrar de ojos. Tras de lo cual chupó los huesos, vaciándolos de la medula, y los arrojó en medio del montón que se alzaba en la sala.
 > /p/
 > /p/ **Referencia:** La tercera historia de las historias de Sindbad el marino, que trata del tercer viaje (n. 299)
 
@@ -724,7 +724,7 @@ Se conocen casos en los que han desarrollado la capacidad de habla.
 > /p/
 > /p/ **Referencia:** La primera historia de las historias de Sindbad el marino, que trata del primer viaje (n. 292)
 
-Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isla flotante. Con los años ha ido acumulando entre su protoplasma arena de mar, le han crecido sargazos y con los siglos incluso vegetación terrestre como arbustos y palmeras, convirtiéndose en un vergel. Desde lejos puede parecer una pequeña isla paradisíaca, pero una vez encima una tirada Notar t dirá que han caído en una trampa mortal.
+Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isla flotante. Con los años ha ido acumulando entre su protoplasma arena de mar, le han crecido sargazos y con los siglos incluso vegetación terrestre como arbustos y palmeras, convirtiéndose en un vergel. Desde lejos puede parecer una pequeña isla paradisíaca, pero una vez encima una tirada Notar te dirá que han caído en una trampa mortal.
 
 * **Atributos:** Agilidad d4, Astucia d4, Espíritu d6, Fuerza d12+8, Vigor d12
 * **Habilidades:** Pelear d4, Notar d6
@@ -736,7 +736,7 @@ Este qatram ha crecido descomunalmente, de forma que se ha convertido en una isl
   * **Masa informe:** Como muchos otros monstruos, no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
   * **Tamaño 11:** 30 metros de diámetro (+11 dureza, +4 bonificación al atacarla, +2 herida).
   * **Tentáculos:** FUE+d4
-  * **Múltiples ataques:** Puede sacar tentáculos de cualquier parte de su cuerpo y atacar a todos los que están encima suyo hasta un máximo de 3 objetivos.
+  * **Múltiples ataques:** Puede sacar tentáculos de cualquier parte de su cuerpo y atacar a todos los que están encima de su superficie hasta un máximo de 3 objetivos.
   * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida, excepto las creadas por fuego o electricidad.
   * **Inmunidad:** Ataques físicos como armas de corte, flechas, piedras …
   * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o quemando la vegetación que tiene.

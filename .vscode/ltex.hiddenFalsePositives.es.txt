@@ -529,3 +529,88 @@
 {"rule":"PHYSICIAN","sentence":"^\\QTampoco cura enfermedades mentales a no ser que tengan un origen en una enfermedad física.\\E$"}
 {"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QEsta concha, de color rojo sangre y del tamaño de una mano, evita sentir dolor por grande que sea, desde dolores de muelas o de cabeza hasta el producido por heridas graves o el que se siente cuando se amputan extremidades gangrenadas.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada escapa al espejo de Leng.\\E$"}
+{"rule":"ESTA_TILDE","sentence":"^\\QLa Ciudad Sin Nombre es una metrópoli muy antigua, siendo esta demasiado arcaica para ser obra de humanos.\\E$"}
+{"rule":"CONCORDANCIAS_ATRIBUTO","sentence":"^\\QAram fue construida por una tribu de yinns perdida en el tiempo, los llamados Aads (o aditas).\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa búsqueda del tesoro de Scheddad puede ser una aventura por todo Oriente Medio buscando primero como encontrar la misteriosa Aram-de-las-columnas y luego buscando el tesoro siguiendo las pistas que hay en Aram-de-las-columnas sobre el tesoro.\\E$"}
+{"rule":"SI_AFIRMACION2","sentence":"^\\QPueden darles bonus, si, por ejemplo, son capaces de montar algún tipo de acto que fuerce la máquina, como, por ejemplo, inundar su estancia tapando los desagües o que todas las personas del hammam estén en una sola estancia.\\E$"}
+{"rule":"SI_AFIRMACION2","sentence":"^\\QPor el contrario, si, por ejemplo, robas oro sin su permiso se quedará en su dimensión onírica.\\E$"}
+{"rule":"DE_TILDE","sentence":"^\\QPodían acabar en orgías en las que zánganos de al mighos podrían tomar parte de una forma más o menos activa.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QLa mayoría del tiempo trabajan en sus planes apocalípticos con mucha dedicación. Solo algo rompe la rutina laboral, la comunión con ’Umr-At-Tawil.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QGritan, chillan, gimen e incluso pierden la razón. Cuando todo vuelve a la normalidad se hace lo que había votado el grupo tocado por ’Umr-At-Tawil.\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\Q/p/ «¡Ahora, oh Belukia! para que sea perfecta tu instrucción a tu regreso entre los hijos de los hombres, has de saber que a la tierra que habitamos la están refrescando siempre las nieves del monte Cáucaso, que la rodea cual un cinturón. De no ser así, no podría habitarse nuestra tierra por causa del fuego subterráneo.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8 d8 1,5 350\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6 d6 1 150/250\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d10 d10 1,5 350\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8 (hacha) / FUE+d6 (maza) d10 3 300\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QInmediatamente empezó a crecer y crecer y crecer hasta golpear con el techo de la sala.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente tiene que darse una condición concreta para que te caiga encima, como que te muerda un ser con sed de sangre o comer carne humana y otra condición que te la quite, como beber determinado elixir o peregrinar a determinado lugar.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nJoroba:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAmine Discovered with the Goule, from the story of Sidi Nouman in the One Thousand and One Nights\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nInfección:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qllegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño del que no se veía más que medio cuerpo, pues el otro medio aparecía enterrado en el suelo.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTelepatía:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta que una noche llegó ante una columna de piedra negra, a la cual estaba encadenado un ser extraño. Aquel, diríase un engendro monstruoso, parecía arrojado allí por la fuerza de las potencias infernales.\\E$"}
+{"rule":"ES_MULTITOKEN_SPELLING_TWO","sentence":"^\\QTom Ardans’ artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QTom Ardans’ artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nVolar:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8\nVolar:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy en el mismo instante desapareció parte de mi cuerpo y no quedó visible de mi persona más que la mitad de un hombre, un tronco dotado de movimiento.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nEquipo:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4 de daño.\nMuerto viviente: +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOíamos el arcano grito burlón, que decía «¡Tekeli-li!\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nRegeneración rápida:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nMúltiples ataques:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAdoran a la diosa Mehen (Yig) el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a una versión malvada de la diosa Heket (Tsathoggua, el Durmiente de N’kai).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMušḫuššu.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nMordisco:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nEn fase:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nNactílope:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q¡Tekeli-li!»\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nMordisco venenoso:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nEquipo:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nVisión nocturna:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nOlfato:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6 grandes cuernos de gacela y el cuello de toro hacen que sus cornadas sean terribles.\\E$"}
+{"rule":"AGREEMENT_SER_ADJ_SG","sentence":"^\\QLa serpiente gana una bonificación de +2 a las tiradas de Atletismo y FUE relacionadas con presas.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qun ser peludo con forma humana, tan alto como una palmera, y cuyo aspecto era más horrible que el de todos los monos reunidos.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d10\nArmadura +4: Su piel dura y escamosa y es muy resistente.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nArmadura quitinosa: +2\nTamaño +1: Hasta 3 metros de tamaño.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy me acordé de lo que en mi juventud me habían contado viajeros y marineros acerca de un pájaro de tamaño extraordinario, llamado «rokh», que se encontraba en una isla muy remota y que podía levantar un elefante.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d10\nTerremoto:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qun ser humano, un Adamita semejante a todos los Ibu-Adam, con la diferencia de que su cuerpo era verdusco y escamoso, con agallas en sus cortos cuellos, grandes bocas y ojos saltones como de pez; pero, aparte de eso, tenía cabeza, cara, tronco, piernas y brazos, como un hombre de la tierra.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QY también por apresar y vender para circos animales salvajes de la Cordillera del Atlas, como el león del Atlas o león de Berbería (Panthera leo leo) y el oso del Atlas (Ursus arctos crowtheri).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl templo de los diablos - Arnoldus Montanus\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q“Avisa a los medidores de granos y ve con ellos al khan Al-Gaonalí, en el barrio de Bab Al-Nassr; allí me encontrarás”.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBei den Pyramiden\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLeander Russ:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qllegó a la ciudad espléndida de El Cairo, esa inmensa ciudad tan diferente de las ciudades de su país, y cuya vuelta exige tres jornadas y media de puente de Sanja, el faro de Al-Iskandaria y la mezquita de los Ommiadas en Damasco.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q¡Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn!\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl «Deir» en un dibujo de 1839 por David Roberts.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl templo, construido en el 2000 a. C., era conocido como é-temen-ní-gùr-ru en sumerio, que significa casa de cimientos revestidos de terror.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRoberts&Haghe Thebes\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qtomó el camino del zoco de los libreros.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QA la muerte de su dueño, el Califa puso a ’Inān en subasta, aparentemente para ayudar a saldar las deudas de su dueño. A través de un agente, al-Raschid entonces la compró por 225,000 dirhams y la hizo una de sus concubinas.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q’Inān bint ’Abd-Alāh, poetisa y qiyan del Califa\\E$"}
+{"rule":"ES_MULTITOKEN_SPELLING_TWO","sentence":"^\\Qscheherazade-schariar.jpg por Ferdinand Keller\nscheherazade-sultan.jpg por Andrew Lang\nsindbad.jpg por René Bull\nscheherazade-y-shahryar.jpg por Marie-Éléonore Godefroid\nsol-desierto.jpg por kjpargeter\nalfombra-voladora.jpg por Viktor Vasnetsov\ncassim.jpg por Maxfield Parrish\nciudad-bronce.jpg por Edmund Dulac\ntigres.webp por Rudolph Ernst\npipa-agua.jpg por Jean-Léon Gérôme\nbagdad.jpg por Edmund Dulac\narbol-cantor.jpg por Maxfield Parrish\ntanger.jpg por Eugène Delacroix\nalquimia.jpg por René Bull\\E$"}
+{"rule":"ES_MULTITOKEN_SPELLING_HYPHEN","sentence":"^\\QDanzas Polovtsianas de la ópera Príncipe Igor de Aleksandr Borodín\nUna noche en el Monte Pelado de Modest Músorgski\nScheherazade de Rimsky-Korsakov\nAlí Babá de Luigi Cherubini\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QA la muerte de su dueño, el Califa puso a ’Inān en subasta, aparentemente para ayudar a saldar las deudas de su dueño. A través de un agente, al-Raschid entonces la compró por 225,000 dirhams y la hizo una de sus concubinas, curiosamente el gestor que vendió a ’Inān estaba al servicio del califa.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QRápidamente descubrió el mundo del ocultismo y descubría que la magia se le daba muy bien, convirtiéndose con los años en un fabuloso mago.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qconsistía en una especie de sapo humanoide desnudo, deforme y grotesco hecho de oro, incrustado de gemas y pedrerías de gran precio, que tenía en la mano una flauta de una extraña forma.\\E$"}
+{"rule":"INCORRECT_SPACES","sentence":"^\\QEntrar despierto en la tierra de los sueños es el primer paso para llegar a la Última Puerta custodiada por ’Umr-At-Tawil (avatar de Yog-Sothoth) que puede permitirte entrar en la estancia de Yog-Sothoth.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QImaginaban una resurrección literal del cuerpo que les impulsaba a momificarlo con extremo cuidado, y a conservar los órganos vitales en vasos canopes que depositaban junto al cadáver; pero además de creer en el cuerpo, creían en otros dos elementos: en el alma, que después de pesada y aprobada por Osiris moraba en la tierra de los bienaventurados, y en el oscuro y portentoso ka, o principio vital,\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QHay que tener en cuenta que el amuleto solo quita el dolor, no cura el veneno o la enfermedad que habría que tratarla aparte.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QEn el despegue, se puede atacar cuerpo a cuerpo a los pasajeros durante dos turnos y a distancia durante 3 más.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Q\\[…\\] Y como para confirmar todo lo bien que hablaban de ella, acertó a pasar por allí un pobre hombre ciego y paralítico, a quien un mozo llevaba a hombros en una banasta.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Q\\[…\\]» Y como para confirmar todo lo bien que hablaban de ella, acertó a pasar por allí un pobre hombre ciego y paralítico, a quien un mozo llevaba a hombros en una banasta.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QTal vez al pedir una montaña de oro la haga caer sobre ti sepultándote en monedas de oro y mueras aplastado.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Quna gran fuente de plata, en medio de la cual se encontraba un pavo real de oro rodeado por veinticuatro pavas reales del mismo metal.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qun caballo de madera de ébano, de la calidad más negra y más rara, incrustado de oro y pedrerías, y enjaezado maravillosamente con una silla, una brida y unos estribos como solo llevan los caballos de los reyes.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qllegamos ante las mazorcas de una planta, que con todas las corolas rojas de sus flores cantaban bajo la brisa que la inclinaba:\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente hay que salpicar unas gotas del líquido que contiene y pronunciar las palabras grabadas en ella.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QPresumiblemente fue creada por el poderoso rey Suleimán como forma de castigar a pequeños criminales, haciéndoles, por ejemplo, trabajar penosamente como asnos transportando pesadas cargas de sol a sol.\\E$"}

@@ -54,7 +54,7 @@ Dentro de los objetos especiales podemos tener armas, cuerpo a cuerpo o a distan
 |---|---|
 |1-2|**Arma cuerpo a cuerpo.** Tira en la tabla de armas cuerpo a cuerpo y luego en la de capacidades.|
 |3-4|**Arma a distancia.** Tira en la tabla de armas a distancia y luego en la de capacidades.|
-|5|**Armaduras .** Tira en la Tabla de Armaduras y luego en la de capacidades.|
+|5|**Armaduras.** Tira en la Tabla de Armaduras y luego en la de capacidades.|
 |6|**Protecciones.** Tira en la Tabla de Protecciones y luego en la de capacidades.|
 |7-8|**Objetos mundanos.** Tira en la Tabla de Objetos mundanos.|
 |9|**Objetos mágicos.** Tira en la Tabla de Objetos mágicos.|
@@ -288,7 +288,7 @@ Esta ambientación está llena de objetos maravillosos de inmenso poder y muchas
 
 ### Alfombra teleportadora
 
-> Y dijo el vendedor: «¡Tú lo has dicho, señor! ¡Has de saber que, en efecto, esta alfombra está dotada de una virtud invisible que hace que al sentarse en ella sea uno transportado inmediatamente adonde quiera ir, y con tanta rapidez, que se efectúa en menos tiempo del que se tarda en cerrar un ojo y abrir el otro! Y ningún obstáculo es capaz de detenerla en su marcha, porque ante ella se aleja la tempestad, huye la tormenta, se entreabren las montañas y las murallas, y por lo mismo, resultan inútiles y vanos los candados más sólidos. ¡Y tal es ¡oh mi señor! la virtud invisible de esta alfombra de plegaria!»
+> Y dijo el vendedor: «¡Tú lo has dicho, señor! ¡Has de saber que, en efecto, esta alfombra está dotada de una virtud invisible que hace que al sentarse en ella sea uno transportado inmediatamente adonde quiera ir, y con tanta rapidez, que se efectúa en menos tiempo del que se tarda en cerrar un ojo y abrir el otro! Y ningún obstáculo es capaz de detenerla en su marcha, porque ante ella se aleja la tempestad, huye la tormenta, se entreabren las montañas y las murallas, y por lo mismo, resultan inútiles y vanos los candados más sólidos. ¡Y tal es! ¡oh mi señor! ¡la virtud invisible de esta alfombra de plegaria!»
 > 
 > **Referencia:** Historia de la princesa Nurennahar y de la bella gennia (n. 808)
 
@@ -314,7 +314,7 @@ La alfombra cruza por diferentes dimensiones a la velocidad del rayo, para llega
 
 ### Anillos mágicos
 
-> … Y he aquí que, cuando el desesperado Aladino frotó, sin querer, el anillo que llevaba en el pulgar y cuya virtud ignoraba, vio surgir de pronto ante él, como si brotara de la tierra, un inmenso y gigantesco efrit, semejante a un negro embetunado, con una cabeza como un caldero, y una cara espantosa, y unos ojos rojos, enormes y llameantes, el cual se inclinó ante él, y con una voz tan retumbante cual el rugido del trueno, le dijo «¡Aquí tienes entre tus manos a tu esclavo! ¿Qué quieres? Habla. ¡Soy el servidor del anillo en la tierra, en el aire y en el agua!»
+> … Y he aquí que, cuando el desesperado Aladino frotó, sin querer, el anillo que llevaba en el pulgar y cuya virtud ignoraba, vio surgir de pronto ante él, como si brotara de la tierra, un inmenso y gigantesco efrit, semejante a un negro embetunado, con una cabeza como un caldero, y una cara espantosa, y unos ojos rojos, enormes y llameantes, el cual se inclinó ante él, y con una voz tan retumbante como el rugido del trueno, le dijo «¡Aquí tienes entre tus manos a tu esclavo! ¿Qué quieres? Habla. ¡Soy el servidor del anillo en la tierra, en el aire y en el agua!»
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 774)
 
@@ -417,7 +417,7 @@ El caballo de ébano es una figura de madera de ébano de un caballo trotando a 
 
 Tiene unas crines de pelo real, espuelas de plata pura, una silla cubierta de pedrería y finas sedas y unas riendas de hilo de oro y plata. Es tan realista que si no fuera porque está inmóvil pasaría por real.
 
-Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales.
+Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que es de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los al mighos en sus tubos cerebrales.
 
 En este líquido están flotando ciertos órganos extraídos de un ave de Rokh (shantak) que le confieren al caballo algunas de las sus maravillosas propiedades que tiene el caballo.
 
@@ -507,11 +507,11 @@ El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llev
 
 ### Figura amorfa de oro y joyas con flauta
 
-> /p/ … consistía en un especie de sapo humanoide desnudo, deforme y grotesco hecho de oro, incrustado de gemas y pedrerías de gran precio, que tenía en la mano una flauta de una extraña forma. 
+> /p/ … consistía en una especie de sapo humanoide desnudo, deforme y grotesco hecho de oro, incrustado de gemas y pedrerías de gran precio, que tenía en la mano una flauta de una extraña forma. 
 
 \sp
 
-> /p/ Y le dijo el rey Sabur: ’»¡Oh, sabio! ¿para que sirve esta figura?" El sabio contestó: "¡Oh mi señor! esta abominable figura de oro posee una virtud admirable! ¡Si le colocas a la puerta de la ciudad, será un guardián a toda prueba, pues si viniese un enemigo para tomar la plaza, le adivinará a distancia, y soplando en su extraña flauta que tiene a la altura de su rostro, le paralizará y le hará caer muerto de terror!"
+> /p/ Y le dijo el rey Sabur: «¡Oh, sabio! ¿para qué sirve esta figura?» El sabio contestó: «¡Oh mi señor! esta abominable figura de oro posee una virtud admirable! ¡Si le colocas a la puerta de la ciudad, será un guardián a toda prueba, pues si viniese un enemigo para tomar la plaza, le adivinará a distancia, y soplando en su extraña flauta que tiene a la altura de su rostro, le paralizará y le hará caer muerto de terror!»
 > /p/ 
 > /p/ **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
@@ -597,7 +597,7 @@ El genio de la lámpara es un ser muy poderoso, relegado al oído y a la obedien
 
 Sin saltarse las normas de sus poderes y sus propias reglas, hace de todo por ti hasta que eres adicto y no sabes solucionar tus problemas sin ellos. En ese momento te hace caer en desgracia buscando un resquicio legal a tus órdenes para hundirte en la miseria o incluso acabar con tu vida.
 
-Quizás si le pides que te haga un palacio lo construirá a propósito más alto que la del califa que enfurecido por tu osadía te haga decapitar. Tal vez al pedir una montaña de oro lo haga caer sobre ti sepultándote en monedas de oro y mueras aplastado.
+Quizás si le pides que te haga un palacio lo construirá a propósito más alto que la del califa que enfurecido por tu osadía te haga decapitar. Tal vez al pedir una montaña de oro la haga caer sobre ti sepultándote en monedas de oro y mueras aplastado.
 
 Acabando contigo no queda libre de su cárcel de cobre, pero puede ganar un tiempo de tranquilidad.
 
@@ -635,9 +635,9 @@ El TPC de las visiones es aleatorio, así que tira un dado de d12, 1-2 el TPC se
 
 ### Maravillosa manzana curalotodo
 
-> Y dijo el vendedor: "Pues bien, señor; ya que por ti mismo acabas de experimentar efectos tan inesperados aspirando el aroma de esta manzana, has de saber que la tal manzana no es natural, sino fabricada por la mano del hombre; y no es fruto de un árbol ciego e insensible, sino fruto del estudio y las vigilias de un gran sabio, de un filósofo muy célebre, que se pasó toda la vida haciendo investigaciones y experiencias respecto a las virtudes de las plantas y de los minerales. Y logró la composición de esta manzana, que encierra en sí la quintaesencia de todos los cuerpos simples, de todas las plantas útiles y de todos los minerales curativos. 
+> Y dijo el vendedor: «Pues bien, señor; ya que por ti mismo acabas de experimentar efectos tan inesperados aspirando el aroma de esta manzana, has de saber que la tal manzana no es natural, sino fabricada por la mano del hombre; y no es fruto de un árbol ciego e insensible, sino fruto del estudio y las vigilias de un gran sabio, de un filósofo muy célebre, que se pasó toda la vida haciendo investigaciones y experiencias respecto a las virtudes de las plantas y de los minerales. Y logró la composición de esta manzana, que encierra en sí la quintaesencia de todos los cuerpos simples, de todas las plantas útiles y de todos los minerales curativos. 
 En efecto, no hay enfermo, cualquiera que sea la calamidad de que esté afligido, aun cuando se trate de la peste, de la fiebre purpúrea o de la lepra, que no recobre la salud al olerla, aunque esté moribundo. Y tú mismo inclusive acabas de sentir hasta cierto punto su efecto, pues que con su olor se te ha disipado el cansancio del viaje. 
-> Pero, para mayor certeza, quiero que con ella cure ante tus ojos un enfermo aquejado de un mal incurable, a fin de que estés seguro de sus virtudes y propiedades, como lo están todos los habitantes de esta ciudad. \[…\]  
+> Pero, para mayor certeza, quiero que con ella cure ante tus ojos un enfermo aquejado de un mal incurable, a fin de que estés seguro de sus virtudes y propiedades, como lo están todos los habitantes de esta ciudad. \[…\]»
 > Y como para confirmar todo lo bien que hablaban de ella, acertó a pasar por allí un pobre hombre ciego y paralítico, a quien un mozo llevaba a hombros en una banasta. 
 
 \sc
@@ -670,7 +670,7 @@ Solo el Califa sabe que pone en este antiguo y polvoriento y porque rio y lloró
 
 ### Saco de arena maldita
 
-> Con unos de sus legamosas extremidades recogió la arena verdosa que acababa de regurgitar y la dejo caer delante del acólito que la recogió con un simple saco de arpillera. Con sus gargantas no humanas pronuncio estas palabras: Esparce mi esencia y profana el poder de la tierra. La tierra, el barro, el fango o las arenas quedará estéril por eones.
+> Con unas de sus legamosas extremidades recogió la arena verdosa que acababa de regurgitar y la dejo caer delante del acólito que la recogió con un simple saco de arpillera. Con sus gargantas no humanas pronuncio estas palabras: Esparce mi esencia y profana el poder de la tierra. La tierra, el barro, el fango o las arenas quedará estéril por eones.
 
 Este saco de arpillera lleno de una extraña arena que tiene un extraño brillo verdoso dota a la persona que lo porta el poder de controlar la tierra a su voluntad, podrá mover grandes cantidades de roca, moverse a través de la tierra o golpear a sus enemigos con terremotos o lluvias de rocas. Simplemente, hay que sacar un pellizco de arena y dejarlo caer en el suelo.
 
@@ -803,7 +803,7 @@ Al-Schamardal modificó el laboratorio y creo una tumba con 8 estancias
 
 ##### 1ª puerta
 
-> Y se abrirá la puerta y en el umbral se te aparecerá un personaje que ha de decirte, alfanje en mano: «¡Si eres verdaderamente ese hombre, presenta el cuello para que te corte la cabeza! Y le presentarás tu cuello sin temor, y alzará sobre ti el alfanje, cayendo a tus pies inmediatamente, ¡y no verás ya más que un cuerpo sin alma! Y no te habrá hecho daño alguno. Pero si por miedo te niegas a obedecerle, te matará en aquella hora y en aquel instante.
+> Y se abrirá la puerta y en el umbral se te aparecerá un personaje que ha de decirte, alfanje en mano: «¡Si eres verdaderamente ese hombre, presenta el cuello para que te corte la cabeza! Y le presentarás tu cuello sin temor, y alzará sobre ti el alfanje, cayendo a tus pies inmediatamente, ¡y no verás ya más que un cuerpo sin alma! Y no te habrá hecho daño alguno. Pero si por miedo te niegas a obedecerle, te matará en aquella hora y en aquel instante.»
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -881,8 +881,8 @@ Puedes dejarlo en una simple tirada enfrentada contra Intimidar d12+1 o puedes i
 
 ##### La sala del tesoro
 
-> "Y de esta manera ¡oh Juder! habrás roto todos los encantos y disuelto todos los hechizos, a la vez que pondrás en salvo tu vida. Y te restará solo recoger el fruto de tus trabajos.  
-> "A tal fin, no tendrás más que franquear esa séptima puerta, y dentro encontrarás montones de oro. Pero no les prestes la menor atención, y dirígete a un pabellón pequeño que hay en medio de la estancia del tesoro, y sobre el cual se extiende una cortina corrida. ¡Levanta entonces la cortina, y verás, acostado en un trono de oro, al gran mago Schamardal, el mismo a quien pertenece el tesoro! Y junto a su cabeza verás brillar una cosa redonda como la luna: es la esfera celeste. ¡Le verás con el alfanje consabido a la cintura, con el anillo en un dedo y con la redomita del kohl sujeta al cuello por una cadena de oro! ¡No vaciles entonces! ¡Apodérate de esos cuatro objetos preciosos, y date prisa a salir del tesoro para venir a entregármelos!
+> «Y de esta manera ¡oh Juder! habrás roto todos los encantos y disuelto todos los hechizos, a la vez que pondrás en salvo tu vida. Y te restará solo recoger el fruto de tus trabajos.»
+> «A tal fin, no tendrás más que franquear esa séptima puerta, y dentro encontrarás montones de oro. Pero no les prestes la menor atención, y dirígete a un pabellón pequeño que hay en medio de la estancia del tesoro, y sobre el cual se extiende una cortina corrida. ¡Levanta entonces la cortina, y verás, acostado en un trono de oro, al gran mago Schamardal, el mismo a quien pertenece el tesoro! Y junto a su cabeza verás brillar una cosa redonda como la luna: es la esfera celeste. ¡Le verás con el alfanje consabido a la cintura, con el anillo en un dedo y con la redomita del kohl sujeta al cuello por una cadena de oro! ¡No vaciles entonces! ¡Apodérate de esos cuatro objetos preciosos, y date prisa a salir del tesoro para venir a entregármelos!»
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
@@ -937,7 +937,7 @@ En caso de varios objetivos a la misma distancia se elige al azar. No importa la
 
 ##### La esfera celeste de recorrer el mundo sin moverse de sitio
 
-> Quien posea la esfera celeste, podrá viajar a su antojo por todos los puntos del universo sin molestarse ni cambiar de sitio, y visitar también las tierras del sueño aun estando en el mundo de la vigilia. Para ello, le bastará tocar con el dedo el punto adonde quiere ir y las regiones que desea recorrer, y la esfera empezará a dar vueltas, haciendo desfilar ante sus ojos todas las cosas interesantes del lugar en cuestión, así como sus pobladores, todo cual si lo tuviese entre las manos. Y si a veces está quejoso de la hospitalidad de los indígenas de cualquier país o el recibimiento que le dispensó una ciudad entre las ciudades, le bastará dirigir el sol hacia el punto en que se encuentra la región enemiga, e inmediatamente será la tal presa de las llamas y arderá con todos sus habitantes.
+> Quien posea la esfera celeste, podrá viajar a su antojo por todos los puntos del universo sin molestarse ni cambiar de sitio, y visitar también las tierras del sueño aun estando en el mundo de la vigilia. Para ello, le bastará tocar con el dedo el punto adonde quiere ir y las regiones que desea recorrer, y la esfera empezará a dar vueltas, haciendo desfilar ante sus ojos todas las cosas interesantes del lugar en cuestión, así como sus pobladores, todo como si lo tuviese entre las manos. Y si a veces está quejoso de la hospitalidad de los indígenas de cualquier país o el recibimiento que le dispensó una ciudad entre las ciudades, le bastará dirigir el sol hacia el punto en que se encuentra la región enemiga, e inmediatamente será la tal presa de las llamas y arderá con todos sus habitantes.
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 469)
 
@@ -1058,7 +1058,7 @@ Recuerda que solo cura enfermedades, nada de heridas, huesos rotos, miembros amp
 
 ### Alfombra volante
 
-> Y se encontró a tres hombres que disputaban entre sí. Y les preguntó: "¿Por qué disputáis?" Le contestaron: "¡Por una cosa!" Él les dijo: "¿Una cosa? ¿Cuál?" Le contestaron: "Tenemos esta alfombra que ves. A quien se ponga encima y la golpee con esta varita, pidiéndole que le lleve aunque sea a la cumbre de la montaña Kaf, la alfombra le transporta en un abrir y cerrar de ojos. ¡Y por poseerla nos disponíamos a matarnos en este momento!"
+> Y se encontró a tres hombres que disputaban entre sí. Y les preguntó: «¿Por qué disputáis?» Le contestaron: «¡Por una cosa!» Él les dijo: «¿Una cosa? ¿Cuál?» Le contestaron: «Tenemos esta alfombra que ves. A quien se ponga encima y la golpee con esta varita, pidiéndole que le lleve aunque sea a la cumbre de la montaña Kaf, la alfombra le transporta en un abrir y cerrar de ojos. ¡Y por poseerla nos disponíamos a matarnos en este momento!»
 > 
 > **Referencia:** Historia contada por el octavo capitán de policía (n. 949)
 
@@ -1098,7 +1098,7 @@ Por último, nadar tiene un coste normal, es decir, puedes nadar lo mismo que tu
 
 ### Azufre rojo
 
-> Y encontró dentro unos polvos rojos, y exclamó: "¡He aquí el Azufre rojo, ya Hassán Abdalah! ¡Esta es la Kimia de los sabios y de los filósofos, todos los cuales murieron sin dar con ella!" \[…\] "¡Oh pobre! ¡Ese polvo es la fuente misma de todas las riquezas de la tierra! Y un solo grano de este polvo basta para convertir en oro los metales más viles. ¡Es la Kimia! ¡Es el Azufre rojo!, ¡oh pobre ignorante! ¡Con este polvo, si quiero, construiré palacios más hermosos que este, fundaré ciudades más magníficas que ésta, compraré la vida de los hombres y la conciencia de los puros, seduciré a la propia virtud y me haré rey, hijo de rey!" Y le dije: "Y con ese polvo, ¡oh mi señor! ¿podrás prolongar un solo día tu vida o borrar una hora de tu existencia pasada?"
+> Y encontró dentro unos polvos rojos, y exclamó: «¡He aquí el Azufre rojo, ya Hassán Abdalah! ¡Esta es la Kimia de los sabios y de los filósofos, todos los cuales murieron sin dar con ella!» \[…\] «¡Oh pobre! ¡Ese polvo es la fuente misma de todas las riquezas de la tierra! Y un solo grano de este polvo basta para convertir en oro los metales más viles. ¡Es la Kimia! ¡Es el Azufre rojo!, ¡oh pobre ignorante! ¡Con este polvo, si quiero, construiré palacios más hermosos que este, fundaré ciudades más magníficas que esta, compraré la vida de los hombres y la conciencia de los puros, seduciré a la propia virtud y me haré rey, hijo de rey!» Y le dije: «Y con ese polvo, ¡oh mi señor! ¿podrás prolongar un solo día tu vida o borrar una hora de tu existencia pasada?»
 > 
 > **Referencia:** Las llaves del destino (n. 792)
 
@@ -1216,7 +1216,7 @@ Todo esto exige que la persona que porta los cetros no pueda hacer nada más ese
 
 ### Cilindro cerebral de los al mighos
 
-> /p/ Allí, en una fila ordenada, había más de una docena de cilindros de un metal que ningún creyente ni infiel hubiera visto nunca: cilindros que llegaban a un codo de alto y algo menos de ancho, con tres curiosas cavidades colocadas en un triángulo isósceles sobre la superficie frontal convexa de cada uno. Uno de ellos contaba con 2 cornetas, una grande y abierta y otra más pequeña y estrecha de la que salia un zumbido constante. No necesité que me explicaran su significado
+> /p/ Allí, en una fila ordenada, había más de una docena de cilindros de un metal que ningún creyente ni infiel hubiera visto nunca: cilindros que llegaban a un codo de alto y algo menos de ancho, con tres curiosas cavidades colocadas en un triángulo isósceles sobre la superficie frontal convexa de cada uno. Uno de ellos contaba con 2 cornetas, una grande y abierta y otra más pequeña y estrecha de la que salía un zumbido constante. No necesité que me explicaran su significado
 
 \sp
 
@@ -1250,14 +1250,14 @@ Esta concha, de color rojo sangre y del tamaño de una mano, evita sentir dolor 
 
 Gastando un deseo se pueden anular durante una hora los negativos por heridas o los que pudieran producir enfermedades, hechizos, venenos o drogas, siempre que estos negativos sean producidos por fuertes dolores.
 
-Por ejemplo, el -1 que da un terrible dolor de muelas desaparecería usando este amuleto. Hay que tener en cuenta que el amuleto solo quita el dolor, no cura el veneno o la enfermedad que habría que tratarla aparte.
+Por ejemplo, el penalizador de -1 que da un terrible dolor de muelas desaparecería usando este amuleto. Hay que tener en cuenta que el amuleto solo quita el dolor, no cura el veneno o la enfermedad que habría que tratarla aparte.
 
 La concha roja es un regalo muy apreciado entre las mujeres, ya que este objeto puede aliviar totalmente los terribles dolores del parto.
 
 ### Curcusilla de gallina
 
 > /p/ Ella contestó: "Mientras salí para hacer una necesidad, mi hijo, a espaldas mías ha arrancado con sus dientes la curcusilla y se la ha comido". Y el judío exclamó:
-> /p/ "¡Mal hayas! Yo te he dado mi dinero por esa curcusilla. ¿Dónde está el granuja de tu hijo, que voy a abrirle el vientre y a sacársela?" Ella contestó: "¡Ha huido de terror!" Y el judío salió a toda prisa, y empezó a viajar por ciudades y pueblos, dando las señas del muchacho, hasta que le encontró en el campo, dormido. Y se acercó sigilosamente a él para matarle; \[…\] 
+> /p/ «¡Mal hayas! Yo te he dado mi dinero por esa curcusilla. ¿Dónde está el granuja de tu hijo, que voy a abrirle el vientre y a sacársela?» Ella contestó: «¡Ha huido de terror!» Y el judío salió a toda prisa, y empezó a viajar por ciudades y pueblos, dando las señas del muchacho, hasta que le encontró en el campo, dormido. Y se acercó sigilosamente a él para matarle; \[…\] 
 
 \sc
 
@@ -1285,7 +1285,7 @@ La curcusilla tiene una desventaja muy grave y es que mientras está en tu cuerp
 
 ### Dátiles rojos y amarillos
 
-> /p/ Y la hija del rey observó que eran dátiles amarillos, los que más le gustaban precisamente. Y se comió los dieciséis, uno tras de otro, en el tiempo justo para llevárselos a la boca. Y dijo: "¡Oh corazón mío, cuán deliciosos son!" Pero apenas había pronunciado estas palabras, sintió un atroz dolor en dieciséis sitios distintos de la cabeza. Y se llevó inmediatamente la mano a la cabeza, y sintió que le agujereaban el cuero cabelludo dieciséis tentáculos en dieciséis sitios distintos y simétricos. Y ni tiempo de gritar había tenido, cuando ya los dieciséis pseudópodos se habían desarrollado, y de cuatro en cuatro habían ido a clavarse en la pared fuertemente.\[…\]
+> /p/ Y la hija del rey observó que eran dátiles amarillos, los que más le gustaban precisamente. Y se comió los dieciséis, uno tras de otro, en el tiempo justo para llevárselos a la boca. Y dijo: «¡Oh corazón mío, cuán deliciosos son!» Pero apenas había pronunciado estas palabras, sintió un atroz dolor en dieciséis sitios distintos de la cabeza. Y se llevó inmediatamente la mano a la cabeza, y sintió que le agujereaban el cuero cabelludo dieciséis tentáculos en dieciséis sitios distintos y simétricos. Y ni tiempo de gritar había tenido, cuando ya los dieciséis pseudópodos se habían desarrollado, y de cuatro en cuatro habían ido a clavarse en la pared fuertemente.\[…\]
 > /p/ Pues que el hijo del tañedor de clarinete, que solo esperaba aquel momento, entró al palacio y subió al aposento de la princesa, diciendo: "Yo haré que le desaparezcan los tentáculos". Y en cuanto estuvo en su presencia, cogió un dátil rojo, lo partió en pedazos, y lo puso en la boca de la princesa. Y en el mismo instante se separó de la pared un tentáculo, y a ojos vistas, se fue encogiendo y acabó por desaparecer enteramente de la cabeza de la joven.
 > /p/ 
 > /p/ **Referencia:** Historia contada por el octavo capitán de policía (n. 950)
@@ -1326,7 +1326,7 @@ La toman, tienen las visiones del pasado que te interesan haciendo avanzar la hi
 
 ### Espejo de Leng
 
-> /p/ y llevaba un espejo en la mano. Y se encaró con Zein, y le dijo: "Debo decirte, ¡oh Zein! que es imposible conocer la verdadera apariencia de un yinn si ha usado su perversa magia para disfrazarse. \[…\]. Así es que, como yo no te lo puedo enseñar de otro modo, para darte ese conocimiento te traigo este espejo, cuyo cristal de roca fue extraído en las tierras de Leng, que ha de ser más seguro que todas las conjeturas de los hombres.
+> /p/ y llevaba un espejo en la mano. Y se encaró con Zein, y le dijo: «Debo decirte, ¡oh Zein! que es imposible conocer la verdadera apariencia de un yinn si ha usado su perversa magia para disfrazarse. \[…\]. Así es que, como yo no te lo puedo enseñar de otro modo, para darte ese conocimiento te traigo este espejo, cuyo cristal de roca fue extraído en las tierras de Leng, que ha de ser más seguro que todas las conjeturas de los hombres».
 > /p/ 
 > /p/ **Referencia:** Historia maravillosa del espejo de las vírgenes (n. 725)
 
@@ -1353,8 +1353,8 @@ El espejo tiende a distorsionar de alguna manera lo que refleja y hacerlo más p
 ### Jugo de plantas para caminar sobre las aguas
 
 > … llegamos ante las mazorcas de una planta, que con todas las corolas rojas de sus flores cantaban bajo la brisa que la inclinaba: 
-> "¡Yo soy la maravillosa que otorga a quien se frota los pies con mi jugo la facultad de caminar sin mojarse por la superficie de todos los mares que creó Alah el Altísimo!" \[…\]
-> "Cuando el joven Belukia y el sabio Offán me dejaron para ir a la isla situada allende los Siete Mares, donde se encuentra el cuerpo de Suleimán, llegaron a la orilla del Primer Mar, y se sentaron allí en tierra, y empezaron por frotarse enérgicamente la planta de los pies y los tobillos con el jugo que habían recogido en el frasco.
+> «¡Yo soy la maravillosa que otorga a quien se frota los pies con mi jugo la facultad de caminar sin mojarse por la superficie de todos los mares que creó Alah el Altísimo!» \[…\]
+> «Cuando el joven Belukia y el sabio Offán me dejaron para ir a la isla situada allende los Siete Mares, donde se encuentra el cuerpo de Suleimán, llegaron a la orilla del Primer Mar, y se sentaron allí en tierra, y empezaron por frotarse enérgicamente la planta de los pies y los tobillos con el jugo que habían recogido en el frasco».
 \sc
 
 > Luego se levantaron, y con mucha precaución al principio, se aventuraron por mar. Pero cuando comprobaron que podían marchar por el agua sin temor a ahogarse, y aún mejor que en tierra firme, se animaron, y se pusieron en camino muy de prisa para no perder tiempo.
@@ -1396,8 +1396,8 @@ Una vez se llegue al destino, no importa la distancia, se acaban sus efectos. La
 ### La joya talismánica de la cama de viaje
 
 > Lo cogió y comprobó, en el límite del asombro, que era una gran gema talismánica, tallada en seis facetas y colgada de cadenilla de oro viejo. Y en las facetas estaban grabados nombres con caracteres desconocidos, que se parecían mucho a hormigas o a insectos del mismo tamaño.\[…\]  
-> Ella dijo: "¡Vamos allá!" Y cogió la cornalina y volvió hacia el cielo una de sus caras, en que estaba grabada la imagen de una cama, y frotó rápidamente aquella cara con el pulgar, diciendo: "¡Oh cornalina, en nombre de Suleimán te ordeno que me proporciones una cama de viaje!" 
-> Apenas pronunciadas tales palabras, se colocó delante de ellos un lecho de viaje, con sus sábanas v almohadones. Lo ocuparon los dos y se tendieron cómodamente. Entonces la princesa Mariam cogió entre los dedos la cornalina, volvió hacia el cielo una de sus caras, en que estaba grabado un pájaro, y dijo: ¡Cornalina, ¡oh cornalina! te ordeno, por el nombre de Suleimán, que nos transportes sanos y salvos a Iskandaria por la vía más directa!  
+> Ella dijo: «¡Vamos allá!» Y cogió la cornalina y volvió hacia el cielo una de sus caras, en que estaba grabada la imagen de una cama, y frotó rápidamente aquella cara con el pulgar, diciendo: «¡Oh cornalina, en nombre de Suleimán te ordeno que me proporciones una cama de viaje!» 
+> Apenas pronunciadas tales palabras, se colocó delante de ellos un lecho de viaje, con sus sábanas y almohadones. Lo ocuparon los dos y se tendieron cómodamente. Entonces la princesa Mariam cogió entre los dedos la cornalina, volvió hacia el cielo una de sus caras, en que estaba grabado un pájaro, y dijo: ¡Cornalina|, ¡oh cornalina! ¡te ordeno, por el nombre de Suleimán, que nos transportes sanos y salvos a Iskandaria por la vía más directa!  
 > Apenas había dado la orden, cuando la cama se levantó sola por el aire, sin sacudidas, subió hasta la cúpula, salió por el mayor ventanal, y más rápida que el ave más rápida, hendió el espacio con maravillosa regularidad, y en menos tiempo que el necesario para orinar los depositó en Iskandaria.
 > 
 > **Referencia:** Historia del Grano-del-Belleza (n. 269)
@@ -1439,8 +1439,8 @@ El kohl afecta a como vemos el mundo y estando invisible podremos ver muchas vec
 ### Kohl de búsqueda de tesoros
 
 > Cuando tuve el bote entre las manos, lo abrí, y mirando su contenido, dije al derviche: 
-> "¡Por Alah sobre ti, ¡oh hermano derviche! completa tus bondades diciéndome cómo se usa y qué virtudes tiene esta pomada que desconozco!" Y añadió: "Sabe, ya que lo preguntas, que esta pomada ha sido triturada por los dedos de los genn subterráneos, que han puesto en ella facultades maravillosas. En efecto, si se aplica un poco alrededor del ojo izquierdo y en el párpado, hace aparecer ante quien la ha utilizado los escondrijos donde se encuentran los tesoros de la tierra. Pero si, por desgracia, se aplica esta pomada al ojo derecho, de repente queda uno ciego de ambos ojos a la vez. Y tal es la virtud y tal es el uso de esta pomada, \[…\]  
-> Y el derviche no quiso hacerse rogar más, y siempre amable y tranquilo, tomó un poco de pomada con la yema del dedo y me la aplicó alrededor del ojo izquierdo y en el párpado izquierdo, diciéndome "¡Abre el ojo izquierdo y cierra el derecho!"Y abrí el ojo izquierdo untado de pomada, ¡oh Emir de los Creyentes! y cerré el ojo derecho. Y al punto desaparecieron todas las cosas visibles a mis ojos habitualmente para dejar sitio a planos superpuestos de grutas subterráneas y marinas, de troncos de árboles gigantescos ahuecados por la base, de estancias abiertas en roca y de escondrijos de todas clases.
+> «¡Por Alah sobre ti, oh hermano derviche! ¡completa tus bondades diciéndome cómo se usa y qué virtudes tiene esta pomada que desconozco!» Y añadió: «Sabe, ya que lo preguntas, que esta pomada ha sido triturada por los dedos de los genn subterráneos, que han puesto en ella facultades maravillosas. En efecto, si se aplica un poco alrededor del ojo izquierdo y en el párpado, hace aparecer ante quien la ha utilizado los escondrijos donde se encuentran los tesoros de la tierra. Pero si, por desgracia, se aplica esta pomada al ojo derecho, de repente queda uno ciego de ambos ojos a la vez. Y tal es la virtud y tal es el uso de esta pomada, \[…\]»  
+> Y el derviche no quiso hacerse rogar más, y siempre amable y tranquilo, tomó un poco de pomada con la yema del dedo y me la aplicó alrededor del ojo izquierdo y en el párpado izquierdo, diciéndome «¡Abre el ojo izquierdo y cierra el derecho!» Y abrí el ojo izquierdo untado de pomada, ¡oh Emir de los Creyentes! y cerré el ojo derecho. Y al punto desaparecieron todas las cosas visibles a mis ojos habitualmente para dejar sitio a planos superpuestos de grutas subterráneas y marinas, de troncos de árboles gigantescos ahuecados por la base, de estancias abiertas en roca y de escondrijos de todas clases.
 > Y todo aquello estaba lleno de tesoros de pedrerías, orfebrerías, joyeles, alhajas y dinero de todos los colores y de todas las formas. Y vi metales en sus minas, plata virgen y oro natural, piedras cristalizadas en su ganga y filones preciosos circundando la tierra. Y no cesé de mirar y de maravillarme, hasta que sentí que mi ojo derecho, que me veía obligado a tener cerrado, se fatigaba y quería abrirse.
 
 \sc
@@ -1473,7 +1473,7 @@ Esta llave de gran tamaño, de un material desconocido parecido a la plata y con
 
 ### Mesa de arena adivinatoria
 
-> como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: "Está bien, ¡oh arena! veamos. ¿Qué ha sido de \[…\]  
+> como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: "Está bien, ¡oh arena! veamos. ¿Qué ha sido de \[…\]?  
 > Y pronunciando estas palabras agitó la arena con arreglo al rito. Y he aquí que nacieron las figuras y se formó el horóscopo. Y el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que …
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 764)
@@ -1496,7 +1496,7 @@ Este polvo plateado tiene la capacidad de volver visible por un momento (1d6 tur
 
 ### Saco encantado
 
-> Y metió la mano en el saco, y extrajo de él un plato de oro con dos pollos asados y calientes; luego metió la mano por segunda vez, y sacó un plato de oro con chuletas de cordero, y uno tras otro, sacó exactamente los veinticuatro platos que había enumerado. Estupefacto quedó Juder al ver aquello. Y le dijo el magrebí: Come, pobre amigo mío!" Pero exclamó Juder: "¡Ualah! ¡oh mi señor peregrino! ¡sin duda has colocado en ese saco una cocina con sus utensilios y cocineros!" El magrebí se echó a reír, y contestó: Oh Juder, ¡este saco está encantado! ¡Lo sirve un efrit que, si quisiéramos nos traería al instante mil manjares indios y mil manjares chinos!"
+> Y metió la mano en el saco, y extrajo de él un plato de oro con dos pollos asados y calientes; luego metió la mano por segunda vez, y sacó un plato de oro con chuletas de cordero, y uno tras otro, sacó exactamente los veinticuatro platos que había enumerado. Estupefacto quedó Juder al ver aquello. Y le dijo el magrebí: «¡Come, pobre amigo mío!» Pero exclamó Juder: «¡Ualah! ¡oh mi señor peregrino! ¡sin duda has colocado en ese saco una cocina con sus utensilios y cocineros!» El magrebí se echó a reír, y contestó: «Oh Juder, ¡este saco está encantado! ¡Lo sirve un efrit que, si quisiéramos nos traería al instante mil manjares indios y mil manjares chinos!»
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 471)
 
@@ -1522,7 +1522,7 @@ Las alas pueden tener diferente forma según el carácter y karma del schahriars
 
 La gente tiende a ver a las personas aladas como yinns o cheitán yinns renegados o demonios y pueden querer acabar con tu vida.
 
-Como consigas los restos humanos es cosa tuya, pero el crecimiento y la posterior amputación de las alas exige unas TPC de 8 para el que la sufre y un TPC d4 para e que la contempla.
+Como consigas los restos humanos es cosa tuya, pero el crecimiento y la posterior amputación de las alas exige unas TPC de 8 para el que la sufre y un TPC d4 para el que la contempla.
 
 Los testigos pueden acostumbrarse normalmente a ambos procesos, pero el sujeto que lo sufre siempre debe tirar el TPC. El dolor sigue siendo terrible por más que lo repitas.
 
@@ -1530,7 +1530,7 @@ Los testigos pueden acostumbrarse normalmente a ambos procesos, pero el sujeto q
 
 ### Semilla de Khizr, guardián de los vergeles y los huertos
 
-> ¡Y tú, ¡oh santo hombre! que llevas a la espalda ese manojo de verduras excelentes, eres, sin duda alguna, el gran Khizr, guardián de los vergeles y los huertos, el que reviste de coronas verdes a los árboles, hace correr las aguas fugitivas, despliega la alfombra verdeante de las praderas, y cubierto con su manto verde por las tardes combina las tintas ligeras con que se coloran los cielos en el crepúsculo!
+> ¡Y tú! ¡oh santo hombre! ¡que llevas a la espalda ese manojo de verduras excelentes, eres, sin duda alguna, el gran Khizr, guardián de los vergeles y los huertos, el que reviste de coronas verdes a los árboles, hace correr las aguas fugitivas, despliega la alfombra verdeante de las praderas, y cubierto con su manto verde por las tardes combina las tintas ligeras con que se coloran los cielos en el crepúsculo!
 > 
 > **Referencia:** La malicia de las esposas (n. 848)
 
@@ -1550,7 +1550,7 @@ Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árbol
 
 ### Tambor de piel de gallo
 
-> /p/ Y cogió el tambor, y apoyándoselo en el costado, hizo como si tocase sobre la piel de gallo con los dedos. Después dijo a Hassán: "¡Hay que hacer así!" y Hassán dijo: "¡Ya he comprendido, hermana mía!" Y a su vez cogió el tambor de manos de la joven, y tocó como había visto hacerlo a Botón-deRosa, pero con mucha fuerza. Y al instante surgieron de todos los puntos del horizonte camellos grandes, dromedarios de carrera, mulas y caballos. Y todo aquel rebaño al galope acudió a alinearse tumultuosamente en una fila muy larga con los camellos primero, detrás los dromedarios, y por último las mulas y los caballos.
+> /p/ Y cogió el tambor, y apoyándoselo en el costado, hizo como si tocase sobre la piel de gallo con los dedos. Después dijo a Hassán: "¡Hay que hacer así!" y Hassán dijo: "¡Ya he comprendido, hermana mía!" Y a su vez cogió el tambor de manos de la joven, y tocó como había visto hacerlo a Botón-de-Rosa, pero con mucha fuerza. Y al instante surgieron de todos los puntos del horizonte camellos grandes, dromedarios de carrera, mulas y caballos. Y todo aquel rebaño al galope acudió a alinearse tumultuosamente en una fila muy larga con los camellos primero, detrás los dromedarios, y por último las mulas y los caballos.
 
 \sp
 

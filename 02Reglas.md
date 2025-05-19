@@ -516,7 +516,7 @@ Las TPC pueden ser modificadas en determinadas situaciones.
 
 \sp
 
-* **Pásame el haschisch:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, masticando una buena pieza de haschisch antes de entrar de noche en un cementerio infestado de ghūles. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta). Además no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, etc. Por último, deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
+* **Pásame el haschisch:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, masticando una buena pieza de haschisch antes de entrar de noche en un cementerio infestado de ghūles. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta). Además, no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, etc. Por último, deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
 * **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
 
 \sinc

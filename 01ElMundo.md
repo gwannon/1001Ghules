@@ -514,7 +514,7 @@ Suc’Naath es uno de los dioses malditos y descerebrado que bailan desenfrenada
 
 Entre sus remolinos de viento se forman rostros agonizando y emite constantemente chasquidos y chirridos terriblemente desagradables.
 
-Su esencia está fragmentada en tres partes. Una esta en un cometa llamado Aiin, otra en algún tipo de estatua ubicada en la antigua Babilonia, y la última ha sido transmitida genéticamente durante eones a través de razas pre-humanas y humanas, principalmente en las tierras regadas por el Tigris y el Eufrates, lo que conocemos como Mesopotamia. Si alguna vez se combinan estas tres partes, Suc’Naath se liberará de su maldición.
+Su esencia está fragmentada en tres partes. Una parte está en un cometa llamado Aiin, otra en algún tipo de estatua ubicada en la antigua Babilonia, y la última ha sido transmitida genéticamente durante eones a través de razas pre-humanas y humanas, principalmente en las tierras regadas por el Tigris y el Eufrates, lo que conocemos como Mesopotamia. Si alguna vez se combinan estas tres partes, Suc’Naath se liberará de su maldición.
 
 Se dice que los portadores de sus poderes pueden realizar grandes prodigios mágicos y/o están locos.
 
@@ -1250,7 +1250,7 @@ Los zocos y bazares tienen dos figuras interesantes:
 
 Maidán hace referencia a una plaza normalmente la más importante de la ciudad. Son amplios espacios y a veces ajardinados donde se desarrolla la vida social. La gente pasea y descansa a la sombra de árboles y toldos, come y toma té, etc.
 
-Normalmente la medina se estructura en función del maidán principal y los edificios oficiales suelen estar a su alrededor.
+Casi siempre la medina se estructura en función del maidán principal y los edificios oficiales suelen estar a su alrededor.
 
 Como en los zocos podemos encontrar aguadores, vendedores ambulantes, incluso sacamuelas, encantadores de serpientes o músicos y actores ambulantes.
 

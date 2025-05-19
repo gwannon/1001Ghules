@@ -830,7 +830,7 @@ Dalila y su hija Zeinab controlan los bajos fondos de la ciudad, nada se hace si
 
 Dalila odia profundamente al Califa, porque su difunto marido era el maestre del palomar del Califa y los colmaba de dinero y regalos. Cuando su marido murió, el Califa se olvidó de la viuda y sus hijas que tuvieron que empezar a vivir de pequeños robos y timos.
 
-Todas sus acciones llevan conseguirle dinero, pero si molestan al Califa, mucho mejor. Aun así, no es una cruel señora de los bajos fondos y dentro de los ladrones y timadores tiene fama de justa.
+Todas sus acciones llevan a conseguirle dinero, pero, si molestan al Califa, mucho mejor. Aun así, no es una cruel señora de los bajos fondos y dentro de los ladrones y timadores tiene fama de justa.
 
 #### Zeinab la embustera, hija de Dalila la taimada y su lugarteniente
 

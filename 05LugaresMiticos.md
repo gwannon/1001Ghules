@@ -219,7 +219,7 @@ Con los milenios la ciudad cayó en decadencia, para ser abandonada y acabar med
 
 La ciudad no se muestra a todo el mundo, solo los que saben que buscan pueden encontrar esta ciudad. Solo los afines a la magia podrán encontrar la ciudad si tienen las indicaciones de adecuadas. Las caravanas que pasan cerca de sus ruinas no la perciben, quizás vean algún tipo de espejismo, y son repelidas por algún tipo de hechizo. La gente de la caravana no se siente tranquila hasta no estar lejos de la ciudad.
 
-Entre las hojas del grimorio Anales de los Antiguos se encuentra la ubicación de la ciudad. También tiene una especie de indicaciones/ritual para poder encontrarla. Principalmente es una combinación fórmulas mágicas en un siseante idioma perdido. Si se hace correctamente (tirada de Espíritu) los espejismos que ocultan la ciudad desaparecen y se puede ver la ciudad y acercarse a explorarla.
+Entre las hojas del grimorio Anales de los Antiguos se encuentra la ubicación de la ciudad. También tiene una especie de indicaciones/ritual para poder encontrarla. En su mayoría es una combinación de fórmulas mágicas en un siseante idioma perdido. Si se hace correctamente (tirada de Espíritu) los espejismos que ocultan la ciudad desaparecen y se puede ver la ciudad y acercarse a explorarla.
 
 Es un conjunto inmenso de edificios semienterrados en la arena, podemos encontrar casas, tiendas y talleres y también templos y palacios. Por de bajo de muchos edificios hay un laberinto de pasadizos que permiten moverse entre los edificios sin salir al sol.
 

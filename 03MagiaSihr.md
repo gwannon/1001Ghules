@@ -422,7 +422,7 @@ La transmutación no sirve para crear otra cosa que la propia transformación de
 
 #### Modificadores
 
-**A medías:** Normalmente transformas todo el objeto, si solo quieres transformar una parte el coste de PP se multiplica por 1,5.
+**A medías:** De normal transformas todo el objeto, si solo quieres transformar una parte el coste de PP se multiplica por 1,5.
 
 \sc
 
@@ -655,7 +655,7 @@ Usando algún tipo de recipiente lleno de agua para salpicar al objetivo y hacie
 
 _Poder:_ Manipulación de recuerdos
 
-> /p/ Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir una repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: «Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infligiré mañana».
+> /p/ Inmovilizado como estaba, Bahram el Gauro se retiró unos paso, se arremangó los brazos y abrió sus manos cuyas palmas empezaron a emitir un repugnante brillo cetrino. Con todas sus fuerzas el mago impuso sus manos sobre la cabeza de Amir gritando: «Como ayer y antes de ayer y desde hace semanas, volverás a olvidarte de todo y así poder disfrutar plenamente de la tortura que te infligiré mañana».
 
 \sp
 
@@ -703,7 +703,7 @@ No se puede usar para iluminar una zona, ya que los destellos no duran ni segund
 
 _Poder:_ Invocar montura
 
-> Al cabo de cierto tiempo, el magrebí preguntó a Juder: «¿Sabes ¡oh Juder! el camino que hemos recorrido desde El Cairo hasta aquí?» Juder contestó: «¡Por Alah, que no lo sé!» El otro dijo: «En dos horas hemos recorrido exactamente un trayecto que exige un mes de camino, por lo menos!» Juder preguntó: «¿Y cómo es eso?»  
+> Al cabo de cierto tiempo, el magrebí preguntó a Juder: «¿Sabes ¡oh Juder! el camino que hemos recorrido desde El Cairo hasta aquí?» Juder contestó: «¡Por Alah, que no lo sé!» El otro dijo: «¡En dos horas hemos recorrido exactamente un trayecto que exige un mes de camino, por lo menos!» Juder preguntó: «¿Y cómo es eso?»  
 > El otro dijo: «¡Sabe, oh Juder! que esta mula que montamos es nada menos que una gennia entre los genn. En un día suele recorrer el trayecto de un año de camino; pero hoy va despacio, al paso, para que no te fatigues».\[…\]  
 > En cuanto al magrebí, comenzó primero por coger del lomo de la mula el saco, y dijo: «¡Oh, mula, vuélvete al sitio de donde viniste! ¡Y Alah te bendiga!»  
 > Y he aquí que de pronto se abrió la tierra y recibió en su seno a la mula para cerrarse sobre ella inmediatamente.
@@ -850,7 +850,7 @@ Las maldiciones son terribles hechizos que solo se pueden aprender de grimorios 
 El lanzamiento de una maldición empieza con el lanzamiento del hechizo de un normal, siguiendo las instrucciones del poder del manual básico, pero con los siguientes cambios.
 
 * Las maldiciones solo pueden usarse contra comodines y no importa su tamaño, pero exige un PP por cada dos niveles superior. Podrías petrificar un Falak (tamaño 30)con un coste de 24 PP (10 + 14 del tamaño).
-* Un practicante de magia solo puede lanzar una vez una maldición a una víctima en concreto y no puede hacerse en un combate o en situaciones no estresantes como escapar de un incendio o escalar un acantilado. Normalmente se debería lanzar a objetivos indefensos derrotados, por ejemplo, meter en una botella a una poderosa hechicera serpigente tras derrotarla y lanzar el recipiente al mar.
+* Un practicante de magia solo puede lanzar una vez una maldición a una víctima en concreto y no puede hacerse en un combate o en situaciones no estresantes como escapar de un incendio o escalar un acantilado. En la mayoría de los casos se debería lanzar a objetivos indefensos derrotados, por ejemplo, meter en una botella a una poderosa hechicera serpigente tras derrotarla y lanzar el recipiente al mar.
 * Para lanzar una maldición es necesario que las personas implicadas, el lanzador de la maldición y el maldecido, estén el mismo espacio, ya que se necesita una interacción física entre ellas. Por ejemplo, es muy normal en las maldiciones de transformaciones en animal que se lance agua al objetivo de la maldición.
 
 \sp
@@ -889,7 +889,7 @@ En este listado tendrás una mezcla de maldiciones de las 1001 Noches con un toq
 > 
 > **Referencia:** Historia del ciego que se hacía abofetear en el puente (n. 876)
 
-La víctima quedará completamente ciega hasta que se retire la maldición. Obtendrá la desventaja Ciego (Mayor). Normalmente la condición para retirar la maldición debería ser algún tipo de ungüento para los ojos o algún tipo de objeto con poderes curativos.
+La víctima quedará completamente ciega hasta que se retire la maldición. Obtendrá la desventaja Ciego (Mayor). La condición de normal para retirar la maldición debería ser algún tipo de ungüento para los ojos o algún tipo de objeto con poderes curativos.
 
 #### Encerrar en una botella
 
@@ -930,7 +930,7 @@ Hablamos de enfermedades no-mortales, pero visibles y estigmatizadas y que crean
 * Pierde 2 niveles en 1 o más atributos físicos (mínimo d4) y desventaja Marginado (Mayor)
 * Pierde 1 nivel en 1 atributo físico (mínimo d4) y desventaja Marginado (Menor)
 
-Normalmente la condición para retirar la maldición debería ser algún tipo de ungüento o elixir mágico o algún tipo de objeto con poderes curativos. También puede ser que se deshaga de todos sus bienes o que alguien limpie y cure sus llagas desinteresadamente sin que es se lo pida.
+La condición más normal para retirar la maldición debería ser algún tipo de ungüento o elixir mágico o algún tipo de objeto con poderes curativos. También puede ser que se deshaga de todos sus bienes o que alguien limpie y cure sus llagas desinteresadamente sin que es se lo pida.
 
 #### Hambre no-humana
 
