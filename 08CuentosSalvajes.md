@@ -3434,7 +3434,7 @@ La secta de los 40 tiene mucho interés en este proyecto y tiene a otros grupos 
 
 ##### Sótano
 
-_4 [adeptos cultistas](#anchorcultista) vigilando y trabajando en el motor_
+_4 adeptos cultistas (cultista) vigilando y trabajando en el motor_
 
 El sótano era una antigua mazmorra con varias celdas y en la central está el motor. Está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
 
