@@ -444,7 +444,7 @@ Los objetos de origen valusiano como la alfombra de piel de serpiente también p
 
 \conc
 
-El Magreb que significa «lugar por donde se pone el sol», el Poniente, es la parte más occidental del mundo árabe. El Magreb incluye las actuales Argelia, Libia, Mauritania (parte de África occidental), Marruecos y Túnez
+El Magreb que significa «lugar por donde se pone el sol», el Poniente, es la parte más occidental del mundo árabe. El Magreb incluye las actuales Argelia, Libia, Mauritania, Marruecos y Túnez
 
 Si bien, pocas aventuras transcurren en el Magreb, muchos personajes sonde origen magrebí. Normalmente, son personajes malvados como el mago de Aladino o el asesino y mago Bahram el Gauro. Seguramente esto se deba al algún tipo de xenofobia a la gente del Magreb.
 

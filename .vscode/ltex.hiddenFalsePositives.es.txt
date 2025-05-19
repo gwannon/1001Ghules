@@ -614,3 +614,34 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qllegamos ante las mazorcas de una planta, que con todas las corolas rojas de sus flores cantaban bajo la brisa que la inclinaba:\\E$"}
 {"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente hay que salpicar unas gotas del líquido que contiene y pronunciar las palabras grabadas en ella.\\E$"}
 {"rule":"COMMA_ADVERB","sentence":"^\\QPresumiblemente fue creada por el poderoso rey Suleimán como forma de castigar a pequeños criminales, haciéndoles, por ejemplo, trabajar penosamente como asnos transportando pesadas cargas de sol a sol.\\E$"}
+{"rule":"QUE_TILDE2","sentence":"^\\QEl Gremio de Bronce es una sociedad secreta dedicada a mantener oculta la Ciudad de Bronce, evitando que aventureros la encuentren y rompan su maldición. El Gremio está convencido que romper la maldición que se cierne sobre la Ciudad, liberará un gran mal sobre el mundo.\\E$"}
+{"rule":"CONCORDANCIA_ADJECTIVOS_NEUTROS","sentence":"^\\QUna de las doctoras de la expedición. Usa una secuaz mercader con Medicina d8.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qsi vuelven con pistas ella podrá confirmarlas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDie Flamme - Wilhelm Bernatzik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDecapitation - Wallach Division Picture Collection\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QUna tirada de Humanidades dejará claro hay varias referencias al budismo en la carta que confirmarán. Desde las frases en sánscrito como «Bhadraṃ te» que significa «Qué seáis felices» a referencias al karma.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi se dividen\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi permanecen juntos en el palacio\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QChimera sketch by DaveyBaker\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl más importante y popular consiste en encender fuegos en las calles mientras los participantes los saltan gritando \"zardí-e man az to, sorjí-e to az man\" (que significa «mi color amarillo (pálido, enfermizo) es tuyo, tu color rojo es mío»).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilueta Imagen de Holger Grybsch en Pixabay\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLil Sakib\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl joven rey de las Islas Negras por Maxfield Parrish\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN_AREA","sentence":"^\\QPero ella no está preparada para dar el gran paso, las estrellas que tanto ama todavía guardan miles de secretos que desea desvelar.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QMariam está sobre un quirófano y el al migho sabio se prepara para extraer el cerebro a Mariam y meterlo en un cilindro cerebral.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy cada vez más cerca.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO2","sentence":"^\\QParece que todo esto es cosa del general Ibrahim, quizás estudiar su pasado revele algo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEn cada casilla hay una letra (a, b, d, u) que representa los números (2,4,6,8).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHolar Peek by Brandon-Ellis\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«En efecto, ¡oh Emir de los Creyentes! esos vasos de cobre no son otros que aquellos donde se encerraron, en tiempos antiguos, a los genios que se rebelaron ante las órdenes de Suleimán, vasos arrojados al fondo del mar mugiente, en los confines del Magreb, en el África occidental, tras de sellarlos con el sello temible.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMomentum by MagnumMaster\\E$"}
+{"rule":"AGREEMENT_SER_ADJ_SG","sentence":"^\\QSi sacan un avance, podrán intentar derribarlo con tiradas de FUE enfrentadas.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QDeberán hacer tiradas de Espíritu para atraer su atención y los imite.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nVolar:\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEn este cuento salvaje vas a encontrar varias situaciones jocosas en que el Califa de Bagdad ha salido con su séquito disfrazados todos de comerciantes extranjeros por las calles de Bagdad.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QImagen de Ylanite Koppens en Pixabay\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QPuedes hacer que la recepción con el Califa acabe en una de sus juergas nocturnas disfrazados de mercaderes.\\E$"}
+{"rule":"AGREEMENT_SER_ADJ_SG","sentence":"^\\QSi montan un torneo de ajedrez, será Tácticas, si les pones a trabajar arreglando las tiendas, las sillas de montar y esas cosas, Reparar, etc.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8\nSemiacuáticos:\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QAlya entrará en el palacio real y subirá al piso superior acompañada de 5 gentes del mar y tus schahriars y al-Lawati o Assy si se han unido a ellas.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN_AREA","sentence":"^\\QPero lo más importante es que gracias a estos extraños yinns podrá viajar a las estrellas que tanto ama y conocer sus misterios.\\E$"}
