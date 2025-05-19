@@ -117,7 +117,7 @@ Además, para compensar la desventaja Joven que implica jugar este cuento, los s
 
 **Buscando en la basura:** Vives de lo que encuentras en la basura y los vertederos. Las cosas buenas las vendes y las útiles te las quedas. Ganas un nivel de Notar.
 
-Si la forma de ganarse la vida no se ajusta a ninguna de estas opciones, puedes darles un nivel gratis en la habilidad que más use en el trabajo que tu schahriar te proponga.
+Si la manera de ganarse la vida no se ajusta a ninguna de estas opciones, puedes darles un nivel gratis en la habilidad que más use en el trabajo que tu schahriar te proponga.
 
 ### Historia de la noche en el cementerio
 
@@ -497,7 +497,7 @@ Cuando tengan un plan más o menos viable de que cómo van a abrir la botella, p
 
 ### Historia del dibujante de Laylays
 
-_Están apareciendo laylays (rayuelas) con formas raras y extraños símbolos por toda la ciudad y nadie sabe quién los está dibujando. Un par de pillastres han sido azotados por los mercaderes culpándolos de ensuciar las calles. Habrá que buscar al dibujante para averiguar qué pasa._
+_Están apareciendo laylays (rayuelas) con diseños raros y extraños símbolos por toda la ciudad y nadie sabe quién los está dibujando. Un par de pillastres han sido azotados por los mercaderes culpándolos de ensuciar las calles. Habrá que buscar al dibujante para averiguar qué pasa._
 
 La dibujante es Kala, una niña de unos 15 años, que está tratando de invocar a un yinn llamado Baduh, que arregla problemas de amor y otorga riquezas. Para llamarlo hay que crear unos cuadros mágicos con los números 8, 6, 4, 2, que representan las letras en árabe que forman su nombre. Estos cuadros mágicos han sido tomados por rayuelas.
 
@@ -571,7 +571,7 @@ La joya roja podría usarse sin necesidad de la marioneta, pero serían mucho m�
 
 #### Enfrentándose al morshed
 
-Hay muchas formas de enfrentarse al morshed para evitar que siga con sus malvados planes.
+Hay muchas maneras de enfrentarse al morshed para evitar que siga con sus malvados planes.
 
 * **Robar la joya:** El morshed todas las noches va a una taberna a gastarse sus ganancias en vino barato. Podrían entrar en su caravana (tirada de Latrocinio para forzar la puerta) y buscar la marioneta maldita y robarla. Está metida en una caja de madera con una buena cerradura (Latrocinio -2 para forzarla). Además, habrá unos 800 dinares fruto de los robos del público de su espectáculo.
 * **Enfrentarse al morshed:** Podrían intentar enfrentarse directamente al morshed, pero a no ser que busquen hacerle una emboscada en un sitio apartado, en un par de turnos aparecerán más viandantes que ayudarán al pobre titiritero de unos ladronzuelos. Para sus estadísticas usa el cultista convirtiéndolo en comodín y con Hábito (mayor, alcoholismo).
@@ -732,7 +732,7 @@ Lo curioso es que si preguntas al personal les dirán que han tenido que reajust
 
 Pueden intentar varias líneas de investigación.
 
-* **Conocimientos mágicos:** Una tirada de Saber de Suleimán de tus schahriars o sus aliados dejará que están ante una vieja maldición que hace siglos que no se usa. Se hace un montón de arena con un objeto personal del maldito dentro. Según el viento se lleva arena, el objetivo se hace más pequeño hasta que no queda arena y desaparece. La única forma de parar la maldición es echar más arena y se cancela cogiendo el montón y dejándolo en el desierto, de forma que el viento nunca acabe la arena.
+* **Conocimientos mágicos:** Una tirada de Saber de Suleimán de tus schahriars o sus aliados dejará que están ante una vieja maldición que hace siglos que no se usa. Se hace un montón de arena con un objeto personal del maldito dentro. Según el viento se lleva arena, el objetivo se hace más pequeño hasta que no queda arena y desaparece. La única manera de parar la maldición es echar más arena y se cancela cogiendo el montón y dejándolo en el desierto, de forma que el viento nunca acabe la arena.
 
 \sp
 
@@ -770,7 +770,7 @@ Alimenta la paranoia del objetivo con que igual ahora con la cicatriz por fuego 
 
 \sp
 
-Hazle creer que la cicatriz cambiar de forma o que duele, si está cerca Bahram.
+Hazle creer que la cicatriz cambia de forma o que duele, si está cerca Bahram.
 
 Es importante que si quieren acabar con Bahram, este debe escapar. Bahram el guaro es un personaje recurrente que se dedica a sembrar el caos, haya a donde va. Además, es parte fundamental de la aventura «La caída de Giafar».
 
@@ -782,7 +782,7 @@ Amila ben-Amid ha tenido que volver desde Basora para solucionar un problema con
 
 Amila no puede volver a su tranquila Basora hasta que no se deshaga de la casa vendiéndola o encuentre nuevos inquilinos. Necesita el dinero que le renta la casa para vivir desahogadamente en Basora. Es por ello que ofrece 200 dinares al que pase una noche en la casa y expulse al supuesto demonio.
 
-Amila está alojada en una modesta posada de Al-Rusafa, ya que ella tampoco se atreve a ocupar la casa familiar. La historias de fantasmas y apariciones han rondado la casa desde su construcción. Ella ha visto cosas en esa casa que con los años ha ido olvidando, pero que su subconsciente de vez en cuando le recuerda en forma de pesadillas nocturnas.
+Amila está alojada en una modesta posada de Al-Rusafa, ya que ella tampoco se atreve a ocupar la casa familiar. La historias de fantasmas y apariciones han rondado la casa desde su construcción. Ella ha visto cosas en esa casa que con los años ha ido olvidando, pero que su subconsciente de vez en cuando le recuerda en modo de pesadillas nocturnas.
 
 La casa es la típica casa de dos pisos del zoco de tejedores. Las calles aledañas están llenas de lanas teñidas y de talleres de hilado y telares.
 
@@ -940,7 +940,7 @@ Es muy difícil destruirla a golpe de machete, ya que es muy difícil de impacta
 
 Adif no está ni muerto ni vivo, está en un estado intermedio de muerte en vida mientras siga dentro de la casa. En caso necesario puede animar su cuerpo. Cosa que hará si alguien se acerca demasiado.
 
-Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer la casa. La única forma de acabar definitivamente con él es haciendo algún hechizo de Destierro. También acabará con él sacando su cuerpo de la casa y exponiéndole a la luz del sol. El problema es sacar un cadáver a la calle a la vista de todos y que se convierta en polvo al darle la luz del sol. Además, las calles aledañas están cubiertas de telas de los tejedores y teñidores y el sol no entra nunca. Deberán salir del arrabal para que el sol ilumine las calles.
+Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer la casa. La única manera de acabar definitivamente con él es haciendo algún hechizo de Destierro. También acabará con él sacando su cuerpo de la casa y exponiéndole a la luz del sol. El problema es sacar un cadáver a la calle a la vista de todos y que se convierta en polvo al darle la luz del sol. Además, las calles aledañas están cubiertas de telas de los tejedores y teñidores y el sol no entra nunca. Deberán salir del arrabal para que el sol ilumine las calles.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d10, Humanidades d10, Idioma Materno d10, Intimidar d8, Notar d8, Persuadir d4, Pelear d6, Saber de Suleimán d8, Sigilo d6
@@ -1066,7 +1066,7 @@ Si lo derrotan tendrá un botín de d6. Entre sus pertenencias y los objetos rob
 
 &nbsp;
 
-> Una forma interesante de jugar este cuento es que haya dos grupos, uno que trate de sobrevivir a las pruebas y otro que investigue el secuestro y trate de encontrar a sus compañeros. En este caso lo mejor sería que los mayores sean los secuestrados y los pequeños los que tengan que encontrarlos.
+> Una manera interesante de jugar este cuento es que haya dos grupos, uno que trate de sobrevivir a las pruebas y otro que investigue el secuestro y trate de encontrar a sus compañeros. En este caso lo mejor sería que los mayores sean los secuestrados y los pequeños los que tengan que encontrarlos.
 
 \sc
 
@@ -1617,7 +1617,7 @@ Si el encapuchado se escapa o se quema el diario, es una perdida, pero no es tan
 
 Si son un poco avispados, se darán cuenta de que es raro que la princesa estuviera totalmente vestida a esas horas de la noche cuando debería estar durmiendo.
 
-La razón es que, como descendiente de profundo, no duerme casi nunca, pero tus schahriars pueden interpretarlo de muchas formas.
+La razón es que, como descendiente de profundo, no duerme casi nunca, pero tus schahriars pueden interpretarlo de muchos modos.
 
 \sp
 
@@ -1669,9 +1669,9 @@ Si dejan al menos una semilla, la esencia del primigenio vegetal se mantendrá y
 
 ##### La huella de Ubbo-Sathla
 
-Si roban todas las semillas, el último schahriar que toque la flor será marcado por Ubbo-Sathla. La flor lanzará un polen casi invisible, pero que hará estornudar a su objetivo. Esta marca es una especie de feromona que se pegará a su piel y que es imposible de eliminar de formas no mágicas.
+Si roban todas las semillas, el último schahriar que toque la flor será marcado por Ubbo-Sathla. La flor lanzará un polen casi invisible, pero que hará estornudar a su objetivo. Esta marca es una especie de feromona que se pegará a su piel y que es imposible de eliminar por métodos no mágicos.
 
-La marca hace a su portador débil frente a formas de vida básicas como plantas, líquenes u hongos, pero también virus y bacterias. De forma que cualquier ser basado en estos tipos de seres tendrán un +1 al ataque y al daño. Tendrá un -1 a resistir los venenos de origen vegetal como el bang cretense y será más susceptible a las enfermedades víricas y bacterianas.
+La marca hace a su portador débil frente a formas de vida básicas como plantas, líquenes u hongos, pero también virus y bacterias. De manera que cualquier ser basado en estos tipos de seres tendrán un +1 al ataque y al daño. Tendrá un -1 a resistir los venenos de origen vegetal como el bang cretense y será más susceptible a las enfermedades víricas y bacterianas.
 
 Puedes considerar todo esto una especie de maldición que no desaparecerá hasta que se bañe en el Mar Muerto, que representa a la antivida, concepto que es la antítesis de Ubbo-Sathla.
 
@@ -1907,7 +1907,7 @@ Tras varios días de solo ver arena y dunas, la caravana verá algo distinto, un
 > 
 > **Referencia:** Historia prodigiosa de la ciudad de bronce (n. 341)
 
-La estatua ecuestre es un ingenio mágico que trastoca la geometría euclideana. Según te acercas a ella, gira tu mundo de forma que si sigues adelante vuelves sobre tus pasos y si das la vuelta sigues adelante. Si tuerces a la izquierda acabas yendo a la derecha y viceversa.
+La estatua ecuestre es un ingenio mágico que trastoca la geometría euclideana. Según te acercas a ella, gira tu mundo, de forma que si sigues adelante vuelves sobre tus pasos y si das la vuelta sigues adelante. Si tuerces a la izquierda acabas yendo a la derecha y viceversa.
 
 En la lanza hay unas palabras grabadas a fuego:
 
@@ -2034,7 +2034,7 @@ Una tirada de Notar permite encontrar el clave en el ombligo y tiene un resorte 
 
 \sp
 
-Al pulsarlo 12 veces la puerta se abre y se puede acceder a una escalera de caracol de mármol rojo que baja a nivel de la calle.
+Al pulsarlo 12 veces la puerta se abre y se puede acceder a una escalera de caracol de mármol rojo que baja al nivel de la calle.
 
 ### Explorando la ciudad
 
@@ -2071,7 +2071,7 @@ _Alya ha desaparecido y parece que busca romper la maldición ella sola y si nad
 
 La Ciudad de Bronce es una versión onírica de R’lyeh. Los dioses arquetípicos desterraron y encerraron a los primigenios hace eones y cuando dejaron dormido a Cthulhu (conocido como Bahamūt) y hundieron R’lyeh, el durmiente primigenio creo una versión de él y de su ciudad en la Tierra de los sueños, en alguna zona perdida y deshabitada del desierto oriental que da al mar. 
 
-La creo usando los sueños de las razas sintientes de la Tierra y cuando los humanos se convirtieron en la raza dominante de nuestro planeta, la Ciudad de Bronce empezó a tener la forma que marcaban los sueños de los humanos.
+La creo usando los sueños de las razas sintientes de la Tierra y cuando los humanos se convirtieron en la raza dominante de nuestro planeta, la Ciudad de Bronce empezó a tener la apariencia que marcaban los sueños de los humanos.
 
 \sp
 
@@ -2125,7 +2125,7 @@ El Gremio cuenta con 20 unidades. Los 30 expedicionarios se unirán a un grupo o
 
 Alya, está totalmente ida, con la mirada perdida, desnuda y cubierta de algas como la gente del mar. Les gritará que se marchen y le dejen cumplir su destino. Ella es la elegida de Bahamūt y nadie la va a parar en su misión de despertar a la princesa de Tadnaar. Déjales intervenir a tus schahriars si quieren hacer algo o decirle algo.
 
-Cuando crean conveniente, tus schahriars deberán «traicionar» al Gremio y a los expedicionarios. La traición debe ser real, así que el Gremio acepta que va a sufrir muchas bajas.
+Cuando crean conveniente, tus schahriars deberán «traicionar» al Gremio y a los expedicionarios. La traición debe ser auténtica, así que el Gremio acepta que va a sufrir muchas bajas.
 
 Alya debería ganar sin problemas la batalla, sobre todo con la traición de tus schahriars. Los supervivientes del Gremio huirán y Alya mandará rematar a los heridos. Se acercará a tus schahriars y les dirá: «Sabía que seríais inteligentes, Bahamūt estará contento con vosotros». 
 
@@ -2290,7 +2290,7 @@ Esta gran sala parece una sala de reuniones, donde los sacerdotes y adeptos de m
 
 Si cuando están en esta sala, con Sigilo dan un vistazo a la sala principal (1) verán a Ziba y su gente rezando a la estatua.
 
-Una tirada de Notar -2 detectará una losa movible en uno de los cubículos del fondo que da acceso a una cueva secreta (5) que es el templo real Suc’Naath. Si fallan tus schahriars puede aparecer Ziba y encontrar la puerta secreta. Si descubren la estatua solos pueden seguir ellos solos o avisar a Ziba.
+Una tirada de Notar -2 detectará una losa movible en uno de los cubículos del fondo que da acceso a una cueva secreta (5) que es el templo auténtico de Suc’Naath. Si fallan tus schahriars puede aparecer Ziba y encontrar la puerta secreta. Si descubren la estatua solos pueden seguir ellos solos o avisar a Ziba.
 
 ##### Entrada secreta (5)
 
@@ -2334,7 +2334,7 @@ Durante el camino de regreso a Bagdad podrán tratar de sonsacar a Ziba alguna d
 
 La Mano Dorada, ahora que tiene la estatua de Suc’Naath, necesita una forma de reunir las 3 partes de la esencia de Suc’Naath. La esencia genética de Ziba y la estatua debe poder llegar al espacio exterior hasta el cometa Aiin que según astrónomos como Mariam Al-Ijliya se acercará a la Tierra en los próximos meses.
 
-La única forma que Ziba sabe de viajar hasta el espacio es con una Ave Rokh, así que la idea es coger uno de huevo o cría y domesticarlo para poder usarlo de montura. Criarlo y domarlo serán un par de meses, momento en que el cometa Aiin llegará a la tierra.
+El único método que Ziba sabe para viajar hasta el espacio es con una Ave Rokh, así que la idea es coger uno de huevo o cría y domesticarlo para poder usarlo de montura. Criarlo y domarlo serán un par de meses, momento en que el cometa Aiin llegará a la tierra.
 
 El día que el cometa sea visible, desde la cima del monte Ararat, Ziba se montará en su Rokh y tras salir de la atmósfera de la Tierra y encontrarse con el cometa se fusionará con él y junto con la estatua.
 
@@ -2494,7 +2494,7 @@ _Con el rokh criado y amaestrado es hora de ocuparse del cometa y no hay nadie m
 
 Ziba necesita saber el momento exacto en que el cometa Aiin estará más cerca de la Tierra y cuál es la zona más cercana a él. Es por ello que les mandará a Alepo (con una bolsa de 500 dinares para cada uno) a hablar con una amiga de la infancia experta en astronomía llamada Mariam Al-Ijliya al-Asturlabi.
 
-Si tus schahriars empiezan a sospechar con la estatua, el rokh y ahora el cometa, Ziba tiene una preparada una historia muy convincente: El cometa puede terminar cayendo en la Tierra, arrasando la zona en la que caiga (apelará a algún lugar de especial interés para tus schahriars como puede ser el hogar de sus familias y amistades). El Rokh y el poder mágico de la estatua son la única forma de destruirlo antes de que caiga en la Tierra y así evitar un desastre.
+Si tus schahriars empiezan a sospechar con la estatua, el rokh y ahora el cometa, Ziba tiene una preparada una historia muy convincente: El cometa puede terminar cayendo en la Tierra, arrasando la zona en la que caiga (apelará a algún lugar de especial interés para tus schahriars como puede ser el hogar de sus familias y amistades). El Rokh y el poder mágico de la estatua son la única manera de destruirlo antes de que caiga en la Tierra y así evitar un desastre.
 
 Mariam estará encantada de hacer los cálculos para Ziba y no hará preguntas. Si bien no tiene problemas para calcular el momento en que el cometa estará más cerca de la Tierra, no puede decir cuál sería el punto más cercano al cometa. Necesitará una serie de mediciones de diferentes puntos geográficos.
 
@@ -2619,7 +2619,7 @@ Según alguien dé la alarma, todos los cultistas irán a la jaima de Ziba y la 
 
 Si los defensores de Ziba son derrotados, entrará en acción sin dar cuartel. Si falla, su divinidad será prisionera de Azathoth otros 3 siglos. Desatará el rokh, atará la estatua en la silla y montará el rokh, para salir rompiendo el techo de la jaima y elevarse. Si algún schahriar entra antes, Ziba estará preparada para el combate y lanzará unas bolas de fuego como distracción mientras sube al Rokh y sale volando.
 
-Si fallan una tirada de Notar, estarán sorprendidos. Ziba, lanzará hechizos ofensivos mientras el rokh ataca en cada pasada. De normal, Ziba levantaría vuelo y desaparecería, pero la rabia y la sed de sangre han tomado el control y quiere acabar con tus schahriars de la forma más dolorosa posible. A partir del 10º turno Ziba tirará Espíritu-4 para librarse de la sed de sangre. Si lo consigue, tratará de huir.
+Si fallan una tirada de Notar, estarán sorprendidos. Ziba, lanzará hechizos ofensivos mientras el rokh ataca en cada pasada. De normal, Ziba levantaría vuelo y desaparecería, pero la rabia y la sed de sangre han tomado el control y quiere acabar con tus schahriars de la manera más dolorosa posible. A partir del 10º turno Ziba tirará Espíritu-4 para librarse de la sed de sangre. Si lo consigue, tratará de huir.
 
 Si no vuelan o no tienen armas a distancia solo podrán atacar ganando la iniciativa a Rokh, esperar y atacar cuando pase cerca. Recuerda que está anocheciendo y eso afecta a la visibilidad en el combate.
 
@@ -2736,8 +2736,8 @@ Giafar necesita tener controlada la actividad de sectas, cultos y otras organiza
 
 * Si consultan a la guardia de la ciudad (Persuadir -2, 2 marcadores) les dirán que en la ciudad han aumentado los incendios y seguramente que los pirómanos del culto andan detrás.
 * Consultando en los bazares (Persuadir -2 o 0 si gastan 100 dinares, 2 marcadores por cada tirada) podrán averiguar que hay escasez de petróleo, todas las existencias han sido compradas y hay un par de casos de robos. Siempre que hay cosas inflamables, los Seguidores están cerca.
-* Si usan adivinación (1 marcador), cosa que ya ha intentado Giafar con Geomancia, solo debería funcionarles «Habla de los animales y canto de los pájaros» y solo si preguntan a animales adecuados como gatos que se metan en todas partes o perros que hayan detectado con su olfato la gran concentración de petróleo de la secta.
-* Si se les ocurre otras formas, decide tú la tirada y los marcadores que consumen.
+* Si usan adivinación (1 marcador), cosa que ya ha intentado Giafar con Geomancia, solo debería funcionarles «Habla de los animales y canto de los pájaros». Funcionará solo si preguntan a animales adecuados, como gatos que se metan en todas partes o perros que hayan detectado con su olfato la gran concentración de petróleo de la secta.
+* Si se les ocurre otros métodos, decide tú la tirada y los marcadores que consumen.
 
 Sea como sea conseguirán averiguar que los Seguidores del Fuego y de la Luz está moviéndose y parece que están montando algo grande.
 
@@ -2765,7 +2765,7 @@ _Seguidores del Fuego y de la Luz invocando a Nardún_
 
 Esta mágica llama les permitirá iniciar el ritual que abrirá los cielos y permitirá que Nardún entre en nuestro mundo.
 
-Consumirá con su fuego todo lo que encuentre y cuando esté saciado volverá a su realidad. La secta espera ofrecerse como sacrificio a Nardún y ser consumido por su fuego de forma que formen parte de él para toda la eternidad.
+Consumirá con su fuego todo lo que encuentre y cuando esté saciado volverá a su realidad. La secta espera ofrecerse como sacrificio a Nardún y ser consumido por su fuego, de forma que formen parte de él para toda la eternidad.
 
 También especulan que los convertirá en fuegos de la Yahannam que servirán a su señor hasta que su llama se apague.
 
@@ -2819,7 +2819,7 @@ _Giafar tiene un plan B en caso de que no pueden detener a los seguidores de la 
 
 Con toda la información recabada deberían reunirse con Giafar (1 marcador) que los invitará a su guarida secreta. No tienen mucha información y no pueden parar lo que sea que quiera que vaya a hacer los Seguidores, así que Giafar propone montar un contraataque.
 
-Desde hace años lleva asfaltando la ciudad, pero ha asfaltado ciertas calles con asfalto especial (con polvo de plata) de forma que las ciertas calles asfaltadas formar ahora un sello de Suleimán gigante y muy poderoso.
+Desde hace años lleva asfaltando la ciudad, pero ha asfaltado ciertas calles con asfalto especial (con polvo de plata), de forma que las ciertas calles asfaltadas formar ahora un sello de Suleimán gigante y muy poderoso.
 
 Su idea es esperar al alineamiento y usar el símbolo de protección contra aquello que vayan a traer el Fuego y la Luz. Lo que no sea destruido será repelido y enviado a donde sea que salió.
 
@@ -2939,7 +2939,7 @@ Pero está abierta a aceptar otras ideas ahora que ya tiene claro cuál es la es
 Algunas opciones que se les puede ocurrir:
 
 * Alguien con conocimientos científicos podría tratar de crear algún tipo de reactivo que vertiéndolo al agua del Tigris neutralice el queroseno.
-* Pueden montar un sistema de vigilancia con algún tipo de sistema de vigilancia por todo el río, por ejemplo usando a los pillastres del Pequeño Consejo. De esta forma podrán ver si el día del alineamiento ven algo sospechoso. Si consiguen actuar antes de que se vierta el agua de Nardún al río, la invocación no será posible.
+* Pueden montar un sistema de vigilancia con algún tipo de sistema de vigilancia por todo el río, por ejemplo usando a los pillastres del Pequeño Consejo. De esta forma, podrán ver si el día del alineamiento ven algo sospechoso. Si consiguen actuar antes de que se vierta el agua de Nardún al río, la invocación no será posible.
 * Si son capaces de disfrazarse mágicamente de Bahram (porque lo han conocido), tal vez puedan sembrar el caos en la secta. Por ejemplo, dando la orden de enterrar el queroseno en el desierto o quemarlo en algún lugar deshabitado.
 * Quizás Giafar les caía bien y decidan vengarse tratando de asesinar al califa o largándose de la ciudad con los barmáquidas y dejando a la ciudad a su suerte.
 * Si han conocido a Heráclita y está en un avanzado estado de transformación en la Bestia, quizás quieran enfrentar a estas dos poderosas entidades. Heráclita como avatar de Nyarlathotep tiene una enemistad muy antigua con Cthugha, es decir, Nardún.
@@ -3014,13 +3014,13 @@ _Bahram el Gauro ha visto fracasar su intento de traer a Nardún a la Tierra, pe
 
 Bahram acaba de ver como su adorado Nardún ha desaparecido y los planes de toda una vida han fracasado por culpa de tus schahriars. Así que se tomará su venganza, tiene a su disposición parte de la esencia de Nardún para llevarla a cabo.
 
-Si los schahriars no van al puente, Bahram con sus conocimientos mágicos sabe donde se debería haber realizado el conjuro de protección y buscará a las personas que lo han realizado.
+Si los schahriars no van al puente, Bahram con sus conocimientos mágicos sabe donde se debería haber realizado el conjuro de protección y buscará a las personas que lo han lanzado.
 
 Sea como sea, ante sus ojos destruirá el objeto con la esencia y las llamas negras de Nardún empezarán a rodearle para convertirse en un ser de llamas de unos 7 metros de altura. Ya no es Bahram, pero su ira hacia los schahriars y la ciudad de Bagdad persisten en él.
 
 #### Avatar de Nardún ☾
 
-Tras liberar la esencia de Nardún Bahram el Gauro se ha convertido en uno de sus avatares, una gigantesca figura humanoide de fuego que aún puede arrasar Bagdad.
+Tras liberar la esencia de Nardún Bahram el Gauro se ha convertido en uno de sus avatares, un gigantesco humanoide de fuego que aún puede arrasar Bagdad.
 
 Si están el palacio, este empezará a arder en minutos y seguramente quedará destruido. Está cerca del agua, así que igual pueden hacer algo para apagarlo.
 
@@ -3227,7 +3227,7 @@ Puede ser eso, pero, tal vez escapaba de algo de su pasado o fue condenada a esa
 
 La viajera dice llamarse Heráclita y que viene de Grecia. Una tirada de Humanidades dirá que habla griego, pero una versión muy antigua y no usa palabras en turco, como el griego actual. 
 
-Sus ropajes no se parecen en nada a la de los griegos o los francos, como se conoce a los europeos actuales.
+Sus ropajes no se parecen en nada a la de los griegos o los francos, como se conoce a los europeos.
 
 \sp
 
@@ -3246,7 +3246,7 @@ Tarde o temprano Heráclita desaparecerá y a partir de ese momento podrá apare
 
 #### ¿Quién es Heráclita?
 
-Heráclita es un avatar de Nyarlathotep que fue encerrada por el Rey Suleimán hace muchos siglos. Suleimán encerró a la Bestia Negra, pero con los siglos de soledad desterrada en la botella cambio de forma a algo menos peligroso.
+Heráclita es un avatar de Nyarlathotep que fue encerrada por el Rey Suleimán hace muchos siglos. Suleimán encerró a la Bestia Negra, pero con los siglos de soledad, encerrada en la botella, cambió de manera de ser a algo menos peligroso.
 
 \sp
 
@@ -3254,11 +3254,11 @@ Heráclita es una especie de turista en nuestro mundo. Todo lo atrae y todo le p
 
 Al principio serán cambios de humor o diferentes tonos de voz, pero luego serán más evidentes como mayor tamaño, más bello, ojos de gato, dientes afilados, etc. Si nadie la para, la Bestia Negra volverá a aparecer con terribles consecuencias.
 
-La Bestia Negra es un ser descomunal similar en forma y tamaño a la esfinge de Giza, aunque con bocas llenas de dientes afilados distribuidas asimétricamente por los dedos de su mano y con un rostro indescriptible. Las leyendas cuentan que la Esfinge de Giza tuvo el rostro de esta criatura, pero fue re-esculpido por Kefrén.
+La Bestia Negra es un ser descomunal similar en apariencia y tamaño a la esfinge de Giza, aunque con bocas llenas de dientes afilados distribuidas asimétricamente por los dedos de su mano y con un rostro indescriptible. Las leyendas cuentan que la Esfinge de Giza tuvo el rostro de esta criatura, pero fue re-esculpido por Kefrén.
 
 #### Parar a la bestia
 
-La única forma derrotar a Heráclita/Bestia Negra es engañarla para que entre en la botella por su propia voluntad. Tus schahriars tendrán que elaborar un plan para engañar a Heráclita y llevarla a cabo. El plan debería basarse en el engaño mientras es Heráclita y la soberbia y el orgullo cuando este más cerca de ser la Bestia Negra.
+La única manera derrotar a Heráclita/Bestia Negra es engañarla para que entre en la botella por su propia voluntad. Tus schahriars tendrán que elaborar un plan para engañar a Heráclita y llevarla a cabo. El plan debería basarse en el engaño mientras es Heráclita y la soberbia y el orgullo cuando este más cerca de ser la Bestia Negra.
 
 Ideas:
 
@@ -3292,7 +3292,7 @@ Lo único que destaca en la zona que han encontrado es un pequeño templo ruinos
 
 #### El laboratorio
 
-El templo es un sencillo, una gran estancia con una gran figura del dios serpiente y espacio para rituales y una estancia que se accede por detrás de la estatua. En ese habitáculo el sacerdote de la serpiente guardaba las reliquias religiosas.
+El templo es un sencillo, una gran estancia con una gran estatua del dios serpiente y espacio para rituales y una estancia que se accede por detrás de la estatua. En ese habitáculo el sacerdote de la serpiente guardaba las reliquias religiosas.
 
 \sp
 
@@ -3354,7 +3354,7 @@ Puedes también usar la quimera genérica conocida como langosta o incluso un mi
 
 Ponles el rasgo de bestia Duro para que aguanten más y trata de que sean diferentes y que exploten los defectos de tus schahriars, por ejemplo, voladoras si son de cuerpo a cuerpo. Si ves que las primeras quimeras caen fácilmente puedes hacerlas comodines para subir las apuestas o ponerles arma de aliento.
 
-> /s/ **Recompensa de cordura (+1):** Las quimeras no son seres malvados de por sí, solo son extraños animales salvajes que tratan de sobrevivir. Si en vez de matarlos buscan la forma de capturarlos y buscarles un nuevo hábitat donde vivir sin generar problemas, podrías recompensarles recuperando un punto de cordura. La zona del Atlas podría ser una zona interesante.
+> /s/ **Recompensa de cordura (+1):** Las quimeras no son seres malvados de por sí, solo son extraños animales salvajes que tratan de sobrevivir. Si, en vez de matarlos, buscan la forma de capturarlos y buscarles un nuevo hábitat donde vivir sin generar problemas, podrías recompensarles recuperando un punto de cordura. La zona del Atlas podría ser una zona interesante.
 
 ### El alcázar en las nubes
 
@@ -3436,7 +3436,7 @@ La secta de los 40 tiene mucho interés en este proyecto y tiene a otros grupos 
 
 _4 adeptos cultistas (cultista) vigilando y trabajando en el motor_
 
-El sótano era una antigua mazmorra con varias celdas y en la central está el motor. Está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
+El sótano era una antigua mazmorra con varias celdas y en la central está el motor. Está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua, de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
 
 Los respiraderos del sótano dejan que se escape un extraño vapor rosado y pastoso que se genera en el motor al contactar con el agua y que crea la nube que oculta el castillo.
 
@@ -3604,7 +3604,7 @@ Allí conocerán a sus padres, pero todo será como muy falso. Habrá una especi
 En ese momento pueden irse definitivamente o hacer como que se van y ocultarse en las colinas cercanas a vigilar. Cosas que pueden descubrir:
 
 * Una tirada de Notar al ver el día a día de los aldeanos les dirá que no se dedican a la ganadería ni la agricultura, parecen más mineros, pero esta zona no es famosa por sus minerales ni sus metales.
-* Hay bastante actividad en la casa de Bassir. No dejan de entrar y salir gente del edificio con pesadas cargas. Si se acercan a la casa con sigilo verán grandes objetos metálicos de diferentes formas y tamaños en la sala principal de la casa. No estaban cuando estuvieron en la boda. Ciencias les dirá que parece tecnología muy avanzada y Medicina que parece que es una especie de quirófano.
+* Hay bastante actividad en la casa de Bassir. No dejan de entrar y salir gente del edificio con pesadas cargas. Si se acercan a la casa con sigilo verán grandes objetos metálicos con diferentes apariencias y tamaños en la sala principal de la casa. No estaban cuando estuvieron en la boda. Ciencias les dirá que parece tecnología muy avanzada y Medicina que parece que es una especie de quirófano.
 * Mariam no sale de casa excepto de noche cuando los aldeanos lo llevan a un punto alto cerca de la aldea donde colocan su instrumental astronómico. Si se acercan con Sigilo y pasan una tirada de Notar, podrán ver que en realidad parece que Bassir es el que explica cosas del cielo a Mariam en vez de ser al revés. Esto no tiene ningún sentido.
 * Unas tiradas de Notar por la noche detectarán unas aves de gran tamaño que vuelan entre la aldea y unas colinas cercanas. Vuelan demasiado alto para poder verlos bien y parecen no necesitar luz para saber por donde ir.
 
@@ -3686,7 +3686,7 @@ Hace unos meses en el Mar Rojo, cerca de la costa, cayó un meteorito que portab
 
 El color está enloqueciendo a todo el pueblo y se está extendiendo a los vendedores y compradores de objetos hechos con coral. Pero el color también está haciendo perder su cordura a las gentes de mar que viven cerca del arrecife. Si nadie lo evita, esto puede terminar en una auténtica matanza.
 
-Para introducirlos en esta aventura tienes varias formas.
+Para introducirlos en esta aventura tienes varios modos.
 
 * Giafar manda a tus schahriars a investigar este extraño coral. Podría compensar el trabajo con unos 1.000 dinares más gastos y dietas.
 * Si pasan por la zona habrán oído del color de extraño color. Quizás puedan ir al pueblo a comprar ese coral tan especial para revenderlo en una gran ciudad al doble o triple de precio.
@@ -3757,7 +3757,7 @@ Si tus schahriars se adentran en el mar, serán atacadas por estos profundos int
 
 El color es insustancial, pero al estar en el agua tiene que solidificarse para no ser arrastrado con las corrientes. Esa es su única debilidad, si consiguen limpiar el cráter del moco del color el resto del color se desintegrará y desaparecerá.
 
-Tendrán que buscar alguna forma de poder respirar bajo el agua mágica o científica y con palas y rastrillos limpiar el cráter. Podrán limpiar 2 m² por inmersión y son unos 80 m². El color se defenderá lanzando ataques mentales y lanzando grupos de gentes del mar.
+Tendrán que buscar alguna manera de poder respirar bajo el agua mágica o científica y con palas y rastrillos limpiar el cráter. Podrán limpiar 2 m² por inmersión y son unos 80 m². El color se defenderá lanzando ataques mentales y lanzando grupos de gentes del mar.
 
 #### Después del color
 

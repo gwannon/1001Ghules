@@ -583,13 +583,13 @@ Si quieres oro o vino podrán conseguírtelo, pero no pueden convertir el plomo 
 
 \sp
 
-Tampoco pueden curarte enfermedades, pero sí conseguirte alguna poción sanalotodo. Tampoco pueden trasformar tu cuerpo haciéndote más alto o más guapo, pero podrán buscarte las mejores ropas del mundo y darte los mejores cosméticos.
+No pueden curarte enfermedades, pero sí conseguirte alguna poción sanalotodo. Ni pueden trasformar tu cuerpo haciéndote más alto o más guapo, pero podrán buscarte las mejores ropas del mundo y darte los mejores cosméticos.
 
 **Tampoco tienen otros poderes,** como viajar en el tiempo, levantar a los muertos, ver el futuro o el pasado, pero si pueden hablar con todo tipo de seres y tienen gran sabiduría y memoria.
 
 #### Genios como avatares de dioses exteriores
 
-Una forma de integrar los genios de la lámpara dentro de los mitos de Cthulhu es convertirlos en avatares. Los avatares en los mitos son seres de gran poder que representan todo aparte de un dios exterior o primigenio.
+Un modo de integrar los genios de la lámpara dentro de los mitos de Cthulhu es convertirlos en avatares. Los avatares en los mitos son seres de gran poder que representan todo aparte de un dios exterior o primigenio.
 
 Suelen ser criaturas con capacidades divinas, pero con limitaciones y reglas como los genios. Es por ello que ambos conceptos se ajustan muy bien. El genio de la lámpara es en este caso un avatar de Nyarlathotep.
 
@@ -646,7 +646,7 @@ En efecto, no hay enfermo, cualquiera que sea la calamidad de que esté afligido
 > 
 > **Referencia:** Historia de la princesa Nurennahar y de la bella gennia (n. 809)
 
-Esta manzana es una creación de un alquimista que destilo la esencia de miles de plantas y minerales curativos y los combino en este artefacto con forma de manzana.
+Esta manzana es una creación de un alquimista que destilo la esencia de miles de plantas y minerales curativos y los combino en este artefacto con apariencia de manzana.
 
 Su simple olor de esta manzana cura cualquier enfermad y sana cualquier herida, así como quita el cansancio e incluso combate en cierta medida la vejez.
 
@@ -831,7 +831,7 @@ Saber que es un hechizo no le dará ninguna ventaja a priori, pero si se monta u
 
 Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra Intimidar d6.
 
-En este caso, si falla, no solo le atacará el dron actual, sino que también el de la estancia anterior a no ser que haya sido destruido.
+En este caso, si falla, no solo le atacará el dron de esta sala, sino que también el de la estancia anterior a no ser que haya sido destruido.
 
 ##### 3ª puerta
 
@@ -839,7 +839,7 @@ En este caso, si falla, no solo le atacará el dron actual, sino que también el
 > 
 > **Referencia:** Historia de Juder el pescador o el saco encantado (n. 473)
 
-Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra Intimidar d6. En este caso, si falla no solo le atacará el dron actual, sino también el de la estancia anterior a no ser que haya sido destruido.
+Como en la puerta anterior, pero habrá que hacer una tirada Espíritu contra Intimidar d6. En este caso, si falla no solo le atacará el dron de esta sala, sino también el de la estancia anterior a no ser que haya sido destruido.
 
 ##### 4ª puerta
 
@@ -1155,7 +1155,7 @@ Al romper el sello y abrirla, normalmente saldrá un humo negro del que se mater
 |1d12|Objeto|
 |---|---|
 |1|**Arena:** Al abrir la botella y darle la vuelta solo cae arena del desierto.|
-|2|**Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico hasta una botella de refresco de cola o un reproductor MP3. Descríbelo de la forma más críptica que puedas. Todas las tiradas de Saber de Suleimán para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual el califa se encapricha de él por su extrañeza.|
+|2|**Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico hasta una botella de refresco de cola o un reproductor MP3. Descríbelo del modo más críptico que puedas. Todas las tiradas de Saber de Suleimán para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual el califa se encapricha de él por su extrañeza.|
 |3|**Libro en un extraño idioma:** Este libro está escrito en Aklo. Parece algún tipo de grimorio, por sus esquemas y sus símbolos, pero en realidad es una trampa. Si se envía a traducir a alguien, solo los sectarios de algunos cultos saben Aklo y podrán traducirlo. El grimorio pide que se mate al portador del libro por ser una persona ajena al culto que seguramente ha robado el libro. Por lo demás, el libro no tiene ningún valor ni poder. Esto te puede servir como semilla de partida en la que tus schahriars tienen que escapar de asesinos sectarios.|
 |4|**Cajita de azufre rojo:** Dentro de una cajita de madera bastante usada hay 1d6 dosis de azufre rojo.|
 |5|**Arma digna de un sultán:** Genera un arma cuerpo a cuerpo o a distancia al azar usando las tablas de botín y asígnale como extra la capacidad «Digna de un califa». Si te sale esa capacidad en las tiradas, repítela.|
@@ -1267,7 +1267,7 @@ La concha roja es un regalo muy apreciado entre las mujeres, ya que este objeto 
 
 Se dice que si te comes la curcusilla de un pollo que ha salido de un huevo puesto por un gallo, este te da una fuerza y una resistencia extraordinaria. La curcusilla es la cola de las gallinas, que comúnmente se llama el culo de la gallina.
 
-La única forma posible de que un gallo ponga huevos es algún tipo de mutación que produzca hermafroditismo, es decir, que tuviera órganos sexuales y reproductivos de los 2 sexos y además fueran funcionales.
+La única manera posible de que un gallo ponga huevos es algún tipo de mutación que produzca hermafroditismo, es decir, que tuviera órganos sexuales y reproductivos de los 2 sexos y además fueran funcionales.
 
 Lo normal es que el gallo que tenga esas capacidades sea fruto de algún experimento genético, de radiación, de magia oscura o de los extraños designios de algún dios exterior.
 
@@ -1367,7 +1367,7 @@ Las plantas de las que sacar este curioso jugo son extremadamente raras y no se 
 
 Una vez obtenidas es fácil obtener el jugo, solo hay que exprimir los frutos que da. De cada pieza de fruta sale jugo para un uso.
 
-La única forma de llegar a la isla de los Siete Mares es cruzando de los 7 mares y solo pueden cruzarse los 7 mares usando este jugo de planta. En la isla de los Siete Mares está la tumba del gran rey Suleimán, llena de tesoro de valor incalculable y objetos mágicos de inmenso poder.
+La única manera de llegar a la isla de los Siete Mares es cruzando de los 7 mares y solo pueden cruzarse los 7 mares usando este jugo de planta. En la isla de los Siete Mares está la tumba del gran rey Suleimán, llena de tesoro de valor incalculable y objetos mágicos de inmenso poder.
 
 ```
 Una persona afín a la magia puede gastarse 1 PP y frotarse el jugo en las plantas de los pies y ponerse a caminar sobre las aguas.
@@ -1383,7 +1383,7 @@ Un schahriar podría atravesar todo el mar Rojo en un día o andar por el Tigris
 
 > /p/ El hidromiel de los Reyes Yinns vuelve al bebedor insensible a los efectos del tiempo y el espacio, para que pueda viajar más allá de los astros celestiales. No muchos alquimistas han conseguido destilar este maravilloso líquido dorado y cada uno guarda su propia receta secreta que protege con su vida.
 
-Este líquido espeso y dorado, de ahí su nombre de hidromiel, se crea alquímicamente de varias formas. La hidromiel pone en éxtasis a la persona que bebe y mientras está en ese estado es inmune a los rigores del viaje espacial.
+Este líquido espeso y dorado, de ahí su nombre de hidromiel, se crea alquímicamente por diferentes métodos. La hidromiel pone en éxtasis a la persona que bebe y mientras está en ese estado es inmune a los rigores del viaje espacial.
 
 Durante el éxtasis no se tiene mucho control de que sucede a tu alrededor y tu capacidad de reacción es casi nula. Podrías tomarlo e invocar algún tipo de yinn con capacidad de viajar por el espacio, como los Al-Mighos, para que te lleve con él hasta tu destino.
 
@@ -1473,7 +1473,7 @@ Esta llave de gran tamaño, de un material desconocido parecido a la plata y con
 
 ### Mesa de arena adivinatoria
 
-> como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: «Está bien, ¡oh arena! veamos. ¿Qué ha sido de \[…\]?»  
+> Como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: «Está bien, ¡oh arena! veamos. ¿Qué ha sido de \[…\]?»  
 > Y pronunciando estas palabras agitó la arena con arreglo al rito. Y he aquí que nacieron las figuras y se formó el horóscopo. Y el magrebí, en el límite de la estupefacción, después de un examen detallado de las figuras del horóscopo, descubrió sin ningún género de duda que …
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 764)
