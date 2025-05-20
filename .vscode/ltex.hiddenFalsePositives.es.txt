@@ -931,3 +931,4 @@
 {"rule":"ACTUAL","sentence":"^\\QEs decir, que si viajas en el tiempo y escapas de vuelta a tu tiempo, podrá olfatearte hasta tu época actual.\\E$"}
 {"rule":"REALIZE","sentence":"^\\QRealiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida.\\E$"}
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QMientras andaba de este modo vio una gran polvareda de la que salía un estrépito que se hizo ensordecedor como el trueno, y oyó chocar lanzas y espadas detrás de ella, y un tumulto producido por galopes y gritos que nada tenían de humano; y de repente vislumbró que de entre el polvo disipado salía un ejército entero de efrits, de genn, de mareds, de ghūls, de khotrobs, de saals, de baharis, en una palabra, de todas las especies de espíritus del aire, del mar, de la tierra, de los bosques, de las aguas y del desierto.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QLos creo con su fuego sin humo y habitan el mundo físico como los humanos.\\E$"}
