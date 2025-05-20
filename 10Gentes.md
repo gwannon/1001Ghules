@@ -106,7 +106,7 @@ Harún siempre va acompañado de su portaalfanje o guardaespaldas personal, Mass
 \conc
 
 > Cuentan que el Comendador de los Creyentes, Harún Al-Raschid, entró un día a dormir la siesta en las habitaciones de su esposa Sett Zobeida, y ya iba a echarse cuando notó precisamente en mitad del lecho una extensa mancha, fresca todavía, de cuyo origen no podía dudarse. Al ver aquello, se ennegreció el mundo ante el califa, que llegó al límite de la indignación. Hizo llamar al punto a Sett Zobeida, y con los ojos inflamados de cólera y temblándole la barba, le dijo: «¿De qué es esa mancha que hay en nuestro lecho?» Sett Zobeida acercó la cabeza a la mancha consabida, la olió y dijo: «Es de licor de hombre, ¡oh Emir de los Creyentes!» Conteniendo a duras penas el estallido de su cólera, exclamó él: «¿Y puedes explicarme la presencia de ese líquido aún tibio en un lecho donde no me he acostado contigo desde hace más de una semana?»
-> Ella exclamó muy conmovida: «¡La fidelidad sobre mí y alrededor de mí ¡oh Emir de los Creyentes! ¿Acaso me acusas de fornicación?»s
+> Ella exclamó muy conmovida: «¡La fidelidad sobre mí y alrededor de mí ¡oh Emir de los Creyentes! ¿Acaso me acusas de fornicación?»
 > 
 > **Referencia:** El flagrante delito de Sett Zobeida (n. 380)
 
