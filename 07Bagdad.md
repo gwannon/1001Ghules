@@ -580,12 +580,6 @@ La orografía de la zona permite que los bandidos tiendan emboscadas a las carav
 
 Las gargantas y los estrechos pasos, como las redes de cuevas, hacen que la guardia de califa tenga muchos problemas para acabar con los bandidos y hacer segura la zona.
 
-\sinc
-
-[![Vista panorámica del cementerio. Wurzelgnohm](./images/Wadi_Al-Salam.jpg)](https://es.wikipedia.org/wiki/Wadi_us-Salaam#/media/Archivo:Wadi_Al-Salam.jpg "Vista panorámica del cementerio. Wurzelgnohm") 
-
-\conc
-
 ### Wadi us-Salaam
 
 Wadi us-Salaam o Valle de la Paz se encuentra en la ciudad de Nayaf, a unos 4 días a caballo al sur de Bagdad. Está considerado como uno de los cementerios de mayor extensión del califato.
@@ -594,9 +588,17 @@ Fue constituido como cementerio hacia el año 600, aunque se saben de enterramie
 
 Hay una gran variedad de enterramientos, desde las tumbas bajas hasta las torres o tumbas altas de más de 4 metros de altura.
 
+También hay estancias subterráneas y recintos especiales destinados a familias enteras.
+
 \sp
 
-También hay estancias subterráneas y recintos especiales destinados a familias enteras.
+\sinc
+
+[![Vista panorámica del cementerio. Wurzelgnohm](./images/Wadi_Al-Salam.jpg)](https://es.wikipedia.org/wiki/Wadi_us-Salaam#/media/Archivo:Wadi_Al-Salam.jpg "Vista panorámica del cementerio. Wurzelgnohm") 
+
+&nbsp;
+
+\conc
 
 ```
 Es tal su tamaño, su número de tumbas, su desorden y lo rápido que cambia que es casi imposible orientarse y todas las tiradas de orientación o similar sufre una penalización de -2.
@@ -605,6 +607,8 @@ Es tal su tamaño, su número de tumbas, su desorden y lo rápido que cambia que
 Lo curioso de esta necrópolis es que con los años se ha convertido en una ciudad viva en la que viven y trabajan todo tipo de personas relacionadas con la muerte y los entierros. Entre sus tumbas se han construido casas para gente que se dedicaba a enterrar los cuerpos, a cuidar y limpiar las tumbas, preparar los cadáveres para ser enterrados, etc. Y esa gente necesitaba otra gente que hiciese pan, herramientas, platos, etc. creándose una minisociedad dedicada a la muerte.
 
 Como no podía faltar, el cementerio atrae a ghūles que ven Wadi us-Salaam como el mayor buffet libre de la historia. Sin embargo, los y las que viven allí han aprendido a combatir a estos seres. Saben sus costumbres y sus tácticas y están preparados para proteger las tumbas de estos yinns carroñeros.
+
+&nbsp;
 
 ```
 Pasando una semana en Wadi us-Salaam, haciendo una tirada de TPC d4 y gastando 500 dinares, mientras estás allí en comercios locales, limosnas, regalos e invitando a la gente local, puedes aprender de ellos de todo sobre los ghūles. Esto te dará la ventaja Acostumbrado al horror (Ghūles) debido a los diversos avistamientos nocturnos de ghūles junto a los parroquianos y un +2 a las tiradas no de combate que tengan que ver con los ghūles debido a las largas horas escuchando historias y anécdotas sobre estos necrófagos.

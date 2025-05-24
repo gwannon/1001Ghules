@@ -353,8 +353,7 @@ Yamlika es omnipotente en su reino de sueños y nadie puede hacerle nada en ella
 
 \sinc
 
-> Durante una hora estuvo recorriendo la tal galería, y llegó ante una puerta considerable de acero negro, con cerradura de plata y llave de oro. Abrió aquella puerta, y de repente hallóse al aire libre, en la orilla de un lago, al pie de una colina de esmeralda. En el borde del lago vio un trono de oro resplandeciente de pedrerías, y a su alrededor, reflejándose en el agua, sillones de oro, de plata, de esmeralda, de cristal, de acero, de madera de ébano y de sándalo blanco. Contó estos sillones, y supo que su número era de doce mil, ni más ni menos. \[…\]  
-> cuando oyó un son de címbalos y de gongs, y de pronto vio avanzar por la falda de la colina de esmeralda una fila de personas que se desplegaba hacia el lago, deslizándose más que caminando; y no pudo distinguirlas a causa de la distancia.
+> Abrió aquella puerta, y de repente hallóse al aire libre, en la orilla de un lago, al pie de una colina de esmeralda. En el borde del lago vio un trono de oro resplandeciente de pedrerías, y a su alrededor, reflejándose en el agua, sillones de oro, de plata, de esmeralda, de cristal, de acero, de madera de ébano y de sándalo blanco. Contó estos sillones, y supo que su número era de doce mil, ni más ni menos. \[…\] cuando oyó un son de címbalos y de gongs, y de pronto vio avanzar por la falda de la colina de esmeralda una fila de personas que se desplegaba hacia el lago, deslizándose más que caminando; y no pudo distinguirlas a causa de la distancia.
 > Cuando estuvieron más cerca, vio que eran mujeres de belleza admirable, pero cuya extremidad inferior terminaba como el cuerpo alargado y reptador de las serpientes. Su voz era muy agradable, y cantaban en griego loas a una reina que él no veía. Pero enseguida apareció detrás de la colina un cuadro formado por cuatro mujeres serpentinas, que llevaban en sus brazos, alzados por encima de su cabeza, un gran azafate lleno de oro, en el que se mostraba la reina sonriente y llena de gracia. Avanzaron las cuatro mujeres hasta el trono de oro, del que Hassib se apresuró a alejarse, y colocaron allí a su reina, arreglándola los pliegues de sus velos, y se mantuvieron detrás de ella, en tanto que cada una de las demás mujeres serpentinas habíase deslizado hacia uno de los sillones preciosos dispuestos alrededor del lago. Entonces con una voz de timbre encantador, dijo la reina algunas palabras en griego a las que la rodeaban …
 > 
 > **Referencia:** Historia de Belukia (n. 357)
@@ -363,9 +362,11 @@ Yamlika es omnipotente en su reino de sueños y nadie puede hacerle nada en ella
 
 \conc
 
-A diferencia de otros miembros de su raza, Yamlika acepta a los humanos y no los ve como una plaga a exterminar o posibles seres para esclavizar. De hecho, de buen grado responde a preguntas con un Saber de Suleimán d12+2 e incluso podría enseñar magia a schahriars que le caigan excepcionalmente bien.
+A diferencia de otros de su raza, Yamlika acepta a los humanos y no los ve como una plaga a exterminar o seres a los que esclavizar. De buen grado responde a preguntas con un Saber de Suleimán d12+2 e incluso podría enseñar magia a schahriars que le caigan excepcionalmente bien.
 
-Puede incluso querer tener un encuentro sexual o una relación romántica con alguno de los o las schahriars si los encuentra atractivos o intelectualmente atrayentes. Los suele marcar convirtiendo partes de su piel es escamas de serpiente que ella disfruta acariciando como si fueran de su misma especie.
+Puede tener una relación romántica y/o sexual con tus schahriars si los encuentra atractivos o intelectualmente atrayentes.
+
+Les suele marcar convirtiendo partes de su piel es escamas de serpiente que ella disfruta acariciando como si fueran de su misma especie.
 
 Para entrar en el reino de Yamlika, debes buscar un lugar deshabitado y ejecutar dos hechizos, uno de Sueño para dormir y otro de Interpretar los sueños para meterse dentro del sueño de Yamlika.
 
@@ -546,9 +547,9 @@ La sola presencia de la montaña congela los corazones de los marinos que saben 
 
 Enseguida su barco se ve atraído hacia la isla y cuando está cerca, los clavos anclajes y demás elementos metálicos salen volando hacia la montaña. 
 
-Si todavía sigue a flote después de esto acaba estrellándose contra los arrecifes y acantilados y los marinos mueren ahogados al no poder subir a tierra firme.
-
 \sp
+
+Si todavía sigue a flote después de esto acaba estrellándose contra los arrecifes y acantilados y los marinos mueren ahogados al no poder subir a tierra firme.
 
 La montaña de piedra ferrosa, gracias a la estatua ecuestre, es un gigantesco y superpoderoso imán que atrae a todos los barcos que se le acercan. Las laderas de la montaña están cubiertas de objetos metálicos que el imán ha arrancado de los barcos y sus tripulantes. Algunos llevan siglos allí rotos y oxidados. Además, es casi imposible despegarlos del suelo al que están pegados.
 
@@ -654,9 +655,9 @@ La historias que cuentan que G’harne es que solo se aparece a quien la ciudad 
 
 Los falaks con sus poderes de dominación mental han ido atrayendo a personas de mente débil que pasaban cerca de las ruinas y les han hecho abandonar sus caravanas o sus tribus nómadas. Estas personas sobreviven como pueden en los oasis cercanos y sirven a sus amos espiando para ellos o cumpliendo sus órdenes que van desde espantar a los intrusos a asesinarlos por la noche.
 
-\sp
-
 \sinc
+
+&nbsp;
 
 ## La Ciudad de Bronce
 

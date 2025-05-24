@@ -189,7 +189,7 @@ Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de e
 |Peso|2|
 |Coste| — |
 
-**Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de forma que en 35 minutos tendrías el arma plenamente cargada.
+**Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de manera que en 35 minutos tendrías el arma plenamente cargada.
 
 \sp
 
@@ -199,15 +199,15 @@ Al dispararse los rayos de eléctricos generan un terrible zumbido. El rayo de e
 
 [![Flying Polyp by Dagonweb (Khannea SunTzu)](./images/polipo.jpg)](https://en.wikipedia.org/wiki/File:Flying_Polyp.jpg "Flying Polyp by Dagonweb (Khannea SunTzu)") 
 
-Los warams son una tribu de yinns que tienen forma de pólipos, un gran tronco con gran cantidad de pseudópodos en uno de los extremos. No tienen sentidos como los humanos, de hecho, son ciegos, pero usan sus otros sentidos para poder moverse por la oscuridad sin problemas o sentir a través de las paredes.
+Los warams son una tribu de yinns que tienen apariencia de pólipos, un gran tronco con gran cantidad de pseudópodos en uno de los extremos. No tienen sentidos como los humanos, de hecho, son ciegos, pero usan sus otros sentidos para poder moverse por la oscuridad sin problemas o sentir a través de las paredes.
 
 Están relacionados con el elemento aire. Así pues, son semi materiales, no son del todo materiales, pero tampoco totalmente incorpóreos. Son lo suficientemente materiales para interactuar con los objetos y los suficientemente incorpóreos para que los vientos los sostengan y para que puedan hacerse invisibles.
 
-Pueden volar, generando vientos debajo de sus cuerpos que hacen un ruido característico, pero pueden arrastrarse si fuera necesario. Tiene cierto control de los vientos, de forma pueden invocarlos a su voluntad.
+Pueden volar, generando vientos debajo de sus cuerpos que hacen un ruido característico, pero pueden arrastrarse si fuera necesario. Tiene cierto control de los vientos, de forma que pueden invocarlos a su voluntad.
 
 Durante milenios dominaron la Tierra antes de la aparición de los humanos, pero con los siglos han ido decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas y templos ruinosos.
 
-Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido.
+Se cree que son inteligentes, pero su psique es tan extraña que muchas de las decisiones que toman parecen no tener sentido.
 
 \sp
 
