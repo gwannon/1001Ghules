@@ -442,7 +442,7 @@ Recuerda que este es más un recurso más para que lo usen tus PNJ, especialment
 
 \conc
 
-En esta sección te ofrecemos una serie de hechizos basados en los poderes anteriores que pueden ayudarte a dar color a tus partidas. Estos hechizos no son más ornamentos explicados, de forma que se adapten a los pilares de esta ambientación, las 1001 Noches y los Mitos de Cthulhu.
+En esta sección te ofrecemos una serie de hechizos basados en los poderes anteriores que pueden ayudarte a dar color a tus partidas. Estos hechizos no son más que ornamentos explicados, de forma que se adapten a los pilares de esta ambientación, las 1001 Noches y los Mitos de Cthulhu.
 
 ### ¡Sésamo, ábrete!
 

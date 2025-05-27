@@ -394,7 +394,7 @@
 {"rule":"FORM","sentence":"^\\QEsta maldición no está ligada a ningún poder, ya que no funciona exactamente como un hechizo, sino que cae sobre su víctima de otras formas.\\E$"}
 {"rule":"FORM","sentence":"^\\Qcomo forma de comunicarte con ese ser.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcomo forma de comunicarte con ese ser.\\E$"}
-{"rule":"FORM","sentence":"^\\QEstos hechizos no son más ornamentos explicados, de forma que se adapten a los pilares de esta ambientación, las 1001 Noches y los Mitos de Cthulhu.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos hechizos no son más que ornamentos explicados, de forma que se adapten a los pilares de esta ambientación, las 1001 Noches y los Mitos de Cthulhu.\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QMi situación actual no me permite serte de más ayuda, pero quiero que sepas que mis rezos están contigo para ayudarte en la gran tarea que te espera.\\E$"}
 {"rule":"REAL","sentence":"^\\Q¡Diéronme mis esposas una posteridad de mil príncipes reales, valientes cual leones!\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QSecretos oscuros del shatranj tiene un pequeño capítulo de unas 5 o 6 hojas sobre el shatranj que buscan.\\E$"}
