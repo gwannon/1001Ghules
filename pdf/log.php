@@ -405,6 +405,7 @@ $bots['ips'] = [
   "192.241.202.214", //Digital ocean
   "167.172.20.109", //Digital ocean
   "167.172.20.109", //Digital ocean
+  "206.189.213.202", //Digital ocean
   
   //"129.226.93.214", //Tecent
 
