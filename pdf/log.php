@@ -83,7 +83,8 @@ $bots['bots'] = [
   "Go-http-client",
   "meta-externalagent",
   "YisouSpider",
-  "sindresorhus"
+  "sindresorhus",
+  "Tencent"
 ];
 
 $bots['ips'] = [
