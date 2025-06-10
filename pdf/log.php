@@ -84,7 +84,8 @@ $bots['bots'] = [
   "meta-externalagent",
   "YisouSpider",
   "sindresorhus",
-  "Tencent"
+  "Tencent",
+  "ShitPissCum"
 ];
 
 $bots['ips'] = [
