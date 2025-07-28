@@ -13,7 +13,7 @@ google-chrome --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pd
 echo "Metas Cuentos"
 pdftk 'temp.pdf' update_info_utf8 'metasCuentos1001Ghules.txt' output 'Cuentos1001Ghules.pdf'
 rm metasCuentos1001Ghules.txt
-rm indexCuentos1001Ghules.html
+#rm indexCuentos1001Ghules.html
 rm temp.pdf
 
 php ./tools/generateDocs.php Bestiario1001Ghules
@@ -21,7 +21,7 @@ google-chrome --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pd
 echo "Metas Bestiario"
 pdftk 'temp.pdf' update_info_utf8 'metasBestiario1001Ghules.txt' output 'Bestiario1001Ghules.pdf'
 rm metasBestiario1001Ghules.txt
-rm indexBestiario1001Ghules.html
+#rm indexBestiario1001Ghules.html
 rm temp.pdf
 
 php ./tools/generateDocs.php Recursos1001Ghules
@@ -29,7 +29,7 @@ google-chrome --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pd
 echo "Metas Recursos"
 pdftk 'temp.pdf' update_info_utf8 'metasRecursos1001Ghules.txt' output 'Recursos1001Ghules.pdf'
 rm metasRecursos1001Ghules.txt
-rm indexRecursos1001Ghules.html
+#rm indexRecursos1001Ghules.html
 rm temp.pdf
 
 echo "Comprimir"
