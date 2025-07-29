@@ -9,7 +9,7 @@
 
 Mil y Un Ghūles: Bestias y tesoros
 
-Creado por [Gwannon](https://gwannon.itch.io/)
+Creado por [Gwannon](https://gwannon.com/)
 
 Mil y Un Ghūles: Cuentos salvajes son aventuras para poder jugar relatos de horror cósmico dentro los cuentos de las Mil y Una Noches usando la ambientación de 1001 Ghūles.
 
