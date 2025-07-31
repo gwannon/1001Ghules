@@ -466,6 +466,12 @@ $bots['ips'] = [
   //"129.226.93.214", //Tecent
 
   "20.120.134.33", //Microsoft
+  "52.247.239.25", //Microsoft
+  "20.171.207.7", //Microsoft
+  "52.247.239.25", //Microsoft
+
+
+
   "99.255.100.228", //projectsdomain.org
   "2a06:98c0:3600::103", //Cloudflare
   "84.201.183.13", //Yandex
