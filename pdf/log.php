@@ -469,6 +469,7 @@ $bots['ips'] = [
   "52.247.239.25", //Microsoft
   "20.171.207.7", //Microsoft
   "52.247.239.25", //Microsoft
+  "40.80.158.10", //Microsoft
 
 
 
