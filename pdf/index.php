@@ -2,10 +2,10 @@
 
 date_default_timezone_set("Europe/Madrid");
 
-if (isset($_REQUESt['lang']) && $_REQUESt['lang'] == 'main') $filename = __DIR__."/../1001Ghules.pdf";
-else if (isset($_REQUESt['lang']) && $_REQUESt['lang'] == 'bestiary') $filename = __DIR__."/../Bestiario1001Ghules.pdf";
-else if (isset($_REQUESt['lang']) && $_REQUESt['lang'] == 'adventures') $filename = __DIR__."/../Cuentos1001Ghules.pdf";
-else if (isset($_REQUESt['lang']) && $_REQUESt['lang'] == 'resources') $filename = __DIR__."/../Recursos1001Ghules.pdf";
+if (isset($_REQUEST['lang']) && $_REQUEST['lang'] == 'main') $filename = __DIR__."/../1001Ghules.pdf";
+else if (isset($_REQUEST['lang']) && $_REQUEST['lang'] == 'bestiary') $filename = __DIR__."/../Bestiario1001Ghules.pdf";
+else if (isset($_REQUEST['lang']) && $_REQUEST['lang'] == 'adventures') $filename = __DIR__."/../Cuentos1001Ghules.pdf";
+else if (isset($_REQUEST['lang']) && $_REQUEST['lang'] == 'resources') $filename = __DIR__."/../Recursos1001Ghules.pdf";
 else $filename = __DIR__."/../1001Ghules.zip";
 
 //Define header information
