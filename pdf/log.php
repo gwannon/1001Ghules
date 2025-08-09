@@ -88,7 +88,10 @@ $bots['bots'] = [
   "ShitPissCum",
   "Archiveteam",
   "AdsBot-Google-Mobile",
-  "zoominfobot"
+  "zoominfobot",
+"SEMrush",
+"BacklinksExtendedBot"
+
 ];
 
 $bots['ips'] = [
