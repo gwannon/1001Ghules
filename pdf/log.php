@@ -90,7 +90,8 @@ $bots['bots'] = [
   "AdsBot-Google-Mobile",
   "zoominfobot",
 "SEMrush",
-"BacklinksExtendedBot"
+"BacklinksExtendedBot",
+"MojeekBot"
 
 ];
 
