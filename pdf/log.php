@@ -91,9 +91,7 @@ $bots['bots'] = [
   "zoominfobot",
 "SEMrush",
 "BacklinksExtendedBot",
-"MojeekBot",
-"SEMrush",
-"BacklinksExtendedBot"
+"MojeekBot"
 
 ];
 
