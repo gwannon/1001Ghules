@@ -91,7 +91,9 @@ $bots['bots'] = [
   "zoominfobot",
 "SEMrush",
 "BacklinksExtendedBot",
-"MojeekBot"
+"MojeekBot",
+"SEMrush",
+"BacklinksExtendedBot"
 
 ];
 
@@ -453,6 +455,7 @@ $bots['ips'] = [
 "35.196.120.112", //Google
 "34.138.231.109", //Google
 "34.122.147.229", //Google
+"35.225.169.184", //Google
 
 
 
