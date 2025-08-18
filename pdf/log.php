@@ -89,9 +89,10 @@ $bots['bots'] = [
   "Archiveteam",
   "AdsBot-Google-Mobile",
   "zoominfobot",
-"SEMrush",
-"BacklinksExtendedBot",
-"MojeekBot"
+  "SEMrush",
+  "BacklinksExtendedBot",
+  "MojeekBot",
+  "app.wafrn.net"
 
 ];
 
