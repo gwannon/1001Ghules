@@ -92,7 +92,8 @@ $bots['bots'] = [
   "SEMrush",
   "BacklinksExtendedBot",
   "MojeekBot",
-  "app.wafrn.net"
+  "app.wafrn.net",
+  "butler/v"
 
 ];
 
