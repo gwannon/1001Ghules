@@ -93,7 +93,8 @@ $bots['bots'] = [
   "BacklinksExtendedBot",
   "MojeekBot",
   "app.wafrn.net",
-  "butler/v"
+  "butler/v",
+  "Discordbot"
 
 ];
 
