@@ -94,7 +94,8 @@ $bots['bots'] = [
   "MojeekBot",
   "app.wafrn.net",
   "butler/v",
-  "tinyspeck"
+  "tinyspeck",
+  "Discordbot"
 
 ];
 
@@ -464,6 +465,11 @@ $bots['ips'] = [
   "35.217.15.251", //Google
   "172.253.15.227", //Google
   "172.253.192.126", //Google
+  "35.238.120.35", //Google
+  "34.29.151.27", //Google
+  "34.96.45.202", //Google
+  "34.136.226.255", //Google
+  "35.225.147.248", //Google
 
 
 
@@ -527,6 +533,7 @@ $bots['ips'] = [
   "47.61.137.64", //My IP
   "47.63.206.195", //My IP
   "77.224.181.227", //My IP
+  "47.61.132.154",// My IP
 ];
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
