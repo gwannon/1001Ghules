@@ -96,7 +96,8 @@ $bots['bots'] = [
   "butler/v",
   "tinyspeck",
   "Discordbot",
-  "Thinkbot"
+  "Thinkbot",
+  "VelenPublicWebCrawler"
 
 ];
 
@@ -491,6 +492,7 @@ $bots['ips'] = [
   "74.125.19.44", //Google
   "34.96.45.160", //Google
   "34.58.7.236", //Google
+  "34.77.233.146", //Google
 
 
 
