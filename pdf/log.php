@@ -98,7 +98,8 @@ $bots['bots'] = [
   "Discordbot",
   "Thinkbot",
   "VelenPublicWebCrawler",
-  "PetalBot"
+  "PetalBot",
+  "IbouBot"
 
 ];
 
