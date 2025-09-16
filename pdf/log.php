@@ -545,7 +545,7 @@ $bots['ips'] = [
   "172.211.8.166", //Microsoft
 
 
-
+  "195.210.4.1", //Bitdefender SRL
   "99.255.100.228", //projectsdomain.org
   "2a06:98c0:3600::103", //Cloudflare
   "84.201.183.13", //Yandex
