@@ -99,7 +99,9 @@ $bots['bots'] = [
   "Thinkbot",
   "VelenPublicWebCrawler",
   "PetalBot",
-  "IbouBot"
+  "IbouBot",
+  "YaBrowser/",
+  "DuckDuckGo/"
 
 ];
 
