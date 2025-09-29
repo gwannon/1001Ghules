@@ -573,6 +573,8 @@ $bots['ips'] = [
   "52.247.239.25", //Microsoft
   "40.80.158.10", //Microsoft
   "172.211.8.166", //Microsoft
+  "40.77.167.25", //Microsoft
+  
 
 
   "195.210.4.1", //Bitdefender SRL
