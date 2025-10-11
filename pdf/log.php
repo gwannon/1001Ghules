@@ -102,7 +102,8 @@ $bots['bots'] = [
   "IbouBot",
   "YaBrowser/",
   "DuckDuckGo/",
-  "Baiduspider/"
+  "Baiduspider/",
+  "Timpibot"
 
 ];
 
