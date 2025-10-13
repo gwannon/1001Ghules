@@ -102,8 +102,8 @@ $bots['bots'] = [
   "IbouBot",
   "YaBrowser/",
   "DuckDuckGo/",
-  "Baiduspider/"
-
+  "Baiduspider/",
+  "linguee",
 ];
 
 $bots['ips'] = [
@@ -296,8 +296,9 @@ $bots['ips'] = [
   "35.153.202.90", //Amazon
   "54.159.75.54", //Amazon
   "52.91.141.251", //Amazon
-    "184.72.115.35", //Amazon
+  "184.72.115.35", //Amazon
   "184.72.121.156", //Amazon
+  "18.224.172.121", //Amazon
 
 
 
@@ -536,6 +537,8 @@ $bots['ips'] = [
   "35.212.167.137", //Google
   "34.118.18.140", //Google
   "34.63.5.157", //Google
+  "172.253.15.230", //Google
+  "74.125.184.182", //Google
 
 
 
