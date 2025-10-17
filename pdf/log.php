@@ -104,7 +104,8 @@ $bots['bots'] = [
   "DuckDuckGo/",
   "Baiduspider/",
   "linguee",
-  "Timpibot"
+  "Timpibot",
+  "Claude-SearchBot"
 
 ];
 
