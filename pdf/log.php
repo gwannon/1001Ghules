@@ -105,7 +105,8 @@ $bots['bots'] = [
   "Baiduspider/",
   "linguee",
   "Timpibot",
-  "Claude-SearchBot"
+  "Claude-SearchBot",
+  "python-opengraph-jaywink"
 
 ];
 
