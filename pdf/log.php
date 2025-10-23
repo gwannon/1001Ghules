@@ -106,7 +106,8 @@ $bots['bots'] = [
   "linguee",
   "Timpibot",
   "Claude-SearchBot",
-  "python-opengraph-jaywink"
+  "python-opengraph-jaywink",
+  "intelx.io_bot"
 
 ];
 
