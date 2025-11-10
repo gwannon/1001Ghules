@@ -228,6 +228,7 @@ $bots['ips'] = [
   "51.77.211.39", //OVH SAS
   "145.239.68.210", //OVH SAS
   "51.89.164.226", //OVH SAS
+  "51.38.187.112", //OVH SAS
   
 
 
@@ -288,6 +289,7 @@ $bots['ips'] = [
   "95.216.99.80", //Hetzner Online GmbH
   "65.21.113.195", //Hetzner Online GmbH
   "95.216.23.122", //Hetzner Online GmbH
+  "178.156.149.155", //Hetzner Online GmbH
 
 
 
@@ -334,6 +336,8 @@ $bots['ips'] = [
   "18.224.172.121", //Amazon
   "3.22.209.183", //Amazon
   "3.15.6.132", //Amazon
+  "34.209.112.47", //Amazon
+
 
 
 
