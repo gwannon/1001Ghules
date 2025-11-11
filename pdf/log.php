@@ -109,7 +109,8 @@ $bots['bots'] = [
   "python-opengraph-jaywink",
   "intelx.io_bot",
   "AliyunSecBot",
-  "Dataprovider.com"
+  "Dataprovider.com",
+  "aiohttp"
 
 ];
 
