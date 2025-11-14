@@ -110,7 +110,8 @@ $bots['bots'] = [
   "intelx.io_bot",
   "AliyunSecBot",
   "Dataprovider.com",
-  "aiohttp"
+  "aiohttp",
+  "req/v3"
 
 ];
 
