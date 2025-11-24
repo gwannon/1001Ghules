@@ -111,7 +111,8 @@ $bots['bots'] = [
   "AliyunSecBot",
   "Dataprovider.com",
   "aiohttp",
-  "req/v3"
+  "req/v3",
+  "WebCrawler/"
 
 ];
 
