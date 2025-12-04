@@ -112,7 +112,8 @@ $bots['bots'] = [
   "Dataprovider.com",
   "aiohttp",
   "req/v3",
-  "WebCrawler/"
+  "WebCrawler/",
+  "DonutL/"
 
 ];
 
