@@ -115,7 +115,7 @@ $bots['bots'] = [
   "WebCrawler/",
   "DonutL/",
   "Nutch-",
-
+  "YaSearchBrowser",
 ];
 
 $bots['ips'] = [
