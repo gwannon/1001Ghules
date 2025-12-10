@@ -117,6 +117,7 @@ $bots['bots'] = [
   "Nutch-",
   "YaSearchBrowser",
   "InfoPath",
+  "SERankingBacklinksBot",
 ];
 
 $bots['ips'] = [
