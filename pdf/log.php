@@ -428,6 +428,60 @@ $bots['ips'] = [
   
 
 
+
+  "104.252.191.165", //EGIHosting
+  "104.252.191.222", //EGIHosting
+  "104.252.191.114", //EGIHosting
+  "104.164.126.245", //EGIHosting
+  "104.164.126.131", //EGIHosting
+  "104.164.173.167", //EGIHosting
+  "104.164.126.80", //EGIHosting
+  "104.252.191.125", //EGIHosting
+  "104.164.126.127", //EGIHosting
+  "104.252.191.244", //EGIHosting
+  "104.164.173.84", //EGIHosting
+  "104.164.173.56", //EGIHosting
+  "104.164.173.171", //EGIHosting
+  "104.164.173.123", //EGIHosting
+  "104.252.191.112", //EGIHosting
+  "104.252.191.9", //EGIHosting
+  "104.164.173.99", //EGIHosting
+  "104.252.191.162", //EGIHosting
+  "104.164.173.12", //EGIHosting
+  "104.252.191.65", //EGIHosting
+  "104.164.173.193", //EGIHosting
+  "104.164.126.190", //EGIHosting
+  "45.39.174.60", //EGIHosting
+  "104.164.173.23", //EGIHosting
+  "104.252.191.142", //EGIHosting
+  "104.164.173.53", //EGIHosting
+
+
+
+
+  "154.28.229.215", //QuickPacket
+  "154.28.229.100", //QuickPacket
+  "154.28.229.158", //QuickPacket
+  "154.28.229.64", //QuickPacket
+  "154.28.229.242", //QuickPacket
+  "154.28.229.7", //QuickPacket
+  "154.28.229.43", //QuickPacket
+  "154.28.229.154", //QuickPacket
+  "154.28.229.203", //QuickPacket
+  "104.153.81.197", //QuickPacket
+  "154.28.229.155", //QuickPacket
+  "104.153.81.161", //QuickPacket
+  "154.30.97.86", //QuickPacket
+  "154.30.97.84", //QuickPacket
+  "154.30.97.206", //QuickPacket
+  "154.30.96.244", //QuickPacket
+  "154.30.99.245", //QuickPacket
+  "154.28.229.245", //QuickPacket
+  "154.28.229.44", //QuickPacket
+  "154.28.229.148", //QuickPacket
+
+
+
   
 
 
@@ -790,7 +844,7 @@ $bots['ips'] = [
   "166.108.239.109", ///Huawei
   "124.243.149.196", ///Huawei
   "188.239.46.50", ///Huawei
-
+  "113.44.110.9", //Huawei
 
 
 
@@ -1092,7 +1146,13 @@ $bots['ips'] = [
   "167.99.113.2", //Digital ocean
   "143.198.23.152", //Digital ocean
   "167.71.189.213", //Digital ocean
-
+  "104.131.188.228", //Digital Ocean
+  "162.243.184.81", //Digital Ocean
+  "159.203.96.207", //Digital Ocean
+  "159.203.130.117", //Digital Ocean
+  "45.55.48.136", //Digital Ocean
+  "138.197.12.167", //Digital Ocean
+  "104.131.164.108", //Digital Ocean
   
 
 
