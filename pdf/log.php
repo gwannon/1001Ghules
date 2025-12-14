@@ -459,6 +459,50 @@ $bots['ips'] = [
 
 
 
+
+
+  "73.225.118.110", //Comcast Cable Communications
+  "73.5.143.96", //Comcast Cable Communications
+  "68.53.182.213", //Comcast Cable Communications
+  "73.177.226.129", //Comcast Cable Communications
+  "24.245.17.121", //Comcast Cable Communications
+  "71.56.153.131", //Comcast Cable Communications
+  "73.55.134.83", //Comcast Cable Communications
+  "73.37.56.57", //Comcast Cable Communications
+  "71.59.26.138", //Comcast Cable Communications
+  "73.150.190.46", //Comcast Cable Communications
+  "98.43.207.136", //Comcast Cable Communications
+  "73.247.144.89", //Comcast Cable Communications
+  "73.15.110.238", //Comcast Cable Communications
+  "73.170.187.189", //Comcast Cable Communications
+  "67.169.23.80", //Comcast Cable Communications
+  "71.196.152.243", //Comcast Cable Communications
+  "73.153.102.197", //Comcast Cable Communications
+  "73.96.70.223", //Comcast Cable Communications
+  "24.62.141.174", //Comcast Cable Communications
+  "24.22.48.145", //Comcast Cable Communications
+  "71.231.83.23", //Comcast Cable Communications
+  "174.167.5.106", //Comcast Cable Communications
+  "73.197.229.132", //Comcast Cable Communications
+  "73.228.102.143", //Comcast Cable Communications
+  "98.34.70.74", //Comcast Cable Communications
+  "98.210.197.45", //Comcast Cable Communications
+  "98.47.113.21", //Comcast Cable Communications
+  "174.52.254.98", //Comcast Cable Communications
+  "24.131.142.119", //Comcast Cable Communications
+  "73.165.113.171", //Comcast Cable Communications
+  "76.115.32.184", //Comcast Cable Communications
+  "75.74.9.172", //Comcast Cable Communications
+  "73.164.160.251", //Comcast Cable Communications
+  "73.95.113.132", //Comcast Cable Communications
+  "98.193.70.52", //Comcast Cable Communications
+
+
+
+
+
+
+
   "154.28.229.215", //QuickPacket
   "154.28.229.100", //QuickPacket
   "154.28.229.158", //QuickPacket
