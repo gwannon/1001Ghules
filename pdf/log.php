@@ -499,6 +499,49 @@ $bots['ips'] = [
 
 
 
+  "196.251.87.128", //cheapy.host LLC
+  "196.251.85.138", //cheapy.host LLC
+  "196.251.85.248", //cheapy.host LLC
+  "196.251.84.137", //cheapy.host LLC
+  "196.251.81.7", //cheapy.host LLC
+  "196.251.81.2", //cheapy.host LLC
+  "196.251.85.239", //cheapy.host LLC
+  "196.251.70.13", //cheapy.host LLC
+  "196.251.85.111", //cheapy.host LLC
+  "196.251.85.246", //cheapy.host LLC
+
+
+
+
+  "161.123.249.116", //HostRoyale Technologies
+  "185.223.56.104", //HostRoyale Technologies
+  "213.188.66.115", //HostRoyale Technologies
+  "193.19.204.4", //HostRoyale Technologies
+  "156.235.66.173", //HostRoyale Technologies
+  "121.91.176.156", //HostRoyale Technologies
+  "45.138.235.140", //HostRoyale Technologies
+  "94.139.224.240", //HostRoyale Technologies
+  "188.215.77.118", //HostRoyale Technologies
+  "45.149.31.116", //HostRoyale Technologies
+  "209.242.212.70", //HostRoyale Technologies
+  "94.139.224.218", //HostRoyale Technologies
+  "94.139.234.71", //HostRoyale Technologies
+  "188.215.76.194", //HostRoyale Technologies
+  "45.144.88.236", //HostRoyale Technologies
+  "209.242.215.33", //HostRoyale Technologies
+  "45.144.90.2", //HostRoyale Technologies
+  "45.144.88.169", //HostRoyale Technologies
+  "94.139.236.40", //HostRoyale Technologies
+  "161.123.147.217", //HostRoyale Technologies
+  "161.123.204.237", //HostRoyale Technologies
+  "185.201.188.24", //HostRoyale Technologies
+  "180.149.229.147", //HostRoyale Technologies
+  "209.242.219.34", //HostRoyale Technologies
+  "168.205.75.92", //HostRoyale Technologies
+  "185.152.39.78", //HostRoyale Technologies
+  "45.89.116.171", //HostRoyale Technologies
+  "94.139.59.252", //HostRoyale Technologies
+  "45.67.6.123", //HostRoyale Technologies
 
 
 
