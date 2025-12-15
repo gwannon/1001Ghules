@@ -120,6 +120,7 @@ $bots['bots'] = [
   "SERankingBacklinksBot",
   "MetaSr",
   "GeedoShopProductFinder",
+  "MixrankBot",
 ];
 
 $bots['ips'] = [
