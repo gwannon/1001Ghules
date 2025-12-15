@@ -1550,6 +1550,10 @@ $bots['ips'] = [
   "23.82.81.142", //Leaseweb
 
 
+  "93.152.210.197", //cyberzonehub.com
+  "93.152.210.204", //cyberzonehub.com
+  "93.152.210.187", //cyberzonehub.com
+
 
 
   "20.120.134.33", //Microsoft
