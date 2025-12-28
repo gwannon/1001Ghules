@@ -815,6 +815,15 @@ $bots['ips'] = [
   "178.156.178.119", //Hetzner Online GmbH
   "95.217.133.12", //Hetzner Online GmbH
   "178.156.218.163", //Hetzner Online GmbH
+  "148.251.108.25",
+
+
+
+
+
+
+  "180.97.39.28", //China Telecom
+
 
 
 
@@ -870,6 +879,7 @@ $bots['ips'] = [
   "54.209.60.63", //Amazon
   "140.179.165.204", //Amazon
   "34.212.242.46", //Amazon
+  "52.88.23.78",
 
 
 
