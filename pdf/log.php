@@ -122,6 +122,7 @@ $bots['bots'] = [
   "GeedoShopProductFinder",
   "MixrankBot",
   "OAI-SearchBot",
+  "ChatGPT-User",
 ];
 
 $bots['ips'] = [
