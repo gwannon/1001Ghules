@@ -121,6 +121,7 @@ $bots['bots'] = [
   "MetaSr",
   "GeedoShopProductFinder",
   "MixrankBot",
+  "OAI-SearchBot",
 ];
 
 $bots['ips'] = [
