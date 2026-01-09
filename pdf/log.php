@@ -123,6 +123,7 @@ $bots['bots'] = [
   "MixrankBot",
   "OAI-SearchBot",
   "ChatGPT-User",
+  "PerplexityBot",
 ];
 
 $bots['ips'] = [
