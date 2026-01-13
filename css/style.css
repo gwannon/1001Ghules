@@ -849,3 +849,14 @@ h2 + blockquote + p + div.columns > p:first-of-type:first-letter {
   color: var(--color-black);
   text-transform: uppercase;
 }
+
+a.download {
+  font-size: 30px;
+  padding: 30px;
+  background-color: var(--color-old-gold);
+  color: white;
+  font-weight: 700;
+  display: inline-block;
+  margin: auto;
+  text-decoration: none;
+}
