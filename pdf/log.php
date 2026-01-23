@@ -865,6 +865,7 @@ $bots['ips'] = [
   "49.7.149.205", //China Telecom
   "49.7.149.190", //China Telecom
   "106.38.180.229", //China Telecom
+  "124.237.181.18", //China Telecom
 
 
 
