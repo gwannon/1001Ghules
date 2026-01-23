@@ -490,6 +490,7 @@ $bots['ips'] = [
   "104.164.173.181", //EGIHosting
   "104.164.173.13", //EGIHosting
   "104.164.173.191", //EGIHosting
+  "104.164.173.187", //EGIHosting
 
 
 
@@ -867,6 +868,7 @@ $bots['ips'] = [
   "49.7.149.190", //China Telecom
   "106.38.180.229", //China Telecom
   "124.237.181.18", //China Telecom
+  "113.66.119.243", //China Telecom
 
 
 
