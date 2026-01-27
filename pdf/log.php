@@ -620,6 +620,7 @@ $bots['ips'] = [
   "154.28.229.48", //QuickPacket
   "154.28.229.92", //QuickPacket
   "154.28.229.91", //QuickPacket
+  "154.28.229.181", //QuickPacket
 
 
 
