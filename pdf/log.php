@@ -500,6 +500,7 @@ $bots['ips'] = [
   "104.164.173.159", //EGIHosting
   "104.164.173.222", //EGIHosting
   "104.164.173.197", //EGIHosting
+  "104.164.126.144", //EGIHosting
 
 
 
