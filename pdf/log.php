@@ -599,6 +599,7 @@ $bots['ips'] = [
   "45.134.79.95", //HostRoyale Technologies
   "140.174.124.126", //HostRoyale Technologies
   "160.224.70.140", //HostRoyale Technologies
+  "45.41.169.63", //HostRoyale Technologies
 
 
 
@@ -951,7 +952,7 @@ $bots['ips'] = [
   "3.78.178.37", //Amazon
   "18.246.161.112", //Amazon
   "34.221.50.184", //Amazon
-
+  "51.94.91.241", //Amazon
 
 
 
@@ -1057,7 +1058,7 @@ $bots['ips'] = [
   "116.204.118.24", //Huawei
   "116.204.99.3", //Huawei
   "116.204.117.170", //Huawei
-
+  "193.37.85.167", //Huawei
 
 
 
@@ -1881,6 +1882,7 @@ $bots['ips'] = [
   "172.211.8.166", //Microsoft
   "40.77.167.25", //Microsoft
   "40.82.178.254", //Microsoft
+  "20.15.133.175", //Microsoft
   
 
 
