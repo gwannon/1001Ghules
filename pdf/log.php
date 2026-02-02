@@ -126,6 +126,7 @@ $bots['bots'] = [
   "PerplexityBot",
   "Google-Adwords-DisplayAds-WebRender",
   "Dazzle BlueSky Bot",
+  "archive.org_bot",
 ];
 
 $bots['ips'] = [
