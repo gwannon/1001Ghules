@@ -125,16 +125,11 @@ $bots['bots'] = [
   "ChatGPT-User",
   "PerplexityBot",
   "Google-Adwords-DisplayAds-WebRender",
+  "Dazzle BlueSky Bot",
 ];
 
 $bots['ips'] = [
   "127.0.0.1",
-
-
-
-
-
-
 
   "8.160.37.247", //Alibaba
   "8.160.40.118", //Alibaba
