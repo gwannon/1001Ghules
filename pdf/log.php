@@ -124,217 +124,13 @@ $bots['bots'] = [
   "OAI-SearchBot",
   "ChatGPT-User",
   "PerplexityBot",
+  "Google-Adwords-DisplayAds-WebRender",
 ];
 
 $bots['ips'] = [
   "127.0.0.1",
 
-  "43.153.48.240", //Shenzhen
-  "43.130.32.245", //Shenzhen
-  "43.157.168.43", //Shenzhen
-  "43.130.106.18", //Shenzhen
-  "43.165.65.180", //Shenzhen
-  "43.166.1.243", //Shenzhen
-  "43.167.239.66", //Shenzhen
-  "43.130.106.18", //Shenzhen
-  "43.130.154.56", //Shenzhen
-  "43.135.145.73", //Shenzhen
-  "43.153.15.51", //Shenzhen
-  "43.130.91.95", //Shenzhen
-  "43.130.174.37", //Shenzhen
-  "43.131.243.61", //Shenzhen
-  "43.156.202.34", //Shenzhen
-  "43.153.192.98", //Shenzhen
-  "43.130.228.73", //Shenzhen
-  "43.153.73.200", //Shenzhen
-  "43.130.72.40", //Shenzhen
-  "43.157.62.101", //Shenzhen
-  "43.158.91.71", //Shenzhen
-  "43.130.150.80", //Shenzhen
-  "43.153.15.51", //Shenzhen
-  "43.130.105.21", //Shenzhen
-  "101.32.15.141", //Shenzhen
-  "43.130.105.21", //Shenzhen
-  "43.159.149.56", //Shenzhen
-  "43.135.182.95", //Shenzhen
-  "43.135.145.73", //Shenzhen
-  "43.130.57.46", //Shenzhen
-  "47.79.197.27", //Shenzhen
-  "47.79.6.175", //Shenzhen
-  "43.157.149.188", //Shenzhen
-  "43.153.71.12", //Shenzhen
-  "43.133.187.11", //Shenzhen
-  "43.130.34.74", //Shenzhen
-  "43.135.185.59", //Shenzhen
-  "43.167.241.46", //Shenzhen
-  "43.130.15.147", //Shenzhen
-  "43.155.129.131", //Shenzhen
-  "43.164.196.57", //Shenzhen
-  "43.135.172.89", //Shenzhen
-  "43.135.134.127", //Shenzhen
-  "43.153.27.244", //Shenzhen
-  "43.156.228.27", //Shenzhen
-  "43.135.142.37", //Shenzhen
-  "43.153.86.78", //Shenzhen
-  "43.134.0.156", //Shenzhen
-  "43.157.111.230", //Shenzhen
-  "43.157.122.183", //Shenzhen
-  "43.155.39.204", //Shenzhen
-  "43.163.8.133", //Shenzhen
-  "43.153.193.115", //Shenzhen
-  "43.157.53.115", //Shenzhen
-  "43.130.9.111", //Shenzhen
-  "43.130.60.195", //Shenzhen
-  "43.135.142.37", //Shenzhen
-  "43.157.50.58", //Shenzhen
-  "43.153.79.218", //Shenzhen
-  "43.165.70.220", //Shenzhen
-  "43.153.35.128", //Shenzhen
-  "43.155.157.239", //Shenzhen
-  "43.157.148.38", //Shenzhen
-  "43.154.140.188", //Shenzhen
-  "43.133.220.37", //Shenzhen
-  "43.135.140.225", //Shenzhen
-  "101.33.55.204", //Shenzhen
-  "43.153.85.46", //Shenzhen
-  "43.156.232.190", //Shenzhen
-  "43.130.53.252", //Shenzhen
-  "43.157.175.122", //Shenzhen
-  "43.156.168.214", //Shenzhen
-  "43.163.104.54", //Shenzhen
-  "43.155.162.41", //Shenzhen
-  "43.159.135.203", //Shenzhen
-  "43.157.38.131", //Shenzhen
-  "43.159.132.207", //Shenzhen
-  "43.135.148.92", //Shenzhen
-  "43.153.10.83", //Shenzhen
-  "43.159.141.150", //Shenzhen
-  "43.153.104.196", //Shenzhen
-  "43.155.195.141", //Shenzhen
-  "43.130.12.43", //Shenzhen
-  "43.153.113.127", //Shenzhen
-  "43.157.156.190", //Shenzhen
-  "43.157.22.109", //Shenzhen
-  "43.159.145.153", //Shenzhen
-  "43.130.141.193", //Shenzhen
-  "43.157.174.69", //Shenzhen
-  "43.157.38.228", //Shenzhen
-  "43.130.100.35", //Shenzhen
-  "43.130.26.3", //Shenzhen
-  "43.130.101.151", //Shenzhen
-  "43.157.170.13", //Shenzhen
-  "43.128.149.102", //Shenzhen
-  "43.157.188.74", //Shenzhen
-  "43.157.188.74", //Shenzhen
-  "43.159.143.187", //Shenzhen
-  "43.154.250.181", //Shenzhen
-  "43.130.74.193", //Shenzhen
-  "43.157.52.37", //Shenzhen
-  "43.153.87.54", //Shenzhen
-  "43.159.145.149", //Shenzhen
-  "43.153.96.79", //Shenzhen
-  "43.153.87.54", //Shenzhen
-  "43.130.39.254", //Shenzhen
-  "43.153.10.13", //Shenzhen
-  "43.130.139.136", //Shenzhen
-  "43.130.67.6", //Shenzhen
-  "43.157.180.116", //Shenzhen
-  "43.135.145.117", //Shenzhen
-  "43.135.182.43", //Shenzhen
-  "43.152.72.244", //Shenzhen
-  "43.157.142.101", //Shenzhen
-  "43.135.145.117", //Shenzhen
-  "43.157.191.20", //Shenzhen
-  "43.163.206.70", //Shenzhen
-  "43.130.40.120", //Shenzhen
-  "43.165.135.242", //Shenzhen
-  "43.159.152.184", //Shenzhen
-  "43.135.130.202", //Shenzhen
-  "43.157.170.126", //Shenzhen
-  "43.130.102.223", //Shenzhen
-  "43.164.197.224", //Shenzhen
-  "43.164.195.17", //Shenzhen
-  "43.153.54.138", //Shenzhen
-  "43.135.133.241", //Shenzhen
-  "43.130.40.120", //Shenzhen
-  "223.104.70.79", //Shenzhen
-  "43.167.236.228", //Shenzhen
-  "43.157.172.39", //Shenzhen
-  "43.165.135.242", //Shenzhen
-  "43.159.149.216", //Shenzhen
-  "43.167.245.18", //Shenzhen
-  "43.130.131.18", //Shenzhen
-  "43.164.197.177", //Shenzhen
-  "43.154.127.188", //Shenzhen
-  "43.130.57.76", //Shenzhen
-  "43.153.122.30", //Shenzhen
-  "43.167.236.228", //Shenzhen
-  "43.157.181.189", //Shenzhen
-  "43.128.156.124", //Shenzhen
-  "43.156.204.134", //Shenzhen
-  "43.135.142.7", //Shenzhen
-  "43.157.179.227", //Shenzhen
-  "43.130.67.33", //Shenzhen
-  "43.156.109.53", //Shenzhen
-  "43.135.186.135", //Shenzhen
-  "43.130.37.243", //Shenzhen
-  "43.157.191.20", //Shenzhen
-  "43.130.3.120", //Shenzhen
-  "43.153.135.208", //Shenzhen
-  "43.157.150.69", //Shenzhen
-  "43.159.136.201", //Shenzhen
-  "43.135.144.126", //Shenzhen
-  "43.153.19.83", //Shenzhen
-  "43.157.181.189", //Shenzhen
-  "43.131.253.14", //Shenzhen
-  "43.153.135.208", //Shenzhen
-  "43.153.54.14", //Shenzhen
-  "43.157.147.3", //Shenzhen
-  "43.166.7.113", //Shenzhen
-  "43.157.180.116", //Shenzhen
-  "43.153.62.161", //Shenzhen
-  "43.128.100.220", //Shenzhen
-  "43.153.36.110", //Shenzhen
-  "43.130.16.140", //Shenzhen
-  "43.155.27.244", //Shenzhen
-  "43.153.123.3", //Shenzhen
-  "43.130.31.17", //Shenzhen
-  "43.135.87.236", //Shenzhen
-  "43.154.129.169", //Shenzhen
-  "43.130.78.203", //Shenzhen
-  "43.159.143.139", //Shenzhen
-  "43.157.98.187", //Shenzhen
-  "43.153.71.132", //Shenzhen
-  "43.153.47.201",
 
-
-
-
-
-
-  "45.148.10.159", //Techoff
-  "45.148.10.247", //Techoff
-  "45.148.10.160", //Techoff
-  "195.178.110.108", //Techoff
-  "45.148.10.143", //Techoff
-  "195.178.110.155", //Techoff
-  "195.178.110.131", //Techoff
-  "195.178.110.110", //Techoff
-  "195.178.110.109", //Techoff
-  "45.148.10.203", //Techoff
-  "45.148.10.166", //Techoff
-  "45.148.10.111", //Techoff
-  "93.123.109.116", //Techoff
-  "193.32.162.96", //Techoff
-  "93.123.109.44", //Techoff
-  "195.178.110.199", //Techoff
-  "45.148.10.244", //Techoff
-  "45.148.10.231", //Techoff
-  "195.178.110.192", //Techoff
-  "45.148.10.154", //Techoff
-  "45.148.10.99", //Techoff
-  "45.148.10.95", //Techoff
-  "101.33.66.34", //Tencent
 
 
 
@@ -459,442 +255,17 @@ $bots['ips'] = [
   "47.79.213.182", //Alibaba
   "47.79.199.122", //Alibaba
   "47.79.198.236", //Alibaba
-  "47.79.119.13",
-  "47.82.15.75",
-  
-
-
-
-  
-
-  "104.252.191.165", //EGIHosting
-  "104.252.191.222", //EGIHosting
-  "104.252.191.114", //EGIHosting
-  "104.164.126.245", //EGIHosting
-  "104.164.126.131", //EGIHosting
-  "104.164.173.167", //EGIHosting
-  "104.164.126.80", //EGIHosting
-  "104.252.191.125", //EGIHosting
-  "104.164.126.127", //EGIHosting
-  "104.252.191.244", //EGIHosting
-  "104.164.173.84", //EGIHosting
-  "104.164.173.56", //EGIHosting
-  "104.164.173.171", //EGIHosting
-  "104.164.173.123", //EGIHosting
-  "104.252.191.112", //EGIHosting
-  "104.252.191.9", //EGIHosting
-  "104.164.173.99", //EGIHosting
-  "104.252.191.162", //EGIHosting
-  "104.164.173.12", //EGIHosting
-  "104.252.191.65", //EGIHosting
-  "104.164.173.193", //EGIHosting
-  "104.164.126.190", //EGIHosting
-  "45.39.174.60", //EGIHosting
-  "104.164.173.23", //EGIHosting
-  "104.252.191.142", //EGIHosting
-  "104.164.173.53", //EGIHosting
-  "104.252.191.183", //EGIHosting
-  "104.252.191.4", //EGIHosting
-  "104.164.173.181", //EGIHosting
-  "104.164.173.13", //EGIHosting
-  "104.164.173.191", //EGIHosting
-  "104.164.173.187", //EGIHosting
-  "104.164.173.179", //EGIHosting
-  "104.164.126.3", //EGIHosting
-  "104.164.173.159", //EGIHosting
-  "104.164.173.222", //EGIHosting
-  "104.164.173.197", //EGIHosting
-  "104.164.126.144", //EGIHosting
+  "47.79.119.13", //Alibaba
+  "47.82.15.75", //Alibaba
 
 
 
 
-
-
-  "73.225.118.110", //Comcast Cable Communications
-  "73.5.143.96", //Comcast Cable Communications
-  "68.53.182.213", //Comcast Cable Communications
-  "73.177.226.129", //Comcast Cable Communications
-  "24.245.17.121", //Comcast Cable Communications
-  "71.56.153.131", //Comcast Cable Communications
-  "73.55.134.83", //Comcast Cable Communications
-  "73.37.56.57", //Comcast Cable Communications
-  "71.59.26.138", //Comcast Cable Communications
-  "73.150.190.46", //Comcast Cable Communications
-  "98.43.207.136", //Comcast Cable Communications
-  "73.247.144.89", //Comcast Cable Communications
-  "73.15.110.238", //Comcast Cable Communications
-  "73.170.187.189", //Comcast Cable Communications
-  "67.169.23.80", //Comcast Cable Communications
-  "71.196.152.243", //Comcast Cable Communications
-  "73.153.102.197", //Comcast Cable Communications
-  "73.96.70.223", //Comcast Cable Communications
-  "24.62.141.174", //Comcast Cable Communications
-  "24.22.48.145", //Comcast Cable Communications
-  "71.231.83.23", //Comcast Cable Communications
-  "174.167.5.106", //Comcast Cable Communications
-  "73.197.229.132", //Comcast Cable Communications
-  "73.228.102.143", //Comcast Cable Communications
-  "98.34.70.74", //Comcast Cable Communications
-  "98.210.197.45", //Comcast Cable Communications
-  "98.47.113.21", //Comcast Cable Communications
-  "174.52.254.98", //Comcast Cable Communications
-  "24.131.142.119", //Comcast Cable Communications
-  "73.165.113.171", //Comcast Cable Communications
-  "76.115.32.184", //Comcast Cable Communications
-  "75.74.9.172", //Comcast Cable Communications
-  "73.164.160.251", //Comcast Cable Communications
-  "73.95.113.132", //Comcast Cable Communications
-  "98.193.70.52", //Comcast Cable Communications
-  "98.252.51.222", //Comcast Cable Communications
-  "67.170.96.196", //Comcast Cable Communications
-
-
-
-
-
-
-  "196.251.87.128", //cheapy.host LLC
-  "196.251.85.138", //cheapy.host LLC
-  "196.251.85.248", //cheapy.host LLC
-  "196.251.84.137", //cheapy.host LLC
-  "196.251.81.7", //cheapy.host LLC
-  "196.251.81.2", //cheapy.host LLC
-  "196.251.85.239", //cheapy.host LLC
-  "196.251.70.13", //cheapy.host LLC
-  "196.251.85.111", //cheapy.host LLC
-  "196.251.85.246", //cheapy.host LLC
-
-
-
-
-
-  "161.123.249.116", //HostRoyale Technologies
-  "185.223.56.104", //HostRoyale Technologies
-  "213.188.66.115", //HostRoyale Technologies
-  "193.19.204.4", //HostRoyale Technologies
-  "156.235.66.173", //HostRoyale Technologies
-  "121.91.176.156", //HostRoyale Technologies
-  "45.138.235.140", //HostRoyale Technologies
-  "94.139.224.240", //HostRoyale Technologies
-  "188.215.77.118", //HostRoyale Technologies
-  "45.149.31.116", //HostRoyale Technologies
-  "209.242.212.70", //HostRoyale Technologies
-  "94.139.224.218", //HostRoyale Technologies
-  "94.139.234.71", //HostRoyale Technologies
-  "188.215.76.194", //HostRoyale Technologies
-  "45.144.88.236", //HostRoyale Technologies
-  "209.242.215.33", //HostRoyale Technologies
-  "45.144.90.2", //HostRoyale Technologies
-  "45.144.88.169", //HostRoyale Technologies
-  "94.139.236.40", //HostRoyale Technologies
-  "161.123.147.217", //HostRoyale Technologies
-  "161.123.204.237", //HostRoyale Technologies
-  "185.201.188.24", //HostRoyale Technologies
-  "180.149.229.147", //HostRoyale Technologies
-  "209.242.219.34", //HostRoyale Technologies
-  "168.205.75.92", //HostRoyale Technologies
-  "185.152.39.78", //HostRoyale Technologies
-  "45.89.116.171", //HostRoyale Technologies
-  "94.139.59.252", //HostRoyale Technologies
-  "45.67.6.123", //HostRoyale Technologies
-  "45.134.79.95", //HostRoyale Technologies
-  "140.174.124.126", //HostRoyale Technologies
-  "160.224.70.140", //HostRoyale Technologies
-  "45.41.169.63", //HostRoyale Technologies
-
-
-
-
-  "154.28.229.215", //QuickPacket
-  "154.28.229.100", //QuickPacket
-  "154.28.229.158", //QuickPacket
-  "154.28.229.64", //QuickPacket
-  "154.28.229.242", //QuickPacket
-  "154.28.229.7", //QuickPacket
-  "154.28.229.43", //QuickPacket
-  "154.28.229.154", //QuickPacket
-  "154.28.229.203", //QuickPacket
-  "104.153.81.197", //QuickPacket
-  "154.28.229.155", //QuickPacket
-  "104.153.81.161", //QuickPacket
-  "154.30.97.86", //QuickPacket
-  "154.30.97.84", //QuickPacket
-  "154.30.97.206", //QuickPacket
-  "154.30.96.244", //QuickPacket
-  "154.30.99.245", //QuickPacket
-  "154.28.229.245", //QuickPacket
-  "154.28.229.44", //QuickPacket
-  "154.28.229.148", //QuickPacket
-  "154.28.229.48", //QuickPacket
-  "154.28.229.92", //QuickPacket
-  "154.28.229.91", //QuickPacket
-  "154.28.229.181", //QuickPacket
-
-
-
-  
-
-
-  "54.39.104.161", //OVH SAS
-  "51.222.42.127", //OVH SAS
-  "54.39.103.203", //OVH SAS
-  "149.56.25.49", //OVH SAS
-  "54.39.50.77", //OVH SAS
-  "51.161.115.227", //OVH SAS
-  "167.114.1.197", //OVH SAS
-  "51.161.117.63", //OVH SAS
-  "144.217.74.133", //OVH SAS
-  "167.114.173.221", //OVH SAS
-  "158.69.27.238", //OVH SAS
-  "192.99.44.57", //OVH SAS
-  "167.114.101.27", //OVH SAS
-  "167.114.101.27", //OVH SAS
-  "158.69.27.213", //OVH SAS
-  "142.44.136.207", //OVH SAS
-  "158.69.124.235", //OVH SAS
-  "192.99.62.32", //OVH SAS
-  "15.235.114.226", //OVH SAS
-  "54.39.243.52", //OVH SAS
-  "192.99.19.229", //OVH SAS
-  "144.217.255.152", //OVH SAS
-  "167.114.159.149", //OVH SAS
-  "51.161.115.226", //OVH SAS
-  "192.99.101.184", //OVH SAS
-  "167.114.119.164", //OVH SAS
-  "51.222.42.126", //OVH SAS
-  "51.161.84.126", //OVH SAS
-  "142.4.217.87", //OVH SAS
-  "51.161.84.125", //OVH SAS
-  "167.114.1.28", //OVH SAS
-  "51.79.77.186", //OVH SAS
-  "54.39.107.240", //OVH SAS
-  "192.99.232.216", //OVH SAS
-  "158.69.125.158", //OVH SAS
-  "51.79.99.78", //OVH SAS
-  "144.217.252.156", //OVH SAS
-  "54.39.48.97", //OVH SAS
-  "51.79.77.165", //OVH SAS
-  "51.38.135.19", //OVH SAS
-  "54.39.107.63", //OVH SAS
-  "188.165.87.101", //OVH SAS
-  "188.165.87.103", //OVH SAS
-  "188.165.87.106", //OVH SAS
-  "51.91.18.151", //OVH SAS
-  "66.70.240.189", //OVH SAS
-  "69.176.89.192", //OVH SAS
-  "15.204.224.92", //OVH SAS
-  "66.70.240.180", //OVH SAS
-  "178.32.72.220", //OVH SAS
-  "178.32.212.119", //OVH SAS
-  "198.244.133.157", //OVH SAS
-  "178.32.72.219", //OVH SAS
-  "141.94.77.78", //OVH SAS
-  "51.91.255.78", //OVH SAS
-  "141.95.54.59", //OVH SAS
-  "57.129.139.80", //OVH SAS
-  "51.38.187.130", //OVH SAS
-  "151.80.133.55", //OVH SAS
-  "145.239.89.234", //OVH SAS
-  "51.222.167.157", //OVH SAS
-  "141.94.76.134", //OVH SAS
-  "141.94.78.40", //OVH SAS
-  "151.80.133.130", //OVH SAS
-  "51.91.255.135", //OVH SAS
-  "57.129.139.60", //OVH SAS
-  "151.80.133.111", //OVH SAS
-  "51.91.250.17", //OVH SAS
-  "57.129.81.225", //OVH SAS
-  "51.91.254.43", //OVH SAS
-  "57.129.81.227", //OVH SAS
-  "51.38.187.132", //OVH SAS
-  "57.129.81.226", //OVH SAS
-  "57.129.81.228", //OVH SAS
-  "149.202.53.222", //OVH SAS
-  "144.217.135.133", //OVH SAS
-  "144.217.135.219", //OVH SAS
-  "158.69.23.228", //OVH SAS
-  "54.36.232.187", //OVH SAS
-  "193.70.81.189", //OVH SAS
-  "135.125.237.198", //OVH SAS
-  "158.69.120.60", //OVH SAS
-  "37.187.5.192", //OVH SAS
-  "188.165.200.97", //OVH SAS
-  "57.129.81.224", //OVH SAS
-  "144.217.135.240", //OVH SAS
-  "51.81.211.107", //OVH SAS
-  "51.81.210.206", //OVH SAS
-  "51.75.24.242", //OVH SAS
-  "57.129.15.220", //OVH SAS
-  "51.77.211.137", //OVH SAS
-  "51.38.112.81", //OVH SAS
-  "51.68.137.190", //OVH SAS
-  "51.81.209.230", //OVH SAS
-  "135.148.139.201", //OVH SAS
-  "146.59.19.88", //OVH SAS
-  "15.204.231.85", //OVH SAS
-  "51.81.210.22", //OVH SAS
-  "51.81.32.7", //OVH SAS
-  "162.19.253.124", //OVH SAS
-  "51.38.129.30", //OVH SAS
-  "51.81.209.132", //OVH SAS
-  "162.19.253.196", //OVH SAS
-  "217.182.73.176", //OVH SAS
-  "51.38.125.22", //OVH SAS
-  "51.75.23.111", //OVH SAS
-  "151.80.133.171", //OVH SAS
-  "57.129.69.7", //OVH SAS
-  "141.94.79.3", //OVH SAS
-  "51.77.211.39", //OVH SAS
-  "145.239.68.210", //OVH SAS
-  "51.89.164.226", //OVH SAS
-  "51.38.187.112", //OVH SAS
-  "151.80.133.238", //OVH SAS
-  "145.239.83.37", //OVH SAS
-  "54.36.108.162", //OVH SAS
-  "51.75.18.6", //OVH SAS
-  "51.77.211.229", //OVH SAS
-  "57.129.69.52", //OVH SAS
-  "51.77.210.64", //OVH SAS
-  "51.77.211.191", //OVH SAS
-  "51.68.143.45", //OVH SAS
-  "51.38.225.46", //OVH SAS
-  "198.50.212.160", //OVH SAS
-  "51.89.204.82", //OVH SAS
-  "146.59.126.232", //OVH SAS
-  "57.129.2.8", //OVH SAS
-  "54.37.19.39", //OVH SAS
-  "79.137.26.213", //OVH SAS
-  "54.37.255.38", //OVH SAS
-
-
-
-
-
-  
-  "198.46.253.99", //HostPapa
-  "198.23.221.50", //HostPapa
-  "107.173.94.176", //HostPapa
-  "107.174.244.108", //HostPapa
-  "104.168.80.184", //HostPapa
-  "192.210.184.249", //HostPapa
-  "198.23.221.50", //HostPapa
-  "198.23.221.51", //HostPapa
-  "23.229.104.2", //HostPapa
-  "107.172.195.16", //HostPapa
-  "198.12.69.93", //HostPapa
-  "107.172.195.106", //HostPapa
-  "107.172.195.246", //HostPapa
-  "107.172.195.60", //HostPapa
-  "107.172.195.222", //HostPapa
-  "107.172.195.108", //HostPapa
-  "107.172.195.119", //HostPapa
-  "107.172.195.124", //HostPapa
-  "107.172.195.33", //HostPapa
-  "192.210.150.198", //HostPapa
-  "192.210.150.196", //HostPapa
-  "23.229.104.2", //HostPapa
-  "192.210.150.198", //HostPapa
-  "107.172.195.148", //HostPapa
-  "107.173.224.64", //HostPapa
-  "107.172.195.169", //HostPapa
-  "107.172.195.8", //HostPapa
-  "23.229.104.2", //HostPapa
-  "107.172.195.129", //HostPapa
-  "107.172.195.126", //HostPapa
-  "107.172.195.9", //HostPapa
-  "107.172.195.50", //HostPapa
-  "38.152.155.73", //HostPapa
-  "38.152.180.154", //HostPapa
-  "172.245.92.92", //HostPapa
-  "107.175.55.35", //HostPapa
-  "198.46.154.22", //HostPapa
-  "107.172.195.14", //HostPapa
-  "107.172.195.217", //HostPapa
-  "107.172.195.41", //HostPapa
-  "107.172.195.237", //HostPapa
-  "198.12.69.94", //HostPapa
-  "107.172.195.175", //HostPapa
-
-
-
-
-  
-  "116.202.35.85", //Hetzner Online GmbH
-  "116.202.33.240", //Hetzner Online GmbH
-  "116.202.33.233", //Hetzner Online GmbH
-  "168.119.76.160", //Hetzner Online GmbH
-  "168.119.76.212", //Hetzner Online GmbH
-  "168.119.76.242", //Hetzner Online GmbH
-  "168.119.76.227", //Hetzner Online GmbH
-  "168.119.76.151", //Hetzner Online GmbH
-  "168.119.76.254", //Hetzner Online GmbH
-  "168.119.76.165", //Hetzner Online GmbH
-  "144.76.22.143", //Hetzner Online GmbH
-  "116.202.35.89", //Hetzner Online GmbH
-  "116.202.35.108", //Hetzner Online GmbH
-  "176.9.32.135", //Hetzner Online GmbH
-  "168.119.76.225", //Hetzner Online GmbH
-  "168.119.76.159", //Hetzner Online GmbH
-  "168.119.76.216", //Hetzner Online GmbH
-  "168.119.76.234", //Hetzner Online GmbH
-  "168.119.76.141", //Hetzner Online GmbH
-  "168.119.76.224", //Hetzner Online GmbH
-  "168.119.76.139", //Hetzner Online GmbH
-  "65.21.158.47", //Hetzner Online GmbH
-  "135.181.214.38", //Hetzner Online GmbH
-  "195.201.111.82", //Hetzner Online GmbH
-  "65.108.3.41", //Hetzner Online GmbH
-  "65.108.31.118", //Hetzner Online GmbH
-  "65.109.155.237", //Hetzner Online GmbH
-  "65.21.136.254", //Hetzner Online GmbH
-  "49.13.2.198", //Hetzner Online GmbH
-  "5.161.204.59", //Hetzner Online GmbH
-  "178.156.144.152", //Hetzner Online GmbH
-  "5.161.48.222", //Hetzner Online GmbH
-  "5.9.50.77", //Hetzner Online GmbH
-  "142.132.248.24", //Hetzner Online GmbH
-  "178.156.188.178", //Hetzner Online GmbH
-  "138.201.205.217", //Hetzner Online GmbH
-  "157.90.127.188", //Hetzner Online GmbH
-  "5.9.94.125", //Hetzner Online GmbH
-  "5.78.26.119", //Hetzner Online GmbH
-  "136.243.146.44", //Hetzner Online GmbH
-  "157.90.121.74", //Hetzner Online GmbH
-  "159.69.111.36", //Hetzner Online GmbH
-  "95.216.99.80", //Hetzner Online GmbH
-  "65.21.113.195", //Hetzner Online GmbH
-  "95.216.23.122", //Hetzner Online GmbH
-  "178.156.149.155", //Hetzner Online GmbH
-  "157.180.88.64", //Hetzner Online GmbH
-  "37.27.51.139", //Hetzner Online GmbH
-  "5.161.70.196", //Hetzner Online GmbH
-  "5.161.237.244", //Hetzner Online GmbH
-  "178.156.178.119", //Hetzner Online GmbH
-  "95.217.133.12", //Hetzner Online GmbH
-  "178.156.218.163", //Hetzner Online GmbH
-  "148.251.108.25", //Hetzner Online GmbH
-  "5.161.219.16", //Hetzner Online GmbH
-  "178.156.234.104",
-
-
-
-
-
-
-  "180.97.39.28", //China Telecom
-  "36.155.132.160", //China Mobile
-  "49.7.150.239", //China Telecom
-  "106.38.188.234", //China Telecom
-  "220.181.90.201", //China Telecom
-  "220.181.90.229", //China Telecom
-  "49.7.150.16", //China Telecom
-  "106.38.188.168", //China Telecom
-  "49.7.149.205", //China Telecom
-  "49.7.149.190", //China Telecom
-  "106.38.180.229", //China Telecom
-  "124.237.181.18", //China Telecom
-  "113.66.119.243", //China Telecom
+  "172.225.246.33", //Akamai
+  "172.225.251.25", //Akamai
+  "172.226.116.21", //Akamai
+  "172.104.243.155", //Akamai
+  "172.233.93.156", //Akamai
 
 
 
@@ -960,107 +331,217 @@ $bots['ips'] = [
 
 
 
+  "196.251.87.128", //cheapy.host LLC
+  "196.251.85.138", //cheapy.host LLC
+  "196.251.85.248", //cheapy.host LLC
+  "196.251.84.137", //cheapy.host LLC
+  "196.251.81.7", //cheapy.host LLC
+  "196.251.81.2", //cheapy.host LLC
+  "196.251.85.239", //cheapy.host LLC
+  "196.251.70.13", //cheapy.host LLC
+  "196.251.85.111", //cheapy.host LLC
+  "196.251.85.246", //cheapy.host LLC
 
-  "116.204.77.237", //Huawei
-  "116.204.7.15", //Huawei
-  "116.204.99.59", //Huawei
-  "116.204.102.28", //Huawei
-  "121.37.99.73", //Huawei
-  "116.204.98.102", //Huawei
-  "116.204.73.141", //Huawei
-  "113.44.105.92", //Huawei
-  "116.204.72.11", //Huawei
-  "116.204.19.71", //Huawei
-  "121.37.100.105", //Huawei
-  "1.92.219.184", //Huawei
-  "121.37.101.80", //Huawei
-  "116.204.30.197", //Huawei
-  "116.204.69.190", //Huawei
-  "121.37.99.182", //Huawei
-  "116.204.9.84", //Huawei
-  "116.204.98.61", //Huawei
-  "116.204.109.34", //Huawei
-  "202.76.176.170", //Huawei
-  "202.76.165.163", //Huawei
-  "119.8.114.234", //Huawei
-  "122.8.179.0", //Huawei
-  "111.119.206.157", //Huawei
-  "119.13.88.72", //Huawei
-  "94.74.99.251", //Huawei
-  "188.239.11.72", //Huawei
-  "110.238.104.127", //Huawei
-  "202.76.164.175", //Huawei
-  "146.174.182.131", //Huawei
-  "146.174.173.69", //Huawei
-  "146.174.175.65", //Huawei
-  "146.174.166.243", //Huawei
-  "146.174.190.21", //Huawei
-  "146.174.183.90", //Huawei
-  "146.174.166.234", //Huawei
-  "146.174.190.28", //Huawei
-  "146.174.185.9", //Huawei
-  "146.174.166.223", //Huawei
-  "146.174.180.225", //Huawei
-  "146.174.180.127", //Huawei
-  "146.174.165.191", //Huawei
-  "146.174.189.46", //Huawei
-  "146.174.164.98", //Huawei
-  "146.174.177.123", //Huawei
-  "146.174.177.246", //Huawei
-  "146.174.180.211", //Huawei
-  "146.174.180.164", //Huawei
-  "146.174.190.195", //Huawei
-  "202.76.160.145", //Huawei
-  "146.174.181.168", //Huawei
-  "146.174.177.127", //Huawei
-  "146.174.172.139", //Huawei
-  "146.174.183.116", //Huawei
-  "146.174.189.101", //Huawei
-  "146.174.167.210", //Huawei
-  "46.250.169.72", //Huawei
-  "146.174.164.62", //Huawei
-  "146.174.165.93", //Huawei
-  "202.76.167.181", //Huawei
-  "146.174.184.55", //Huawei
-  "202.76.166.99", //Huawei
-  "146.174.174.133", //Huawei
-  "202.76.167.137", //Huawei
-  "146.174.184.213", //Huawei
-  "146.174.172.181", //Huawei
-  "202.76.166.6", //Huawei
-  "202.76.164.128", //Huawei
-  "124.243.191.77", //Huawei
-  "122.8.186.87", //Huawei
-  "159.138.99.167", //Huawei
-  "119.12.173.131", //Huawei
-  "166.108.239.109", //Huawei
-  "124.243.149.196", //Huawei
-  "188.239.46.50", //Huawei
-  "113.44.110.9", //Huawei
-  "116.204.123.112", //Huawei
-  "1.92.222.154", //Huawei
-  "116.204.101.196", //Huawei
-  "1.92.195.92", //Huawei
-  "121.37.118.66", //Huawei
-  "116.204.6.71", //Huawei
-  "116.204.66.123", //Huawei
-  "116.204.99.102", //Huawei
-  "116.204.33.204", //Huawei
-  "121.37.97.239", //Huawei
-  "116.204.115.182", //Huawei
-  "1.92.223.13", //Huawei
-  "116.204.107.13", //Huawei
-  "113.44.115.28", //Huawei
-  "113.44.110.217", //Huawei
-  "116.204.34.64", //Huawei
-  "116.204.37.221", //Huawei
-  "121.37.95.246", //Huawei
-  "116.204.70.50", //Huawei
-  "1.92.200.229", //Huawei
-  "116.204.118.24", //Huawei
-  "116.204.99.3", //Huawei
-  "116.204.117.170", //Huawei
-  "193.37.85.167", //Huawei
+
+
+
+
+
+  "180.97.39.28", //China Telecom
+  "36.155.132.160", //China Mobile
+  "49.7.150.239", //China Telecom
+  "106.38.188.234", //China Telecom
+  "220.181.90.201", //China Telecom
+  "220.181.90.229", //China Telecom
+  "49.7.150.16", //China Telecom
+  "106.38.188.168", //China Telecom
+  "49.7.149.205", //China Telecom
+  "49.7.149.190", //China Telecom
+  "106.38.180.229", //China Telecom
+  "124.237.181.18", //China Telecom
+  "113.66.119.243", //China Telecom
+
+
+
+
+
+
+  "73.225.118.110", //Comcast Cable Communications
+  "73.5.143.96", //Comcast Cable Communications
+  "68.53.182.213", //Comcast Cable Communications
+  "73.177.226.129", //Comcast Cable Communications
+  "24.245.17.121", //Comcast Cable Communications
+  "71.56.153.131", //Comcast Cable Communications
+  "73.55.134.83", //Comcast Cable Communications
+  "73.37.56.57", //Comcast Cable Communications
+  "71.59.26.138", //Comcast Cable Communications
+  "73.150.190.46", //Comcast Cable Communications
+  "98.43.207.136", //Comcast Cable Communications
+  "73.247.144.89", //Comcast Cable Communications
+  "73.15.110.238", //Comcast Cable Communications
+  "73.170.187.189", //Comcast Cable Communications
+  "67.169.23.80", //Comcast Cable Communications
+  "71.196.152.243", //Comcast Cable Communications
+  "73.153.102.197", //Comcast Cable Communications
+  "73.96.70.223", //Comcast Cable Communications
+  "24.62.141.174", //Comcast Cable Communications
+  "24.22.48.145", //Comcast Cable Communications
+  "71.231.83.23", //Comcast Cable Communications
+  "174.167.5.106", //Comcast Cable Communications
+  "73.197.229.132", //Comcast Cable Communications
+  "73.228.102.143", //Comcast Cable Communications
+  "98.34.70.74", //Comcast Cable Communications
+  "98.210.197.45", //Comcast Cable Communications
+  "98.47.113.21", //Comcast Cable Communications
+  "174.52.254.98", //Comcast Cable Communications
+  "24.131.142.119", //Comcast Cable Communications
+  "73.165.113.171", //Comcast Cable Communications
+  "76.115.32.184", //Comcast Cable Communications
+  "75.74.9.172", //Comcast Cable Communications
+  "73.164.160.251", //Comcast Cable Communications
+  "73.95.113.132", //Comcast Cable Communications
+  "98.193.70.52", //Comcast Cable Communications
+  "98.252.51.222", //Comcast Cable Communications
+  "67.170.96.196", //Comcast Cable Communications
+
+
+
+
+
+  "191.96.87.109", //Datacamp
+  "89.37.63.161", //Datacamp
+  "149.40.62.27", //Datacamp
+  "181.215.65.136", //Datacamp
+  "89.37.63.82", //Datacamp
+  "98.159.233.53", //Datacamp
+  "37.19.221.152", //Datacamp
+  "45.134.213.218", //Datacamp
+  "79.127.185.10", //Datacamp
+  "185.81.124.190", //Datacamp
+  "45.95.13.97", //Datacamp
+  "64.137.49.123", //Datacamp
+  "45.38.195.41", //Datacamp
+  "103.210.198.130", //Datacamp
+  "84.39.151.171", //Datacamp
+  "185.156.46.98", //Datacamp
+  "84.39.151.54", //Datacamp
+  "84.39.151.163", //Datacamp
+  "84.39.151.172", //Datacamp
+  "212.102.51.112", //Datacamp
+  "79.127.136.196", //Datacamp
+  "62.93.178.170", //Datacamp
+  "149.102.227.14", //Datacamp
+  "149.36.48.150", //Datacamp
+  "154.47.25.154", //Datacamp
+  "149.22.94.10", //Datacamp
+  "212.104.215.33", //Datacamp
+  "181.214.85.84", //Datacamp
+  "102.129.223.92", //Datacamp
+  "79.127.181.23", //Datacamp
+  "143.244.39.22", //Datacamp
+  "170.62.228.23", //Datacamp
+  "156.146.60.146", //Datacamp
+  "149.102.236.204", //Datacamp
+  "69.176.90.254", //Datacamp
+  "69.176.91.175", //Datacamp
+  "149.88.22.139", //Datacamp
+  "138.199.6.230", //Datacamp
+  "154.47.16.57", //Datacamp
+  "84.37.183.154", //Datacamp
+
+
+
+
+
+
+
+  "128.199.15.211", //Digital Ocean
+  "207.154.243.139", //Digital Ocean
+  "64.226.124.225", //Digital Ocean
+  "64.226.107.90", //Digital Ocean
+  "207.154.251.79", //Digital Ocean
+  "167.99.171.142", //Digital Ocean
+  "64.23.128.141", //Digital Ocean
+  "138.68.22.173", //Digital Ocean
+  "138.197.212.221", //Digital Ocean
+  "165.232.158.68", //Digital Ocean
+  "167.99.174.172", //Digital Ocean
+  "167.99.96.170", //Digital Ocean
+  "104.248.85.196", //Digital Ocean
+  "167.71.165.183", //Digital Ocean
+  "64.23.133.100", //Digital ocean
+  "178.62.199.25", //Digital ocean
+  "45.55.198.121", //Digital ocean
+  "178.62.199.251", //Digital ocean
+  "167.99.96.170", //Digital ocean
+  "167.99.174.172", //Digital ocean
+  "152.42.140.134", //Digital ocean
+  "178.62.255.53", //Digital ocean
+  "188.166.88.71", //Digital ocean
+  "167.99.7.55", //Digital ocean
+  "192.241.202.214", //Digital ocean
+  "167.172.20.109", //Digital ocean
+  "167.172.20.109", //Digital ocean
+  "206.189.213.202", //Digital ocean
+  "165.227.75.206", //Digital ocean
+  "167.99.113.2", //Digital ocean
+  "143.198.23.152", //Digital ocean
+  "167.71.189.213", //Digital ocean
+  "104.131.188.228", //Digital Ocean
+  "162.243.184.81", //Digital Ocean
+  "159.203.96.207", //Digital Ocean
+  "159.203.130.117", //Digital Ocean
+  "45.55.48.136", //Digital Ocean
+  "138.197.12.167", //Digital Ocean
+  "104.131.164.108", //Digital Ocean
+  "165.227.89.105", //Digital Ocean
+  "104.248.17.176", //Digital Ocean
+  "138.197.83.91", //Digital Ocean
+  "104.131.189.132", //Digital Ocean
+
+
+
+
+
+
+  "104.252.191.165", //EGIHosting
+  "104.252.191.222", //EGIHosting
+  "104.252.191.114", //EGIHosting
+  "104.164.126.245", //EGIHosting
+  "104.164.126.131", //EGIHosting
+  "104.164.173.167", //EGIHosting
+  "104.164.126.80", //EGIHosting
+  "104.252.191.125", //EGIHosting
+  "104.164.126.127", //EGIHosting
+  "104.252.191.244", //EGIHosting
+  "104.164.173.84", //EGIHosting
+  "104.164.173.56", //EGIHosting
+  "104.164.173.171", //EGIHosting
+  "104.164.173.123", //EGIHosting
+  "104.252.191.112", //EGIHosting
+  "104.252.191.9", //EGIHosting
+  "104.164.173.99", //EGIHosting
+  "104.252.191.162", //EGIHosting
+  "104.164.173.12", //EGIHosting
+  "104.252.191.65", //EGIHosting
+  "104.164.173.193", //EGIHosting
+  "104.164.126.190", //EGIHosting
+  "45.39.174.60", //EGIHosting
+  "104.164.173.23", //EGIHosting
+  "104.252.191.142", //EGIHosting
+  "104.164.173.53", //EGIHosting
+  "104.252.191.183", //EGIHosting
+  "104.252.191.4", //EGIHosting
+  "104.164.173.181", //EGIHosting
+  "104.164.173.13", //EGIHosting
+  "104.164.173.191", //EGIHosting
+  "104.164.173.187", //EGIHosting
+  "104.164.173.179", //EGIHosting
+  "104.164.126.3", //EGIHosting
+  "104.164.173.159", //EGIHosting
+  "104.164.173.222", //EGIHosting
+  "104.164.173.197", //EGIHosting
+  "104.164.126.144", //EGIHosting
 
 
 
@@ -1337,51 +818,806 @@ $bots['ips'] = [
 
 
 
+  "116.202.35.85", //Hetzner Online GmbH
+  "116.202.33.240", //Hetzner Online GmbH
+  "116.202.33.233", //Hetzner Online GmbH
+  "168.119.76.160", //Hetzner Online GmbH
+  "168.119.76.212", //Hetzner Online GmbH
+  "168.119.76.242", //Hetzner Online GmbH
+  "168.119.76.227", //Hetzner Online GmbH
+  "168.119.76.151", //Hetzner Online GmbH
+  "168.119.76.254", //Hetzner Online GmbH
+  "168.119.76.165", //Hetzner Online GmbH
+  "144.76.22.143", //Hetzner Online GmbH
+  "116.202.35.89", //Hetzner Online GmbH
+  "116.202.35.108", //Hetzner Online GmbH
+  "176.9.32.135", //Hetzner Online GmbH
+  "168.119.76.225", //Hetzner Online GmbH
+  "168.119.76.159", //Hetzner Online GmbH
+  "168.119.76.216", //Hetzner Online GmbH
+  "168.119.76.234", //Hetzner Online GmbH
+  "168.119.76.141", //Hetzner Online GmbH
+  "168.119.76.224", //Hetzner Online GmbH
+  "168.119.76.139", //Hetzner Online GmbH
+  "65.21.158.47", //Hetzner Online GmbH
+  "135.181.214.38", //Hetzner Online GmbH
+  "195.201.111.82", //Hetzner Online GmbH
+  "65.108.3.41", //Hetzner Online GmbH
+  "65.108.31.118", //Hetzner Online GmbH
+  "65.109.155.237", //Hetzner Online GmbH
+  "65.21.136.254", //Hetzner Online GmbH
+  "49.13.2.198", //Hetzner Online GmbH
+  "5.161.204.59", //Hetzner Online GmbH
+  "178.156.144.152", //Hetzner Online GmbH
+  "5.161.48.222", //Hetzner Online GmbH
+  "5.9.50.77", //Hetzner Online GmbH
+  "142.132.248.24", //Hetzner Online GmbH
+  "178.156.188.178", //Hetzner Online GmbH
+  "138.201.205.217", //Hetzner Online GmbH
+  "157.90.127.188", //Hetzner Online GmbH
+  "5.9.94.125", //Hetzner Online GmbH
+  "5.78.26.119", //Hetzner Online GmbH
+  "136.243.146.44", //Hetzner Online GmbH
+  "157.90.121.74", //Hetzner Online GmbH
+  "159.69.111.36", //Hetzner Online GmbH
+  "95.216.99.80", //Hetzner Online GmbH
+  "65.21.113.195", //Hetzner Online GmbH
+  "95.216.23.122", //Hetzner Online GmbH
+  "178.156.149.155", //Hetzner Online GmbH
+  "157.180.88.64", //Hetzner Online GmbH
+  "37.27.51.139", //Hetzner Online GmbH
+  "5.161.70.196", //Hetzner Online GmbH
+  "5.161.237.244", //Hetzner Online GmbH
+  "178.156.178.119", //Hetzner Online GmbH
+  "95.217.133.12", //Hetzner Online GmbH
+  "178.156.218.163", //Hetzner Online GmbH
+  "148.251.108.25", //Hetzner Online GmbH
+  "5.161.219.16", //Hetzner Online GmbH
+  "178.156.234.104", //Hetzner Online GmbH
 
-  "128.199.15.211", //Digital Ocean
-  "207.154.243.139", //Digital Ocean
-  "64.226.124.225", //Digital Ocean
-  "64.226.107.90", //Digital Ocean
-  "207.154.251.79", //Digital Ocean
-  "167.99.171.142", //Digital Ocean
-  "64.23.128.141", //Digital Ocean
-  "138.68.22.173", //Digital Ocean
-  "138.197.212.221", //Digital Ocean
-  "165.232.158.68", //Digital Ocean
-  "167.99.174.172", //Digital Ocean
-  "167.99.96.170", //Digital Ocean
-  "104.248.85.196", //Digital Ocean
-  "167.71.165.183", //Digital Ocean
-  "64.23.133.100", //Digital ocean
-  "178.62.199.25", //Digital ocean
-  "45.55.198.121", //Digital ocean
-  "178.62.199.251", //Digital ocean
-  "167.99.96.170", //Digital ocean
-  "167.99.174.172", //Digital ocean
-  "152.42.140.134", //Digital ocean
-  "178.62.255.53", //Digital ocean
-  "188.166.88.71", //Digital ocean
-  "167.99.7.55", //Digital ocean
-  "192.241.202.214", //Digital ocean
-  "167.172.20.109", //Digital ocean
-  "167.172.20.109", //Digital ocean
-  "206.189.213.202", //Digital ocean
-  "165.227.75.206", //Digital ocean
-  "167.99.113.2", //Digital ocean
-  "143.198.23.152", //Digital ocean
-  "167.71.189.213", //Digital ocean
-  "104.131.188.228", //Digital Ocean
-  "162.243.184.81", //Digital Ocean
-  "159.203.96.207", //Digital Ocean
-  "159.203.130.117", //Digital Ocean
-  "45.55.48.136", //Digital Ocean
-  "138.197.12.167", //Digital Ocean
-  "104.131.164.108", //Digital Ocean
-  "165.227.89.105", //Digital Ocean
-  "104.248.17.176", //Digital Ocean
-  "138.197.83.91", //Digital Ocean
-  "104.131.189.132", //Digital Ocean
+
+
+
+
+
+  "198.46.253.99", //HostPapa
+  "198.23.221.50", //HostPapa
+  "107.173.94.176", //HostPapa
+  "107.174.244.108", //HostPapa
+  "104.168.80.184", //HostPapa
+  "192.210.184.249", //HostPapa
+  "198.23.221.50", //HostPapa
+  "198.23.221.51", //HostPapa
+  "23.229.104.2", //HostPapa
+  "107.172.195.16", //HostPapa
+  "198.12.69.93", //HostPapa
+  "107.172.195.106", //HostPapa
+  "107.172.195.246", //HostPapa
+  "107.172.195.60", //HostPapa
+  "107.172.195.222", //HostPapa
+  "107.172.195.108", //HostPapa
+  "107.172.195.119", //HostPapa
+  "107.172.195.124", //HostPapa
+  "107.172.195.33", //HostPapa
+  "192.210.150.198", //HostPapa
+  "192.210.150.196", //HostPapa
+  "23.229.104.2", //HostPapa
+  "192.210.150.198", //HostPapa
+  "107.172.195.148", //HostPapa
+  "107.173.224.64", //HostPapa
+  "107.172.195.169", //HostPapa
+  "107.172.195.8", //HostPapa
+  "23.229.104.2", //HostPapa
+  "107.172.195.129", //HostPapa
+  "107.172.195.126", //HostPapa
+  "107.172.195.9", //HostPapa
+  "107.172.195.50", //HostPapa
+  "38.152.155.73", //HostPapa
+  "38.152.180.154", //HostPapa
+  "172.245.92.92", //HostPapa
+  "107.175.55.35", //HostPapa
+  "198.46.154.22", //HostPapa
+  "107.172.195.14", //HostPapa
+  "107.172.195.217", //HostPapa
+  "107.172.195.41", //HostPapa
+  "107.172.195.237", //HostPapa
+  "198.12.69.94", //HostPapa
+  "107.172.195.175", //HostPapa
+
+
+
+
+
+
+
+  "161.123.249.116", //HostRoyale Technologies
+  "185.223.56.104", //HostRoyale Technologies
+  "213.188.66.115", //HostRoyale Technologies
+  "193.19.204.4", //HostRoyale Technologies
+  "156.235.66.173", //HostRoyale Technologies
+  "121.91.176.156", //HostRoyale Technologies
+  "45.138.235.140", //HostRoyale Technologies
+  "94.139.224.240", //HostRoyale Technologies
+  "188.215.77.118", //HostRoyale Technologies
+  "45.149.31.116", //HostRoyale Technologies
+  "209.242.212.70", //HostRoyale Technologies
+  "94.139.224.218", //HostRoyale Technologies
+  "94.139.234.71", //HostRoyale Technologies
+  "188.215.76.194", //HostRoyale Technologies
+  "45.144.88.236", //HostRoyale Technologies
+  "209.242.215.33", //HostRoyale Technologies
+  "45.144.90.2", //HostRoyale Technologies
+  "45.144.88.169", //HostRoyale Technologies
+  "94.139.236.40", //HostRoyale Technologies
+  "161.123.147.217", //HostRoyale Technologies
+  "161.123.204.237", //HostRoyale Technologies
+  "185.201.188.24", //HostRoyale Technologies
+  "180.149.229.147", //HostRoyale Technologies
+  "209.242.219.34", //HostRoyale Technologies
+  "168.205.75.92", //HostRoyale Technologies
+  "185.152.39.78", //HostRoyale Technologies
+  "45.89.116.171", //HostRoyale Technologies
+  "94.139.59.252", //HostRoyale Technologies
+  "45.67.6.123", //HostRoyale Technologies
+  "45.134.79.95", //HostRoyale Technologies
+  "140.174.124.126", //HostRoyale Technologies
+  "160.224.70.140", //HostRoyale Technologies
+  "45.41.169.63", //HostRoyale Technologies
+
+
+
+
+
+  "116.204.77.237", //Huawei
+  "116.204.7.15", //Huawei
+  "116.204.99.59", //Huawei
+  "116.204.102.28", //Huawei
+  "121.37.99.73", //Huawei
+  "116.204.98.102", //Huawei
+  "116.204.73.141", //Huawei
+  "113.44.105.92", //Huawei
+  "116.204.72.11", //Huawei
+  "116.204.19.71", //Huawei
+  "121.37.100.105", //Huawei
+  "1.92.219.184", //Huawei
+  "121.37.101.80", //Huawei
+  "116.204.30.197", //Huawei
+  "116.204.69.190", //Huawei
+  "121.37.99.182", //Huawei
+  "116.204.9.84", //Huawei
+  "116.204.98.61", //Huawei
+  "116.204.109.34", //Huawei
+  "202.76.176.170", //Huawei
+  "202.76.165.163", //Huawei
+  "119.8.114.234", //Huawei
+  "122.8.179.0", //Huawei
+  "111.119.206.157", //Huawei
+  "119.13.88.72", //Huawei
+  "94.74.99.251", //Huawei
+  "188.239.11.72", //Huawei
+  "110.238.104.127", //Huawei
+  "202.76.164.175", //Huawei
+  "146.174.182.131", //Huawei
+  "146.174.173.69", //Huawei
+  "146.174.175.65", //Huawei
+  "146.174.166.243", //Huawei
+  "146.174.190.21", //Huawei
+  "146.174.183.90", //Huawei
+  "146.174.166.234", //Huawei
+  "146.174.190.28", //Huawei
+  "146.174.185.9", //Huawei
+  "146.174.166.223", //Huawei
+  "146.174.180.225", //Huawei
+  "146.174.180.127", //Huawei
+  "146.174.165.191", //Huawei
+  "146.174.189.46", //Huawei
+  "146.174.164.98", //Huawei
+  "146.174.177.123", //Huawei
+  "146.174.177.246", //Huawei
+  "146.174.180.211", //Huawei
+  "146.174.180.164", //Huawei
+  "146.174.190.195", //Huawei
+  "202.76.160.145", //Huawei
+  "146.174.181.168", //Huawei
+  "146.174.177.127", //Huawei
+  "146.174.172.139", //Huawei
+  "146.174.183.116", //Huawei
+  "146.174.189.101", //Huawei
+  "146.174.167.210", //Huawei
+  "46.250.169.72", //Huawei
+  "146.174.164.62", //Huawei
+  "146.174.165.93", //Huawei
+  "202.76.167.181", //Huawei
+  "146.174.184.55", //Huawei
+  "202.76.166.99", //Huawei
+  "146.174.174.133", //Huawei
+  "202.76.167.137", //Huawei
+  "146.174.184.213", //Huawei
+  "146.174.172.181", //Huawei
+  "202.76.166.6", //Huawei
+  "202.76.164.128", //Huawei
+  "124.243.191.77", //Huawei
+  "122.8.186.87", //Huawei
+  "159.138.99.167", //Huawei
+  "119.12.173.131", //Huawei
+  "166.108.239.109", //Huawei
+  "124.243.149.196", //Huawei
+  "188.239.46.50", //Huawei
+  "113.44.110.9", //Huawei
+  "116.204.123.112", //Huawei
+  "1.92.222.154", //Huawei
+  "116.204.101.196", //Huawei
+  "1.92.195.92", //Huawei
+  "121.37.118.66", //Huawei
+  "116.204.6.71", //Huawei
+  "116.204.66.123", //Huawei
+  "116.204.99.102", //Huawei
+  "116.204.33.204", //Huawei
+  "121.37.97.239", //Huawei
+  "116.204.115.182", //Huawei
+  "1.92.223.13", //Huawei
+  "116.204.107.13", //Huawei
+  "113.44.115.28", //Huawei
+  "113.44.110.217", //Huawei
+  "116.204.34.64", //Huawei
+  "116.204.37.221", //Huawei
+  "121.37.95.246", //Huawei
+  "116.204.70.50", //Huawei
+  "1.92.200.229", //Huawei
+  "116.204.118.24", //Huawei
+  "116.204.99.3", //Huawei
+  "116.204.117.170", //Huawei
+  "193.37.85.167", //Huawei
+
+
+
+
+
+
+
+
+  "23.106.201.146", //Leaseweb
+  "172.241.235.234", //Leaseweb
+  "23.80.157.86", //Leaseweb
+  "23.19.216.136", //Leaseweb
+  "23.82.104.87", //Leaseweb
+  "23.82.106.181", //Leaseweb
+  "23.81.62.180", //Leaseweb
+  "23.81.62.147", //Leaseweb
+  "23.83.81.2", //Leaseweb
+  "46.165.193.216", //Leaseweb
+  "23.81.61.123", //Leaseweb
+  "23.105.0.154", //Leaseweb
+  "172.241.186.140", //Leaseweb
+  "23.81.63.219", //Leaseweb
+  "23.81.62.209", //Leaseweb
+  "23.106.28.123", //Leaseweb
+  "23.80.146.235", //Leaseweb
+  "23.81.49.243", //Leaseweb
+  "212.95.54.78", //Leaseweb
+  "23.82.186.47", //Leaseweb
+  "23.81.67.112", //Leaseweb
+  "23.106.24.48", //Leaseweb
+  "23.106.22.9", //Leaseweb
+  "23.80.164.4", //Leaseweb
+  "23.80.148.106", //Leaseweb
+  "23.106.193.224", //Leaseweb
+  "23.82.81.142", //Leaseweb
+  "136.0.180.39", //Leaseweb
+  "142.111.161.189", //Leaseweb
+  "23.80.141.104", //Leaseweb
+  "23.80.141.210", //Leaseweb
+
+
+
+
+
+  "103.4.251.75", //M247 Europe
+  "103.4.251.67", //M247 Europe
+  "104.252.191.120", //M247 Europe
+  "103.4.250.33", //M247 Europe
+  "103.196.9.97", //M247 Europe
+  "103.4.251.129", //M247 Europe
+  "103.196.9.43", //M247 Europe
+  "103.196.9.206", //M247 Europe
+  "213.201.163.255", //M247 Europe
+  "104.252.191.163", //M247 Europe
+  "103.4.251.215", //M247 Europe
+  "103.196.9.171", //M247 Europe
+  "145.223.41.56", //M247 Europe
+  "84.37.66.120", //M247 Europe
+  "104.222.169.44", //M247 Europe
+  "103.4.251.144", //M247 Europe
+  "146.70.173.110", //M247 Europe
+  "103.4.250.95", //M247 Europe
+  "103.4.250.15", //M247 Europe
+  "178.171.64.29", //M247 Europe
+  "103.4.250.168", //M247 Europe
+  "103.4.251.120", //M247 Europe
+  "103.4.251.211", //M247 Europe
+  "88.216.35.141", //M247 Europe
+  "103.196.9.207", //M247 Europe
+  "103.4.250.101", //M247 Europe
+  "213.201.140.162", //M247 Europe
+  "103.4.250.102", //M247 Europe
+  "103.4.251.21", //M247 Europe
+  "103.4.250.146", //M247 Europe
+  "103.4.251.198", //M247 Europe
+  "103.196.9.57", //M247 Europe
+  "136.0.25.28", //M247 Europe
+  "103.196.9.124", //M247 Europe
+  "130.195.250.113", //M247 Europe
+  "217.148.140.235", //M247 Europe
+  "103.4.251.64", //M247 Europe
+  "103.4.251.53", //M247 Europe
+  "103.4.251.217", //M247 Europe
+  "103.196.9.167", //M247 Europe
+  "103.4.250.98", //M247 Europe
+  "103.4.251.32", //M247 Europe
+  "103.196.9.133", //M247 Europe
+  "103.4.250.236", //M247 Europe
+  "103.196.9.46", //M247 Europe
+  "103.196.9.227", //M247 Europe
+  "103.4.251.175", //M247 Europe
+  "103.196.9.80", //M247 Europe
+  "103.4.250.166", //M247 Europe
+  "103.196.9.19", //M247 Europe
+  "103.196.9.96", //M247 Europe
+  "103.196.9.237", //M247 Europe
+  "103.4.250.147", //M247 Europe
+  "185.245.85.131", //M247 Europe
+  "193.29.107.107", //M247 Europe
+  "103.196.9.190", //M247 Europe
+  "103.196.9.112", //M247 Europe
+  "103.196.9.70", //M247 Europe
+  "103.4.251.28", //M247 Europe
+  "103.4.250.221", //M247 Europe
+  "146.70.217.107", //M247 Europe
+  "83.143.242.11", //M247 Europe
+  "185.253.96.39", //M247 Europe
+  "173.211.112.50", //M247 Europe
+  "172.111.204.3", //M247 Europe
+  "174.140.237.241", //M247 Europe
+  "174.140.249.114", //M247 Europe
+  "103.4.251.234", //M247 Europe
+  "191.101.6.185", //M247 Europe
+  "91.90.124.10", //M247 Europe
+  "173.211.113.162", //M247 Europe
+  "212.80.200.179", //M247 Europe
+  "194.99.104.232", //M247 Europe
+  "92.240.204.241", //M247 Europe
+  "130.195.250.116", //M247 Europe
+  "154.30.73.158", //M247 Europe
+  "67.227.9.146", //M247 Europe
+  "185.201.129.157", //M247 Europe
+  "103.4.250.69", //M247 Europe
+  "104.252.191.208", //M247 Europe
+  "92.50.30.236", //M247 Europe
+
+
+
+
+
+
+
+  "20.120.134.33", //Microsoft
+  "52.247.239.25", //Microsoft
+  "20.171.207.7", //Microsoft
+  "52.247.239.25", //Microsoft
+  "40.80.158.10", //Microsoft
+  "172.211.8.166", //Microsoft
+  "40.77.167.25", //Microsoft
+  "40.82.178.254", //Microsoft
+  "20.15.133.175", //Microsoft
+
+
+
+  "54.39.104.161", //OVH SAS
+  "51.222.42.127", //OVH SAS
+  "54.39.103.203", //OVH SAS
+  "149.56.25.49", //OVH SAS
+  "54.39.50.77", //OVH SAS
+  "51.161.115.227", //OVH SAS
+  "167.114.1.197", //OVH SAS
+  "51.161.117.63", //OVH SAS
+  "144.217.74.133", //OVH SAS
+  "167.114.173.221", //OVH SAS
+  "158.69.27.238", //OVH SAS
+  "192.99.44.57", //OVH SAS
+  "167.114.101.27", //OVH SAS
+  "167.114.101.27", //OVH SAS
+  "158.69.27.213", //OVH SAS
+  "142.44.136.207", //OVH SAS
+  "158.69.124.235", //OVH SAS
+  "192.99.62.32", //OVH SAS
+  "15.235.114.226", //OVH SAS
+  "54.39.243.52", //OVH SAS
+  "192.99.19.229", //OVH SAS
+  "144.217.255.152", //OVH SAS
+  "167.114.159.149", //OVH SAS
+  "51.161.115.226", //OVH SAS
+  "192.99.101.184", //OVH SAS
+  "167.114.119.164", //OVH SAS
+  "51.222.42.126", //OVH SAS
+  "51.161.84.126", //OVH SAS
+  "142.4.217.87", //OVH SAS
+  "51.161.84.125", //OVH SAS
+  "167.114.1.28", //OVH SAS
+  "51.79.77.186", //OVH SAS
+  "54.39.107.240", //OVH SAS
+  "192.99.232.216", //OVH SAS
+  "158.69.125.158", //OVH SAS
+  "51.79.99.78", //OVH SAS
+  "144.217.252.156", //OVH SAS
+  "54.39.48.97", //OVH SAS
+  "51.79.77.165", //OVH SAS
+  "51.38.135.19", //OVH SAS
+  "54.39.107.63", //OVH SAS
+  "188.165.87.101", //OVH SAS
+  "188.165.87.103", //OVH SAS
+  "188.165.87.106", //OVH SAS
+  "51.91.18.151", //OVH SAS
+  "66.70.240.189", //OVH SAS
+  "69.176.89.192", //OVH SAS
+  "15.204.224.92", //OVH SAS
+  "66.70.240.180", //OVH SAS
+  "178.32.72.220", //OVH SAS
+  "178.32.212.119", //OVH SAS
+  "198.244.133.157", //OVH SAS
+  "178.32.72.219", //OVH SAS
+  "141.94.77.78", //OVH SAS
+  "51.91.255.78", //OVH SAS
+  "141.95.54.59", //OVH SAS
+  "57.129.139.80", //OVH SAS
+  "51.38.187.130", //OVH SAS
+  "151.80.133.55", //OVH SAS
+  "145.239.89.234", //OVH SAS
+  "51.222.167.157", //OVH SAS
+  "141.94.76.134", //OVH SAS
+  "141.94.78.40", //OVH SAS
+  "151.80.133.130", //OVH SAS
+  "51.91.255.135", //OVH SAS
+  "57.129.139.60", //OVH SAS
+  "151.80.133.111", //OVH SAS
+  "51.91.250.17", //OVH SAS
+  "57.129.81.225", //OVH SAS
+  "51.91.254.43", //OVH SAS
+  "57.129.81.227", //OVH SAS
+  "51.38.187.132", //OVH SAS
+  "57.129.81.226", //OVH SAS
+  "57.129.81.228", //OVH SAS
+  "149.202.53.222", //OVH SAS
+  "144.217.135.133", //OVH SAS
+  "144.217.135.219", //OVH SAS
+  "158.69.23.228", //OVH SAS
+  "54.36.232.187", //OVH SAS
+  "193.70.81.189", //OVH SAS
+  "135.125.237.198", //OVH SAS
+  "158.69.120.60", //OVH SAS
+  "37.187.5.192", //OVH SAS
+  "188.165.200.97", //OVH SAS
+  "57.129.81.224", //OVH SAS
+  "144.217.135.240", //OVH SAS
+  "51.81.211.107", //OVH SAS
+  "51.81.210.206", //OVH SAS
+  "51.75.24.242", //OVH SAS
+  "57.129.15.220", //OVH SAS
+  "51.77.211.137", //OVH SAS
+  "51.38.112.81", //OVH SAS
+  "51.68.137.190", //OVH SAS
+  "51.81.209.230", //OVH SAS
+  "135.148.139.201", //OVH SAS
+  "146.59.19.88", //OVH SAS
+  "15.204.231.85", //OVH SAS
+  "51.81.210.22", //OVH SAS
+  "51.81.32.7", //OVH SAS
+  "162.19.253.124", //OVH SAS
+  "51.38.129.30", //OVH SAS
+  "51.81.209.132", //OVH SAS
+  "162.19.253.196", //OVH SAS
+  "217.182.73.176", //OVH SAS
+  "51.38.125.22", //OVH SAS
+  "51.75.23.111", //OVH SAS
+  "151.80.133.171", //OVH SAS
+  "57.129.69.7", //OVH SAS
+  "141.94.79.3", //OVH SAS
+  "51.77.211.39", //OVH SAS
+  "145.239.68.210", //OVH SAS
+  "51.89.164.226", //OVH SAS
+  "51.38.187.112", //OVH SAS
+  "151.80.133.238", //OVH SAS
+  "145.239.83.37", //OVH SAS
+  "54.36.108.162", //OVH SAS
+  "51.75.18.6", //OVH SAS
+  "51.77.211.229", //OVH SAS
+  "57.129.69.52", //OVH SAS
+  "51.77.210.64", //OVH SAS
+  "51.77.211.191", //OVH SAS
+  "51.68.143.45", //OVH SAS
+  "51.38.225.46", //OVH SAS
+  "198.50.212.160", //OVH SAS
+  "51.89.204.82", //OVH SAS
+  "146.59.126.232", //OVH SAS
+  "57.129.2.8", //OVH SAS
+  "54.37.19.39", //OVH SAS
+  "79.137.26.213", //OVH SAS
+  "54.37.255.38", //OVH SAS
+
+
+
+
+
+  "154.28.229.215", //QuickPacket
+  "154.28.229.100", //QuickPacket
+  "154.28.229.158", //QuickPacket
+  "154.28.229.64", //QuickPacket
+  "154.28.229.242", //QuickPacket
+  "154.28.229.7", //QuickPacket
+  "154.28.229.43", //QuickPacket
+  "154.28.229.154", //QuickPacket
+  "154.28.229.203", //QuickPacket
+  "104.153.81.197", //QuickPacket
+  "154.28.229.155", //QuickPacket
+  "104.153.81.161", //QuickPacket
+  "154.30.97.86", //QuickPacket
+  "154.30.97.84", //QuickPacket
+  "154.30.97.206", //QuickPacket
+  "154.30.96.244", //QuickPacket
+  "154.30.99.245", //QuickPacket
+  "154.28.229.245", //QuickPacket
+  "154.28.229.44", //QuickPacket
+  "154.28.229.148", //QuickPacket
+  "154.28.229.48", //QuickPacket
+  "154.28.229.92", //QuickPacket
+  "154.28.229.91", //QuickPacket
+  "154.28.229.181", //QuickPacket
+
+
+
+
+
+
+  "154.28.229.215", //QuickPacket
+  "154.28.229.100", //QuickPacket
+  "154.28.229.158", //QuickPacket
+  "154.28.229.64", //QuickPacket
+  "154.28.229.242", //QuickPacket
+  "154.28.229.7", //QuickPacket
+  "154.28.229.43", //QuickPacket
+  "154.28.229.154", //QuickPacket
+  "154.28.229.203", //QuickPacket
+  "104.153.81.197", //QuickPacket
+  "154.28.229.155", //QuickPacket
+  "104.153.81.161", //QuickPacket
+  "154.30.97.86", //QuickPacket
+  "154.30.97.84", //QuickPacket
+  "154.30.97.206", //QuickPacket
+  "154.30.96.244", //QuickPacket
+  "154.30.99.245", //QuickPacket
+  "154.28.229.245", //QuickPacket
+  "154.28.229.44", //QuickPacket
+  "154.28.229.148", //QuickPacket
+  "154.28.229.48", //QuickPacket
+  "154.28.229.92", //QuickPacket
+  "154.28.229.91", //QuickPacket
+  "154.28.229.181", //QuickPacket
+
   
+
+
+
+
+  "43.153.48.240", //Shenzhen
+  "43.130.32.245", //Shenzhen
+  "43.157.168.43", //Shenzhen
+  "43.130.106.18", //Shenzhen
+  "43.165.65.180", //Shenzhen
+  "43.166.1.243", //Shenzhen
+  "43.167.239.66", //Shenzhen
+  "43.130.106.18", //Shenzhen
+  "43.130.154.56", //Shenzhen
+  "43.135.145.73", //Shenzhen
+  "43.153.15.51", //Shenzhen
+  "43.130.91.95", //Shenzhen
+  "43.130.174.37", //Shenzhen
+  "43.131.243.61", //Shenzhen
+  "43.156.202.34", //Shenzhen
+  "43.153.192.98", //Shenzhen
+  "43.130.228.73", //Shenzhen
+  "43.153.73.200", //Shenzhen
+  "43.130.72.40", //Shenzhen
+  "43.157.62.101", //Shenzhen
+  "43.158.91.71", //Shenzhen
+  "43.130.150.80", //Shenzhen
+  "43.153.15.51", //Shenzhen
+  "43.130.105.21", //Shenzhen
+  "101.32.15.141", //Shenzhen
+  "43.130.105.21", //Shenzhen
+  "43.159.149.56", //Shenzhen
+  "43.135.182.95", //Shenzhen
+  "43.135.145.73", //Shenzhen
+  "43.130.57.46", //Shenzhen
+  "47.79.197.27", //Shenzhen
+  "47.79.6.175", //Shenzhen
+  "43.157.149.188", //Shenzhen
+  "43.153.71.12", //Shenzhen
+  "43.133.187.11", //Shenzhen
+  "43.130.34.74", //Shenzhen
+  "43.135.185.59", //Shenzhen
+  "43.167.241.46", //Shenzhen
+  "43.130.15.147", //Shenzhen
+  "43.155.129.131", //Shenzhen
+  "43.164.196.57", //Shenzhen
+  "43.135.172.89", //Shenzhen
+  "43.135.134.127", //Shenzhen
+  "43.153.27.244", //Shenzhen
+  "43.156.228.27", //Shenzhen
+  "43.135.142.37", //Shenzhen
+  "43.153.86.78", //Shenzhen
+  "43.134.0.156", //Shenzhen
+  "43.157.111.230", //Shenzhen
+  "43.157.122.183", //Shenzhen
+  "43.155.39.204", //Shenzhen
+  "43.163.8.133", //Shenzhen
+  "43.153.193.115", //Shenzhen
+  "43.157.53.115", //Shenzhen
+  "43.130.9.111", //Shenzhen
+  "43.130.60.195", //Shenzhen
+  "43.135.142.37", //Shenzhen
+  "43.157.50.58", //Shenzhen
+  "43.153.79.218", //Shenzhen
+  "43.165.70.220", //Shenzhen
+  "43.153.35.128", //Shenzhen
+  "43.155.157.239", //Shenzhen
+  "43.157.148.38", //Shenzhen
+  "43.154.140.188", //Shenzhen
+  "43.133.220.37", //Shenzhen
+  "43.135.140.225", //Shenzhen
+  "101.33.55.204", //Shenzhen
+  "43.153.85.46", //Shenzhen
+  "43.156.232.190", //Shenzhen
+  "43.130.53.252", //Shenzhen
+  "43.157.175.122", //Shenzhen
+  "43.156.168.214", //Shenzhen
+  "43.163.104.54", //Shenzhen
+  "43.155.162.41", //Shenzhen
+  "43.159.135.203", //Shenzhen
+  "43.157.38.131", //Shenzhen
+  "43.159.132.207", //Shenzhen
+  "43.135.148.92", //Shenzhen
+  "43.153.10.83", //Shenzhen
+  "43.159.141.150", //Shenzhen
+  "43.153.104.196", //Shenzhen
+  "43.155.195.141", //Shenzhen
+  "43.130.12.43", //Shenzhen
+  "43.153.113.127", //Shenzhen
+  "43.157.156.190", //Shenzhen
+  "43.157.22.109", //Shenzhen
+  "43.159.145.153", //Shenzhen
+  "43.130.141.193", //Shenzhen
+  "43.157.174.69", //Shenzhen
+  "43.157.38.228", //Shenzhen
+  "43.130.100.35", //Shenzhen
+  "43.130.26.3", //Shenzhen
+  "43.130.101.151", //Shenzhen
+  "43.157.170.13", //Shenzhen
+  "43.128.149.102", //Shenzhen
+  "43.157.188.74", //Shenzhen
+  "43.157.188.74", //Shenzhen
+  "43.159.143.187", //Shenzhen
+  "43.154.250.181", //Shenzhen
+  "43.130.74.193", //Shenzhen
+  "43.157.52.37", //Shenzhen
+  "43.153.87.54", //Shenzhen
+  "43.159.145.149", //Shenzhen
+  "43.153.96.79", //Shenzhen
+  "43.153.87.54", //Shenzhen
+  "43.130.39.254", //Shenzhen
+  "43.153.10.13", //Shenzhen
+  "43.130.139.136", //Shenzhen
+  "43.130.67.6", //Shenzhen
+  "43.157.180.116", //Shenzhen
+  "43.135.145.117", //Shenzhen
+  "43.135.182.43", //Shenzhen
+  "43.152.72.244", //Shenzhen
+  "43.157.142.101", //Shenzhen
+  "43.135.145.117", //Shenzhen
+  "43.157.191.20", //Shenzhen
+  "43.163.206.70", //Shenzhen
+  "43.130.40.120", //Shenzhen
+  "43.165.135.242", //Shenzhen
+  "43.159.152.184", //Shenzhen
+  "43.135.130.202", //Shenzhen
+  "43.157.170.126", //Shenzhen
+  "43.130.102.223", //Shenzhen
+  "43.164.197.224", //Shenzhen
+  "43.164.195.17", //Shenzhen
+  "43.153.54.138", //Shenzhen
+  "43.135.133.241", //Shenzhen
+  "43.130.40.120", //Shenzhen
+  "223.104.70.79", //Shenzhen
+  "43.167.236.228", //Shenzhen
+  "43.157.172.39", //Shenzhen
+  "43.165.135.242", //Shenzhen
+  "43.159.149.216", //Shenzhen
+  "43.167.245.18", //Shenzhen
+  "43.130.131.18", //Shenzhen
+  "43.164.197.177", //Shenzhen
+  "43.154.127.188", //Shenzhen
+  "43.130.57.76", //Shenzhen
+  "43.153.122.30", //Shenzhen
+  "43.167.236.228", //Shenzhen
+  "43.157.181.189", //Shenzhen
+  "43.128.156.124", //Shenzhen
+  "43.156.204.134", //Shenzhen
+  "43.135.142.7", //Shenzhen
+  "43.157.179.227", //Shenzhen
+  "43.130.67.33", //Shenzhen
+  "43.156.109.53", //Shenzhen
+  "43.135.186.135", //Shenzhen
+  "43.130.37.243", //Shenzhen
+  "43.157.191.20", //Shenzhen
+  "43.130.3.120", //Shenzhen
+  "43.153.135.208", //Shenzhen
+  "43.157.150.69", //Shenzhen
+  "43.159.136.201", //Shenzhen
+  "43.135.144.126", //Shenzhen
+  "43.153.19.83", //Shenzhen
+  "43.157.181.189", //Shenzhen
+  "43.131.253.14", //Shenzhen
+  "43.153.135.208", //Shenzhen
+  "43.153.54.14", //Shenzhen
+  "43.157.147.3", //Shenzhen
+  "43.166.7.113", //Shenzhen
+  "43.157.180.116", //Shenzhen
+  "43.153.62.161", //Shenzhen
+  "43.128.100.220", //Shenzhen
+  "43.153.36.110", //Shenzhen
+  "43.130.16.140", //Shenzhen
+  "43.155.27.244", //Shenzhen
+  "43.153.123.3", //Shenzhen
+  "43.130.31.17", //Shenzhen
+  "43.135.87.236", //Shenzhen
+  "43.154.129.169", //Shenzhen
+  "43.130.78.203", //Shenzhen
+  "43.159.143.139", //Shenzhen
+  "43.157.98.187", //Shenzhen
+  "43.153.71.132", //Shenzhen
+  "43.153.47.201", //Shenzhen
+
+
+
+
+
+
+  "45.148.10.159", //Techoff
+  "45.148.10.247", //Techoff
+  "45.148.10.160", //Techoff
+  "195.178.110.108", //Techoff
+  "45.148.10.143", //Techoff
+  "195.178.110.155", //Techoff
+  "195.178.110.131", //Techoff
+  "195.178.110.110", //Techoff
+  "195.178.110.109", //Techoff
+  "45.148.10.203", //Techoff
+  "45.148.10.166", //Techoff
+  "45.148.10.111", //Techoff
+  "93.123.109.116", //Techoff
+  "193.32.162.96", //Techoff
+  "93.123.109.44", //Techoff
+  "195.178.110.199", //Techoff
+  "45.148.10.244", //Techoff
+  "45.148.10.231", //Techoff
+  "195.178.110.192", //Techoff
+  "45.148.10.154", //Techoff
+  "45.148.10.99", //Techoff
+  "45.148.10.95", //Techoff
+
+
+
+
+
+
 
 
 
@@ -1667,169 +1903,20 @@ $bots['ips'] = [
   "49.51.72.76", //Tencent
   "49.51.166.228", //Tencent
   "49.51.233.95", //Tencent
-  
-
-
-
-  "191.96.87.109", //Datacamp
-  "89.37.63.161", //Datacamp
-  "149.40.62.27", //Datacamp
-  "181.215.65.136", //Datacamp
-  "89.37.63.82", //Datacamp
-  "98.159.233.53", //Datacamp
-  "37.19.221.152", //Datacamp
-  "45.134.213.218", //Datacamp
-  "79.127.185.10", //Datacamp
-  "185.81.124.190", //Datacamp
-  "45.95.13.97", //Datacamp
-  "64.137.49.123", //Datacamp
-  "45.38.195.41", //Datacamp
-  "103.210.198.130", //Datacamp
-  "84.39.151.171", //Datacamp
-  "185.156.46.98", //Datacamp
-  "84.39.151.54", //Datacamp
-  "84.39.151.163", //Datacamp
-  "84.39.151.172", //Datacamp
-  "212.102.51.112", //Datacamp
-  "79.127.136.196", //Datacamp
-  "62.93.178.170", //Datacamp
-  "149.102.227.14", //Datacamp
-  "149.36.48.150", //Datacamp
-  "154.47.25.154", //Datacamp
-  "149.22.94.10", //Datacamp
-  "212.104.215.33", //Datacamp
-  "181.214.85.84", //Datacamp
-  "102.129.223.92", //Datacamp
-  "79.127.181.23", //Datacamp
-  "143.244.39.22", //Datacamp
-  "170.62.228.23", //Datacamp
-  "156.146.60.146", //Datacamp
-  "149.102.236.204", //Datacamp
-  "69.176.90.254", //Datacamp
-  "69.176.91.175", //Datacamp
-  "149.88.22.139", //Datacamp
-  "138.199.6.230", //Datacamp
-  "154.47.16.57", //Datacamp
-  "84.37.183.154", //Datacamp
-
-
-
-  "23.106.201.146", //Leaseweb
-  "172.241.235.234", //Leaseweb
-  "23.80.157.86", //Leaseweb
-  "23.19.216.136", //Leaseweb
-  "23.82.104.87", //Leaseweb
-  "23.82.106.181", //Leaseweb
-  "23.81.62.180", //Leaseweb
-  "23.81.62.147", //Leaseweb
-  "23.83.81.2", //Leaseweb
-  "46.165.193.216", //Leaseweb
-  "23.81.61.123", //Leaseweb
-  "23.105.0.154", //Leaseweb
-  "172.241.186.140", //Leaseweb
-  "23.81.63.219", //Leaseweb
-  "23.81.62.209", //Leaseweb
-  "23.106.28.123", //Leaseweb
-  "23.80.146.235", //Leaseweb
-  "23.81.49.243", //Leaseweb
-  "212.95.54.78", //Leaseweb
-  "23.82.186.47", //Leaseweb
-  "23.81.67.112", //Leaseweb
-  "23.106.24.48", //Leaseweb
-  "23.106.22.9", //Leaseweb
-  "23.80.164.4", //Leaseweb
-  "23.80.148.106", //Leaseweb
-  "23.106.193.224", //Leaseweb
-  "23.82.81.142", //Leaseweb
-  "136.0.180.39", //Leaseweb
-  "142.111.161.189", //Leaseweb
-  "23.80.141.104", //Leaseweb
-  "23.80.141.210", //Leaseweb
+  "101.33.66.34", //Tencent
 
 
 
 
-  "103.4.251.75", //M247 Europe
-  "103.4.251.67", //M247 Europe
-  "104.252.191.120", //M247 Europe
-  "103.4.250.33", //M247 Europe
-  "103.196.9.97", //M247 Europe
-  "103.4.251.129", //M247 Europe
-  "103.196.9.43", //M247 Europe
-  "103.196.9.206", //M247 Europe
-  "213.201.163.255", //M247 Europe
-  "104.252.191.163", //M247 Europe
-  "103.4.251.215", //M247 Europe
-  "103.196.9.171", //M247 Europe
-  "145.223.41.56", //M247 Europe
-  "84.37.66.120", //M247 Europe
-  "104.222.169.44", //M247 Europe
-  "103.4.251.144", //M247 Europe
-  "146.70.173.110", //M247 Europe
-  "103.4.250.95", //M247 Europe
-  "103.4.250.15", //M247 Europe
-  "178.171.64.29", //M247 Europe
-  "103.4.250.168", //M247 Europe
-  "103.4.251.120", //M247 Europe
-  "103.4.251.211", //M247 Europe
-  "88.216.35.141", //M247 Europe
-  "103.196.9.207", //M247 Europe
-  "103.4.250.101", //M247 Europe
-  "213.201.140.162", //M247 Europe
-  "103.4.250.102", //M247 Europe
-  "103.4.251.21", //M247 Europe
-  "103.4.250.146", //M247 Europe
-  "103.4.251.198", //M247 Europe
-  "103.196.9.57", //M247 Europe
-  "136.0.25.28", //M247 Europe
-  "103.196.9.124", //M247 Europe
-  "130.195.250.113", //M247 Europe
-  "217.148.140.235", //M247 Europe
-  "103.4.251.64", //M247 Europe
-  "103.4.251.53", //M247 Europe
-  "103.4.251.217", //M247 Europe
-  "103.196.9.167", //M247 Europe
-  "103.4.250.98", //M247 Europe
-  "103.4.251.32", //M247 Europe
-  "103.196.9.133", //M247 Europe
-  "103.4.250.236", //M247 Europe
-  "103.196.9.46", //M247 Europe
-  "103.196.9.227", //M247 Europe
-  "103.4.251.175", //M247 Europe
-  "103.196.9.80", //M247 Europe
-  "103.4.250.166", //M247 Europe
-  "103.196.9.19", //M247 Europe
-  "103.196.9.96", //M247 Europe
-  "103.196.9.237", //M247 Europe
-  "103.4.250.147", //M247 Europe
-  "185.245.85.131", //M247 Europe
-  "193.29.107.107", //M247 Europe
-  "103.196.9.190", //M247 Europe
-  "103.196.9.112", //M247 Europe
-  "103.196.9.70", //M247 Europe
-  "103.4.251.28", //M247 Europe
-  "103.4.250.221", //M247 Europe
-  "146.70.217.107", //M247 Europe
-  "83.143.242.11", //M247 Europe
-  "185.253.96.39", //M247 Europe
-  "173.211.112.50", //M247 Europe
-  "172.111.204.3", //M247 Europe
-  "174.140.237.241", //M247 Europe
-  "174.140.249.114", //M247 Europe
-  "103.4.251.234", //M247 Europe
-  "191.101.6.185", //M247 Europe
-  "91.90.124.10", //M247 Europe
-  "173.211.113.162", //M247 Europe
-  "212.80.200.179", //M247 Europe
-  "194.99.104.232", //M247 Europe
-  "92.240.204.241", //M247 Europe
-  "130.195.250.116", //M247 Europe
-  "154.30.73.158", //M247 Europe
-  "67.227.9.146", //M247 Europe
-  "185.201.129.157", //M247 Europe
-  "103.4.250.69", //M247 Europe
-  "104.252.191.208", //M247 Europe
-  "92.50.30.236", //M247 Europe
+
+
+  "68.235.46.197", //tzulo.inc
+  "23.234.69.223", //tzulo.inc
+  "23.234.97.76", //tzulo.inc
+  "68.235.46.168", //tzulo.inc
+  "68.235.46.135", //tzulo.inc
+  "23.234.109.94", //tzulo.inc
+
 
 
 
@@ -1857,51 +1944,11 @@ $bots['ips'] = [
 
 
 
-
   "93.152.210.197", //cyberzonehub.com
   "93.152.210.204", //cyberzonehub.com
   "93.152.210.187", //cyberzonehub.com
-
-
-
-
-
-  "172.225.246.33", //Akamai
-  "172.225.251.25", //Akamai
-  "172.226.116.21", //Akamai
-  "172.104.243.155", //Akamai
-  "172.233.93.156", //Akamai
-
-
-
-
-
-  "20.120.134.33", //Microsoft
-  "52.247.239.25", //Microsoft
-  "20.171.207.7", //Microsoft
-  "52.247.239.25", //Microsoft
-  "40.80.158.10", //Microsoft
-  "172.211.8.166", //Microsoft
-  "40.77.167.25", //Microsoft
-  "40.82.178.254", //Microsoft
-  "20.15.133.175", //Microsoft
-  
-
-
-  "68.235.46.197", //tzulo.inc
-  "23.234.69.223", //tzulo.inc
-  "23.234.97.76", //tzulo.inc
-  "68.235.46.168", //tzulo.inc
-  "68.235.46.135", //tzulo.inc
-  "23.234.109.94", //tzulo.inc
-
-
-
-
-
   "195.210.4.1", //Bitdefender SRL
   "99.255.100.228", //projectsdomain.org
-  "2a06:98c0:3600::103", //Cloudflare
   "84.201.183.13", //Yandex
   "141.98.11.115", //UAB Host Baltic
 
