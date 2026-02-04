@@ -994,7 +994,6 @@ $bots['ips'] = [
   "160.224.70.140", //HostRoyale Technologies
   "45.41.169.63", //HostRoyale Technologies
   "45.157.187.231", //HostRoyale
-PnC
 
 
 
