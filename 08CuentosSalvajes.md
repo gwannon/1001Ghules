@@ -4,7 +4,7 @@ Aquí te presentamos 4 aventuras largas que te permitirán conocer y explorar es
 
 * **El Pequeño Consejo:** Como pillastres de las calles de Bagdad que descubren un terrible secreto que amenaza a la ciudad y sus gentes.
 * **Más allá de la Ciudad de Bronce:** Un largo viaje conociendo las maravillas y las pesadillas que habitan en este mundo.
-* **La llega del cometa:** Combatiendo a una terrible secta que busca traer a su maligno y poderoso dios a la tierra.
+* **La llegada del cometa:** Combatiendo a una terrible secta que busca traer a su maligno y poderoso dios a la tierra.
 * **La caída de Giafar:** El destino de visir Giafar está sellado desde hace años. Él lo sale y lo acepta, pero igual tus schahriars piensan de manera distinta.
 
 Además, dispondrás de pequeñas aventuras que podrás intercalar dentro de las tramas principales.
