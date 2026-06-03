@@ -127,6 +127,7 @@ $bots['ips'] = [
   "84.201.183.13", //Yandex
   "141.98.11.115", //UAB Host Baltic
   "195.3.222.212", //Intento de hackeo
+  "147.182.235.105", //RPG-Trader cargador de ficheros.
 
   //Comcast Cable Communications ----------------
   "73.220.8.120","73.66.128.97", //Caso raro Comcast itch.io
