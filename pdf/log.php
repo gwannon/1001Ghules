@@ -51,6 +51,12 @@ $bots['ips'] = [
   "35.189.161.1", //Google LLC
   "34.175.95.136", //Google LLC
   "34.138.240.69", //Google LLC
+"34.175.244.43", //Google LLC
+  "34.107.37.81", //Google LLC
+  "136.70.106.27", //Google LLC
+  "34.121.199.159", //Google LLC
+  "34.32.71.54", //Google LLC
+  "34.26.80.225", //Google LLC
 
 
   //Hetzner Online GmbH ----------------------------
