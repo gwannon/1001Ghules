@@ -675,7 +675,7 @@ Una ley del califa para que su ejército ataque a un enemigo puede hacer que est
 
 #### Harún Al-Raschid, Califa de Bagdad
 
-Harún Al-Raschid es un niño caprichoso y bobo en el cuerpo de un Califa dueño de medio mundo. Es celoso, caprichoso y rencoroso. En definitiva, es un caso claro de síndrome de Peter Pan. 
+Harún Al-Raschid es un niño malcriado y bobo en el cuerpo de un Califa dueño de medio mundo. Es celoso, caprichoso y rencoroso. En definitiva, es un caso claro de síndrome de Peter Pan. 
 
 Solo su tremenda suerte le han librado de muchos problemas, suerte que empezó con la muerte de su hermano mayor que iba a ser el futuro Califa. A partir de ese momento la providencia le ha sonreído en todo lo que ha intentado por muy loco que fuera.
 
