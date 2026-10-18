@@ -154,7 +154,7 @@ $bots['ips'] = [
   "141.98.11.115", //UAB Host Baltic
   "195.3.222.212", //Intento de hackeo
   "147.182.235.105", //RPG-Trader cargador de ficheros
-  "5.102.169.29", //CustodianDC Limited / Custdc Jssec / AS50300 CustodianDC Limited Muchos intentos en pocos tiempo.
+  "5.102.169.29","5.102.169.102", //CustodianDC Limited / Custdc Jssec / AS50300 CustodianDC Limited Muchos intentos en pocos tiempo.
   "185.177.72.50", //Intento de hack
 
   //My IP -------------------------------
