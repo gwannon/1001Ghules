@@ -174,6 +174,7 @@ if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
 
 $ips = [];
 $json["total"] = 1503;
+$json["descargas"] = [];
 $lines = explode("\n", file_get_contents (__DIR__."/log.txt"));
 foreach ($lines as $line) {
   if($line != '') {
