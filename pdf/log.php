@@ -2,7 +2,7 @@
 
 ini_set("display_errors", 0);
 
-include("./ips.php");
+include(__DIR__."/ips.php");
 
 if(isset($_REQUEST['bots']) && $_REQUEST['bots'] != '') {
   echo json_encode($bots);
