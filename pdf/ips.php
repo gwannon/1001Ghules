@@ -172,7 +172,7 @@ $bots['ips'] = [
 
 ];
 
-$copias = [];
+/*$copias = [];
 
 foreach ($bots['ips'] as $ip) {
   $temp = explode('.', $ip);
@@ -188,6 +188,6 @@ foreach ($copias as $label => $count) {
   if($count > 7) {
     echo '"'.$label . '.([0-9]*).([0-9]*)", ' . $count . "\n";
   }
-}
+}*/
 
 //print_r(array_diff_assoc($bots['ips'], array_unique($bots['ips'])));
