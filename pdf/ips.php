@@ -168,6 +168,7 @@ $bots['ips'] = [
   "147.182.235.105", //RPG-Trader cargador de ficheros
   "5.102.169.29","5.102.169.102", //CustodianDC Limited / Custdc Jssec / AS50300 CustodianDC Limited Muchos intentos en pocos tiempo.
   "185.177.72.50", //Intento de hack
+  "127.0.0.1", //Localhost
 
 ];
 
